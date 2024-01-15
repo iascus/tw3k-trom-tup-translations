@@ -327,7 +327,7 @@ effect_bundles_localised_title_hv_script_effect_bundle_lu_bu_legacy,呂布殘黨
 effect_bundles_localised_description_hv_script_effect_bundle_white_tiger_cap,强大的白虎與我們同在。,TRUE
 effect_bundles_localised_description_hv_script_effect_bundle_yuan_shu_legacy,袁術勢力的餘黨加入我方。,TRUE
 effect_bundles_localised_description_hv_script_effect_bundle_lu_bu_legacy,呂布勢力的餘黨加入我方。,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 effects_description_hv_dummy_effect_white_tiger_warriors_unlock,為嚴白虎解鎖單位：{{tr:hv_unit_white_tiger_warriors}},FALSE
 effects_description_hv_dummy_effect_hidden_snakes_unlock,解鎖單位：{{tr:hv_unit_hidden_snakes}},FALSE
 effects_description_hv_dummy_effect_rapid_tigers_unlock,解鎖單位：{{tr:hv_unit_rapid_tigers}},FALSE
@@ -339,7 +339,7 @@ effects_description_hv_effect_mass_cavalry,騎兵單位質量 [[b]]%+n%[[/b]],TR
 effects_description_hv_effect_pooled_resource_ma_teng_decay_rate_1,%-n 養馬衰退,TRUE
 effects_description_hv_effect_ma_teng_cavalry_unique_ability,解鎖騎兵單位一個特殊能力,TRUE
 effects_description_hv_effect_pooled_resource_ma_teng_buildings,養馬 [[b]]%+n[[/b]],TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 effects_description_hv_effect_pooled_resource_zhang_yan_from_battles,黑山 [[b]]%+n[[/b]],TRUE
 effects_description_hv_effect_pooled_resource_zhang_yan_decay_rate_1,%-n 黑山衰退,TRUE
 effects_description_hv_effect_black_mountain_upkeep,黑山匪徒單位維持費 [[b]]%+n%[[/b]],TRUE
@@ -349,7 +349,7 @@ effects_description_hv_effect_black_mountain_charge_bonus_mod,黑山匪徒單位
 effects_description_hv_effect_black_mountain_replenishment,黑山匪徒單位補員速率 [[b]]%+n%[[/b]],TRUE
 effects_description_hv_effect_black_mountain_unique_ability,解鎖黑山匪徒單位特殊能力,TRUE
 effects_description_hv_effect_pooled_resource_zhang_yan_buildings,黑山 [[b]]%+n[[/b]],TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ma_teng_0,養馬：不足,TRUE
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ma_teng_1,養馬：普通,TRUE
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ma_teng_2,養馬：有餘,TRUE
@@ -360,7 +360,7 @@ effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ma_teng_1
 effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ma_teng_2,有足夠多的馬匹。,TRUE
 effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ma_teng_3,不缺好马。,TRUE
 effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ma_teng_4,戰馬的數量與質量皆無與倫比！,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_zhang_yan_0,黑山：四散而逃,TRUE
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_zhang_yan_1,黑山：量小力微,TRUE
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_zhang_yan_2,黑山：同心協力,TRUE
@@ -371,7 +371,7 @@ effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_zhang_yan
 effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_zhang_yan_2,起家微薄亦可立業有成。,TRUE
 effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_zhang_yan_3,兵多將廣，可成大事。,TRUE
 effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_zhang_yan_4,四海之内，莫非黑山。,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_gongsun_zan_0,軍政：尚未實行,TRUE
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_gongsun_zan_1,軍政：初試鋒芒,TRUE
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_gongsun_zan_2,軍政：不可小覷,TRUE
@@ -382,10 +382,10 @@ effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_gongsun_z
 effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_gongsun_zan_2,以軍隊的效率治理領地。,TRUE
 effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_gongsun_zan_3,軍事統治已成效斐然。,TRUE
 effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_gongsun_zan_4,以軍治國，軍國一體。,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 effect_bundles_localised_title_hv_effect_bundle_garrison_construction_gongsun_zan,軍事控制,FALSE
 effect_bundles_localised_description_hv_effect_bundle_garrison_construction_gongsun_zan,駐軍會協助縣內行政事宜。,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 effects_description_hv_effect_pooled_resource_gongsun_zan_decay_rate_1,%-n 軍政衰退,FALSE
 effects_description_hv_effect_pooled_resource_gongsun_zan_buildings,每回合軍政 [[b]]%+n[[/b]],FALSE
 effects_description_hv_effect_pooled_resource_gongsun_zan_garrison,每回合軍政 [[b]]%+n[[/b]],FALSE
@@ -653,12 +653,12 @@ effects_description_3k_main_effect_unit_stats_unit_hit_chance,命中率加成 [[
 unit_stat_localisations_tooltip_text_stat_melee_attack,[[b]]近戰命中加成[[/b]]\\n\\n 通過降低敵人的近戰回避，增加單位在任何時候的命中率。,TRUE
 unit_stat_localisations_tooltip_text_stat_melee_defence,[[b]]近戰迴避[[/b]]\\n\\n 此能力值會提高閃避正面與側面近戰傷害的機率。敵人的衝鋒加成會降低此能力值。,TRUE
 unit_stat_localisations_tooltip_text_stat_armour,[[b]]護甲[[/b]]\\n\\n 減少單位受到的標準近戰傷害、遠程傷害以及爆炸傷害。無法防禦穿甲傷害。,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 uied_component_texts_localised_string_bullet_point_2_NewState_Text_54004a,孫策勢力中每位人物在達到5級后均會與他分享專長點。在9級、12級和15級時他們分別會產生一個額外的點數。,FALSE
 uied_component_texts_localised_string_bullet_point_2_NewState_Text_54004aa,孫策勢力中每位人物在達到5級后均會與他分享專長點。在9級、12級和15級時他們分別會產生一個額外的點數。,FALSE
 ceo_equipped_set_bonuses_title_3k_main_item_set_lord_of_fire,戰場之王,FALSE
 ceo_equipped_set_bonuses_description_3k_main_item_set_lord_of_fire,戰場即是您的舞臺。,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_advanced,勢力級別達到侯,FALSE
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_basic,伯爵,FALSE
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_dan_yang,陶謙餘部,FALSE
@@ -720,7 +720,7 @@ dilemmas_localised_title_hv_dilemma_budda,佛教傳入,FALSE
 campaign_payload_ui_details_description_hv_event_budda_unlock,您現在可以招募：{{tr:hv_unit_warrior_monks}},FALSE
 incidents_localised_title_hv_event_follower_officer,委任,FALSE
 incidents_localised_description_hv_event_follower_officer,亂世出豪傑。新進的一名隨從可管理一隻特殊軍隊。,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 incidents_localised_title_hv_incident_sogd,粟特商人來訪,FALSE
 incidents_localised_description_hv_incident_sogd,自西域而來的粟特商人出現在我方境内。我們很快就能買到精美商品，或者雇傭粟特傭兵。,FALSE
 dilemmas_localised_title_hv_dilemma_sogd,粟特商人,FALSE
@@ -741,7 +741,7 @@ cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_cai_yanSECO
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_cai_yanFIRST,蔡文姬獲救。,FALSE
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_cai_yanSECOND,拒絕,FALSE
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_cai_yanFIRST,接受,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 incidents_localised_title_hv_incident_xiliang_army,西涼戰士,FALSE
 incidents_localised_description_hv_incident_xiliang_army,一名西涼校尉加入您的勢力。,FALSE
 campaign_payload_ui_details_description_hv_incident_xiliang_army,您現在可以招募：西涼單位,FALSE
@@ -757,7 +757,7 @@ campaign_payload_ui_details_description_hv_incident_ironfist_army,您現在可�
 incidents_localised_title_hv_incident_education,學術進步,FALSE
 incidents_localised_description_hv_incident_education,由於您對學者和人才的贊助，您的官員在啓蒙的道路上取得了進步。,FALSE
 campaign_payload_ui_details_description_hv_incident_education,您的一些官員獲得額外經驗。,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 incidents_localised_title_hv_event_follower_officer_yuan,委任,FALSE
 incidents_localised_description_hv_event_follower_officer_yuan,亂世出豪傑。新進的一名隨從可管理一隻特殊軍隊。,FALSE
 incidents_localised_title_hv_event_follower_officer_white_horse,委任,FALSE
@@ -768,12 +768,12 @@ incidents_localised_title_hv_event_follower_officer_white_horse_forced,委任,FA
 incidents_localised_description_hv_event_follower_officer_white_horse_forced,亂世出豪傑。新進的一名隨從可管理一隻特殊軍隊。,FALSE
 incidents_localised_title_hv_event_follower_officer_yuan_2_forced,委任,FALSE
 incidents_localised_description_hv_event_follower_officer_yuan_2_forced,亂世出豪傑。新進的一名隨從可管理一隻特殊軍隊。,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 incidents_localised_title_hv_incident_chunyu_qiong,淳于瓊不再酗酒,FALSE
 incidents_localised_description_hv_incident_chunyu_qiong,淳于瓊終於想通了！他不再是個酒鬼，而是個能帶兵的將領。,FALSE
 effect_bundles_localised_title_hv_script_effect_bundle_yuan_northern,北軍校尉,FALSE
 effect_bundles_localised_description_hv_script_effect_bundle_yuan_northern,解鎖精銳北軍校尉隨從,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 incidents_localised_description_hv_northern_army_unlocked_gongsun_zan,鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。,FALSE
 incidents_localised_description_hv_northern_army_unlocked_gongsun_zan_ai,領軍的校尉掌管北軍世兵，現已效忠于公孫瓚。這是支不可小觑的部隊。,FALSE
 incidents_localised_description_hv_northern_army_unlocked_dong_zhuo,鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。,FALSE
@@ -786,7 +786,7 @@ incidents_localised_title_hv_northern_army_unlocked_dong_zhuo,北軍,FALSE
 incidents_localised_title_hv_northern_army_unlocked_dong_zhuo_ai,北軍,FALSE
 incidents_localised_title_hv_northern_army_unlocked_yuan_shu,北軍,FALSE
 incidents_localised_title_hv_northern_army_unlocked_yuan_shu_ai,北軍,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 dilemmas_localised_title_hv_dilemma_lu_ji_dlc07,寄人籬下,FALSE
 dilemmas_localised_description_hv_dilemma_lu_ji_dlc07,一隻殘軍請求加入您的勢力。呂布戰敗後，其女呂姬收攏潰卒。然而，接納他們可能會惹惱呂布之敵。,FALSE
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_lu_ji_dlc07SECOND,拒絕,FALSE
@@ -799,7 +799,7 @@ cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_lu_ji_dlc07
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_lu_ji_dlc07FIRST,收納他們加入旗下。,FALSE
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_ji_ling_zhang_xun_dlc07SECOND,莫要惹是生非。,FALSE
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_ji_ling_zhang_xun_dlc07FIRST,收納他們加入旗下。,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 incidents_localised_title_hv_northern_army_unlocked_yuan_shao_last,北軍,FALSE
 incidents_localised_description_hv_northern_army_unlocked_yuan_shao_last,鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。,FALSE
 campaign_payload_ui_details_description_dummy_hv_mission_northern_mission,一個北軍兵團會加入您的勢力。,FALSE
@@ -841,14 +841,14 @@ missions_localised_description_hv_mission_northern_liu_chong_02,興師十萬，�
 missions_localised_title_hv_mission_northern_liu_chong_02,累積財富,FALSE
 missions_localised_description_hv_mission_northern_liu_chong_03,要稱霸就要有正統的名義。若能建造一座萬人敬仰的皇城，便可彰顯實力，天下人必當歸順。,FALSE
 missions_localised_title_hv_mission_northern_liu_chong_03,稱霸之路,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 incidents_localised_title_hv_event_coin_confuse_1,新幣引起了混亂！,FALSE
 incidents_localised_title_hv_event_coin_confuse_2,新幣引起了混亂！,FALSE
 incidents_localised_title_hv_event_coin_confuse_3,新幣引起了混亂！,FALSE
 incidents_localised_description_hv_event_coin_confuse_1,所有的經濟活動都因爲新幣的鑄造而受到阻礙。我們別無選擇，只能等待商人們適應新的標準。,FALSE
 incidents_localised_description_hv_event_coin_confuse_2,由於新幣發行，買糧時出現問題。我們別無選擇，只能等到農民們適應新的標準。,FALSE
 incidents_localised_description_hv_event_coin_confuse_3,由於新幣發行，分發軍餉時出現問題。我們別無選擇，只能等到士兵們適應新的標準。,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 incidents_localised_title_hv_northern_army_unlocked_yuan_shao_mid,北軍,FALSE
 incidents_localised_title_hv_northern_army_unlocked_cao_cao_mid,北軍,FALSE
 incidents_localised_title_hv_northern_army_unlocked_gongsun_zan_mid,北軍,FALSE
@@ -871,7 +871,7 @@ incidents_localised_description_hv_northern_army_unlocked_dong_zhuo_last,鑒於�
 incidents_localised_description_hv_northern_army_unlocked_yuan_shu_last,鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。,FALSE
 incidents_localised_description_hv_northern_army_unlocked_liu_chong_last,鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。,FALSE
 incidents_localised_description_hv_northern_army_unlocked_cao_cao_last,鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 dilemmas_localised_title_hv_dilemma_northern_army_intro,集兵練卒,FALSE
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_northern_army_introFIRST,完成這些任務，北軍校尉就會爲您效力。,FALSE
 dilemmas_localised_description_hv_dilemma_northern_army_intro,天下大亂，雄豪並起。主公若能運籌演謀，鞭撻宇內，忠於漢室之能人必來投效。以公之神武明哲而輔以大順，何向而不濟！,FALSE
@@ -905,52 +905,52 @@ cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_empire_rule
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_empire_rulesSECOND,天下將以霸道主義來治理。,TRUE
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_empire_rulesFIRST,您是唯一能讓天下回歸太平之人。眾人將服從您的意志。,TRUE
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_empire_rulesSECOND,您是唯一能讓天下回歸太平之人。眾人將服從您的意志。,TRUE
-frontend_faction_leader_unique_characters_localised_description_hv_frontend_lady_liu_limin_190,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-frontend_faction_leader_unique_characters_localised_description_hv_frontend_lady_liu_limin_194,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_hv_frontend_lady_liu_limin_190,[[b]]劉氏[[/b]]\\n躬親主母\\n\\n將領類別：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]劉夫人無時不在擔心她家人。也許她有些擔心過頭了。[[/col]][[/i]],TRUE
+frontend_faction_leader_unique_characters_localised_description_hv_frontend_lady_liu_limin_194,[[b]]劉氏[[/b]]\\n躬親主母\\n\\n將領類別：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]劉夫人無時不在擔心她家人。也許她有些擔心過頭了。[[/col]][[/i]],TRUE
+,,FALSE
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_lu_zheng_hero_water_190,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_lu_zheng_hero_water_194,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_lu_zheng_hero_water_200,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_dong_min_hero_earth_182,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_dong_peishan_hero_earth_182,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_wu_minyu_hero_earth_182,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_yan_xiang_hero_water_190,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_ma_yunlu_hero_metal_190,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_ma_yunlu_hero_metal_194,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_ma_yunlu_hero_metal_200,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_ma_lanli_hero_metal_190,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_ma_lanli_hero_metal_194,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_ma_lanli_hero_metal_200,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_feng_hero_earth_190,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_feng_hero_earth_194,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_yuan_anyang_hero_water_190,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_yuan_anyang_hero_water_194,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_yuan_anyang_hero_water_200,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_zhang_xun_hero_earth_190,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_zhang_xun_hero_earth_194,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_luo_jun_wood_182,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_luo_jun_wood_190,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_luo_jun_wood_194,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_gongsun_jinting_hero_water_190,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_gongsun_jinting_hero_water_194,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_lu_ji_hero_wood_190,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_lu_ji_hero_wood_194,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_trieu_hero_wood_190,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_trieu_hero_wood_194,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_trieu_hero_wood_200,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_jian_yong_hero_metal_190,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_jian_yong_hero_metal_194,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_jian_yong_hero_metal_200,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_qu_gong_hero_wood_190,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_qu_gong_hero_wood_194,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_qu_gong_hero_wood_200,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_chen_jiu_hero_wood_190,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_chen_jiu_hero_wood_194,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_chen_jiu_hero_wood_200,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_zhang_jinglan_190,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_zhang_jinglan_194,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_zhang_jinglan_200,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_dong_min_hero_earth_182,[[b]]董旻[[/b]]\\n無魘暴君\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]貪暴成性，荼毒關中。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_dong_peishan_hero_earth_182,[[b]]董氏[[/b]]\\n郿侯夫人\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]董卓髮妻，卓封郿侯。不僅生性貪婪，且行事作風十分謹慎狡猾。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_wu_minyu_hero_earth_182,[[b]]吳氏[[/b]]\\n武烈皇后\\n\\n將領類：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]氣質高雅，心胸寬廣。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_yan_xiang_hero_water_190,[[b]]閻象[[/b]]\\n賢達哲士\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]閻象深圖遠慮，總是危機到來之前就做好了準備。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_ma_yunlu_hero_metal_190,[[b]]馬雲祿[[/b]]\\n敦煌公主\\n\\n將領類型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]馬雲祿深知兵在精而不在多，為了部隊執銳披堅她總是不惜血本。[[/col]][[/i]],TRUE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_ma_yunlu_hero_metal_194,[[b]]馬雲祿[[/b]]\\n敦煌公主\\n\\n將領類型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]馬雲祿深知兵在精而不在多，為了部隊執銳披堅她總是不惜血本。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_ma_yunlu_hero_metal_200,[[b]]馬雲祿[[/b]]\\n敦煌公主\\n\\n將領類型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]馬雲祿深知兵在精而不在多，為了部隊執銳披堅她總是不惜血本。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_ma_lanli_hero_metal_190,[[b]]華氏[[/b]]\\n西羌女傑\\n\\n將領類型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]羌族女傑華氏精於騎射，武藝不在其夫之下。[[/col]][[/i]],TRUE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_ma_lanli_hero_metal_194,[[b]]華氏[[/b]]\\n西羌女傑\\n\\n將領類型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]羌族女傑華氏精於騎射，武藝不在其夫之下。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_ma_lanli_hero_metal_200,[[b]]華氏[[/b]]\\n西羌女傑\\n\\n將領類型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]羌族女傑華氏精於騎射，武藝不在其夫之下。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_feng_hero_earth_190,[[b]]馮氏[[/b]]\\n涕泣美人\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]馮氏不僅天姿國色，還因胸懷大志而深受袁術寵愛。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_feng_hero_earth_194,[[b]]馮氏[[/b]]\\n涕泣美人\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]馮氏不僅天姿國色，還因胸懷大志而深受袁術寵愛。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_yuan_anyang_hero_water_190,[[b]]袁氏[[/b]]\\n仲氏公主\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]仲氏公主袁氏的美貌與賢良人盡皆知。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_yuan_anyang_hero_water_194,[[b]]袁氏[[/b]]\\n仲氏公主\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]仲氏公主袁氏的美貌與賢良人盡皆知。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_yuan_anyang_hero_water_200,[[b]]袁氏[[/b]]\\n仲氏公主\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]仲氏公主袁氏的美貌與賢良人盡皆知。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_zhang_xun_hero_earth_190,[[b]]張勳[[/b]]\\n開國將軍\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]仲氏大將軍張勳號令三軍誰敢不從？[[/col]][[/i]],TRUE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_zhang_xun_hero_earth_194,[[b]]張勳[[/b]]\\n開國將軍\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]仲氏大將軍張勳號令三軍誰敢不從？[[/col]][[/i]],TRUE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_luo_jun_wood_182,[[b]]駱俊[[/b]]\\n百姓衛士\\n\\n將領類別：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]「施壓於民，絕無益處。水能載舟，亦能覆舟。」[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_luo_jun_wood_190,[[b]]駱俊[[/b]]\\n百姓衛士\\n\\n將領類別：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]「施壓於民，絕無益處。水能載舟，亦能覆舟。」[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_luo_jun_wood_194,[[b]]駱俊[[/b]]\\n百姓衛士\\n\\n將領類別：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]「施壓於民，絕無益處。水能載舟，亦能覆舟。」[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_gongsun_jinting_hero_water_190,[[b]]侯氏[[/b]]\\n賢明母主\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]公孫瓚常年征戰在外，侯氏依靠著她的賢明與機警守護著家族的未來。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_gongsun_jinting_hero_water_194,[[b]]侯氏[[/b]]\\n賢明母主\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]公孫瓚常年征戰在外，侯氏依靠著她的賢明與機警守護著家族的未來。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_lu_ji_hero_wood_190,[[b]]呂姬[[/b]]\\n飛將之女\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]虎父無犬女，呂布之女不僅美豔，也是戰場豪傑。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_lu_ji_hero_wood_194,[[b]]呂姬[[/b]]\\n飛將之女\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]虎父無犬女，呂布之女不僅美豔，也是戰場豪傑。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_trieu_hero_wood_190,[[b]]趙嫗[[/b]]\\n駱越之光\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]「橫戈當虎易，對面婆王難。」[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_trieu_hero_wood_194,[[b]]趙嫗[[/b]]\\n駱越之光\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]「橫戈當虎易，對面婆王難。」[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_trieu_hero_wood_200,[[b]]趙嫗[[/b]]\\n駱越之光\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]「橫戈當虎易，對面婆王難。」[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_jian_yong_hero_metal_190,[[b]]簡雍[[/b]]\\n優遊風議\\n\\n將領類型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]簡雍擅於辯論、議事，但也閒暇自得，行為不檢。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_jian_yong_hero_metal_194,[[b]]簡雍[[/b]]\\n優遊風議\\n\\n將領類型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]簡雍擅於辯論、議事，但也閒暇自得，行為不檢。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_jian_yong_hero_metal_200,[[b]]簡雍[[/b]]\\n優遊風議\\n\\n將領類型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]簡雍擅於辯論、議事，但也閒暇自得，行為不檢。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_qu_gong_hero_wood_190,[[b]]瞿恭[[/b]]\\n獨眼山賊\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]只有一隻眼睛都可以如此為非作歹，難道還需要另外一隻不成？[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_qu_gong_hero_wood_194,[[b]]瞿恭[[/b]]\\n獨眼山賊\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]只有一隻眼睛都可以如此為非作歹，難道還需要另外一隻不成？[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_qu_gong_hero_wood_200,[[b]]瞿恭[[/b]]\\n獨眼山賊\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]只有一隻眼睛都可以如此為非作歹，難道還需要另外一隻不成？[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_chen_jiu_hero_wood_190,[[b]]龐德[[/b]]\\n白馬將軍\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]龐德戒昭果毅，敵者必討[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_chen_jiu_hero_wood_194,[[b]]龐德[[/b]]\\n白馬將軍\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]龐德戒昭果毅，敵者必討[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_chen_jiu_hero_wood_200,[[b]]龐德[[/b]]\\n白馬將軍\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]龐德戒昭果毅，敵者必討[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_zhang_jinglan_190,[[b]]鄭蘭[[/b]]\\n黑山母主\\n\\n將領類別：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]雖為女賊，其鴻鵠之志卻比肩世間梟雄。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_zhang_jinglan_194,[[b]]鄭蘭[[/b]]\\n黑山母主\\n\\n將領類別：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]雖為女賊，其鴻鵠之志卻比肩世間梟雄。[[/col]][[/i]],FALSE
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_zhang_jinglan_200,[[b]]鄭蘭[[/b]]\\n黑山母主\\n\\n將領類別：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]雖為女賊，其鴻鵠之志卻比肩世間梟雄。[[/col]][[/i]],FALSE
+,,FALSE
 effect_bundles_localised_title_hv_frontend_leader_ma_teng_specialisation,養馬 / 自行覓食與補給,FALSE
 effect_bundles_localised_description_hv_frontend_leader_ma_teng_specialisation,[[b]]養馬[[/b]]是此勢力的獨特資源。\\n\\n[[i]][[col:flavour]]養育大宛馬來裝備騎兵部隊。[[/col]][[/i]],FALSE
 effects_description_hv_frontend_description_specialisation_ma_teng_1,有良馬才能有精騎。,FALSE
@@ -960,7 +960,7 @@ effects_generalised_descriptions_localised_description_hv_frontend_generalised_d
 effects_generalised_descriptions_localised_description_hv_frontend_generalised_description_specialisation_ma_teng_2,• 軍隊紮營時可以搜糧,FALSE
 effects_generalised_descriptions_localised_description_hv_frontend_generalised_description_specialisation_ma_teng_3,• 提升軍事物資補給加成,FALSE
 frontend_faction_leader_unique_features_localised_description_hv_unique_feature_assignment_ma_teng_sell_horses,[[b]]賣馬[[/b]]\\n[[col:scope_description]]經濟任務[[/col]]\\n\\n[[col:green]]+[[/col]] 商貿收入\\n\\n[[col:flavour]][[i]]您的隨從會將您所養的馬匹以高價賣出。[[/col]][[/i]],FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 effect_bundles_localised_title_hv_frontend_leader_zhang_yan_specialisation,黑山 / 趨利之盟,FALSE
 effect_bundles_localised_description_hv_frontend_leader_zhang_yan_specialisation,[[b]]黑山[[/b]]是此勢力的獨特資源。\\n\\n[[i]][[col:flavour]]黑山贼乘乱以增其之数。[[/col]][[/i]],FALSE
 effects_description_hv_frontend_description_specialisation_zhang_yan_1,黑山匪徒之數與日俱增，其行為亦更加肆無忌憚。,FALSE
@@ -969,7 +969,7 @@ effects_description_hv_frontend_description_specialisation_zhang_yan_3,在[[b]]�
 effects_generalised_descriptions_localised_description_hv_frontend_generalised_description_specialisation_zhang_yan_1,• 可以改善独特单位,FALSE
 effects_generalised_descriptions_localised_description_hv_frontend_generalised_description_specialisation_zhang_yan_2,• 可增進與黃巾軍的關係,FALSE
 effects_generalised_descriptions_localised_description_hv_frontend_generalised_description_specialisation_zhang_yan_3,• 可在攻擊期間發動伏擊,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 frontend_faction_leader_unique_features_localised_description_hv_frontend_base_units_cao_cao,[[b]]部曲[[/b]]\\n[[col:scope_description]]基本軍隊[[/col]]\\n\\n[[col:yellow]]派系獨特兵種[[/col]]\\n• {{tr:3k_dlc07_unit_earth_tiger_cubs}}\\n • {{tr:hv_unit_tiger_and_leopard_cavalry}}\\n • {{tr:hv_unit_tiger_and_leopard_barded_cavalry}}\\n\\n[[col:flavour]][[i]]群雄自備軍隊。屬性平衡，能力廣汎。[[/col]][[/i]],FALSE
 frontend_faction_leader_unique_features_localised_description_hv_frontend_base_units_cao_cao_194,[[b]]部曲[[/b]]\\n[[col:scope_description]]基本軍隊[[/col]]\\n\\n[[col:yellow]]派系獨特兵種[[/col]]\\n• {{tr:hv_unit_qingzhou_hand_ji_infantry}}\\n• {{tr:hv_unit_qingzhou_2h_axe_infantry}}\\n• {{tr:hv_unit_qingzhou_raider_cavalry}}\\n• {{tr:3k_dlc07_unit_earth_tiger_cubs}}\\n • {{tr:hv_unit_tiger_and_leopard_cavalry}}\\n • {{tr:hv_unit_tiger_and_leopard_barded_cavalry}}\\n\\n[[col:flavour]][[i]]群雄自備軍隊。屬性平衡，能力廣汎。[[/col]][[/i]],FALSE
 frontend_faction_leader_unique_features_localised_description_hv_frontend_base_units_liu_bei,[[b]]部曲[[/b]]\\n[[col:scope_description]]基本軍隊[[/col]]\\n\\n[[col:yellow]]派系獨特兵種[[/col]]\\n• {{tr:hv_unit_white_feathers}}\\n\\n[[col:flavour]][[i]]群雄自備軍隊。屬性平衡，能力廣汎。[[/col]][[/i]],FALSE
@@ -997,14 +997,14 @@ frontend_faction_leader_unique_features_localised_description_hv_frontend_base_u
 frontend_faction_leader_unique_features_localised_description_hv_frontend_base_units_nanman_shamoke,[[b]]南蠻[[/b]]\\n[[col:scope_description]]基本軍隊[[/col]]\\n\\n[[col:yellow]]起始可用兵種[[/col]]\\n• 武陵鬥士\\n• 武陵投石兵\\n• 五谿豪傑\\n\\n[[col:flavour]][[i]]南中勇士各個袒臂揮拳，要去開疆辟土。[[/col]][[/i]],FALSE
 frontend_faction_leader_unique_features_localised_description_hv_frontend_base_units_nanman_zhurong,[[b]]南蠻[[/b]]\\n[[col:scope_description]]基本軍隊[[/col]]\\n\\n[[col:yellow]]起始可用兵種[[/col]]\\n• 火神信徒\\n• 猛虎投石兵\\n• 猛虎戰士\\n\\n[[col:flavour]][[i]]南中勇士各個袒臂揮拳，要去開疆辟土。[[/col]][[/i]],FALSE
 frontend_faction_leader_unique_features_localised_description_hv_frontend_base_units_liu_yan,[[b]]部曲[[/b]]\\n[[col:scope_description]]基本軍隊[[/col]]\\n\\n[[col:yellow]]派系獨特兵種[[/col]]\\n• {{tr:3k_dlc07_unit_wood_dongzhoubing_defenders}}\\n• {{tr:3k_dlc07_unit_water_dongzhoubing_marksmen}}\\n\\n[[col:flavour]][[i]]群雄自備軍隊。屬性平衡，能力廣汎。[[/col]][[/i]],FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 frontend_faction_leader_unique_features_localised_description_hv_frontend_sun_jian_local_nobles,[[b]]地方豪強[[/b]]\\n\\n [[col:flavour]][[i]]具強大影響力的地方世族。他們可能對你有所助益或傷害。[[/col]][[/i]],TRUE
 frontend_faction_leader_unique_features_localised_description_3k_main_unique_features_sun_jian_fealty,[[b]]傭兵哨站[[/b]]\\n[[col:scope_description]]附加建築[[/col]]\\n\\n[[col:yellow]]可以僱用傭兵[[/col]]\\n[[col:green]]+[[/col]] 商貿收入\\n[[col:green]]+[[/col]] 補員速率\\n\\n[[col:flavour]][[i]]對於沒有顯赫出身的人而言，財富最大的用處就是獲取權力，好讓出身平凡的有志之士亦能為國效力。[[/col]][[/i]],FALSE
 frontend_faction_leader_unique_features_localised_description_hv_frontend_yuan_shao_captain,[[b]]校尉部曲[[/b]]\\n\\n袁紹能夠不採用英雄人物，而是以低階軍官與校尉領軍，他們會帶領一群由各種單位組成的部曲。\\n\\n[[col:flavour]][[i]]校尉是以與兵卒平等的地位在前方領軍，他們會毫不猶豫地聽從您的命令。[[/col]][[/i]],TRUE
 frontend_faction_leader_unique_features_localised_description_hv_frontend_qiang,[[b]]親善羌人部落[[/b]]\\n\\n [[col:flavour]][[i]]此派系親善羌人。羌人不會對此派系造成負面影響。[[/col]][[/i]],TRUE
 frontend_faction_leader_unique_features_localised_description_hv_frontend_shan_yue,[[b]]親善山越部落[[/b]]\\n\\n [[col:flavour]][[i]]此派系親善山越。山越不會對此派系造成負面影響。[[/col]][[/i]],TRUE
 frontend_faction_leader_unique_features_localised_description_hv_frontend_ambush_attack,[[b]]可在攻擊期間發動伏擊[[/b]]\\n\\n [[col:flavour]][[i]]此勢力可在攻擊期間發動伏擊。[[/col]][[/i]] ,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 effect_bundles_localised_title_hv_frontend_leader_gongsun_zan_specialisation,軍政 / 軍事政府,FALSE
 effect_bundles_localised_description_hv_frontend_leader_gongsun_zan_specialisation,[[b]]軍政[[/b]]是此勢力的獨特資源。\\n\\n[[i]][[col:flavour]]嚴政方能定亂。[[/col]],FALSE
 effects_description_hv_frontend_description_specialisation_gongsun_zan_1,獲得軍事增益，但也會惡化與其他勢力的關係。,FALSE
@@ -1017,7 +1017,7 @@ effects_generalised_descriptions_localised_description_hv_frontend_generalised_d
 effects_generalised_descriptions_localised_description_hv_frontend_generalised_description_specialisation_gongsun_zan_4,• 駐軍提供建築和收入加成,FALSE
 effects_description_3k_dlc05_frontend_description_specialisation_white_tiger_yan_4,嚴白虎可通過盜賊人脈招募普通 [[b]]漢軍單位[[/b]]。,FALSE
 effects_generalised_descriptions_localised_description_3k_dlc05_frontend_generalised_description_specialisation_white_tiger_yan_4,• 可以招募大漢单位,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 effect_bundles_localised_title_hv_frontend_leader_liu_chong_specialisation,堅韌度 / 戰利品櫃,FALSE
 effect_bundles_localised_description_hv_frontend_leader_liu_chong_specialisation,[[b]]堅韌度[[/b]]是此勢力的獨特資源。\\n\\n[[i]][[col:flavour]]劉寵英勇克己，麾下兵士俱受其感召，與皇室為敵者則心懷恐懼。[[/col]][[/i]] \\n\\n,FALSE
 effects_description_hv_frontend_description_specialisation_liu_chong_1,可透過[[b]]戰鬥勝利[[/b]]，以及對[[b]]敵軍[[/b]]造成比我軍更嚴重的[[b]]傷亡[[/b]]，來提升[[b]]堅韌度[[/b]]。,FALSE
@@ -1028,40 +1028,40 @@ effects_generalised_descriptions_localised_description_hv_frontend_generalised_d
 effects_generalised_descriptions_localised_description_hv_frontend_generalised_description_specialisation_liu_chong_3,• 展示戰利品可獲得獨特效果 ,FALSE
 campaign_post_battle_captive_options_description_enslavehv_campaign_group_captive_option_recruit_zhang_yan,敵軍許多士兵會欣然加入我軍，拒絕者則當斬首示眾。此舉能補充我軍兵力，然而可能影響與敵方勢力的關係。,FALSE
 campaign_post_battle_captive_options_onscreen_name_enslavehv_campaign_group_captive_option_recruit_zhang_yan,招募,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 pooled_resource_factors_display_name_positive_hv_pooled_factor_ma_teng,提升,FALSE
 pooled_resource_factors_display_name_positive_hv_pooled_factor_ma_teng_assignments,任務,FALSE
 pooled_resource_factors_display_name_positive_hv_pooled_factor_ma_teng_buildings,建築,FALSE
 pooled_resource_factors_display_name_positive_hv_pooled_factor_ma_teng_decay,消退,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 pooled_resource_factors_display_name_positive_hv_pooled_factor_zhang_yan,提升,FALSE
 pooled_resource_factors_display_name_positive_hv_pooled_factor_zhang_yan_buildings,建築,FALSE
 pooled_resource_factors_display_name_positive_hv_pooled_factor_zhang_yan_decay,消退,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 pooled_resource_factors_display_name_negative_hv_pooled_factor_ma_teng,降低,FALSE
 pooled_resource_factors_display_name_negative_hv_pooled_factor_ma_teng_assignments,任務,FALSE
 pooled_resource_factors_display_name_negative_hv_pooled_factor_ma_teng_buildings,建築,FALSE
 pooled_resource_factors_display_name_negative_hv_pooled_factor_ma_teng_decay,消退,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 pooled_resource_factors_display_name_negative_hv_pooled_factor_zhang_yan,降低,FALSE
 pooled_resource_factors_display_name_negative_hv_pooled_factor_zhang_yan_buildings,建築,FALSE
 pooled_resource_factors_display_name_negative_hv_pooled_factor_zhang_yan_decay,消退,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 pooled_resources_positive_factors_display_name_hv_pooled_resource_ma_teng,提升,FALSE
 pooled_resources_negative_factors_display_name_hv_pooled_resource_ma_teng,降低,FALSE
 pooled_resources_description_hv_pooled_resource_ma_teng,養育大宛馬來裝備騎兵部隊。,FALSE
 pooled_resources_display_name_hv_pooled_resource_ma_teng,養馬,FALSE
 pooled_resources_foreign_diplomacy_view_tooltip_hv_pooled_resource_ma_teng,養育大宛馬來裝備騎兵部隊。,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 pooled_resources_positive_factors_display_name_hv_pooled_resource_zhang_yan,提升,FALSE
 pooled_resources_negative_factors_display_name_hv_pooled_resource_zhang_yan,降低,FALSE
 pooled_resources_description_hv_pooled_resource_zhang_yan,黑山贼乘乱以增其之数。,FALSE
 pooled_resources_display_name_hv_pooled_resource_zhang_yan,黑山,FALSE
 pooled_resources_foreign_diplomacy_view_tooltip_hv_pooled_resource_zhang_yan,黑山贼乘乱以增其之数。,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_character_assignments_localised_title_hv_ui_info_assignment_ma_teng_sell_horses,賣馬,TRUE
 ui_character_assignments_localised_description_hv_ui_info_assignment_ma_teng_sell_horses,您的隨從會將您所養的馬匹以高價賣出。,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 pooled_resource_factors_display_name_positive_hv_pooled_factor_gongsun_zan,提升,FALSE
 pooled_resource_factors_display_name_negative_hv_pooled_factor_gongsun_zan,降低,FALSE
 pooled_resource_factors_display_name_positive_hv_pooled_factor_gongsun_zan_buildings,建築,FALSE
@@ -1070,7 +1070,7 @@ pooled_resource_factors_display_name_positive_hv_pooled_factor_gongsun_zan_decay
 pooled_resource_factors_display_name_negative_hv_pooled_factor_gongsun_zan_decay,消退,FALSE
 pooled_resource_factors_display_name_positive_hv_pooled_factor_gongsun_zan_garrison,軍隊,FALSE
 pooled_resource_factors_display_name_negative_hv_pooled_factor_gongsun_zan_garrison,軍隊,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 pooled_resources_description_hv_pooled_resource_gongsun_zan,嚴政方能定亂。,FALSE
 pooled_resources_display_name_hv_pooled_resource_gongsun_zan,軍政,FALSE
 pooled_resources_foreign_diplomacy_view_tooltip_hv_pooled_resource_gongsun_zan,嚴政方能定亂。,FALSE
@@ -1104,7 +1104,7 @@ effects_description_hv_effects_skill_add_unlock_earth,解鎖單位：{{tr:hv_tr_
 effects_description_hv_effects_skill_add_unlock_wood,解鎖單位：{{tr:hv_tr_wood}}單位,TRUE
 effects_description_hv_effects_skill_add_unlock_fire,解鎖單位：{{tr:hv_tr_fire}}單位,TRUE
 effects_description_hv_effects_skill_add_unlock_water,解鎖單位：{{tr:hv_tr_water}}單位,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 effects_description_hv_effect_dummy_unlock_unit_militia_2h_axemen,解鎖單位：{{tr:hv_unit_militia_2h_axemen}},TRUE
 effects_description_hv_effect_dummy_unlock_unit_hidden_2h_spearmen,解鎖單位：{{tr:hv_unit_hidden_2h_spearmen}},TRUE
 effects_description_hv_effect_dummy_unlock_unit_militia_scout_cavalry,解鎖單位：{{tr:hv_unit_militia_scout_cavalry}},TRUE
@@ -1123,7 +1123,7 @@ effects_description_hv_effect_dummy_unlock_unit_swallow_cavalry,解鎖單位：{
 effects_description_hv_effect_dummy_unlock_unit_yuan_swordsmen,解鎖單位：{{tr:hv_unit_yuan_sword_infantry}},TRUE
 effects_description_hv_effect_dummy_unlock_unit_yuan_ji_guards,解鎖單位：{{tr:hv_unit_yuan_ji_guards}},TRUE
 effects_description_hv_effect_dummy_unlock_unit_buqu_archer_cavalry,解鎖單位：{{tr:hv_unit_buqu_archer_cavalry}},TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_character_assignments_localised_title_hv_ui_info_assignment_replenishment_garrison,駐軍補員,TRUE
 ui_character_assignments_localised_title_hv_ui_info_assignment_more_build_slot,擴展城市,TRUE
 ui_character_assignments_localised_title_hv_ui_info_assignment_military_disturbance,擾亂,TRUE
@@ -1134,13 +1134,13 @@ ui_character_assignments_localised_description_hv_ui_info_assignment_more_build_
 ui_character_assignments_localised_description_hv_ui_info_assignment_military_disturbance,您的隨從將在敵方領土支援您的軍隊。,TRUE
 ui_character_assignments_localised_description_hv_ui_info_assignment_satisfaction_and_gdp,您的隨從將管理宮廷事務，精簡政務。,TRUE
 ui_character_assignments_localised_description_hv_ui_info_assignment_reserve_replenishment,您的隨從將去募集兵員。,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 effects_description_hv_assignment_effect_dummy_unlock_more_build_slot,解鎖任務：擴展城市,TRUE
 effects_description_hv_assignment_effect_dummy_unlock_satisfaction_and_gdp,解鎖任務：宮廷管理,TRUE
 effects_description_hv_assignment_effect_dummy_unlock_reserve_replenishment,解鎖任務：召集義勇,TRUE
 effects_description_hv_assignment_effect_dummy_replenishment_garrison,解鎖任務：駐軍補員,TRUE
 effects_description_hv_assignment_effect_dummy_disturbance,解鎖任務：擾亂,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 effects_description_hv_effect_unit_stat_movement_speed_water,遠程速度 [[b]]%+n%[[/b]],TRUE
 effects_description_hv_effect_unit_stat_charge_bonus_earth,近戰騎兵衝鋒加成 [[b]]%+n[[/b]],TRUE
 effects_description_hv_effect_unit_stat_charge_bonus_metal,近戰步兵衝鋒加成 [[b]]%+n[[/b]],TRUE
@@ -1151,7 +1151,7 @@ effects_description_hv_effect_unit_stat_missile_block_fire,突擊騎兵遠程格
 effects_description_hv_effect_unit_stat_missile_block_all_cavalry,所有騎兵遠程格擋機率 [[b]]%+n%[[/b]],TRUE
 effects_description_hv_effect_unit_stat_movement_speed_earth,近戰騎兵速度 [[b]]%+n%[[/b]],TRUE
 effects_description_hv_effect_unit_stat_armour_metal,近戰步兵護甲 [[b]]%+n%[[/b]],TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 character_skills_localised_name_hv_skill_add_individuality_liu_biao_4A,特性一,TRUE
 character_skills_localised_name_hv_skill_add_talent_liu_biao_4B,特性二,TRUE
 character_skills_localised_name_hv_skill_add_mastership_liu_biao_4C,特性三,TRUE
@@ -1800,10 +1800,10 @@ character_skills_localised_name_hv_skill_add_mastership_ji_ling_4C,特性三,TRU
 character_skills_localised_description_hv_skill_add_individuality_ji_ling_4A,超凡脫俗,TRUE
 character_skills_localised_description_hv_skill_add_talent_ji_ling_4B,才華橫溢,TRUE
 character_skills_localised_description_hv_skill_add_mastership_ji_ling_4C,各行其道,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 effects_description_hv_effect_dummy_unlock_duelist_ui,此英雄在單挑中有加成。,TRUE
 effects_description_hv_effect_dummy_unlock_duelist_expert_ui,此英雄在單挑中有强大加成。,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 character_skills_localised_name_hv_skill_add_individuality_earth_agent_4A,特性一,FALSE
 character_skills_localised_name_hv_skill_add_individuality_earth_bandit_agent_4A,特性一,FALSE
 character_skills_localised_name_hv_skill_add_individuality_earth_envoy_4A,特性一,FALSE
@@ -1990,7 +1990,7 @@ character_skills_localised_name_hv_skill_add_mastership_lady_zhen_4C,特性三,F
 character_skills_localised_description_hv_skill_add_individuality_lady_zhen_4A,超凡脫俗,FALSE
 character_skills_localised_description_hv_skill_add_talent_lady_zhen_4B,才華橫溢,FALSE
 character_skills_localised_description_hv_skill_add_mastership_lady_zhen_4C,各行其道,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 effects_description_hv_effect_dummy_unlock_unit_hidden_snakes,解鎖單位：{{tr:hv_unit_hidden_snakes}},TRUE
 effects_description_hv_effect_dummy_unlock_unit_rapid_tigers,解鎖單位：{{tr:hv_unit_rapid_tigers}},TRUE
 effects_description_hv_effect_dummy_unlock_unit_enforcer_archers,解鎖單位：{{tr:hv_unit_xiliang_elite_enforcers}},TRUE
@@ -1998,7 +1998,7 @@ effects_description_hv_effect_dummy_unlock_unit_enforcer_archer_cavalry,解鎖�
 effects_description_hv_effect_dummy_unlock_unit_militia_white_tiger_outlaws,解鎖單位：{{tr:hv_unit_militia_white_tiger_outlaws}},TRUE
 effects_description_hv_effect_dummy_unlock_unit_white_tiger_bandits,解鎖單位：{{tr:hv_unit_white_tiger_bandits}},TRUE
 effects_description_hv_effect_dummy_unlock_unit_white_tiger_warriors,解鎖單位：{{tr:hv_unit_white_tiger_warriors}},TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 character_skills_localised_name_hv_skill_add_individuality_zhang_xun_4A_dlc07,特性一,FALSE
 character_skills_localised_name_hv_skill_add_individuality_ji_ling_4A_dlc07,特性一,FALSE
 character_skills_localised_name_hv_skill_add_individuality_lady_lu_ji_4A_dlc07,特性一,FALSE
@@ -2044,7 +2044,7 @@ character_skills_localised_description_hv_skill_add_individuality_liu_zhang_4A,�
 character_skills_localised_description_hv_skill_add_talent_liu_zhang_4B,才華橫溢,TRUE
 character_skills_localised_description_hv_skill_add_mastership_liu_zhang_4C,各行其道,TRUE
 effects_description_hv_effect_dummy_unlock_unit_yuan_rong_crossbowmen,解鎖單位：{{tr:hv_unit_bomb_thrower}},TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 character_skills_localised_name_hv_skill_add_individuality_cao_ang_4A,特性一,FALSE
 character_skills_localised_name_hv_skill_add_talent_cao_ang_4B,特性二,FALSE
 character_skills_localised_name_hv_skill_add_mastership_cao_ang_4C,特性三,FALSE
@@ -2066,7 +2066,7 @@ character_skills_localised_name_hv_skill_add_mastership_cao_zhi_4C,特性三,FAL
 character_skills_localised_name_hv_skill_add_individuality_jiang_qin_4A,特性一,FALSE
 character_skills_localised_name_hv_skill_add_talent_jiang_qin_4B,特性二,FALSE
 character_skills_localised_name_hv_skill_add_mastership_jiang_qin_4C,特性三,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 character_skills_localised_description_hv_skill_add_individuality_cao_ang_4A,超凡脫俗,FALSE
 character_skills_localised_description_hv_skill_add_talent_cao_ang_4B,才華橫溢,FALSE
 character_skills_localised_description_hv_skill_add_mastership_cao_ang_4C,各行其道,FALSE
@@ -2088,7 +2088,7 @@ character_skills_localised_description_hv_skill_add_mastership_cao_zhi_4C,各行
 character_skills_localised_description_hv_skill_add_individuality_jiang_qin_4A,超凡脫俗,FALSE
 character_skills_localised_description_hv_skill_add_talent_jiang_qin_4B,才華橫溢,FALSE
 character_skills_localised_description_hv_skill_add_mastership_jiang_qin_4C,各行其道,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 character_skills_localised_name_hv_skill_add_individuality_lady_dong_bai_4A,特性一,FALSE
 character_skills_localised_name_hv_skill_add_talent_lady_dong_bai_4B,特性二,FALSE
 character_skills_localised_name_hv_skill_add_mastership_lady_dong_bai_4C,特性三,FALSE
@@ -2122,7 +2122,7 @@ character_skills_localised_name_hv_skill_wood_mobilization,動員,TRUE
 effects_description_hv_effect_skill_light_infantry_speed,輕型步兵戰場奔跑速度 [[b]]%+n%[[/b]],TRUE
 effects_description_hv_effect_skill_melee_attack_metal_units,近戰步兵近戰命中加成 [[b]]%+n%[[/b]],TRUE
 effects_description_hv_effect_skill_melee_defence_fire_units,突擊騎兵近戰迴避 [[b]]%+n[[/b]],TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 character_skills_localised_name_hv_skill_emperor_understanding,將心比心,FALSE
 character_skills_localised_name_hv_skill_emperor_abundance,充盈豐沛,FALSE
 character_skills_localised_name_hv_skill_emperor_flexibility,無往不適,FALSE
@@ -2337,7 +2337,7 @@ unit_ability_types_localised_description_hv_historical_ability_scholar_03,精準
 unit_ability_types_onscreen_name_hv_historical_ability_scholar_03,主動減弱效果,TRUE
 effects_description_hv_effect_unlock_duel,可使用：單挑,TRUE
 effects_description_hv_effect_unlock_duel_water,可使用：單挑,TRUE
-----ability name----,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+----ability name----,,FALSE
 unit_abilities_onscreen_name_hv_ability_flower_of_battlefield,戰場之花,TRUE
 unit_abilities_onscreen_name_hv_ability_royal_blood,皇室貴胄,TRUE
 unit_abilities_onscreen_name_hv_ability_order_of_tyrant,突飛猛進,TRUE
@@ -2393,7 +2393,7 @@ unit_abilities_onscreen_name_hv_ability_one_with_the_land,與地合一,TRUE
 unit_abilities_onscreen_name_hv_ability_one_with_the_people,與人合一,TRUE
 unit_abilities_onscreen_name_hv_ability_preach,講道,TRUE
 unit_abilities_onscreen_name_hv_ability_strength_of_the_land,大地之力,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 unit_abilities_tooltip_text_hv_ability_disorientate,熟知戰場的人即使面對最有把握的士兵，也能動搖他們的自信。,TRUE
 unit_abilities_tooltip_text_hv_ability_flower_of_battlefield,此處不宜美人久留。,TRUE
 unit_abilities_tooltip_text_hv_ability_royal_blood,如果以弓箭射傷此人，弓箭手將受到天下的責難。,TRUE
@@ -2449,7 +2449,7 @@ unit_abilities_tooltip_text_hv_ability_one_with_the_land,世世代代在土地�
 unit_abilities_tooltip_text_hv_ability_one_with_the_people,知道同胞絕不會捨自己而去，能讓人大感安心。,TRUE
 unit_abilities_tooltip_text_hv_ability_preach,這樣的話語能強化心靈。,TRUE
 unit_abilities_tooltip_text_hv_ability_strength_of_the_land,大地並非只有土，還有上面的森林與山脈，以及各種神秘的古老地點。,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 special_ability_phases_onscreen_name_hv_ability_flower_of_battlefield,戰場之花,TRUE
 special_ability_phases_onscreen_name_hv_ability_royal_blood,皇室貴胄,TRUE
 special_ability_phases_onscreen_name_hv_ability_order_of_tyrant,突飛猛進,TRUE
@@ -2478,9 +2478,9 @@ special_ability_phases_onscreen_name_hv_ability_blade_mastery_3,劍術大師,TRU
 special_ability_phases_onscreen_name_hv_ability_calm_down,鎮靜,TRUE
 special_ability_phases_onscreen_name_hv_ability_foresight,縱觀全局,TRUE
 special_ability_phases_onscreen_name_hv_ability_kingmaker,王佐,TRUE
-special_ability_phases_onscreen_name_hv_ability_zhou_the_youth_1,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-special_ability_phases_onscreen_name_hv_ability_zhou_the_youth_2,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-special_ability_phases_onscreen_name_hv_ability_zhou_the_youth_3,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+special_ability_phases_onscreen_name_hv_ability_zhou_the_youth_1,美周郎,TRUE
+special_ability_phases_onscreen_name_hv_ability_zhou_the_youth_2,美周郎,TRUE
+special_ability_phases_onscreen_name_hv_ability_zhou_the_youth_3,美周郎,TRUE
 special_ability_phases_onscreen_name_hv_ability_wisdom_of_the_waterfall,飛泉之智,TRUE
 special_ability_phases_onscreen_name_hv_ability_veil_of_darkness,黑暗面紗,TRUE
 special_ability_phases_onscreen_name_hv_ability_oil_bomb,油罐,TRUE
@@ -2512,8 +2512,8 @@ special_ability_phases_onscreen_name_hv_ability_one_with_the_land,與地合一,T
 special_ability_phases_onscreen_name_hv_ability_one_with_the_people,與人合一,TRUE
 special_ability_phases_onscreen_name_hv_ability_preach,講道,TRUE
 special_ability_phases_onscreen_name_hv_ability_strength_of_the_land,大地之力,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
+,,FALSE
 unit_ability_types_localised_description_hv_ability_flower_of_battlefield,戰場之花,TRUE
 unit_ability_types_localised_description_hv_ability_royal_blood,皇室貴胄,TRUE
 unit_ability_types_localised_description_hv_ability_order_of_tyrant,突飛猛進,TRUE
@@ -2569,8 +2569,8 @@ unit_ability_types_localised_description_hv_ability_one_with_the_land,與地合�
 unit_ability_types_localised_description_hv_ability_one_with_the_people,與人合一,TRUE
 unit_ability_types_localised_description_hv_ability_preach,講道,TRUE
 unit_ability_types_localised_description_hv_ability_strength_of_the_land,大地之力,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
+,,FALSE
 unit_ability_types_onscreen_name_hv_ability_flower_of_battlefield,被動減弱效果,TRUE
 unit_ability_types_onscreen_name_hv_ability_royal_blood,被動減弱效果,TRUE
 unit_ability_types_onscreen_name_hv_ability_order_of_tyrant,被動增強效果,TRUE
@@ -2626,20 +2626,20 @@ unit_ability_types_onscreen_name_hv_ability_one_with_the_land,主動增強效果
 unit_ability_types_onscreen_name_hv_ability_one_with_the_people,被動增強效果,TRUE
 unit_ability_types_onscreen_name_hv_ability_preach,被動增強效果,TRUE
 unit_ability_types_onscreen_name_hv_ability_strength_of_the_land,被動增強效果,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 unit_abilities_tooltip_text_3k_main_ability_distant_courage,這名英雄指揮若定，鼓舞盟友大顯身手…但他本人並不親赴前線。,TRUE
 unit_abilities_tooltip_text_3k_dlc04_show_of_force,射出一些弩彈，用於降低敵軍士氣。,TRUE
 unit_abilities_tooltip_text_3k_main_ability_heart_seeker,此射手只消一擊便能取人性命。,TRUE
 unit_abilities_tooltip_text_3k_main_ability_stalwart_defender,此人是天生的護衛將才，所有攻擊對他來說都不痛不癢！,TRUE
 unit_abilities_tooltip_text_3k_main_ability_quickfire,此弓手不斷引弓放箭，越放越快，毫不留手。,TRUE
 unit_abilities_tooltip_text_3k_main_ability_fleet_footed,此人相信，要將敵人除之而後快，就必須先追得上敵人。,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 unit_ability_types_onscreen_name_3k_main_ability_reign_of_terror,主動增強效果,TRUE
 unit_ability_types_onscreen_name_3k_main_ability_tempered_deflection,被動減弱效果,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 unit_abilities_tooltip_text_3k_main_ability_imperious_presence,曹操在場，敵將備受壓制！,FALSE
 character_skills_localised_description_3k_main_skill_special_ability_earth_imperious_presence,曹操在場，敵將備受壓制！,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 unit_ability_types_onscreen_name_3k_main_ability_fleet_footed,主動增強效果,FALSE
 unit_abilities_onscreen_name_hv_ability_whitewater,激流湧升,TRUE
 unit_abilities_tooltip_text_hv_ability_whitewater,此人的傳奇風采使敵人望而卻步。,TRUE
@@ -2783,22 +2783,22 @@ effects_description_hv_effect_unlock_strength_of_the_land,技能：大地之力,
 effects_description_hv_effect_unlock_flame_breathing,技能：吐火,TRUE
 effects_description_hv_effect_unlock_striking_tide,技能：刀浪澎湃,TRUE
 effects_description_hv_effect_unlock_second_chance,技能：餘燼復燃,TRUE
-----skill name----,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
-character_skills_localised_name_hv_skill_ability_flower_of_battlefield_authority,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+----skill name----,,FALSE
+character_skills_localised_name_hv_skill_ability_flower_of_battlefield_authority,戰場之花,TRUE
 character_skills_localised_name_hv_skill_ability_imperious_presence_authority,霸氣逼人,TRUE
 character_skills_localised_name_hv_skill_ability_inspiring_words_authority,慷慨陳詞,TRUE
-character_skills_localised_name_hv_skill_ability_royal_blood_authority,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_name_hv_skill_ability_royal_blood_authority,皇室貴胄,TRUE
 character_skills_localised_name_hv_skill_ability_distant_courage_authority,千里助勢,TRUE
 character_skills_localised_name_hv_skill_ability_order_of_tyrant_authority,突飛猛進,TRUE
-character_skills_localised_name_hv_skill_ability_cruel_lord_authority,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-character_skills_localised_name_hv_skill_ability_defence_mastery_authority,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_name_hv_skill_ability_cruel_lord_authority,酷令,TRUE
+character_skills_localised_name_hv_skill_ability_defence_mastery_authority,山陣,TRUE
 character_skills_localised_name_hv_skill_ability_show_of_force_authority,揚威挫銳,TRUE
 character_skills_localised_name_hv_skill_ability_nature_s_ally_authority,自然之友,TRUE
-character_skills_localised_name_hv_skill_ability_the_weight_on_the_shoulders_authority,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_name_hv_skill_ability_the_weight_on_the_shoulders_authority,身負重擔,TRUE
 character_skills_localised_name_hv_skill_ability_stone_bulwark_authority,堅若磐石,TRUE
 character_skills_localised_name_hv_skill_ability_unyielding_earth_authority,不屈之土,TRUE
 character_skills_localised_name_hv_skill_ability_storm_of_swords_authority,劍刃風暴,TRUE
-character_skills_localised_name_hv_skill_ability_mark_target_authority,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_name_hv_skill_ability_mark_target_authority,瞄定,TRUE
 character_skills_localised_name_hv_skill_ability_flames_of_the_phoenix_authority,鳳凰之火,TRUE
 character_skills_localised_name_hv_skill_ability_fire_bomb_authority,火油彈,TRUE
 character_skills_localised_name_hv_skill_ability_brawl_authority,毆打,TRUE
@@ -2822,7 +2822,7 @@ character_skills_localised_name_hv_skill_ability_smouldering_fury_instinct,怒�
 character_skills_localised_name_hv_skill_ability_blood_fury_instinct,鮮血之怒,TRUE
 character_skills_localised_name_hv_skill_ability_the_dragon_s_gaze_instinct,蛟龍怒目,TRUE
 character_skills_localised_name_hv_skill_ability_reign_of_terror_instinct,恐怖統治,TRUE
-character_skills_localised_name_hv_skill_ability_dong_command_instinct,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_name_hv_skill_ability_dong_command_instinct,董卓之令,TRUE
 character_skills_localised_name_hv_skill_ability_blade_breaker_instinct,堅甲破刃,TRUE
 character_skills_localised_name_hv_skill_ability_devastating_roar_instinct,毀滅之吼,TRUE
 character_skills_localised_name_hv_skill_ability_roar_of_the_beast_instinct,野獸咆哮,TRUE
@@ -2839,7 +2839,7 @@ character_skills_localised_name_hv_skill_ability_scattering_blows_instinct,潰�
 character_skills_localised_name_hv_skill_ability_undying_vow_instinct,誓死不屈,TRUE
 character_skills_localised_name_hv_skill_ability_brawl_instinct,毆打,TRUE
 character_skills_localised_name_hv_skill_ability_mortal_strike_instinct,致命一擊,TRUE
-character_skills_localised_name_hv_skill_ability_flower_of_battlefield_instinct,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_name_hv_skill_ability_flower_of_battlefield_instinct,戰場之花,TRUE
 character_skills_localised_name_hv_skill_ability_royal_blood_instinct,皇室貴胄,TRUE
 character_skills_localised_name_hv_skill_ability_distant_courage_instinct,千里助勢,TRUE
 character_skills_localised_name_hv_skill_ability_storm_of_swords_instinct,劍刃風暴,TRUE
@@ -2861,19 +2861,19 @@ character_skills_localised_name_hv_skill_ability_elemental_vigour_expertise,五�
 character_skills_localised_name_hv_skill_ability_quickfire_expertise,連珠砲,TRUE
 character_skills_localised_name_hv_skill_ability_hail_of_arrows_expertise,箭如雨下,TRUE
 character_skills_localised_name_hv_skill_ability_warning_shot_expertise,警告射擊,TRUE
-character_skills_localised_name_hv_skill_ability_ghost_of_forest_expertise,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_name_hv_skill_ability_ghost_of_forest_expertise,林中之鬼,TRUE
 character_skills_localised_name_hv_skill_ability_swift_fingers_expertise,十指靈巧,TRUE
 character_skills_localised_name_hv_skill_ability_tenacity_of_steel_expertise,堅韌如鋼,TRUE
 character_skills_localised_name_hv_skill_ability_tempered_deflection_expertise,鍛甲禦矢,TRUE
 character_skills_localised_name_hv_skill_ability_assemble_expertise,集結,TRUE
-character_skills_localised_name_hv_skill_ability_blade_mastery_expertise,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_name_hv_skill_ability_blade_mastery_expertise,劍術大師,TRUE
 character_skills_localised_name_hv_skill_ability_exemplar_expertise,為人典範,TRUE
 character_skills_localised_name_hv_skill_ability_calm_down_expertise,鎮靜,TRUE
 character_skills_localised_name_hv_skill_ability_swift_steps_expertise,靈動步伐,TRUE
-character_skills_localised_name_hv_skill_ability_flower_of_battlefield_expertise,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_name_hv_skill_ability_flower_of_battlefield_expertise,戰場之花,TRUE
 character_skills_localised_name_hv_skill_ability_royal_blood_expertise,皇室貴胄,TRUE
 character_skills_localised_name_hv_skill_ability_storm_of_swords_expertise,劍刃風暴,TRUE
-character_skills_localised_name_hv_skill_ability_mark_target_expertise,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_name_hv_skill_ability_mark_target_expertise,瞄定,TRUE
 character_skills_localised_name_hv_skill_ability_aggressive_anger_expertise,愈戰愈怒,TRUE
 character_skills_localised_name_hv_skill_ability_mortal_strike_expertise,致命一擊,TRUE
 character_skills_localised_name_hv_skill_ability_fire_control_expertise,火控,TRUE
@@ -2883,19 +2883,19 @@ character_skills_localised_name_hv_skill_ability_hamstring_expertise,削斷腿�
 character_skills_localised_name_hv_skill_ability_bleed_expertise,險惡一擊,TRUE
 character_skills_localised_name_hv_skill_ability_tiger_expertise,白虎,TRUE
 character_skills_localised_name_hv_skill_ability_foresight_cunning,縱觀全局,TRUE
-character_skills_localised_name_hv_skill_ability_kingmaker_cunning,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_name_hv_skill_ability_kingmaker_cunning,王佐,TRUE
 character_skills_localised_name_hv_skill_ability_whitewater_cunning,激流湧升,TRUE
 character_skills_localised_name_hv_skill_ability_sight_of_the_dragon_cunning,龍之慧眼,TRUE
 character_skills_localised_name_hv_skill_ability_way_of_the_wind_cunning,預測風向,TRUE
 character_skills_localised_name_hv_skill_ability_from_the_ashes_cunning,死灰復燃,TRUE
-character_skills_localised_name_hv_skill_ability_zhou_the_youth_cunning,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_name_hv_skill_ability_zhou_the_youth_cunning,美周郎,TRUE
 character_skills_localised_name_hv_skill_ability_heavenly_grace_cunning,天仙氣質,TRUE
 character_skills_localised_name_hv_skill_ability_wisdom_of_the_river_cunning,河之智慧,TRUE
-character_skills_localised_name_hv_skill_ability_wisdom_of_the_waterfall_cunning,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-character_skills_localised_name_hv_skill_ability_veil_of_darkness_cunning,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-character_skills_localised_name_hv_skill_ability_oil_bomb_cunning,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_name_hv_skill_ability_wisdom_of_the_waterfall_cunning,飛泉之智,TRUE
+character_skills_localised_name_hv_skill_ability_veil_of_darkness_cunning,黑暗面紗,TRUE
+character_skills_localised_name_hv_skill_ability_oil_bomb_cunning,油罐,TRUE
 character_skills_localised_name_hv_skill_ability_fire_control_cunning,火控,TRUE
-character_skills_localised_name_hv_skill_ability_inspection_cunning,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_name_hv_skill_ability_inspection_cunning,前線查探,TRUE
 character_skills_localised_name_hv_skill_ability_analyse_weakness_cunning,分析弱點,TRUE
 character_skills_localised_name_hv_skill_ability_hamper_cunning,攪擾,TRUE
 character_skills_localised_name_hv_skill_ability_turning_the_tide_cunning,力挽狂瀾,TRUE
@@ -2920,13 +2920,13 @@ character_skills_localised_name_hv_skill_ability_crash_resolve,天崩地裂,TRUE
 character_skills_localised_name_hv_skill_ability_stalwart_defender_resolve,步步為營,TRUE
 character_skills_localised_name_hv_skill_ability_cry_of_the_forest_resolve,森林戰嚎,TRUE
 character_skills_localised_name_hv_skill_ability_vengeance_resolve,有仇必報,TRUE
-character_skills_localised_name_hv_skill_ability_wolf_resolve,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_name_hv_skill_ability_wolf_resolve,戰狼,TRUE
 character_skills_localised_name_hv_skill_ability_sparrow_resolve,燕翔,TRUE
 character_skills_localised_name_hv_skill_ability_inner_vitality_resolve,内在活力,TRUE
 character_skills_localised_name_hv_skill_ability_binding_fury_resolve,怒不可抑,TRUE
 character_skills_localised_name_hv_skill_ability_hamstring_resolve,削斷腿筋,TRUE
 character_skills_localised_name_hv_skill_ability_indomitable_warrior_resolve,無畏之士,TRUE
-character_skills_localised_name_hv_skill_ability_tiger_resolve,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_name_hv_skill_ability_tiger_resolve,白虎,TRUE
 character_skills_localised_name_hv_skill_ability_bleed_resolve,險惡一擊,TRUE
 character_skills_localised_name_hv_skill_ability_into_the_breach_resolve,乘隙而入,TRUE
 character_skills_localised_name_hv_skill_ability_reckless_strike_resolve,蠻橫猛擊,TRUE
@@ -2934,7 +2934,7 @@ character_skills_localised_name_hv_skill_ability_eviscerate_resolve,剔骨,TRUE
 character_skills_localised_name_hv_skill_ability_anti_cavalry_resolve,反騎兵戰術,TRUE
 character_skills_localised_name_hv_skill_ability_overwhelm_resolve,壓倒之勢,TRUE
 character_skills_localised_name_hv_skill_ability_forest_strider_resolve,森林適性,TRUE
-character_skills_localised_name_hv_skill_ability_flower_of_battlefield_resolve,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_name_hv_skill_ability_flower_of_battlefield_resolve,戰場之花,TRUE
 character_skills_localised_name_hv_skill_ability_royal_blood_resolve,皇室貴胄,TRUE
 character_skills_localised_name_hv_skill_ability_order_of_tyrant_resolve,突飛猛進,TRUE
 character_skills_localised_name_hv_skill_ability_nature_s_ally_resolve,自然之友,TRUE
@@ -2944,7 +2944,7 @@ character_skills_localised_name_hv_skill_ability_scattering_blows_resolve,潰散
 character_skills_localised_name_hv_skill_ability_tenacity_of_steel_resolve,堅韌如鋼,TRUE
 character_skills_localised_name_hv_skill_ability_tempered_deflection_resolve,鍛甲禦矢,TRUE
 character_skills_localised_name_hv_skill_ability_assemble_resolve,集結,TRUE
-character_skills_localised_name_hv_skill_ability_inspection_resolve,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_name_hv_skill_ability_inspection_resolve,前線查探,TRUE
 character_skills_localised_name_hv_skill_ability_blade_mastery_resolve,劍術大師,TRUE
 character_skills_localised_name_hv_skill_ability_exemplar_resolve,為人典範,TRUE
 character_skills_localised_name_hv_skill_ability_adamant_resolve_resolve,堅定不移,TRUE
@@ -2972,21 +2972,21 @@ character_skills_localised_name_hv_skill_ability_hamstring_veteran,削斷腿筋,
 character_skills_localised_name_hv_skill_ability_wisdom_of_the_waterfall_veteran,飛泉之智,TRUE
 character_skills_localised_name_hv_skill_ability_wisdom_of_the_river_veteran,河之智慧,TRUE
 character_skills_localised_name_hv_skill_ability_calm_down_veteran,鎮靜,TRUE
-character_skills_localised_description_hv_skill_ability_flower_of_battlefield_authority,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_description_hv_skill_ability_flower_of_battlefield_authority,此處不宜美人久留。,TRUE
 character_skills_localised_description_hv_skill_ability_imperious_presence_authority,曹操的聰明睿智能使他的部隊行動更有效率！,TRUE
 character_skills_localised_description_hv_skill_ability_inspiring_words_authority,劉備的激昂言辭引領他的部下共創偉業！,TRUE
-character_skills_localised_description_hv_skill_ability_royal_blood_authority,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_description_hv_skill_ability_royal_blood_authority,如果以弓箭射傷此人，弓箭手將受到天下的責難。,TRUE
 character_skills_localised_description_hv_skill_ability_distant_courage_authority,這名英雄指揮若定，鼓舞盟友大顯身手…但他本人並不親赴前線。,TRUE
 character_skills_localised_description_hv_skill_ability_order_of_tyrant_authority,傲慢即信心所在。,TRUE
-character_skills_localised_description_hv_skill_ability_cruel_lord_authority,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-character_skills_localised_description_hv_skill_ability_defence_mastery_authority,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_description_hv_skill_ability_cruel_lord_authority,命令不易實行但也不可不從。,TRUE
+character_skills_localised_description_hv_skill_ability_defence_mastery_authority,組成無隙可乘的防禦陣行。,TRUE
 character_skills_localised_description_hv_skill_ability_show_of_force_authority,扔擲爆裂彈來打擊敵軍士氣。,TRUE
 character_skills_localised_description_hv_skill_ability_nature_s_ally_authority,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。 ,TRUE
-character_skills_localised_description_hv_skill_ability_the_weight_on_the_shoulders_authority,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_description_hv_skill_ability_the_weight_on_the_shoulders_authority,總有人要付諸行動，就算沒有人願意處理。,TRUE
 character_skills_localised_description_hv_skill_ability_stone_bulwark_authority,皮若堅石，箭矢觸及皆反彈無傷。,TRUE
 character_skills_localised_description_hv_skill_ability_unyielding_earth_authority,大地為它的戰士們提供屏障。,TRUE
 character_skills_localised_description_hv_skill_ability_storm_of_swords_authority,衝突無法避免。,TRUE
-character_skills_localised_description_hv_skill_ability_mark_target_authority,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_description_hv_skill_ability_mark_target_authority,選定目標集中射擊。,TRUE
 character_skills_localised_description_hv_skill_ability_flames_of_the_phoenix_authority,挾帶竄升烈火之力的毀滅一擊！,TRUE
 character_skills_localised_description_hv_skill_ability_fire_bomb_authority,扔擲爆裂火油彈來擊倒敵人。,TRUE
 character_skills_localised_description_hv_skill_ability_brawl_authority,将你的勇士们送入战场，看着他们更加激烈的战斗。,TRUE
@@ -3010,7 +3010,7 @@ character_skills_localised_description_hv_skill_ability_smouldering_fury_instinc
 character_skills_localised_description_hv_skill_ability_blood_fury_instinct,孫策戰力漸增，卻也愈加感情用事…,TRUE
 character_skills_localised_description_hv_skill_ability_the_dragon_s_gaze_instinct,呂布怒目一瞪，眾兵卒無不驚懼畏怯！,TRUE
 character_skills_localised_description_hv_skill_ability_reign_of_terror_instinct,暴君盛怒，部下皆心懷恐懼。,TRUE
-character_skills_localised_description_hv_skill_ability_dong_command_instinct,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_description_hv_skill_ability_dong_command_instinct,嚴苛高壓的命令。,TRUE
 character_skills_localised_description_hv_skill_ability_blade_breaker_instinct,暴君眼見刀刃碰上其護甲瞬被彈開，無法損及分毫，猖狂大笑。,TRUE
 character_skills_localised_description_hv_skill_ability_devastating_roar_instinct,狂怒的吼聲擊潰敵軍士氣！,TRUE
 character_skills_localised_description_hv_skill_ability_roar_of_the_beast_instinct,常勝戰士的氣焰熾熱得令人不敢直視！,TRUE
@@ -3019,7 +3019,7 @@ character_skills_localised_description_hv_skill_ability_sundering_strike_instinc
 character_skills_localised_description_hv_skill_ability_internal_blaze_instinct,馬超心中的不滿化作爆發的狂怒，抑制不住地直往敵人轟去！,TRUE
 character_skills_localised_description_hv_skill_ability_blazing_saddles_instinct,發動強力的衝鋒，使夏侯淵耗盡專注力。,TRUE
 character_skills_localised_description_hv_skill_ability_wildfire_instinct,甘寧有如燎原野火，動作越發迅捷。,TRUE
-character_skills_localised_description_hv_skill_ability_burning_instinct,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_description_hv_skill_ability_burning_instinct,火勢越猛，持燒之時越短。,TRUE
 character_skills_localised_description_hv_skill_ability_flames_of_the_phoenix_instinct,挾帶竄升烈火之力的毀滅一擊！,TRUE
 character_skills_localised_description_hv_skill_ability_fire_bomb_instinct,扔擲爆裂火油彈來擊倒敵人。,TRUE
 character_skills_localised_description_hv_skill_ability_aggressive_anger_instinct,以不滅的怒氣煽動戰火。,TRUE
@@ -3027,7 +3027,7 @@ character_skills_localised_description_hv_skill_ability_scattering_blows_instinc
 character_skills_localised_description_hv_skill_ability_undying_vow_instinct,直到最後的最後，如果可以的話，甚至直到最後一口氣，此人都會穩守陣地、絕不低頭。,TRUE
 character_skills_localised_description_hv_skill_ability_brawl_instinct,将你的勇士们送入战场，看着他们更加激烈的战斗。,TRUE
 character_skills_localised_description_hv_skill_ability_mortal_strike_instinct,可發出非常有力的一擊。,TRUE
-character_skills_localised_description_hv_skill_ability_flower_of_battlefield_instinct,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_description_hv_skill_ability_flower_of_battlefield_instinct,此處不宜美人久留。,TRUE
 character_skills_localised_description_hv_skill_ability_royal_blood_instinct,如果以弓箭射傷此人，弓箭手將受到天下的責難。,TRUE
 character_skills_localised_description_hv_skill_ability_distant_courage_instinct,這名英雄指揮若定，鼓舞盟友大顯身手…但他本人並不親赴前線。,TRUE
 character_skills_localised_description_hv_skill_ability_storm_of_swords_instinct,衝突無法避免。,TRUE
@@ -3049,19 +3049,19 @@ character_skills_localised_description_hv_skill_ability_elemental_vigour_experti
 character_skills_localised_description_hv_skill_ability_quickfire_expertise,此弓手不斷引弓放箭，越放越快，毫不留手。,TRUE
 character_skills_localised_description_hv_skill_ability_hail_of_arrows_expertise,漫天箭雨可拖慢敵人前進的速度。,TRUE
 character_skills_localised_description_hv_skill_ability_warning_shot_expertise,敵人深知下一箭必不失準。,TRUE
-character_skills_localised_description_hv_skill_ability_ghost_of_forest_expertise,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_description_hv_skill_ability_ghost_of_forest_expertise,此人知曉如何於林中震攝敵軍。,TRUE
 character_skills_localised_description_hv_skill_ability_swift_fingers_expertise,這些將領回想起自己受過的訓練，以令人刮目相看的飛速裝填矢石。,TRUE
 character_skills_localised_description_hv_skill_ability_tenacity_of_steel_expertise,這名戰士越戰越勇！,TRUE
 character_skills_localised_description_hv_skill_ability_tempered_deflection_expertise,如鋼鐵般冷靜堅毅，就更能擋開攻勢。,TRUE
 character_skills_localised_description_hv_skill_ability_assemble_expertise,军士聚于此英雄之旗下。,TRUE
-character_skills_localised_description_hv_skill_ability_blade_mastery_expertise,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_description_hv_skill_ability_blade_mastery_expertise,其劍術無能出其右者。,TRUE
 character_skills_localised_description_hv_skill_ability_exemplar_expertise,此人乃是為人表率的耀眼典範，更重要的是其舉止得體。,TRUE
 character_skills_localised_description_hv_skill_ability_calm_down_expertise,安慰之言以防士卒于乱战中摇摆不定。,TRUE
 character_skills_localised_description_hv_skill_ability_swift_steps_expertise,雙腳連續快速交互向前，這就是迅敏的關鍵。,TRUE
-character_skills_localised_description_hv_skill_ability_flower_of_battlefield_expertise,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_description_hv_skill_ability_flower_of_battlefield_expertise,此處不宜美人久留。,TRUE
 character_skills_localised_description_hv_skill_ability_royal_blood_expertise,如果以弓箭射傷此人，弓箭手將受到天下的責難。,TRUE
 character_skills_localised_description_hv_skill_ability_storm_of_swords_expertise,衝突無法避免。,TRUE
-character_skills_localised_description_hv_skill_ability_mark_target_expertise,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_description_hv_skill_ability_mark_target_expertise,選定目標集中射擊。,TRUE
 character_skills_localised_description_hv_skill_ability_aggressive_anger_expertise,以不滅的怒氣煽動戰火。,TRUE
 character_skills_localised_description_hv_skill_ability_mortal_strike_expertise,可發出非常有力的一擊。,TRUE
 character_skills_localised_description_hv_skill_ability_fire_control_expertise,依序射擊更為有效。,TRUE
@@ -3071,19 +3071,19 @@ character_skills_localised_description_hv_skill_ability_hamstring_expertise,精�
 character_skills_localised_description_hv_skill_ability_bleed_expertise,這種攻擊讓人覺得不太對勁。,TRUE
 character_skills_localised_description_hv_skill_ability_tiger_expertise,此人精神如猛虎，在沒有偉大的勇氣支持下無人膽敢面對此人。,TRUE
 character_skills_localised_description_hv_skill_ability_foresight_cunning,此人能明鑑古今，洞察未來。,TRUE
-character_skills_localised_description_hv_skill_ability_kingmaker_cunning,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_description_hv_skill_ability_kingmaker_cunning,荀彧是位有能輔佐帝王之士，沒有人會懷疑這一點。,TRUE
 character_skills_localised_description_hv_skill_ability_whitewater_cunning,此人的傳奇風采使敵人望而卻步。,TRUE
 character_skills_localised_description_hv_skill_ability_sight_of_the_dragon_cunning,敵軍現蹤影，大地顯蹤跡。,TRUE
 character_skills_localised_description_hv_skill_ability_way_of_the_wind_cunning,諸葛亮對自然萬物觀察細微而能預知風向。,TRUE
 character_skills_localised_description_hv_skill_ability_from_the_ashes_cunning,龐統犧牲己身，協助同袍兄弟。,TRUE
-character_skills_localised_description_hv_skill_ability_zhou_the_youth_cunning,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_description_hv_skill_ability_zhou_the_youth_cunning,周瑜的情操足以激勵他人。,TRUE
 character_skills_localised_description_hv_skill_ability_heavenly_grace_cunning,她運用美色，迷得周圍所有人動彈不得。,TRUE
 character_skills_localised_description_hv_skill_ability_wisdom_of_the_river_cunning,了解敵人，就能減弱他們的防禦。,TRUE
-character_skills_localised_description_hv_skill_ability_wisdom_of_the_waterfall_cunning,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-character_skills_localised_description_hv_skill_ability_veil_of_darkness_cunning,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-character_skills_localised_description_hv_skill_ability_oil_bomb_cunning,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_description_hv_skill_ability_wisdom_of_the_waterfall_cunning,鮭魚在瀑布盡頭時所面對的就是熊的牙齒。,TRUE
+character_skills_localised_description_hv_skill_ability_veil_of_darkness_cunning,未知的焦慮於敵方裡蔓延。,TRUE
+character_skills_localised_description_hv_skill_ability_oil_bomb_cunning,扔擲黏糊糊油罐至目標敵人。,TRUE
 character_skills_localised_description_hv_skill_ability_fire_control_cunning,依序射擊更為有效。,TRUE
-character_skills_localised_description_hv_skill_ability_inspection_cunning,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_description_hv_skill_ability_inspection_cunning,以非凡的觀察力縱觀戰場。,TRUE
 character_skills_localised_description_hv_skill_ability_analyse_weakness_cunning,只有透過審慎周詳的分析，才能化弱為強。,TRUE
 character_skills_localised_description_hv_skill_ability_hamper_cunning,分散敵軍遠程部隊的注意力。,TRUE
 character_skills_localised_description_hv_skill_ability_turning_the_tide_cunning,周遭敵軍單位潰逃時，賦予周遭我方單位士氣增強效果。,TRUE
@@ -3108,13 +3108,13 @@ character_skills_localised_description_hv_skill_ability_crash_resolve,飽含怒�
 character_skills_localised_description_hv_skill_ability_stalwart_defender_resolve,此人是天生的護衛將才，所有攻擊對他來說都不痛不癢！,TRUE
 character_skills_localised_description_hv_skill_ability_cry_of_the_forest_resolve,典韋在傷得最重時，才會顯露出真正的實力！,TRUE
 character_skills_localised_description_hv_skill_ability_vengeance_resolve,夏侯惇在情況危急時反而能發揮最強實力，不過他也容易因此失去理智。,TRUE
-character_skills_localised_description_hv_skill_ability_wolf_resolve,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_description_hv_skill_ability_wolf_resolve,謹慎向前，緊咬其咽喉。,TRUE
 character_skills_localised_description_hv_skill_ability_sparrow_resolve,無人能快過飛燕的速度。,TRUE
 character_skills_localised_description_hv_skill_ability_inner_vitality_resolve,以戰爲生的勇士。,TRUE
 character_skills_localised_description_hv_skill_ability_binding_fury_resolve,集結全森林之力對付一個敵人。,TRUE
 character_skills_localised_description_hv_skill_ability_hamstring_resolve,精心策劃的襲擊，讓不幸的敵人措手不及。,TRUE
-character_skills_localised_description_hv_skill_ability_indomitable_warrior_resolve,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-character_skills_localised_description_hv_skill_ability_tiger_resolve,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_description_hv_skill_ability_indomitable_warrior_resolve,此人屢敗屢戰。,TRUE
+character_skills_localised_description_hv_skill_ability_tiger_resolve,此人精神如猛虎，在沒有偉大的勇氣支持下無人膽敢面對此人。,TRUE
 character_skills_localised_description_hv_skill_ability_bleed_resolve,這種攻擊讓人覺得不太對勁。,TRUE
 character_skills_localised_description_hv_skill_ability_into_the_breach_resolve,以堅定的心智和強硬的刀刃發起衝鋒，便能一舉撕裂敵陣。,TRUE
 character_skills_localised_description_hv_skill_ability_reckless_strike_resolve,如果這一擊命中，戰鬥便會結束。如果沒有命中，那麼…戰鬥仍然可能結束。,TRUE
@@ -3122,17 +3122,17 @@ character_skills_localised_description_hv_skill_ability_eviscerate_resolve,等�
 character_skills_localised_description_hv_skill_ability_anti_cavalry_resolve,將士兵組成人墻來抵禦馬匹。此戰術簡單有效。,TRUE
 character_skills_localised_description_hv_skill_ability_overwhelm_resolve,展現出勢不可擋的憤怒。,TRUE
 character_skills_localised_description_hv_skill_ability_forest_strider_resolve,此人與林爲友。,TRUE
-character_skills_localised_description_hv_skill_ability_flower_of_battlefield_resolve,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_description_hv_skill_ability_flower_of_battlefield_resolve,此處不宜美人久留。,TRUE
 character_skills_localised_description_hv_skill_ability_royal_blood_resolve,如果以弓箭射傷此人，弓箭手將受到天下的責難。,TRUE
 character_skills_localised_description_hv_skill_ability_order_of_tyrant_resolve,傲慢即信心所在。,TRUE
 character_skills_localised_description_hv_skill_ability_nature_s_ally_resolve,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。 ,TRUE
-character_skills_localised_description_hv_skill_ability_burning_resolve,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_description_hv_skill_ability_burning_resolve,火勢越猛，持燒之時越短。,TRUE
 character_skills_localised_description_hv_skill_ability_flames_of_the_phoenix_resolve,挾帶竄升烈火之力的毀滅一擊！,TRUE
 character_skills_localised_description_hv_skill_ability_scattering_blows_resolve,猶如驟雨般的連綿攻勢，一次次地衝擊對手。,TRUE
 character_skills_localised_description_hv_skill_ability_tenacity_of_steel_resolve,這名戰士越戰越勇！,TRUE
 character_skills_localised_description_hv_skill_ability_tempered_deflection_resolve,如鋼鐵般冷靜堅毅，就更能擋開攻勢。,TRUE
 character_skills_localised_description_hv_skill_ability_assemble_resolve,军士聚于此英雄之旗下。,TRUE
-character_skills_localised_description_hv_skill_ability_inspection_resolve,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+character_skills_localised_description_hv_skill_ability_inspection_resolve,以非凡的觀察力縱觀戰場。,TRUE
 character_skills_localised_description_hv_skill_ability_blade_mastery_resolve,其劍術無能出其右者。,TRUE
 character_skills_localised_description_hv_skill_ability_exemplar_resolve,此人乃是為人表率的耀眼典範，更重要的是其舉止得體。,TRUE
 character_skills_localised_description_hv_skill_ability_adamant_resolve_resolve,抱有足夠的決心與膽識便可避開所有攻勢。,TRUE
@@ -3160,7 +3160,7 @@ character_skills_localised_description_hv_skill_ability_hamstring_veteran,精心
 character_skills_localised_description_hv_skill_ability_wisdom_of_the_waterfall_veteran,鮭魚在瀑布盡頭時所面對的就是熊的牙齒。,TRUE
 character_skills_localised_description_hv_skill_ability_wisdom_of_the_river_veteran,了解敵人，就能減弱他們的防禦。,TRUE
 character_skills_localised_description_hv_skill_ability_calm_down_veteran,安慰之言以防士卒于乱战中摇摆不定。,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 character_skills_localised_name_hv_skill_ability_heavenly_presence_authority,天人親臨,FALSE
 character_skills_localised_name_hv_skill_ability_ceasefire_authority,止兵莫動,FALSE
 character_skills_localised_name_hv_skill_ability_impenetrable_redoubt_authority,堅韌堡壘,FALSE
@@ -3484,7 +3484,7 @@ unit_ability_types_localised_description_hv_ability_retreat_cover,掩護撤退,F
 unit_ability_types_onscreen_name_hv_ability_retreat_cover,被動技能,FALSE
 unit_abilities_tooltip_text_hv_ability_retreat_cover,掩護友軍安全撤離。,FALSE
 special_ability_phases_onscreen_name_hv_ability_retreat_cover,掩護撤退,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 unit_abilities_tooltip_text_3k_main_ability_imperious_presence,曹操在場，敵人意志消沉。,FALSE
 character_skills_localised_description_3k_main_skill_special_ability_earth_imperious_presence,曹操在場，敵人意志消沉。,FALSE
 unit_abilities_onscreen_name_hv_yuan_caltrops,蒺藜,FALSE
@@ -3651,22 +3651,22 @@ unit_description_short_texts_text_hv_unit_northern_mace_cavalry,燕疆不乏良�
 unit_description_short_texts_text_hv_unit_northern_spear_cavalry,對任何一個士兵來説，一隊持槍騎兵的衝鋒都會令人生畏。但如果殺來的是燕國戰士，則是一種全新的恐怖。,TRUE
 unit_description_short_texts_text_hv_unit_chen_peacekeepers_halberd_infantry,只要這些人有力量揮舞他們的戰戟，漢室的榮耀就將延續。,TRUE
 unit_description_short_texts_text_hv_unit_chen_peacekeepers_crossbowmen,無論遠近，這些士卒都要為任何威脅他們主公的人討回公道。 ,TRUE
-unit_description_short_texts_text_hv_unit_chen_royal_guard_cavalry,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+unit_description_short_texts_text_hv_unit_chen_royal_guard_cavalry,A prince's retinue reflects their glory in splendour. These brave cavalrymen match their splendour with equal prowress in battle.,TRUE
 unit_description_short_texts_text_hv_unit_jei_fan_infantry,這些多能的步兵幾乎可以解决吳軍將領可能面臨的任何問題。,TRUE
 unit_description_short_texts_text_hv_unit_blue_turban_infantry,當敵人在戰場上看到藍色頭巾時，他們就知道最艱苦的戰鬥即將開始。,TRUE
 unit_description_short_texts_text_hv_unit_yuan_sword_infantry,顯赫的血統可以使許多劍士願意效命。,TRUE
 unit_description_short_texts_text_hv_unit_militia_scout_cavalry,長久保衛家園之後，即使是民兵也可能成長為職業士兵的對手。,TRUE
 unit_description_short_texts_text_hv_unit_buqu_of_the_left,漢室必須復興。這些人將誓死跟隨他們通曉大義的將軍。,TRUE
-unit_description_short_texts_text_hv_unit_militia_black_mountain_outlaws,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-unit_description_short_texts_text_hv_unit_militia_taishan_outlaws,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-unit_description_short_texts_text_hv_unit_militia_white_tiger_outlaws,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+unit_description_short_texts_text_hv_unit_militia_black_mountain_outlaws,"The desperate and the disenfranchised gather at the base of Black Mountain, ready to expand their fortunes or die trying.",TRUE
+unit_description_short_texts_text_hv_unit_militia_taishan_outlaws,"With club in hand, the desperate shall make a fortune and name for themselves, or die trying.",TRUE
+unit_description_short_texts_text_hv_unit_militia_white_tiger_outlaws,"In the hills and mountains of the Southlands, the desperate will lay down their lives to escape the Han.",TRUE
 unit_description_short_texts_text_hv_unit_bandits_axe_infantry,未完成,TRUE
 unit_description_short_texts_text_hv_unit_bandits_2h_spear_infantry,未完成,TRUE
 unit_description_short_texts_text_hv_unit_bandits_archers,未完成,TRUE
 unit_description_short_texts_text_hv_unit_bandits_2h_spear_cavalry,未完成,TRUE
 unit_description_short_texts_text_hv_unit_bandits_sabre_cavalry,未完成,TRUE
-unit_description_short_texts_text_hv_unit_taishan_phantoms,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-unit_description_short_texts_text_hv_unit_taishan_poison_wind,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+unit_description_short_texts_text_hv_unit_taishan_phantoms,"Great danger hides in the early mist of day. Phantoms that will maim their prey, or whose choking gass leaves them gasping for air.",TRUE
+unit_description_short_texts_text_hv_unit_taishan_poison_wind,"The sting of an arrowshaft can be deadly, but with these archers, death may still find you long after the arrow pierced your flesh.",TRUE
 unit_description_short_texts_text_hv_unit_black_mountain_bandits,未完成,TRUE
 unit_description_short_texts_text_hv_unit_white_tiger_bandits,未完成,TRUE
 unit_description_short_texts_text_hv_unit_yue_freemen,南方山間的陡峭山崖將百姓磨練成目光如電的戰士。,TRUE
@@ -3688,7 +3688,7 @@ unit_description_short_texts_text_hv_unit_porcupine_crossbowmen,未完成,TRUE
 unit_description_short_texts_text_hv_unit_zhong_royal_guard,未完成,TRUE
 unit_description_short_texts_text_hv_unit_jianan_hand_ji_infantry,未完成,TRUE
 unit_description_short_texts_text_hv_unit_jianan_archers,未完成,TRUE
-unit_description_short_texts_text_hv_unit_stray_artisans,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+unit_description_short_texts_text_hv_unit_stray_artisans,Ingenuity and craftsmanship can turn even a lowly militiaman into a daunting foe.,TRUE
 unit_description_short_texts_text_hv_unit_fellows_of_the_oath,未完成,TRUE
 unit_description_short_texts_text_hv_unit_handmaid_guard,未完成,TRUE
 unit_description_short_texts_text_hv_unit_xian_chen_ying,多少軍隊試圖擊潰這些戰士，成功者寥寥無幾。,TRUE
@@ -3829,26 +3829,26 @@ unit_description_historical_texts_text_hv_unit_northern_spear_cavalry,這些騎�
 unit_description_historical_texts_text_hv_unit_chen_peacekeepers_halberd_infantry,汉德虽衰，餘威猶存。這些戰士為陳王劉寵效勞。他們身穿金漆鎧甲，在戰場上形成一道璀璨的風景，提醒世人，只要他們還站著，漢室就還沒有消亡。\\n\\n這些士兵從陳王那裡得到了精美的盔甲，他們熟練地揮舞著他們的長戟來保衛漢室。作為一支紀律嚴明的部隊，他們向敵人挺進，來見證漢室的輝煌。,TRUE
 unit_description_historical_texts_text_hv_unit_chen_peacekeepers_crossbowmen,汉德虽衰，餘威猶存。這些戰士為陳王劉寵效勞。他們身穿金漆鎧甲，在戰場上形成一道璀璨的風景，提醒世人，只要他們還站著，漢室就還沒有消亡。\\n\\n這些特殊的士兵裝備著弩箭，可以用穿甲弩矢無情地對漢室的敵人進行猛烈的炮擊。如果敵人的騎兵想衝鋒，他們會有一個不愉快的驚喜：這些戰士還裝備著長矛和盾牌，會毫不猶豫地擊倒任何靠近的騎兵！,TRUE
 unit_description_historical_texts_text_hv_unit_chen_royal_guard_cavalry,汉德虽衰，餘威猶存。這些戰士為陳王劉寵效勞。他們身穿金漆鎧甲，在戰場上形成一道璀璨的風景，提醒世人，只要他們還站著，漢室就還沒有消亡。\\n\\n這些禁衛軍是他們盟友的希望。每人都被賜予良馬重甲，受過各種武器的訓練，從弓弩到劍盾，也都是經過許多戰鬥的老兵。,TRUE
-unit_description_historical_texts_text_hv_unit_jei_fan_infantry,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-unit_description_historical_texts_text_hv_unit_blue_turban_infantry,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-unit_description_historical_texts_text_hv_unit_yuan_sword_infantry,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-unit_description_historical_texts_text_hv_unit_militia_scout_cavalry,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-unit_description_historical_texts_text_hv_unit_buqu_of_the_left,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+unit_description_historical_texts_text_hv_unit_jei_fan_infantry,"Treat your men as you would your own beloved sons. And they will follow you into the deepest valley. \\n\\n Serving the heirs of Sun Tzu, these men would willingly follow them into heirs and certain death. Armed with a light glaive and medium armor, these men can hold their own in a variety of situations, facing down cavalry or infantry with equal skill. Their versatility has caused them to be fondly called “problem solvers” by their commanders and are given great respect, which they repay with loyalty.",TRUE
+unit_description_historical_texts_text_hv_unit_blue_turban_infantry,"Move swift as the Wind and closely-formed as the Wood. Attack like the Fire and be still as the Mountain. \\n\\n These elite soldiers hail from Danyang province and are rapidly gaining renown with commanders in the crumbling Han empire. Armed with a glaive and heavy armor, they have gathered a reputation assaulting enemy strongpoints succesfully and routing their defenders. \\n\\n Already, enemies have learned to fear their expertise, as well as the gunpowder bombs they carry with them. When the Blue Turbans have been spotted on the field, the foe knows their days are numbered.",TRUE
+unit_description_historical_texts_text_hv_unit_yuan_sword_infantry,"The Yuan clan's fame brings many benefits, one of which the number of men willing to lay down their lives in their service. \\n\\n Wielding the noble Jian blade, and protected by stout shields and good armour, these swordsmen will defend their masters with zeal. They form the frontline of the Yuan battleline, chopping and slashing at their foe until either they or themselves are slain.",TRUE
+unit_description_historical_texts_text_hv_unit_militia_scout_cavalry,"With the many wars that ravage China, militias everywhere have sprung up to defend their home and livelihood from bandits, yellow turbans, and invading warlords. Tempered by hard-won experience, these men have become adepts at war by survival.  Equally skilled in melee as with the bow, they over time bought horses to level the playing field with the more professional troops they often face. Many of these veterans now flock to the banners of the warlords, providing a rapid response force fit for a variety of situations.",TRUE
+unit_description_historical_texts_text_hv_unit_buqu_of_the_left,"Recruited by Liu Bei during his time as ""General of the Left"", these soldiers now are loyal to their general and will fight to see his vision fulfilled. The Han shall be restored, and they will unleash a barrage of arrows upon any rebel who would see the Han extinguished. And And if their foes would close the distance, they shall find that they are equally skilled in melee combat, unless they fight cavalry.  ",TRUE
 unit_description_historical_texts_text_hv_unit_militia_black_mountain_outlaws,黃巾起義和迅速瓦解的漢朝，使許多人失去了家園和生計。這些人中最絕望或最不謹慎的人都變成了強盜。這些人加入黑山王的土匪，希望通過燒殺掠奪來重獲財富。儘管他們抱有希望，但他們糟糕的裝備通常讓他們只能做擋箭牌，而其他人則會因他們的犧牲而收穫回報。,TRUE
 unit_description_historical_texts_text_hv_unit_militia_taishan_outlaws,黃巾起義和迅速瓦解的漢朝，使許多人失去了家園和生計。這些人中最絕望或最不謹慎的人都變成了強盜。這些人加入盜賊女王麾下，希望通過燒殺掠奪來重獲財富。儘管他們抱有希望，但他們糟糕的裝備通常讓他們只能做擋箭牌，而其他人則會因他們的犧牲而收穫回報。,TRUE
-unit_description_historical_texts_text_hv_unit_militia_white_tiger_outlaws,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+unit_description_historical_texts_text_hv_unit_militia_white_tiger_outlaws,"Born from refugees and those peoples who would not submit to the Han empire, these White Tiger Strays have thrown their lot with Yan Baihu, hoping to safeguard their independance. Wearing bad equipment, the most valuable thing they offer to their commanders is their lives; to sell dearly as better men win the battle for them.",TRUE
 unit_description_historical_texts_text_hv_unit_bandits_axe_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
 unit_description_historical_texts_text_hv_unit_bandits_2h_spear_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
 unit_description_historical_texts_text_hv_unit_bandits_archers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
 unit_description_historical_texts_text_hv_unit_bandits_2h_spear_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
-unit_description_historical_texts_text_hv_unit_bandits_sabre_cavalry,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-unit_description_historical_texts_text_hv_unit_taishan_phantoms,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-unit_description_historical_texts_text_hv_unit_taishan_poison_wind,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+unit_description_historical_texts_text_hv_unit_bandits_sabre_cavalry,"Whereas some cavalry bring a primal, instantly shattering force to the battlefield, other mounted warriors are suited to the slower burn, embroiling themselves in the melee and staying to continue inflicting casualties. \\n\\n Whilst they get less power on the charge, their destructive capability increases dramatically once they begin hacking away at foes.",TRUE
+unit_description_historical_texts_text_hv_unit_taishan_phantoms,"The bandit queen's forces are bolstered by the presence of these so-called ""phantoms"". Hailing from Taishan, these warriors have already gathered an ominous reputation for the poison bombs they carry with them. If the wind is right, these bombs will cause entire regiments to choke without even comitting to battle. They are furthermore armed with a light sword and cloth armor, so they should not be relied on to hold the line in melee.",TRUE
+unit_description_historical_texts_text_hv_unit_taishan_poison_wind,"Hailing from Taishan, these women have coated their arrow points in a special ointment, made from poisonous herbs native to the region. In battle, A volley from these archers will soon leave the enemy gasping for air as the poison very quickly spreads through their veins. A wise commander will use these soldiers to spread terror through the enemy ranks, yet keep them well-protected: they are vulnerable to cavalry, as their range is limited.",TRUE
 unit_description_historical_texts_text_hv_unit_black_mountain_bandits,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
 unit_description_historical_texts_text_hv_unit_white_tiger_bandits,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
-unit_description_historical_texts_text_hv_unit_yue_freemen,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-unit_description_historical_texts_text_hv_unit_nomad_gang_cavalry,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
-unit_description_historical_texts_text_hv_unit_bandits_elite_iron_walls,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+unit_description_historical_texts_text_hv_unit_yue_freemen,"Mighty, gnarled monoliths, the imposing peaks of China's south stand like sentinels against the unrelenting waters beyond. Amongst these hills and peaks, the Yue tribes eke out their continued existence; brought low from the once-proud past, they stand now against the threat of Han invasion from the north. Although they wield sword and shield, they are nothing like the professional warriors coming to face them. \\n\\n Yet, united behind one who purports to fight for their ideals, the Yue are able to summon themselves into something resembling their own strength – their legacy demands it!",TRUE
+unit_description_historical_texts_text_hv_unit_nomad_gang_cavalry,"The nomads of the steppes have a reputation for fine horsemanship. These particular horse archers have turned to banditry and pillaging to fill their coffers. They will allign themselves to bandit chiefs of note, who can afford their services by giving them a proportional share of the loot. In battle, they harass the enemy from afar, using their horses to quickly wheel about when the counter-attack comes.",TRUE
+unit_description_historical_texts_text_hv_unit_bandits_elite_iron_walls,"The typical bandit force consists of lightly armored troops. These men are not a typical bandit force. A string of victories or lucky looting has netted them the excellent armour wielded by the heavy troops of the Han empire. They now form a heavy spear unit, capable of holding their ground against even the dreaded barded horsemen. With these men, any aspiring bandit warlord may find himself a bandit king or queen, one day.",TRUE
 unit_description_historical_texts_text_hv_unit_bandits_elite_cunning_monkeys,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
 unit_description_historical_texts_text_hv_unit_bandits_elite_two_blades,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
 unit_description_historical_texts_text_hv_unit_bandits_elite_jia_long,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
@@ -3856,7 +3856,7 @@ unit_description_historical_texts_text_hv_unit_bandits_elite_blood_seekers,未�
 unit_description_historical_texts_text_hv_unit_bandits_elite_ren_xia,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
 unit_description_historical_texts_text_hv_unit_bandits_elite_you_shi_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
 unit_description_historical_texts_text_hv_unit_swallow_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
-unit_description_historical_texts_text_hv_unit_iron_fists_of_the_bandit_queen,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+unit_description_historical_texts_text_hv_unit_iron_fists_of_the_bandit_queen,"Zheng Jiang has selected her most ferocious bandits to act as her ‘Fists of the Bandit Queen’; their role is to act as shock-troops, sneaking behind enemy lines to terrify foes with surprise attacks early in the battle. \\n\\n Each carries a heavy fu axe in each hand, and the wounds dealt by them can be catastrophic. Striking terror requires these troops to be without fear themselves, but also means they can tend to be undisciplined and difficult to control once their blood is hot with battle",TRUE
 unit_description_historical_texts_text_hv_unit_white_tiger_guardsmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
 unit_description_historical_texts_text_hv_unit_tiger_and_leopard_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
 unit_description_historical_texts_text_hv_unit_tiger_and_leopard_barded_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
@@ -3865,10 +3865,10 @@ unit_description_historical_texts_text_hv_unit_porcupine_crossbowmen,未完成\\
 unit_description_historical_texts_text_hv_unit_zhong_royal_guard,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
 unit_description_historical_texts_text_hv_unit_jianan_hand_ji_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
 unit_description_historical_texts_text_hv_unit_jianan_archers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
-unit_description_historical_texts_text_hv_unit_stray_artisans,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+unit_description_historical_texts_text_hv_unit_stray_artisans,"Having fled from their homes, these craftsmen and artisans turn their skills to the defence of their new home and master. \\n\\n Having been selected as the brightest from the many refugees flooding his lands, these engineers serve Tao Qian to the best of their ability. Wielding crossbows, they provide support from afar and will deploy smoke bombs and caltrops when an enemy strays too close. However, these men are not proper soldiers and should not be relied upon to hold the line in melee.",TRUE
 unit_description_historical_texts_text_hv_unit_fellows_of_the_oath,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
 unit_description_historical_texts_text_hv_unit_handmaid_guard,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
-unit_description_historical_texts_text_hv_unit_xian_chen_ying,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],TRUE
+unit_description_historical_texts_text_hv_unit_xian_chen_ying,"Sun Tzu said that one should always give an enemy room to escape, so that they do not fight with the fervour of the doomed. Yet for Gao Shun's elite force, Xian Chen Ying, being entirely surrounded is nothing but another dimension to slaughter. \\n\\n Renowned for their abilitiy to smash through enemy formations, Xian Chen Ying excel even when surrounded. The bodies will pile high, but Xian Chen Ying will still emerge from the pile victorious.",TRUE
 unit_description_historical_texts_text_hv_unit_han_volunteer_spearmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
 unit_description_historical_texts_text_hv_unit_han_volunteer_rep_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
 unit_description_historical_texts_text_hv_unit_hidden_assault_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,TRUE
@@ -4471,12 +4471,12 @@ ui_unit_groupings_tooltip_3k_main_hero_fire,身先士卒，鼓舞軍心,TRUE
 ui_unit_groupings_tooltip_3k_main_hero_metal,身先士卒，鼓舞軍心,TRUE
 ui_unit_groupings_tooltip_3k_main_hero_strategist_water,身先士卒，鼓舞軍心,TRUE
 ui_unit_groupings_tooltip_3k_main_hero_wood,身先士卒，鼓舞軍心,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_group_parents_onscreen_name_hv_parent_group_melee_black,普通近戰步兵,TRUE
 ui_unit_group_parents_onscreen_name_hv_parent_group_spear_black,普通持戟步兵,TRUE
 ui_unit_group_parents_onscreen_name_hv_parent_group_range_black,普通遠程步兵,TRUE
 ui_unit_group_parents_onscreen_name_hv_parent_group_cavalry_black,普通騎兵,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_onscreen_3k_main_unit_axe_infantry_metal,持斧步兵（校尉）,FALSE
 ui_unit_groupings_onscreen_3k_main_unit_polearm_cavalry_fire,持戟騎兵（校尉）,FALSE
 ui_unit_groupings_onscreen_3k_main_unit_polearm_infantry_wood,持戟步兵（校尉）,FALSE
@@ -4603,7 +4603,7 @@ ui_unit_groupings_onscreen_hv_unit_ui_grouping_sword_infantry_metaleartht1,持�
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_sword_infantry_woodwatert1,持劍步兵（義勇）,TRUE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_sword_cavalry_earthfiret1,持劍騎兵（義勇）,TRUE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_axe_cavalry_earthfiret1,持斧騎兵（義勇）,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_2h_blunt_blackt1,命中率低，穿甲傷害高，破盾,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_2h_blunt_firet1,命中率低，穿甲傷害高，破盾,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_2h_blunt_firewoodt1,命中率低，穿甲傷害高，破盾,TRUE
@@ -4716,27 +4716,27 @@ ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_infantry_metaleartht1,命中
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_infantry_woodwatert1,命中率一般，穿甲傷害一般,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_earthfiret1,側擊，衝擊，追擊,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_earthfiret1,側擊，衝擊，追擊,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_combined_glaive_firewatert1,複合武器步兵（義勇）,TRUE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_dw_sword_firemetalt1,雙劍步兵（義勇）,TRUE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_javelin_throwers_watert1,擲鋋兵（義勇）,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_combined_glaive_firewatert1,使用多種武器，多重角色,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_sword_firemetalt1,命中率高，穿甲傷害一般,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_javelin_throwers_watert1,近距，穿甲傷害高，射擊速率一般,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_blowpipes_metalwatert1,吹箭兵（義勇）,FALSE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_blowpipes_metalwatert1,近距，穿甲傷害低，射擊速率快,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_sword_cavalry_earthwatert1,持劍騎兵（義勇）,FALSE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_earthwatert1,側擊，衝擊，追擊,TRUE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_combined_long_woodeartht1,複合武器步兵（義勇）,FALSE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_combined_long_woodeartht1,使用多種武器，多重角色,TRUE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_polearm_infantry_woodeartht1,持戟步兵（義勇）,FALSE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_infantry_woodeartht1,反騎兵，穿甲傷害一般,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_axe_cavalry_earthwatert1,持斧騎兵（義勇）,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_earthwatert1,側擊，衝擊，追擊,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_axe_infantry_firemetalt1,持斧步兵（義勇）,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_2h_blunt_firemetalt1,持斧步兵（義勇）,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_dw_blunt_firemetalt1,雙斧步兵（義勇）,FALSE
@@ -4782,7 +4782,7 @@ ui_unit_groupings_onscreen_3k_main_unit_spear_cavalry_firet1,持槍騎兵（義�
 ui_unit_groupings_onscreen_3k_main_unit_ranged_cavalry_watert1,持弓騎兵（義勇）,FALSE
 ui_unit_groupings_onscreen_3k_dlc06_unit_elephant_firet1,象兵（義勇）,FALSE
 ui_unit_groupings_onscreen_3k_dlc06_unit_animal_handlers_watert1,馴獸師（義勇）,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_tooltip_3k_dlc04_unit_machine_crossbow_watert1,超遠距，穿甲傷害高，射擊速率非常慢,TRUE
 ui_unit_groupings_tooltip_3k_dlc06_unit_animal_handlers_metalt1,使用怒獸,TRUE
 ui_unit_groupings_tooltip_3k_dlc06_unit_animal_handlers_watert1,使用怒獸,TRUE
@@ -4922,7 +4922,7 @@ ui_unit_groupings_onscreen_hv_unit_ui_grouping_sword_infantry_metaleartht2,持�
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_sword_infantry_woodwatert2,持劍步兵（部曲）,TRUE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_sword_cavalry_earthfiret2,持劍騎兵（部曲）,TRUE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_axe_cavalry_earthfiret2,持斧騎兵（部曲）,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_2h_blunt_blackt2,命中率低，穿甲傷害高，破盾,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_2h_blunt_firet2,命中率低，穿甲傷害高，破盾,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_2h_blunt_firewoodt2,命中率低，穿甲傷害高，破盾,TRUE
@@ -5035,27 +5035,27 @@ ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_infantry_metaleartht2,命中
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_infantry_woodwatert2,命中率一般，穿甲傷害一般,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_earthfiret2,側擊，衝擊，追擊,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_earthfiret2,側擊，衝擊，追擊,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_combined_glaive_firewatert2,複合武器步兵（部曲）,TRUE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_dw_sword_firemetalt2,雙劍步兵（部曲）,TRUE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_javelin_throwers_watert2,擲鋋兵（部曲）,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_combined_glaive_firewatert2,使用多種武器，多重角色,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_sword_firemetalt2,命中率高，穿甲傷害一般,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_javelin_throwers_watert2,近距，穿甲傷害高，射擊速率一般,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_blowpipes_metalwatert2,吹箭兵（部曲）,FALSE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_blowpipes_metalwatert2,近距，穿甲傷害低，射擊速率快,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_sword_cavalry_earthwatert2,持劍騎兵（部曲）,FALSE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_earthwatert2,側擊，衝擊，追擊,TRUE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_combined_long_woodeartht2,複合武器步兵（部曲）,FALSE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_combined_long_woodeartht2,使用多種武器，多重角色,TRUE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_polearm_infantry_woodeartht2,持戟步兵（部曲）,FALSE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_infantry_woodeartht2,反騎兵，穿甲傷害一般,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_axe_cavalry_earthwatert2,持斧騎兵（部曲）,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_earthwatert2,側擊，衝擊，追擊,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_axe_infantry_firemetalt2,持斧步兵（部曲）,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_2h_blunt_firemetalt2,持斧步兵（部曲）,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_dw_blunt_firemetalt2,雙斧步兵（部曲）,FALSE
@@ -5103,7 +5103,7 @@ ui_unit_groupings_onscreen_3k_main_unit_spear_cavalry_firet2,持槍騎兵（部�
 ui_unit_groupings_onscreen_3k_main_unit_ranged_cavalry_watert2,持弓騎兵（部曲）,FALSE
 ui_unit_groupings_onscreen_3k_dlc06_unit_elephant_firet2,象兵（部曲）,FALSE
 ui_unit_groupings_onscreen_3k_dlc06_unit_animal_handlers_watert2,馴獸師（部曲）,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_tooltip_3k_dlc04_unit_machine_crossbow_watert2,超遠距，穿甲傷害高，射擊速率非常慢,TRUE
 ui_unit_groupings_tooltip_3k_dlc06_unit_animal_handlers_metalt2,使用怒獸,TRUE
 ui_unit_groupings_tooltip_3k_dlc06_unit_animal_handlers_watert2,使用怒獸,TRUE
@@ -5243,7 +5243,7 @@ ui_unit_groupings_onscreen_hv_unit_ui_grouping_sword_infantry_metaleartht3,持�
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_sword_infantry_woodwatert3,持劍步兵（精銳）,TRUE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_sword_cavalry_earthfiret3,持劍騎兵（精銳）,TRUE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_axe_cavalry_earthfiret3,持斧騎兵（精銳）,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_2h_blunt_blackt3,命中率低，穿甲傷害高，破盾,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_2h_blunt_firet3,命中率低，穿甲傷害高，破盾,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_2h_blunt_firewoodt3,命中率低，穿甲傷害高，破盾,TRUE
@@ -5356,27 +5356,27 @@ ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_infantry_metaleartht3,命中
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_infantry_woodwatert3,命中率一般，穿甲傷害一般,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_earthfiret3,側擊，衝擊，追擊,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_earthfiret3,側擊，衝擊，追擊,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_combined_glaive_firewatert3,複合武器步兵（精銳）,TRUE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_dw_sword_firemetalt3,雙劍步兵（精銳）,TRUE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_javelin_throwers_watert3,擲鋋兵（精銳）,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_combined_glaive_firewatert3,使用多種武器，多重角色,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_sword_firemetalt3,命中率高，穿甲傷害一般,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_javelin_throwers_watert3,近距，穿甲傷害高，射擊速率一般,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_blowpipes_metalwatert3,吹箭兵（精銳）,FALSE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_blowpipes_metalwatert3,近距，穿甲傷害低，射擊速率快,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_sword_cavalry_earthwatert3,持劍騎兵（精銳）,FALSE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_earthwatert3,側擊，衝擊，追擊,TRUE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_combined_long_woodeartht3,複合武器步兵（精銳）,FALSE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_combined_long_woodeartht3,使用多種武器，多重角色,TRUE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_polearm_infantry_woodeartht3,持戟步兵（精銳）,FALSE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_infantry_woodeartht3,反騎兵，穿甲傷害一般,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_axe_cavalry_earthwatert3,持斧騎兵（精銳）,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_earthwatert3,側擊，衝擊，追擊,TRUE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_axe_infantry_firemetalt3,持斧步兵（精銳）,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_2h_blunt_firemetalt3,持斧步兵（精銳）,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_dw_blunt_firemetalt3,雙斧步兵（精銳）,FALSE
@@ -5428,7 +5428,7 @@ ui_unit_groupings_onscreen_3k_main_unit_spear_cavalry_firet3,持槍騎兵（精�
 ui_unit_groupings_onscreen_3k_main_unit_ranged_cavalry_watert3,持弓騎兵（精銳）,FALSE
 ui_unit_groupings_onscreen_3k_dlc06_unit_elephant_firet3,象兵（精銳）,FALSE
 ui_unit_groupings_onscreen_3k_dlc06_unit_animal_handlers_watert3,馴獸師（精銳）,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_tooltip_3k_dlc04_unit_machine_crossbow_watert3,超遠距，穿甲傷害高，射擊速率非常慢,TRUE
 ui_unit_groupings_tooltip_3k_dlc06_unit_animal_handlers_metalt3,使用怒獸,TRUE
 ui_unit_groupings_tooltip_3k_dlc06_unit_animal_handlers_watert3,使用怒獸,TRUE
@@ -5480,7 +5480,7 @@ ui_unit_groupings_onscreen_hv_unit_ui_grouping_dw_sword_metaleartht4ytr,雙劍�
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_spear_cavalry_woodwatert4ytr,持槍騎兵（禁衛）,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_dw_hand_ji_firewoodt4ytr,雙戟步兵（禁衛）,FALSE
 ui_unit_groupings_onscreen_hv_unit_ui_grouping_dw_sword_cavalry_metaleartht4ytr,雙劍騎兵（禁衛）,FALSE
-,[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]],FALSE
+,,FALSE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_2h_staff_firewoodt1ytr,命中率非常高，傷害非常低,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_infantry_metaleartht1ytr,命中率一般，穿甲傷害高,TRUE
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_2h_blunt_firewoodt2ytr,命中率低，穿甲傷害高，破盾,TRUE
