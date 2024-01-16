@@ -43,7 +43,6 @@ class Step:
         return pd.read_csv(filename)
 
     def compare_with_xls(self):
-        return
         xls_data = self.load_from_xls()
         logger.info('Comparing with xls data')
         pdt.assert_frame_equal(self.data, xls_data)
@@ -83,7 +82,7 @@ class KeyMapOverride(InputFile):
     step_no = 7
 
 
-class EngToVanillaKey(InputFile):
+class EngToVanillaKey(Step):
     step_no = 8
 
     def __init__(self, trom_eng, key_map_override, vanilla_eng, vanilla_zhtw, vanilla_zhcn):
@@ -101,10 +100,77 @@ class EngToVanillaKey(InputFile):
         vanilla_zhtw = self.vanilla_zhtw.data.set_index('Key')[['Text']].rename({'Text': 'zh-tw'}, axis=1)
         data = trom_eng.join(vanilla_eng, how='left').reset_index().set_index('Key')
         data = data.join(self.key_map_override.data.set_index('TromKey').rename({'VanillaKey': 'VanillaKeyOverride'}, axis=1)).reset_index()
-        data.index = np.where(pd.isna(data['VanillaKeyOverride']), data['VanillaKey'], data['VanillaKeyOverride'])
+        data.index = np.where(~pd.isna(data['VanillaKeyOverride']), data['VanillaKeyOverride'], data['VanillaKey'])
         data = data.join(vanilla_zhcn).join(vanilla_zhtw).reset_index()[
             ['Key', 'Text', 'Tooltip', 'VanillaKey', 'VanillaKeyOverride', 'zh-tw', 'zh-cn', 'File']]
         return data
+
+
+class LookupByUnit(InputFile):
+    step_no = 9
+
+
+class LookupByText(InputFile):
+    step_no = 10
+
+
+class LookupByKey(InputFile):
+    step_no = 11
+
+
+class MapByKeyZhcn(Step):
+    step_no = 14
+    eng_to_vanilla_key_col = 'zh-cn'
+
+    def __init__(self, trom_eng, eng_to_vanilla_key, trom_zh, lookup_by_key):
+        self.trom_eng = trom_eng
+        self.eng_to_vanilla_key = eng_to_vanilla_key
+        self.trom_zh = trom_zh
+        self.lookup_by_key = lookup_by_key
+
+    def _run(self):
+        data = self.trom_eng.data.dropna(subset=['Key']).set_index('Key').rename({'Text': 'English'}, axis=1)
+        vanilla = self.eng_to_vanilla_key.data.drop_duplicates(subset=['Key'])
+        vanilla = vanilla.set_index('Key')[[self.eng_to_vanilla_key_col]].rename({self.eng_to_vanilla_key_col: 'Vanilla'}, axis=1)
+        trom_zh = self.trom_zh.data.drop_duplicates(subset=['Key']).set_index('Key')[['Text']]
+        data = data.join(vanilla, how='left').join(trom_zh.rename({'Text': 'Exact'}, axis=1), how='left')
+        data = data.reset_index().set_index('Short Key').join(trom_zh.rename({'Text': 'Eng-short'}, axis=1), how='left')
+        data['Text'] = data['English']
+        for col in [
+            'Eng-short',
+            'Exact',
+            'Vanilla',
+        ]:
+            data['Text'] = np.where(~pd.isna(data[col]), data[col], data['Text'])
+        data['File'] = data['File'].str.replace('text/_hvo/', '')
+        data = data.reset_index()[[
+            'Key', 'Text', 'Tooltip', 'English',
+            # 'Override by key',
+            # 'Mapped by text',
+            'Vanilla', 'Exact', 'Eng-short',
+            'Short Key', 'File',
+        ]]
+        return data
+
+
+class MapByKeyZhtw(MapByKeyZhcn):
+    step_no = 15
+    eng_to_vanilla_key_col = 'zh-tw'
+
+
+class FinalZhcn(Step):
+    step_no = 16
+
+    def __init__(self, map_by_key_zh):
+        self.map_by_key_zh = map_by_key_zh
+
+    def _run(self):
+        data = self.map_by_key_zh.data[['Key', 'Text', 'Tooltip']]
+        return data
+
+
+class FinalZhtw(FinalZhcn):
+    step_no = 17
 
 
 def main():
@@ -116,6 +182,13 @@ def main():
     trom_eng = TromEng()
     key_map_override = KeyMapOverride()
     eng_to_vanilla_key = EngToVanillaKey(trom_eng, key_map_override, vanilla_eng, vanilla_zhtw, vanilla_zhcn)
+    lookup_by_unit = LookupByUnit()
+    lookup_by_text = LookupByText()
+    lookup_by_key = LookupByKey()
+    map_by_key_zhcn = MapByKeyZhcn(trom_eng, eng_to_vanilla_key, trom_zhcn, lookup_by_key)
+    map_by_key_zhtw = MapByKeyZhtw(trom_eng, eng_to_vanilla_key, trom_zhtw, lookup_by_key)
+    final_zhcn = FinalZhcn(map_by_key_zhcn)
+    final_zhtw = FinalZhtw(map_by_key_zhtw)
 
     for step in [
         vanilla_zhcn,
@@ -126,10 +199,17 @@ def main():
         trom_eng,
         key_map_override,
         eng_to_vanilla_key,
+        lookup_by_unit,
+        lookup_by_text,
+        lookup_by_key,
+        map_by_key_zhcn,
+        map_by_key_zhtw,
+        final_zhcn,
+        final_zhtw,
     ]:
         step.run()
         step.save()
-        step.compare_with_xls()
+        # step.compare_with_xls()
 
 
 if __name__ == '__main__':
