@@ -16,6 +16,7 @@ class Step:
 
     def __repr__(self):
         return f'<Step {self.name} - {self.data.shape if self.data is not None else 0}>'
+
     @property
     def name(self):
         return self.__class__.__name__
@@ -99,7 +100,9 @@ class EngToVanillaKey(Step):
         vanilla_zhcn = self.vanilla_zhcn.data.set_index('Key')[['Text']].rename({'Text': 'zh-cn'}, axis=1)
         vanilla_zhtw = self.vanilla_zhtw.data.set_index('Key')[['Text']].rename({'Text': 'zh-tw'}, axis=1)
         data = trom_eng.join(vanilla_eng, how='left').reset_index().set_index('Key')
-        data = data.join(self.key_map_override.data.set_index('TromKey').rename({'VanillaKey': 'VanillaKeyOverride'}, axis=1)).reset_index()
+        data = data.join(
+            self.key_map_override.data.set_index('TromKey').rename({'VanillaKey': 'VanillaKeyOverride'}, axis=1)
+        ).reset_index()
         data.index = np.where(~pd.isna(data['VanillaKeyOverride']), data['VanillaKeyOverride'], data['VanillaKey'])
         data = data.join(vanilla_zhcn).join(vanilla_zhtw).reset_index()[
             ['Key', 'Text', 'Tooltip', 'VanillaKey', 'VanillaKeyOverride', 'zh-tw', 'zh-cn', 'File']]
@@ -138,19 +141,20 @@ class MapByKeyZhcn(Step):
         self.map_by_text_zh = map_by_text_zh
 
     def _run(self):
-        data = self.trom_eng.data.dropna(subset=['Key']).set_index('Key').rename({'Text': 'English'}, axis=1)
+        data = self.trom_eng.data.fillna('').rename({'Text': 'English'}, axis=1)
         vanilla = self.eng_to_vanilla_key.data.drop_duplicates(subset=['Key'])
-        vanilla = vanilla.set_index('Key')[[self.lang_col]].rename({self.lang_col: 'Vanilla'}, axis=1)
-        trom_zh = self.trom_zh.data.drop_duplicates(subset=['Key']).set_index('Key')[['Text']]
-        lookup_by_key = self.lookup_by_key.data.set_index('Key')[[self.lang_col]].rename({self.lang_col: 'Override by key'}, axis=1)
-        data = data.join(lookup_by_key, how='left')
-        data = data.join(vanilla, how='left').join(trom_zh.rename({'Text': 'Exact'}, axis=1), how='left')
-        data = data.reset_index().set_index('Short Key').join(trom_zh.rename({'Text': 'Eng-short'}, axis=1), how='left')
+        vanilla = vanilla[['Key', self.lang_col]].rename({self.lang_col: 'Vanilla'}, axis=1)
+        trom_zh = self.trom_zh.data.drop_duplicates(subset=['Key'])[['Key', 'Text']]
+        lookup_by_key = self.lookup_by_key.data[['Key', self.lang_col]].rename({self.lang_col: 'Override by key'}, axis=1)
+        data = data.merge(lookup_by_key, on='Key', how='left')
+        data = data.merge(vanilla, on='Key', how='left')
+        data = data.merge(trom_zh.rename({'Text': 'Exact'}, axis=1), on='Key', how='left')
+        data = data.merge(trom_zh.rename({'Text': 'Eng-short', 'Key': 'Short Key'}, axis=1), on='Short Key', how='left')
 
         data['Text'] = data['English']
         data['Source'] = 'Missing'
-        map_by_text_zh = self.map_by_text_zh.data.set_index('Text')[['Mapped']].rename({'Mapped': 'Mapped by text'}, axis=1)
-        data = data.reset_index().set_index('Text').join(map_by_text_zh).reset_index()
+        map_by_text_zh = self.map_by_text_zh.data[['Text', 'Mapped']].drop_duplicates(subset=['Text']).rename({'Mapped': 'Mapped by text'}, axis=1)
+        data = data.merge(map_by_text_zh, on='Text', how='left')
         for col in [
             'Eng-short',
             'Exact',
