@@ -118,44 +118,60 @@ class LookupByKey(InputFile):
     step_no = 11
 
 
+class MapByTextZhcn(InputFile):
+    step_no = 12
+
+
+class MapByTextZhtw(InputFile):
+    step_no = 13
+
+
 class MapByKeyZhcn(Step):
     step_no = 14
-    eng_to_vanilla_key_col = 'zh-cn'
+    lang_col = 'zh-cn'
 
-    def __init__(self, trom_eng, eng_to_vanilla_key, trom_zh, lookup_by_key):
+    def __init__(self, trom_eng, eng_to_vanilla_key, trom_zh, lookup_by_key, map_by_text_zh):
         self.trom_eng = trom_eng
         self.eng_to_vanilla_key = eng_to_vanilla_key
         self.trom_zh = trom_zh
         self.lookup_by_key = lookup_by_key
+        self.map_by_text_zh = map_by_text_zh
 
     def _run(self):
         data = self.trom_eng.data.dropna(subset=['Key']).set_index('Key').rename({'Text': 'English'}, axis=1)
         vanilla = self.eng_to_vanilla_key.data.drop_duplicates(subset=['Key'])
-        vanilla = vanilla.set_index('Key')[[self.eng_to_vanilla_key_col]].rename({self.eng_to_vanilla_key_col: 'Vanilla'}, axis=1)
+        vanilla = vanilla.set_index('Key')[[self.lang_col]].rename({self.lang_col: 'Vanilla'}, axis=1)
         trom_zh = self.trom_zh.data.drop_duplicates(subset=['Key']).set_index('Key')[['Text']]
+        lookup_by_key = self.lookup_by_key.data.set_index('Key')[[self.lang_col]].rename({self.lang_col: 'Override by key'}, axis=1)
+        data = data.join(lookup_by_key, how='left')
         data = data.join(vanilla, how='left').join(trom_zh.rename({'Text': 'Exact'}, axis=1), how='left')
         data = data.reset_index().set_index('Short Key').join(trom_zh.rename({'Text': 'Eng-short'}, axis=1), how='left')
+
         data['Text'] = data['English']
+        data['Source'] = 'Missing'
+        map_by_text_zh = self.map_by_text_zh.data.set_index('Text')[['Mapped']].rename({'Mapped': 'Mapped by text'}, axis=1)
+        data = data.reset_index().set_index('Text').join(map_by_text_zh).reset_index()
         for col in [
             'Eng-short',
             'Exact',
             'Vanilla',
+            'Mapped by text',
+            'Override by key',
         ]:
-            data['Text'] = np.where(~pd.isna(data[col]), data[col], data['Text'])
+            data.loc[~pd.isna(data[col]), ['Text']] = data[col]
+            data.loc[~pd.isna(data[col]), ['Source']] = col
         data['File'] = data['File'].str.replace('text/_hvo/', '')
         data = data.reset_index()[[
-            'Key', 'Text', 'Tooltip', 'English',
-            # 'Override by key',
-            # 'Mapped by text',
-            'Vanilla', 'Exact', 'Eng-short',
-            'Short Key', 'File',
+            'Key', 'Text', 'Tooltip', 'English', 'Override by key',
+            'Mapped by text', 'Vanilla', 'Exact', 'Eng-short',
+            'Source', 'Short Key', 'File',
         ]]
         return data
 
 
 class MapByKeyZhtw(MapByKeyZhcn):
     step_no = 15
-    eng_to_vanilla_key_col = 'zh-tw'
+    lang_col = 'zh-tw'
 
 
 class FinalZhcn(Step):
@@ -185,8 +201,10 @@ def main():
     lookup_by_unit = LookupByUnit()
     lookup_by_text = LookupByText()
     lookup_by_key = LookupByKey()
-    map_by_key_zhcn = MapByKeyZhcn(trom_eng, eng_to_vanilla_key, trom_zhcn, lookup_by_key)
-    map_by_key_zhtw = MapByKeyZhtw(trom_eng, eng_to_vanilla_key, trom_zhtw, lookup_by_key)
+    map_by_text_zhcn = MapByTextZhcn()
+    map_by_text_zhtw = MapByTextZhtw()
+    map_by_key_zhcn = MapByKeyZhcn(trom_eng, eng_to_vanilla_key, trom_zhcn, lookup_by_key, map_by_text_zhcn)
+    map_by_key_zhtw = MapByKeyZhtw(trom_eng, eng_to_vanilla_key, trom_zhtw, lookup_by_key, map_by_text_zhtw)
     final_zhcn = FinalZhcn(map_by_key_zhcn)
     final_zhtw = FinalZhtw(map_by_key_zhtw)
 
@@ -202,6 +220,8 @@ def main():
         lookup_by_unit,
         lookup_by_text,
         lookup_by_key,
+        map_by_text_zhcn,
+        map_by_text_zhtw,
         map_by_key_zhcn,
         map_by_key_zhtw,
         final_zhcn,
