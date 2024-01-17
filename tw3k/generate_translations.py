@@ -1,3 +1,4 @@
+import difflib
 import logging
 from abc import abstractmethod
 
@@ -25,10 +26,21 @@ class Step:
     def filename(self):
         return f'{self.step_no:02}.{self.name}.csv'
 
+    @property
+    def out_filepath(self):
+        return f'csv/out/{self.filename}'
+
+    @property
+    def xls_filepath(self):
+        return f'csv/xls/{self.filename}'
+
+    @property
+    def diff_filepath(self):
+        return f'csv/diff/{self.filename}.diff'
+
     def save(self):
-        filename = f'csv/out/{self.filename}'
-        self.data.to_csv(filename, index=False)
-        logger.info(f'Saved to {filename}')
+        self.data.to_csv(self.out_filepath, index=False)
+        logger.info(f'Saved to {self.out_filepath}')
 
     @abstractmethod
     def _run(self):
@@ -39,14 +51,23 @@ class Step:
         self.data = self._run()
 
     def load_from_xls(self):
-        filename = f'csv/xls/{self.filename}'
-        logger.info(f'Loading {filename}')
-        return pd.read_csv(filename)
+        logger.info(f'Loading {self.xls_filepath}')
+        return pd.read_csv(self.xls_filepath)
 
     def compare_with_xls(self):
-        xls_data = self.load_from_xls()
         logger.info('Comparing with xls data')
-        pdt.assert_frame_equal(self.data, xls_data)
+        with (
+            open(self.out_filepath, encoding='utf8') as out_file,
+            open(self.xls_filepath, encoding='utf8') as xls_file,
+            open(self.diff_filepath, encoding='utf8', mode='w') as diff_file,
+        ):
+            diff = difflib.unified_diff(
+                out_file.read().replace(',TRUE', ',True').replace(',FALSE', ',False').splitlines(keepends=True),
+                (xls_file.read().rstrip() + '\n').replace(',TRUE', ',True').replace(',FALSE', ',False').splitlines(keepends=True),
+                self.out_filepath, self.xls_filepath,
+                n=0,
+            )
+            diff_file.writelines(diff)
 
 
 class InputFile(Step):
@@ -233,7 +254,7 @@ def main():
     ]:
         step.run()
         step.save()
-        # step.compare_with_xls()
+        step.compare_with_xls()
 
 
 if __name__ == '__main__':

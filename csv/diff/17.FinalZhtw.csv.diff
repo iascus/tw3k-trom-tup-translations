@@ -1,0 +1,312 @@
+--- csv/out/17.FinalZhtw.csv
++++ csv/xls/17.FinalZhtw.csv
+@@ -86,2 +86,2 @@
+-building_description_texts_long_description_hv_subtown_danyang_01,long_description,True
+-building_description_texts_long_description_hv_subtown_danyang_02,long_description,True
++building_description_texts_long_description_hv_subtown_danyang_01,長描述,True
++building_description_texts_long_description_hv_subtown_danyang_02,長描述,True
+@@ -94 +94 @@
+-building_description_texts_long_description_hv_subtown_confucius_01,long_description,True
++building_description_texts_long_description_hv_subtown_confucius_01,長描述,True
+@@ -102,3 +102,3 @@
+-building_description_texts_long_description_hv_subtown_han_small_farm_01,long_description,True
+-building_description_texts_long_description_hv_subtown_han_small_farm_02,long_description,True
+-building_description_texts_long_description_hv_subtown_han_small_farm_03,long_description,True
++building_description_texts_long_description_hv_subtown_han_small_farm_01,長描述,True
++building_description_texts_long_description_hv_subtown_han_small_farm_02,長描述,True
++building_description_texts_long_description_hv_subtown_han_small_farm_03,長描述,True
+@@ -112 +112 @@
+-building_description_texts_long_description_hv_subtown_nanman_shikar_01,long_description,True
++building_description_texts_long_description_hv_subtown_nanman_shikar_01,長描述,True
+@@ -118 +118 @@
+-building_description_texts_long_description_hv_subtown_nanman_outpost_01,long_description,True
++building_description_texts_long_description_hv_subtown_nanman_outpost_01,長描述,True
+@@ -126,3 +126,3 @@
+-building_description_texts_long_description_hv_subtown_yellow_turban_synad_01,long_description,False
+-building_description_texts_long_description_hv_subtown_yellow_turban_synad_02,long_description,False
+-building_description_texts_long_description_hv_subtown_yellow_turban_synad_03,long_description,False
++building_description_texts_long_description_hv_subtown_yellow_turban_synad_01,長描述,False
++building_description_texts_long_description_hv_subtown_yellow_turban_synad_02,長描述,False
++building_description_texts_long_description_hv_subtown_yellow_turban_synad_03,長描述,False
+@@ -224 +224 @@
+-custom_battle_loadouts_name_hv_cb_loadout_yuan_shang_01,Yuan Shang,False
++custom_battle_loadouts_name_hv_cb_loadout_yuan_shang_01,袁尚,False
+@@ -226,2 +226,2 @@
+-custom_battle_loadouts_name_hv_cb_loadout_yan_liang_01,Yan Liang,False
+-custom_battle_loadouts_name_hv_cb_loadout_wen_chou_01,Wen Chou,False
++custom_battle_loadouts_name_hv_cb_loadout_yan_liang_01,顏良,False
++custom_battle_loadouts_name_hv_cb_loadout_wen_chou_01,文醜,False
+@@ -253 +253 @@
+-effects_description_hv_effect_replenishment_northern_army,[[b]]%+n%[[/b]] replenishment for the Northern Army units,False
++effects_description_hv_effect_replenishment_northern_army,北軍單位補員速率 [[b]]%+n%[[/b]],False
+@@ -732 +732 @@
+-cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_sogdTHIRD,Buy nothing,False
++cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_sogdTHIRD,不買任何東西,False
+@@ -2154 +2154 @@
+-effects_description_hv_effects_unlock_historical_ability_earth_02,技能：,True
++effects_description_hv_effects_unlock_historical_ability_earth_02,技能：堅若磐石,True
+@@ -2170 +2170 @@
+-effects_description_hv_effects_unlock_historical_ability_metal_01,技能：,True
++effects_description_hv_effects_unlock_historical_ability_metal_01,技能：號令吶喊,True
+@@ -2178 +2178 @@
+-effects_description_hv_effects_unlock_historical_ability_metal_02,技能：,True
++effects_description_hv_effects_unlock_historical_ability_metal_02,技能：腳步迅捷,True
+@@ -2186 +2186 @@
+-effects_description_hv_effects_unlock_historical_ability_metal_03,技能：,True
++effects_description_hv_effects_unlock_historical_ability_metal_03,技能：自然之友,True
+@@ -2194 +2194 @@
+-effects_description_hv_effects_unlock_historical_ability_wood_01,技能：,True
++effects_description_hv_effects_unlock_historical_ability_wood_01,技能：大地堡壘,True
+@@ -2202 +2202 @@
+-effects_description_hv_effects_unlock_historical_ability_wood_02,技能：,True
++effects_description_hv_effects_unlock_historical_ability_wood_02,技能：堅韌如鋼,True
+@@ -2220 +2220 @@
+-effects_description_hv_effects_unlock_historical_ability_water_01,技能：,True
++effects_description_hv_effects_unlock_historical_ability_water_01,技能：戰意澎湃,True
+@@ -2244 +2244 @@
+-effects_description_hv_effects_unlock_historical_ability_fire_01,技能：,True
++effects_description_hv_effects_unlock_historical_ability_fire_01,技能：乘隙而入,True
+@@ -2252 +2252 @@
+-effects_description_hv_effects_unlock_historical_ability_fire_02,技能：,True
++effects_description_hv_effects_unlock_historical_ability_fire_02,技能：鳳凰之火,True
+@@ -2268 +2268 @@
+-effects_description_hv_effects_unlock_historical_ability_healer_01,技能：,True
++effects_description_hv_effects_unlock_historical_ability_healer_01,技能：腳步迅捷,True
+@@ -2276 +2276 @@
+-effects_description_hv_effects_unlock_historical_ability_healer_02,技能：,True
++effects_description_hv_effects_unlock_historical_ability_healer_02,技能：乘隙而入,True
+@@ -2284 +2284 @@
+-effects_description_hv_effects_unlock_historical_ability_healer_03,技能：,True
++effects_description_hv_effects_unlock_historical_ability_healer_03,技能：與人合一,True
+@@ -2292 +2292 @@
+-effects_description_hv_effects_unlock_historical_ability_veteran_01,技能：,True
++effects_description_hv_effects_unlock_historical_ability_veteran_01,技能：自然之友,True
+@@ -2300 +2300 @@
+-effects_description_hv_effects_unlock_historical_ability_veteran_02,技能：,True
++effects_description_hv_effects_unlock_historical_ability_veteran_02,技能：與地合一,True
+@@ -2316 +2316 @@
+-effects_description_hv_effects_unlock_historical_ability_scholar_01,技能：,True
++effects_description_hv_effects_unlock_historical_ability_scholar_01,技能：與天合一,True
+@@ -2324 +2324 @@
+-effects_description_hv_effects_unlock_historical_ability_scholar_02,技能：,True
++effects_description_hv_effects_unlock_historical_ability_scholar_02,技能：堅若磐石,True
+@@ -2332 +2332 @@
+-effects_description_hv_effects_unlock_historical_ability_scholar_03,技能：,True
++effects_description_hv_effects_unlock_historical_ability_scholar_03,技能：精準打擊,True
+@@ -2672 +2672 @@
+-effects_description_hv_effect_unlock_flower_of_battlefield,技能：,True
++effects_description_hv_effect_unlock_flower_of_battlefield,技能：戰場之花,True
+@@ -2674,3 +2674,3 @@
+-effects_description_hv_effect_unlock_inspiring_words,技能：,True
+-effects_description_hv_effect_unlock_royal_blood,技能：,True
+-effects_description_hv_effect_unlock_distant_courage,技能：,True
++effects_description_hv_effect_unlock_inspiring_words,技能：慷慨陳詞,True
++effects_description_hv_effect_unlock_royal_blood,技能：皇室貴胄,True
++effects_description_hv_effect_unlock_distant_courage,技能：千里助勢,True
+@@ -2678,7 +2678,7 @@
+-effects_description_hv_effect_unlock_cruel_lord,技能：,True
+-effects_description_hv_effect_unlock_defence_mastery,技能：,True
+-effects_description_hv_effect_unlock_show_of_force,技能：,True
+-effects_description_hv_effect_unlock_nature_s_ally,技能：,True
+-effects_description_hv_effect_unlock_the_weight_on_the_shoulders,技能：,True
+-effects_description_hv_effect_unlock_stone_bulwark,技能：,True
+-effects_description_hv_effect_unlock_unyielding_earth,技能：,True
++effects_description_hv_effect_unlock_cruel_lord,技能：酷令,True
++effects_description_hv_effect_unlock_defence_mastery,技能：山陣,True
++effects_description_hv_effect_unlock_show_of_force,技能：揚威挫銳,True
++effects_description_hv_effect_unlock_nature_s_ally,技能：自然之友,True
++effects_description_hv_effect_unlock_the_weight_on_the_shoulders,技能：身負重擔,True
++effects_description_hv_effect_unlock_stone_bulwark,技能：堅若磐石,True
++effects_description_hv_effect_unlock_unyielding_earth,技能：不屈之土,True
+@@ -2686,2 +2686,2 @@
+-effects_description_hv_effect_unlock_mark_target,技能：,True
+-effects_description_hv_effect_unlock_flames_of_the_phoenix,技能：,True
++effects_description_hv_effect_unlock_mark_target,技能：瞄定,True
++effects_description_hv_effect_unlock_flames_of_the_phoenix,技能：鳳凰之火,True
+@@ -2690,3 +2690,3 @@
+-effects_description_hv_effect_unlock_impetuous_charge,技能：,True
+-effects_description_hv_effect_unlock_fleet_footed,技能：,True
+-effects_description_hv_effect_unlock_of_the_righteous,技能：,True
++effects_description_hv_effect_unlock_impetuous_charge,技能：狂暴衝鋒,True
++effects_description_hv_effect_unlock_fleet_footed,技能：腳步迅捷,True
++effects_description_hv_effect_unlock_of_the_righteous,技能：大義凜然,True
+@@ -2694 +2694 @@
+-effects_description_hv_effect_unlock_exemplar,技能：,True
++effects_description_hv_effect_unlock_exemplar,技能：為人典範,True
+@@ -2696,3 +2696,3 @@
+-effects_description_hv_effect_unlock_heavenly_grace,技能：,True
+-effects_description_hv_effect_unlock_wisdom_of_the_river,技能：,True
+-effects_description_hv_effect_unlock_wisdom_of_the_waterfall,技能：,True
++effects_description_hv_effect_unlock_heavenly_grace,技能：天仙氣質,True
++effects_description_hv_effect_unlock_wisdom_of_the_river,技能：河之智慧,True
++effects_description_hv_effect_unlock_wisdom_of_the_waterfall,技能：飛泉之智,True
+@@ -2702,17 +2702,17 @@
+-effects_description_hv_effect_unlock_inspection,技能：,True
+-effects_description_hv_effect_unlock_blazing_roar,技能：,True
+-effects_description_hv_effect_unlock_rage_of_lu_bu,技能：,True
+-effects_description_hv_effect_unlock_smouldering_fury,技能：,True
+-effects_description_hv_effect_unlock_blood_fury,技能：,True
+-effects_description_hv_effect_unlock_the_dragon_s_gaze,技能：,True
+-effects_description_hv_effect_unlock_reign_of_terror,技能：,True
+-effects_description_hv_effect_unlock_dong_command,技能：,True
+-effects_description_hv_effect_unlock_blade_breaker,技能：,True
+-effects_description_hv_effect_unlock_devastating_roar,技能：,True
+-effects_description_hv_effect_unlock_roar_of_the_beast,技能：,True
+-effects_description_hv_effect_unlock_heart_seeker,技能：,True
+-effects_description_hv_effect_unlock_sundering_strike,技能：,True
+-effects_description_hv_effect_unlock_internal_blaze,技能：,True
+-effects_description_hv_effect_unlock_blazing_saddles,技能：,True
+-effects_description_hv_effect_unlock_wildfire,技能：,True
+-effects_description_hv_effect_unlock_burning,技能：,True
++effects_description_hv_effect_unlock_inspection,技能：前線查探,True
++effects_description_hv_effect_unlock_blazing_roar,技能：燃燒之吼,True
++effects_description_hv_effect_unlock_rage_of_lu_bu,技能：呂布之怒,True
++effects_description_hv_effect_unlock_smouldering_fury,技能：怒火中燒,True
++effects_description_hv_effect_unlock_blood_fury,技能：鮮血之怒,True
++effects_description_hv_effect_unlock_the_dragon_s_gaze,技能：蛟龍怒目,True
++effects_description_hv_effect_unlock_reign_of_terror,技能：恐怖統治,True
++effects_description_hv_effect_unlock_dong_command,技能：董卓之令,True
++effects_description_hv_effect_unlock_blade_breaker,技能：堅甲破刃,True
++effects_description_hv_effect_unlock_devastating_roar,技能：毀滅之吼,True
++effects_description_hv_effect_unlock_roar_of_the_beast,技能：野獸咆哮,True
++effects_description_hv_effect_unlock_heart_seeker,技能：一箭穿心,True
++effects_description_hv_effect_unlock_sundering_strike,技能：開山劈石,True
++effects_description_hv_effect_unlock_internal_blaze,技能：心中烈火,True
++effects_description_hv_effect_unlock_blazing_saddles,技能：炙熱馬鞍,True
++effects_description_hv_effect_unlock_wildfire,技能：野火劫匪,True
++effects_description_hv_effect_unlock_burning,技能：燃燒元神,True
+@@ -2720,4 +2720,4 @@
+-effects_description_hv_effect_unlock_scattering_blows,技能：,True
+-effects_description_hv_effect_unlock_undying_vow,技能：,True
+-effects_description_hv_effect_unlock_binding_fury,技能：,True
+-effects_description_hv_effect_unlock_hamstring,技能：,True
++effects_description_hv_effect_unlock_scattering_blows,技能：潰散攻擊,True
++effects_description_hv_effect_unlock_undying_vow,技能：誓死不屈,True
++effects_description_hv_effect_unlock_binding_fury,技能：怒不可抑,True
++effects_description_hv_effect_unlock_hamstring,技能：削斷腿筋,True
+@@ -2725,2 +2725,2 @@
+-effects_description_hv_effect_unlock_into_the_breach,技能：,True
+-effects_description_hv_effect_unlock_reckless_strike,技能：,True
++effects_description_hv_effect_unlock_into_the_breach,技能：乘隙而入,True
++effects_description_hv_effect_unlock_reckless_strike,技能：蠻橫猛擊,True
+@@ -2728,12 +2728,12 @@
+-effects_description_hv_effect_unlock_inward_focus,技能：,True
+-effects_description_hv_effect_unlock_adamant_resolve,技能：,True
+-effects_description_hv_effect_unlock_elemental_vigour,技能：,True
+-effects_description_hv_effect_unlock_quickfire,技能：,True
+-effects_description_hv_effect_unlock_hail_of_arrows,技能：,True
+-effects_description_hv_effect_unlock_warning_shot,技能：,True
+-effects_description_hv_effect_unlock_ghost_of_forest,技能：,True
+-effects_description_hv_effect_unlock_swift_fingers,技能：,True
+-effects_description_hv_effect_unlock_tenacity_of_steel,技能：,True
+-effects_description_hv_effect_unlock_tempered_deflection,技能：,True
+-effects_description_hv_effect_unlock_blade_mastery,技能：,True
+-effects_description_hv_effect_unlock_swift_steps,技能：,True
++effects_description_hv_effect_unlock_inward_focus,技能：專注內政,True
++effects_description_hv_effect_unlock_adamant_resolve,技能：堅定不移,True
++effects_description_hv_effect_unlock_elemental_vigour,技能：五行之力,True
++effects_description_hv_effect_unlock_quickfire,技能：連珠砲,True
++effects_description_hv_effect_unlock_hail_of_arrows,技能：箭如雨下,True
++effects_description_hv_effect_unlock_warning_shot,技能：警告射擊,True
++effects_description_hv_effect_unlock_ghost_of_forest,技能：林中之鬼,True
++effects_description_hv_effect_unlock_swift_fingers,技能：十指靈巧,True
++effects_description_hv_effect_unlock_tenacity_of_steel,技能：堅韌如鋼,True
++effects_description_hv_effect_unlock_tempered_deflection,技能：鍛甲禦矢,True
++effects_description_hv_effect_unlock_blade_mastery,技能：劍術大師,True
++effects_description_hv_effect_unlock_swift_steps,技能：靈動步伐,True
+@@ -2741 +2741 @@
+-effects_description_hv_effect_unlock_stalwart_defender,技能：,True
++effects_description_hv_effect_unlock_stalwart_defender,技能：步步為營,True
+@@ -2743,13 +2743,13 @@
+-effects_description_hv_effect_unlock_tiger,技能：,True
+-effects_description_hv_effect_unlock_foresight,技能：,True
+-effects_description_hv_effect_unlock_kingmaker,技能：,True
+-effects_description_hv_effect_unlock_whitewater,技能：,True
+-effects_description_hv_effect_unlock_sight_of_the_dragon,技能：,True
+-effects_description_hv_effect_unlock_way_of_the_wind,技能：,True
+-effects_description_hv_effect_unlock_from_the_ashes,技能：,True
+-effects_description_hv_effect_unlock_zhou_the_youth,技能：,True
+-effects_description_hv_effect_unlock_veil_of_darkness,技能：,True
+-effects_description_hv_effect_unlock_oil_bomb,技能：,True
+-effects_description_hv_effect_unlock_analyse_weakness,技能：,True
+-effects_description_hv_effect_unlock_turning_the_tide,技能：,True
+-effects_description_hv_effect_unlock_wolf,技能：,True
++effects_description_hv_effect_unlock_tiger,技能：白虎,True
++effects_description_hv_effect_unlock_foresight,技能：縱觀全局,True
++effects_description_hv_effect_unlock_kingmaker,技能：王佐,True
++effects_description_hv_effect_unlock_whitewater,技能：激流湧升,True
++effects_description_hv_effect_unlock_sight_of_the_dragon,技能：龍之慧眼,True
++effects_description_hv_effect_unlock_way_of_the_wind,技能：預測風向,True
++effects_description_hv_effect_unlock_from_the_ashes,技能：死灰復燃,True
++effects_description_hv_effect_unlock_zhou_the_youth,技能：美周郎,True
++effects_description_hv_effect_unlock_veil_of_darkness,技能：黑暗面紗,True
++effects_description_hv_effect_unlock_oil_bomb,技能：油罐,True
++effects_description_hv_effect_unlock_analyse_weakness,技能：分析弱點,True
++effects_description_hv_effect_unlock_turning_the_tide,技能：力挽狂瀾,True
++effects_description_hv_effect_unlock_wolf,技能：戰狼,True
+@@ -2757,7 +2757,7 @@
+-effects_description_hv_effect_unlock_poisioned_blade,技能：,True
+-effects_description_hv_effect_unlock_god_of_war,技能：,True
+-effects_description_hv_effect_unlock_unstoppable,技能：,True
+-effects_description_hv_effect_unlock_condemned_howl,技能：,True
+-effects_description_hv_effect_unlock_crash,技能：,True
+-effects_description_hv_effect_unlock_cry_of_the_forest,技能：,True
+-effects_description_hv_effect_unlock_vengeance,技能：,True
++effects_description_hv_effect_unlock_poisioned_blade,技能：淬毒刀刃,True
++effects_description_hv_effect_unlock_god_of_war,技能：武聖,True
++effects_description_hv_effect_unlock_unstoppable,技能：無人可擋,True
++effects_description_hv_effect_unlock_condemned_howl,技能：天譴之嘯,True
++effects_description_hv_effect_unlock_crash,技能：天崩地裂,True
++effects_description_hv_effect_unlock_cry_of_the_forest,技能：森林戰嚎,True
++effects_description_hv_effect_unlock_vengeance,技能：有仇必報,True
+@@ -2768,15 +2768,15 @@
+-effects_description_hv_effect_unlock_commanding_shout,技能：,True
+-effects_description_hv_effect_unlock_condemn,技能：,True
+-effects_description_hv_effect_unlock_desperate_cry,技能：,True
+-effects_description_hv_effect_unlock_disorientate,技能：,True
+-effects_description_hv_effect_unlock_favourable_skies,技能：,True
+-effects_description_hv_effect_unlock_inner_fire,技能：,True
+-effects_description_hv_effect_unlock_judgement,技能：,True
+-effects_description_hv_effect_unlock_knowledge_of_the_body,技能：,True
+-effects_description_hv_effect_unlock_knowledge_of_the_mind,技能：,True
+-effects_description_hv_effect_unlock_knowledge_of_the_spirit,技能：,True
+-effects_description_hv_effect_unlock_one_with_heaven,技能：,True
+-effects_description_hv_effect_unlock_one_with_the_land,技能：,True
+-effects_description_hv_effect_unlock_one_with_the_people,技能：,True
+-effects_description_hv_effect_unlock_preach,技能：,True
+-effects_description_hv_effect_unlock_strength_of_the_land,技能：,True
++effects_description_hv_effect_unlock_commanding_shout,技能：號令吶喊,True
++effects_description_hv_effect_unlock_condemn,技能：譴責,True
++effects_description_hv_effect_unlock_desperate_cry,技能：慘烈呼喊,True
++effects_description_hv_effect_unlock_disorientate,技能：打亂方向,True
++effects_description_hv_effect_unlock_favourable_skies,技能：有利天候,True
++effects_description_hv_effect_unlock_inner_fire,技能：心中真火,True
++effects_description_hv_effect_unlock_judgement,技能：明察秋毫,True
++effects_description_hv_effect_unlock_knowledge_of_the_body,技能：身之識見,True
++effects_description_hv_effect_unlock_knowledge_of_the_mind,技能：心之識見,True
++effects_description_hv_effect_unlock_knowledge_of_the_spirit,技能：靈之識見,True
++effects_description_hv_effect_unlock_one_with_heaven,技能：與天合一,True
++effects_description_hv_effect_unlock_one_with_the_land,技能：與地合一,True
++effects_description_hv_effect_unlock_one_with_the_people,技能：與人合一,True
++effects_description_hv_effect_unlock_preach,技能：講道,True
++effects_description_hv_effect_unlock_strength_of_the_land,技能：大地之力,True
+@@ -2856 +2856 @@
+-character_skills_localised_name_hv_skill_ability_inward_focus_expertise,專注內在,True
++character_skills_localised_name_hv_skill_ability_inward_focus_expertise,專注內政,True
+@@ -3243 +3243 @@
+-special_ability_phases_onscreen_name_hv_ability_desperate_savior,Second Wind,True
++special_ability_phases_onscreen_name_hv_ability_desperate_savior,重振旗鼓,True
+@@ -3314 +3314 @@
+-special_ability_phases_onscreen_name_hv_ability_dragon_rising,Dragon Rising,True
++special_ability_phases_onscreen_name_hv_ability_dragon_rising,覺醒之龍,True
+@@ -3360 +3360 @@
+-special_ability_phases_onscreen_name_hv_ability_mercenary_passive,Onslaught,True
++special_ability_phases_onscreen_name_hv_ability_mercenary_passive,猛攻,True
+@@ -3365 +3365 @@
+-special_ability_phases_onscreen_name_hv_ability_yuan_officer_passive,Bolster,True
++special_ability_phases_onscreen_name_hv_ability_yuan_officer_passive,支持,True
+@@ -5592,2 +5592,2 @@
+-incidents_localised_title_3k_dlc07_child_emperor_scripted_incident_political_scheme_good,Political Maneuvering,False
+-incidents_localised_title_3k_dlc07_child_emperor_scripted_incident_political_scheme_bad,Political Maneuvering,False
++incidents_localised_title_3k_dlc07_child_emperor_scripted_incident_political_scheme_good,政治斡旋,False
++incidents_localised_title_3k_dlc07_child_emperor_scripted_incident_political_scheme_bad,政治斡旋,False
