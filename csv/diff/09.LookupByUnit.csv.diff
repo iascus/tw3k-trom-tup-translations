@@ -1,5 +1,0 @@
---- csv/out/09.LookupByUnit.csv
-+++ csv/xls/09.LookupByUnit.csv
-@@ -1 +1 @@
--Unit types,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unit names,Unnamed: 7,Unnamed: 8
-+Unit types,,,,,,Unit names,,

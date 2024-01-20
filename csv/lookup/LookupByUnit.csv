@@ -1,0 +1,68 @@
+Unit types,,,,,,Unit names,,
+eng,zh-tw,zh-cn,,,,eng,zh-tw,zh-cn
+all cavalry,所有騎兵,所有骑兵,,,,Archers,弓兵,弓手
+all characters,所有人物,所有人物,,,,Assault Cavalry,突擊騎兵,突击骑兵
+Animal Handlers,馴獸師,驯兽师,,,,Axe Defectors,叛逃斧兵,变节斧手
+Artillery,遠程砲兵,远程砲兵,,,,Axemen,斧兵,斧手
+black mountain bandit,黑山匪徒,黑山匪徒,,,,Bandits,盗贼,山贼
+Blowpipes,吹箭兵,吹箭手,,,,Caltrop Throwers,蒺藜兵,蒺藜手
+Bow Cavalry,持弓騎兵,持弓骑兵,,,,Captain,校尉,伯长
+Bow Infantry,持弓步兵,持弓步兵,,,,Cataphracts,鐵甲騎兵,铁骑
+Buqu,部曲,部曲,,,,Cavalry,騎兵,骑兵
+Captain,校尉,伯长,,,,Cavalry Defectors,叛逃騎兵,变节骑兵
+captain retinues,校尉部曲,伯长部曲,,,,Crossbow,弩,弩
+cavalry,騎兵,骑兵,,,,Crossbow Defectors,叛逃弩兵,变节弩手
+characters,人物,人物,,,,Crossbow Defenders,弩衛,弩卫
+Combined Weapons Infantry,複合武器步兵,复合武器步兵,,,,Crossbow Peacekeepers,衛平弩兵,泰平弩卫
+Crossbow Artillery,弩炮,弩炮,,,,Crossbowmen,弩兵,弩兵
+Crossbow Cavalry,持弩騎兵,持弩骑兵,,,,Crossbowmen Cavalry,弩騎兵,弩骑兵
+Crossbow Infantry,持弩步兵,持弩步兵,,,,Fellows,義從,义从
+Danyang,丹陽,丹阳,,,,Fellows Officer,義從官,义从士官
+Dual Wield Hafted Weapon Cavalry,雙斧騎兵,双斧骑兵,,,,Fellows Shot,義從射擊,义从射击
+Dual Wield Hafted Weapon Infantry,雙斧步兵,双斧步兵,,,,Freemen,自由人,自由人
+Dual Wield Hand-Ji Infantry,雙戟步兵,双戟步兵,,,,Guardsmen,衛兵,卫士
+Dual Wield Sword Cavalry,雙劍騎兵,双剑骑兵,,,,Halberd Peacekeepers,衛平戟兵,泰平戟卫
+Dual Wield Sword Infantry,雙劍步兵,双剑步兵,,,,Hand-Ji Infantry,手戟兵,手戟兵
+Elephants,象兵,象兵,,,,Heavy Bow Archers,重型弓兵,重弓手
+Elite,精銳,精锐,,,,Horsemen,騎兵,骑兵
+Glaive & Bow Infantry,大刀步兵與弓兵,大刀步兵与弓兵,,,,Hunters,獵人,猎手
+Glaive Infantry,大刀步兵,大刀步兵,,,,Javelineer,擲鋋兵,投枪手
+Gunpowder Infantry,火器步兵,火器步兵,,,,Ji Cavalry,戟騎兵,戟骑兵
+Hafted Weapon Cavalry,持斧騎兵,持斧骑兵,,,,Ji Infantry,戟兵,戟步兵
+Hafted Weapon Infantry,持斧步兵,持斧步兵,,,,Lancer Cataphracts,長槍鐵甲騎兵,长枪铁骑
+Halberd Infantry,持戟步兵,持戟步兵,,,,Lancer Cavalry,槍騎,戟骑兵
+Hand-Ji Infantry,手戟步兵,手戟步兵,,,,Long Axe Infantry,長斧步兵,长斧步兵
+heavy infantry,重型步兵,重装步兵,,,,Long Axemen,長斧兵,长斧手
+House Servant and Local Noble,家僕及豪族,仆从与豪强,,,,Long Spear Defectors,叛逃長槍兵,变节长枪兵
+infantry,步兵,步兵,,,,Long Spearmen,長槍兵,长枪兵
+Ironfist Cavalry,鐵拳騎兵,铁拳骑兵,,,,Marauders,掠奪者,劫匪
+Javelin Throwers,擲鋋兵,投枪手,,,,Mounted Archers,弓騎兵,弓骑兵
+Ji Cavalry,持戟騎兵,持戟骑兵,,,,Mounted Rangers,游騎兵,游骑兵
+Ji Infantry,持戟步兵,持戟步兵,,,,Mounted Warriors,騎馬戰士,骑乘勇士
+Jingchu,荊楚,荆楚,,,,Queen,女王,魁首
+Juggernaut,火獸車,木兽,,,,Raid Cavalry,突襲騎兵,游骑
+light Infantry,輕型步兵,轻装步兵,,,,Raider Cavalry,突襲騎兵,游骑
+Long Spear Infantry,長槍步兵,长矛骑兵,,,,Raiders,劫匪,劫匪
+Long Sword Infantry,長劍步兵,长剑步兵,,,,Rangers,游擊兵,游击兵
+melee cavalry,近戰騎兵,近战骑兵,,,,Remnants,殘黨,余党
+melee infantry,近戰步兵,近战步兵,,,,Repeating Crossbow Defenders,連弩衛,连弩卫
+Militia,義勇,民兵,,,,Repeating Crossbowmen,連弩兵,连弩手
+Mob,暴民,暴民,,,,Riders,騎手,掠骑兵
+Nomad,游牧,游牧,,,,Royal Guard Cavalry,羽林騎,羽林骑
+polearm infantry,持戟步兵,持戟步兵,,,,Sabre Cavalry,刀騎兵,刀骑兵
+ranged,遠程,远程,,,,Sabre Infantry,持刀步兵,持刀步兵
+Ranged Infantry,遠程步兵,远程步兵,,,,Shield Bearers,持盾者,持盾者
+Royal Guard,禁衛,禁卫,,,,Spear Defenders,槍衛,持矛卫士
+shock cavalry,突擊騎兵,冲击骑兵,,,,Spear Gang,槍兵團,矛兵团
+Slingers,投石兵,投石兵,,,,Spearmen,長槍兵,矛兵
+spear,槍兵,矛兵,,,,Spears,槍兵,矛兵
+Spear Cavalry,持槍騎兵,持矛骑兵,,,,Strays,流浪兵,流浪兵
+Spear Infantry,持槍步兵,持矛步兵,,,,Sword Cavalry,劍騎兵,剑骑兵
+Staff Infantry,持杖步兵,持杖步兵,,,,Swordsmen,劍兵,剑兵
+Sword Cavalry,持劍騎兵,持剑骑兵,,,,Swordsmen of Yuan,袁氏劍兵,袁氏剑兵
+Sword Infantry,持劍步兵,持剑步兵,,,,Tamers,馴獸師,驯兽师
+Xiliang,西涼,西凉,,,,Troops,兵,兵
+Yue,越族,山越,,,,Veterans,老兵,宿卫
+the northern army,北軍,北军,,,,Warband,兵團,兵团
+,,,,,,Warriors,戰士,勇士
+,,,,,,Zhanmajian Infantry,斬馬劍兵,斩马劲卒

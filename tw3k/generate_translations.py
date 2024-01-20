@@ -4,7 +4,6 @@ from abc import abstractmethod
 
 import numpy as np
 import pandas as pd
-import pandas.testing as pdt
 
 logging.basicConfig(level=logging.INFO)
 
@@ -25,6 +24,14 @@ class Step:
     @property
     def filename(self):
         return f'{self.step_no:02}.{self.name}.csv'
+
+    @property
+    def in_filepath(self):
+        return f'csv/in/{self.name}.csv'
+
+    @property
+    def lookup_filepath(self):
+        return f'csv/lookup/{self.name}.csv'
 
     @property
     def out_filepath(self):
@@ -50,30 +57,48 @@ class Step:
         logger.info(f'Running {self.name}')
         self.data = self._run()
 
-    def load_from_xls(self):
-        logger.info(f'Loading {self.xls_filepath}')
-        return pd.read_csv(self.xls_filepath)
+    def load_file(self, file_type):
+        if file_type == 'xls':
+            path = self.xls_filepath
+        elif file_type == 'in':
+            path = self.in_filepath
+        elif file_type == 'lookup':
+            path = self.lookup_filepath
+        else:
+            raise ValueError(f'Unknown type: {file_type}')
+        logger.info(f'Loading {path}')
+        return pd.read_csv(path)
 
     def compare_with_xls(self):
         logger.info('Comparing with xls data')
         with (
             open(self.out_filepath, encoding='utf8') as out_file,
             open(self.xls_filepath, encoding='utf8') as xls_file,
-            open(self.diff_filepath, encoding='utf8', mode='w') as diff_file,
         ):
-            diff = difflib.unified_diff(
+            diff = list(difflib.unified_diff(
                 out_file.read().replace(',TRUE', ',True').replace(',FALSE', ',False').splitlines(keepends=True),
                 (xls_file.read().rstrip() + '\n').replace(',TRUE', ',True').replace(',FALSE', ',False').splitlines(keepends=True),
                 self.out_filepath, self.xls_filepath,
                 n=0,
-            )
-            diff_file.writelines(diff)
+            ))
+        if diff:
+            with open(self.diff_filepath, encoding='utf8', mode='w') as diff_file:
+                diff_file.writelines(diff)
 
 
 class InputFile(Step):
-
     def _run(self):
-        return self.load_from_xls()
+        return self.load_file('in')
+
+
+class LookupFile(Step):
+    def _run(self):
+        return self.load_file('lookup')
+
+
+class CopyFromXls(Step):
+    def _run(self):
+        return self.load_file('xls')
 
 
 class VanillaZhcn(InputFile):
@@ -100,12 +125,24 @@ class TromEng(InputFile):
     step_no = 6
 
 
-class KeyMapOverride(InputFile):
-    step_no = 7
+class TromVanillaKeyOverride(LookupFile):
+    step_no = 11
+
+
+class LookupByUnit(LookupFile):
+    step_no = 12
+
+
+class LookupByText(LookupFile):
+    step_no = 13
+
+
+class LookupByKey(LookupFile):
+    step_no = 14
 
 
 class EngToVanillaKey(Step):
-    step_no = 8
+    step_no = 21
 
     def __init__(self, trom_eng, key_map_override, vanilla_eng, vanilla_zhtw, vanilla_zhcn):
         self.trom_eng = trom_eng
@@ -130,28 +167,47 @@ class EngToVanillaKey(Step):
         return data
 
 
-class LookupByUnit(InputFile):
-    step_no = 9
+class MapByTextZhcn(Step):
+    step_no = 22
+    lang_col = 'zh-cn'
+
+    def __init__(self, trom_eng, eng_to_vanilla_key, lookup_by_unit, lookup_by_text):
+        self.trom_eng = trom_eng
+        self.eng_to_vanilla_key = eng_to_vanilla_key
+        self.lookup_by_unit = lookup_by_unit
+        self.lookup_by_text = lookup_by_text
+
+    def _run(self):
+        data = self.trom_eng.data.fillna('')
+        data = data.groupby(['Text']).agg(Tooltip=('Tooltip', 'first'), File=('File', 'first'), Count=('Key', 'count'))
+        lookup_by_text = self.lookup_by_text.data.set_index('eng')[[self.lang_col]].rename({self.lang_col:'Override (manual)'}, axis=1)
+        data = data.merge(lookup_by_text, left_index=True, right_index=True, how='left')
+        data['Mapped'] = data['Override (manual)']
+
+        for col in [
+            'Override (pattern)', 'C1', 'Unit type', 'Unit name', 'Unit key', 'Old', 'File',
+        ]:
+            data[col] = ''
+        data['Count'] = 0
+        data['Duplicated'] = 'FALSE'
+        data['zhtw'] = 'TRUE'
+
+        data = data.reset_index()[[
+            'Text', 'Mapped', 'Count', 'Override (manual)',
+            'Override (pattern)', 'C1', 'Unit type', 'Unit name', 'Unit key', 'Old',
+            'File',
+            'Duplicated', 'zhtw',
+        ]]
+        return data
 
 
-class LookupByText(InputFile):
-    step_no = 10
-
-
-class LookupByKey(InputFile):
-    step_no = 11
-
-
-class MapByTextZhcn(InputFile):
-    step_no = 12
-
-
-class MapByTextZhtw(InputFile):
-    step_no = 13
+class MapByTextZhtw(MapByTextZhcn):
+    step_no = 23
+    lang_col = 'zh-tw'
 
 
 class MapByKeyZhcn(Step):
-    step_no = 14
+    step_no = 24
     lang_col = 'zh-cn'
 
     def __init__(self, trom_eng, eng_to_vanilla_key, trom_zh, lookup_by_key, map_by_text_zh):
@@ -195,12 +251,12 @@ class MapByKeyZhcn(Step):
 
 
 class MapByKeyZhtw(MapByKeyZhcn):
-    step_no = 15
+    step_no = 25
     lang_col = 'zh-tw'
 
 
 class FinalZhcn(Step):
-    step_no = 16
+    step_no = 26
 
     def __init__(self, map_by_key_zh):
         self.map_by_key_zh = map_by_key_zh
@@ -211,7 +267,7 @@ class FinalZhcn(Step):
 
 
 class FinalZhtw(FinalZhcn):
-    step_no = 17
+    step_no = 27
 
 
 def main():
@@ -221,13 +277,13 @@ def main():
     trom_zhcn = TromZhcn()
     trom_zhtw = TromZhtw()
     trom_eng = TromEng()
-    key_map_override = KeyMapOverride()
+    key_map_override = TromVanillaKeyOverride()
     eng_to_vanilla_key = EngToVanillaKey(trom_eng, key_map_override, vanilla_eng, vanilla_zhtw, vanilla_zhcn)
     lookup_by_unit = LookupByUnit()
     lookup_by_text = LookupByText()
     lookup_by_key = LookupByKey()
-    map_by_text_zhcn = MapByTextZhcn()
-    map_by_text_zhtw = MapByTextZhtw()
+    map_by_text_zhcn = MapByTextZhcn(trom_eng, eng_to_vanilla_key, lookup_by_unit, lookup_by_text)
+    map_by_text_zhtw = MapByTextZhtw(trom_eng, eng_to_vanilla_key, lookup_by_unit, lookup_by_text)
     map_by_key_zhcn = MapByKeyZhcn(trom_eng, eng_to_vanilla_key, trom_zhcn, lookup_by_key, map_by_text_zhcn)
     map_by_key_zhtw = MapByKeyZhtw(trom_eng, eng_to_vanilla_key, trom_zhtw, lookup_by_key, map_by_text_zhtw)
     final_zhcn = FinalZhcn(map_by_key_zhcn)
