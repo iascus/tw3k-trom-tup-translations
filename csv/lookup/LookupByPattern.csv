@@ -1,0 +1,16 @@
+KeyPattern,TextPattern,zh-tw,zh-cn
+,^(?P<repl>{{.*}}) for recruitment: %\+n$,{repl}部署量：%+n,{repl}部署量：%+n
+,^(?P<repl>{{.*}})$,{repl},{repl}
+,^Ability: (?P<text>[-a-zA-Z ]+)$,技能：{text},技能：{text}
+,^Unlocks (?P<unit_type>[a-zA-Z ]+) units \[\[col:scope_description\]\]\(own retinue\)\[\[/col\]\],解除{unit_type}單位的鎖定[[col:scope_description]]（我方部曲）[[/col]],解锁{unit_type}单位[[col:scope_description]]（我方部曲）[[/col]]
+,^Unlocks assignment: (?P<text>{{.*}})$,解鎖任務：{text},解锁任务：{text}
+,^Unlocks unit: (?P<repl>{{.*}}) units$,解鎖單位：{repl}單位,解锁部队：{repl}部队
+,^Unlocks unit: (?P<repl>{{.*}})$,解鎖單位：{repl},解锁部队：{repl}
+,^You may now recruit (?P<unit_type>[a-zA-Z :{}_]+) units$,您現在可以招募：{unit_type}單位,您现在可以招募：{unit_type}部队
+,^You may now recruit (?P<unit_type>[a-zA-Z :{}_]+)$,您現在可以招募：{unit_type},您现在可以招募：{unit_type}
+,^You may now recruit (?P<unit_type>[a-zA-Z :{}_]+)\.$,您現在可以招募：{unit_type}。,您现在可以招募：{unit_type}。
+^ui_text_replacements_localised_text_.*,^(?P<unit_type>Black Mountain Bandits|Enforcer Troop|Han Provincial|House Servant|Jianan Vigilante|Local Noble|Southern Foreign|Tiger & Leopard|White Tiger|Yellow Turbans|Yuan Rong) (?P<unit_name>[-a-zA-Z ]+),{unit_type}{unit_name},{unit_type}{unit_name}
+^ui_text_replacements_localised_text_.*,^(?P<unit_type>[a-zA-Z]+) (?P<unit_name>[-a-zA-Z ]+),{unit_type}{unit_name},{unit_type}{unit_name}
+^ui_text_replacements_localised_text_.*,^(?P<unit_type>[a-zA-Z]+) (?P<unit_tier>[a-zA-Z]+) (?P<unit_name>[-a-zA-Z ]+),{unit_type}{unit_tier}{unit_name},{unit_type}{unit_tier}{unit_name}
+^ui_unit_group_parents_onscreen_name_.*,^(?P<unit_type>[a-zA-Z]+) (?P<unit_name>[-a-zA-Z ]+),{unit_type}{unit_name},{unit_type}{unit_name}
+^ui_unit_groupings_onscreen_.*,^(?P<unit_type>[-a-zA-Z &]+) \((?P<unit_tier>[a-zA-Z ]+)\),{unit_type}（{unit_tier}）,{unit_type}（{unit_tier}）

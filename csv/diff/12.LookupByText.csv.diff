@@ -1,0 +1,11 @@
+--- csv/out/12.LookupByText.csv
++++ csv/xls/12.LookupByText.csv
+@@ -346 +346 @@
+-long_description,,,hv_TEXT_building.loc,,,
++long_description,長描述,长描述,hv_TEXT_building.loc,,,
+@@ -386 +386 @@
+-"Once equipped, this item can't be unequipped until it is destroyed in 20 turns!",裝備此飾物後，須等到20回合後才能解除。之後此飾物即會消失。,装备此饰物后，须等到10回合后才能解除。之后此饰物即会消失。,hv_TEXT_effects_ceo.loc,,,
++"Once equipped, this item can't be unequipped until it is destroyed in 20 turns!",裝備此飾物後，須等到20回合後才能解除。之後此飾物即會消失。,装备此饰物后，须等到20回合后才能解除。之后此饰物即会消失。,hv_TEXT_effects_ceo.loc,,,
+@@ -400 +400 @@
+-Political Maneuvering,,,text/_ifo/ifo_text_TWEAK.loc,,,
++Political Maneuvering,政治斡旋,政治斡旋,text/_ifo/ifo_text_TWEAK.loc,,,
