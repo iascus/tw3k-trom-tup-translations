@@ -1087,9 +1087,9 @@
 -Common Polearm Infantry,普通持戟步兵,0,,普通持戟步兵,普通,持戟步兵,,Polearm Infantry,,,False,True
 -Common Ranged Infantry,普通远程步兵,0,,普通远程步兵,普通,远程步兵,,Ranged Infantry,,,False,True
 +Common Cavalry,普通骑兵,0,,,,,,,,,False,True
-+Common Melee Infantry,,0,,,,,,,,,False,True
-+Common Polearm Infantry,,0,,,,,,,,,False,True
-+Common Ranged Infantry,,0,,,,,,,,,False,True
++Common Melee Infantry,普通近战步兵,0,,,,,,,,,False,True
++Common Polearm Infantry,普通持戟步兵,0,,,,,,,,,False,True
++Common Ranged Infantry,普通远程步兵,0,,,,,,,,,False,True
 @@ -1054 +383,0 @@
 -Confusion casued by the new coin.,,0,,,,,,,,,False,True
 @@ -1063,12 +392,9 @@
@@ -1994,15 +1994,15 @@
 -Tyrant Slayers,,0,,,,,,Slayers,,,False,True
 +Tyrant Slayers,,0,,,,,,,,,False,True
 @@ -2203,0 +1391,9 @@
-+Unlocks Danyang units [[col:scope_description]](own retinue)[[/col]],解锁丹阳单位[[col:scope_description]]（我方部曲）[[/col]],0,,,,,,,,,False,True
-+Unlocks Enforcer units [[col:scope_description]](own retinue)[[/col]],,0,,,,,,,,,False,True
-+"Unlocks Hidden Sankes, Rapid Tigers [[col:scope_description]](own retinue)[[/col]]",,0,,,,,,,,,False,True
-+Unlocks Jingchu units [[col:scope_description]](own retinue)[[/col]],解锁荆楚单位[[col:scope_description]]（我方部曲）[[/col]],0,,,,,,,,,False,True
++Unlocks Danyang units [[col:scope_description]](own retinue)[[/col]],解锁丹阳单位[[col:scope_description]]（本部曲）[[/col]],0,,,,,,,,,False,True
++Unlocks Enforcer units [[col:scope_description]](own retinue)[[/col]],解锁捕掾队单位[[col:scope_description]]（本部曲）[[/col]],0,,,,,,,,,False,True
++"Unlocks Hidden Sankes, Rapid Tigers [[col:scope_description]](own retinue)[[/col]]",解锁隐蛇兵与虎捷军[[col:scope_description]]（本部曲）[[/col]],0,,,,,,,,,False,True
++Unlocks Jingchu units [[col:scope_description]](own retinue)[[/col]],解锁荆楚单位[[col:scope_description]]（本部曲）[[/col]],0,,,,,,,,,False,True
 +Unlocks Might Royal Guard units,,0,,,,,,,,,False,True
 +Unlocks Northern Army units [[col:scope_description]](own retinue)[[/col]],,0,,,,,,,,,False,True
-+Unlocks Sogd units [[col:scope_description]](own retinue)[[/col]],解锁粟特单位[[col:scope_description]]（我方部曲）[[/col]],0,,,,,,,,,False,True
++Unlocks Sogd units [[col:scope_description]](own retinue)[[/col]],解锁粟特单位[[col:scope_description]]（本部曲）[[/col]],0,,,,,,,,,False,True
 +Unlocks Virtue Royal Guard units,,0,,,,,,,,,False,True
-+Unlocks Xiliang Army units [[col:scope_description]](own retinue)[[/col]],解锁西凉军单位[[col:scope_description]]（我方部曲）[[/col]],0,,,,,,,,,False,True
++Unlocks Xiliang Army units [[col:scope_description]](own retinue)[[/col]],解锁西凉军单位[[col:scope_description]]（本部曲）[[/col]],0,,,,,,,,,False,True
 @@ -2205,8 +1401,7 @@
 -Unlocks assignment: Army Reinforcement,解锁任务：军队补员,0,,解锁任务：军队补员,,,军队补员,Army Reinforcement,,,False,True
 -Unlocks assignment: City Expansion,解锁任务：扩展城市,0,,解锁任务：扩展城市,,,扩展城市,City Expansion,,,False,True
@@ -2012,13 +2012,13 @@
 -Unlocks assignment: Gathering Volunteers,解锁任务：召集义勇,0,,解锁任务：召集义勇,,,召集义勇,Gathering Volunteers,,,False,True
 -Unlocks assignment: Military Support,解锁任务：军事支持,0,,解锁任务：军事支持,,,军事支持,Military Support,,,False,True
 -Unlocks Danyang units [[col:scope_description]](own retinue)[[/col]],解锁丹阳部队 [[col:scope_description]]（本部曲）[[/col]],0,,解锁丹阳部队 [[col:scope_description]]（本部曲）[[/col]],丹阳,,,,,,False,True
-+Unlocks assignment: Army Reinforcement,,0,,,,,,,,,False,True
-+Unlocks assignment: City Expansion,,0,,,,,,,,,False,True
-+Unlocks assignment: Court Management,,0,,,,,,,,,False,True
-+Unlocks assignment: Disturbance,,0,,,,,,,,,False,True
-+Unlocks assignment: Garrison Reinforcement,,0,,,,,,,,,False,True
-+Unlocks assignment: Gathering Volunteers,,0,,,,,,,,,False,True
-+Unlocks assignment: Military Support,,0,,,,,,,,,False,True
++Unlocks assignment: Army Reinforcement,解锁任务：军队补员,0,,,,,,,,,False,True
++Unlocks assignment: City Expansion,解锁任务：扩展城市,0,,,,,,,,,False,True
++Unlocks assignment: Court Management,解锁任务：宫廷管理,0,,,,,,,,,False,True
++Unlocks assignment: Disturbance,解锁任务：扰乱,0,,,,,,,,,False,True
++Unlocks assignment: Garrison Reinforcement,解锁任务：驻军补员,0,,,,,,,,,False,True
++Unlocks assignment: Gathering Volunteers,解锁任务：召集义勇,0,,,,,,,,,False,True
++Unlocks assignment: Military Support,解锁任务：军事支持,0,,,,,,,,,False,True
 @@ -2215,7 +1409,0 @@
 -Unlocks Enforcer units [[col:scope_description]](own retinue)[[/col]],解锁捕掾队 [[col:scope_description]]（本部曲）[[/col]],0,,解锁捕掾队 [[col:scope_description]]（本部曲）[[/col]],捕掾队,,,,,,False,True
 -"Unlocks Hidden Sankes, Rapid Tigers [[col:scope_description]](own retinue)[[/col]]",解锁隐蛇兵与虎捷军 [[col:scope_description]]（本部曲）[[/col]],0,,解锁隐蛇兵与虎捷军 [[col:scope_description]]（本部曲）[[/col]],隐蛇兵与虎捷军,,,,,,False,True
@@ -2121,16 +2121,15 @@
 -Warriors get entangled and fight fiercely.,,0,,,,,,,,,False,True
 @@ -2291 +1475,0 @@
 -Wars are a costly endevour and one cannot hope to end this chaos without a sizable treasury. Show all under heaven that you possess China's wealth.,,0,,,,,,,,,False,True
-@@ -2295,0 +1480,3 @@
-+We're barely keeping our cavalry supplied. ,勉强能供应我们的骑兵。,0,勉强能供应我们的骑兵。,,,,,,,,False,True
-+We've run into problems paying the troops with the new coin. We have no choice but to wait for soldiers to adjust to the new standard.,由于新币发行，分发军饷时出现问题。我们别无选择，只能等到士兵们适应新的标准。,0,由于新币发行，分发军饷时出现问题。我们别无选择，只能等到士兵们适应新的标准。,,,,,,,,False,True
-+We've run into problems purchasing grain with the new coin. We have no choice but to wait for farmers to adjust to the new standard.,由于新币发行，买粮时出现问题。我们别无选择，只能等到农民们适应新的标准。,0,由于新币发行，买粮时出现问题。我们别无选择，只能等到农民们适应新的标准。,,,,,,,,False,True
-@@ -2298,5 +1484,0 @@
--We're barely keeping our cavalry supplied. ,勉强能供应我们的骑兵。,0,勉强能供应我们的骑兵。,,,,,,,,False,True
--We've run into problems paying the troops with the new coin. We have no choice but to wait for soldiers to adjust to the new standard.,由于新币发行，分发军饷时出现问题。我们别无选择，只能等到士兵们适应新的标准。,0,由于新币发行，分发军饷时出现问题。我们别无选择，只能等到士兵们适应新的标准。,,,,,,,,False,True
+@@ -2296,2 +1479,0 @@
+-Wei Yan,,0,,,,,,,,,False,True
+-Wen Chou,,0,,,,,,,,,False,True
+@@ -2300 +1481,0 @@
 -We've run into problems paying the troops with the new coin. We have no choice but to wait for the soldiers to adjust to the new standard.,,0,,,,,,,,,False,True
--We've run into problems purchasing grain with the new coin. We have no choice but to wait for farmers to adjust to the new standard.,由于新币发行，买粮时出现问题。我们别无选择，只能等到农民们适应新的标准。,0,由于新币发行，买粮时出现问题。我们别无选择，只能等到农民们适应新的标准。,,,,,,,,False,True
+@@ -2302 +1483,2 @@
 -We've run into problems purchasing grain with the new coin. We have no choice but to wait for the farmers to adjust to the new standard.,,0,,,,,,,,,False,True
++Wei Yan,,0,,,,,,,,,False,True
++Wen Chou,文丑,0,文丑,,,,,,,,False,True
 @@ -2305 +1486,0 @@
 -"When arrows fall like hail, their skin will be as stone before the onslaught!",,0,,,,,,,,,False,True
 @@ -2317,2 +1498,2 @@
@@ -2216,6 +2215,9 @@
 -xiongnu_01_short_description,,0,,,,,,,,,False,True
 -xiongnu_02_long_description,,0,,,,,,,,,False,True
 -xiongnu_02_short_description,,0,,,,,,,,,False,True
+@@ -2403 +1573 @@
+-Yan Liang,,0,,,,,,,,,False,True
++Yan Liang,颜良,0,颜良,,,,,,,,False,True
 @@ -2405,3 +1575,3 @@
 -Yaoguai Hunters,,0,,,,,猎手,Hunters,,,False,True
 -Ye Overwatch Vanguards,邺城守望先锋,0,邺城守望先锋,,,,,Overwatch Vanguards,,,False,True
@@ -2268,9 +2270,14 @@
 -You Shi,游师骑兵,0,游师骑兵,,,,,,,,False,True
 @@ -2462 +1628,0 @@
 -"Your messengers report a remarkable story. A trader spotted a Chinese woman living amongst the Xiongnu and identified her as Cai Yan, the daughter of the grand scholar Cai Yong. It seems she was forced to marry a chieftain of the Xiongnu. Perhaps someone could convince this chieftain to free Cai Yan. One of your scouts has already left to investigate...",,0,,,,,,,,,False,True
-@@ -2466 +1632 @@
+@@ -2466,2 +1632,2 @@
 -Yuan Rong Crossbowmen,元戎弩兵,0,,元戎弩兵,元戎,,弩兵,Crossbowmen,,,False,True
+-Yuan Shang,,0,,,,,,,,,False,True
 +Yuan Rong Crossbowmen,元戎弩兵,0,,,,,,,,,False,True
++Yuan Shang,袁尚,0,袁尚,,,,,,,,False,True
+@@ -2471 +1637 @@
+-Yuan Tan,,0,,,,,,,,,False,True
++Yuan Tan,袁谭,0,袁谭,,,,,,,,False,True
 @@ -2473 +1639 @@
 -Yue Freemen,越族自由人,0,,越族自由人,越族,,自由人,Freemen,,,False,True
 +Yue Freemen,山越自由人,0,,,,,,,,,False,True
@@ -2284,8 +2291,8 @@
 @@ -2492,0 +1659 @@
 +Zhou the Youth,,0,,,,,,,,,False,True
 @@ -2496,0 +1664,645 @@
-+[[b]]%+n%[[/b]] additional melee hit bonus,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] additional melee hit bonus for Militia units,,0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] additional melee hit bonus,近战命中加成 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] additional melee hit bonus for Militia units,民兵部队近战命中加成 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
 +[[b]]%+n%[[/b]] additional melee hit bonus for melee infantry,,0,,,,,,,,,False,True
 +[[b]]%+n%[[/b]] additional melee hit bonus in enemy territory,,0,,,,,,,,,False,True
 +[[b]]%+n%[[/b]] additional melee hit bonus in own territory,,0,,,,,,,,,False,True
@@ -2308,7 +2315,7 @@
 +[[b]]%+n%[[/b]] health,,0,,,,,,,,,False,True
 +[[b]]%+n%[[/b]] health recovery for characters,,0,,,,,,,,,False,True
 +[[b]]%+n%[[/b]] income from looting settlements and post-battle loot,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] mass for cavalry units,,0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] mass for cavalry units,骑兵单位质量 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
 +[[b]]%+n%[[/b]] melee attack rate for black mountain bandit units,,0,,,,,,,,,False,True
 +[[b]]%+n%[[/b]] melee attack rate for melee infantry,,0,,,,,,,,,False,True
 +[[b]]%+n%[[/b]] missile block chance,,0,,,,,,,,,False,True
@@ -2322,42 +2329,42 @@
 +[[b]]%+n%[[/b]] ranged block chance for all cavalry,,0,,,,,,,,,False,True
 +[[b]]%+n%[[/b]] ranged block chance for melee infantry,,0,,,,,,,,,False,True
 +[[b]]%+n%[[/b]] ranged block chance for shock cavalry,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] recruitment cost for Buqu units,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] recruitment cost for Elite units,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] recruitment cost for Nomad units,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] recruitment cost for Royal Guard units,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] recruitment cost for Yue units,,0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] recruitment cost for Buqu units,部曲部队招募费用 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] recruitment cost for Elite units,精锐部队招募费用 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] recruitment cost for Nomad units,游牧部队招募费用 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] recruitment cost for Royal Guard units,禁卫部队招募费用 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] recruitment cost for Yue units,山越部队招募费用 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
 +[[b]]%+n%[[/b]] recruitment cost for captain retinues,,0,,,,,,,,,False,True
 +[[b]]%+n%[[/b]] redeployment cost,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] replenishment for Buqu units,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] replenishment for Danyang units,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] replenishment for Elite units,,0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] replenishment for Buqu units,部曲部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] replenishment for Danyang units,丹阳部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] replenishment for Elite units,精锐部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
 +[[b]]%+n%[[/b]] replenishment for Ironfist Cavalry,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] replenishment for Jingchu units,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] replenishment for Militia units,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] replenishment for Nomad units,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] replenishment for Royal Guard units,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] replenishment for Xiliang units,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] replenishment for Yue units,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] replenishment for black mountain bandit units,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] replenishment for cavalry units,,0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] replenishment for Jingchu units,荆楚部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] replenishment for Militia units,民兵部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] replenishment for Nomad units,游牧部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] replenishment for Royal Guard units,禁卫部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] replenishment for Xiliang units,西凉部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] replenishment for Yue units,山越部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] replenishment for black mountain bandit units,黑山匪徒部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] replenishment for cavalry units,骑兵部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
 +[[b]]%+n%[[/b]] replenishment for characters,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] replenishment for the Northern Army units,,0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] replenishment for the Northern Army units,北军部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
 +[[b]]%+n%[[/b]] speed for melee cavalry,,0,,,,,,,,,False,True
 +[[b]]%+n%[[/b]] speed for ranged units,,0,,,,,,,,,False,True
 +[[b]]%+n%[[/b]] trade influence,,0,,,,,,,,,False,True
 +[[b]]%+n%[[/b]] upkeep cost for captain retinues,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] upkeep for Buqu units,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] upkeep for Danyang units,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] upkeep for Elite units,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] upkeep for House Servant and Local Noble units,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] upkeep for Nomad units,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] upkeep for Royal Guard units,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] upkeep for Yue units,,0,,,,,,,,,False,True
-+[[b]]%+n%[[/b]] upkeep for black mountain bandit units,,0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] upkeep for Buqu units,部曲部队维持费 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] upkeep for Danyang units,丹阳部队维持费 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] upkeep for Elite units,精锐部队维持费 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] upkeep for House Servant and Local Noble units,仆从与豪强部队维持费 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] upkeep for Nomad units,游牧部队维持费 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] upkeep for Royal Guard units,禁卫部队维持费 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] upkeep for Yue units,山越部队维持费 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
++[[b]]%+n%[[/b]] upkeep for black mountain bandit units,黑山匪徒部队维持费 [[b]]%+n%[[/b]],0,,,,,,,,,False,True
 +[[b]]%+n%[[/b]] upkeep for {{tr:hv_unit_xian_chen_ying}},,0,,,,,,,,,False,True
 +[[b]]%+n%[[/b]] weapon damage for polearm infantry,,0,,,,,,,,,False,True
-+[[b]]%+n[[/b]] black mountain,,0,,,,,,,,,False,True
++[[b]]%+n[[/b]] black mountain,黑山 [[b]]%+n[[/b]],0,,,,,,,,,False,True
 +[[b]]%+n[[/b]] charge bonus for Danyang units,,0,,,,,,,,,False,True
 +[[b]]%+n[[/b]] charge bonus for Yue units,,0,,,,,,,,,False,True
 +[[b]]%+n[[/b]] charge bonus for cavalry,,0,,,,,,,,,False,True
@@ -2370,8 +2377,8 @@
 +[[b]]%+n[[/b]] diplomatic relation with all factions,,0,,,,,,,,,False,True
 +[[b]]%+n[[/b]] food distribution,,0,,,,,,,,,False,True
 +[[b]]%+n[[/b]] hit bonus,,0,,,,,,,,,False,True
-+[[b]]%+n[[/b]] horse breeding,,0,,,,,,,,,False,True
-+[[b]]%+n[[/b]] horse breeding per turn,,0,,,,,,,,,False,True
++[[b]]%+n[[/b]] horse breeding,养马 [[b]]%+n[[/b]],0,,,,,,,,,False,True
++[[b]]%+n[[/b]] horse breeding per turn,每回合养马 [[b]]%+n[[/b]],0,,,,,,,,,False,True
 +[[b]]%+n[[/b]] melee evasion,,0,,,,,,,,,False,True
 +[[b]]%+n[[/b]] melee evasion for Buqu units,,0,,,,,,,,,False,True
 +[[b]]%+n[[/b]] melee evasion for Militia units,,0,,,,,,,,,False,True
@@ -2390,7 +2397,7 @@
 +[[b]]%+n[[/b]] starting rank for Buqu units,,0,,,,,,,,,False,True
 +[[b]]%+n[[/b]] starting rank for Elite units,,0,,,,,,,,,False,True
 +[[b]]%+n[[/b]] starting rank for Militia units,,0,,,,,,,,,False,True
-+[[b]]%+n[[/b]] stratocracy per turn,,0,,,,,,,,,False,True
++[[b]]%+n[[/b]] stratocracy per turn,每回合军政 [[b]]%+n[[/b]],0,,,,,,,,,False,True
 +[[b]]%+n[[/b]] unity,,0,,,,,,,,,False,True
 +[[b]]%+n[[/b]] {{tr:public_order}},,0,,,,,,,,,False,True
 +"[[b]]ARMOUR[[/b]]\\n\\n Decreases standard melee, ranged and explosion damages. Doesn't help against armour-piercing damage.",[[b]]护甲[[/b]]\\n\\n减少单位受到的标准近战伤害、远程伤害以及爆炸伤害。无法防御穿甲伤害。,0,[[b]]护甲[[/b]]\\n\\n减少单位受到的标准近战伤害、远程伤害以及爆炸伤害。无法防御穿甲伤害。,,,,,,,,False,True

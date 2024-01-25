@@ -1,3 +1,4 @@
+import os
 import re
 import difflib
 import logging
@@ -72,6 +73,8 @@ class Step:
 
     def compare_with_xls(self):
         logger.info('Comparing with xls data')
+        if not os.path.exists(self.xls_filepath):
+            return
         with (
             open(self.out_filepath, encoding='utf8') as out_file,
             open(self.xls_filepath, encoding='utf8') as xls_file,
@@ -150,6 +153,10 @@ class LookupByUnitType(LookupFile):
     step_no = 16
 
 
+class LookupByTextFragment(LookupFile):
+    step_no = 17
+
+
 class EngToVanillaKey(Step):
     step_no = 21
 
@@ -180,13 +187,14 @@ class MapByTextZhcn(Step):
     step_no = 22
     lang_col = 'zh-cn'
 
-    def __init__(self, trom_eng, eng_to_vanilla_key, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type):
+    def __init__(self, trom_eng, eng_to_vanilla_key, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type, lookup_by_text_fragment):
         self.trom_eng = trom_eng
         self.eng_to_vanilla_key = eng_to_vanilla_key
         self.lookup_by_unit_name = lookup_by_unit_name
         self.lookup_by_unit_type = lookup_by_unit_type
         self.lookup_by_text = lookup_by_text
         self.lookup_by_pattern = lookup_by_pattern
+        self.lookup_by_text_fragment = lookup_by_text_fragment
 
     @staticmethod
     def _lookup(found, matched, key, lookup):
@@ -201,9 +209,10 @@ class MapByTextZhcn(Step):
         data = self.trom_eng.data.fillna('')
         data = data.groupby(['Text']).agg(Tooltip=('Tooltip', 'first'), File=('File', 'first'), Count=('Key', 'count'), Key=('Key', 'first'))
         lookup_by_text = self.lookup_by_text.data.set_index('eng')[[self.lang_col]].rename({self.lang_col: 'Override (manual)'}, axis=1)
+        lookup_by_text_fragment = self.lookup_by_text_fragment.data.set_index('eng')[self.lang_col].to_dict()
         lookup_by_pattern = self.lookup_by_pattern.data.set_index(['KeyPattern', 'TextPattern'])[[self.lang_col]]
-        lookup_by_unit_type = self.lookup_by_unit_type.data.set_index('Text')[[self.lang_col]].to_dict()[self.lang_col]
-        lookup_by_unit_name = self.lookup_by_unit_name.data.set_index('Text')[[self.lang_col]].to_dict()[self.lang_col]
+        lookup_by_unit_type = self.lookup_by_unit_type.data.set_index('Text')[self.lang_col].to_dict()
+        lookup_by_unit_name = self.lookup_by_unit_name.data.set_index('Text')[self.lang_col].to_dict()
         data = data.merge(lookup_by_text, left_index=True, right_index=True, how='left')
         data['Mapped'] = data['Override (manual)']
 
@@ -236,6 +245,7 @@ class MapByTextZhcn(Step):
                     matched = matched.groupdict()
                     found = {'repl': matched['repl']} if 'repl' in matched else {}
                     found = self._lookup(found, matched, 'text', lookup_by_text)
+                    found = self._lookup(found, matched, 'text_fragment', lookup_by_text_fragment)
                     found = self._lookup(found, matched, 'unit_type', lookup_by_unit_type)
                     found = self._lookup(found, matched, 'unit_tier', lookup_by_unit_type)
                     found = self._lookup(found, matched, 'unit_name', lookup_by_unit_name)
@@ -334,8 +344,9 @@ def main():
     lookup_by_pattern = LookupByPattern()
     lookup_by_unit_name = LookupByUnitName()
     lookup_by_unit_type = LookupByUnitType()
-    map_by_text_zhcn = MapByTextZhcn(trom_eng, eng_to_vanilla_key, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type)
-    map_by_text_zhtw = MapByTextZhtw(trom_eng, eng_to_vanilla_key, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type)
+    lookup_by_text_fragment = LookupByTextFragment()
+    map_by_text_zhcn = MapByTextZhcn(trom_eng, eng_to_vanilla_key, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type, lookup_by_text_fragment)
+    map_by_text_zhtw = MapByTextZhtw(trom_eng, eng_to_vanilla_key, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type, lookup_by_text_fragment)
     map_by_key_zhcn = MapByKeyZhcn(trom_eng, eng_to_vanilla_key, trom_zhcn, lookup_by_key, map_by_text_zhcn)
     map_by_key_zhtw = MapByKeyZhtw(trom_eng, eng_to_vanilla_key, trom_zhtw, lookup_by_key, map_by_text_zhtw)
     final_zhcn = FinalZhcn(map_by_key_zhcn)
@@ -355,6 +366,7 @@ def main():
         lookup_by_pattern,
         lookup_by_unit_name,
         lookup_by_unit_type,
+        lookup_by_text_fragment,
         map_by_text_zhcn,
         map_by_text_zhtw,
         map_by_key_zhcn,

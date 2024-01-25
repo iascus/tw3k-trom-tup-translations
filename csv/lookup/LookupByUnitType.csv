@@ -1,17 +1,22 @@
 Text,zh-tw,zh-cn
+"Hidden Sankes, Rapid Tigers",隱蛇兵與虎賁軍,隐蛇兵与虎捷军
 Animal Handlers,馴獸師,驯兽师
 Artillery,遠程砲兵,远程砲兵
 Bandit,盜賊,山贼
+Bandits,盜賊,山贼
+Black Mountain Bandits,黑山匪徒,黑山匪徒
 Blowpipes,吹箭兵,吹箭手
 Bow Cavalry,持弓騎兵,持弓骑兵
 Bow Infantry,持弓步兵,持弓步兵
 Buqu,部曲,部曲
 Captain,校尉,伯长
+Chen,陳國,陈国
 Combined Weapons Infantry,複合武器步兵,复合武器步兵
 Common,普通,普通
 Crossbow Artillery,弩炮,弩炮
 Crossbow Cavalry,持弩騎兵,持弩骑兵
 Crossbow Infantry,持弩步兵,持弩步兵
+Danyang,丹陽,丹阳
 Dual Wield Hafted Weapon Cavalry,雙斧騎兵,双斧骑兵
 Dual Wield Hafted Weapon Infantry,雙斧步兵,双斧步兵
 Dual Wield Hand-Ji Infantry,雙戟步兵,双戟步兵
@@ -20,33 +25,62 @@ Dual Wield Sword Infantry,雙劍步兵,双剑步兵
 Elephants,象兵,象兵
 Elite,精銳,精锐
 Enforcer Troop,捕掾隊,捕掾队
+Enforcer,捕掾隊,捕掾队
+Frontier,北疆,北疆
 Glaive & Bow Infantry,大刀步兵與弓兵,大刀步兵与弓兵
 Glaive Infantry,大刀步兵,大刀步兵
+Guanxibing,關西,关西
 Gunpowder Infantry,火器步兵,火器步兵
 Hafted Weapon Cavalry,持斧騎兵,持斧骑兵
 Hafted Weapon Infantry,持斧步兵,持斧步兵
 Halberd Infantry,持戟步兵,持戟步兵
+Han Provincial,州屬,州属
 Hand-Ji Infantry,手戟步兵,手戟步兵
+Hebei,河北,河北
 House Servant and Local Noble,家僕及豪族,仆从与豪强
+House Servant,家僕,家仆
 Ironfist Cavalry,鐵拳騎兵,铁拳骑兵
+Ironfist,鐵拳,铁拳
 Javelin Throwers,擲鋋兵,投枪手
 Ji Cavalry,持戟騎兵,持戟骑兵
 Ji Infantry,持戟步兵,持戟步兵
+Jianan Vigilante,建安巡守,建安巡守
+Jingchu,荊楚,荆楚
 Juggernaut,火獸車,木兽
+Local Noble,地方豪强,地方豪强
 Long Spear Infantry,長槍步兵,长矛骑兵
 Long Sword Infantry,長劍步兵,长剑步兵
+Mercenary,僱傭,雇佣
 Militia,義勇,民兵
 Mob,暴民,暴民
+Nanman,南蠻,南蛮
 Nomad,游牧,游牧
+Northern,北軍,北军
 Peasant,農民,农人
+Qiang,羌族,羌族
+Qingzhou,青州,青州
 Ranged Infantry,遠程步兵,远程步兵
+Royal Guard,禁衛,禁卫
+Shanyue,山越,山越
 Slingers,投石兵,投石兵
+Sogd,粟特,粟特
+Southern Foreign,南方外族,南方外族
 Spear Cavalry,持槍騎兵,持矛骑兵
 Spear Infantry,持槍步兵,持矛步兵
 Staff Infantry,持杖步兵,持杖步兵
 Sword Cavalry,持劍騎兵,持剑骑兵
 Sword Infantry,持劍步兵,持剑步兵
+Tiger & Leopard,虎豹,虎豹
 Veteran,老練,宿卫
+White Tiger,白虎,白虎
+Wuhuan,烏桓,乌桓
+Xianbei,鮮卑,鲜卑
+Xiliang Army,西涼軍,西凉军
+Xiliang,西涼,西凉
+Xiongnu,匈奴,匈奴
+Yellow Turbans,黃巾軍,黄巾军
+Yuan Rong,元戎,元戎
+Yue,越族,山越
 all cavalry,所有騎兵,所有骑兵
 all characters,所有人物,所有人物
 black mountain bandit,黑山匪徒,黑山匪徒
@@ -62,36 +96,5 @@ polearm infantry,持戟步兵,持戟步兵
 ranged,遠程,远程
 shock cavalry,突擊騎兵,冲击骑兵
 spear,槍兵,矛兵
+the Northern Army,北軍,北军
 the northern army,北軍,北军
-Bandits,盜賊,山贼
-Black Mountain Bandits,黑山匪徒,黑山匪徒
-Chen,陳國,陈国
-Danyang,丹陽,丹阳
-Frontier,北疆,北疆
-Guanxibing,關西,关西
-Han Provincial,州屬,州属
-Hebei,河北,河北
-House Servant,家僕,家仆
-Ironfist,鐵拳,铁拳
-Jianan Vigilante,建安巡守,建安巡守
-Jingchu,荊楚,荆楚
-Local Noble,地方豪强,地方豪强
-Mercenary,僱傭,雇佣
-Nanman,南蠻,南蛮
-Northern,北軍,北军
-Qiang,羌族,羌族
-Qingzhou,青州,青州
-Royal Guard,禁衛,禁卫
-Shanyue,山越,山越
-Sogd,粟特,粟特
-Southern Foreign,南方外族,南方外族
-Tiger & Leopard,虎豹,虎豹
-White Tiger,白虎,白虎
-Wuhuan,烏桓,乌桓
-Xianbei,鮮卑,鲜卑
-Xiliang,西涼,西凉
-Xiliang Army,西涼軍,西凉军
-Xiongnu,匈奴,匈奴
-Yellow Turbans,黃巾軍,黄巾军
-Yuan Rong,元戎,元戎
-Yue,越族,山越

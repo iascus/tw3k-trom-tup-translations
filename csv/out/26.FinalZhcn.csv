@@ -221,10 +221,10 @@ custom_battle_loadouts_name_hv_cb_loadout_dong_min_01,董旻,False
 custom_battle_loadouts_name_hv_cb_loadout_zhang_xun_01,张勋,False
 custom_battle_loadouts_name_hv_cb_loadout_luo_jun_01,骆俊,False
 custom_battle_loadouts_name_hv_cb_loadout_zhang_liao_01,张辽,False
-custom_battle_loadouts_name_hv_cb_loadout_yuan_shang_01,Yuan Shang,False
-custom_battle_loadouts_name_hv_cb_loadout_yuan_tan_01,Yuan Tan,False
-custom_battle_loadouts_name_hv_cb_loadout_yan_liang_01,Yan Liang,False
-custom_battle_loadouts_name_hv_cb_loadout_wen_chou_01,Wen Chou,False
+custom_battle_loadouts_name_hv_cb_loadout_yuan_shang_01,袁尚,False
+custom_battle_loadouts_name_hv_cb_loadout_yuan_tan_01,袁谭,False
+custom_battle_loadouts_name_hv_cb_loadout_yan_liang_01,颜良,False
+custom_battle_loadouts_name_hv_cb_loadout_wen_chou_01,文丑,False
 custom_battle_loadouts_name_hv_cb_loadout_zhang_he_01,张郃,False
 custom_battle_loadouts_name_hv_cb_loadout_chunyu_qiong_01,淳于琼,False
 custom_battle_loadouts_name_hv_cb_loadout_shen_pei_01,审配,False
@@ -249,8 +249,8 @@ ceo_nodes_title_ep_ancillary_sima_jiong_armour_unique,张方的护甲,True
 ceo_nodes_title_ep_ancillary_sima_ai_armour_unique,曹昂的护甲,True
 ceo_nodes_title_hv_ancillary_weapon_khanda,坎达直剑,True
 ceo_nodes_description_hv_ancillary_weapon_khanda,西域而来的神秘宝剑。,True
-effects_description_hv_effect_replenishment_royal_guards,[[b]]%+n%[[/b]] replenishment for Royal Guard units,False
-effects_description_hv_effect_replenishment_northern_army,[[b]]%+n%[[/b]] replenishment for the Northern Army units,False
+effects_description_hv_effect_replenishment_royal_guards,禁卫部队补员速率 [[b]]%+n%[[/b]],False
+effects_description_hv_effect_replenishment_northern_army,北军部队补员速率 [[b]]%+n%[[/b]],False
 effect_bundles_localised_description_hv_effect_bundle_empress_he_replenishment_penalty,汉室式微,False
 campaign_localised_strings_string_military_force_morale_effect_bonus_value_animosity,拥堵,False
 campaign_effect_scopes_localised_text_hv_scope_dummy_character_unlock_units_rank_militia,[[col:scope_description]]（此人等级1以上时）[[/col]],True
@@ -268,16 +268,16 @@ effects_description_hv_building_effect_dummy_ethnic_penalty_chance,异民族影�
 effects_description_hv_building_effect_dummy_scattered_immigrants,{{tr:map_region}}正被零散异民所据。此况可解，垦地拓荒，善用此地资源。,True
 effects_description_hv_building_effect_dummy_garrison_sun_jian,[[i]]支援驻军与部队[[/ i]],True
 effects_description_hv_building_effect_dummy_garrison,[[i]]支援驻军与部队[[/ i]],True
-effects_description_hv_building_effect_replenishment_danyang,[[b]]%+n%[[/b]] replenishment for Danyang units,True
+effects_description_hv_building_effect_replenishment_danyang,丹阳部队补员速率 [[b]]%+n%[[/b]],True
 effects_description_hv_building_effect_province_mercenary_access,提供[[b]]丹阳部队校尉[[/b]]招募次数,True
 effects_description_hv_building_effect_dummy_education,每年春季，角色会获得额外经验。,True
-effects_description_hv_effect_unit_upkeep_local_noble_units,[[b]]%+n%[[/b]] upkeep for House Servant and Local Noble units,True
+effects_description_hv_effect_unit_upkeep_local_noble_units,仆从与豪强部队维持费 [[b]]%+n%[[/b]],True
 effects_description_hv_effect_xian_chen_ying_damange_resistance,陷阵营的伤害抗性[[b]]%+n%[[/b]],True
 effects_description_hv_effect_xian_chen_ying_charge_bonus,陷阵营的冲锋加成 [[b]]%+n[[/b]],True
 effects_description_hv_effect_xian_chen_ying_upkeep,陷阵营的维持费 [[b]]%+n%[[/b]],True
 effects_description_hv_effect_mercenary_pool_recruitment_cost_mod,伯长部曲征募费用[[b]]%+n%[[/b]],True
 effects_description_hv_effect_mercenary_pool_upkeep_mod,伯长部曲维持费 [[b]]%+n%[[/b]],True
-effects_description_hv_effect_dan_yang_upkeep,丹阳兵单位维持费[[b]]％+ n％[[/ b]],True
+effects_description_hv_effect_dan_yang_upkeep,丹阳部队维持费 [[b]]%+n%[[/b]],True
 effects_description_hv_effect_dan_yang_charge_bonus,丹阳兵的冲锋加成[[b]]％+ n [[/ b]],True
 effects_description_hv_effect_unlock_danyang_01,解锁部队：{{tr:hv_unit_dan_yang_spearmen}},True
 effects_description_hv_effect_unlock_danyang_02,解锁部队：{{tr:hv_unit_dan_yang_archers}},True
@@ -301,11 +301,11 @@ effects_description_hv_effect_unlock_sogd_remove_penalty,装备此随从后，�
 effects_description_hv_effect_dummy_accessory_warning,装备此饰物后，须等到20回合后才能解除。之后此饰物即会消失。,True
 effects_description_hv_effect_dummy_officer_warning,装备此饰物后，须等到20回合后才能解除。之后此饰物即会消失。,True
 effects_description_hv_effect_dummy_accessory_tradable,此兵符可在外交中用来交易！,True
-effects_description_hv_effect_dummy_xiliang_army_unlock,解锁西凉军单位[[col:scope_description]]（我方部曲）[[/col]],True
+effects_description_hv_effect_dummy_xiliang_army_unlock,解锁西凉军单位[[col:scope_description]]（本部曲）[[/col]],True
 effects_description_hv_effect_dummy_northern_army_unlock,解锁北军单位[[col:scope_description]]（我方部曲）[[/col]],True
-effects_description_hv_effect_dummy_jingchou_unlock,解锁荆楚单位[[col:scope_description]]（我方部曲）[[/col]],True
-effects_description_hv_effect_dummy_danyang_unlock,解锁丹阳单位[[col:scope_description]]（我方部曲）[[/col]],True
-effects_description_hv_effect_dummy_sogd_unlock,解锁粟特单位[[col:scope_description]]（我方部曲）[[/col]],True
+effects_description_hv_effect_dummy_jingchou_unlock,解锁荆楚单位[[col:scope_description]]（本部曲）[[/col]],True
+effects_description_hv_effect_dummy_danyang_unlock,解锁丹阳单位[[col:scope_description]]（本部曲）[[/col]],True
+effects_description_hv_effect_dummy_sogd_unlock,解锁粟特单位[[col:scope_description]]（本部曲）[[/col]],True
 ceo_nodes_title_hv_ancillary_accessory_danyang_military_talisman,丹阳虎符,True
 ceo_nodes_description_hv_ancillary_accessory_danyang_military_talisman,Proof that the bearer has the authority to command Danyang troops.,True
 ceo_nodes_title_hv_ancillary_follower_sogd_army_captain,粟特士官,True
@@ -314,8 +314,8 @@ ceo_nodes_title_hv_ancillary_accessory_jingchou_military_talisman,荆楚虎符,T
 ceo_nodes_description_hv_ancillary_accessory_jingchou_military_talisman,Proof that the bearer has the authority to command Jingchu troops.,True
 ceo_nodes_title_hv_ancillary_follower_xiliang_army_captain,西凉军校尉,True
 ceo_nodes_description_hv_ancillary_follower_xiliang_army_captain,西凉军为您效命！每一位校尉都忠于自己所属之人，誓死不离其侧！,True
-effects_description_hv_effect_dummy_lu_bu_legacy_unlock,Unlocks Enforcer units [[col:scope_description]](own retinue)[[/col]],True
-effects_description_hv_effect_dummy_yuan_shu_legacy_unlock,"Unlocks Hidden Sankes, Rapid Tigers [[col:scope_description]](own retinue)[[/col]]",True
+effects_description_hv_effect_dummy_lu_bu_legacy_unlock,解锁捕掾队单位[[col:scope_description]]（本部曲）[[/col]],True
+effects_description_hv_effect_dummy_yuan_shu_legacy_unlock,解锁隐蛇兵与虎捷军[[col:scope_description]]（本部曲）[[/col]],True
 ceo_nodes_title_hv_ancillary_accessory_yuan_shu_legacy_military_talisman,隐蛇兵与虎捷军虎符,False
 ceo_nodes_description_hv_ancillary_accessory_yuan_shu_legacy_military_talisman,Proof that the bearer has the authority to command Hidden Snakes and Rapid Tigers.,False
 ceo_nodes_title_hv_ancillary_accessory_lu_bu_legacy_military_talisman,捕掾队虎符,False
@@ -333,22 +333,22 @@ effects_description_hv_dummy_effect_hidden_snakes_unlock,解锁部队：{{tr:hv_
 effects_description_hv_dummy_effect_rapid_tigers_unlock,解锁部队：{{tr:hv_unit_rapid_tigers}},False
 effects_description_hv_dummy_effect_enforcer_archers_unlock,解锁部队：{{tr:hv_unit_xiliang_elite_enforcers}},False
 effects_description_hv_dummy_effect_enforcer_mounted_archers_unlock,解锁部队：{{tr:hv_unit_enforcer_archer_cavalry}},False
-effects_description_hv_effect_dummy_ma_teng_pooled_resource_recurring_cost,[[b]]%+n[[/b]] horse breeding per turn,True
-effects_description_hv_effect_replenishment_cavalry,[[b]]%+n%[[/b]] replenishment for cavalry units,True
-effects_description_hv_effect_mass_cavalry,[[b]]%+n%[[/b]] mass for cavalry units,True
+effects_description_hv_effect_dummy_ma_teng_pooled_resource_recurring_cost,每回合养马 [[b]]%+n[[/b]],True
+effects_description_hv_effect_replenishment_cavalry,骑兵部队补员速率 [[b]]%+n%[[/b]],True
+effects_description_hv_effect_mass_cavalry,骑兵单位质量 [[b]]%+n%[[/b]],True
 effects_description_hv_effect_pooled_resource_ma_teng_decay_rate_1,%-n养马衰退,True
 effects_description_hv_effect_ma_teng_cavalry_unique_ability,解锁骑兵单位一个特殊能力,True
-effects_description_hv_effect_pooled_resource_ma_teng_buildings,[[b]]%+n[[/b]] horse breeding,True
+effects_description_hv_effect_pooled_resource_ma_teng_buildings,养马 [[b]]%+n[[/b]],True
 ,,False
-effects_description_hv_effect_pooled_resource_zhang_yan_from_battles,[[b]]%+n[[/b]] black mountain,True
+effects_description_hv_effect_pooled_resource_zhang_yan_from_battles,黑山 [[b]]%+n[[/b]],True
 effects_description_hv_effect_pooled_resource_zhang_yan_decay_rate_1,%-n黑山衰退,True
-effects_description_hv_effect_black_mountain_upkeep,[[b]]%+n%[[/b]] upkeep for black mountain bandit units,True
+effects_description_hv_effect_black_mountain_upkeep,黑山匪徒部队维持费 [[b]]%+n%[[/b]],True
 effects_description_hv_effect_black_mountain_melee_attack_speed,[[b]]%+n%[[/b]] melee attack rate for black mountain bandit units,True
 effects_description_hv_effect_black_mountain_morale,[[b]]%+n[[/b]] morale for black mountain bandit units,True
 effects_description_hv_effect_black_mountain_charge_bonus_mod,[[b]]%+n%[[/b]] charge bonus for black mountain bandit units,True
-effects_description_hv_effect_black_mountain_replenishment,[[b]]%+n%[[/b]] replenishment for black mountain bandit units,True
+effects_description_hv_effect_black_mountain_replenishment,黑山匪徒部队补员速率 [[b]]%+n%[[/b]],True
 effects_description_hv_effect_black_mountain_unique_ability,解锁黑山匪徒单位特殊能力,True
-effects_description_hv_effect_pooled_resource_zhang_yan_buildings,[[b]]%+n[[/b]] black mountain,True
+effects_description_hv_effect_pooled_resource_zhang_yan_buildings,黑山 [[b]]%+n[[/b]],True
 ,,False
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ma_teng_0,养马：不足,True
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ma_teng_1,养马：普通,True
@@ -387,14 +387,14 @@ effect_bundles_localised_title_hv_effect_bundle_garrison_construction_gongsun_za
 effect_bundles_localised_description_hv_effect_bundle_garrison_construction_gongsun_zan,驻防军队将会支持当地郡县的管理。,False
 ,,False
 effects_description_hv_effect_pooled_resource_gongsun_zan_decay_rate_1,%-n军政衰退,False
-effects_description_hv_effect_pooled_resource_gongsun_zan_buildings,[[b]]%+n[[/b]] stratocracy per turn,False
-effects_description_hv_effect_pooled_resource_gongsun_zan_garrison,[[b]]%+n[[/b]] stratocracy per turn,False
-effects_description_hv_effect_t2_recruitment_cost,[[b]]%+n%[[/b]] recruitment cost for Buqu units,True
-effects_description_hv_effect_t2_upkeep,[[b]]%+n%[[/b]] upkeep for Buqu units,True
-effects_description_hv_effect_t3_recruitment_cost,[[b]]%+n%[[/b]] recruitment cost for Elite units,True
-effects_description_hv_effect_t3_upkeep,[[b]]%+n%[[/b]] upkeep for Elite units,True
-effects_description_hv_effect_t4_recruitment_cost,[[b]]%+n%[[/b]] recruitment cost for Royal Guard units,True
-effects_description_hv_effect_t4_upkeep,[[b]]%+n%[[/b]] upkeep for Royal Guard units,True
+effects_description_hv_effect_pooled_resource_gongsun_zan_buildings,每回合军政 [[b]]%+n[[/b]],False
+effects_description_hv_effect_pooled_resource_gongsun_zan_garrison,每回合军政 [[b]]%+n[[/b]],False
+effects_description_hv_effect_t2_recruitment_cost,部曲部队招募费用 [[b]]%+n%[[/b]],True
+effects_description_hv_effect_t2_upkeep,部曲部队维持费 [[b]]%+n%[[/b]],True
+effects_description_hv_effect_t3_recruitment_cost,精锐部队招募费用 [[b]]%+n%[[/b]],True
+effects_description_hv_effect_t3_upkeep,精锐部队维持费 [[b]]%+n%[[/b]],True
+effects_description_hv_effect_t4_recruitment_cost,禁卫部队招募费用 [[b]]%+n%[[/b]],True
+effects_description_hv_effect_t4_upkeep,禁卫部队维持费 [[b]]%+n%[[/b]],True
 effects_description_hv_effect_skill_retinue_cavalry_speed,战斗骑兵奔跑速度 [[b]]%+n%[[/b]],True
 effects_description_hv_effect_skill_retinue_infantry_missile_resistance,步兵远程抗性[[b]]%+n%[[/b]],True
 effects_description_hv_effect_skill_retinue_ranged_mod,远程范围 [[b]]%+n%[[/b]],True
@@ -412,39 +412,39 @@ campaign_localised_strings_string_3k_dlc07_captains_armoury_whitewater_title,一
 effects_description_hv_effect_replenishment_character_only,[[b]]%+n%[[/b]] health recovery for characters,True
 effects_description_hv_tech_turn_tier_0,下一次改革需 [[b]]%n[[/b]] 回合,True
 effects_description_hv_tech_turn_reset,下次改革可以马上执行，无需冷却,True
-effects_description_hv_tech_effect_t2_recruitment_cost,正规军和盗匪部队的招募位费用 [[b]]%+n%[[/b]],True
+effects_description_hv_tech_effect_t2_recruitment_cost,部曲部队招募费用 [[b]]%+n%[[/b]],True
 effects_description_hv_tech_effect_t2_melee_attack_stat,正规军和盗匪部队近战命中率 [[b]]%+n[[/b]],True
 effects_description_hv_tech_effect_t2_melee_defence_stat,正规军和盗匪部队近战回避 [[b]]%+n[[/b]],True
 effects_description_hv_tech_effect_t2_move_speed,正规军和盗匪部队的战场移动速度 [[b]]%+n%[[/b]],True
-effects_description_hv_tech_effect_t2_replenishment,正规军和盗匪部队的补员速率 [[b]]%+n%[[/b]],True
+effects_description_hv_tech_effect_t2_replenishment,部曲部队补员速率 [[b]]%+n%[[/b]],True
 effects_description_hv_tech_effect_t2_rank_new_recruits,正规军和盗匪部队的起始等级 [[b]]%+n[[/b]],True
-effects_description_hv_tech_effect_cavalry_mass_mod,骑兵部队质量 [[b]]%+n%[[/b]],True
+effects_description_hv_tech_effect_cavalry_mass_mod,骑兵单位质量 [[b]]%+n%[[/b]],True
 effects_description_hv_tech_effect_cavalry_missile_resist,骑兵部队远程抗性 [[b]]%+n%[[/b]],True
 effects_description_hv_tech_effect_t3_move_speed,精锐部队的战场移动速度[[b]]%+n%[[/b]],True
 effects_description_hv_tech_effect_t3_replenishment,精锐部队补员速率 [[b]]%+n%[[/b]],True
-effects_description_hv_tech_effect_t3_recruitment_cost,招募精锐部队费用 [[b]]%+n%[[/b]],True
+effects_description_hv_tech_effect_t3_recruitment_cost,精锐部队招募费用 [[b]]%+n%[[/b]],True
 effects_description_hv_tech_effect_t3_rank_new_recruits,精锐部队起始等级 [[b]]%+n[[/b]],True
 effects_description_hv_tech_effect_t1_rank_new_recruits,农民兵、民兵和流民部队的起始等级 [[b]]%+n[[/b]],True
 effects_description_hv_tech_effect_t1_morale_stat,农民兵、民兵和流民部队的士气 [[b]]%+n[[/b]],True
 effects_description_hv_tech_effect_t2_morale_stat,正规军和盗匪部队的士气 [[b]]%+n[[/b]],True
-effects_description_hv_tech_effect_t1_replenishment,农民兵、民兵和流民部队的补员速率 [[b]]%+n%[[/b]],True
-effects_description_hv_tech_effect_t1_melee_attack_stat,农民兵、民兵和流民部队的近战命中率 [[b]]%+n[[/b]],True
+effects_description_hv_tech_effect_t1_replenishment,民兵部队补员速率 [[b]]%+n%[[/b]],True
+effects_description_hv_tech_effect_t1_melee_attack_stat,民兵部队近战命中加成 [[b]]%+n%[[/b]],True
 effects_description_hv_tech_effect_t1_melee_defence_stat,农民兵、民兵和流民部队的近战回避 [[b]]%+n[[/b]],True
 effects_description_hv_tech_effect_hero_replenishment,英雄部队补员[[b]]%+n%[[/b]],True
 effects_description_hv_tech_effect_province_building_construction_cost_mod_immigrants,异民族建物建筑成本[[b]]%+n%[[/b]],True
 effects_description_hv_tech_effect_dummy_immigrants_influence,降低异民族影响力。,True
-effects_description_hv_tech_effect_t4_replenishment,禁军部队部队补员[[b]]%+n%[[/b]],True
+effects_description_hv_tech_effect_t4_replenishment,禁卫部队补员速率 [[b]]%+n%[[/b]],True
 effects_description_hv_tech_effect_building_conversion_cost,建筑成本[[b]]%+n%[[/b]],True
 effects_description_hv_tech_effect_yue_armour,越族部队护甲[[b]]%+n%[[/b]],True
-effects_description_hv_tech_effect_yue_recruitment_cost,越族部队的招募位费用 [[b]]%+n%[[/b]],True
-effects_description_hv_tech_effect_yue_upkeep,越族部队维持费[[b]]%+n%[[/b]],True
+effects_description_hv_tech_effect_yue_recruitment_cost,山越部队招募费用 [[b]]%+n%[[/b]],True
+effects_description_hv_tech_effect_yue_upkeep,山越部队维持费 [[b]]%+n%[[/b]],True
 effects_description_hv_tech_effect_yue_morale,越族部队的士气[[b]]%+n%[[/b]],True
 effects_description_hv_tech_effect_yue_charge_bonus,越族部队冲锋加成 [[b]]%+n%[[/b]],True
-effects_description_hv_tech_effect_yue_replenishment,越族部队补员[[b]]%+n%[[/b]],True
-effects_description_hv_tech_effect_nomad_upkeep,游牧部队维持费[[b]]%+n%[[/b]],True
+effects_description_hv_tech_effect_yue_replenishment,山越部队补员速率 [[b]]%+n%[[/b]],True
+effects_description_hv_tech_effect_nomad_upkeep,游牧部队维持费 [[b]]%+n%[[/b]],True
 effects_description_hv_tech_effect_nomad_morale,游牧部队的士气[[b]]%+n%[[/b]],True
-effects_description_hv_tech_effect_nomad_replenishment,游牧部队补员[[b]]%+n%[[/b]],True
-effects_description_hv_tech_effect_nomad_recruitment_cost,游牧部队的招募费用 [[b]]%+n%[[/b]],True
+effects_description_hv_tech_effect_nomad_replenishment,游牧部队补员速率 [[b]]%+n%[[/b]],True
+effects_description_hv_tech_effect_nomad_recruitment_cost,游牧部队招募费用 [[b]]%+n%[[/b]],True
 effects_description_hv_effect_dummy_coin_confuse_event,造成暂时的社会动荡,True
 effect_bundles_localised_title_hv_effect_bundle_coin_confuse_1,铸造新币引起了经济和社会的动荡。,False
 effect_bundles_localised_title_hv_effect_bundle_coin_confuse_2,铸造新币引起了经济和社会的动荡。,False
@@ -642,8 +642,8 @@ pooled_resource_factors_display_name_negative_hv_pooled_factor_army_stockpiles,�
 effects_description_hv_effect_army_stockpiles,储备[[b]]%+n[[/b]] ,True
 projectile_shot_type_enum_onscreen_name_small_arm_whistling,速射,False
 projectile_shot_type_enum_tooltip_text_small_arm_whistling,造成伤害较低，准确率也降低，但可压制目标。,False
-effects_description_3k_main_effect_character_stat_mod_melee_attack,[[b]]%+n%[[/b]] additional melee hit bonus,True
-effects_description_3k_main_effect_unit_stats_unit_hit_chance,[[b]]%+n%[[/b]] additional melee hit bonus,True
+effects_description_3k_main_effect_character_stat_mod_melee_attack,近战命中加成 [[b]]%+n%[[/b]],True
+effects_description_3k_main_effect_unit_stats_unit_hit_chance,近战命中加成 [[b]]%+n%[[/b]],True
 unit_stat_localisations_tooltip_text_stat_bonus_vs_infantry,[[b]]对抗步兵加成[[/b]]\\n\\n提高对步兵的近战伤害。,True
 unit_stat_localisations_tooltip_text_stat_bonus_vs_cavalry,[[b]]对抗骑兵加成[[/b]]\\n\\n提高对骑兵的近战伤害。,True
 uied_component_texts_localised_string_label_text_false_Text_2a000e,在[[b]]{{CcoBattleDuel:FormatTime（TargetTimeRemaining）}}[[/b]]内获胜,False
@@ -1081,11 +1081,11 @@ effect_bundles_localised_title_hv_effect_bundle_jingchou_army_region,荆楚军�
 effect_bundles_localised_title_hv_effect_bundle_danyang_army_region,丹阳军起源地,True
 effect_bundles_localised_title_hv_effect_bundle_ironfist_army_region,铁拳骑兵起源地,True
 effects_description_hv_effect_dummy_xiliang_army_region,占据时可获得西凉军校尉,True
-effects_description_hv_effect_replenishment_xiliang_army,[[b]]%+n%[[/b]] replenishment for Xiliang units,True
+effects_description_hv_effect_replenishment_xiliang_army,西凉部队补员速率 [[b]]%+n%[[/b]],True
 effects_description_hv_effect_dummy_jingchou_army_region,占据时可获得荆楚虎符,True
-effects_description_hv_effect_replenishment_jingchou_army,[[b]]%+n%[[/b]] replenishment for Jingchu units,True
+effects_description_hv_effect_replenishment_jingchou_army,荆楚部队补员速率 [[b]]%+n%[[/b]],True
 effects_description_hv_effect_dummy_danyang_army_region,占据时可获得丹阳虎符,True
-effects_description_hv_effect_replenishment_danyang_army,[[b]]%+n%[[/b]] replenishment for Danyang units,True
+effects_description_hv_effect_replenishment_danyang_army,丹阳部队补员速率 [[b]]%+n%[[/b]],True
 effects_description_hv_effect_dummy_ironfist_army_region,占据时可获得铁拳骑兵,True
 effects_description_hv_effect_replenishment_ironfist_army,[[b]]%+n%[[/b]] replenishment for Ironfist Cavalry,True
 effect_bundles_localised_title_hv_dlc07_zheng_jiang_bundle,生存本能,True
@@ -1135,11 +1135,11 @@ ui_character_assignments_localised_description_hv_ui_info_assignment_military_di
 ui_character_assignments_localised_description_hv_ui_info_assignment_satisfaction_and_gdp,您的随从将管理宫廷事务，精简政务。,True
 ui_character_assignments_localised_description_hv_ui_info_assignment_reserve_replenishment,您的随从将去募集兵员。,True
 ,,False
-effects_description_hv_assignment_effect_dummy_unlock_more_build_slot,Unlocks assignment: City Expansion,True
-effects_description_hv_assignment_effect_dummy_unlock_satisfaction_and_gdp,Unlocks assignment: Court Management,True
-effects_description_hv_assignment_effect_dummy_unlock_reserve_replenishment,Unlocks assignment: Gathering Volunteers,True
-effects_description_hv_assignment_effect_dummy_replenishment_garrison,Unlocks assignment: Garrison Reinforcement,True
-effects_description_hv_assignment_effect_dummy_disturbance,Unlocks assignment: Disturbance,True
+effects_description_hv_assignment_effect_dummy_unlock_more_build_slot,解锁任务：扩展城市,True
+effects_description_hv_assignment_effect_dummy_unlock_satisfaction_and_gdp,解锁任务：宫廷管理,True
+effects_description_hv_assignment_effect_dummy_unlock_reserve_replenishment,解锁任务：召集义勇,True
+effects_description_hv_assignment_effect_dummy_replenishment_garrison,解锁任务：驻军补员,True
+effects_description_hv_assignment_effect_dummy_disturbance,解锁任务：扰乱,True
 ,,False
 effects_description_hv_effect_unit_stat_movement_speed_water,[[b]]%+n%[[/b]] speed for ranged units,True
 effects_description_hv_effect_unit_stat_charge_bonus_earth,[[b]]%+n[[/b]] charge bonus for melee cavalry,True
@@ -2104,7 +2104,7 @@ character_skills_localised_description_hv_skill_add_mastership_lady_zou_4C,各�
 effects_description_hv_effect_elemental_authority_campaign_sight,战役地图视野 [[b]]%+n%[[/b]],True
 effects_description_hv_effect_elemental_cunning_campaign_supply,军事物资补给 [[b]]%+n%[[/b]],True
 effects_description_hv_effect_elemental_expertise_melee_defence,近战闪避[[b]]%+n[[/b]],True
-effects_description_hv_effect_elemental_instinct_melee_attack,人物近战命中率 [[b]]%+n%[[/b]],True
+effects_description_hv_effect_elemental_instinct_melee_attack,近战命中加成 [[b]]%+n%[[/b]],True
 effects_description_hv_effect_elemental_resolve_health,人物生命值 [[b]]%+n%[[/b]],True
 effects_description_hv_effect_elemental_authority_cavalry_missile_resistance,骑兵远程抗性[[b]]%+n%[[/b]],True
 effects_description_hv_effect_elemental_cunning_ranged_ammo,远程部队箭矢[[b]]%+n%[[/b]],True
@@ -4472,9 +4472,9 @@ ui_unit_groupings_tooltip_3k_main_hero_metal,身先士卒，鼓舞军心,True
 ui_unit_groupings_tooltip_3k_main_hero_strategist_water,身先士卒，鼓舞军心,True
 ui_unit_groupings_tooltip_3k_main_hero_wood,身先士卒，鼓舞军心,True
 ,,False
-ui_unit_group_parents_onscreen_name_hv_parent_group_melee_black,Common Melee Infantry,True
-ui_unit_group_parents_onscreen_name_hv_parent_group_spear_black,Common Polearm Infantry,True
-ui_unit_group_parents_onscreen_name_hv_parent_group_range_black,Common Ranged Infantry,True
+ui_unit_group_parents_onscreen_name_hv_parent_group_melee_black,普通近战步兵,True
+ui_unit_group_parents_onscreen_name_hv_parent_group_spear_black,普通持戟步兵,True
+ui_unit_group_parents_onscreen_name_hv_parent_group_range_black,普通远程步兵,True
 ui_unit_group_parents_onscreen_name_hv_parent_group_cavalry_black,普通骑兵,True
 ,,False
 ui_unit_groupings_onscreen_3k_main_unit_axe_infantry_metal,持斧步兵（伯长）,False
@@ -5533,13 +5533,13 @@ ceo_nodes_title_hv_ceo_node_career_non_deployable_type_6,主簿,True
 ceo_nodes_description_hv_ceo_node_career_non_deployable_type_6,他们会记录一切事务。,True
 ui_character_assignments_localised_title_hv_ui_info_assignment_replenishment_garrison,军队补员,True
 ui_character_assignments_localised_description_hv_ui_info_assignment_replenishment_garrison,您的随从将为此地军队补员。,True
-effects_description_hv_effect_assignment_replenishment_garrison,Unlocks assignment: Army Reinforcement,True
+effects_description_hv_effect_assignment_replenishment_garrison,解锁任务：军队补员,True
 ui_character_assignments_localised_title_hv_ui_info_assignment_military_disturbance,军事支持,True
 ui_character_assignments_localised_description_hv_ui_info_assignment_military_disturbance,您的随从将在敌方领土支持您的军队。,True
-effects_description_hv_effect_assignment_military_disturbance,Unlocks assignment: Military Support,True
+effects_description_hv_effect_assignment_military_disturbance,解锁任务：军事支持,True
 ui_character_assignments_localised_title_hv_ui_info_assignment_more_build_slot,扩展城市,True
 ui_character_assignments_localised_description_hv_ui_info_assignment_more_build_slot,您的随从将协助扩张此城镇。,True
-effects_description_hv_effect_assignment_more_build_slot,Unlocks assignment: City Expansion,True
+effects_description_hv_effect_assignment_more_build_slot,解锁任务：扩展城市,True
 character_skills_localised_name_hv_skill_non_deployable_01,文学,True
 character_skills_localised_name_hv_skill_non_deployable_02,先驱,True
 character_skills_localised_name_hv_skill_non_deployable_03,农艺,True

@@ -1,6 +1,6 @@
 --- csv/out/15.LookupByUnitName.csv
 +++ csv/xls/15.LookupByUnitName.csv
-@@ -1,68 +1,67 @@
+@@ -1,68 +1,70 @@
 -Unit types,,,,,,Unit names,,
 -eng,zh-tw,zh-cn,,,,eng,zh-tw,zh-cn
 -all cavalry,所有騎兵,所有骑兵,,,,Archers,弓兵,弓手
@@ -78,17 +78,17 @@
 +Caltrop Throwers,蒺藜兵,蒺藜手
 +Captain,校尉,伯长
 +Cataphracts,鐵甲騎兵,铁骑
-+Cavalry,騎兵,骑兵
 +Cavalry Defectors,叛逃騎兵,变节骑兵
-+Crossbow,弩,弩
++Cavalry,騎兵,骑兵
 +Crossbow Defectors,叛逃弩兵,变节弩手
 +Crossbow Defenders,弩衛,弩卫
 +Crossbow Peacekeepers,衛平弩兵,泰平弩卫
-+Crossbowmen,弩兵,弩兵
++Crossbow,弩,弩
 +Crossbowmen Cavalry,弩騎兵,弩骑兵
-+Fellows,義從,义从
++Crossbowmen,弩兵,弩兵
 +Fellows Officer,義從官,义从士官
 +Fellows Shot,義從射擊,义从射击
++Fellows,義從,义从
 +Freemen,自由人,自由人
 +Guardsmen,衛兵,卫士
 +Halberd Peacekeepers,衛平戟兵,泰平戟卫
@@ -106,13 +106,16 @@
 +Long Spear Defectors,叛逃長槍兵,变节长枪兵
 +Long Spearmen,長槍兵,长枪兵
 +Marauders,掠奪者,劫匪
++Melee Infantry,近戰步兵,近战步兵
 +Mounted Archers,弓騎兵,弓骑兵
 +Mounted Rangers,游騎兵,游骑兵
 +Mounted Warriors,騎馬戰士,骑乘勇士
++Polearm Infantry,持戟步兵,持戟步兵
 +Queen,女王,魁首
 +Raid Cavalry,突襲騎兵,游骑
 +Raider Cavalry,突襲騎兵,游骑
 +Raiders,劫匪,劫匪
++Ranged Infantry,遠程步兵,远程步兵
 +Rangers,游擊兵,游击兵
 +Remnants,殘黨,余党
 +Repeating Crossbow Defenders,連弩衛,连弩卫
@@ -128,8 +131,8 @@
 +Spears,槍兵,矛兵
 +Strays,流浪兵,流浪兵
 +Sword Cavalry,劍騎兵,剑骑兵
-+Swordsmen,劍兵,剑兵
 +Swordsmen of Yuan,袁氏劍兵,袁氏剑兵
++Swordsmen,劍兵,剑兵
 +Tamers,馴獸師,驯兽师
 +Troops,兵,兵
 +Veterans,老兵,宿卫
