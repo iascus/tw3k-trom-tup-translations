@@ -157,7 +157,7 @@ class LookupByTextFragment(LookupFile):
     step_no = 17
 
 
-class EngToVanillaKey(Step):
+class VanillaTranslations(Step):
     step_no = 21
 
     def __init__(self, trom_eng, key_map_override, vanilla_eng, vanilla_zhtw, vanilla_zhcn):
@@ -187,9 +187,9 @@ class MapByTextZhcn(Step):
     step_no = 22
     lang_col = 'zh-cn'
 
-    def __init__(self, trom_eng, eng_to_vanilla_key, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type, lookup_by_text_fragment):
+    def __init__(self, trom_eng, vanilla_translations, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type, lookup_by_text_fragment):
         self.trom_eng = trom_eng
-        self.eng_to_vanilla_key = eng_to_vanilla_key
+        self.vanilla_translations = vanilla_translations
         self.lookup_by_unit_name = lookup_by_unit_name
         self.lookup_by_unit_type = lookup_by_unit_type
         self.lookup_by_text = lookup_by_text
@@ -216,7 +216,7 @@ class MapByTextZhcn(Step):
         data = data.merge(lookup_by_text, left_index=True, right_index=True, how='left')
         data['Mapped'] = data['Override (manual)']
 
-        lookup_by_text_vanilla = self.eng_to_vanilla_key.data[['Text', self.lang_col]].dropna().set_index('Text')[self.lang_col].to_dict()
+        lookup_by_text_vanilla = self.vanilla_translations.data[['Text', self.lang_col]].dropna().set_index('Text')[self.lang_col].to_dict()
         lookup_by_text_vanilla.update(lookup_by_text.to_dict()['Override (manual)'])
         lookup_by_text = lookup_by_text_vanilla
 
@@ -270,16 +270,16 @@ class MapByKeyZhcn(Step):
     step_no = 24
     lang_col = 'zh-cn'
 
-    def __init__(self, trom_eng, eng_to_vanilla_key, trom_zh, lookup_by_key, map_by_text_zh):
+    def __init__(self, trom_eng, vanilla_translations, trom_zh, lookup_by_key, map_by_text_zh):
         self.trom_eng = trom_eng
-        self.eng_to_vanilla_key = eng_to_vanilla_key
+        self.vanilla_translations = vanilla_translations
         self.trom_zh = trom_zh
         self.lookup_by_key = lookup_by_key
         self.map_by_text_zh = map_by_text_zh
 
     def _run(self):
         data = self.trom_eng.data.fillna('').rename({'Text': 'English'}, axis=1)
-        vanilla = self.eng_to_vanilla_key.data.drop_duplicates(subset=['Key'])
+        vanilla = self.vanilla_translations.data.drop_duplicates(subset=['Key'])
         vanilla = vanilla[['Key', self.lang_col]].rename({self.lang_col: 'Vanilla'}, axis=1)
         trom_zh = self.trom_zh.data.drop_duplicates(subset=['Key'])[['Key', 'Text']]
         lookup_by_key = self.lookup_by_key.data[['Key', self.lang_col]].rename({self.lang_col: 'Override by key'}, axis=1)
@@ -330,6 +330,25 @@ class FinalZhtw(FinalZhcn):
     step_no = 27
 
 
+class MissingZhcn(Step):
+    step_no = 40
+
+    def __init__(self, map_by_key_zh):
+        self.map_by_key_zh = map_by_key_zh
+
+    def _run(self):
+        data = self.map_by_key_zh.data
+        data = data.loc[(data['Source'].isin([
+            'Missing',
+            # 'Eng-short',
+        ])) & (data['Text'] != '')]
+        return data
+
+
+class MissingZhtw(MissingZhcn):
+    step_no = 41
+
+
 def main():
     vanilla_zhcn = VanillaZhcn()
     vanilla_zhtw = VanillaZhtw()
@@ -338,19 +357,21 @@ def main():
     trom_zhtw = TromZhtw()
     trom_eng = TromEng()
     key_map_override = TromVanillaKeyOverride()
-    eng_to_vanilla_key = EngToVanillaKey(trom_eng, key_map_override, vanilla_eng, vanilla_zhtw, vanilla_zhcn)
+    vanilla_translations = VanillaTranslations(trom_eng, key_map_override, vanilla_eng, vanilla_zhtw, vanilla_zhcn)
     lookup_by_text = LookupByText()
     lookup_by_key = LookupByKey()
     lookup_by_pattern = LookupByPattern()
     lookup_by_unit_name = LookupByUnitName()
     lookup_by_unit_type = LookupByUnitType()
     lookup_by_text_fragment = LookupByTextFragment()
-    map_by_text_zhcn = MapByTextZhcn(trom_eng, eng_to_vanilla_key, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type, lookup_by_text_fragment)
-    map_by_text_zhtw = MapByTextZhtw(trom_eng, eng_to_vanilla_key, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type, lookup_by_text_fragment)
-    map_by_key_zhcn = MapByKeyZhcn(trom_eng, eng_to_vanilla_key, trom_zhcn, lookup_by_key, map_by_text_zhcn)
-    map_by_key_zhtw = MapByKeyZhtw(trom_eng, eng_to_vanilla_key, trom_zhtw, lookup_by_key, map_by_text_zhtw)
+    map_by_text_zhcn = MapByTextZhcn(trom_eng, vanilla_translations, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type, lookup_by_text_fragment)
+    map_by_text_zhtw = MapByTextZhtw(trom_eng, vanilla_translations, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type, lookup_by_text_fragment)
+    map_by_key_zhcn = MapByKeyZhcn(trom_eng, vanilla_translations, trom_zhcn, lookup_by_key, map_by_text_zhcn)
+    map_by_key_zhtw = MapByKeyZhtw(trom_eng, vanilla_translations, trom_zhtw, lookup_by_key, map_by_text_zhtw)
     final_zhcn = FinalZhcn(map_by_key_zhcn)
     final_zhtw = FinalZhtw(map_by_key_zhtw)
+    missing_zhcn = MissingZhcn(map_by_key_zhcn)
+    missing_zhtw = MissingZhtw(map_by_key_zhtw)
 
     for step in [
         vanilla_zhcn,
@@ -360,7 +381,7 @@ def main():
         trom_zhtw,
         trom_eng,
         key_map_override,
-        eng_to_vanilla_key,
+        vanilla_translations,
         lookup_by_text,
         lookup_by_key,
         lookup_by_pattern,
@@ -373,6 +394,8 @@ def main():
         map_by_key_zhtw,
         final_zhcn,
         final_zhtw,
+        missing_zhcn,
+        missing_zhtw,
     ]:
         step.run()
         step.save()
@@ -381,7 +404,7 @@ def main():
 
 if __name__ == '__main__':
     with pd.option_context(
-        'display.width', None,
+        'display.width', 200,
         'display.max_columns', None,
     ):
         main()

@@ -1,5 +1,5 @@
---- csv/out/21.EngToVanillaKey.csv
-+++ csv/xls/21.EngToVanillaKey.csv
+--- csv/out/21.VanillaTranslations.csv
++++ csv/xls/21.VanillaTranslations.csv
 @@ -2,5661 +2,1149 @@
 -uied_component_texts_localised_string_header_label_NewState_Text_16002f,CUSTOM BATTLE (WIP),False,,,,,!hv_TEXT_system.loc
 -campaign_localised_strings_string_unit_locked_ceo,You do not have the prerequisite: %S.,False,,,,,!hv_TEXT_system.loc

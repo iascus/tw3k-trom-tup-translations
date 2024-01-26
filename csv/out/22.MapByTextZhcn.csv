@@ -284,7 +284,7 @@ Blowpipes (Buqu),吹箭手（部曲）,0,,,,,,,,,FALSE,TRUE
 Blowpipes (Elite),吹箭手（精锐）,0,,,,,,,,,FALSE,TRUE
 Blowpipes (Militia),吹箭手（民兵）,0,,,,,,,,,FALSE,TRUE
 Blue Turbans,蓝巾兵,0,蓝巾兵,,,,,,,,FALSE,TRUE
-Bolster,,0,,,,,,,,,FALSE,TRUE
+Bolster,支持,0,支持,,,,,,,,FALSE,TRUE
 Bomb Slingers,爆弹兵,0,爆弹兵,,,,,,,,FALSE,TRUE
 "Born from refugees and those peoples who would not submit to the Han empire, these White Tiger Strays have thrown their lot with Yan Baihu, hoping to safeguard their independance. Wearing bad equipment, the most valuable thing they offer to their commanders is their lives; to sell dearly as better men win the battle for them.",,0,,,,,,,,,FALSE,TRUE
 "Born to hold the line, This warrior shrugs off attacks as if they were nothing!",此人是天生的护卫将才，所有攻击对他来说都不痛不痒！,0,此人是天生的护卫将才，所有攻击对他来说都不痛不痒！,,,,,,,,FALSE,TRUE
@@ -319,7 +319,7 @@ Buqu Spearmen,部曲矛兵,0,,,,,,,,,FALSE,TRUE
 Buqu Swordsmen of Yuan,部曲袁氏剑兵,0,,,,,,,,,FALSE,TRUE
 Buqu of the Left General,左将军部曲,0,左将军部曲,,,,,,,,FALSE,TRUE
 Burning Soul,,0,,,,,,,,,FALSE,TRUE
-Buy nothing,,0,,,,,,,,,FALSE,TRUE
+Buy nothing,什么都不买,0,什么都不买,,,,,,,,FALSE,TRUE
 "By the time the victim is aware of what has happened, it is already too late.",等到敌人发现之时就已为时已晚。,0,等到敌人发现之时就已为时已晚。,,,,,,,,FALSE,TRUE
 CUSTOM BATTLE (BETA),自定义战斗（BETA）,0,自定义战斗（BETA）,,,,,,,,FALSE,TRUE
 CUSTOM BATTLE (WIP),自定义战斗（WIP）,0,自定义战斗（WIP）,,,,,,,,FALSE,TRUE
@@ -444,7 +444,7 @@ Dong Zhuo,,0,,,,,,,,,FALSE,TRUE
 Dong Zhuo's Command,,0,,,,,,,,,FALSE,TRUE
 Dongzhoubing Defenders,,0,,,,,,,,,FALSE,TRUE
 Dongzhoubing Marksmen,,0,,,,,,,,,FALSE,TRUE
-Dragon Rising,,0,,,,,,,,,FALSE,TRUE
+Dragon Rising,觉醒之龙,0,觉醒之龙,,,,,,,,FALSE,TRUE
 Dragonlings,少龙兵,0,少龙兵,,,,,,,,FALSE,TRUE
 Drifting Warmongers,漂流战贩,0,漂流战贩,,,,,,,,FALSE,TRUE
 Dual Wield Hafted Weapon Cavalry (Buqu),双斧骑兵（部曲）,0,,,,,,,,,FALSE,TRUE
@@ -950,7 +950,7 @@ One with Heaven,,0,,,,,,,,,FALSE,TRUE
 One with the Land,,0,,,,,,,,,FALSE,TRUE
 One with the People,,0,,,,,,,,,FALSE,TRUE
 Only through sober and considered analysis can fragility be turned to unerring strength.,,0,,,,,,,,,FALSE,TRUE
-Onslaught,,0,,,,,,,,,FALSE,TRUE
+Onslaught,猛攻,0,猛攻,,,,,,,,FALSE,TRUE
 Onyx Dragons,,0,,,,,,,,,FALSE,TRUE
 Organise your troops into a solid wall to deter horses. It's a simple but effective tactic.,将士兵组成人墙来抵御马匹。此战术简单有效。,0,将士兵组成人墙来抵御马匹。此战术简单有效。,,,,,,,,FALSE,TRUE
 Organised volleys prove more effective.,依序射击更为有效。,0,依序射击更为有效。,,,,,,,,FALSE,TRUE
@@ -992,10 +992,10 @@ Prevention,预防,0,预防,,,,,,,,FALSE,TRUE
 Prevention is better than cure.,防患于未然。,0,防患于未然。,,,,,,,,FALSE,TRUE
 Pride and confidence go hand in hand.,傲慢即信心所在。,0,傲慢即信心所在。,,,,,,,,FALSE,TRUE
 Prisoner Negotiation,赎回文姬,0,赎回文姬,,,,,,,,FALSE,TRUE
-Proof that the bearer has the authority to command Danyang troops.,,0,,,,,,,,,FALSE,TRUE
-Proof that the bearer has the authority to command Enforcer troops.,,0,,,,,,,,,FALSE,TRUE
-Proof that the bearer has the authority to command Hidden Snakes and Rapid Tigers.,,0,,,,,,,,,FALSE,TRUE
-Proof that the bearer has the authority to command Jingchu troops.,,0,,,,,,,,,FALSE,TRUE
+Proof that the bearer has the authority to command Danyang troops.,此令牌可指挥丹阳部队。,0,,,,,,,,,FALSE,TRUE
+Proof that the bearer has the authority to command Enforcer troops.,此令牌可指挥捕掾队部队。,0,,,,,,,,,FALSE,TRUE
+Proof that the bearer has the authority to command Hidden Snakes and Rapid Tigers.,此令牌可指挥隐蛇兵与虎捷军。,0,,,,,,,,,FALSE,TRUE
+Proof that the bearer has the authority to command Jingchu troops.,此令牌可指挥荆楚部队。,0,,,,,,,,,FALSE,TRUE
 Protection of Black Mountain,黑山之佑,0,黑山之佑,,,,,,,,FALSE,TRUE
 Protectors of Heaven,,0,,,,,,,,,FALSE,TRUE
 Provides [[b]]Danyang Troop Captain[[/b]] recruitment charges,提供[[b]]丹阳部队校尉[[/b]]招募次数,0,提供[[b]]丹阳部队校尉[[/b]]招募次数,,,,,,,,FALSE,TRUE
@@ -1062,7 +1062,7 @@ Scribe,主簿,0,主簿,,,,,,,,FALSE,TRUE
 Second Chance,余烬复燃,0,余烬复燃,,,,,,,,FALSE,TRUE
 Second Characteristic,特性二,0,特性二,,,,,,,,FALSE,TRUE
 Second Marquis,,0,,,,,,,,,FALSE,TRUE
-Second Wind,,0,,,,,,,,,FALSE,TRUE
+Second Wind,重振旗鼓,0,重振旗鼓,,,,,,,,FALSE,TRUE
 "Selecting this will open the Imperial Intrigue panel, which governs all the mechanics which become active once Emperor Xian comes of age in 195 CE, introducing a struggle over the influence of the new imperial power.",选择此项将打开朝廷权谋面板，该面板统管着公元195年献帝加元服后开启的所有机制，代表着皇权所面临的政治角力。,0,选择此项将打开朝廷权谋面板，该面板统管着公元195年献帝加元服后开启的所有机制，代表着皇权所面临的政治角力。,,,,,,,,FALSE,TRUE
 Sell Horses,卖马,0,卖马,,,,,,,,FALSE,TRUE
 Send civil officials,派文官前去,0,派文官前去,,,,,,,,FALSE,TRUE
@@ -1388,15 +1388,15 @@ Unease spreads among the enemy ranks.,,0,,,,,,,,,FALSE,TRUE
 Unknown result,结果不明,0,结果不明,,,,,,,,FALSE,TRUE
 "Unlocked in 195 CE. Once this is unlocked, you can use imperial favour to preform [[b]]imperial decrees[[/b]]",在公元195年解锁。解锁后，可以使用天子宠信来颁布[[b]]圣旨[[/b]]。,0,在公元195年解锁。解锁后，可以使用天子宠信来颁布[[b]]圣旨[[/b]]。,,,,,,,,FALSE,TRUE
 Unlocked when Emperor Xian comes of age in 195 CE,公元195年献帝加元服后解锁,0,公元195年献帝加元服后解锁,,,,,,,,FALSE,TRUE
-Unlocks Danyang units [[col:scope_description]](own retinue)[[/col]],解锁丹阳单位[[col:scope_description]]（本部曲）[[/col]],0,,,,,,,,,FALSE,TRUE
-Unlocks Enforcer units [[col:scope_description]](own retinue)[[/col]],解锁捕掾队单位[[col:scope_description]]（本部曲）[[/col]],0,,,,,,,,,FALSE,TRUE
-"Unlocks Hidden Sankes, Rapid Tigers [[col:scope_description]](own retinue)[[/col]]",解锁隐蛇兵与虎捷军[[col:scope_description]]（本部曲）[[/col]],0,,,,,,,,,FALSE,TRUE
-Unlocks Jingchu units [[col:scope_description]](own retinue)[[/col]],解锁荆楚单位[[col:scope_description]]（本部曲）[[/col]],0,,,,,,,,,FALSE,TRUE
+Unlocks Danyang units [[col:scope_description]](own retinue)[[/col]],解锁丹阳单位[[col:scope_description]]（我方部曲）[[/col]],0,,,,,,,,,FALSE,TRUE
+Unlocks Enforcer units [[col:scope_description]](own retinue)[[/col]],解锁捕掾队单位[[col:scope_description]]（我方部曲）[[/col]],0,,,,,,,,,FALSE,TRUE
+"Unlocks Hidden Sankes, Rapid Tigers [[col:scope_description]](own retinue)[[/col]]",解锁隐蛇兵与虎捷军[[col:scope_description]]（我方部曲）[[/col]],0,,,,,,,,,FALSE,TRUE
+Unlocks Jingchu units [[col:scope_description]](own retinue)[[/col]],解锁荆楚单位[[col:scope_description]]（我方部曲）[[/col]],0,,,,,,,,,FALSE,TRUE
 Unlocks Might Royal Guard units,,0,,,,,,,,,FALSE,TRUE
 Unlocks Northern Army units [[col:scope_description]](own retinue)[[/col]],,0,,,,,,,,,FALSE,TRUE
-Unlocks Sogd units [[col:scope_description]](own retinue)[[/col]],解锁粟特单位[[col:scope_description]]（本部曲）[[/col]],0,,,,,,,,,FALSE,TRUE
+Unlocks Sogd units [[col:scope_description]](own retinue)[[/col]],解锁粟特单位[[col:scope_description]]（我方部曲）[[/col]],0,,,,,,,,,FALSE,TRUE
 Unlocks Virtue Royal Guard units,,0,,,,,,,,,FALSE,TRUE
-Unlocks Xiliang Army units [[col:scope_description]](own retinue)[[/col]],解锁西凉军单位[[col:scope_description]]（本部曲）[[/col]],0,,,,,,,,,FALSE,TRUE
+Unlocks Xiliang Army units [[col:scope_description]](own retinue)[[/col]],解锁西凉军单位[[col:scope_description]]（我方部曲）[[/col]],0,,,,,,,,,FALSE,TRUE
 Unlocks a special ability for cavalry units,解锁骑兵单位一个特殊能力,0,解锁骑兵单位一个特殊能力,,,,,,,,FALSE,TRUE
 Unlocks assignment: Army Reinforcement,解锁任务：军队补员,0,,,,,,,,,FALSE,TRUE
 Unlocks assignment: City Expansion,解锁任务：扩展城市,0,,,,,,,,,FALSE,TRUE
@@ -1610,7 +1610,7 @@ You may now recruit Danyang units,您现在可以招募：丹阳部队,0,,,,,,,,
 You may now recruit Ironfist Cavalry,您现在可以招募：铁拳骑兵,0,,,,,,,,,FALSE,TRUE
 You may now recruit Jingchu units,您现在可以招募：荆楚部队,0,,,,,,,,,FALSE,TRUE
 You may now recruit Xiliang units,您现在可以招募：西凉部队,0,,,,,,,,,FALSE,TRUE
-"You may now recruit {{tr:hv_unit_qingzhou_hand_ji_infantry}}, {{tr:hv_unit_qingzhou_2h_axe_infantry}}, {{tr:hv_unit_qingzhou_raider_cavalry}}.",,0,,,,,,,,,FALSE,TRUE
+"You may now recruit {{tr:hv_unit_qingzhou_hand_ji_infantry}}, {{tr:hv_unit_qingzhou_2h_axe_infantry}}, {{tr:hv_unit_qingzhou_raider_cavalry}}.",您现在可以招募：{{tr:hv_unit_qingzhou_hand_ji_infantry}}，{{tr:hv_unit_qingzhou_2h_axe_infantry}}，{{tr:hv_unit_qingzhou_raider_cavalry}}。,0,您现在可以招募：{{tr:hv_unit_qingzhou_hand_ji_infantry}}，{{tr:hv_unit_qingzhou_2h_axe_infantry}}，{{tr:hv_unit_qingzhou_raider_cavalry}}。,,,,,,,,FALSE,TRUE
 You may now recruit {{tr:hv_unit_warrior_monks}},您现在可以招募：{{tr:hv_unit_warrior_monks}},0,,,,,,,,,FALSE,TRUE
 You may now recruit {{tr:hv_unit_white_tiger_warriors}},您现在可以招募：{{tr:hv_unit_white_tiger_warriors}},0,,,,,,,,,FALSE,TRUE
 You may now recruit {{tr:hv_unit_yuan_rong_crossbowmen}}.,您现在可以招募：{{tr:hv_unit_yuan_rong_crossbowmen}}。,0,,,,,,,,,FALSE,TRUE
@@ -1661,34 +1661,34 @@ Zhuge Liang,,0,,,,,,,,,FALSE,TRUE
 Zhuge Liang has brilliantly engineered a new weapon. It is a crossbow that fires several bolts simultaneously to overwhelm the enemy.,诸葛亮精心设计出一种新武器。这是一种能够同时射出多枚箭矢的弩弓，可以压制敌人。 ,0,诸葛亮精心设计出一种新武器。这是一种能够同时射出多枚箭矢的弩弓，可以压制敌人。 ,,,,,,,,FALSE,TRUE
 Zhuge Liang predicts the wind through study of the world.,,0,,,,,,,,,FALSE,TRUE
 Zong Bu,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] additional melee hit bonus,近战命中加成 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] additional melee hit bonus for Militia units,民兵部队近战命中加成 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] additional melee hit bonus for melee infantry,,0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] additional melee hit bonus,近战命中加成[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] additional melee hit bonus for Militia units,民兵部队近战命中加成[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] additional melee hit bonus for melee infantry,近战步兵近战命中加成[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] additional melee hit bonus in enemy territory,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] additional melee hit bonus in own territory,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] ammunition for ranged units,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] armour cost for Yue units,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] armour for melee infantry,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] battle running speed for cavalry units,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] battle running speed for heavy infantry units,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] battle running speed for light Infantry,,0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] armour for melee infantry,近战步兵铠甲[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] battle running speed for cavalry units,骑兵部队战场奔跑速度[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] battle running speed for heavy infantry units,重装步兵部队战场奔跑速度[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] battle running speed for light Infantry,轻装步兵战场奔跑速度[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] building conversion cost,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] campaign sight,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] character experience,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] character salary,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] charge bonus for black mountain bandit units,,0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] charge bonus for black mountain bandit units,黑山匪徒部队冲锋加成[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] construction cost (other ethnic groups),,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] corruption,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] damage resistance for {{tr:hv_unit_xian_chen_ying}},,0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] damage resistance for {{tr:hv_unit_xian_chen_ying}},{{tr:hv_unit_xian_chen_ying}}伤害抵抗力[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] food production,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] general's bodyguard size,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] health,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] health recovery for characters,,0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] health recovery for characters,人物生命值回复[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] income from looting settlements and post-battle loot,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] mass for cavalry units,骑兵单位质量 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] melee attack rate for black mountain bandit units,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] melee attack rate for melee infantry,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] missile block chance,,0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] mass for cavalry units,骑兵单位质量[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] melee attack rate for black mountain bandit units,黑山匪徒部队近战攻击速率[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] melee attack rate for melee infantry,近战步兵近战攻击速率[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] missile block chance,远程格挡概率[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] missile range,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] missile resistance for cavalry,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] missile resistance for cavalry units,,0,,,,,,,,,FALSE,TRUE
@@ -1696,78 +1696,78 @@ Zong Bu,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] missile resistance for spear units,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] move speed for Buqu units,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] move speed for Elite units,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] ranged block chance for all cavalry,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] ranged block chance for melee infantry,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] ranged block chance for shock cavalry,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] recruitment cost for Buqu units,部曲部队招募费用 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] recruitment cost for Elite units,精锐部队招募费用 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] recruitment cost for Nomad units,游牧部队招募费用 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] recruitment cost for Royal Guard units,禁卫部队招募费用 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] recruitment cost for Yue units,山越部队招募费用 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] recruitment cost for captain retinues,,0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] ranged block chance for all cavalry,所有骑兵远程格挡概率[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] ranged block chance for melee infantry,近战步兵远程格挡概率[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] ranged block chance for shock cavalry,冲击骑兵远程格挡概率[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] recruitment cost for Buqu units,部曲部队招募费用[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] recruitment cost for Elite units,精锐部队招募费用[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] recruitment cost for Nomad units,游牧部队招募费用[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] recruitment cost for Royal Guard units,禁卫部队招募费用[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] recruitment cost for Yue units,山越部队招募费用[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] recruitment cost for captain retinues,伯长部曲招募费用[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] redeployment cost,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] replenishment for Buqu units,部曲部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] replenishment for Danyang units,丹阳部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] replenishment for Elite units,精锐部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] replenishment for Ironfist Cavalry,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] replenishment for Jingchu units,荆楚部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] replenishment for Militia units,民兵部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] replenishment for Nomad units,游牧部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] replenishment for Royal Guard units,禁卫部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] replenishment for Xiliang units,西凉部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] replenishment for Yue units,山越部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] replenishment for black mountain bandit units,黑山匪徒部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] replenishment for cavalry units,骑兵部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] replenishment for characters,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] replenishment for the Northern Army units,北军部队补员速率 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] speed for melee cavalry,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] speed for ranged units,,0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] replenishment for Buqu units,部曲部队补员速率[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] replenishment for Danyang units,丹阳部队补员速率[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] replenishment for Elite units,精锐部队补员速率[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] replenishment for Ironfist Cavalry,铁拳骑兵补员速率[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] replenishment for Jingchu units,荆楚部队补员速率[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] replenishment for Militia units,民兵部队补员速率[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] replenishment for Nomad units,游牧部队补员速率[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] replenishment for Royal Guard units,禁卫部队补员速率[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] replenishment for Xiliang units,西凉部队补员速率[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] replenishment for Yue units,山越部队补员速率[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] replenishment for black mountain bandit units,黑山匪徒部队补员速率[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] replenishment for cavalry units,骑兵部队补员速率[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] replenishment for characters,人物补员速率[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] replenishment for the Northern Army units,北军部队补员速率[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] speed for melee cavalry,近战骑兵速度[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] speed for ranged units,远程部队速度[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] trade influence,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] upkeep cost for captain retinues,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] upkeep for Buqu units,部曲部队维持费 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] upkeep for Danyang units,丹阳部队维持费 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] upkeep for Elite units,精锐部队维持费 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] upkeep for House Servant and Local Noble units,仆从与豪强部队维持费 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] upkeep for Nomad units,游牧部队维持费 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] upkeep for Royal Guard units,禁卫部队维持费 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] upkeep for Yue units,山越部队维持费 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] upkeep for black mountain bandit units,黑山匪徒部队维持费 [[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n%[[/b]] upkeep for {{tr:hv_unit_xian_chen_ying}},,0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] upkeep cost for captain retinues,伯长部曲维持费[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] upkeep for Buqu units,部曲部队维持费[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] upkeep for Danyang units,丹阳部队维持费[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] upkeep for Elite units,精锐部队维持费[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] upkeep for House Servant and Local Noble units,仆从与豪强部队维持费[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] upkeep for Nomad units,游牧部队维持费[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] upkeep for Royal Guard units,禁卫部队维持费[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] upkeep for Yue units,山越部队维持费[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] upkeep for black mountain bandit units,黑山匪徒部队维持费[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n%[[/b]] upkeep for {{tr:hv_unit_xian_chen_ying}},{{tr:hv_unit_xian_chen_ying}}维持费[[b]]%+n%[[/b]],0,,,,,,,,,FALSE,TRUE
 [[b]]%+n%[[/b]] weapon damage for polearm infantry,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n[[/b]] black mountain,黑山 [[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n[[/b]] charge bonus for Danyang units,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n[[/b]] charge bonus for Yue units,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n[[/b]] charge bonus for cavalry,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n[[/b]] charge bonus for melee cavalry,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n[[/b]] charge bonus for melee infantry,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n[[/b]] charge bonus for {{tr:hv_unit_xian_chen_ying}},,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n[[/b]] charge speed for melee infantry,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n[[/b]] charge speed for shock cavalry,,0,,,,,,,,,FALSE,TRUE
+[[b]]%+n[[/b]] black mountain,黑山[[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n[[/b]] charge bonus for Danyang units,丹阳部队冲锋加成[[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n[[/b]] charge bonus for Yue units,山越部队冲锋加成[[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n[[/b]] charge bonus for cavalry,骑兵冲锋加成[[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n[[/b]] charge bonus for melee cavalry,近战骑兵冲锋加成[[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n[[/b]] charge bonus for melee infantry,近战步兵冲锋加成[[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n[[/b]] charge bonus for {{tr:hv_unit_xian_chen_ying}},{{tr:hv_unit_xian_chen_ying}}冲锋加成[[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n[[/b]] charge speed for melee infantry,近战步兵冲锋速度[[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n[[/b]] charge speed for shock cavalry,冲击骑兵冲锋速度[[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
 [[b]]%+n[[/b]] construction time,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n[[/b]] diplomatic relation with all factions,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n[[/b]] food distribution,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n[[/b]] hit bonus,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n[[/b]] horse breeding,养马 [[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n[[/b]] horse breeding per turn,每回合养马 [[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
-[[b]]%+n[[/b]] melee evasion,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n[[/b]] melee evasion for Buqu units,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n[[/b]] melee evasion for Militia units,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n[[/b]] melee evasion for shock cavalry,,0,,,,,,,,,FALSE,TRUE
+[[b]]%+n[[/b]] hit bonus,命中率加成[[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n[[/b]] horse breeding,养马[[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n[[/b]] horse breeding per turn,每回合养马[[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n[[/b]] melee evasion,近战闪避[[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n[[/b]] melee evasion for Buqu units,部曲部队近战闪避[[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n[[/b]] melee evasion for Militia units,民兵部队近战闪避[[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n[[/b]] melee evasion for shock cavalry,冲击骑兵近战闪避[[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
 [[b]]%+n[[/b]] melee evasion in enemy territory,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n[[/b]] melee evasion in own territory,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n[[/b]] melee hit bonus for Buqu units,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n[[/b]] military supplies,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n[[/b]] morale for Buqu units,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n[[/b]] morale for Militia units,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n[[/b]] morale for Nomad units,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n[[/b]] morale for Yue units,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n[[/b]] morale for black mountain bandit units,,0,,,,,,,,,FALSE,TRUE
+[[b]]%+n[[/b]] morale for Buqu units,部曲部队士气[[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n[[/b]] morale for Militia units,民兵部队士气[[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n[[/b]] morale for Nomad units,游牧部队士气[[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n[[/b]] morale for Yue units,山越部队士气[[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n[[/b]] morale for black mountain bandit units,黑山匪徒部队士气[[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
 [[b]]%+n[[/b]] reserves ,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n[[/b]] satisfaction for all characters,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n[[/b]] starting rank for Buqu units,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n[[/b]] starting rank for Elite units,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n[[/b]] starting rank for Militia units,,0,,,,,,,,,FALSE,TRUE
-[[b]]%+n[[/b]] stratocracy per turn,每回合军政 [[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
+[[b]]%+n[[/b]] stratocracy per turn,每回合军政[[b]]%+n[[/b]],0,,,,,,,,,FALSE,TRUE
 [[b]]%+n[[/b]] unity,,0,,,,,,,,,FALSE,TRUE
 [[b]]%+n[[/b]] {{tr:public_order}},,0,,,,,,,,,FALSE,TRUE
 "[[b]]ARMOUR[[/b]]\\n\\n Decreases standard melee, ranged and explosion damages. Doesn't help against armour-piercing damage.",[[b]]护甲[[/b]]\\n\\n减少单位受到的标准近战伤害、远程伤害以及爆炸伤害。无法防御穿甲伤害。,0,[[b]]护甲[[/b]]\\n\\n减少单位受到的标准近战伤害、远程伤害以及爆炸伤害。无法防御穿甲伤害。,,,,,,,,FALSE,TRUE
@@ -1847,11 +1847,11 @@ Zong Bu,,0,,,,,,,,,FALSE,TRUE
 [[col:scope_description]](when this character's rank is 7 or higher)[[/col]],[[col:scope_description]]（此人等级7以上时）[[/col]],0,[[col:scope_description]]（此人等级7以上时）[[/col]],,,,,,,,FALSE,TRUE
 [[i]]Interethnic Relations[[/i]],,0,,,,,,,,,FALSE,TRUE
 [[i]]Support garrison and army[[/i]],,0,,,,,,,,,FALSE,TRUE
-[[img:ui/skins/default/character_bust_element_earth.png]][[/img]] Earth,,0,,,,,,,,,FALSE,TRUE
-[[img:ui/skins/default/character_bust_element_fire.png]][[/img]] Fire,,0,,,,,,,,,FALSE,TRUE
-[[img:ui/skins/default/character_bust_element_metal.png]][[/img]] Metal,,0,,,,,,,,,FALSE,TRUE
-[[img:ui/skins/default/character_bust_element_water.png]][[/img]] Water,,0,,,,,,,,,FALSE,TRUE
-[[img:ui/skins/default/character_bust_element_wood.png]][[/img]] Wood,,0,,,,,,,,,FALSE,TRUE
+[[img:ui/skins/default/character_bust_element_earth.png]][[/img]] Earth,[[img:ui/skins/default/character_bust_element_earth.png]][[/img]] 土,0,,,,,,,,,FALSE,TRUE
+[[img:ui/skins/default/character_bust_element_fire.png]][[/img]] Fire,[[img:ui/skins/default/character_bust_element_fire.png]][[/img]] 火,0,,,,,,,,,FALSE,TRUE
+[[img:ui/skins/default/character_bust_element_metal.png]][[/img]] Metal,[[img:ui/skins/default/character_bust_element_metal.png]][[/img]] 金,0,,,,,,,,,FALSE,TRUE
+[[img:ui/skins/default/character_bust_element_water.png]][[/img]] Water,[[img:ui/skins/default/character_bust_element_water.png]][[/img]] 水,0,,,,,,,,,FALSE,TRUE
+[[img:ui/skins/default/character_bust_element_wood.png]][[/img]] Wood,[[img:ui/skins/default/character_bust_element_wood.png]][[/img]] 木,0,,,,,,,,,FALSE,TRUE
 cause temporary social turmoil,造成暂时的社会动荡,0,造成暂时的社会动荡,,,,,,,,FALSE,TRUE
 "he has excellent talent and intelligence, so there is nothing to be hated.",骨气奇高，词彩华茂。,0,骨气奇高，词彩华茂。,,,,,,,,FALSE,TRUE
 imperious_presence,霸气逼人,0,霸气逼人,,,,,,,,FALSE,TRUE
@@ -2187,7 +2187,7 @@ xiongnu_02_short_description,,0,,,,,,,,,FALSE,TRUE
 {{tr:hv_unit_white_tiger_guardsmen}} for recruitment: %+n,{{tr:hv_unit_white_tiger_guardsmen}}部署量：%+n,0,,,,,,,,,FALSE,TRUE
 {{tr:hv_unit_white_tiger_warriors}},{{tr:hv_unit_white_tiger_warriors}},0,,,,,,,,,FALSE,TRUE
 {{tr:hv_unit_white_tiger_warriors}} for recruitment: %+n,{{tr:hv_unit_white_tiger_warriors}}部署量：%+n,0,,,,,,,,,FALSE,TRUE
-{{tr:hv_unit_white_tiger_warriors}} for recruitment: +1,,0,,,,,,,,,FALSE,TRUE
+{{tr:hv_unit_white_tiger_warriors}} for recruitment: +1,{{tr:hv_unit_white_tiger_warriors}}部署量：+1,0,,,,,,,,,FALSE,TRUE
 {{tr:hv_unit_wuhuan_barded_cavalry}},{{tr:hv_unit_wuhuan_barded_cavalry}},0,,,,,,,,,FALSE,TRUE
 {{tr:hv_unit_wuhuan_barded_cavalry}} for recruitment: %+n,{{tr:hv_unit_wuhuan_barded_cavalry}}部署量：%+n,0,,,,,,,,,FALSE,TRUE
 {{tr:hv_unit_wuhuan_cavalry}},{{tr:hv_unit_wuhuan_cavalry}},0,,,,,,,,,FALSE,TRUE

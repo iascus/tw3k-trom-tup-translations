@@ -1,6 +1,6 @@
 --- csv/out/16.LookupByUnitType.csv
 +++ csv/xls/16.LookupByUnitType.csv
-@@ -1,68 +1,100 @@
+@@ -1,68 +1,102 @@
 -Unit types,,,,,,Unit names,,
 -eng,zh-tw,zh-cn,,,,eng,zh-tw,zh-cn
 -all cavalry,所有騎兵,所有骑兵,,,,Archers,弓兵,弓手
@@ -96,6 +96,7 @@
 +Elephants,象兵,象兵
 +Elite,精銳,精锐
 +Enforcer Troop,捕掾隊,捕掾队
++Enforcer troops,捕掾隊,捕掾队
 +Enforcer,捕掾隊,捕掾队
 +Frontier,北疆,北疆
 +Glaive & Bow Infantry,大刀步兵與弓兵,大刀步兵与弓兵
@@ -108,6 +109,7 @@
 +Han Provincial,州屬,州属
 +Hand-Ji Infantry,手戟步兵,手戟步兵
 +Hebei,河北,河北
++Hidden Snakes and Rapid Tigers,隱蛇兵與虎賁軍,隐蛇兵与虎捷军
 +House Servant and Local Noble,家僕及豪族,仆从与豪强
 +House Servant,家僕,家仆
 +Ironfist Cavalry,鐵拳騎兵,铁拳骑兵
