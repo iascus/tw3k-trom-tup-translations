@@ -81,7 +81,7 @@
 @@ -351 +351 @@
 -effects_description_hv_effect_pooled_resource_zhang_yan_buildings,黑山 [[b]]%+n[[/b]],True
 +effects_description_hv_effect_pooled_resource_zhang_yan_buildings,黑山[[b]]%+n[[/b]],True
-@@ -390,9 +390,9 @@
+@@ -390,16 +390,16 @@
 -effects_description_hv_effect_pooled_resource_gongsun_zan_buildings,每回合軍政 [[b]]%+n[[/b]],False
 -effects_description_hv_effect_pooled_resource_gongsun_zan_garrison,每回合軍政 [[b]]%+n[[/b]],False
 -effects_description_hv_effect_t2_recruitment_cost,部曲單位招募費用 [[b]]%+n%[[/b]],True
@@ -91,6 +91,13 @@
 -effects_description_hv_effect_t4_recruitment_cost,禁衛單位招募費用 [[b]]%+n%[[/b]],True
 -effects_description_hv_effect_t4_upkeep,禁衛單位維持費 [[b]]%+n%[[/b]],True
 -effects_description_hv_effect_skill_retinue_cavalry_speed,騎兵戰場奔跑速度 [[b]]%+n%[[/b]],True
+-effects_description_hv_effect_skill_retinue_infantry_missile_resistance,步兵遠程阻擋機率 [[b]]%+n%[[/b]],True
+-effects_description_hv_effect_skill_retinue_ranged_mod,遠程範圍 [[b]]%+n%[[/b]],True
+-effects_description_hv_effect_skill_heavy_infantry_speed,重型步兵戰場奔跑速度 [[b]]%+n%[[/b]],True
+-effects_description_hv_effect_skill_retinue_melee_attack_own_territory,近戰命中加成 [[b]]%+n%[[/b]],True
+-effects_description_hv_effect_skill_retinue_melee_defence_own_territory,我方領土近戰迴避 [[b]]%+n[[/b]],True
+-effects_description_hv_effect_skill_retinue_melee_attack_enemy_territory,近戰命中加成 [[b]]%+n%[[/b]],True
+-effects_description_hv_effect_skill_retinue_melee_defence_enemy_territory,敵方領土近戰迴避 [[b]]%+n[[/b]],True
 +effects_description_hv_effect_pooled_resource_gongsun_zan_buildings,每回合軍政[[b]]%+n[[/b]],False
 +effects_description_hv_effect_pooled_resource_gongsun_zan_garrison,每回合軍政[[b]]%+n[[/b]],False
 +effects_description_hv_effect_t2_recruitment_cost,部曲單位招募費用[[b]]%+n%[[/b]],True
@@ -100,22 +107,18 @@
 +effects_description_hv_effect_t4_recruitment_cost,禁衛單位招募費用[[b]]%+n%[[/b]],True
 +effects_description_hv_effect_t4_upkeep,禁衛單位維持費[[b]]%+n%[[/b]],True
 +effects_description_hv_effect_skill_retinue_cavalry_speed,騎兵單位戰場奔跑速度[[b]]%+n%[[/b]],True
-@@ -401,5 +401,5 @@
--effects_description_hv_effect_skill_heavy_infantry_speed,重型步兵戰場奔跑速度 [[b]]%+n%[[/b]],True
--effects_description_hv_effect_skill_retinue_melee_attack_own_territory,近戰命中加成 [[b]]%+n%[[/b]],True
--effects_description_hv_effect_skill_retinue_melee_defence_own_territory,我方領土近戰迴避 [[b]]%+n[[/b]],True
--effects_description_hv_effect_skill_retinue_melee_attack_enemy_territory,近戰命中加成 [[b]]%+n%[[/b]],True
--effects_description_hv_effect_skill_retinue_melee_defence_enemy_territory,敵方領土近戰迴避 [[b]]%+n[[/b]],True
++effects_description_hv_effect_skill_retinue_infantry_missile_resistance,步兵單位遠程阻擋[[b]]%+n%[[/b]],True
++effects_description_hv_effect_skill_retinue_ranged_mod,射程[[b]]%+n%[[/b]],True
 +effects_description_hv_effect_skill_heavy_infantry_speed,重型步兵單位戰場奔跑速度[[b]]%+n%[[/b]],True
-+effects_description_hv_effect_skill_retinue_melee_attack_own_territory,近戰命中加成在我方領土 [[b]]%+n[[/b]],True
-+effects_description_hv_effect_skill_retinue_melee_defence_own_territory,近戰迴避在我方領土 [[b]]%+n%[[/b]],True
-+effects_description_hv_effect_skill_retinue_melee_attack_enemy_territory,近戰命中加成在敵方領土 [[b]]%+n[[/b]],True
-+effects_description_hv_effect_skill_retinue_melee_defence_enemy_territory,近戰迴避在敵方領土 [[b]]%+n%[[/b]],True
++effects_description_hv_effect_skill_retinue_melee_attack_own_territory,我方領土内近戰命中加成[[b]]%+n%[[/b]],True
++effects_description_hv_effect_skill_retinue_melee_defence_own_territory,我方領土内近戰迴避[[b]]%+n[[/b]],True
++effects_description_hv_effect_skill_retinue_melee_attack_enemy_territory,敵方領土内近戰命中加成[[b]]%+n%[[/b]],True
++effects_description_hv_effect_skill_retinue_melee_defence_enemy_territory,敵方領土内近戰迴避[[b]]%+n[[/b]],True
 @@ -408,2 +408,2 @@
 -effects_description_hv_effect_skill_missile_block_mod_all,遠程格擋機率 [[b]]%+n%[[/b]],True
 -effects_description_hv_effect_skill_retinue_infantry_missile_resistance_wood,槍兵遠程阻擋機率 [[b]]%+n%[[/b]],True
-+effects_description_hv_effect_skill_missile_block_mod_all,遠程阻擋機率[[b]]%+n%[[/b]],True
-+effects_description_hv_effect_skill_retinue_infantry_missile_resistance_wood,步兵遠程阻擋機率 [[b]]%+n%[[/b]],True
++effects_description_hv_effect_skill_missile_block_mod_all,遠程格擋機率[[b]]%+n%[[/b]],True
++effects_description_hv_effect_skill_retinue_infantry_missile_resistance_wood,槍兵單位遠程阻擋[[b]]%+n%[[/b]],True
 @@ -412 +412 @@
 -effects_description_hv_effect_replenishment_character_only,人物生命值回復 [[b]]%+n%[[/b]],True
 +effects_description_hv_effect_replenishment_character_only,人物生命值回復[[b]]%+n%[[/b]],True
@@ -141,18 +144,18 @@
 -effects_description_hv_tech_effect_hero_replenishment,人物單位補員速率 [[b]]%+n%[[/b]],True
 -effects_description_hv_tech_effect_province_building_construction_cost_mod_immigrants,建造花費（異民族建物） [[b]]%+n%[[/b]],True
 +effects_description_hv_tech_effect_t2_recruitment_cost,部曲單位招募費用[[b]]%+n%[[/b]],True
-+effects_description_hv_tech_effect_t2_melee_attack_stat,正規軍和盜匪單位近戰命中率 [[b]]%+n[[/b]],True
++effects_description_hv_tech_effect_t2_melee_attack_stat,部曲單位近戰命中率加成[[b]]%+n[[/b]],True
 +effects_description_hv_tech_effect_t2_melee_defence_stat,部曲單位近戰迴避[[b]]%+n[[/b]],True
-+effects_description_hv_tech_effect_t2_move_speed,正規軍和盜匪單位的戰場移動速度 [[b]]%+n%[[/b]],True
++effects_description_hv_tech_effect_t2_move_speed,部曲單位移動速度[[b]]%+n%[[/b]],True
 +effects_description_hv_tech_effect_t2_replenishment,部曲單位補員速率[[b]]%+n%[[/b]],True
-+effects_description_hv_tech_effect_t2_rank_new_recruits,正規軍和盜匪單位的起始等級 [[b]]%+n[[/b]],True
++effects_description_hv_tech_effect_t2_rank_new_recruits,部曲單位起始等級[[b]]%+n[[/b]],True
 +effects_description_hv_tech_effect_cavalry_mass_mod,騎兵單位質量[[b]]%+n%[[/b]],True
-+effects_description_hv_tech_effect_cavalry_missile_resist,騎兵單位遠程抵抗力 [[b]]%+n%[[/b]],True
-+effects_description_hv_tech_effect_t3_move_speed,精銳單位的戰場移動速度[[b]]%+n%[[/b]],True
++effects_description_hv_tech_effect_cavalry_missile_resist,騎兵單位遠程阻擋[[b]]%+n%[[/b]],True
++effects_description_hv_tech_effect_t3_move_speed,精銳單位移動速度[[b]]%+n%[[/b]],True
 +effects_description_hv_tech_effect_t3_replenishment,精銳單位補員速率[[b]]%+n%[[/b]],True
 +effects_description_hv_tech_effect_t3_recruitment_cost,精銳單位招募費用[[b]]%+n%[[/b]],True
-+effects_description_hv_tech_effect_t3_rank_new_recruits,精銳單位起始等級 [[b]]%+n[[/b]],True
-+effects_description_hv_tech_effect_t1_rank_new_recruits,農民兵、民兵和流民單位的起始等級 [[b]]%+n[[/b]],True
++effects_description_hv_tech_effect_t3_rank_new_recruits,精銳單位起始等級[[b]]%+n[[/b]],True
++effects_description_hv_tech_effect_t1_rank_new_recruits,義勇單位起始等級[[b]]%+n[[/b]],True
 +effects_description_hv_tech_effect_t1_morale_stat,義勇單位士氣[[b]]%+n[[/b]],True
 +effects_description_hv_tech_effect_t2_morale_stat,部曲單位士氣[[b]]%+n[[/b]],True
 +effects_description_hv_tech_effect_t1_replenishment,義勇單位補員速率[[b]]%+n%[[/b]],True
@@ -175,7 +178,7 @@
 -effects_description_hv_tech_effect_nomad_recruitment_cost,游牧單位招募費用 [[b]]%+n%[[/b]],True
 +effects_description_hv_tech_effect_t4_replenishment,禁衛單位補員速率[[b]]%+n%[[/b]],True
 +effects_description_hv_tech_effect_building_conversion_cost,建造花費[[b]]%+n%[[/b]],True
-+effects_description_hv_tech_effect_yue_armour,越族單位護甲[[b]]%+n%[[/b]],True
++effects_description_hv_tech_effect_yue_armour,越族單位護甲費用[[b]]%+n%[[/b]],True
 +effects_description_hv_tech_effect_yue_recruitment_cost,越族單位招募費用[[b]]%+n%[[/b]],True
 +effects_description_hv_tech_effect_yue_upkeep,越族單位維持費[[b]]%+n%[[/b]],True
 +effects_description_hv_tech_effect_yue_morale,越族單位士氣[[b]]%+n[[/b]],True
@@ -202,9 +205,6 @@
 @@ -678 +678 @@
 -campaign_payload_ui_details_description_hv_event_zhuge_liang_yuanrong,您現在可以招募：{{tr:hv_unit_yuan_rong_crossbowmen}},True
 +campaign_payload_ui_details_description_hv_event_zhuge_liang_yuanrong,您現在可以招募：{{tr:hv_unit_yuan_rong_crossbowmen}}。,True
-@@ -732 +732 @@
--cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_sogdTHIRD,不買任何東西,False
-+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_sogdTHIRD,什麽都不買,False
 @@ -893,8 +893,8 @@
 -effects_description_hv_effect_rule_of_virtue_province_public_order_faction,{{tr:public_order}} [[b]]%+n%[[/b]],True
 -effects_description_hv_effect_rule_of_virtue_economy_trade_power,貿易影響力 [[b]]%+n%[[/b]],True
@@ -249,22 +249,18 @@
 +effects_description_hv_effect_unit_stat_charge_bonus_earth,近戰騎兵衝鋒加成[[b]]%+n[[/b]],True
 +effects_description_hv_effect_unit_stat_charge_bonus_metal,近戰步兵衝鋒加成[[b]]%+n[[/b]],True
 +effects_description_hv_effect_unit_stat_charge_speed_metal,近戰步兵衝鋒速度[[b]]%+n[[/b]],True
-+effects_description_hv_effect_unit_stat_missile_block_metal,近戰步兵遠程阻擋機率[[b]]%+n%[[/b]],True
++effects_description_hv_effect_unit_stat_missile_block_metal,近戰步兵遠程格擋機率[[b]]%+n%[[/b]],True
 +effects_description_hv_effect_unit_stat_charge_speed_fire,突擊騎兵衝鋒速度[[b]]%+n[[/b]],True
-+effects_description_hv_effect_unit_stat_missile_block_fire,突擊騎兵遠程阻擋機率[[b]]%+n%[[/b]],True
-+effects_description_hv_effect_unit_stat_missile_block_all_cavalry,所有騎兵遠程阻擋機率[[b]]%+n%[[/b]],True
++effects_description_hv_effect_unit_stat_missile_block_fire,突擊騎兵遠程格擋機率[[b]]%+n%[[/b]],True
++effects_description_hv_effect_unit_stat_missile_block_all_cavalry,所有騎兵遠程格擋機率[[b]]%+n%[[/b]],True
 +effects_description_hv_effect_unit_stat_movement_speed_earth,近戰騎兵速度[[b]]%+n%[[/b]],True
 +effects_description_hv_effect_unit_stat_armour_metal,近戰步兵護甲[[b]]%+n%[[/b]],True
-@@ -2105,4 +2105,4 @@
+@@ -2105,15 +2105,15 @@
 -effects_description_hv_effect_elemental_cunning_campaign_supply,軍事物資補給 [[b]]%+n[[/b]],True
 -effects_description_hv_effect_elemental_expertise_melee_defence,近戰迴避 [[b]]%+n[[/b]],True
 -effects_description_hv_effect_elemental_instinct_melee_attack,近戰命中加成 [[b]]%+n%[[/b]],True
 -effects_description_hv_effect_elemental_resolve_health,生命值 [[b]]%+n%[[/b]],True
-+effects_description_hv_effect_elemental_cunning_campaign_supply,軍事物資補給 [[b]]%+n%[[/b]],True
-+effects_description_hv_effect_elemental_expertise_melee_defence,近戰迴避[[b]]%+n[[/b]],True
-+effects_description_hv_effect_elemental_instinct_melee_attack,近戰命中加成[[b]]%+n%[[/b]],True
-+effects_description_hv_effect_elemental_resolve_health,人物生命值 [[b]]%+n%[[/b]],True
-@@ -2110,10 +2110,10 @@
+-effects_description_hv_effect_elemental_authority_cavalry_missile_resistance,騎兵遠程阻擋機率 [[b]]%+n%[[/b]],True
 -effects_description_hv_effect_elemental_cunning_ranged_ammo,遠程矢石量 [[b]]%+n%[[/b]],True
 -effects_description_hv_effect_elemental_expertise_attack_rate,近戰步兵近戰攻擊速率 [[b]]%+n%[[/b]],True
 -effects_description_hv_effect_elemental_instinct_cavalry_charge_bonus,騎兵衝鋒加成 [[b]]%+n[[/b]],True
@@ -275,10 +271,15 @@
 -effects_description_hv_effect_elemental_instinct_redeployment_cost,重新部署成本 [[b]]%+n%[[/b]],True
 -effects_description_hv_effect_elemental_resolve_food_mod,糧食生產 [[b]]%+n%[[/b]],True
 -effects_description_hv_effect_elemental_resolve_health_bodyguard,將領貼身護衛規模 [[b]]%+n%[[/b]],True
++effects_description_hv_effect_elemental_cunning_campaign_supply,軍事物資補給 [[b]]%+n%[[/b]],True
++effects_description_hv_effect_elemental_expertise_melee_defence,近戰迴避[[b]]%+n[[/b]],True
++effects_description_hv_effect_elemental_instinct_melee_attack,近戰命中加成[[b]]%+n%[[/b]],True
++effects_description_hv_effect_elemental_resolve_health,人物生命值 [[b]]%+n%[[/b]],True
++effects_description_hv_effect_elemental_authority_cavalry_missile_resistance,騎兵遠程阻擋[[b]]%+n%[[/b]],True
 +effects_description_hv_effect_elemental_cunning_ranged_ammo,遠程單位矢石量[[b]]%+n%[[/b]],True
 +effects_description_hv_effect_elemental_expertise_attack_rate,近戰步兵近戰攻擊速率[[b]]%+n%[[/b]],True
 +effects_description_hv_effect_elemental_instinct_cavalry_charge_bonus,騎兵衝鋒加成[[b]]%+n[[/b]],True
-+effects_description_hv_effect_elemental_resolve_spear_weapon_damage,持戟步兵近戰傷害 [[b]]%+n%[[/b]],True
++effects_description_hv_effect_elemental_resolve_spear_weapon_damage,持戟步兵武器傷害[[b]]%+n%[[/b]],True
 +effects_description_hv_effect_elemental_authority_satisfaction,所有人物滿意度[[b]]%+n[[/b]],True
 +effects_description_hv_effect_elemental_characters_experience_bonus,人物經驗[[b]]%+n%[[/b]],True
 +effects_description_hv_effect_elemental_expertise_corruption,腐敗[[b]]%+n%[[/b]],True
@@ -316,3 +317,8 @@
 @@ -4364 +4364 @@
 -ui_text_replacements_localised_text_hv_unit_shanyue_remnants,越民軍,True
 +ui_text_replacements_localised_text_hv_unit_shanyue_remnants,越族殘黨,True
+@@ -5578,2 +5578,2 @@
+-cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor_dilemma_imperial_banquetFIRST,出席 ,True
+-cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor_dilemma_imperial_banquetSECOND,缺席 ,True
++cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor_dilemma_imperial_banquetFIRST,出席,True
++cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor_dilemma_imperial_banquetSECOND,缺席,True
