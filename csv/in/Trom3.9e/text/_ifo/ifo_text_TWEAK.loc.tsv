@@ -1,0 +1,39 @@
+key	text	tooltip
+#Loc;1;text/_ifo/ifo_text_TWEAK.loc		
+cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesFIRST	Send civil officials	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesSECOND	Send military officers	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesTHIRD	Ignore	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor_dilemma_imperial_banquetFIRST	Attend	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor_dilemma_imperial_banquetSECOND	Absent	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesFIRST	An imperial ancestral rite is being held...	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesSECOND	An imperial ancestral rite is being held...	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesTHIRD	It seems you've offended the imperial court...	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor_dilemma_imperial_banquetFIRST	The banquet proceeds...	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor_dilemma_imperial_banquetSECOND	It seems you've offended the imperial court...	true
+dilemmas_localised_description_3k_dlc07_child_emperor_dilemma_imperial_ancestral_rites	The imperial ancestral rite, a significant event in China, will be held soon. An imperial decree demands that you send civil officials to assist in administrative affairs or military officers for the imperial guard detail. If you fulfill your duties as a faithful servant, the imperial court will grant you grace. If you refuse, you may incurr the emperor's disfavour...	false
+dilemmas_localised_description_3k_dlc07_child_emperor_dilemma_imperial_banquet	A decree has arrived from the imperial court. A banquet is to be held, and influential nobles from across China are invited to the imperial palace. Wary of our influence, the imperial protector may be plotting something. However, refusing an imperial decree may have grave consequences...	false
+dilemmas_localised_title_3k_dlc07_child_emperor_dilemma_imperial_ancestral_rites	Imperial Favour: Ancestral Rite	false
+dilemmas_localised_title_3k_dlc07_child_emperor_dilemma_imperial_banquet	Imperial Favour: Banquet	false
+incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_grace	The emperor thinks highly of you. His majesty has decided to gift you a small fortune in honour of your contributions to the state.	false
+incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_grace	Imperial Favour: A Gift from the Emperor	false
+incidents_localised_description_3k_dlc07_child_emperor_scripted_incident_political_scheme_good	Perhaps out of admiration or to curry favour, a faction has put in a good word for you with the emperor. Talk of your exploits is is all that is on everyone's lips at the palace of late. 	false
+incidents_localised_title_3k_dlc07_child_emperor_scripted_incident_political_scheme_good	Political Maneuvering	false
+incidents_localised_title_3k_dlc07_child_emperor_scripted_incident_political_scheme_bad	Political Maneuvering	false
+incidents_localised_description_3k_dlc07_child_emperor_scripted_incident_political_scheme_bad	Slander! A rival warlord is spreading malicious rumours at the imperial court, causing Emperor Xian to doubt our loyalty to the Han.	false
+campaign_payload_ui_details_description_3k_dlc_07_child_emperor_banquet_dilemma_text	Unknown result	false
+campaign_payload_ui_details_description_3k_dlc_07_child_emperor_rites_dilemma_text	Unknown result	false
+incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_banquet_result_nothing	Imperial banquet ended without incident	false
+incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_nothing	Imperial ancestral rite ended	false
+incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_banquet_result_assassinate	Assassination Attempt!	false
+incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_civil	Imperial ancestral rite ended	false
+incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_military	Imperial ancestral rite ended	false
+incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_banquet_result_nothing	Fortunately, nothing of note happened during the banquet.	false
+incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_nothing	The imperial ancestral rite ended without incident. Unfortunately, the emperor returned to the place without acknowledging your contribution.	false
+incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_banquet_result_assassinate	A cowardly conspiracy! There was a failed attempt to assassinate you during the banquet. Unfortunately, the assaliant was slain by the guards before he could be made to reveal the conspirator's identity.	false
+incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_civil	The imperial ancestral rite was completed successfully, and the emperor shows favour to the attending nobles. 	false
+incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_military	The imperial ancestral rite was completed successfully, and the emperor shows favour to the attending nobles. 	false
+campaign_localised_strings_string_dlc07_imperial_intrigue_panel_invalid_self_target	You can't target yourself. 	false
+campaign_localised_strings_string_3k_dlc07_tutorial_mode_imperial_hud_description	Selecting this will open the Imperial Intrigue panel, which governs all the mechanics which become active once Emperor Xian comes of age in 195 CE, introducing a struggle over the influence of the new imperial power.	false
+uied_component_texts_localised_string_bullet_point_2_NewState_Text_a4e16b75	Unlocked in 195 CE. Once this is unlocked, you can use imperial favour to preform [[b]]imperial decrees[[/b]]	false
+uied_component_texts_localised_string_pre_unlock_active_Text_c2076aa9	Unlocked when Emperor Xian comes of age in 195 CE	false
+uied_component_texts_localised_string_bullet_point_1_NewState_Text_3388e0c7	If the year is beyond 195 CE and the emperor token is still in play, then the Imperial Intrigue panel will become unlocked.	false

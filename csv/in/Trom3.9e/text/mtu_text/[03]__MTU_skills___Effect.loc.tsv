@@ -1,0 +1,11 @@
+key	text	tooltip
+#Loc;1;text/mtu_text/[03]__MTU_skills___Effect.loc		
+unit_ability_types_localised_description_3k_main_formation_wedge_wen_chu	Wedge of Jieqiao	true
+unit_abilities_onscreen_name_3k_main_formation_wedge_wen_chu	Wedge of Jieqiao	true
+special_ability_phases_onscreen_name_3k_main_formation_wedge_wen_chu	Wedge of Jieqiao	true
+effects_description_3k_main_skill_wedge_formation_wen_chu	Enables formation: Wedge of Jieqiao	true
+effects_value_format_3k_main_skill_wedge_formation_wen_chu		true
+unit_ability_types_onscreen_name_3k_main_formation_wedge_wen_chu	Mobile Infantry Formation	true
+unit_abilities_tooltip_text_3k_main_formation_wedge_wen_chu	Recalling their intense training, these generals reform with startling quickness.	true
+effects_description_3k_main_effect_unit_stats_ammunition_cavalry_missile	[[b]]%+n%[[/b]] ammunition for missile cavalry	true
+effects_description_3k_main_effect_character_stat_mod_missile_damage_cavalry_missile	[[b]]%+n%[[/b]] ranged damage for missile cavalry	true

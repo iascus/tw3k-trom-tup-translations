@@ -1,0 +1,17 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_effects_skills.loc		
+effects_description_hv_effect_skill_retinue_cavalry_speed	[[b]]%+n%[[/b]] battle running speed for cavalry units	true
+effects_description_hv_effect_skill_retinue_infantry_missile_resistance	[[b]]%+n%[[/b]] missile resistance for infantry units	true
+effects_description_hv_effect_skill_retinue_ranged_mod	[[b]]%+n%[[/b]] missile range	true
+effects_description_hv_effect_skill_heavy_infantry_speed	[[b]]%+n%[[/b]] battle running speed for heavy infantry units	true
+effects_description_hv_effect_skill_retinue_melee_attack_own_territory	[[b]]%+n%[[/b]] additional melee hit bonus in own territory	true
+effects_description_hv_effect_skill_retinue_melee_defence_own_territory	[[b]]%+n[[/b]] melee evasion in own territory	true
+effects_description_hv_effect_skill_retinue_melee_attack_enemy_territory	[[b]]%+n%[[/b]] additional melee hit bonus in enemy territory	true
+effects_description_hv_effect_skill_retinue_melee_defence_enemy_territory	[[b]]%+n[[/b]] melee evasion in enemy territory	true
+effects_description_hv_effect_enable_explosive_trebuchet_shell	Enables: Explosive Shot (Trebuchet)	true
+effects_description_3k_main_effect_enable_projectile_fire_artillery	Enables: Flaming Shot (Trebuchet)	true
+effects_description_hv_effect_skill_missile_block_mod_all	[[b]]%+n%[[/b]] missile block chance	true
+effects_description_hv_effect_skill_retinue_infantry_missile_resistance_wood	[[b]]%+n%[[/b]] missile resistance for spear units	true
+effects_description_hv_effect_yuan_armoury_captain_ability_passive	Ability: A Secret Plan	true
+campaign_localised_strings_string_3k_dlc07_captains_armoury_whitewater_title	A Secret Plan	true
+effects_description_hv_effect_replenishment_character_only	[[b]]%+n%[[/b]] health recovery for characters	true

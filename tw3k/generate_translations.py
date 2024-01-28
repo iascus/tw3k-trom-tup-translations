@@ -1,3 +1,4 @@
+import glob
 import os
 import re
 import difflib
@@ -40,10 +41,6 @@ class Step:
         return f'csv/out/{self.filename}'
 
     @property
-    def xls_filepath(self):
-        return f'csv/xls/{self.filename}'
-
-    @property
     def diff_filepath(self):
         return f'csv/diff/{self.filename}.diff'
 
@@ -60,9 +57,7 @@ class Step:
         self.data = self._run()
 
     def load_file(self, file_type):
-        if file_type == 'xls':
-            path = self.xls_filepath
-        elif file_type == 'in':
+        if file_type == 'in':
             path = self.in_filepath
         elif file_type == 'lookup':
             path = self.lookup_filepath
@@ -70,24 +65,6 @@ class Step:
             raise ValueError(f'Unknown type: {file_type}')
         logger.info(f'Loading {path}')
         return pd.read_csv(path)
-
-    def compare_with_xls(self):
-        logger.info('Comparing with xls data')
-        if not os.path.exists(self.xls_filepath):
-            return
-        with (
-            open(self.out_filepath, encoding='utf8') as out_file,
-            open(self.xls_filepath, encoding='utf8') as xls_file,
-        ):
-            diff = list(difflib.unified_diff(
-                (xls_file.read().rstrip() + '\n').replace(',TRUE', ',True').replace(',FALSE', ',False').splitlines(keepends=True),
-                out_file.read().replace(',TRUE', ',True').replace(',FALSE', ',False').splitlines(keepends=True),
-                self.out_filepath, self.xls_filepath,
-                n=0,
-            ))
-        if diff:
-            with open(self.diff_filepath, encoding='utf8', mode='w') as diff_file:
-                diff_file.writelines(diff)
 
 
 class InputFile(Step):
@@ -100,9 +77,18 @@ class LookupFile(Step):
         return self.load_file('lookup')
 
 
-class CopyFromXls(Step):
+class TsvFiles(Step):
     def _run(self):
-        return self.load_file('xls')
+        dfs = []
+        for filepath in glob.glob(os.path.join('csv', 'in', self.dir_path, '**', '*.tsv'), recursive=True):
+            if 'mtu_text' in filepath:
+                continue
+            with open(filepath, encoding='utf-8') as tsv_file:
+                df = pd.read_csv(tsv_file, sep='\t', skiprows=[1])
+                df.columns = ['Key', 'Text', 'Tooltip']
+                df['File'] = os.path.basename(filepath)
+                dfs.append(df)
+        return pd.concat(dfs)
 
 
 class VanillaZhcn(InputFile):
@@ -117,16 +103,19 @@ class VanillaEng(InputFile):
     step_no = 3
 
 
-class TromZhcn(InputFile):
+class TromZhcn(TsvFiles):
     step_no = 4
+    dir_path = 'PikaManZhcn'
 
 
-class TromZhtw(InputFile):
+class TromZhtw(TsvFiles):
     step_no = 5
+    dir_path = 'PikaManZhtw'
 
 
-class TromEng(InputFile):
+class TromEng(TsvFiles):
     step_no = 6
+    dir_path = 'Trom3.9e'
 
 
 class TromVanillaKeyOverride(LookupFile):
@@ -273,6 +262,7 @@ class MapByKeyZhcn(Step):
         data = data.merge(lookup_by_key, on='Key', how='left')
         data = data.merge(vanilla, on='Key', how='left')
         data = data.merge(trom_zh.rename({'Text': '2.2 translation'}, axis=1), on='Key', how='left')
+        data['Short Key'] = data['Key'].str.rsplit('_', n=1).str[0]
         data = data.merge(trom_zh.rename({'Text': '2.2 translation shortened key', 'Key': 'Short Key'}, axis=1), on='Short Key', how='left')
 
         data['Text'] = data['English']
@@ -388,7 +378,6 @@ def main():
     ]:
         step.run()
         step.save()
-        step.compare_with_xls()
 
 
 if __name__ == '__main__':

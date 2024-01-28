@@ -1,0 +1,13 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_effects_building.loc		
+campaign_effect_scopes_localised_text_region_to_force_own_in_adjacent_regions	[[col:scope_description]](adjacent all {{tr:map_regions}})[[/col]]	true
+effects_description_hv_building_effect_liu_bei_unity	[[b]]%+n[[/b]] unity	true
+effects_description_hv_building_effect_dummy_immigrant_subtown	[[i]]Interethnic Relations[[/i]]	true
+effects_description_hv_building_effect_dummy_ethnic_penalty_chance	Other ethnic groups influence	true
+effects_description_hv_building_effect_dummy_scattered_immigrants	This {{tr:map_region}} is occupied by scattered barbarians. Develop this settlement to start exploiting its resources.	true
+effects_description_hv_building_effect_dummy_garrison_sun_jian	[[i]]Support garrison and army[[/i]]	true
+effects_description_hv_building_effect_dummy_garrison	[[i]]Support garrison and army[[/i]]	true
+effects_description_hv_building_effect_replenishment_danyang	[[b]]%+n%[[/b]] replenishment for Danyang units	true
+effects_description_hv_building_effect_province_mercenary_access	Provides [[b]]Danyang Troop Captain[[/b]] recruitment charges	true
+effects_description_hv_building_effect_dummy_education	Every spring, characters gain additional experience.	true
+effects_description_hv_effect_unit_upkeep_local_noble_units	[[b]]%+n%[[/b]] upkeep for House Servant and Local Noble units	true

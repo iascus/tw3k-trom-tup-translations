@@ -1,0 +1,8 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_effects_progression.loc		
+effects_description_hv_effect_t2_recruitment_cost	正卒部队招募费用 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_t2_upkeep	正卒部队维持费 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_t3_recruitment_cost	精锐部队招募费用 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_t3_upkeep	精锐部队维持费 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_t4_recruitment_cost	禁军部队招募费用 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_t4_upkeep	禁军部队维持费 [[b]]%+n%[[/b]]	true

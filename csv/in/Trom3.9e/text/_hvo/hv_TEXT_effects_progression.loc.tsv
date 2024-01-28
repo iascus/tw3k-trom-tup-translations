@@ -1,0 +1,8 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_effects_progression.loc		
+effects_description_hv_effect_t2_recruitment_cost	[[b]]%+n%[[/b]] recruitment cost for Buqu units	true
+effects_description_hv_effect_t2_upkeep	[[b]]%+n%[[/b]] upkeep for Buqu units	true
+effects_description_hv_effect_t3_recruitment_cost	[[b]]%+n%[[/b]] recruitment cost for Elite units	true
+effects_description_hv_effect_t3_upkeep	[[b]]%+n%[[/b]] upkeep for Elite units	true
+effects_description_hv_effect_t4_recruitment_cost	[[b]]%+n%[[/b]] recruitment cost for Royal Guard units	true
+effects_description_hv_effect_t4_upkeep	[[b]]%+n%[[/b]] upkeep for Royal Guard units	true

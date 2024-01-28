@@ -1,0 +1,19 @@
+key	text	tooltip
+#Loc;1;text/!@hv_TEXT_BUILDING_EFFECT.loc		
+campaign_effect_scopes_localised_text_region_to_force_own_in_adjacent_regions	[[col:scope_description]]（相鄰各{{tr:map_regions}}）[[/col]]	true
+effects_description_hv_building_effect_city_fire_1	建造時間（軍事）[[b]]%+n[[/b]]	true
+effects_description_hv_building_effect_city_earth_1	建造時間（城鎮行政）[[b]]%+n[[/b]]	true
+effects_description_hv_building_effect_city_wood_1	建造時間（農業）[[b]]%+n[[/b]]	true
+effects_description_hv_building_effect_city_metal_1	建造時間（作坊）[[b]]%+n[[/b]]	true
+effects_description_hv_building_effect_city_water_1	建造時間（文教與市場）[[b]]%+n[[/b]]	true
+effects_description_hv_building_effect_city_fire_2	建造花費（軍事）[[b]]%+n%[[/b]]	true
+effects_description_hv_building_effect_city_earth_2	建造花費（城鎮行政）[[b]]%+n%[[/b]]	true
+effects_description_hv_building_effect_city_wood_2	建造花費（農業）[[b]]%+n%[[/b]]	true
+effects_description_hv_building_effect_city_metal_2	建造花費（作坊）[[b]]%+n[[/b]]	true
+effects_description_hv_building_effect_city_water_2	建造花費（文教與市場）[[b]]%+n[[/b]]	true
+effects_description_hv_building_effect_liu_bei_unity	團結度[[b]]%+n[[/b]]	true
+effects_description_hv_building_effect_dummy_immigrant_subtown	[[i]]多民族關係[[/i]]	true
+effects_description_hv_building_effect_dummy_ethnic_penalty_chance	異民族影響	true
+effects_description_hv_building_effect_dummy_scattered_immigrants	{{tr:map_region}}正被散佈的異民所盤據。改善此情況請著手開發此地資源。	true
+effects_description_hv_building_effect_dummy_garrison_sun_jian	[[i]]支援駐軍與部隊[[/i]]	true
+effects_description_hv_building_effect_dummy_garrison	[[i]]支援駐軍與部隊[[/i]]	true

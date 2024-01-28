@@ -1,0 +1,184 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_unit_desc.loc		
+unit_description_historical_texts_text_hv_unit_ytr_gallants_of_the_people	Whilst all Yellow Turban warriors are happy to wade into the heart of battle, the Gallants of the People were made to hold the frontline against enemies - to be anywhere else would be to waste their talent and ardour. \\n\\n They are heavily-armoured, though not as heavily plated as some other warriors, yet with great axe they are able to push back the advancing foe whilst deflecting blows. Where their mail may falter, their fanaticism never will.	false
+unit_description_short_texts_text_hv_unit_ytr_gallants_of_the_people	Bravery drives a warrior to battle more effectively than any general; a great axe keeps them there.	false
+unit_description_historical_texts_text_hv_unit_ytr_bringers_of_righteousness	These concerned citizens call themselves the Bringers of Righteousness and have used their wealth to purchase their own armour and weapons. Each has undertaken extensive training to become proficient using polearms and learned how to use a bow through traditional archery competitions. \\n\\n Though they wear expensive tunics, their commitment is not mere vainglory; their not-inconsiderable skill with the bow and polearm make them extremely useful due to their flexibility, and therefore welcomed to join the fight for the Great Peace.	false
+unit_description_short_texts_text_hv_unit_ytr_bringers_of_righteousness	Skilled militia armed with polearms and bows, a flexible and effective unit for combat both close and from afar.	false
+unit_description_historical_texts_text_hv_unit_ytr_zealots_of_the_way	Where the militia of the Han are pressed into service out of obligation, the Yellow Turban zealots rise to fight because it is the only way to carve a better future for the people. \\n\\n Their fierce determination makes them more effective than standard militia. They charge into battle, lightly-armoured and equipped with explosive materials, ready to rend asunder any who doubt or question the Way.	false
+unit_description_short_texts_text_hv_unit_ytr_zealots_of_the_way	Their own lives are not important, and they will somehow stop the enemy.	false
+unit_description_historical_texts_text_hv_unit_ytr_reclaimers	The role of these troops can be deduced from their appearance; their armour pieces are mismatched, put together by collecting those left in the aftermath of battle, or sourced from nearby villages. \\n\\n Their most important function is to search and collect loot, weapons and armour after the battle to put towards the Great Peace. They are not good at close combat, so they use a bunch of captured repeating crossbows to support frontline.	false
+unit_description_short_texts_text_hv_unit_ytr_reclaimers	This infantry gathers equipment dropped or left behind in battle to help their brothers and sisters continue the fight.	false
+unit_description_historical_texts_text_hv_unit_ytr_righteous_vanguards	To be the bolt of justice, to spearhead a charge deep into the enemy lines, delivering vengeance for an oppressed people, this is the task of these warriors. \\n\\n These cavalry are one of the few shock cavalry of the Yellow Turbans army.; once they have ploughed into an enemy formation with their spears, they have the armour and the skill to keep fighting, thrusting with enough force to pierce most armour with righteous intensity.	false
+unit_description_short_texts_text_hv_unit_ytr_righteous_vanguards	At the head of charge they draw their spears, driving home with a righteous cry!	false
+unit_description_historical_texts_text_hv_unit_ytr_the_lands_chosen	It is a central tenet of Taoism that the land must be revered and nurtured; it, in turn, will return to us its bounties. Those chosen warriors who receive of nature's boons must use its gifts to pursue those who have contributed to the corruption and destruction plaguing the land. \\n\\n From the boughs of the trees, arrows and crossbows are fashioned and handled by warriors who wield them with greater expertise than most of their contemporaries.	false
+unit_description_short_texts_text_hv_unit_ytr_the_lands_chosen	Nature must be preserved and the world saved. These warriors will see it done.	false
+unit_description_historical_texts_text_hv_unit_ytr_virtuous_noblemen	The Yellow Turban rebellion challenges the corruption that poisons China and has made many question old loyalties. \\n\\n These noblemen have renounced their former warlords to seek justice and redemption. Their previous life of privilege has trained and equipped them well, and they ride into battle clad in ornate armour and helmets upon impressive mounts of the finest stock. \\n\\n With sharp spears, the impact of their charge is merely a way to break the enemy’s lines for deadly close combat.	false
+unit_description_short_texts_text_hv_unit_ytr_virtuous_noblemen	Elite cavalry guards who have turned their weapons against their former masters to serve the Yellow Turbans.	false
+unit_description_historical_texts_text_hv_unit_ytr_captain	A captain and the guards commanding the army instead of the general.	false
+unit_description_short_texts_text_hv_unit_ytr_captain	Leads and commands the retinues.	false
+unit_description_short_texts_text_hv_unit_militia_sabre_infantry	work in process	true
+unit_description_short_texts_text_hv_unit_militia_ji_infantry	work in process	true
+unit_description_short_texts_text_hv_unit_militia_archers	work in process	true
+unit_description_short_texts_text_hv_unit_buqu_sabre_infantry	work in process	true
+unit_description_short_texts_text_hv_unit_buqu_axemen	work in process	true
+unit_description_short_texts_text_hv_unit_buqu_2h_axemen	work in process	true
+unit_description_short_texts_text_hv_unit_buqu_spearmen	work in process	true
+unit_description_short_texts_text_hv_unit_buqu_ji_infantry	work in process	true
+unit_description_short_texts_text_hv_unit_buqu_archers	work in process	true
+unit_description_short_texts_text_hv_unit_buqu_crossbowmen	work in process	true
+unit_description_short_texts_text_hv_unit_buqu_rep_crossbowmen	work in process	true
+unit_description_short_texts_text_hv_unit_buqu_2h_spear_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_buqu_sabre_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_buqu_raid_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_buqu_archer_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_elite_swordsmen	work in process	true
+unit_description_short_texts_text_hv_unit_elite_2h_axemen	work in process	true
+unit_description_short_texts_text_hv_unit_elite_2h_swordsmen	work in process	true
+unit_description_short_texts_text_hv_unit_elite_spearmen	work in process	true
+unit_description_short_texts_text_hv_unit_elite_2h_spearmen	work in process	true
+unit_description_short_texts_text_hv_unit_elite_ji_infantry	work in process	true
+unit_description_short_texts_text_hv_unit_elite_heavy_bow_archers	Heavily-armoured troops carrying iron bows that requires very strong tension. 	true
+unit_description_short_texts_text_hv_unit_elite_crossbowmen	work in process	true
+unit_description_short_texts_text_hv_unit_elite_rep_crossbowmen	work in process	true
+unit_description_short_texts_text_hv_unit_elite_sword_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_elite_2h_spear_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_elite_barded_2h_spear_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_xiliang_buqu_hand_ji_infantry	With Hand-ji and shield, these Xiliang warriors will bring death to the enemy.	true
+unit_description_short_texts_text_hv_unit_xiliang_buqu_spearmen	No horseman shall pass these spearmen from the famed Xiliang army.	true
+unit_description_short_texts_text_hv_unit_xiliang_buqu_ji_infantry	Brandishing their Ji expertly, these men will uphold the fearsome reputation of the Xiliang army.	true
+unit_description_short_texts_text_hv_unit_xiliang_buqu_crossbowmen	Their bolts remind the foe that even at range, noone is truly safe from the might of the Xiliang army.	true
+unit_description_short_texts_text_hv_unit_xiliang_buqu_rep_crossbowmen	Years of fighting the steppe tribes have shaped these Xiliang spear-riders into a deadly force.	true
+unit_description_short_texts_text_hv_unit_xiliang_buqu_sabre_cavalry	With sword and shield, these Xiliang horsemen will strike fear into the foe.	true
+unit_description_short_texts_text_hv_unit_xiliang_buqu_archer_cavalry	Echoing the nomads they fought for years, these horse archers will do the Xiliang army proud on any battlefield.	true
+unit_description_short_texts_text_hv_unit_xiliang_elite_2h_swordsmen	Even in the elite Xiliang army, having a big sword can only bring advantages to a commander.	true
+unit_description_short_texts_text_hv_unit_xiliang_elite_spearmen	Hardened Xiliang soldies, these elite spearmen will hold the line against all comers.	true
+unit_description_short_texts_text_hv_unit_xiliang_elite_enforcers	Armed with bow and sword, these hardy soldiers enforce the will of their warlord.	true
+unit_description_short_texts_text_hv_unit_enforcer_archer_cavalry	Armed with bow and sword, these disciplined riders enforce the will of their warlord.	true
+unit_description_short_texts_text_hv_unit_xiliang_elite_barded_2h_spear_cavalry	The pride of the Xiliang army, these armored horsemen will teach their enemy the meaning of “elite cavalry”.	true
+unit_description_short_texts_text_hv_unit_xiliang_elite_crossbowmen	Their shots are almost always accurate even in the sand breeze.	true
+unit_description_short_texts_text_hv_unit_jingchou_buqu_caltrop_infantry	Amongst the hills of Jingchu, the unwary may find themselves tripped upon a caltrop, and slain by the man who laid it.	true
+unit_description_short_texts_text_hv_unit_jingchou_buqu_2h_axemen	Echoing the glory of Chu, the great axes these men wield will make short work of their shielded foes.	true
+unit_description_short_texts_text_hv_unit_jingchou_buqu_2h_spearmen	Stalwart as the hills they were raised in, these Chu spearmen are an asset to any warlord.	true
+unit_description_short_texts_text_hv_unit_jingchou_buqu_archers	Raining death from afar, the archers of Jingchu have learned well the advantage that the bow brings in hilly terrain.	true
+unit_description_short_texts_text_hv_unit_northern_mace_cavalry	The Yan frontier offers no shortage of good horses. The constant warfare provides these steeds with expert riders.	true
+unit_description_short_texts_text_hv_unit_northern_spear_cavalry	A charge from a squadron of Spear cavalry is a daunting sight for any soldier. But to see the warriors of Yan descend upon them is a new brand of terror altogether.	true
+unit_description_short_texts_text_hv_unit_chen_peacekeepers_halberd_infantry	The Glory of the Han shall endure while these men have the strength to wield their halberds.	true
+unit_description_short_texts_text_hv_unit_chen_peacekeepers_crossbowmen	Whether near or from afar, these soldiers shall bring justice to any who would threaten their prince.	true
+unit_description_short_texts_text_hv_unit_chen_royal_guard_cavalry	A prince's retinue reflects their glory in splendour. These brave cavalrymen match their splendour with equal prowress in battle.	true
+unit_description_short_texts_text_hv_unit_jei_fan_infantry	These versatile infantry will solve nigh any problem their Wu commanders might face.	true
+unit_description_short_texts_text_hv_unit_blue_turban_infantry	As the enemy spots the blue turbans on the field, they know the hardest fighting is about to begin.	true
+unit_description_short_texts_text_hv_unit_yuan_sword_infantry	An illustrious lineage provides many swords, along with men willing to wield them.	true
+unit_description_short_texts_text_hv_unit_militia_scout_cavalry	Having defended their home for long enough, even militia may grow to rival professional soldiers.	true
+unit_description_short_texts_text_hv_unit_buqu_of_the_left	The Han must be restored. These men shall follow their righteous general to the death to see it done.	true
+unit_description_short_texts_text_hv_unit_militia_black_mountain_outlaws	The desperate and the disenfranchised gather at the base of Black Mountain, ready to expand their fortunes or die trying.	true
+unit_description_short_texts_text_hv_unit_militia_taishan_outlaws	With club in hand, the desperate shall make a fortune and name for themselves, or die trying.	true
+unit_description_short_texts_text_hv_unit_militia_white_tiger_outlaws	In the hills and mountains of the Southlands, the desperate will lay down their lives to escape the Han.	true
+unit_description_short_texts_text_hv_unit_bandits_axe_infantry	work in process	true
+unit_description_short_texts_text_hv_unit_bandits_2h_spear_infantry	work in process	true
+unit_description_short_texts_text_hv_unit_bandits_archers	work in process	true
+unit_description_short_texts_text_hv_unit_bandits_2h_spear_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_bandits_sabre_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_taishan_phantoms	Great danger hides in the early mist of day. Phantoms that will maim their prey, or whose choking gass leaves them gasping for air.	true
+unit_description_short_texts_text_hv_unit_taishan_poison_wind	The sting of an arrowshaft can be deadly, but with these archers, death may still find you long after the arrow pierced your flesh.	true
+unit_description_short_texts_text_hv_unit_black_mountain_bandits	work in process	true
+unit_description_short_texts_text_hv_unit_white_tiger_bandits	work in process	true
+unit_description_short_texts_text_hv_unit_yue_freemen	The cragged edges of the southern mountains fashion peasants into warriors, flint-eyed and sharp.	true
+unit_description_short_texts_text_hv_unit_nomad_gang_cavalry	Steppe horse archers are in high demand by many warlords. But sometimes they make a better profit by working for themselves.	true
+unit_description_short_texts_text_hv_unit_bandits_elite_iron_walls	What kind of men are these, who are not soldiers, yet wear elite armour? Bloody men, who have earned their weaponry through victory and pillaging.	true
+unit_description_short_texts_text_hv_unit_bandits_elite_cunning_monkeys	work in process	true
+unit_description_short_texts_text_hv_unit_bandits_elite_two_blades	work in process	true
+unit_description_short_texts_text_hv_unit_bandits_elite_jia_long	work in process	true
+unit_description_short_texts_text_hv_unit_bandits_elite_blood_seekers	work in process	true
+unit_description_short_texts_text_hv_unit_bandits_elite_ren_xia	work in process	true
+unit_description_short_texts_text_hv_unit_bandits_elite_you_shi_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_swallow_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_iron_fists_of_the_bandit_queen	These elite, battle-hardened bandits carry an axe in each hand, and advance ahead of the front lines to catch their foes unawares	true
+unit_description_short_texts_text_hv_unit_white_tiger_guardsmen	work in process	true
+unit_description_short_texts_text_hv_unit_tiger_and_leopard_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_tiger_and_leopard_barded_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_white_feathers	work in process	true
+unit_description_short_texts_text_hv_unit_porcupine_crossbowmen	These are the crossbowmen who shoot while hiding with shields.	true
+unit_description_short_texts_text_hv_unit_jianan_hand_ji_infantry	work in process	true
+unit_description_short_texts_text_hv_unit_jianan_archers	work in process	true
+unit_description_short_texts_text_hv_unit_stray_artisans	Ingenuity and craftsmanship can turn even a lowly militiaman into a daunting foe.	true
+unit_description_short_texts_text_hv_unit_fellows_of_the_oath	work in process	true
+unit_description_short_texts_text_hv_unit_handmaid_guard	work in process	true
+unit_description_short_texts_text_hv_unit_xian_chen_ying	To break these warriors is the challenge of many an army. So far, very few have succeeded.	true
+unit_description_short_texts_text_hv_unit_han_volunteer_spearmen	work in process	true
+unit_description_short_texts_text_hv_unit_han_volunteer_rep_crossbowmen	work in process	true
+unit_description_short_texts_text_hv_unit_hidden_assault_infantry	work in process	true
+unit_description_short_texts_text_hv_unit_white_horse_fellows	work in process	true
+unit_description_short_texts_text_hv_unit_yuan_rong_crossbowmen	work in process	true
+unit_description_short_texts_text_hv_unit_dan_yang_infantry	work in process	true
+unit_description_short_texts_text_hv_unit_protectors_of_heaven	work in process	true
+unit_description_short_texts_text_hv_unit_defenders_of_earth	work in process	true
+unit_description_short_texts_text_hv_unit_protectors_of_heaven_might	work in process	true
+unit_description_short_texts_text_hv_unit_defenders_of_earth_might	work in process	true
+unit_description_short_texts_text_hv_unit_yellow_dragons	work in process	true
+unit_description_short_texts_text_hv_unit_azure_dragons	work in process	true
+unit_description_short_texts_text_hv_unit_pearl_dragons	work in process	true
+unit_description_short_texts_text_hv_unit_onyx_dragons	work in process	true
+unit_description_short_texts_text_hv_unit_jade_dragons	work in process	true
+unit_description_short_texts_text_hv_unit_goshawk_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_qiang_axemen	work in process	true
+unit_description_short_texts_text_hv_unit_qiang_archers	work in process	true
+unit_description_short_texts_text_hv_unit_qiang_ji_infantry	work in process	true
+unit_description_short_texts_text_hv_unit_qiang_spear_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_qiang_elite_warrior_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_qiang_elite_ranger_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_wuhuan_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_wuhuan_barded_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_xiongnu_archer_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_xiongnu_barded_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_sogd_warriors	work in process	true
+unit_description_short_texts_text_hv_unit_sogd_barded_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_shanyue_warriors	work in process	true
+unit_description_short_texts_text_hv_unit_shanyue_remnants	work in process	true
+unit_description_short_texts_text_hv_unit_local_noble_buqu_infantry	work in process	true
+unit_description_short_texts_text_hv_unit_local_noble_buqu_archers	work in process	true
+unit_description_short_texts_text_hv_unit_local_noble_buqu_spearmen	work in process	true
+unit_description_short_texts_text_hv_unit_local_noble_buqu_raider_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_local_noble_elite_archers	work in process	true
+unit_description_short_texts_text_hv_unit_trebuchet	work in process	true
+unit_description_short_texts_text_hv_unit_multiple_bolt_crossbow	work in process	true
+unit_description_short_texts_text_hv_unit_han_captain	work in process	true
+unit_description_short_texts_text_hv_unit_ytr_captain	work in process	true
+unit_description_short_texts_text_hv_unit_bandits_captain	work in process	true
+unit_description_short_texts_text_hv_unit_jianan_crossbowmen_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_palace_guards	work in process	true
+unit_description_short_texts_text_hv_unit_dan_yang_spearmen	work in process	true
+unit_description_short_texts_text_hv_unit_dan_yang_archers	work in process	true
+unit_description_short_texts_text_hv_unit_mercenary_captain	work in process	true
+unit_description_short_texts_text_hv_unit_jianan_crossbowmen	work in process	true
+unit_description_short_texts_text_hv_unit_jianan_rep_crossbowmen	work in process	true
+unit_description_short_texts_text_hv_unit_black_mountain_bandits_javelineer	work in process	true
+unit_description_short_texts_text_hv_unit_qiang_javelineer	work in process	true
+unit_description_short_texts_text_hv_unit_xiongnu_javelineer	work in process	true
+unit_description_short_texts_text_hv_unit_shanyue_javelineer	work in process	true
+unit_description_short_texts_text_hv_unit_bomb_thrower	work in process	true
+unit_description_short_texts_text_hv_unit_spice_guard	work in process	true
+unit_description_short_texts_text_hv_unit_warrior_monks	work in process	true
+unit_description_short_texts_text_hv_unit_white_tiger_warriors	work in process	true
+unit_description_short_texts_text_hv_unit_mercenary_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_mercenary_infantry	work in process	true
+unit_description_short_texts_text_hv_unit_mercenary_archers	work in process	true
+unit_description_short_texts_text_hv_unit_juggernaut	work in process	true
+unit_description_short_texts_text_hv_unit_hidden_snakes	work in process	true
+unit_description_short_texts_text_hv_unit_rapid_tigers	work in process	true
+unit_description_short_texts_text_hv_unit_hebei_spearmen	work in process	true
+unit_description_short_texts_text_hv_unit_hebei_sword_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_xianbei_archer_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_militia_2h_axemen	work in process	true
+unit_description_short_texts_text_hv_unit_hidden_2h_spearmen	work in process	true
+unit_description_short_texts_text_hv_unit_nanman_axe_defectors	work in process	true
+unit_description_short_texts_text_hv_unit_nanman_spear_defectors	work in process	true
+unit_description_short_texts_text_hv_unit_nanman_crossbow_defectors	work in process	true
+unit_description_short_texts_text_hv_unit_nanman_cavalry_defectors	work in process	true
+unit_description_short_texts_text_hv_unit_nanman_southern_foreign_rangers	work in process	true
+unit_description_short_texts_text_hv_unit_nanman_southern_foreign_warriors	work in process	true
+unit_description_short_texts_text_hv_unit_nanman_southern_shield_bearers	work in process	true
+unit_description_short_texts_text_hv_unit_bandits_fanatics	work in process	true
+unit_description_short_texts_text_hv_unit_bandits_heroic_outlaws	work in process	true
+unit_description_short_texts_text_hv_unit_bandits_drifting_warmongers	work in process	true
+unit_description_short_texts_text_hv_unit_bandits_children_of_the_forest	work in process	true
+unit_description_short_texts_text_hv_unit_imperial_guards	work in process	true

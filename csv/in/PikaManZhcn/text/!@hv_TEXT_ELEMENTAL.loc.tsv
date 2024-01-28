@@ -1,0 +1,18 @@
+key	text	tooltip
+#Loc;1;text/!@hv_TEXT_ELEMENTAL.loc		
+effects_description_hv_effect_elemental_authority_campaign_sight	战役地图视野 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_elemental_cunning_campaign_supply	军事物资补给 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_elemental_expertise_melee_defence	人物近战回避 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_elemental_instinct_melee_attack	人物近战命中率 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_elemental_resolve_health	人物生命值 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_elemental_authority_cavalry_missile_resistance	骑兵远程抗性[[b]]%+n%[[/b]]	true
+effects_description_hv_effect_elemental_cunning_ranged_ammo	远程部队矢石量 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_elemental_expertise_attack_rate	近战步兵近战攻击速率 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_elemental_instinct_cavalry_charge_bonus	骑兵冲锋加成 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_elemental_resolve_spear_weapon_damage	持戟步兵近战伤害 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_elemental_authority_satisfaction	全人物满意度 [[b]]%+n[[/b]]	true
+effects_description_hv_effect_elemental_characters_experience_bonus	人物经验[[b]]%+n%[[/b]]	true
+effects_description_hv_effect_elemental_expertise_corruption	腐败 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_elemental_instinct_redeployment_cost	重新部署成本 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_elemental_resolve_food_mod	粮食生产 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_elemental_resolve_health_bodyguard	将领卫队规模[[b]]%+n%[[/b]]	true

@@ -1,0 +1,11 @@
+key	text	tooltip
+#Loc;1;text/!@hv_TEXT_ETC.loc		
+effect_bundles_localised_description_hv_pacify_penalty_yuan_shao	围城成功后，我军夺得了军事物资补给。	true
+effect_bundles_localised_description_hv_pacify_penalty	消耗军事物资以稳定占领的据点。	true
+effects_description_hv_effect_food_upkeep_army	粮食配给 [[b]]％+ n [[/ b]]	true
+effects_description_hv_effect_siege_engine_number	攻城塔 %n (攻城势盛)	true
+effects_description_hv_effect_yuan_officer_level_1	解锁部队：袁氏民兵	true
+effects_description_hv_effect_yuan_officer_level_2	解锁部队：袁氏正规军	true
+effects_description_hv_effect_yuan_officer_level_3	解锁部队：袁氏精锐部队	true
+unit_stat_localisations_tooltip_text_scalar_bracing	[[b]]冲锋抗性[[/b]]\n\n决定该部队能承受多大程度的敌军冲锋。此作用于该单位被冲锋时。	true
+random_localisation_strings_string_resistance_fire_tooltip	火焰抗性：％d %% ||降低火焰造成的伤害数值。	true

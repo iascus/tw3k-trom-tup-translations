@@ -1,0 +1,10 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_skills_skill_ability_wu_brave.loc		
+character_skills_localised_description_hv_skill_ability_wu_brave	Poets will sing about today.	true
+character_skills_localised_name_hv_skill_ability_wu_brave	Courage of Eastern Wu	true
+effects_description_hv_effect_unlock_wu_brave	Ability: Courage of Eastern Wu	true
+special_ability_phases_onscreen_name_hv_ability_wu_brave	Courage of Eastern Wu	true
+unit_abilities_onscreen_name_hv_ability_wu_brave	Courage of Eastern Wu	true
+unit_abilities_tooltip_text_hv_ability_wu_brave	Poets will sing about today.	true
+unit_ability_types_localised_description_hv_ability_wu_brave	Courage of Eastern Wu	true
+unit_ability_types_onscreen_name_hv_ability_wu_brave	Passive Buff	true

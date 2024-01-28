@@ -1,0 +1,15 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_region_army.loc		
+effect_bundles_localised_title_hv_effect_bundle_xiliang_army_region	西凉军起源地	true
+effect_bundles_localised_title_hv_effect_bundle_jingchou_army_region	荆楚兵起源地	true
+effect_bundles_localised_title_hv_effect_bundle_danyang_army_region	丹阳兵起源地	true
+effect_bundles_localised_title_hv_effect_bundle_ironfist_army_region	铁拳骑兵起源地	true
+effects_description_hv_effect_dummy_xiliang_army_region	占据时可获得西凉军校尉	true
+effects_description_hv_effect_replenishment_xiliang_army	西凉部队补员速率 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_dummy_jingchou_army_region	占据时可获得荆楚虎符	true
+effects_description_hv_effect_replenishment_jingchou_army	荆楚部队补员速率 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_dummy_danyang_army_region	占据时可获得丹阳虎符	true
+effects_description_hv_effect_replenishment_danyang_army	丹阳部队补员速率 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_dummy_ironfist_army_region	占据时可解锁：铁拳骑兵	true
+effects_description_hv_effect_replenishment_ironfist_army	铁拳骑兵部队补员速率 [[b]]%+n%[[/b]]	true
+effect_bundles_localised_title_hv_dlc07_zheng_jiang_bundle	生存本能	true

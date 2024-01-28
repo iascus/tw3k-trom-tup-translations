@@ -1,0 +1,238 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_events.loc		
+incidents_localised_title_hv_event_cao_cao_qingzhou	Qingzhou Troops	true
+incidents_localised_description_hv_event_cao_cao_qingzhou	The yellow turban warband is crushed. Hailing from Qingzhou, the survivors offer their servitude. Cao Cao gathers them under his banner and dubs them Qingzhou Troops.	true
+campaign_payload_ui_details_description_hv_event_cao_cao_qingzhou	You may now recruit {{tr:hv_unit_qingzhou_hand_ji_infantry}}, {{tr:hv_unit_qingzhou_2h_axe_infantry}}, {{tr:hv_unit_qingzhou_raider_cavalry}}.	true
+campaign_payload_ui_details_description_dummy_hv_cao_cao_qingzhoubing	Perhaps you can bring them into your fold...	true
+missions_localised_description_hv_mission_cao_cao_gains_qingzhoubing	A yellow turban warband has invaded your territory. You must defeat them.	true
+missions_localised_title_hv_mission_cao_cao_gains_qingzhoubing	Yellow Turban Warband	true
+incidents_localised_title_hv_event_zhuge_liang_yuanrong	Yuan Rong Crossbow	true
+incidents_localised_description_hv_event_zhuge_liang_yuanrong	Zhuge Liang has brilliantly engineered a new weapon. It is a crossbow that fires several bolts simultaneously to overwhelm the enemy.	true
+campaign_payload_ui_details_description_hv_event_zhuge_liang_yuanrong	You may now recruit {{tr:hv_unit_yuan_rong_crossbowmen}}.	true
+incidents_localised_title_hv_event_qiang_penalty	Social Turmoil	true
+incidents_localised_title_hv_event_wuhuan_penalty	Social Turmoil	true
+incidents_localised_title_hv_event_xiongnu_penalty	Social Turmoil	true
+incidents_localised_title_hv_event_shanyue_penalty	Social Turmoil	true
+incidents_localised_description_hv_event_qiang_penalty	Cultural friction has caused inter-ethnic conflict between Qiang barbarians and Han settlers. The turmoil is pushing many to leave the region.	true
+incidents_localised_description_hv_event_wuhuan_penalty	Cultural friction has caused inter-ethnic conflict between Wuhuan barbarians and Han settlers. The turmoil is pushing many to leave the region.	true
+incidents_localised_description_hv_event_xiongnu_penalty	Cultural friction has caused inter-ethnic conflict between Xiongnu barbarians and Han settlers. The turmoil is pushing many to leave the region.	true
+incidents_localised_description_hv_event_shanyue_penalty	Cultural friction has caused inter-ethnic conflict between Shanyue barbarians and Han settlers. The turmoil is pushing many to leave the region.	true
+effect_bundles_localised_title_hv_script_effect_bundle_qiang_penalty	Social Turmoil	true
+effect_bundles_localised_title_hv_script_effect_bundle_wuhuan_penalty	Social Turmoil	true
+effect_bundles_localised_title_hv_script_effect_bundle_xiongnu_penalty	Social Turmoil	true
+effect_bundles_localised_title_hv_script_effect_bundle_shanyue_penalty	Social Turmoil	true
+effect_bundles_localised_description_hv_script_effect_bundle_qiang_penalty	Cultural friction has caused inter-ethnic conflict between Qiang barbarians and Han settlers. The turmoil is pushing many to leave the region.	true
+effect_bundles_localised_description_hv_script_effect_bundle_wuhuan_penalty	Cultural friction has caused inter-ethnic conflict between Wuhuan barbarians and Han settlers. The turmoil is pushing many to leave the region.	true
+effect_bundles_localised_description_hv_script_effect_bundle_xiongnu_penalty	Cultural friction has caused inter-ethnic conflict between Xiongnu barbarians and Han settlers. The turmoil is pushing many to leave the region.	true
+effect_bundles_localised_description_hv_script_effect_bundle_shanyue_penalty	Cultural friction has caused inter-ethnic conflict between Shanyue barbarians and Han settlers. The turmoil is pushing many to leave the region.	true
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_white_tiger_01FIRST	Investigate	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_white_tiger_01SECOND	Ignore	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_white_tiger_01FIRST	It's hard to believe, but it might be worth investigating personally.	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_white_tiger_01SECOND	It must be bullshit.	false
+dilemmas_localised_description_hv_dilemma_white_tiger_01	There's a rumor about a nearby village. Each night, a huge monster terrorises the peasants. The villagers seek a hero to comb the mountains and drive out the beast.	false
+dilemmas_localised_title_hv_dilemma_white_tiger_01	Rumors about a monster	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_white_tiger_02FIRST	Confront the large white tiger	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_white_tiger_02SECOND	Turn back	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_white_tiger_02FIRST	You can't go back empty-handed.	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_white_tiger_02SECOND	You agree with your men and prepare to descend.	false
+dilemmas_localised_description_hv_dilemma_white_tiger_02	A few days after you and your men began searching the mountains, you come across an incredible sight. The den of a large white tiger and its family. The men are intimidated by its size and implore you to go back. You feel as if the massive tiger is staring at you.	false
+dilemmas_localised_title_hv_dilemma_white_tiger_02	Encounter white tigers	false
+campaign_payload_ui_details_description_hv_event_tiger_hunt_white_tiger_unlock	You may now recruit {{tr:hv_unit_white_tiger_warriors}}	false
+campaign_payload_ui_details_description_hv_event_tiger_hunt_white_tiger_cap	{{tr:hv_unit_white_tiger_warriors}} for recruitment: +1	false
+campaign_payload_ui_details_description_hv_event_tiger_tracking	Looking for the monster...	false
+incidents_localised_title_hv_event_white_tiger_1	A successful hunt	false
+incidents_localised_title_hv_event_white_tiger_2	A careful decision	false
+incidents_localised_description_hv_event_white_tiger_1	After an epic struggle, you slay the enormous white tiger. Then, unexpectedly, the other tigers prostrate themselves as if submitting to your might! These white tigers don't seem to be ordinary beasts.	false
+incidents_localised_description_hv_event_white_tiger_2	You give up the hunt and return. However, for reasons unknown, the monster attacks stopped.	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_buddaFIRST	Support them	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_buddaSECOND	Ignore them	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_buddaFIRST	These Buddhists are welcome here.	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_buddaSECOND	It's best to ignore these annoying preachers.	false
+dilemmas_localised_description_hv_dilemma_budda	A group of unusual men sporting shaved heads disembark from a ship.  They claim to have journeyed from distant lands to spread the teachings of Buddha. Perhaps it will be worth supporting them?	false
+dilemmas_localised_title_hv_dilemma_budda	The arrival of Buddhism	false
+campaign_payload_ui_details_description_hv_event_budda_unlock	You may now recruit {{tr:hv_unit_warrior_monks}}	false
+incidents_localised_title_hv_event_follower_officer	Commission	false
+incidents_localised_description_hv_event_follower_officer	This age of strife breeds men with a talent for warfare. A follower who has recently joined the faction can assume the role of managing an exclusive unit.	false
+		false
+incidents_localised_title_hv_incident_sogd	Sogidan Merchants Approach	false
+incidents_localised_description_hv_incident_sogd	Sogdians from the west has been spotted entering our borders. We will be able to purchase fine goods or hire Sogd mercenaries soon.	false
+dilemmas_localised_title_hv_dilemma_sogd	Sogdian Merchants	false
+dilemmas_localised_description_hv_dilemma_sogd	Indeed, the goods brought by the western merchants are diverse, with many rare and valuable items. Furthermore, the mercenaries escorting them look like natural warriors.	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_sogdTHIRD	You decide not to avail yourself of their wares.	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_sogdFOURTH	You are rather taken with a peculiar sword.	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_sogdSECOND	You are rather taken with a fine steed.	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_sogdFIRST	You hire a Sogdian mercenary group.	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_sogdTHIRD	Buy nothing	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_sogdFOURTH	Purchase a western sword	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_sogdSECOND	Purchase a horse	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_sogdFIRST	Hire the Sogdian mercenaries	false
+incidents_localised_title_hv_incident_cai_yan	The Kidnapped Girl	false
+incidents_localised_description_hv_incident_cai_yan	Your messengers report a remarkable story. A trader spotted a Han woman living amongst the Xiongnu and identified her as Cai Yan, the daughter of the grand scholar Cai Yong. It seems she was forced to marry a chieftain of the Xiongnu. Perhaps someone could convince this chieftain to free Cai Yan. One of your scouts has already left to investigate...	false
+dilemmas_localised_title_hv_dilemma_cai_yan	Prisoner Negotiation	false
+dilemmas_localised_description_hv_dilemma_cai_yan	We have contacted the Xiongnu and verified that the kidnapped woman is indeed Cai Yan. She has become the concubine of a Xiongnu chieftain. However, the Xiongnu offer to release Cai Yan for a significant sum of gold.	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_cai_yanSECOND	You do not make deals with barbarians.	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_cai_yanFIRST	Cai Yan is free once more.	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_cai_yanSECOND	Refuse	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_cai_yanFIRST	Accept	false
+		false
+incidents_localised_title_hv_incident_xiliang_army	Warriors of Xiliang	false
+incidents_localised_description_hv_incident_xiliang_army	A Xiliang colonel has joined your faction.	false
+campaign_payload_ui_details_description_hv_incident_xiliang_army	You may now recruit Xiliang units	false
+incidents_localised_title_hv_incident_jingchou_army	Warriors of Jingchu	false
+incidents_localised_description_hv_incident_jingchou_army	You have acquired a tally that grants its bearer the authority to command Jingchu troops.	false
+campaign_payload_ui_details_description_hv_incident_jingchou_army	You may now recruit Jingchu units	false
+incidents_localised_title_hv_incident_danyang_army	Warriors of Danyang	false
+incidents_localised_description_hv_incident_danyang_army	You have acquired a tally that grants its bearer the authority to command Danyang troops.	false
+campaign_payload_ui_details_description_hv_incident_danyang_army	You may now recruit Danyang units	false
+incidents_localised_title_hv_incident_ironfist_army	Fearsome Cavalry	false
+incidents_localised_description_hv_incident_ironfist_army	We have gathered warriors from nearby nomadic peoples to form a powerful cavalry unit. These formidable cataphracts will crush your enemies.	false
+campaign_payload_ui_details_description_hv_incident_ironfist_army	You may now recruit Ironfist Cavalry	false
+incidents_localised_title_hv_incident_education	Academic Advancement	false
+incidents_localised_description_hv_incident_education	Thanks to your patronage of scholars and men of talent, your officers have made progress on the path to enlightenment.	false
+campaign_payload_ui_details_description_hv_incident_education	A few of your officers have gained additional experience.	false
+		false
+incidents_localised_title_hv_event_follower_officer_yuan	Commission	false
+incidents_localised_description_hv_event_follower_officer_yuan	This age of strife breeds men with a talent for warfare. A follower who has recently joined the faction can assume the role of managing an exclusive unit.	false
+incidents_localised_title_hv_event_follower_officer_white_horse	Commission	false
+incidents_localised_description_hv_event_follower_officer_white_horse	This age of strife breeds men with a talent for warfare. A follower who has recently joined the faction can assume the role of managing an exclusive unit.	false
+incidents_localised_title_hv_event_follower_officer_yuan_1_forced	Commission	false
+incidents_localised_description_hv_event_follower_officer_yuan_1_forced	This age of strife breeds men with a talent for warfare. A follower who has recently joined the faction can assume the role of managing an exclusive unit.	false
+incidents_localised_title_hv_event_follower_officer_white_horse_forced	Commission	false
+incidents_localised_description_hv_event_follower_officer_white_horse_forced	This age of strife breeds men with a talent for warfare. A follower who has recently joined the faction can assume the role of managing an exclusive unit.	false
+incidents_localised_title_hv_event_follower_officer_yuan_2_forced	Commission	false
+incidents_localised_description_hv_event_follower_officer_yuan_2_forced	This age of strife breeds men with a talent for warfare. A follower who has recently joined the faction can assume the role of managing an exclusive unit.	false
+		false
+incidents_localised_title_hv_incident_chunyu_qiong	Chunyu Qiong sobers up	false
+incidents_localised_description_hv_incident_chunyu_qiong	Chunyu Qiong finally came to his senses! He is no longer a drunkard but a general who can lead an army.	false
+effect_bundles_localised_title_hv_script_effect_bundle_yuan_northern	Northern Army Captains	false
+effect_bundles_localised_description_hv_script_effect_bundle_yuan_northern	Unlocks elite Northern Army Captain Retinues	false
+		false
+incidents_localised_description_hv_northern_army_unlocked_gongsun_zan	Following your recent success, the captain of the Northern Army has come to pledge his devotion to you. He brings with him the might of the professional soldiers he commands.	false
+incidents_localised_description_hv_northern_army_unlocked_gongsun_zan_ai	The captain of the centre, inspector of the professional Northern Army, has pledged his allegiance to Gongsun Zan. He now has a formidable force at his disposal.	false
+incidents_localised_description_hv_northern_army_unlocked_dong_zhuo	Following your recent success, the captain of the Northern Army has come to pledge his devotion to you. He brings with him the might of the professional soldiers he commands.	false
+incidents_localised_description_hv_northern_army_unlocked_dong_zhuo_ai	The captain of the centre, inspector of the professional Northern Army, has pledged his allegiance to Dong Zhuo. He now has a formidable force at his disposal.	false
+incidents_localised_description_hv_northern_army_unlocked_yuan_shu	Following your recent success, the captain of the Northern Army has come to pledge his devotion to you. He brings with him the might of the professional soldiers he commands.	false
+incidents_localised_description_hv_northern_army_unlocked_yuan_shu_ai	The captain of the centre, inspector of the professional Northern Army, has pledged his allegiance to Yuan Shu. He now has a formidable force at his disposal.	false
+incidents_localised_title_hv_northern_army_unlocked_gongsun_zan	The Northern Army	false
+incidents_localised_title_hv_northern_army_unlocked_gongsun_zan_ai	The Northern Army	false
+incidents_localised_title_hv_northern_army_unlocked_dong_zhuo	The Northern Army	false
+incidents_localised_title_hv_northern_army_unlocked_dong_zhuo_ai	The Northern Army	false
+incidents_localised_title_hv_northern_army_unlocked_yuan_shu	The Northern Army	false
+incidents_localised_title_hv_northern_army_unlocked_yuan_shu_ai	The Northern Army	false
+		false
+dilemmas_localised_title_hv_dilemma_lu_ji_dlc07	The Wandering Survivors	false
+dilemmas_localised_description_hv_dilemma_lu_ji_dlc07	A shabby warband requests to join your faction. After Lu Bu's defeat, his daughter Lu Ji seems to have been leading the survivors. However, granting them sanctuary may cause their enemies to come after us.	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_lu_ji_dlc07SECOND	Refuse	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_lu_ji_dlc07FIRST	Accept	false
+dilemmas_localised_title_hv_dilemma_ji_ling_zhang_xun_dlc07	The Wandering Survivors	false
+dilemmas_localised_description_hv_dilemma_ji_ling_zhang_xun_dlc07	A shabby warband requests to join your faction. After Yuan Shu's defeat, his generals Zhang Xun, Ji Ling and Yan Xiang to have been leading the survivors. However, granting them sanctuary may cause their enemies to come after us.	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_ji_ling_zhang_xun_dlc07SECOND	Refuse	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_ji_ling_zhang_xun_dlc07FIRST	Accept	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_lu_ji_dlc07SECOND	No one wants troublemakers.	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_lu_ji_dlc07FIRST	You allow them to join your cause. 	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_ji_ling_zhang_xun_dlc07SECOND	No one wants troublemakers.	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_ji_ling_zhang_xun_dlc07FIRST	You allow them to join your cause. 	false
+		false
+incidents_localised_title_hv_northern_army_unlocked_yuan_shao_last	The Northern Army	false
+incidents_localised_description_hv_northern_army_unlocked_yuan_shao_last	Following your recent success, the captain of the Northern Army has come to pledge his devotion to you. He brings with him the might of the professional soldiers he commands.	false
+campaign_payload_ui_details_description_dummy_hv_mission_northern_mission	A regiment of the Northern Army will join your faction.	false
+missions_localised_description_hv_mission_northern_yuan_shao_01	The path to prominence in these turbulent times is by the sword! Win battles to demonstrate your capability.	false
+missions_localised_title_hv_mission_northern_yuan_shao_01	Military Talent	false
+missions_localised_description_hv_mission_northern_yuan_shao_02	Wars are a costly endeavour and one cannot hope to end this chaos without a sizable treasury. Show all under heaven that you possess China's wealth.	false
+missions_localised_title_hv_mission_northern_yuan_shao_02	Accumulating Wealth	false
+missions_localised_description_hv_mission_northern_yuan_shao_03	Cement your rule with legitimacy! Build an Imperial City that will be the envy of other warlords. All under heaven will look to you for leadership.	false
+missions_localised_title_hv_mission_northern_yuan_shao_03	Towards Supremacy	false
+missions_localised_description_hv_mission_northern_yuan_shu_01	The path to prominence in these turbulent times is by the sword! Win battles to demonstrate your capability.	false
+missions_localised_title_hv_mission_northern_yuan_shu_01	Military Talent	false
+missions_localised_description_hv_mission_northern_yuan_shu_02	Wars are a costly endeavour and one cannot hope to end this chaos without a sizable treasury. Show all under heaven that you possess China's wealth.	false
+missions_localised_title_hv_mission_northern_yuan_shu_02	Accumulating Wealth	false
+missions_localised_description_hv_mission_northern_yuan_shu_03	Cement your rule with legitimacy! Build an Imperial City that will be the envy of other warlords. All under heaven will look to you for leadership.	false
+missions_localised_title_hv_mission_northern_yuan_shu_03	Towards Supremacy	false
+missions_localised_description_hv_mission_northern_cao_cao_01	The path to prominence in these turbulent times is by the sword! Win battles to demonstrate your capability.	false
+missions_localised_title_hv_mission_northern_cao_cao_01	Military Talent	false
+missions_localised_description_hv_mission_northern_cao_cao_02	Wars are a costly endeavour and one cannot hope to end this chaos without a sizable treasury. Show all under heaven that you possess China's wealth.	false
+missions_localised_title_hv_mission_northern_cao_cao_02	Accumulating Wealth	false
+missions_localised_description_hv_mission_northern_cao_cao_03	Cement your rule with legitimacy! Build an Imperial City that will be the envy of other warlords. All under heaven will look to you for leadership.	false
+missions_localised_title_hv_mission_northern_cao_cao_03	Towards Supremacy	false
+missions_localised_description_hv_mission_northern_gongsun_zan_01	The path to prominence in these turbulent times is by the sword! Win battles to demonstrate your capability.	false
+missions_localised_title_hv_mission_northern_gongsun_zan_01	Military Talent	false
+missions_localised_description_hv_mission_northern_gongsun_zan_02	Wars are a costly endeavour and one cannot hope to end this chaos without a sizable treasury. Show all under heaven that you possess China's wealth.	false
+missions_localised_title_hv_mission_northern_gongsun_zan_02	Accumulating Wealth	false
+missions_localised_description_hv_mission_northern_gongsun_zan_03	Cement your rule with legitimacy! Build an Imperial City that will be the envy of other warlords. All under heaven will look to you for leadership.	false
+missions_localised_title_hv_mission_northern_gongsun_zan_03	Towards Supremacy	false
+missions_localised_description_hv_mission_northern_dong_zhuo_01	The path to prominence in these turbulent times is by the sword! Win battles to demonstrate your capability.	false
+missions_localised_title_hv_mission_northern_dong_zhuo_01	Military Talent	false
+missions_localised_description_hv_mission_northern_dong_zhuo_02	Wars are a costly endeavour and one cannot hope to end this chaos without a sizable treasury. Show all under heaven that you possess China's wealth.	false
+missions_localised_title_hv_mission_northern_dong_zhuo_02	Accumulating Wealth	false
+missions_localised_description_hv_mission_northern_dong_zhuo_03	Cement your rule with legitimacy! Build an Imperial City that will be the envy of other warlords. All under heaven will look to you for leadership.	false
+missions_localised_title_hv_mission_northern_dong_zhuo_03	Towards Supremacy	false
+incidents_localised_description_hv_northern_army_unlocked_liu_chong	Following your recent success, the captain of the Northern Army has come to pledge his devotion to you. He brings with him the might of the professional soldiers he commands.	false
+incidents_localised_title_hv_northern_army_unlocked_liu_chong	The Northern Army	false
+missions_localised_description_hv_mission_northern_liu_chong_01	The path to prominence in these turbulent times is by the sword! Win battles to demonstrate your capability.	false
+missions_localised_title_hv_mission_northern_liu_chong_01	Military Talent	false
+missions_localised_description_hv_mission_northern_liu_chong_02	Wars are a costly endeavour and one cannot hope to end this chaos without a sizable treasury. Show all under heaven that you possess China's wealth.	false
+missions_localised_title_hv_mission_northern_liu_chong_02	Accumulating Wealth	false
+missions_localised_description_hv_mission_northern_liu_chong_03	Cement your rule with legitimacy! Build an Imperial City that will be the envy of other warlords. All under heaven will look to you for leadership.	false
+missions_localised_title_hv_mission_northern_liu_chong_03	Towards Supremacy	false
+		false
+incidents_localised_title_hv_event_coin_confuse_1	The New Coin Causes Confusion!	false
+incidents_localised_title_hv_event_coin_confuse_2	The New Coin Causes Confusion!	false
+incidents_localised_title_hv_event_coin_confuse_3	The New Coin Causes Confusion!	false
+incidents_localised_description_hv_event_coin_confuse_1	All economic activities have been hampered by the minting of a new coin. We have no choice but to wait for merchants to adjust to the new standard.	false
+incidents_localised_description_hv_event_coin_confuse_2	We've run into problems purchasing grain with the new coin. We have no choice but to wait for farmers to adjust to the new standard.	false
+incidents_localised_description_hv_event_coin_confuse_3	We've run into problems paying the troops with the new coin. We have no choice but to wait for soldiers to adjust to the new standard.	false
+		false
+incidents_localised_title_hv_northern_army_unlocked_yuan_shao_mid	The Northern Army	false
+incidents_localised_title_hv_northern_army_unlocked_cao_cao_mid	The Northern Army	false
+incidents_localised_title_hv_northern_army_unlocked_gongsun_zan_mid	The Northern Army	false
+incidents_localised_title_hv_northern_army_unlocked_dong_zhuo_mid	The Northern Army	false
+incidents_localised_title_hv_northern_army_unlocked_yuan_shu_mid	The Northern Army	false
+incidents_localised_title_hv_northern_army_unlocked_liu_chong_mid	The Northern Army	false
+incidents_localised_title_hv_northern_army_unlocked_gongsun_zan_last	The Northern Army	false
+incidents_localised_title_hv_northern_army_unlocked_dong_zhuo_last	The Northern Army	false
+incidents_localised_title_hv_northern_army_unlocked_yuan_shu_last	The Northern Army	false
+incidents_localised_title_hv_northern_army_unlocked_liu_chong_last	The Northern Army	false
+incidents_localised_title_hv_northern_army_unlocked_cao_cao_last	The Northern Army	false
+incidents_localised_description_hv_northern_army_unlocked_yuan_shao_mid	Following your recent success, the captain of the Northern Army has come to pledge his devotion to you. He brings with him the might of the professional soldiers he commands.	false
+incidents_localised_description_hv_northern_army_unlocked_cao_cao_mid	Following your recent success, the captain of the Northern Army has come to pledge his devotion to you. He brings with him the might of the professional soldiers he commands.	false
+incidents_localised_description_hv_northern_army_unlocked_gongsun_zan_mid	Following your recent success, the captain of the Northern Army has come to pledge his devotion to you. He brings with him the might of the professional soldiers he commands.	false
+incidents_localised_description_hv_northern_army_unlocked_dong_zhuo_mid	Following your recent success, the captain of the Northern Army has come to pledge his devotion to you. He brings with him the might of the professional soldiers he commands.	false
+incidents_localised_description_hv_northern_army_unlocked_yuan_shu_mid	Following your recent success, the captain of the Northern Army has come to pledge his devotion to you. He brings with him the might of the professional soldiers he commands.	false
+incidents_localised_description_hv_northern_army_unlocked_liu_chong_mid	Following your recent success, the captain of the Northern Army has come to pledge his devotion to you. He brings with him the might of the professional soldiers he commands.	false
+incidents_localised_description_hv_northern_army_unlocked_gongsun_zan_last	Following your recent success, the captain of the Northern Army has come to pledge his devotion to you. He brings with him the might of the professional soldiers he commands.	false
+incidents_localised_description_hv_northern_army_unlocked_dong_zhuo_last	Following your recent success, the captain of the Northern Army has come to pledge his devotion to you. He brings with him the might of the professional soldiers he commands.	false
+incidents_localised_description_hv_northern_army_unlocked_yuan_shu_last	Following your recent success, the captain of the Northern Army has come to pledge his devotion to you. He brings with him the might of the professional soldiers he commands.	false
+incidents_localised_description_hv_northern_army_unlocked_liu_chong_last	Following your recent success, the captain of the Northern Army has come to pledge his devotion to you. He brings with him the might of the professional soldiers he commands.	false
+incidents_localised_description_hv_northern_army_unlocked_cao_cao_last	Following your recent success, the captain of the Northern Army has come to pledge his devotion to you. He brings with him the might of the professional soldiers he commands.	false
+		false
+dilemmas_localised_title_hv_dilemma_northern_army_intro	Army of the Great Banner	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_northern_army_introFIRST	Completing these missions will gather northern colonels to your cause.	false
+dilemmas_localised_description_hv_dilemma_northern_army_intro	None of the other warlords in China are as noble or accomplished as you are. Bring order to chaos and officers who were once loyal to the Han Dynasty will flock to your banner. Defeat your rivals and accumulate wealth to expand your power.	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_northern_army_introFIRST	Raise your reputation! 	false
+campaign_payload_ui_details_description_hv_dilemma_northern_army_intro	Complete missions to bolster your faction!	false
+campaign_payload_ui_details_description_hv_dilemma_lu_bu_legacy	Lu Bu's army follows your faction.	false
+campaign_payload_ui_details_description_hv_dilemma_yuan_shu_legacy	Yuan Shu's army follows your faction.	false
+campaign_payload_ui_details_description_hv_event_white_tiger	Yan Baihu may now recruit {{tr:hv_unit_white_tiger_warriors}}.	true
+		true
+dilemmas_localised_title_hv_dilemma_dong_bai_dlc05	The Last Kin of the Dong Zhuo	false
+dilemmas_localised_description_hv_dilemma_dong_bai_dlc05	A group of beggars appears before you. Among them, a girl dressed nicely comes forward and bows. The girl identifies herself as Dong Bai, the last kin of the tyrant Dong Zhuo, and begs you to take her.	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc05SECOND	Kill her	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc05FIRST	Take her	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_dong_bai_dlc05SECOND	No one wants troublemakers.	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_dong_bai_dlc05FIRST	There is no sin against this innocent girl.	false
+dilemmas_localised_title_hv_dilemma_dong_bai_dlc07	The Last Kin of the Dong Zhuo	true
+dilemmas_localised_description_hv_dilemma_dong_bai_dlc07	A group of beggars appears before you. Among them, a girl dressed nicely comes forward and bows. The girl identifies herself as Dong Bai, the last kin of the tyrant Dong Zhuo, and begs you to take her.	true
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc07SECOND	Kill her	true
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc07FIRST	Take her	true
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_dong_bai_dlc07SECOND	No one wants troublemakers.	true
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_dong_bai_dlc07FIRST	There is no sin against this innocent girl.	true
+campaign_payload_ui_details_description_hv_dilemma_dongbai	Character Joins: Dong Bai	false
+campaign_payload_ui_details_description_hv_dilemma_kill_dong_bai	The house of Dong is destroyed.	false
+incidents_localised_title_hv_incident_cai_yan_dlc05	The Kidnapped Girl	false
+incidents_localised_description_hv_incident_cai_yan_dlc05	Your messengers report a remarkable story. A trader spotted a Han woman living amongst the Xiongnu and identified her as Cai Yan, the daughter of the grand scholar Cai Yong. It seems she was forced to marry a chieftain of the Xiongnu. Perhaps someone could convince this chieftain to free Cai Yan. One of your scouts has already left to investigate...	false
+incidents_localised_title_hv_incident_cai_yan_dlc07	The Kidnapped Girl	false
+incidents_localised_description_hv_incident_cai_yan_dlc07	Your messengers report a remarkable story. A trader spotted a Han woman living amongst the Xiongnu and identified her as Cai Yan, the daughter of the grand scholar Cai Yong. It seems she was forced to marry a chieftain of the Xiongnu. Perhaps someone could convince this chieftain to free Cai Yan. One of your scouts has already left to investigate...	false
+		true
+incidents_localised_title_hv_incident_ytr_resurrection	The Yellow Turban Rises Again	true
+incidents_localised_description_hv_incident_ytr_resurrection	Once again the flames begin to burn. Now we are ready to destroy the Han dynasty. Our forces are strong, and the old comrades who had to live in hiding will also appear and respond to us. Let's make sure that Zhang Jue's unfulfilled dream come true.	true
+campaign_payload_ui_details_description_hv_incident_ytr_resurrection	Thousands of comrades across China will rise against oppression.	true

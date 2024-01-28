@@ -1,0 +1,31 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_unit_ui_group_VM.loc		
+ui_unit_groupings_tooltip_3k_dlc06_hero_nanman	Lead the Fight, Encourage, Support	true
+ui_unit_groupings_tooltip_3k_ytr_hero_healer	Lead the Fight, Encourage, Support	true
+ui_unit_groupings_tooltip_3k_ytr_hero_scholar	Lead the Fight, Encourage, Support	true
+ui_unit_groupings_tooltip_3k_ytr_hero_veteran	Lead the Fight, Encourage, Support	true
+ui_unit_groupings_tooltip_3k_main_hero_earth	Lead the Fight, Encourage, Support	true
+ui_unit_groupings_tooltip_3k_main_hero_fire	Lead the Fight, Encourage, Support	true
+ui_unit_groupings_tooltip_3k_main_hero_metal	Lead the Fight, Encourage, Support	true
+ui_unit_groupings_tooltip_3k_main_hero_strategist_water	Lead the Fight, Encourage, Support	true
+ui_unit_groupings_tooltip_3k_main_hero_wood	Lead the Fight, Encourage, Support	true
+		false
+ui_unit_group_parents_onscreen_name_hv_parent_group_melee_black	Common Melee Infantry	true
+ui_unit_group_parents_onscreen_name_hv_parent_group_spear_black	Common Polearm Infantry	true
+ui_unit_group_parents_onscreen_name_hv_parent_group_range_black	Common Ranged Infantry	true
+ui_unit_group_parents_onscreen_name_hv_parent_group_cavalry_black	Common Cavalry	true
+		false
+ui_unit_groupings_onscreen_3k_main_unit_axe_infantry_metal	Hafted Weapon Infantry (Captain)	false
+ui_unit_groupings_onscreen_3k_main_unit_polearm_cavalry_fire	Ji Cavalry (Captain)	false
+ui_unit_groupings_onscreen_3k_main_unit_polearm_infantry_wood	Ji Infantry (Captain)	false
+ui_unit_groupings_onscreen_3k_main_unit_ranged_infantry_water	Bow Infantry (Captain)	false
+ui_unit_groupings_onscreen_3k_main_unit_spear_infantry_wood	Spear Infantry (Captain)	false
+ui_unit_groupings_onscreen_3k_main_unit_sword_cavalry_earth	Sword Cavalry (Captain)	false
+ui_unit_groupings_onscreen_3k_main_unit_sword_infantry_metal	Sword Infantry (Captain)	false
+ui_unit_groupings_tooltip_3k_main_unit_axe_infantry_metal	Average Hit Rate, High Armour-Piercing Damage	true
+ui_unit_groupings_tooltip_3k_main_unit_polearm_cavalry_fire	Anti-Cavalry, Average Armour-Piercing Damage	true
+ui_unit_groupings_tooltip_3k_main_unit_polearm_infantry_wood	Anti-Cavalry, Average Armour-Piercing Damage	true
+ui_unit_groupings_tooltip_3k_main_unit_ranged_infantry_water	Long Range, Low Armour-Piercing Damage, Fast Reload	true
+ui_unit_groupings_tooltip_3k_main_unit_spear_infantry_wood	Anti-Cavalry, Low Armour-Piercing Damage	true
+ui_unit_groupings_tooltip_3k_main_unit_sword_cavalry_earth	Flank, Charge, Chase	true
+ui_unit_groupings_tooltip_3k_main_unit_sword_infantry_metal	Average Hit Rate, Average Armour-Piercing Damage	true

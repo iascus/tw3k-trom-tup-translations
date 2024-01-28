@@ -1,0 +1,19 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_effects_events.loc		
+effect_bundles_localised_title_hv_script_effect_bundle_white_tiger_cap	Training White Tigers	false
+effect_bundles_localised_title_hv_script_effect_bundle_yuan_shu_legacy	The Legacy of Yuan Shu	false
+effect_bundles_localised_title_hv_script_effect_bundle_lu_bu_legacy	The Legacy of Lu Bu	false
+effect_bundles_localised_description_hv_script_effect_bundle_white_tiger_cap	Powerful white tigers are with us. 	true
+effect_bundles_localised_description_hv_script_effect_bundle_yuan_shu_legacy	Remnants of Yuan Shu's faction have joined us. We may focus on military redeployment.	true
+effect_bundles_localised_description_hv_script_effect_bundle_lu_bu_legacy	Remnants of Lu Bu's faction have joined us. We may focus on military redeployment.	true
+		false
+effects_description_hv_dummy_effect_white_tiger_warriors_unlock	Unlocks unit for Yan Baihu: {{tr:hv_unit_white_tiger_warriors}}	false
+effects_description_hv_dummy_effect_hidden_snakes_unlock	Unlocks unit: {{tr:hv_unit_hidden_snakes}}	false
+effects_description_hv_dummy_effect_rapid_tigers_unlock	Unlocks unit: {{tr:hv_unit_rapid_tigers}}	false
+effects_description_hv_dummy_effect_enforcer_archers_unlock	Unlocks unit: {{tr:hv_unit_xiliang_elite_enforcers}}	false
+effects_description_hv_dummy_effect_enforcer_mounted_archers_unlock	Unlocks unit: {{tr:hv_unit_enforcer_archer_cavalry}}	false
+effect_bundles_localised_title_hv_script_effect_bundle_exodus	Lu Bu's Retinues	false
+effect_bundles_localised_description_hv_script_effect_bundle_exodus	Lu Bu's retinues want to join us quickly. We may  focus on military redeployment.	true
+		true
+effect_bundles_localised_title_hv_script_effect_bundle_dong_bai	The Last Kin of the Dong Zhuo	false
+effect_bundles_localised_description_hv_script_effect_bundle_dong_bai	No one welcomes them, and everyone cast doubt to your decision.	true

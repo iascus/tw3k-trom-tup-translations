@@ -1,0 +1,15 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_region_army.loc		
+effect_bundles_localised_title_hv_effect_bundle_xiliang_army_region	Home region of the Xiliang army	true
+effect_bundles_localised_title_hv_effect_bundle_jingchou_army_region	Home region of the Jingchu army	true
+effect_bundles_localised_title_hv_effect_bundle_danyang_army_region	Home region of the Danyang army	true
+effect_bundles_localised_title_hv_effect_bundle_ironfist_army_region	Home region of the Ironfist cavalry	true
+effects_description_hv_effect_dummy_xiliang_army_region	Colonel of the Xiliang Army can be earned when occupied	true
+effects_description_hv_effect_replenishment_xiliang_army	[[b]]%+n%[[/b]] replenishment for Xiliang units	true
+effects_description_hv_effect_dummy_jingchou_army_region	Jingchu troop tally can be earned when occupied	true
+effects_description_hv_effect_replenishment_jingchou_army	[[b]]%+n%[[/b]] replenishment for Jingchu units	true
+effects_description_hv_effect_dummy_danyang_army_region	Danyang troop tally can be earned when occupied	true
+effects_description_hv_effect_replenishment_danyang_army	[[b]]%+n%[[/b]] replenishment for Danyang units	true
+effects_description_hv_effect_dummy_ironfist_army_region	Ironfist Cavalry can be recruited when occupied	true
+effects_description_hv_effect_replenishment_ironfist_army	[[b]]%+n%[[/b]] replenishment for Ironfist Cavalry	true
+effect_bundles_localised_title_hv_dlc07_zheng_jiang_bundle	Survival Instinct 	true

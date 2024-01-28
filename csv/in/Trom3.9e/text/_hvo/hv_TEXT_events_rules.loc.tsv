@@ -1,0 +1,27 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_events_rules.loc		
+effect_bundles_localised_title_hv_script_effect_bundle_rule_of_virtue	The Rule of Virtue	true
+effect_bundles_localised_description_hv_script_effect_bundle_rule_of_virtue	"Enabling the people to nourish their living and mourn their dead, without any feeling against any, is the first step of the rule of virtue."	true
+effect_bundles_localised_title_hv_script_effect_bundle_rule_of_might	The Rule of Might	true
+effect_bundles_localised_description_hv_script_effect_bundle_rule_of_might	"...dividing up the empire, parcelling it out in fiefs to the various kings and marquises, he was hailed as the mighty conqueror..."	true
+effect_bundles_localised_description_hv_script_effect_bundle_rule_yet	Lost the throne!	true
+effect_bundles_localised_description_hv_script_effect_bundle_rule_yet	No one will follow a useless emperor. You know that, don't you?	true
+effects_description_hv_effect_dummy_protectors_recruitable	Unlocks Virtue Royal Guard units	true
+effects_description_hv_effect_dummy_imperial_recruitable	Unlocks Might Royal Guard units	true
+effects_description_hv_effect_dummy_protectors_not_recruitable	Locks Virtue Royal Guard units	true
+effects_description_hv_effect_dummy_imperial_not_recruitable	Locks Might Royal Guard units	true
+effects_description_hv_effect_rule_of_virtue_province_public_order_faction	[[b]]%+n[[/b]] {{tr:public_order}}	true
+effects_description_hv_effect_rule_of_virtue_economy_trade_power	[[b]]%+n%[[/b]] trade influence	true
+effects_description_hv_effect_rule_of_virtue_faction_diplomacy_mod	[[b]]%+n[[/b]] diplomatic relation with all factions	true
+effects_description_hv_effect_rule_of_might_character_salary	[[b]]%+n%[[/b]] character salary	true
+effects_description_hv_effect_rule_of_might_province_food_mod	[[b]]%+n%[[/b]] food production	true
+effects_description_hv_effect_rule_of_might_force_redeployment_cost	[[b]]%+n%[[/b]] redeployment cost	true
+effects_description_hv_effect_rule_of_might_building_construction_time_mod	[[b]]%+n[[/b]] construction time	true
+effects_description_hv_effect_rule_of_might_force_all_campaign_post_battle_loot_income	[[b]]%+n%[[/b]] income from looting settlements and post-battle loot	true
+effects_description_3k_main_dummy_effect_emperor_palace_guard	Unlocks elite royal guards	true
+dilemmas_localised_title_hv_dilemma_empire_rules	A New Era, A New Ruler.	true
+dilemmas_localised_description_hv_dilemma_empire_rules	After centuries, the old Han Dynasty has finally lost the Mandate of Heaven. Yet the people under heaven still suffer from the chaos of war brought by petty warlords and their false claims to the Mandate. My Lord, you must end this. China awaits a ruler who will bring unity and prosperity to the realm. How will you choose to rule the people of China?	true
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_empire_rulesFIRST	China will be ruled by virtue	true
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_empire_rulesSECOND	China will be ruled by might	true
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_empire_rulesFIRST	You are the only one who can bring lasting peace to China. Everyone must obey your will.	true
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_empire_rulesSECOND	You are the only one who can bring lasting peace to China. Everyone must obey your will.	true

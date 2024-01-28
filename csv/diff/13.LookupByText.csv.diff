@@ -1,5 +1,0 @@
---- csv/out/13.LookupByText.csv
-+++ csv/xls/13.LookupByText.csv
-@@ -346 +346 @@
--long_description,,,hv_TEXT_building.loc,,,
-+long_description,長描述,长描述,hv_TEXT_building.loc,,,

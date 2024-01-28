@@ -1,0 +1,26 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_ceo_career.loc		
+land_units_onscreen_name_3k_mtu_hero_earth_lady_bian_huilan	Lady Liu	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_bian_huilan_01	Devoted Mother	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_bian_huilan_01	Her elegance, determination, and beauty made her coveted by all the heroes of the age.	true
+ceo_nodes_title_hv_ceo_node_career_historical_chen_deng_01	Man For All Seasons	true
+ceo_nodes_description_hv_ceo_node_career_historical_chen_deng_01	Sometimes, just sometimes, power fails to corrupt, and instead leads to altruism and charity.	true
+ceo_nodes_title_hv_ceo_node_career_historical_jiang_qin_01	Bandit Slayer	true
+ceo_nodes_description_hv_ceo_node_career_historical_jiang_qin_01	He was also a bandit once.	true
+ceo_nodes_title_hv_ceo_node_career_historical_yuan_yao_01	Scion	true
+ceo_nodes_description_hv_ceo_node_career_historical_yuan_yao_01	He was loved by everyone.	true
+ceo_nodes_title_ep_ancillary_sima_yue_armour_unique	Gao Gan's Armour	true
+ceo_nodes_title_ep_ancillary_sima_yong_armour_unique	Guo Si's Armour	true
+ceo_nodes_title_ep_ancillary_sima_ying_armour_unique	Chen Deng's Armour	true
+ceo_nodes_title_ep_ancillary_sima_wei_armour_unique	Jiang Qin's Armour	true
+ceo_nodes_title_ep_ancillary_sima_lun_armour_unique	Yuan Yao's Armour	true
+ceo_nodes_title_ep_ancillary_sima_liang_armour_unique	Zhang Lu's Armour	true
+ceo_nodes_title_ep_ancillary_sima_jiong_armour_unique	Zhang Bang's Armour	true
+ceo_nodes_title_ep_ancillary_sima_ai_armour_unique	Cao Ang's Armour	true
+		true
+land_units_onscreen_name_3k_mtu_hero_water_lady_zou_yuan	Lady Cai	false
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_zou_yuan_01	The Lady of Jingzhou	false
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_zou_yuan_01	The house of Cai is the most famous noble family in Jingzhou. Lady Cai is willing to use the power.	false
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zou_yuan_01	The Lady of Jingzhou	false
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zou_yuan_02	The Lady of Jingzhou	false
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zou_yuan_03	The Lady of Jingzhou	false

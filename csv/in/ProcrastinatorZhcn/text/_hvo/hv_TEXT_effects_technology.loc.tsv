@@ -1,0 +1,44 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_effects_technology.loc		
+effects_description_hv_tech_turn_tier_0	下一次改革需 [[b]]%n[[/b]] 回合	true
+effects_description_hv_tech_turn_reset	下次改革可以马上执行，无需冷却	true
+effects_description_hv_tech_effect_t2_recruitment_cost	正卒部队招募费用 [[b]]%+n%[[/b]]	true
+effects_description_hv_tech_effect_t2_melee_attack_stat	正卒部队近战命中率 [[b]]%+n[[/b]]	true
+effects_description_hv_tech_effect_t2_melee_defence_stat	正卒部队近战闪避 [[b]]%+n[[/b]]	true
+effects_description_hv_tech_effect_t2_move_speed	正卒部队移动速度 [[b]]%+n%[[/b]]	true
+effects_description_hv_tech_effect_t2_replenishment	正卒部队补员速率 [[b]]%+n%[[/b]]	true
+effects_description_hv_tech_effect_t2_rank_new_recruits	正卒部队起始等级 [[b]]%+n[[/b]]	true
+effects_description_hv_tech_effect_cavalry_mass_mod	骑兵单位质量 [[b]]%+n%[[/b]]	true
+effects_description_hv_tech_effect_cavalry_missile_resist	骑兵远程抗性 [[b]]%+n%[[/b]]	true
+effects_description_hv_tech_effect_t3_move_speed	精锐部队移动速度 [[b]]%+n%[[/b]]	true
+effects_description_hv_tech_effect_t3_replenishment	精锐部队补员速率 [[b]]%+n%[[/b]]	true
+effects_description_hv_tech_effect_t3_recruitment_cost	精锐部队招募费用 [[b]]%+n%[[/b]]	true
+effects_description_hv_tech_effect_t3_rank_new_recruits	精锐部队起始等级 [[b]]%+n[[/b]]	true
+effects_description_hv_tech_effect_t1_rank_new_recruits	民兵起始等级 [[b]]%+n[[/b]]	true
+effects_description_hv_tech_effect_t1_morale_stat	民兵部队士气 [[b]]%+n[[/b]]	true
+effects_description_hv_tech_effect_t2_morale_stat	正卒部队士气 [[b]]%+n[[/b]]	true
+effects_description_hv_tech_effect_t1_replenishment	民兵部队补员速率 [[b]]%+n%[[/b]]	true
+effects_description_hv_tech_effect_t1_melee_attack_stat	民兵近战命中加成 [[b]]%+n%[[/b]]	true
+effects_description_hv_tech_effect_t1_melee_defence_stat	民兵近战闪避 [[b]]%+n[[/b]]	true
+effects_description_hv_tech_effect_hero_replenishment	人物部队补员速率 [[b]]%+n%[[/b]]	true
+effects_description_hv_tech_effect_province_building_construction_cost_mod_immigrants	异族建筑成本 [[b]]%+n%[[/b]]	true
+effects_description_hv_tech_effect_dummy_immigrants_influence	降低异族影响力。	true
+effects_description_hv_tech_effect_t4_replenishment	禁军部队补员速率 [[b]]%+n%[[/b]]	true
+effects_description_hv_tech_effect_building_conversion_cost	建筑改造费用 [[b]]%+n%[[/b]]	true
+effects_description_hv_tech_effect_yue_armour	山越部队护甲费用 [[b]]%+n%[[/b]]	true
+effects_description_hv_tech_effect_yue_recruitment_cost	山越部队招募费用 [[b]]%+n%[[/b]]	true
+effects_description_hv_tech_effect_yue_upkeep	山越部队维持费 [[b]]%+n%[[/b]]	true
+effects_description_hv_tech_effect_yue_morale	山越部队士气 [[b]]%+n[[/b]]	true
+effects_description_hv_tech_effect_yue_charge_bonus	山越部队冲锋加成 [[b]]%+n[[/b]]	true
+effects_description_hv_tech_effect_yue_replenishment	山越部队补员速率 [[b]]%+n%[[/b]]	true
+effects_description_hv_tech_effect_nomad_upkeep	游牧部队维持费 [[b]]%+n%[[/b]]	true
+effects_description_hv_tech_effect_nomad_morale	游牧部队士气 [[b]]%+n[[/b]]	true
+effects_description_hv_tech_effect_nomad_replenishment	游牧部队补员速率 [[b]]%+n%[[/b]]	true
+effects_description_hv_tech_effect_nomad_recruitment_cost	游牧部队招募费用 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_dummy_coin_confuse_event	造成了暂时的社会动荡	true
+effect_bundles_localised_title_hv_effect_bundle_coin_confuse_1	铸造新币引起了经济和社会上的动荡。	false
+effect_bundles_localised_title_hv_effect_bundle_coin_confuse_2	铸造新币引起了经济和社会上的动荡。	false
+effect_bundles_localised_title_hv_effect_bundle_coin_confuse_3	铸造新币引起了经济和社会上的动荡。	false
+effect_bundles_localised_description_hv_effect_bundle_coin_confuse_1	由于镇民和商人争相采用新货币，市场陷入了混乱。	false
+effect_bundles_localised_description_hv_effect_bundle_coin_confuse_2	由于镇民和商人争相采用新货币，市场陷入了混乱。	false
+effect_bundles_localised_description_hv_effect_bundle_coin_confuse_3	由于镇民和商人争相采用新货币，市场陷入了混乱。	false

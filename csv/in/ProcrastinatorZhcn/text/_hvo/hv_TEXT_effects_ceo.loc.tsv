@@ -1,0 +1,51 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_effects_ceo.loc		
+effects_description_hv_effect_xian_chen_ying_damange_resistance	陷阵营伤害抗性 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_xian_chen_ying_charge_bonus	陷阵营冲锋加成 [[b]]%+n[[/b]]	true
+effects_description_hv_effect_xian_chen_ying_upkeep	部队维持费 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_mercenary_pool_recruitment_cost_mod	伯长部曲部队招募费用 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_mercenary_pool_upkeep_mod	伯长部曲维持费 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_dan_yang_upkeep	丹阳部队维持费 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_dan_yang_charge_bonus	丹阳部队冲锋加成 [[b]]%+n[[/b]]	true
+effects_description_hv_effect_unlock_danyang_01	解锁部队：{{tr:hv_unit_dan_yang_spearmen}}	true
+effects_description_hv_effect_unlock_danyang_02	解锁部队：{{tr:hv_unit_dan_yang_archers}}	true
+effects_description_hv_effect_unlock_danyang_03	解锁部队：{{tr:hv_unit_dan_yang_infantry}}	true
+effects_description_hv_effect_unlock_white_horse_fellows	解锁部队：{{tr:hv_unit_white_horse_fellows}}	true
+effects_description_hv_effect_unlock_yuan_01	解锁部队：{{tr:hv_unit_yuan_sword_infantry}}	true
+effects_description_hv_effect_unlock_yuan_02	解锁部队：{{tr:hv_unit_yuan_ji_guards}}	true
+effects_description_hv_effect_unlock_sogd	解锁部队：{{tr:hv_unit_sogd_warriors}}, {{tr:hv_unit_sogd_barded_cavalry}}	true
+effects_description_hv_effect_dummy_officer_penalty_alarm	未装备时，该随从解锁的单位的维护费用会增加。	true
+ceo_nodes_title_hv_ancillary_danyang_officer	丹阳校尉	true
+ceo_nodes_description_hv_ancillary_danyang_officer	指挥丹阳部队的士官。	true
+ceo_nodes_title_hv_ancillary_yuan_officer	袁氏校尉	true
+ceo_nodes_description_hv_ancillary_yuan_officer	指挥袁氏部队的士官。	true
+ceo_nodes_title_hv_ancillary_white_horse_fellows_officer	白马校尉	true
+ceo_nodes_description_hv_ancillary_white_horse_fellows_officer	指挥白马部队的士官。	true
+ceo_nodes_title_hv_ancillary_sogd_officer	粟特校尉	true
+ceo_nodes_description_hv_ancillary_sogd_officer	指挥粟特部队的士官。	true
+effects_description_hv_effect_unlock_white_horse_fellows_remove_penalty	装备此随从后，须等到10回合后才能解除。之后此随从即会消失。	true
+effects_description_hv_effect_unlock_yuan_remove_penalty	装备此随从后，须等到10回合后才能解除。之后此随从即会消失。	true
+effects_description_hv_effect_unlock_sogd_remove_penalty	装备此随从后，须等到10回合后才能解除。之后此随从即会消失。	true
+effects_description_hv_effect_dummy_accessory_warning	装备此饰物后，须等到10回合后才能解除。之后此饰物即会消失。	true
+effects_description_hv_effect_dummy_officer_warning	装备此饰物后，须等到10回合后才能解除。之后此饰物即会消失。	true
+effects_description_hv_effect_dummy_accessory_tradable	此兵符可在外交中用来交易！	true
+effects_description_hv_effect_dummy_xiliang_army_unlock	解锁西凉军部队 [[col:scope_description]]（本部曲）[[/col]]	true
+effects_description_hv_effect_dummy_northern_army_unlock	解锁北军部队 [[col:scope_description]]（本部曲）[[/col]]	true
+effects_description_hv_effect_dummy_jingchou_unlock	解锁荆楚部队 [[col:scope_description]]（本部曲）[[/col]]	true
+effects_description_hv_effect_dummy_danyang_unlock	解锁丹阳部队 [[col:scope_description]]（本部曲）[[/col]]	true
+effects_description_hv_effect_dummy_sogd_unlock	解锁粟特部队 [[col:scope_description]]（本部曲）[[/col]]	true
+ceo_nodes_title_hv_ancillary_accessory_danyang_military_talisman	丹阳虎符	true
+ceo_nodes_description_hv_ancillary_accessory_danyang_military_talisman	持此令牌者可以指挥丹阳部队。	true
+ceo_nodes_title_hv_ancillary_follower_sogd_army_captain	粟特校尉	true
+ceo_nodes_description_hv_ancillary_follower_sogd_army_captain	粟特雇佣军为你效命！每一位校尉都忠于自己所属之人，誓死不离其侧！	true
+ceo_nodes_title_hv_ancillary_accessory_jingchou_military_talisman	荆楚虎符	true
+ceo_nodes_description_hv_ancillary_accessory_jingchou_military_talisman	持此令牌者可以指挥荆楚部队。	true
+ceo_nodes_title_hv_ancillary_follower_xiliang_army_captain	西凉军校尉	true
+ceo_nodes_description_hv_ancillary_follower_xiliang_army_captain	西凉军为你效命！每一位校尉都忠于自己所属之人，誓死不离其侧！	true
+effects_description_hv_effect_dummy_lu_bu_legacy_unlock	解锁捕掾队 [[col:scope_description]]（本部曲）[[/col]]	true
+effects_description_hv_effect_dummy_yuan_shu_legacy_unlock	解锁隐蛇兵与虎捷军 [[col:scope_description]]（本部曲）[[/col]]	true
+ceo_nodes_title_hv_ancillary_accessory_yuan_shu_legacy_military_talisman	蛇虎兵符	false
+ceo_nodes_description_hv_ancillary_accessory_yuan_shu_legacy_military_talisman	持此令牌者可以指挥隐蛇兵与虎捷军。	false
+ceo_nodes_title_hv_ancillary_accessory_lu_bu_legacy_military_talisman	捕掾队虎符	false
+ceo_nodes_description_hv_ancillary_accessory_lu_bu_legacy_military_talisman	持此令牌者可以指挥捕掾队。	false
+effects_description_hv_effect_dummy_burning_mace	此饰物一旦装备便无法解除	true

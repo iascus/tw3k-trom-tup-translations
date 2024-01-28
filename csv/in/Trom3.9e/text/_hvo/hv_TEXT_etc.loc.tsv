@@ -1,0 +1,36 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_etc.loc		
+effect_bundles_localised_description_hv_pacify_penalty_yuan_shao	These military supplies were pillaged after a successful siege.	true
+effect_bundles_localised_description_hv_pacify_penalty	Military supplies were consumed to stabilise the settlement.	true
+effects_description_hv_effect_food_upkeep_army	[[b]]%+n[[/b]] food distribution	true
+effects_description_hv_effect_siege_engine_number	%n Siege Towers per item (at siege escalation)	true
+unit_stat_localisations_tooltip_text_scalar_bracing	[[b]]CHARGE RESISTANCE[[/b]]\\n\\n Determines how solidly this unit can withstand enemy charges. Only functions when the unit is braced.	true
+random_localisation_strings_string_resistance_fire_tooltip	Fire Resistance: %d%%||Damage of flaming attacks is reduced by this amount.	true
+pooled_resource_factors_display_name_negative_hv_pooled_factor_army_stockpiles	Army	true
+effects_description_hv_effect_army_stockpiles	[[b]]%+n[[/b]] reserves 	true
+projectile_shot_type_enum_onscreen_name_small_arm_whistling	Rapid Fire	false
+projectile_shot_type_enum_tooltip_text_small_arm_whistling	Inflicts less damage and has reduced accuracy but suppresses targets.	false
+effects_description_3k_main_effect_character_stat_mod_melee_attack	[[b]]%+n%[[/b]] additional melee hit bonus	true
+effects_description_3k_main_effect_unit_stats_unit_hit_chance	[[b]]%+n%[[/b]] additional melee hit bonus	true
+unit_stat_localisations_tooltip_text_stat_bonus_vs_infantry	[[b]]BONUS VS. INFANTRY[[/b]]\\n\\n Increases melee damage against infantry.	true
+unit_stat_localisations_tooltip_text_stat_bonus_vs_cavalry	[[b]]BONUS VS. CAVALRY[[/b]]\\n\\n Increases melee damage against cavalry.	true
+uied_component_texts_localised_string_label_text_false_Text_2a000e	Win before [[b]][[{{CcoBattleDuel:FormatTime(TargetTimeRemaining)}}]][[/b]]	false
+unit_stat_localisations_onscreen_name_stat_melee_attack	Hit Bonus	true
+effects_description_3k_main_effect_unit_stats_unit_hit_chance	[[b]]%+n[[/b]] hit bonus	false
+unit_stat_localisations_tooltip_text_stat_melee_attack	[[b]]MELEE HIT BONUS[[/b]]\\n\\n Increases a unit's hit chance at all times by decreasing the enemy's melee evasion.	true
+unit_stat_localisations_tooltip_text_stat_melee_defence	[[b]]MELEE EVASION[[/b]]\\n\\n Increases the chance of evading melee damage from front and side. The enemy's charge bonus decreases it.	true
+unit_stat_localisations_tooltip_text_stat_armour	[[b]]ARMOUR[[/b]]\\n\\n Decreases standard melee, ranged and explosion damages. Doesn't help against armour-piercing damage.	true
+		false
+uied_component_texts_localised_string_bullet_point_2_NewState_Text_54004a	Each character in Sun Ce's faction grants him shared expertise points once they reach rank 5. At ranks 9, 12 and 15 they generate one extra point respectively.	false
+uied_component_texts_localised_string_bullet_point_2_NewState_Text_54004aa	Each character in Sun Ce's faction grants him shared expertise points once they reach rank 5. At ranks 9, 12 and 15 they generate one extra point respectively.	false
+ceo_equipped_set_bonuses_title_3k_main_item_set_lord_of_fire	Lord of the Battlefield	false
+ceo_equipped_set_bonuses_description_3k_main_item_set_lord_of_fire	The battlefield is your stage.	false
+		false
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_advanced	Marquis or Chancellor of State	false
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_basic	Second Marquis	false
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_dan_yang	Legacy of Tao Qian	false
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_elite	Duke or Grand Master	false
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_legacy_lu_bu	Legacy of Lu Bu	false
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_legacy_yuan_shu	Legacy of Yuan Shu	false
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_monk	Buddhism	false
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_qingzhou	Conquest Yellow Turbans	false

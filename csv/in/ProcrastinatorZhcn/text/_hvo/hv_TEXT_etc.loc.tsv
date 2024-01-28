@@ -1,0 +1,37 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_etc.loc		
+effect_bundles_localised_description_hv_pacify_penalty_yuan_shao	这批军队补给在城镇陷落后被抢走了	true
+effect_bundles_localised_description_hv_pacify_penalty	消耗军事物资以稳定占领的据点。	true
+effects_description_hv_effect_food_upkeep_army	粮食配给 [[b]]%+n[[/b]]	true
+effects_description_hv_effect_siege_engine_number	攻城塔 %n	true
+unit_stat_localisations_tooltip_text_scalar_bracing	[[b]]冲锋抵抗力[[/b]]\\n\\n决定该部队能承受多大程度的敌军冲锋。此仅作用于该单位被冲锋时。	true
+random_localisation_strings_string_resistance_fire_tooltip	火焰抗性：％d %% ||降低火焰造成的伤害数值。	true
+pooled_resource_factors_display_name_negative_hv_pooled_factor_army_stockpiles	军队	true
+effects_description_hv_effect_army_stockpiles	储备 [[b]]%+n[[/b]]	true
+projectile_shot_type_enum_onscreen_name_small_arm_whistling	速射	false
+projectile_shot_type_enum_tooltip_text_small_arm_whistling	造成伤害较低，准确率也降低，但可压制目标。	false
+effects_description_3k_main_effect_character_stat_mod_melee_attack	近战命中加成 [[b]]%+n%[[/b]]	true
+effects_description_3k_main_effect_unit_stats_unit_hit_chance	近战命中加成 [[b]]%+n%[[/b]]	true
+unit_stat_localisations_tooltip_text_stat_bonus_vs_infantry	[[b]]对抗步兵加成[[/b]]\\n\\n提高对步兵的近战伤害。	true
+unit_stat_localisations_tooltip_text_stat_bonus_vs_cavalry	[[b]]对抗骑兵加成[[/b]]\\n\\n提高对骑兵的近战伤害。	true
+uied_component_texts_localised_string_label_text_false_Text_2a000e	在[[b]]{{CcoBattleDuel:FormatTime（TargetTimeRemaining）}}[[/b]]内获胜	false
+uied_component_texts_localised_string_header_label_NewState_Text_16002f	自定义战斗（BETA）	false
+unit_stat_localisations_onscreen_name_stat_melee_attack	命中加成	true
+effects_description_3k_main_effect_unit_stats_unit_hit_chance	命中加成 [[b]]%+n[[/b]]	false
+unit_stat_localisations_tooltip_text_stat_melee_attack	[[b]]近战命中加成[[/b]]\\n\\n通过降低敌人的近战回避，增加单位在任何时候的命中率。	true
+unit_stat_localisations_tooltip_text_stat_melee_defence	[[b]]近战闪避[[/b]]\\n\\n此能力值会提高闪避正面与侧面近战伤害的机率。敌人的冲锋加成会降低此能力值。	true
+unit_stat_localisations_tooltip_text_stat_armour	[[b]]护甲[[/b]]\\n\\n减少单位受到的标准近战伤害、远程伤害以及爆炸伤害。无法防御穿甲伤害。	true
+		false
+uied_component_texts_localised_string_bullet_point_2_NewState_Text_54004a	孙策派系中每位人物在达到5级后均会与他分享专长点。在9级、12级和15级时他们分别会产生一个额外的点数。	false
+uied_component_texts_localised_string_bullet_point_2_NewState_Text_54004aa	孙策派系中每位人物在达到5级后均会与他分享专长点。在9级、12级和15级时他们分别会产生一个额外的点数。	false
+ceo_equipped_set_bonuses_title_3k_main_item_set_lord_of_fire	杀神	false
+ceo_equipped_set_bonuses_description_3k_main_item_set_lord_of_fire	所向披靡。	false
+		false
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_advanced	伯或者太师	false
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_basic	伯	false
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_dan_yang	陶谦残党	false
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_elite	公或者相国	false
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_legacy_lu_bu	吕布残党	false
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_legacy_yuan_shu	袁术残党	false
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_monk	佛教	false
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_qingzhou	收复黄巾	false

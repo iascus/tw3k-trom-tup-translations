@@ -1,0 +1,54 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_effects_ceo.loc		
+effects_description_hv_effect_xian_chen_ying_damange_resistance	[[b]]%+n%[[/b]] damage resistance for Xianchenying	true
+effects_description_hv_effect_xian_chen_ying_charge_bonus	[[b]]%+n[[/b]] charge bonus for Xianchenying	true
+effects_description_hv_effect_xian_chen_ying_upkeep	[[b]]%+n%[[/b]] upkeep for Xianchenying	true
+effects_description_hv_effect_mercenary_pool_recruitment_cost_mod	[[b]]%+n%[[/b]] recruitment cost for captain retinues	true
+effects_description_hv_effect_mercenary_pool_upkeep_mod	[[b]]%+n%[[/b]] upkeep cost for captain retinues	true
+effects_description_hv_effect_dan_yang_upkeep	[[b]]%+n%[[/b]] upkeep for Danyang units	true
+effects_description_hv_effect_dan_yang_charge_bonus	[[b]]%+n[[/b]] charge bonus for Danyang units	true
+effects_description_hv_effect_unlock_danyang_01	Unlocks unit: {{tr:hv_unit_dan_yang_spearmen}}	true
+effects_description_hv_effect_unlock_danyang_02	Unlocks unit: {{tr:hv_unit_dan_yang_archers}}	true
+effects_description_hv_effect_unlock_danyang_03	Unlocks unit: {{tr:hv_unit_dan_yang_infantry}}	true
+effects_description_hv_effect_unlock_white_horse_fellows	Unlocks unit: {{tr:hv_unit_white_horse_fellows}}	true
+effects_description_hv_effect_unlock_yuan_01	Unlocks unit: {{tr:hv_unit_yuan_sword_infantry}}	true
+effects_description_hv_effect_unlock_yuan_02	Unlocks unit: {{tr:hv_unit_yuan_ji_guards}}	true
+effects_description_hv_effect_unlock_sogd	Unlocks unit: {{tr:hv_unit_sogd_warriors}}, {{tr:hv_unit_sogd_barded_cavalry}}	true
+effects_description_hv_effect_dummy_officer_penalty_alarm	When unequipped, the upkeep cost of the units unlocked by this follower will increase.	true
+ceo_nodes_title_hv_ancillary_danyang_officer	Danyang Troops Officer	true
+ceo_nodes_description_hv_ancillary_danyang_officer	The officer in charge of Danyang units.	true
+ceo_nodes_title_hv_ancillary_yuan_officer	House Yuan's Officer	true
+ceo_nodes_description_hv_ancillary_yuan_officer	The officer in charge of house Yuan units.	true
+ceo_nodes_title_hv_ancillary_white_horse_fellows_officer	White Horse Fellows Officer	true
+ceo_nodes_description_hv_ancillary_white_horse_fellows_officer	The officer in charge of White Horse units.	true
+ceo_nodes_title_hv_ancillary_sogd_officer	Sogdian Officer	true
+ceo_nodes_description_hv_ancillary_sogd_officer	The officer in charge of Sogdian mercenary units.	true
+effects_description_hv_effect_unlock_white_horse_fellows_remove_penalty	Once equipped, this follower can't be unequipped until it is destroyed in 10 turns!	true
+effects_description_hv_effect_unlock_yuan_remove_penalty	Once equipped, this follower can't be unequipped until it is destroyed in 10 turns!	true
+effects_description_hv_effect_unlock_sogd_remove_penalty	Once equipped, this follower can't be unequipped until it is destroyed in 10 turns!	true
+effects_description_hv_effect_dummy_accessory_warning	Once equipped, this item can't be unequipped until it is destroyed in 20 turns!	true
+effects_description_hv_effect_dummy_officer_warning	Once equipped, this item can't be unequipped until it is destroyed in 20 turns!	true
+effects_description_hv_effect_dummy_accessory_tradable	This authorisation tally is tradeable in diplomacy!	true
+effects_description_hv_effect_dummy_xiliang_army_unlock	Unlocks Xiliang Army Buqu units [[col:scope_description]](own retinue)[[/col]]	true
+effects_description_hv_effect_dummy_northern_army_unlock	Unlocks Northern Army Buqu units [[col:scope_description]](own retinue)[[/col]]	true
+effects_description_hv_effect_dummy_jingchou_unlock	Unlocks Jingchu units [[col:scope_description]](own retinue)[[/col]]	true
+effects_description_hv_effect_dummy_danyang_unlock	Unlocks Danyang units [[col:scope_description]](own retinue)[[/col]]	true
+effects_description_hv_effect_dummy_sogd_unlock	Unlocks Sogd units [[col:scope_description]](own retinue)[[/col]]	true
+ceo_nodes_title_hv_ancillary_accessory_danyang_military_talisman	Danyang Troop Tally	true
+ceo_nodes_description_hv_ancillary_accessory_danyang_military_talisman	Proof that the bearer has the authority to command Danyang troops.	true
+ceo_nodes_title_hv_ancillary_follower_sogd_army_captain	Sogdian Officer	true
+ceo_nodes_description_hv_ancillary_follower_sogd_army_captain	The officer in charge of Sogdian mercenary units.	true
+ceo_nodes_title_hv_ancillary_accessory_jingchou_military_talisman	Jingchu Troop Tally	true
+ceo_nodes_description_hv_ancillary_accessory_jingchou_military_talisman	Proof that the bearer has the authority to command Jingchu troops.	true
+ceo_nodes_title_hv_ancillary_follower_xiliang_army_captain	Colonel of the Xiliang Army	true
+ceo_nodes_description_hv_ancillary_follower_xiliang_army_captain	The Xiliang Army is yours to command! Each colonel is loyal to whom they have been assigned, vowing never to leave their side!	true
+effects_description_hv_effect_dummy_lu_bu_legacy_unlock	Unlocks Enforcer units [[col:scope_description]](own retinue)[[/col]]	true
+effects_description_hv_effect_dummy_yuan_shu_legacy_unlock	Unlocks Hidden Sankes, Rapid Tigers [[col:scope_description]](own retinue)[[/col]]	true
+ceo_nodes_title_hv_ancillary_accessory_yuan_shu_legacy_military_talisman	Hidden Snakes and Rapid Tigers Tally	false
+ceo_nodes_description_hv_ancillary_accessory_yuan_shu_legacy_military_talisman	Proof that the bearer has the authority to command Hidden Snakes and Rapid Tigers.	false
+ceo_nodes_title_hv_ancillary_accessory_lu_bu_legacy_military_talisman	Enforcer Troop Tally	false
+ceo_nodes_description_hv_ancillary_accessory_lu_bu_legacy_military_talisman	Proof that the bearer has the authority to command Enforcer troops.	false
+effects_description_hv_effect_dummy_burning_mace	Once equipped, this item can't be unequipped	true
+		true
+effects_description_hv_effect_dummy_xiliang_army_unlock_elite	Unlocks Xiliang Army Elite units [[col:scope_description]](own retinue)[[/col]]	true
+effects_description_hv_effect_dummy_northern_army_unlock_elite	Unlocks Northern Army Elite units [[col:scope_description]](own retinue)[[/col]]	true

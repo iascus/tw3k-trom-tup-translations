@@ -1,0 +1,65 @@
+key	text	tooltip
+#Loc;1;text/mtu_text/[04]__MTU_events__Common.loc		
+incidents_localised_title_mtu_zhou_yu_spawns_incident	Zhou Yu	true
+incidents_localised_description_mtu_zhou_yu_spawns_incident	Zhou Yu, also known as “Mei Zhou Long” for his striking appearance and loyalty, was befriended by Sun Ce at an early age. Young Zhou Yu once successfully persuaded Sun Ce and Lady Wu to move closer and become neighbors. Now, with war raging throughout the Han Empire, it’s time for Zhou Yu to join Sun Ce.	true
+incidents_localised_title_mtu_two_qiao_marry_incident_pc	The Two Qiaos	true
+incidents_localised_description_mtu_two_qiao_marry_incident_pc	The Elder Qiao of the Han Dynasty has two daughters, both of them fames for their beauty and artistic talents. The two daughters, Da Qiao and Xiao Qiao, will move to serve Sun Ce and Zhou Yu.\\n\\n“I deeply admir your prestige. I offer my daughters for marriage.”	true
+incidents_localised_title_mtu_two_qiao_marry_incident_npc	The Two Qiaos	true
+incidents_localised_description_mtu_two_qiao_marry_incident_npc	With marriaged arranged by their father, Da Qiao and Xiao Qiao moved to their new home in Jingdong. Now, everyone there knows the beauty and artistic talent of the Qiao sisters. The men who have the sisters will have nothing to fear nor desire.	true
+dilemmas_localised_title_mtu_dilemma_suggestion_of_rebel_sisters	Rebels Against the Bandit Queen	true
+dilemmas_localised_description_mtu_dilemma_suggestion_of_rebel_sisters	Two bandits came to you with a proposal. “If we work together, we can rid ourselves of that Zheng Jiang bitch.” They indeed possessed formidable presence and determination to back their confidence. They desire to overthrow the queen they once served.\\n\\n They offered their assistance, but not without a price. They will require compensation for their part.	true
+cdir_events_dilemma_choice_details_localised_choice_label_mtu_dilemma_suggestion_of_rebel_sistersFIRST	Accept	true
+cdir_events_dilemma_choice_details_localised_choice_label_mtu_dilemma_suggestion_of_rebel_sistersSECOND	Reject	true
+cdir_events_dilemma_choice_details_localised_choice_title_mtu_dilemma_suggestion_of_rebel_sistersFIRST	They will help us, but there’s no such thing as a free lunch. You should keep your promise.	true
+cdir_events_dilemma_choice_details_localised_choice_title_mtu_dilemma_suggestion_of_rebel_sistersSECOND	You reject their offer and send them away.	true
+incidents_localised_title_mtu_zhu_sisters_robbery_incident	They ran away with our supply! Bandit bitches!	true
+incidents_localised_description_mtu_zhu_sisters_robbery_incident	“Lord! My Lord!\\n\\n A soldier rushed forward and reported that a hefty quantity of our supplies had been stolen. The bandits seem to have been displeased with our answer and have taken our supplies as payment instead.	true
+incidents_localised_title_3k_mtu_global_event_zhao_yun_becomes_zhenjun_general	Tiger General	true
+incidents_localised_description_3k_mtu_global_event_zhao_yun_becomes_zhenjun_general	Over the years, Zhao Yun has served dependably and become well-known for his courage, honor, and supreme martial skill. To reward him, you hold a ceremony with all your generals and advisors in attendance.\\n\\n “You have served me well, Zilong, and for this service, I bestow upon you the title of General of Tiger’s Might, rank of Tiger General, and this finely crafted armor.”	true
+campaign_payload_ui_details_description_mtu_zhao_yun_get_new_armour	New armor has been awarded. From now on, armor can be replaced.	true
+campaign_payload_ui_details_description_mtu_zhao_yun_appointed_zhenjunjiangjun	Zhao Yun has been appointed "Tiger General"	true
+campaign_payload_ui_details_description_mtu_zhao_yun_get_blue_blade	While fighting against countless foes on the battlefield, Zhao Yun acquires a sword that glows blue and has a sharp edge.	true
+effect_bundles_localised_title_3k_mtu_effect_bundle_dec_public_order_5_for_cai	Special Treatment	true
+effect_bundles_localised_description_3k_mtu_effect_bundle_dec_public_order_5_for_cai	Special treatment draws the ire of those around you.	true
+effect_bundles_localised_title_3k_mtu_effect_bundle_dec_public_order_5	Cruelty	true
+effect_bundles_localised_description_3k_mtu_effect_bundle_dec_public_order_5	Using violence to settle personal scores only causes backlash from those around you.	true
+effect_bundles_localised_title_3k_mtu_effect_bundle_inc_public_order_5	Kindness	true
+effect_bundles_localised_description_3k_mtu_effect_bundle_inc_public_order_5	In chaotic times, sometimes you must set personal feelings aside and treat them with kindness.	true
+effect_bundles_localised_title_3k_mtu_effect_bundle_inc_public_order_6	Patience	true
+effect_bundles_localised_description_3k_mtu_effect_bundle_inc_public_order_6	It’s a good idea to not reveal your ambitions to the public.	true
+LU BU EVENT------------------------------------------------------------------------------------------		false
+campaign_payload_ui_details_description_dummy_mtu_lu_bu_interpose	Lu Bu will interpose in dispute between Yuan Shu and Liu Bei and will lead peace between them.	true
+incidents_localised_title_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_incident	Shot Heard Round the Empire	true
+incidents_localised_description_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_incident	Tensions have risen too high and war has been declared between Yuan Shu and Liu Bei. Lü Bu, being opposed to this war for one reason or another, invites the enemy generals to a feast at his camp. Lü Bu tells them he believes their war is not truly Heaven’s will and suggests they test it. If he can hit his halberd’s plume from one hundred fifty paces with an arrow, peace must be made. Keen to stay in Lü Bu’s good graces, both sides agree. To the onlookers’ amazement, Lü Bu’s arrow slices the plume free! The Warrior Without Equal, indeed!	true
+dilemmas_localised_title_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_lb	Shot Heard Round the Empire	true
+dilemmas_localised_description_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_lb	At no surprise to many, war has been declared between Yuan Shu and Liu Bei. At your next court meeting, your strategists and advisors debate whether their war is a blessing or a curse for your faction. One advisor, opposed to the war, puts forths that you invite generals from both factions to a feast and suggest they abide by Heaven’s command - by means of you attempting an extraordinary, if not impossible feat of shooting the plume off your halberd from a great distance. If the shot is successful, they must make peace.	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_lbFIRST	Call For The Feast	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_lbSECOND	Let Them Fight	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_lbFIRST	The opposing generals gathered at your encampment for a feast. You explained your proposal. Both parties agreed to your terms and watched in total awe as the arrow slices the plume free from one hundred fifty paces.	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_lbSECOND	 It’s of no concern to you if they want war.	true
+dilemmas_localised_title_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_yl	Shot Heard Round the Empire	true
+dilemmas_localised_description_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_yl	On the eve of battle, you receive a message from Lü Bu inviting you to his camp for a feast. Although wary, you choose to attend. You are surprised to find an enemy general there as well. Lü Bu explains that he wishes to see peace between your factions and proposes a test to determine Heaven’s will. If he can shoot the plume off his halberd with an arrow, you must make peace with your enemy. You carefully consider his proposal ...	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_ylFIRST	Follow Heaven’s Will	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_ylSECOND	 Reject Lü Bu’s Proposal	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_ylFIRST	Both parties agreed to Lü Bu’s terms and watched in total awe as his arrow slices the plume free from one hundred fifty paces.	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_ylSECOND	 Lü Bu is the Warrior Without Equal, but he does not dictate our diplomatic policy. You bid the host thanks and take your leave.	true
+LADY TRIEU EVENT------------------------------------------------------------------------------------------		false
+dilemmas_localised_title_3k_mtu_global_event_lady_trieu_rumor_dilemma	A Golden Star	true
+dilemmas_localised_description_3k_mtu_global_event_lady_trieu_rumor_dilemma	On a late stroll through the courtyard, you saw a uniquely golden star - its twinkle pulsed as if it was the very heartbeat of the night sky. Later that evening as you slept, a prophet appeared in your dream and said that if you held a ceremony to heaven, you could alter history. The next day your thoughts are consumed by it. You thought it merely a dream, yet it was so vivid and lives on in your mind.	false
+campaign_payload_ui_details_description_dummy_mtu_lady_trieu_rumor	The Zhao Yu will appear in a country in the south.	false
+campaign_payload_ui_details_description_dummy_mtu_lady_trieu_historic	The Lady Trieu will appear according to the flow of history.	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_lady_trieu_rumor_dilemmaFIRST	Hold the Ceremony to Heaven	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_lady_trieu_rumor_dilemmaSECOND	Just a Dream	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_lady_trieu_rumor_dilemmaFIRST	You, along with a few attendants, climbed a mountain and held the ceremony. That night, the golden star seemed to shimmer even more brilliantly than before. A few weeks later, you receive a letter from an old friend informing you that a woman named Lady Trieu has joined forces with another faction and has been active near the Southern Coast.	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_lady_trieu_rumor_dilemmaSECOND	It was nothing more than a dream and you decide to let the memory fade away.	true
+incidents_localised_title_3k_mtu_global_event_lady_trieu_rise_incident	The Return of the Trieu Dynasty	false
+incidents_localised_description_3k_mtu_global_event_lady_trieu_rise_incident	Recently, there have been reports of a Wu army having been defeated. The rumor is that a Nam Viet woman named Lady Trieu led the forces against Wu. This news has spread like wildfire throughout China and become the topic of much deliberation between scholars and commonfolk alike. Time will tell whether you have gained a strong ally or perhaps a dangerous enemy.	false
+		false
+incidents_localised_title_hv_incident_chunyu_qiong	One’s Old Self	false
+incidents_localised_description_hv_incident_chunyu_qiong	The drink has ruined many a good man, but Chunyu Qiong will not be amongst them. The former Colonel of the Emperor’s Army has sworn off alcohol and is a drunkard no more. With a clear mind and a wealth of experience, Chunyu Qiong is, once again, that mighty colonel that led the Imperial Army, equal to Cao Cao and Yuan Shao.	false
+dilemmas_localised_title_hv_dilemma_guan_ping	Adoption Proposal to Guan Yu	false
+dilemmas_localised_description_hv_dilemma_guan_ping	One day while Liu Bei and Guan Yu passed through Hebei, they stayed overnight at the home of a man named Guan Jing. Guan Jing treated Guan Yu and his party very kindly because they have same surname. Liu Bei suggested to adopt among his two sons, Guan Jing introduce second son named Ping...	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_guan_pingFIRST	Accept	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_guan_pingSECOND	Reject	false
+cdir_events_dilemma_choice_details_localised_choice_title_mtu_dilemma_suggestion_of_rebel_sistersFIRST		false
+cdir_events_dilemma_choice_details_localised_choice_title_mtu_dilemma_suggestion_of_rebel_sistersSECOND		false

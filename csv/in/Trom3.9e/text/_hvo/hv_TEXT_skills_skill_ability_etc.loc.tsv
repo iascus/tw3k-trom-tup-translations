@@ -1,0 +1,4 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_skills_skill_ability_etc.loc		
+effects_description_hv_effect_unlock_duel	Enables: Duelling	true
+effects_description_hv_effect_unlock_duel_water	Enables: Duelling	true

@@ -1,0 +1,4 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_skills_skill_ability_etc.loc		
+effects_description_hv_effect_unlock_duel	可使用：单挑	true
+effects_description_hv_effect_unlock_duel_water	可使用：单挑	true

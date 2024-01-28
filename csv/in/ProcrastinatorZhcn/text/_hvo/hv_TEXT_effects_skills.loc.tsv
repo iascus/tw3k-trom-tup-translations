@@ -1,0 +1,17 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_effects_skills.loc		
+effects_description_hv_effect_skill_retinue_cavalry_speed	骑兵奔跑速度 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_skill_retinue_infantry_missile_resistance	步兵远程抗性 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_skill_retinue_ranged_mod	远程范围 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_skill_heavy_infantry_speed	重装步兵奔跑速度 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_skill_retinue_melee_attack_own_territory	近战命中加成 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_skill_retinue_melee_defence_own_territory	近战闪避 [[b]]%+n[[/b]]	true
+effects_description_hv_effect_skill_retinue_melee_attack_enemy_territory	近战命中加成 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_skill_retinue_melee_defence_enemy_territory	近战闪避 [[b]]%+n[[/b]]	true
+effects_description_hv_effect_enable_explosive_trebuchet_shell	可使用：爆裂弹（霹雳车）	true
+effects_description_3k_main_effect_enable_projectile_fire_artillery	可使用：燃烧弹（霹雳车与床弩）	true
+effects_description_hv_effect_skill_missile_block_mod_all	远程格挡概率 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_skill_retinue_infantry_missile_resistance_wood	矛兵远程抗性 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_yuan_armoury_captain_ability_passive	技能：密计	true
+campaign_localised_strings_string_3k_dlc07_captains_armoury_whitewater_title	密计	true
+effects_description_hv_effect_replenishment_character_only	人物生命值回复 [[b]]%+n%[[/b]]	true

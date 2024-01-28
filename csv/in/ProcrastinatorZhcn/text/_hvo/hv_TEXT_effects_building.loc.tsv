@@ -1,0 +1,13 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_effects_building.loc		
+campaign_effect_scopes_localised_text_region_to_force_own_in_adjacent_regions	[[col:scope_description]]（相邻各{{tr:map_regions}}）[[/col]]	true
+effects_description_hv_building_effect_liu_bei_unity	齐心 [[b]]%+n[[/b]]	true
+effects_description_hv_building_effect_dummy_immigrant_subtown	[[i]]异族关系[[/ i]]	true
+effects_description_hv_building_effect_dummy_ethnic_penalty_chance	异族影响	true
+effects_description_hv_building_effect_dummy_scattered_immigrants	{{tr:map_region}}正被零散蛮人所据。此况可解，垦地拓荒，善用此地资源。	true
+effects_description_hv_building_effect_dummy_garrison_sun_jian	[[i]]支援驻军与部队[[/ i]]	true
+effects_description_hv_building_effect_dummy_garrison	[[i]]支援驻军与部队[[/ i]]	true
+effects_description_hv_building_effect_replenishment_danyang	丹阳部队补员速率 [[b]]%+n%[[/b]]	true
+effects_description_hv_building_effect_province_mercenary_access	提供[[b]]丹阳部队校尉[[/b]]招募次数	true
+effects_description_hv_building_effect_dummy_education	每年春季，角色会获得额外经验。	true
+effects_description_hv_effect_unit_upkeep_local_noble_units	仆从与士族部队维持费 [[b]]%+n%[[/b]]	true

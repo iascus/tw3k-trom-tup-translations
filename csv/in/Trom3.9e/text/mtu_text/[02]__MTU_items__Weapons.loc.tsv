@@ -1,0 +1,30 @@
+key	text	tooltip
+#Loc;1;text/mtu_text/[02]__MTU_items__Weapons.loc		
+ceo_nodes_title_3k_mtu_ancillary_weapon_diplomat	Diplomat	true
+ceo_nodes_description_3k_mtu_ancillary_weapon_diplomat	A self-defense sword that Jian Yong used to carry in his travels.	true
+ceo_nodes_title_3k_mtu_ancillary_weapon_juque	Juque	true
+ceo_nodes_description_3k_mtu_ancillary_weapon_juque	There existed no finer swordsmith than Ou Yezi, no greater sword than his Juque.	true
+ceo_nodes_title_3k_mtu_ancillary_weapon_shengxie	Sheng Xie	true
+ceo_nodes_description_3k_mtu_ancillary_weapon_shengxie	Legend has it that the great swords forged by Ou Yezi protect the sword-handler.	true
+ceo_nodes_title_3k_mtu_ancillary_hidden_flow	Hidden Flow	true
+ceo_nodes_description_3k_mtu_ancillary_hidden_flow	Her swords are fast and unpredictable like two rogue waves sweeping across the ocean.	true
+ceo_nodes_title_3k_mtu_ancillary_weapon_invincible	Invincible	true
+ceo_nodes_description_3k_mtu_ancillary_weapon_invincible	A weapon of which there exists no rival.	true
+ceo_equipped_set_bonuses_title_3k_mtu_item_set_invincible	Invincible	true
+ceo_equipped_set_bonuses_description_3k_mtu_item_set_invincible	With the Invincible Spear in-hand, who could dare to stop Zhao Yun?	true
+ceo_equipped_set_bonuses_title_3k_mtu_item_set_changshan_zhaozilong	Baby Protector	true
+ceo_equipped_set_bonuses_description_3k_mtu_item_set_changshan_zhaozilong	The Blue Blade, capable of cutting through enemies and their weapons alike, saved Liu Bei’s baby son with Zilong’s expert wielding.	true
+ceo_nodes_title_3k_mtu_ancillary_weapon_comet_spear	Comet Spear	true
+ceo_nodes_description_3k_mtu_ancillary_weapon_comet_spear	A splendid spear with a sharpness that could cut the sky.	true
+ceo_nodes_title_3k_mtu_ancillary_line_breaker	Line Breaker	true
+ceo_nodes_description_3k_mtu_ancillary_line_breaker	This Ji, perfectly balanced and heavy, crushes its enemies and sees them driven before you.	true
+ceo_nodes_title_3k_mtu_ancillary_phoenix_beak	Phoenix's Beak	true
+ceo_nodes_description_3k_mtu_ancillary_phoenix_beak	The phoenix beak strikes with a ferocity that has put many a man to ashes, never to rise again.	true
+ceo_nodes_title_3k_mtu_ancillary_weapon_sharp_light	Starseeker	false
+ceo_nodes_description_3k_mtu_ancillary_weapon_sharp_light	A weapon befitting a warrior destined for great things.	false
+ceo_nodes_title_3k_mtu_ancillary_weapon_young_dragon	Young Dragon Blade	true
+ceo_nodes_description_3k_mtu_ancillary_weapon_young_dragon	Albeit young, a dragon is a dragon.	true
+ceo_nodes_title_3k_mtu_ancillary_weapon_point_piercer	Fanged Viper	false
+ceo_nodes_description_3k_mtu_ancillary_weapon_point_piercer	As accurate and deadly as a viper’s strike.	false
+ceo_nodes_title_3k_mtu_ancillary_weapon_dachui	Big Mace	true
+ceo_nodes_description_3k_mtu_ancillary_weapon_dachui	As big as it is, heavy but strong	true

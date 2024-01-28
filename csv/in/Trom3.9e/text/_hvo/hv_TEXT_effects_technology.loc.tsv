@@ -1,0 +1,46 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_effects_technology.loc		
+effects_description_hv_tech_turn_tier_0	NEXT REFORM IN [[b]]%n[[/b]]	true
+effects_description_hv_tech_turn_reset	The next reform can be implemented without cooldown	true
+effects_description_hv_tech_effect_t2_recruitment_cost	[[b]]%+n%[[/b]] recruitment cost for Buqu units	true
+effects_description_hv_tech_effect_t2_melee_attack_stat	[[b]]%+n[[/b]] melee hit bonus for Buqu units	true
+effects_description_hv_tech_effect_t2_melee_defence_stat	[[b]]%+n[[/b]] melee evasion for Buqu units	true
+effects_description_hv_tech_effect_t2_move_speed	[[b]]%+n%[[/b]] move speed for Buqu units	true
+effects_description_hv_tech_effect_t2_replenishment	[[b]]%+n%[[/b]] replenishment for Buqu units	true
+effects_description_hv_tech_effect_t2_rank_new_recruits	[[b]]%+n[[/b]] starting rank for Buqu units	true
+effects_description_hv_tech_effect_cavalry_mass_mod	[[b]]%+n%[[/b]] mass for cavalry units	true
+effects_description_hv_tech_effect_cavalry_missile_resist	[[b]]%+n%[[/b]] missile resistance for cavalry units	true
+effects_description_hv_tech_effect_t3_move_speed	[[b]]%+n%[[/b]] move speed for Elite units	true
+effects_description_hv_tech_effect_t3_replenishment	[[b]]%+n%[[/b]] replenishment for Elite units	true
+effects_description_hv_tech_effect_t3_recruitment_cost	[[b]]%+n%[[/b]] recruitment cost for Elite units	true
+effects_description_hv_tech_effect_t3_rank_new_recruits	[[b]]%+n[[/b]] starting rank for Elite units	true
+effects_description_hv_tech_effect_t1_rank_new_recruits	[[b]]%+n[[/b]] starting rank for Militia units	true
+effects_description_hv_tech_effect_t1_morale_stat	[[b]]%+n[[/b]] morale for Militia units	true
+effects_description_hv_tech_effect_t2_morale_stat	[[b]]%+n[[/b]] morale for Buqu units	true
+effects_description_hv_tech_effect_t1_replenishment	[[b]]%+n%[[/b]] replenishment for Militia units	true
+effects_description_hv_tech_effect_t1_melee_attack_stat	[[b]]%+n%[[/b]] additional melee hit bonus for Militia units	true
+effects_description_hv_tech_effect_t1_melee_defence_stat	[[b]]%+n[[/b]] melee evasion for Militia units	true
+effects_description_hv_tech_effect_hero_replenishment	[[b]]%+n%[[/b]] replenishment for characters	true
+effects_description_hv_tech_effect_province_building_construction_cost_mod_immigrants	[[b]]%+n%[[/b]] construction cost (other ethnic groups)	true
+effects_description_hv_tech_effect_dummy_immigrants_influence	Reduces the negative influence of the other ethnic groups	true
+effects_description_hv_tech_effect_t4_replenishment	[[b]]%+n%[[/b]] replenishment for Royal Guard units	true
+effects_description_hv_tech_effect_building_conversion_cost	[[b]]%+n%[[/b]] building conversion cost	true
+effects_description_hv_tech_effect_yue_armour	[[b]]%+n%[[/b]] armour cost for Yue units	true
+effects_description_hv_tech_effect_yue_recruitment_cost	[[b]]%+n%[[/b]] recruitment cost for Yue units	true
+effects_description_hv_tech_effect_yue_upkeep	[[b]]%+n%[[/b]] upkeep for Yue units	true
+effects_description_hv_tech_effect_yue_morale	[[b]]%+n[[/b]] morale for Yue units	true
+effects_description_hv_tech_effect_yue_charge_bonus	[[b]]%+n[[/b]] charge bonus for Yue units	true
+effects_description_hv_tech_effect_yue_replenishment	[[b]]%+n%[[/b]] replenishment for Yue units	true
+effects_description_hv_tech_effect_nomad_upkeep	[[b]]%+n%[[/b]] upkeep for Nomad units	true
+effects_description_hv_tech_effect_nomad_morale	[[b]]%+n[[/b]] morale for Nomad units	true
+effects_description_hv_tech_effect_nomad_replenishment	[[b]]%+n%[[/b]] replenishment for Nomad units	true
+effects_description_hv_tech_effect_nomad_recruitment_cost	[[b]]%+n%[[/b]] recruitment cost for Nomad units	true
+effects_description_hv_effect_dummy_coin_confuse_event	Causes temporary social turmoil	true
+effect_bundles_localised_title_hv_effect_bundle_coin_confuse_1	Economic and social upheaval casued by the minting of a new coin.	false
+effect_bundles_localised_title_hv_effect_bundle_coin_confuse_2	Economic and social upheaval casued by the minting of a new coin.	false
+effect_bundles_localised_title_hv_effect_bundle_coin_confuse_3	Economic and social upheaval casued by the minting of a new coin.	false
+effect_bundles_localised_description_hv_effect_bundle_coin_confuse_1	The markets have been thrown into chaos as townsfolk and merchants scramble to adopt the new currency.	false
+effect_bundles_localised_description_hv_effect_bundle_coin_confuse_2	The markets have been thrown into chaos as townsfolk and merchants scramble to adopt the new currency.	false
+effect_bundles_localised_description_hv_effect_bundle_coin_confuse_3	The markets have been thrown into chaos as townsfolk and merchants scramble to adopt the new currency.	false
+effects_description_hv_effect_recruitment_cost_ranged_cavalry	[[b]]%+n%[[/b]] recruitment cost for Mounted Archer units	true
+effects_description_hv_effect_charge_bonus_ranged_cavalry	[[b]]%+n%[[/b]] charge bonus for Mounted Archer units	true

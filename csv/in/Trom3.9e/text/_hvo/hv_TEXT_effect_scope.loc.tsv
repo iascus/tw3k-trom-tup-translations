@@ -1,0 +1,11 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_effect_scope.loc		
+campaign_effect_scopes_localised_text_hv_scope_dummy_character_unlock_units_rank_militia	[[col:scope_description]](when this character's rank is 1 or higher)[[/col]]	true
+campaign_effect_scopes_localised_text_hv_scope_dummy_character_unlock_units_rank_buqu	[[col:scope_description]](when this character's rank is 1 or higher)[[/col]]	true
+campaign_effect_scopes_localised_text_hv_scope_dummy_character_unlock_units_rank_elite	[[col:scope_description]](when this character's rank is 7 or higher)[[/col]]	true
+campaign_effect_scopes_localised_text_hv_scope_dummy_character_unlock_units_rank_royal_guards	[[col:scope_description]](when this character's rank is 11 or higher)[[/col]]	true
+campaign_effect_scopes_localised_text_hv_effect_scope_character_to_faction_leader	[[col:scope_description]](faction leader)[[/col]]	true
+campaign_effect_scopes_localised_text_hv_effect_scope_character_to_character_enemy_regionwide	[[col:scope_description]](enemies in local {{tr:map_region}})[[/col]]	true
+campaign_effect_scopes_localised_text_character_to_force_own_when_commanding	[[col:scope_description]](own army when commanding)[[/col]]	true
+campaign_effect_scopes_localised_text_hv_effect_scope_character_to_character_own_forcewide_when_commanding	[[col:scope_description]](own army when commanding)[[/col]]	true
+campaign_effect_scopes_localised_text_hv_effect_scope_region_to_character_own_in_adjacent_regions_all_owners	[[col:scope_description]](adjacent {{tr:map_provinces}})[[/col]]	true

@@ -1,0 +1,12 @@
+key	text	tooltip
+#Loc;1;text/!@hv_TEXT_FRONTEND_FEATURES.loc		
+frontend_faction_leader_unique_features_localised_description_hv_frontend_regular_units	[[b]]正規軍[[/b]]\\n\\n [[col:flavour]][[i]]軍閥的私人武裝部隊，具平衡良好的武裝，用途廣泛。[[/col]][[/i]]	true
+frontend_faction_leader_unique_features_localised_description_hv_frontend_provincial_units	[[b]]郡國軍[[/b]]\\n\\n [[col:flavour]][[i]]保衛郡國中心的地方軍，擁有高質量的甲冑和武器。[[/col]][[/i]]	true
+frontend_faction_leader_unique_features_localised_description_hv_frontend_xiliang_units	[[b]]西涼軍[[/b]]\\n\\n [[col:flavour]][[i]]為對抗羌人的勁旅，具傑出的戰術技巧。[[/col]][[/i]]	true
+frontend_faction_leader_unique_features_localised_description_hv_frontend_jing_units	[[b]]荊州軍[[/b]]\\n\\n [[col:flavour]][[i]]保衛荊州的地方軍，擁有高質量的甲冑和武器。[[/col]][[/i]]	true
+frontend_faction_leader_unique_features_localised_description_hv_frontend_ytr_units	[[b]]黃巾軍[[/b]]\\n\\n [[col:flavour]][[i]]變革之風將席捲八荒！[[/col]][[/i]]	true
+frontend_faction_leader_unique_features_localised_description_hv_frontend_bandits	[[b]]盜匪[[/b]]\\n\\n [[col:flavour]][[i]]當天下動亂，部分農民流離至山林。當他們重返時成了盜匪之輩。[[/col]][[/i]]	true
+frontend_faction_leader_unique_features_localised_description_hv_frontend_sun_jian_local_nobles	[[b]]地方豪強[[/b]]\\n\\n [[col:flavour]][[i]]具強大影響力的地方世族。他們可能對你有所助益或傷害。[[/col]][[/i]]	true
+frontend_faction_leader_unique_features_localised_description_hv_frontend_yuan_shao_captain	[[b]]校尉部曲[[/b]]\\n\\n袁紹能夠不採用英雄人物，而是以低階軍官與校尉領軍，他們會帶領一群由各種單位組成的部曲。\\n\\n[[col:flavour]][[i]]校尉是以與兵卒平等的地位在前方領軍，他們會毫不猶豫地聽從您的命令。[[/col]][[/i]]	true
+frontend_faction_leader_unique_features_localised_description_hv_frontend_qiang	[[b]]親善羌人部落[[/b]]\\n\\n [[col:flavour]][[i]]此派系親善羌人。羌人不會對此派系造成負面影響。[[/col]][[/i]]	true
+frontend_faction_leader_unique_features_localised_description_hv_frontend_shan_yue	[[b]]親善山越部落[[/b]]\\n\\n [[col:flavour]][[i]]此派系親善山越。山越不會對此派系造成負面影響。[[/col]][[/i]]	true

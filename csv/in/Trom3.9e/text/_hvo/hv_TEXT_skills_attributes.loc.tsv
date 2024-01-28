@@ -1,0 +1,18 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_skills_attributes.loc		
+effects_description_hv_effect_elemental_authority_campaign_sight	[[b]]%+n%[[/b]] campaign sight	true
+effects_description_hv_effect_elemental_cunning_campaign_supply	[[b]]%+n[[/b]] military supplies	true
+effects_description_hv_effect_elemental_expertise_melee_defence	[[b]]%+n[[/b]] melee evasion	true
+effects_description_hv_effect_elemental_instinct_melee_attack	[[b]]%+n%[[/b]] additional melee hit bonus	true
+effects_description_hv_effect_elemental_resolve_health	[[b]]%+n%[[/b]] health	true
+effects_description_hv_effect_elemental_authority_cavalry_missile_resistance	[[b]]%+n%[[/b]] missile resistance for cavalry	true
+effects_description_hv_effect_elemental_cunning_ranged_ammo	[[b]]%+n%[[/b]] ammunition for ranged units	true
+effects_description_hv_effect_elemental_expertise_attack_rate	[[b]]%+n%[[/b]] melee attack rate for melee infantry	true
+effects_description_hv_effect_elemental_instinct_cavalry_charge_bonus	[[b]]%+n[[/b]] charge bonus for cavalry	true
+effects_description_hv_effect_elemental_resolve_spear_weapon_damage	[[b]]%+n%[[/b]] weapon damage for polearm infantry	true
+effects_description_hv_effect_elemental_authority_satisfaction	[[b]]%+n[[/b]] satisfaction for all characters	true
+effects_description_hv_effect_elemental_characters_experience_bonus	[[b]]%+n%[[/b]] character experience	true
+effects_description_hv_effect_elemental_expertise_corruption	[[b]]%+n%[[/b]] corruption	true
+effects_description_hv_effect_elemental_instinct_redeployment_cost	[[b]]%+n%[[/b]] redeployment cost	true
+effects_description_hv_effect_elemental_resolve_food_mod	[[b]]%+n%[[/b]] food production	true
+effects_description_hv_effect_elemental_resolve_health_bodyguard	[[b]]%+n%[[/b]] general's bodyguard size	true

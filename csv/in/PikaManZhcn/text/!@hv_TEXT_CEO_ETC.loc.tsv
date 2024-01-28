@@ -1,0 +1,12 @@
+key	text	tooltip
+#Loc;1;text/!@hv_TEXT_CEO_ETC.loc		
+effects_description_3k_main_faction_trait_liu_bei_free_militia	农民兵、民兵和流民单位的维持费 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_xian_chen_ying_damange_resistance	陷阵营的伤害抗性[[b]]%+n%[[/b]]	true
+effects_description_hv_effect_xian_chen_ying_charge_bonus	陷阵营的冲锋加成 [[b]]%+n[[/b]]	true
+effects_description_hv_effect_xian_chen_ying_upkeep	陷阵营的维持费 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_mercenary_pool_recruitment_cost_mod	伯长部曲的招募费用 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_mercenary_pool_upkeep_mod	伯长部曲维持费 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_jing_local_recruitment_cost_mod	荆州豪族单位的招募费用 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_jing_local_upkeep_mod	荆州豪族单位维持费 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_dan_yang_upkeep	丹阳兵单位维持费[[b]]％+ n％[[/ b]]	true
+effects_description_hv_effect_dan_yang_charge_bonus	丹阳兵的冲锋加成[[b]]％+ n [[/ b]]	true

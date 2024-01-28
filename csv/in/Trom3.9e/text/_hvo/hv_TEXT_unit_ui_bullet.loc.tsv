@@ -1,0 +1,30 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_unit_ui_bullet.loc		
+ui_unit_bullet_point_enums_onscreen_name_strength_lime	Toxic gas	true
+ui_unit_bullet_point_enums_tooltip_strength_lime	This unit's arrows spew clouds of deadly gas on impact.	true
+ui_unit_bullet_point_enums_onscreen_name_strength_bomb	Gunpowder	true
+ui_unit_bullet_point_enums_tooltip_strength_bomb	Thunderous sounds and exploding flames agitate the enemy.	true
+ui_unit_bullet_point_enums_onscreen_name_weakness_low_range	Poor range	true
+ui_unit_bullet_point_enums_tooltip_weakness_low_range	This unit can't shoot very far.	true
+ui_unit_bullet_point_enums_onscreen_name_strength_taunt	Taunt enemy	true
+ui_unit_bullet_point_enums_tooltip_strength_taunt	This unit can provoke enemies.	true
+ui_unit_bullet_point_enums_onscreen_name_weakness_rampage	Rampage	true
+ui_unit_bullet_point_enums_tooltip_weakness_rampage	These soldiers obey only their own passions. They may charge without orders and act erratically on the battlefield!	true
+ui_unit_bullet_point_enums_onscreen_name_strength_shield_break	Good against shields	true
+ui_unit_bullet_point_enums_tooltip_strength_shield_break	This unit causes extra damage against shielded enemies.	true
+ui_unit_bullet_point_enums_onscreen_name_strength_partisan	Fire whilst moving	true
+ui_unit_bullet_point_enums_tooltip_strength_partisan	This unit can fire on the move.	true
+ui_unit_bullet_point_enums_onscreen_name_strength_armour_break	Good against armour	true
+ui_unit_bullet_point_enums_tooltip_strength_armour_break	This unit's weapon allows it to pierce even the strongest enemy armour.	true
+ui_unit_bullet_point_enums_onscreen_name_strength_heavy_bow	Heavy bow	true
+ui_unit_bullet_point_enums_tooltip_strength_heavy_bow	Their heavy metal bows are short-ranged but can pierce through enemies.	true
+ui_unit_bullet_point_enums_onscreen_name_strength_whistling_arrow	Whistling arrows	true
+ui_unit_bullet_point_enums_tooltip_strength_whistling_arrow	This unit fires whistling arrows that demoralise enemies along their trajectory.	true
+ui_unit_bullet_point_enums_onscreen_name_strength_kamikaze	Suicide bomb!	true
+ui_unit_bullet_point_enums_tooltip_strength_kamikaze	These fanatics will blow themselves up when they're in a losing battle.	true
+ui_unit_bullet_point_enums_onscreen_name_strength_rosin_arrow	Rosin arrows	true
+ui_unit_bullet_point_enums_tooltip_strength_rosin_arrow	This unit's sticky rosin arrows cling to their targets, making them vulnerable to flames.	true
+ui_unit_bullet_point_enums_onscreen_name_strength_siege_attacker	Siege Attacker	true
+ui_unit_bullet_point_enums_tooltip_strength_siege_attacker	This unit can attack city gates, allowing you to instantly launch a siege battle without having to wait for towers or battering rams to be built.	true
+ui_unit_bullet_point_enums_onscreen_name_strength_sling_fire	Flame Sling	true
+ui_unit_bullet_point_enums_tooltip_strength_sling_fire	This unit has a ranged weapon to light a fire from a distance.	true

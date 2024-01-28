@@ -1,0 +1,6 @@
+key	text	tooltip
+#Loc;1;text/!@hv_TEXT_SKILLSETS_basic.loc		
+character_skills_localised_description_hv_skill_wood_mobilization	集结百姓亦是策略之一	true
+character_skills_localised_name_hv_skill_wood_mobilization	动员	true
+effects_description_hv_effect_skill_infantry_speed	战斗步兵奔跑速度 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_skill_melee_attack	近战命中率 [[b]]%+n%[[/b]]	true

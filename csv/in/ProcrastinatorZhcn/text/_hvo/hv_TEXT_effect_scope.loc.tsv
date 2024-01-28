@@ -1,0 +1,10 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_effect_scope.loc		
+campaign_effect_scopes_localised_text_hv_scope_dummy_character_unlock_units_rank_militia	[[col:scope_description]]（此人等级1以上时）[[/col]]	true
+campaign_effect_scopes_localised_text_hv_scope_dummy_character_unlock_units_rank_buqu	[[col:scope_description]]（此人等级1以上时）[[/col]]	true
+campaign_effect_scopes_localised_text_hv_scope_dummy_character_unlock_units_rank_elite	[[col:scope_description]]（此人等级7以上时）[[/col]]	true
+campaign_effect_scopes_localised_text_hv_scope_dummy_character_unlock_units_rank_royal_guards	[[col:scope_description]]（此人等级11以上时）[[/col]]	true
+campaign_effect_scopes_localised_text_hv_effect_scope_character_to_faction_leader	[[col:scope_description]]（派系领袖）[[/col]]	true
+campaign_effect_scopes_localised_text_hv_effect_scope_character_to_character_enemy_regionwide	[[col:scope_description]]（{{tr:map_region}}内的敌军）[[/col]]	true
+campaign_effect_scopes_localised_text_character_to_force_own_when_commanding	[[col:scope_description]]（指挥时我方军队）[[/col]]	true
+campaign_effect_scopes_localised_text_hv_effect_scope_character_to_character_own_forcewide_when_commanding	[[col:scope_description]]（指挥时我方军队）[[/col]]	true

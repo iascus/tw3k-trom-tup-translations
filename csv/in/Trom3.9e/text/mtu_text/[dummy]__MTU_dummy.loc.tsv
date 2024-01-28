@@ -1,0 +1,28 @@
+key	text	tooltip
+#Loc;1;text/mtu_text/[dummy]__MTU_dummy.loc		
+land_units_onscreen_name_3k_main_hero_water_lady_diao_chan	Diao Chan	true
+custom_battle_loadouts_name_3k_main_custom_battle_loadout_lady_diao_chan_01	Lady	true
+custom_battle_loadouts_name_3k_main_custom_battle_loadout_lady_diao_chan_02	Queen	true
+custom_battle_loadouts_name_3k_main_custom_battle_loadout_lady_diao_chan_03	Empress	true
+ceo_nodes_title_3k_main_ancillary_lady_diao_chans_armour_unique	Diao Chan's Silk Raiment	true
+ceo_nodes_description_3k_main_ancillary_lady_diao_chans_armour_unique	The perfect weight and fit, tailored for this warrior of class and distinction.	true
+ceo_nodes_title_3k_main_ceo_node_career_historical_lady_diao_chan_01	Femme Fatale	false
+ceo_nodes_description_3k_main_ceo_node_career_historical_lady_diao_chan_01	Diao Chan's beauty is enough to destroy a country in a moment.	false
+incidents_localised_title_3k_main_char_historical_xun_yu_join_cao_cao	Hegemon's Aide	true
+incidents_localised_description_3k_main_char_historical_xun_yu_join_cao_cao	Xun Yu, a renowned strategist, has come to you to offer you his service. Many lords have offered him to join their side, but he rejected all the offers and decided to be a part of your ambition. You were thrilled to accept that someone so talented had come to you.	true
+incidents_localised_title_3k_main_char_historical_xun_yu_disappointed_cao_cao	Xun Yu's Opposition	false
+incidents_localised_description_3k_main_char_historical_xun_yu_disappointed_cao_cao	Xun Yu openly criticized you for seeking power, saying you should be focusing on the restoration of Han dynasty. He even had the gall to say that because of your pursuit of power, you will never see a good end. \\n\\n You were furious, but you could not openly express it, since he was an old friend and a loyal servant.	false
+dilemmas_localised_title_3k_main_historical_xun_yu_empty_lunchpail_dilemma	The Last Gift	false
+dilemmas_localised_description_3k_main_historical_xun_yu_empty_lunchpail_dilemma	You are furious because you found out your old friend and trusted servant, Xun Yu, has turned his back against you. He does not oppose you publicly for the time being, but you are certain he will betray you the first chance he gets. \\n\\n It's time to choose. You can send him a "gift." when he receives your "gift," he who shares a deep friendship with you will know the meaning of it...	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_main_historical_xun_yu_empty_lunchpail_dilemmaFIRST	Instead of sending Xun Yu the "gift", you chose to admit your wrong. With him, you swore to take the right path.	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_main_historical_xun_yu_empty_lunchpail_dilemmaSECOND	Xun Yu recognized the meaning of your "gift" and made the last choice. You regretted your choice when you heard that he was dead, but it was too late.	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_main_historical_xun_yu_empty_lunchpail_dilemmaFIRST	Forgive him	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_main_historical_xun_yu_empty_lunchpail_dilemmaSECOND	Send The "Gift"	false
+dilemmas_localised_title_3k_main_historical_dong_li_guo_rebellion_dilemma	Rebellion of Li Jue and Guo Si	false
+dilemmas_localised_description_3k_main_historical_dong_li_guo_rebellion_dilemma	Li Jue and Guo Si came to the capital with a huge army. They want avenge for their fallen master. The only thing they want is the neck of the killer.	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_main_historical_dong_li_guo_rebellion_dilemmaFIRST	You refused to hand over Wang Yun and his family to them. Then the rebels are furious, and they're going through the whole country!	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_main_historical_dong_li_guo_rebellion_dilemmaSECOND	Wang Yun went to them obediently and left these words.\\n\\n "It was my wish to make the country peaceful. I didn't, so I sacrifice myself. The litte emperor has shown kindness to me, and I can't stand to live a miserable life."	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_main_historical_dong_li_guo_rebellion_dilemmaFIRST	Refuse their demands	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_main_historical_dong_li_guo_rebellion_dilemmaSECOND	Send Wang Yun to them	false
+effect_bundles_localised_description_3k_main_effect_bundle_dong_zhou_event_public_order	The chaos caused by Li Jue and Guo Si is devastating the whole country.	false
+effect_bundles_localised_title_3k_main_effect_bundle_dong_zhou_event_public_order	The Cataclysm	false

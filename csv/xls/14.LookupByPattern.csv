@@ -1,6 +1,0 @@
-Pattern,zh-tw,zh-cn
-^(?P<repl>{{.*}}),{repl},{repl}
-^(?P<repl>{{.*}}) for recruitment: %\+n$,{repl}部署量：%+n,{repl}部署量：%+n
-^Unlocks unit: (?P<repl>{{.*}})$,解鎖單位：{repl},解锁部队：{repl}
-^Unlocks unit: (?P<repl>{{.*}}) units$,解鎖單位：{repl}單位,解锁部队：{repl}部队
-^Ability: (?P<vanilla>[a-zA-Z ]+)$,技能：{vanilla},技能：{vanilla}

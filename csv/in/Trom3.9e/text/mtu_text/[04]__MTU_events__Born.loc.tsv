@@ -1,0 +1,21 @@
+key	text	tooltip
+#Loc;1;text/mtu_text/[04]__MTU_events__Born.loc		
+incidents_localised_title_mtu_historical_male_born_incident	Noble Birth	false
+incidents_localised_title_mtu_historical_female_born_incident	Noble Birth	false
+incidents_localised_description_mtu_historical_male_born_incident	Joyous occasion - A son has been born! New blood keeps the line strong, but may also give rise to jealousy if other siblings feel their own position is threatened.	false
+incidents_localised_description_mtu_historical_female_born_incident	Joyous occasion! A daughter has been born! New blood keeps the line strong, but may also give rise to jealousy if other siblings feel their own position is threatened. 	false
+campaign_payload_ui_details_description_mtu_born_dummy_liu_shan	Character born: Liu Shan	false
+campaign_payload_ui_details_description_mtu_born_dummy_guan_yinping	Character born: Guan Yinping	false
+campaign_payload_ui_details_description_mtu_born_dummy_guan_xing	Character born: Guan Xing	false
+campaign_payload_ui_details_description_mtu_born_dummy_zhang_xingcai	Character born: Zhang Xueer	false
+campaign_payload_ui_details_description_mtu_born_dummy_zhang_bao	Character born: Zhang Bao	false
+incidents_localised_title_mtu_historical_liu_shan_born_incident	A Precious Son is Born to Liu Bei	false
+incidents_localised_title_mtu_historical_guan_yinping_born_incident	A Strong Daughter is Born to Guan Yu	false
+incidents_localised_title_mtu_historical_guan_xing_born_incident	A Strong Daughter is Born to Zhang Fei	false
+incidents_localised_title_mtu_historical_zhang_xingcai_born_incident	A Strong Son is Born to Guan Yu	false
+incidents_localised_title_mtu_historical_zhang_bao_born_incident	A Strong Son is Born to Zhang Fei	false
+incidents_localised_description_mtu_historical_liu_shan_born_incident	A most joyous occasion! The mistress of Liu Bei gives birth to a son. He has pure and mischievous eyes.	false
+incidents_localised_description_mtu_historical_guan_yinping_born_incident	A most joyous occasion! The mistress of Guan Yu gives birth to a daughter. The child the spitting image of her father, She may become a heroine.	false
+incidents_localised_description_mtu_historical_guan_xing_born_incident	A most joyous occasion! The mistress of Guan Yu gives birth to a son. He will definitely be a great general!	false
+incidents_localised_description_mtu_historical_zhang_xingcai_born_incident	A most joyous occasion! The mistress of Zhang Fei gives birth to a daughter. The child the spitting image of her father, She may become a heroine.	false
+incidents_localised_description_mtu_historical_zhang_bao_born_incident	A most joyous occasion! The mistress of Zhang Fei gives birth to a son. He will definitely be a great general!	false

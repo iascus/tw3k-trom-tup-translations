@@ -1,0 +1,26 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_skills_basic.loc		
+character_skills_localised_description_hv_skill_wood_mobilization	Motivating men to fight is the essense of leadership.	true
+character_skills_localised_name_hv_skill_wood_mobilization	Mobilisation	true
+effects_description_hv_effect_skill_light_infantry_speed	[[b]]%+n%[[/b]] battle running speed for light Infantry	true
+effects_description_hv_effect_skill_melee_attack_metal_units	[[b]]%+n%[[/b]] additional melee hit bonus for melee infantry	true
+effects_description_hv_effect_skill_melee_defence_fire_units	[[b]]%+n[[/b]] melee evasion for shock cavalry	true
+		false
+character_skills_localised_name_hv_skill_emperor_understanding	Understanding	false
+character_skills_localised_name_hv_skill_emperor_abundance	Abundance	false
+character_skills_localised_name_hv_skill_emperor_flexibility	Flexibility	false
+character_skills_localised_name_hv_skill_emperor_stability	Stability	false
+character_skills_localised_name_hv_skill_emperor_dilligence	Diligence	false
+character_skills_localised_name_hv_skill_emperor_reach	Reach	false
+character_skills_localised_name_hv_skill_emperor_nobility	Nobility	false
+character_skills_localised_name_hv_skill_emperor_clarity	Clarity	false
+character_skills_localised_description_hv_skill_emperor_understanding	What you do not wish upon yourself, extend not to others.	false
+character_skills_localised_description_hv_skill_emperor_abundance	Give a man a fish and you feed him for a day. Teach him to fish and you feed him for a lifetime.	false
+character_skills_localised_description_hv_skill_emperor_flexibility	Like the weather, one's fortune may change by the evening.	false
+character_skills_localised_description_hv_skill_emperor_stability	The pillar is strongest at its base.	false
+character_skills_localised_description_hv_skill_emperor_dilligence	The industrious need no orders to galvanise them into action.	false
+character_skills_localised_description_hv_skill_emperor_reach	With no knowledge of what cannot be done, you will accomplish great things.	false
+character_skills_localised_description_hv_skill_emperor_nobility	Virtue cannot be acquired, only nurtured.	false
+character_skills_localised_description_hv_skill_emperor_clarity	Coherence in thought and speech brings clear advantage.	false
+character_skills_localised_description_3k_dlc07_skill_emperor_earth_imperious	You are royal. Act like it.	false
+ceo_nodes_description_3k_dlc07_ancillary_weapon_emperor_xian_weapon_unique	A blade that is a beauty to behold. Inlaid with gold and embellished with shark skin, this blade is fit for a royal family.	false

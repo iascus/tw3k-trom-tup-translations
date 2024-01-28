@@ -1,0 +1,27 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_events_rules.loc		
+effect_bundles_localised_title_hv_script_effect_bundle_rule_of_virtue	王道	true
+effect_bundles_localised_description_hv_script_effect_bundle_rule_of_virtue	使人民能够安居乐业与死得其所，无所纷争，是为王道政治的第一步。	true
+effect_bundles_localised_title_hv_script_effect_bundle_rule_of_might	霸道	true
+effect_bundles_localised_description_hv_script_effect_bundle_rule_of_might	分解帝国，以封地的形式分给各地诸侯，以霸治国。	true
+effect_bundles_localised_description_hv_script_effect_bundle_rule_yet	失去王座！	true
+effect_bundles_localised_description_hv_script_effect_bundle_rule_yet	没人愿意追随一个无能的昏君，你可知否？	true
+effects_description_hv_effect_dummy_protectors_recruitable	解锁五龙御林军	true
+effects_description_hv_effect_dummy_imperial_recruitable	解锁朝廷禁卫军	true
+effects_description_hv_effect_dummy_protectors_not_recruitable	锁定五龙御林军	true
+effects_description_hv_effect_dummy_imperial_not_recruitable	锁定朝廷禁卫军	true
+effects_description_hv_effect_rule_of_virtue_province_public_order_faction	{{tr:public_order}} [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_rule_of_virtue_economy_trade_power	贸易影响力 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_rule_of_virtue_faction_diplomacy_mod	与所有派系的外交关系 [[b]]%+n[[/b]]	true
+effects_description_hv_effect_rule_of_might_character_salary	人物俸禄 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_rule_of_might_province_food_mod	粮食产量 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_rule_of_might_force_redeployment_cost	重新部署成本 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_rule_of_might_building_construction_time_mod	建造时间 [[b]]%+n[[/b]]	true
+effects_description_hv_effect_rule_of_might_force_all_campaign_post_battle_loot_income	战后掳掠收入 [[b]]%+n%[[/b]]	true
+effects_description_3k_main_dummy_effect_emperor_palace_guard	解锁精锐禁卫军	true
+dilemmas_localised_title_hv_dilemma_empire_rules	改朝换代	true
+dilemmas_localised_description_hv_dilemma_empire_rules	经过数个世代，汉王朝失其天命。然而，天下黎民仍饱受各地宣称带有天命的军阀，所带来的战乱之苦。主公，你必须终结乱世。天下正等待新的治理规则引导新的团结繁荣与太平盛​​世。你将如何选择，治里天下众生？	true
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_empire_rulesFIRST	天下将以王道主义来治理。	true
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_empire_rulesSECOND	天下将以霸道主义来治理。	true
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_empire_rulesFIRST	你是唯一能让天下回归太平之人，众人将服从你的意志。	true
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_empire_rulesSECOND	你是唯一能让天下回归太平之人，众人将服从你的意志。	true

@@ -1,0 +1,10 @@
+key	text	tooltip
+#Loc;1;text/!@hv_TEXT_SKILLS.loc		
+effects_description_hv_effect_skill_retinue_cavalry_speed	戰場騎兵奔跑速度 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_skill_retinue_infantry_missile_resistance	步兵遠程阻擋機率 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_skill_retinue_ranged_mod	遠程範圍 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_skill_retinue_heavy_infantry_unit_speed	戰場重步兵奔跑速度 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_skill_retinue_melee_attack_own_territory	近戰命中加成在我方領土 [[b]]%+n[[/b]]	true
+effects_description_hv_effect_skill_retinue_melee_defence_own_territory	近戰迴避在我方領土 [[b]]%+n%[[/b]]	true
+effects_description_hv_effect_skill_retinue_melee_attack_enemy_territory	近戰命中加成在敵方領土 [[b]]%+n[[/b]]	true
+effects_description_hv_effect_skill_retinue_melee_defence_enemy_territory	近戰迴避在敵方領土 [[b]]%+n%[[/b]]	true

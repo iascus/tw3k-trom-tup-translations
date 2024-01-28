@@ -1,0 +1,6 @@
+key	text	tooltip
+#Loc;1;text/_hvo/hv_TEXT_effect_faction.loc		
+effects_description_hv_effect_replenishment_royal_guards	[[b]]%+n%[[/b]] replenishment for Royal Guard units	false
+effects_description_hv_effect_replenishment_northern_army	[[b]]%+n%[[/b]] replenishment for the Northern Army units	false
+effect_bundles_localised_description_hv_effect_bundle_empress_he_replenishment_penalty	Unstable Han dynasty	false
+campaign_localised_strings_string_military_force_morale_effect_bonus_value_animosity	Congestion	false
