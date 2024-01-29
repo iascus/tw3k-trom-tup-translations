@@ -88,7 +88,26 @@ class TsvFiles(Step):
                 df.columns = ['Key', 'Text', 'Tooltip']
                 df['File'] = os.path.basename(filepath)
                 dfs.append(df)
-        return pd.concat(dfs)
+        data = pd.concat(dfs).dropna(subset='Key').drop_duplicates(subset='Key').sort_values('Key')
+        return data
+
+
+class LocOutput(Step):
+
+    tsv_filename = '!@hv_TEXT.tsv'
+
+    def save(self):
+        super().save()
+        loc_filepath = f'csv/out/{self.lang_col}/{self.tsv_filename}'
+        data = self.data.loc[self.data['Key'] != ''].dropna()
+        data['Tooltip'] = data['Tooltip'].astype(str).str.lower()
+        with open(loc_filepath, 'w', encoding='utf-8', newline='\n') as out_file:
+            out_file.writelines([
+                '\t'.join(str(col).lower() for col in self.data.columns) + '\n',
+                f'#Loc;1;text/{self.tsv_filename}\n',
+            ])
+            data.to_csv(out_file, index=False, header=False, sep='\t', lineterminator='\n')
+        logger.info(f'Saved to {loc_filepath}')
 
 
 class VanillaZhcn(InputFile):
@@ -116,6 +135,11 @@ class TromZhtw(TsvFiles):
 class TromEng(TsvFiles):
     step_no = 6
     dir_path = 'Trom3.9e'
+
+
+class ProcrastinatorZhcn(TsvFiles):
+    step_no = 7
+    dir_path = 'ProcrastinatorZhcn'
 
 
 class TromVanillaKeyOverride(LookupFile):
@@ -293,8 +317,9 @@ class MapByKeyZhtw(MapByKeyZhcn):
     lang_col = 'zh-tw'
 
 
-class FinalZhcn(Step):
+class FinalZhcn(LocOutput):
     step_no = 26
+    lang_col = 'zh-cn'
 
     def __init__(self, map_by_key_zh):
         self.map_by_key_zh = map_by_key_zh
@@ -306,6 +331,7 @@ class FinalZhcn(Step):
 
 class FinalZhtw(FinalZhcn):
     step_no = 27
+    lang_col = 'zh-tw'
 
 
 class MissingZhcn(Step):
@@ -328,6 +354,39 @@ class MissingZhtw(MissingZhcn):
     step_no = 41
 
 
+class Comparison(Step):
+    step_no = 42
+
+    def __init__(self, trom_eng, vanilla_zhcn, vanilla_zhtw, map_by_key_zhcn, map_by_key_zhtw, trom_zhcn, trom_zhtw, procrastinator_zhcn):
+        self.trom_eng = trom_eng
+        self.vanilla_zhcn = vanilla_zhcn
+        self.vanilla_zhtw = vanilla_zhtw
+        self.map_by_key_zhcn = map_by_key_zhcn
+        self.map_by_key_zhtw = map_by_key_zhtw
+        self.trom_zhcn = trom_zhcn
+        self.trom_zhtw = trom_zhtw
+        self.procrastinator_zhcn = procrastinator_zhcn
+
+    def _run(self):
+        cmp = pd.concat([
+            step.data.drop_duplicates(subset='Key').set_index('Key').rename({from_col: to_col}, axis=1)[to_col]
+            for step, from_col, to_col in [
+                (self.trom_eng, 'Text', 'English'),
+                (self.map_by_key_zhcn, 'Text', 'MappedZhcn'),
+                (self.map_by_key_zhcn, 'Source', 'SourceZhcn'),
+                (self.vanilla_zhcn, 'Text', 'VanillaZhcn'),
+                (self.trom_zhcn, 'Text', 'PikaManZhcn'),
+                (self.procrastinator_zhcn, 'Text', 'ProcrastinatorZhcn'),
+                (self.map_by_key_zhtw, 'Text', 'MappedZhtw'),
+                (self.map_by_key_zhtw, 'Source', 'SourceZhtw'),
+                (self.vanilla_zhtw, 'Text', 'VanillaZhtw'),
+                (self.trom_zhtw, 'Text', 'PikaManZhtw'),
+            ]
+        ], axis=1).loc[self.trom_eng.data['Key'].drop_duplicates()].reset_index()
+        cmp = cmp[(cmp['MappedZhcn'] != cmp['ProcrastinatorZhcn']) & (~cmp['ProcrastinatorZhcn'].isin([np.nan, '', '尚未翻译']))]
+        return cmp
+
+
 def main():
     vanilla_zhcn = VanillaZhcn()
     vanilla_zhtw = VanillaZhtw()
@@ -335,6 +394,7 @@ def main():
     trom_zhcn = TromZhcn()
     trom_zhtw = TromZhtw()
     trom_eng = TromEng()
+    procrastinator_zhcn = ProcrastinatorZhcn()
     key_map_override = TromVanillaKeyOverride()
     vanilla_translations = VanillaTranslations(trom_eng, key_map_override, vanilla_eng, vanilla_zhtw, vanilla_zhcn)
     lookup_by_text = LookupByText()
@@ -351,6 +411,7 @@ def main():
     final_zhtw = FinalZhtw(map_by_key_zhtw)
     missing_zhcn = MissingZhcn(map_by_key_zhcn)
     missing_zhtw = MissingZhtw(map_by_key_zhtw)
+    comparison = Comparison(trom_eng, vanilla_zhcn, vanilla_zhtw, map_by_key_zhcn, map_by_key_zhtw, trom_zhcn, trom_zhtw, procrastinator_zhcn)
 
     for step in [
         vanilla_zhcn,
@@ -359,6 +420,7 @@ def main():
         trom_zhcn,
         trom_zhtw,
         trom_eng,
+        procrastinator_zhcn,
         key_map_override,
         vanilla_translations,
         lookup_by_text,
@@ -375,6 +437,7 @@ def main():
         final_zhtw,
         missing_zhcn,
         missing_zhtw,
+        comparison,
     ]:
         step.run()
         step.save()
