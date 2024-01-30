@@ -1,8 +1,7 @@
 import glob
+import logging
 import os
 import re
-import difflib
-import logging
 from abc import abstractmethod
 
 import numpy as np
@@ -223,7 +222,7 @@ class MapByPatternZhcn(Step):
         data = data.groupby(['Text']).agg(Tooltip=('Tooltip', 'first'), File=('File', 'first'), Count=('Key', 'count'), Key=('Key', 'first'))
         lookup_by_text = self.lookup_by_text.data.set_index('eng')[[self.lang_col]].rename({self.lang_col: 'Mapped by text'}, axis=1)
         data = data.merge(lookup_by_text, left_index=True, right_index=True, how='left')
-        data['Mapped by pattern'] = pd.Series(np.nan, dtype='string')
+        data['Mapped by pattern'] = pd.Series(pd.NA, dtype='string')
 
         lookup_by_text_fragment = self.lookup_by_text_fragment.data.set_index('eng')[self.lang_col].to_dict()
         lookup_by_pattern = self.lookup_by_pattern.data.set_index(['KeyPattern', 'TextPattern'])[[self.lang_col]]
@@ -289,10 +288,10 @@ class MapByKeyZhcn(Step):
         data['Short Key'] = data['Key'].str.rsplit('_', n=1).str[0]
         data = data.merge(trom_zh.rename({'Text': '2.2 translation shortened key', 'Key': 'Short Key'}, axis=1), on='Short Key', how='left')
 
-        data['Text'] = data['English']
+        data['Text'] = pd.NA
         data['Source'] = 'Missing'
         map_by_pattern_zh = self.map_by_pattern_zh.data[['Text', 'Mapped by text', 'Mapped by pattern']]
-        data = data.merge(map_by_pattern_zh, on='Text', how='left')
+        data = data.merge(map_by_pattern_zh, left_on='English', right_on='Text', how='left')
         for col in [
             '2.2 translation shortened key',
             '2.2 translation',
@@ -325,13 +324,41 @@ class FinalZhcn(LocOutput):
         self.map_by_key_zh = map_by_key_zh
 
     def _run(self):
-        data = self.map_by_key_zh.data[['Key', 'Text', 'Tooltip']]
+        data = self.map_by_key_zh.data
+        data.loc[data['Source'] == 'Missing', 'Text'] = data['English']
+        data = data[['Key', 'Text', 'Tooltip']]
         return data
 
 
 class FinalZhtw(FinalZhcn):
     step_no = 27
     lang_col = 'zh-tw'
+
+
+class RegenLookupByText(Step):
+    step_no = 28
+
+    def __init__(self, map_by_key_zhcn, map_by_key_zhtw, lookup_by_text):
+        self.map_by_key_zhcn = map_by_key_zhcn
+        self.map_by_key_zhtw = map_by_key_zhtw
+        self.lookup_by_text = lookup_by_text
+
+    def _run(self):
+        new_lookup = pd.concat([
+            zh.loc[
+                zh.Source.isin(['Missing', 'Mapped by text']), ['English', from_col]
+            ].rename({
+                'English': 'eng',
+                from_col: to_col,
+            }, axis=1).drop_duplicates(subset='eng').set_index('eng')
+            for zh, from_col, to_col in [
+                (self.map_by_key_zhcn.data, 'Text', 'zh-cn'),
+                (self.map_by_key_zhtw.data, 'Text', 'zh-tw'),
+                (self.map_by_key_zhtw.data, 'File', 'File'),
+            ]
+        ], axis=1).sort_index().reset_index()
+        new_lookup = new_lookup.loc[new_lookup['eng'] != '']
+        return new_lookup
 
 
 class MissingZhcn(Step):
@@ -383,7 +410,7 @@ class Comparison(Step):
                 (self.trom_zhtw, 'Text', 'PikaManZhtw'),
             ]
         ], axis=1).loc[self.trom_eng.data['Key'].drop_duplicates()].reset_index()
-        cmp = cmp[(cmp['MappedZhcn'] != cmp['ProcrastinatorZhcn']) & (~cmp['ProcrastinatorZhcn'].isin([np.nan, '', '尚未翻译']))]
+        cmp = cmp[(cmp['MappedZhcn'] != cmp['ProcrastinatorZhcn']) & (~cmp['ProcrastinatorZhcn'].isin([pd.NA, '', '尚未翻译']))]
         return cmp
 
 
@@ -409,6 +436,7 @@ def main():
     map_by_key_zhtw = MapByKeyZhtw(trom_eng, vanilla_translations, trom_zhtw, lookup_by_key, map_by_pattern_zhtw)
     final_zhcn = FinalZhcn(map_by_key_zhcn)
     final_zhtw = FinalZhtw(map_by_key_zhtw)
+    regen_lookup_by_text = RegenLookupByText(map_by_key_zhcn, map_by_key_zhtw, lookup_by_text)
     missing_zhcn = MissingZhcn(map_by_key_zhcn)
     missing_zhtw = MissingZhtw(map_by_key_zhtw)
     comparison = Comparison(trom_eng, vanilla_zhcn, vanilla_zhtw, map_by_key_zhcn, map_by_key_zhtw, trom_zhcn, trom_zhtw, procrastinator_zhcn)
@@ -435,6 +463,7 @@ def main():
         map_by_key_zhtw,
         final_zhcn,
         final_zhtw,
+        regen_lookup_by_text,
         missing_zhcn,
         missing_zhtw,
         comparison,
