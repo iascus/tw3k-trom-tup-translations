@@ -218,9 +218,10 @@ class MapByPatternZhcn(Step):
         return found
 
     def _run(self):
-        data = self.trom_eng.data.fillna('')
+        data = self.trom_eng.data.fillna('').copy()
         data = data.groupby(['Text']).agg(Tooltip=('Tooltip', 'first'), File=('File', 'first'), Count=('Key', 'count'), Key=('Key', 'first'))
-        lookup_by_text = self.lookup_by_text.data.set_index('eng')[[self.lang_col]].rename({self.lang_col: 'Mapped by text'}, axis=1)
+        lookup_by_text = self.lookup_by_text.data[~pd.isna(self.lookup_by_text.data[self.lang_col])]
+        lookup_by_text = lookup_by_text.set_index('eng')[[self.lang_col]].rename({self.lang_col: 'Mapped by text'}, axis=1)
         data = data.merge(lookup_by_text, left_index=True, right_index=True, how='left')
         data['Mapped by pattern'] = pd.Series(pd.NA, dtype='string')
 
@@ -277,7 +278,7 @@ class MapByKeyZhcn(Step):
         self.map_by_pattern_zh = map_by_pattern_zh
 
     def _run(self):
-        data = self.trom_eng.data.fillna('').rename({'Text': 'English'}, axis=1)
+        data = self.trom_eng.data.fillna('').rename({'Text': 'English'}, axis=1).copy()
         vanilla = self.vanilla_translations.data.drop_duplicates(subset=['Key'])
         vanilla = vanilla[['Key', self.lang_col]].rename({self.lang_col: 'Vanilla'}, axis=1)
         trom_zh = self.trom_zh.data.drop_duplicates(subset=['Key'])[['Key', 'Text']]
@@ -324,7 +325,7 @@ class FinalZhcn(LocOutput):
         self.map_by_key_zh = map_by_key_zh
 
     def _run(self):
-        data = self.map_by_key_zh.data
+        data = self.map_by_key_zh.data.copy()
         data.loc[data['Source'] == 'Missing', 'Text'] = data['English']
         data = data[['Key', 'Text', 'Tooltip']]
         return data
@@ -338,10 +339,9 @@ class FinalZhtw(FinalZhcn):
 class RegenLookupByText(Step):
     step_no = 28
 
-    def __init__(self, map_by_key_zhcn, map_by_key_zhtw, lookup_by_text):
+    def __init__(self, map_by_key_zhcn, map_by_key_zhtw):
         self.map_by_key_zhcn = map_by_key_zhcn
         self.map_by_key_zhtw = map_by_key_zhtw
-        self.lookup_by_text = lookup_by_text
 
     def _run(self):
         new_lookup = pd.concat([
@@ -436,7 +436,7 @@ def main():
     map_by_key_zhtw = MapByKeyZhtw(trom_eng, vanilla_translations, trom_zhtw, lookup_by_key, map_by_pattern_zhtw)
     final_zhcn = FinalZhcn(map_by_key_zhcn)
     final_zhtw = FinalZhtw(map_by_key_zhtw)
-    regen_lookup_by_text = RegenLookupByText(map_by_key_zhcn, map_by_key_zhtw, lookup_by_text)
+    regen_lookup_by_text = RegenLookupByText(map_by_key_zhcn, map_by_key_zhtw)
     missing_zhcn = MissingZhcn(map_by_key_zhcn)
     missing_zhtw = MissingZhtw(map_by_key_zhtw)
     comparison = Comparison(trom_eng, vanilla_zhcn, vanilla_zhtw, map_by_key_zhcn, map_by_key_zhtw, trom_zhcn, trom_zhtw, procrastinator_zhcn)

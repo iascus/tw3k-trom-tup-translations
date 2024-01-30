@@ -5,7 +5,7 @@ KeyPattern,TextPattern,zh-tw,zh-cn
 ,^Ability: (?P<text>[-a-zA-Z ]+)$,技能：{text},技能：{text}
 ,^Unlocks (?P<unit_type>[a-zA-Z ]+) units \[\[col:scope_description\]\]\(own retinue\)\[\[/col\]\],解除{unit_type}單位的鎖定[[col:scope_description]]（我方部曲）[[/col]],解锁{unit_type}单位[[col:scope_description]]（我方部曲）[[/col]]
 ,"^Unlocks (?P<unit_type>[a-zA-Z, ]+) \[\[col:scope_description\]\]\(own retinue\)\[\[/col\]\]",解除{unit_type}的鎖定[[col:scope_description]]（我方部曲）[[/col]],解锁{unit_type}[[col:scope_description]]（我方部曲）[[/col]]
-,^Unlocks assignment: (?P<text>.*)$,解鎖任務：{text},解锁任务：{text}
+,^Unlocks assignment: (?P<text_fragment>.*)$,解鎖任務：{text_fragment},解锁任务：{text_fragment}
 ,^Unlocks unit: (?P<repl>{{.*}}) units$,解鎖單位：{repl}單位,解锁部队：{repl}部队
 ,^Unlocks unit: (?P<repl>{{.*}})$,解鎖單位：{repl},解锁部队：{repl}
 ,^You may now recruit (?P<unit_type>[a-zA-Z :{}_]+) units$,您現在可以招募：{unit_type}單位,您现在可以招募：{unit_type}部队
