@@ -190,14 +190,14 @@ Academic Advancement,1,學術進步,,hv_TEXT_events.loc.tsv
 Accept,3,,,hv_TEXT_events.loc.tsv
 Accumulating Wealth,6,,,hv_TEXT_events.loc.tsv
 Active Buff,15,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
-Active Buff All Entities,2,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
-Active Buff Ally,33,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
-Active Buff Ally (Auto),1,,,hv_TEXT_unit_abilities.loc.tsv
-Active Buff Self,16,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
-Active Buff Self (Auto),10,,,hv_TEXT_unit_abilities.loc.tsv
+Active Buff All Entities,2,全體主動增益,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+Active Buff Ally,33,我方主動增益,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+Active Buff Ally (Auto),1,我方主動增益（自動）,,hv_TEXT_unit_abilities.loc.tsv
+Active Buff Self,16,自身主動增益,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+Active Buff Self (Auto),10,自身主動增益（自動）,,hv_TEXT_unit_abilities.loc.tsv
 Active Debuff,1,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
-Active Debuff Enemy,15,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
-Active Debuff Enemy (Auto),1,,,hv_TEXT_unit_abilities.loc.tsv
+Active Debuff Enemy,15,敵方主動減益,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+Active Debuff Enemy (Auto),1,敵方主動減益（自動）,,hv_TEXT_unit_abilities.loc.tsv
 Adamant Resolve,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Adaptation is the only way to live.,1,,,hv_TEXT_unit_abilities.loc.tsv
 "After an epic struggle, you slay the enormous white tiger. Then, unexpectedly, the other tigers prostrate themselves as if submitting to your might! These white tigers don't seem to be ordinary beasts.",1,,,hv_TEXT_events.loc.tsv
@@ -577,7 +577,7 @@ Flame Breathing,3,吐火,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 Flame Sling,1,,,hv_TEXT_unit_ui_bullet.loc.tsv
 Flames of the Phoenix,7,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
 Flammable rosin sticks to clothing and armour.,1,,,hv_TEXT_unit_abilities_hit_effects.loc.tsv
-"Flank, Charge, Chase",91,側擊，衝擊，追擊,,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
+"Flank, Charge, Chase",91,包抄，衝鋒，追擊,,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 Fleet-footed,12,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
 Flexibility,1,,,hv_TEXT_skills_basic.loc.tsv
 Flower of the Battlefield,8,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -1035,11 +1035,11 @@ Overwhelmming,4,壓倒之勢,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Palace Guards,1,宮廷侍衛,,hv_TEXT_unit_text_replacements.loc.tsv
 "Pang Tong sacrifices himself, to aid his fellow brothers.",1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Parry,3,,,hv_TEXT_unit_abilities_hit_effects.loc.tsv
-Passive Ally Buff,1,,,hv_TEXT_unit_abilities.loc.tsv
+Passive Ally Buff,1,我方被動增益,,hv_TEXT_unit_abilities.loc.tsv
 Passive Buff,9,,,hv_TEXT_skills_skill_ability_wu_brave.loc.tsv
-Passive Buff Ally,29,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
-Passive Buff Self,77,,,hv_TEXT_unit_abilities.loc.tsv
-Passive Debuff Enemy,7,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+Passive Buff Ally,29,我方被動增益,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+Passive Buff Self,77,自身被動增益,,hv_TEXT_unit_abilities.loc.tsv
+Passive Debuff Enemy,7,敵方被動減益,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 Passive buff Self,1,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 Pearl Dragons,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Peasant Archers,1,,農民弓兵,hv_TEXT_unit_text_replacements.loc.tsv

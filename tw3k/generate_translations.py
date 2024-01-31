@@ -6,6 +6,7 @@ from abc import abstractmethod
 
 import numpy as np
 import pandas as pd
+from opencc import OpenCC
 
 logging.basicConfig(level=logging.INFO)
 
@@ -121,12 +122,12 @@ class VanillaEng(InputFile):
     step_no = 3
 
 
-class TromZhcn(TsvFiles):
+class PikaManZhcn(TsvFiles):
     step_no = 4
     dir_path = 'PikaManZhcn'
 
 
-class TromZhtw(TsvFiles):
+class PikaManZhtw(TsvFiles):
     step_no = 5
     dir_path = 'PikaManZhtw'
 
@@ -139,6 +140,19 @@ class TromEng(TsvFiles):
 class ProcrastinatorZhcn(TsvFiles):
     step_no = 7
     dir_path = 'ProcrastinatorZhcn'
+
+
+class ProcrastinatorZhtw(Step):
+    step_no = 8
+
+    def __init__(self, procrastinator_zhcn):
+        self.procrastinator_zhcn = procrastinator_zhcn
+
+    def _run(self):
+        data = self.procrastinator_zhcn.data.copy()
+        cc = OpenCC('s2t')
+        data['Text'] = data['Text'].apply(lambda string: cc.convert(string) if not pd.isna(string) else string)
+        return data
 
 
 class TromVanillaKeyOverride(LookupFile):
@@ -270,10 +284,10 @@ class MapByKeyZhcn(Step):
     step_no = 24
     lang_col = 'zh-cn'
 
-    def __init__(self, trom_eng, vanilla_translations, trom_zh, lookup_by_key, map_by_pattern_zh):
+    def __init__(self, trom_eng, vanilla_translations, pikaman_zh, lookup_by_key, map_by_pattern_zh):
         self.trom_eng = trom_eng
         self.vanilla_translations = vanilla_translations
-        self.trom_zh = trom_zh
+        self.pikaman_zh = pikaman_zh
         self.lookup_by_key = lookup_by_key
         self.map_by_pattern_zh = map_by_pattern_zh
 
@@ -281,21 +295,21 @@ class MapByKeyZhcn(Step):
         data = self.trom_eng.data.fillna('').rename({'Text': 'English'}, axis=1).copy()
         vanilla = self.vanilla_translations.data.drop_duplicates(subset=['Key'])
         vanilla = vanilla[['Key', self.lang_col]].rename({self.lang_col: 'Vanilla'}, axis=1)
-        trom_zh = self.trom_zh.data.drop_duplicates(subset=['Key'])[['Key', 'Text']]
+        pikaman_zh = self.pikaman_zh.data.drop_duplicates(subset=['Key'])[['Key', 'Text']]
         lookup_by_key = self.lookup_by_key.data[['Key', self.lang_col]].rename({self.lang_col: 'Override by key'}, axis=1)
         data = data.merge(lookup_by_key, on='Key', how='left')
         data = data.merge(vanilla, on='Key', how='left')
-        data = data.merge(trom_zh.rename({'Text': '2.2 translation'}, axis=1), on='Key', how='left')
+        data = data.merge(pikaman_zh.rename({'Text': 'PikaMan'}, axis=1), on='Key', how='left')
         data['Short Key'] = data['Key'].str.rsplit('_', n=1).str[0]
-        data = data.merge(trom_zh.rename({'Text': '2.2 translation shortened key', 'Key': 'Short Key'}, axis=1), on='Short Key', how='left')
+        data = data.merge(pikaman_zh.rename({'Text': 'PikaMan shortened key', 'Key': 'Short Key'}, axis=1), on='Short Key', how='left')
 
         data['Text'] = pd.NA
         data['Source'] = 'Missing'
         map_by_pattern_zh = self.map_by_pattern_zh.data[['Text', 'Mapped by text', 'Mapped by pattern']]
         data = data.merge(map_by_pattern_zh, left_on='English', right_on='Text', how='left')
         for col in [
-            '2.2 translation shortened key',
-            '2.2 translation',
+            'PikaMan shortened key',
+            'PikaMan',
             'Vanilla',
             'Mapped by text',
             'Mapped by pattern',
@@ -306,7 +320,7 @@ class MapByKeyZhcn(Step):
         data['File'] = data['File'].str.replace('text/_hvo/', '')
         data = data.reset_index()[[
             'Key', 'Text', 'Tooltip', 'English', 'Override by key',
-            'Mapped by text', 'Mapped by pattern', 'Vanilla', '2.2 translation', '2.2 translation shortened key',
+            'Mapped by text', 'Mapped by pattern', 'Vanilla', 'PikaMan', 'PikaMan shortened key',
             'Source', 'Short Key', 'File',
         ]]
         return data
@@ -371,8 +385,8 @@ class MissingZhcn(Step):
         data = self.map_by_key_zh.data
         data = data.loc[(data['Source'].isin([
             'Missing',
-            # '2.2 translation shortened key',
-            # '2.2 translation',
+            # 'PikaMan shortened key',
+            # 'PikaMan',
         ])) & (data['Text'] != '')]
         return data
 
@@ -384,14 +398,14 @@ class MissingZhtw(MissingZhcn):
 class Comparison(Step):
     step_no = 42
 
-    def __init__(self, trom_eng, vanilla_zhcn, vanilla_zhtw, map_by_key_zhcn, map_by_key_zhtw, trom_zhcn, trom_zhtw, procrastinator_zhcn):
+    def __init__(self, trom_eng, vanilla_zhcn, vanilla_zhtw, map_by_key_zhcn, map_by_key_zhtw, pikaman_zhcn, pikaman_zhtw, procrastinator_zhcn):
         self.trom_eng = trom_eng
         self.vanilla_zhcn = vanilla_zhcn
         self.vanilla_zhtw = vanilla_zhtw
         self.map_by_key_zhcn = map_by_key_zhcn
         self.map_by_key_zhtw = map_by_key_zhtw
-        self.trom_zhcn = trom_zhcn
-        self.trom_zhtw = trom_zhtw
+        self.pikaman_zhcn = pikaman_zhcn
+        self.pikaman_zhtw = pikaman_zhtw
         self.procrastinator_zhcn = procrastinator_zhcn
 
     def _run(self):
@@ -402,15 +416,15 @@ class Comparison(Step):
                 (self.map_by_key_zhcn, 'Text', 'MappedZhcn'),
                 (self.map_by_key_zhcn, 'Source', 'SourceZhcn'),
                 (self.vanilla_zhcn, 'Text', 'VanillaZhcn'),
-                (self.trom_zhcn, 'Text', 'PikaManZhcn'),
+                (self.pikaman_zhcn, 'Text', 'PikaManZhcn'),
                 (self.procrastinator_zhcn, 'Text', 'ProcrastinatorZhcn'),
                 (self.map_by_key_zhtw, 'Text', 'MappedZhtw'),
                 (self.map_by_key_zhtw, 'Source', 'SourceZhtw'),
                 (self.vanilla_zhtw, 'Text', 'VanillaZhtw'),
-                (self.trom_zhtw, 'Text', 'PikaManZhtw'),
+                (self.pikaman_zhtw, 'Text', 'PikaManZhtw'),
             ]
         ], axis=1).loc[self.trom_eng.data['Key'].drop_duplicates()].reset_index()
-        cmp = cmp[(cmp['MappedZhcn'] != cmp['ProcrastinatorZhcn']) & (~cmp['ProcrastinatorZhcn'].isin([pd.NA, '', '尚未翻译']))]
+        cmp = cmp[(cmp['MappedZhcn'] != cmp['ProcrastinatorZhcn']) & (~cmp['ProcrastinatorZhcn'].isin([np.nan, pd.NA, '', '尚未翻译']))]
         return cmp
 
 
@@ -418,10 +432,11 @@ def main():
     vanilla_zhcn = VanillaZhcn()
     vanilla_zhtw = VanillaZhtw()
     vanilla_eng = VanillaEng()
-    trom_zhcn = TromZhcn()
-    trom_zhtw = TromZhtw()
+    pikaman_zhcn = PikaManZhcn()
+    pikaman_zhtw = PikaManZhtw()
     trom_eng = TromEng()
     procrastinator_zhcn = ProcrastinatorZhcn()
+    procrastinator_zhtw = ProcrastinatorZhtw(procrastinator_zhcn)
     key_map_override = TromVanillaKeyOverride()
     vanilla_translations = VanillaTranslations(trom_eng, key_map_override, vanilla_eng, vanilla_zhtw, vanilla_zhcn)
     lookup_by_text = LookupByText()
@@ -432,23 +447,24 @@ def main():
     lookup_by_text_fragment = LookupByTextFragment()
     map_by_pattern_zhcn = MapByPatternZhcn(trom_eng, vanilla_translations, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type, lookup_by_text_fragment)
     map_by_pattern_zhtw = MapByPatternZhtw(trom_eng, vanilla_translations, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type, lookup_by_text_fragment)
-    map_by_key_zhcn = MapByKeyZhcn(trom_eng, vanilla_translations, trom_zhcn, lookup_by_key, map_by_pattern_zhcn)
-    map_by_key_zhtw = MapByKeyZhtw(trom_eng, vanilla_translations, trom_zhtw, lookup_by_key, map_by_pattern_zhtw)
+    map_by_key_zhcn = MapByKeyZhcn(trom_eng, vanilla_translations, pikaman_zhcn, lookup_by_key, map_by_pattern_zhcn)
+    map_by_key_zhtw = MapByKeyZhtw(trom_eng, vanilla_translations, pikaman_zhtw, lookup_by_key, map_by_pattern_zhtw)
     final_zhcn = FinalZhcn(map_by_key_zhcn)
     final_zhtw = FinalZhtw(map_by_key_zhtw)
     regen_lookup_by_text = RegenLookupByText(map_by_key_zhcn, map_by_key_zhtw)
     missing_zhcn = MissingZhcn(map_by_key_zhcn)
     missing_zhtw = MissingZhtw(map_by_key_zhtw)
-    comparison = Comparison(trom_eng, vanilla_zhcn, vanilla_zhtw, map_by_key_zhcn, map_by_key_zhtw, trom_zhcn, trom_zhtw, procrastinator_zhcn)
+    comparison = Comparison(trom_eng, vanilla_zhcn, vanilla_zhtw, map_by_key_zhcn, map_by_key_zhtw, pikaman_zhcn, pikaman_zhtw, procrastinator_zhcn)
 
     for step in [
         vanilla_zhcn,
         vanilla_zhtw,
         vanilla_eng,
-        trom_zhcn,
-        trom_zhtw,
+        pikaman_zhcn,
+        pikaman_zhtw,
         trom_eng,
         procrastinator_zhcn,
+        procrastinator_zhtw,
         key_map_override,
         vanilla_translations,
         lookup_by_text,

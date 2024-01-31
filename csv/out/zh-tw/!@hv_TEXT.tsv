@@ -4348,9 +4348,9 @@ ui_unit_groupings_tooltip_3k_main_hero_wood	身先士卒，鼓舞軍心	true
 ui_unit_groupings_tooltip_3k_main_unit_artillery_watert1	超遠距，穿甲傷害高，射擊速率非常慢	true
 ui_unit_groupings_tooltip_3k_main_unit_artillery_watert2	超遠距，穿甲傷害高，射擊速率非常慢	true
 ui_unit_groupings_tooltip_3k_main_unit_artillery_watert3	超遠距，穿甲傷害高，射擊速率非常慢	true
-ui_unit_groupings_tooltip_3k_main_unit_axe_cavalry_eartht1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_3k_main_unit_axe_cavalry_eartht2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_3k_main_unit_axe_cavalry_eartht3	側擊，衝擊，追擊	true
+ui_unit_groupings_tooltip_3k_main_unit_axe_cavalry_eartht1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_3k_main_unit_axe_cavalry_eartht2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_3k_main_unit_axe_cavalry_eartht3	包抄，衝鋒，追擊	true
 ui_unit_groupings_tooltip_3k_main_unit_axe_infantry_metal	命中率一般，穿甲傷害高	true
 ui_unit_groupings_tooltip_3k_main_unit_axe_infantry_metalt1	命中率一般，穿甲傷害高	true
 ui_unit_groupings_tooltip_3k_main_unit_axe_infantry_metalt2	命中率一般，穿甲傷害高	true
@@ -4391,17 +4391,17 @@ ui_unit_groupings_tooltip_3k_main_unit_ranged_infantry_water	遠距，穿甲傷�
 ui_unit_groupings_tooltip_3k_main_unit_ranged_infantry_watert1	遠距，穿甲傷害低，射擊速率快	true
 ui_unit_groupings_tooltip_3k_main_unit_ranged_infantry_watert2	遠距，穿甲傷害低，射擊速率快	true
 ui_unit_groupings_tooltip_3k_main_unit_ranged_infantry_watert3	遠距，穿甲傷害低，射擊速率快	true
-ui_unit_groupings_tooltip_3k_main_unit_spear_cavalry_firet1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_3k_main_unit_spear_cavalry_firet2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_3k_main_unit_spear_cavalry_firet3	側擊，衝擊，追擊	true
+ui_unit_groupings_tooltip_3k_main_unit_spear_cavalry_firet1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_3k_main_unit_spear_cavalry_firet2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_3k_main_unit_spear_cavalry_firet3	包抄，衝鋒，追擊	true
 ui_unit_groupings_tooltip_3k_main_unit_spear_infantry_wood	反騎兵，穿甲傷害低	true
 ui_unit_groupings_tooltip_3k_main_unit_spear_infantry_woodt1	反騎兵，穿甲傷害低	true
 ui_unit_groupings_tooltip_3k_main_unit_spear_infantry_woodt2	反騎兵，穿甲傷害低	true
 ui_unit_groupings_tooltip_3k_main_unit_spear_infantry_woodt3	反騎兵，穿甲傷害低	true
-ui_unit_groupings_tooltip_3k_main_unit_sword_cavalry_earth	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_3k_main_unit_sword_cavalry_eartht1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_3k_main_unit_sword_cavalry_eartht2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_3k_main_unit_sword_cavalry_eartht3	側擊，衝擊，追擊	true
+ui_unit_groupings_tooltip_3k_main_unit_sword_cavalry_earth	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_3k_main_unit_sword_cavalry_eartht1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_3k_main_unit_sword_cavalry_eartht2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_3k_main_unit_sword_cavalry_eartht3	包抄，衝鋒，追擊	true
 ui_unit_groupings_tooltip_3k_main_unit_sword_infantry_metal	命中率一般，穿甲傷害一般	true
 ui_unit_groupings_tooltip_3k_main_unit_sword_infantry_metalt1	命中率一般，穿甲傷害一般	true
 ui_unit_groupings_tooltip_3k_main_unit_sword_infantry_metalt2	命中率一般，穿甲傷害一般	true
@@ -4469,24 +4469,24 @@ ui_unit_groupings_tooltip_hv_unit_ui_grouping_artillery_earthwatert1	遠距，�
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_artillery_earthwatert2	遠距，攻城	false
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_artillery_earthwatert3	遠距，攻城	false
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_artillery_woodwatert3ytr	遠距，攻城	false
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_blackt1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_blackt2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_blackt3	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_earthfiret1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_earthfiret2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_earthfiret3	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_earthwatert1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_earthwatert2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_earthwatert3	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_firewoodt1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_firewoodt2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_firewoodt3	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_metaleartht1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_metaleartht2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_metaleartht3	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_woodwatert1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_woodwatert2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_woodwatert3	側擊，衝擊，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_blackt1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_blackt2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_blackt3	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_earthfiret1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_earthfiret2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_earthfiret3	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_earthwatert1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_earthwatert2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_earthwatert3	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_firewoodt1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_firewoodt2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_firewoodt3	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_metaleartht1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_metaleartht2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_metaleartht3	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_woodwatert1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_woodwatert2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_cavalry_woodwatert3	包抄，衝鋒，追擊	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_infantry_blackt1	命中率一般，穿甲傷害高	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_infantry_blackt2	命中率一般，穿甲傷害高	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_axe_infantry_blackt3	命中率一般，穿甲傷害高	true
@@ -4595,12 +4595,12 @@ ui_unit_groupings_tooltip_hv_unit_ui_grouping_crossbow_repeating_infantry_woodwa
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_blunt_blackt1	命中率高，穿甲傷害高	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_blunt_blackt2	命中率高，穿甲傷害高	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_blunt_blackt3	命中率高，穿甲傷害高	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_blunt_cavalry_blackt1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_blunt_cavalry_blackt2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_blunt_cavalry_blackt3	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_blunt_cavalry_firemetalt1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_blunt_cavalry_firemetalt2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_blunt_cavalry_firemetalt3	側擊，衝擊，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_blunt_cavalry_blackt1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_blunt_cavalry_blackt2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_blunt_cavalry_blackt3	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_blunt_cavalry_firemetalt1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_blunt_cavalry_firemetalt2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_blunt_cavalry_firemetalt3	包抄，衝鋒，追擊	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_blunt_firemetalt1	命中率高，穿甲傷害高	false
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_blunt_firemetalt2	命中率高，穿甲傷害高	false
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_blunt_firemetalt3	命中率高，穿甲傷害高	true
@@ -4625,11 +4625,11 @@ ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_hand_ji_metalt3	命中率高，
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_sword_blackt1	命中率高，穿甲傷害一般	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_sword_blackt2	命中率高，穿甲傷害一般	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_sword_blackt3	命中率高，穿甲傷害一般	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_sword_cavalry_metaleartht1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_sword_cavalry_metaleartht2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_sword_cavalry_metaleartht3	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_sword_cavalry_metaleartht3ytr	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_sword_cavalry_metaleartht4ytr	側擊，衝擊，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_sword_cavalry_metaleartht1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_sword_cavalry_metaleartht2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_sword_cavalry_metaleartht3	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_sword_cavalry_metaleartht3ytr	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_sword_cavalry_metaleartht4ytr	包抄，衝鋒，追擊	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_sword_firemetalt1	命中率高，穿甲傷害一般	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_sword_firemetalt2	命中率高，穿甲傷害一般	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_dw_sword_firemetalt3	命中率高，穿甲傷害一般	true
@@ -4710,18 +4710,18 @@ ui_unit_groupings_tooltip_hv_unit_ui_grouping_machine_crossbow_woodwatert2ytr	�
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_mob_blackt1	命中率低，穿甲傷害低	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_mob_blackt2	命中率低，穿甲傷害低	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_mob_blackt3	命中率低，穿甲傷害低	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_blackt1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_blackt2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_blackt3	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_firewoodt1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_firewoodt2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_firewoodt3	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_metaleartht1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_metaleartht2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_metaleartht3	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_woodwatert1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_woodwatert2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_woodwatert3	側擊，衝擊，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_blackt1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_blackt2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_blackt3	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_firewoodt1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_firewoodt2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_firewoodt3	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_metaleartht1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_metaleartht2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_metaleartht3	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_woodwatert1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_woodwatert2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_cavalry_woodwatert3	包抄，衝鋒，追擊	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_infantry_blackt1	反騎兵，穿甲傷害一般	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_infantry_blackt2	反騎兵，穿甲傷害一般	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_polearm_infantry_blackt3	反騎兵，穿甲傷害一般	true
@@ -4777,24 +4777,24 @@ ui_unit_groupings_tooltip_hv_unit_ui_grouping_ranged_infantry_woodwatert3	遠距
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_slingers_blackt1	中距，穿甲傷害低，射擊速率快	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_slingers_blackt2	中距，穿甲傷害低，射擊速率快	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_slingers_blackt3	中距，穿甲傷害低，射擊速率快	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_blackt1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_blackt2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_blackt3	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_earthfiret1	側擊，衝擊，追擊	false
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_earthfiret2	側擊，衝擊，追擊	false
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_earthfiret3	側擊，衝擊，追擊	false
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_firewoodt1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_firewoodt2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_firewoodt3	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_firewoodt3ytr	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_metaleartht1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_metaleartht2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_metaleartht3	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_woodwatert1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_woodwatert2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_woodwatert3	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_woodwatert3ytr	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_woodwatert4ytr	側擊，衝擊，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_blackt1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_blackt2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_blackt3	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_earthfiret1	包抄，衝鋒，追擊	false
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_earthfiret2	包抄，衝鋒，追擊	false
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_earthfiret3	包抄，衝鋒，追擊	false
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_firewoodt1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_firewoodt2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_firewoodt3	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_firewoodt3ytr	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_metaleartht1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_metaleartht2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_metaleartht3	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_woodwatert1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_woodwatert2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_woodwatert3	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_woodwatert3ytr	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_cavalry_woodwatert4ytr	包抄，衝鋒，追擊	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_infantry_blackt1	反騎兵，穿甲傷害低	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_infantry_blackt2	反騎兵，穿甲傷害低	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_infantry_blackt3	反騎兵，穿甲傷害低	true
@@ -4814,28 +4814,28 @@ ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_infantry_woodwatert2	反騎�
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_infantry_woodwatert2ytr	反騎兵，穿甲傷害低	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_infantry_woodwatert3	反騎兵，穿甲傷害低	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_spear_infantry_woodwatert3ytr	反騎兵，穿甲傷害低	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_blackt1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_blackt2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_blackt3	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_earthfiret1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_earthfiret2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_earthfiret3	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_earthwatert1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_earthwatert2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_earthwatert3	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_firemetalt1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_firemetalt2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_firemetalt3	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_firewoodt1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_firewoodt2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_firewoodt3	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_metaleartht1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_metaleartht2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_metaleartht3	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_woodwatert1	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_woodwatert2	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_woodwatert3	側擊，衝擊，追擊	true
-ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_woodwatert3ytr	側擊，衝擊，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_blackt1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_blackt2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_blackt3	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_earthfiret1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_earthfiret2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_earthfiret3	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_earthwatert1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_earthwatert2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_earthwatert3	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_firemetalt1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_firemetalt2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_firemetalt3	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_firewoodt1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_firewoodt2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_firewoodt3	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_metaleartht1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_metaleartht2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_metaleartht3	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_woodwatert1	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_woodwatert2	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_woodwatert3	包抄，衝鋒，追擊	true
+ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_cavalry_woodwatert3ytr	包抄，衝鋒，追擊	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_infantry_blackt1	命中率一般，穿甲傷害一般	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_infantry_blackt2	命中率一般，穿甲傷害一般	true
 ui_unit_groupings_tooltip_hv_unit_ui_grouping_sword_infantry_blackt3	命中率一般，穿甲傷害一般	true
@@ -5430,235 +5430,235 @@ unit_ability_types_localised_description_hv_hit_effect_white_horse	白馬義從�
 unit_ability_types_localised_description_hv_yuan_caltrops	蒺藜	false
 unit_ability_types_localised_description_hv_yuan_smokescreen	煙幕	false
 unit_ability_types_onscreen_name_3k_dlc04_ability_fire_bomb	遠程攻擊	true
-unit_ability_types_onscreen_name_3k_dlc04_ability_from_the_ashes	Active Buff Ally	true
-unit_ability_types_onscreen_name_3k_dlc04_ability_heavenly_grace	Active Debuff Enemy	true
+unit_ability_types_onscreen_name_3k_dlc04_ability_from_the_ashes	我方主動增益	true
+unit_ability_types_onscreen_name_3k_dlc04_ability_heavenly_grace	敵方主動減益	true
 unit_ability_types_onscreen_name_3k_dlc04_caltrops	遠程攻擊	true
-unit_ability_types_onscreen_name_3k_dlc04_combat_focus	Passive Buff Self	true
+unit_ability_types_onscreen_name_3k_dlc04_combat_focus	自身被動增益	true
 unit_ability_types_onscreen_name_3k_dlc04_show_of_force	遠程攻擊	true
 unit_ability_types_onscreen_name_3k_dlc04_smokescreen	遠程攻擊	true
-unit_ability_types_onscreen_name_3k_dlc04_turning_the_tide	Passive Buff Ally	true
-unit_ability_types_onscreen_name_3k_dlc05_ability_analyse_weakness	Passive Debuff Enemy	true
-unit_ability_types_onscreen_name_3k_dlc05_ability_exemplar	Passive Buff Ally	true
-unit_ability_types_onscreen_name_3k_dlc05_ability_into_the_breach	Active Buff Ally	true
-unit_ability_types_onscreen_name_3k_dlc05_ability_qiao_sisters	Passive Buff Self	true
-unit_ability_types_onscreen_name_3k_dlc05_ability_scattering_blows	Active Buff Self	true
-unit_ability_types_onscreen_name_3k_dlc05_ability_two_zhangs	Passive Buff Ally	true
-unit_ability_types_onscreen_name_3k_dlc05_ability_undying_vow	Active Buff Self	true
-unit_ability_types_onscreen_name_3k_dlc06_ability_aggressive_cadence	Active Buff Ally	true
-unit_ability_types_onscreen_name_3k_dlc06_ability_ancient_wisdom	Active Buff Self	true
-unit_ability_types_onscreen_name_3k_dlc06_ability_berserk	Passive Buff Self	true
-unit_ability_types_onscreen_name_3k_dlc06_ability_bold_command	Passive Buff Ally	true
-unit_ability_types_onscreen_name_3k_dlc06_ability_cautious_cadence	Active Buff Ally	true
-unit_ability_types_onscreen_name_3k_dlc06_ability_dense_jungle	Passive Buff Ally	true
-unit_ability_types_onscreen_name_3k_dlc06_ability_endless_volley	Active Buff Ally	true
-unit_ability_types_onscreen_name_3k_dlc06_ability_expose	Active Buff Ally	true
+unit_ability_types_onscreen_name_3k_dlc04_turning_the_tide	我方被動增益	true
+unit_ability_types_onscreen_name_3k_dlc05_ability_analyse_weakness	敵方被動減益	true
+unit_ability_types_onscreen_name_3k_dlc05_ability_exemplar	我方被動增益	true
+unit_ability_types_onscreen_name_3k_dlc05_ability_into_the_breach	我方主動增益	true
+unit_ability_types_onscreen_name_3k_dlc05_ability_qiao_sisters	自身被動增益	true
+unit_ability_types_onscreen_name_3k_dlc05_ability_scattering_blows	自身主動增益	true
+unit_ability_types_onscreen_name_3k_dlc05_ability_two_zhangs	我方被動增益	true
+unit_ability_types_onscreen_name_3k_dlc05_ability_undying_vow	自身主動增益	true
+unit_ability_types_onscreen_name_3k_dlc06_ability_aggressive_cadence	我方主動增益	true
+unit_ability_types_onscreen_name_3k_dlc06_ability_ancient_wisdom	自身主動增益	true
+unit_ability_types_onscreen_name_3k_dlc06_ability_berserk	自身被動增益	true
+unit_ability_types_onscreen_name_3k_dlc06_ability_bold_command	我方被動增益	true
+unit_ability_types_onscreen_name_3k_dlc06_ability_cautious_cadence	我方主動增益	true
+unit_ability_types_onscreen_name_3k_dlc06_ability_dense_jungle	我方被動增益	true
+unit_ability_types_onscreen_name_3k_dlc06_ability_endless_volley	我方主動增益	true
+unit_ability_types_onscreen_name_3k_dlc06_ability_expose	我方主動增益	true
 unit_ability_types_onscreen_name_3k_dlc06_ability_flying_daggers	遠程攻擊	true
 unit_ability_types_onscreen_name_3k_dlc06_ability_gore	近戰攻擊	true
-unit_ability_types_onscreen_name_3k_dlc06_ability_hold_firm	Passive Buff Ally	true
+unit_ability_types_onscreen_name_3k_dlc06_ability_hold_firm	我方被動增益	true
 unit_ability_types_onscreen_name_3k_dlc06_ability_off_guard	近戰攻擊	true
-unit_ability_types_onscreen_name_3k_dlc06_ability_pack_hunters	Passive Buff Self	true
-unit_ability_types_onscreen_name_3k_dlc06_ability_power_of_love	Passive Buff Self	true
-unit_ability_types_onscreen_name_3k_dlc06_ability_rapid_cadence	Active Buff Ally	true
+unit_ability_types_onscreen_name_3k_dlc06_ability_pack_hunters	自身被動增益	true
+unit_ability_types_onscreen_name_3k_dlc06_ability_power_of_love	自身被動增益	true
+unit_ability_types_onscreen_name_3k_dlc06_ability_rapid_cadence	我方主動增益	true
 unit_ability_types_onscreen_name_3k_dlc06_ability_reckless_strike	近戰攻擊	true
 unit_ability_types_onscreen_name_3k_dlc06_ability_stomp	近戰攻擊	true
-unit_ability_types_onscreen_name_3k_dlc06_ability_swift_steps	Active Buff Ally	true
-unit_ability_types_onscreen_name_3k_dlc06_ability_trumpet	Active Debuff Enemy	true
-unit_ability_types_onscreen_name_3k_dlc07_ability_ceasefire	Active Buff All Entities	true
-unit_ability_types_onscreen_name_3k_dlc07_ability_do_or_die	Active Buff Self	false
-unit_ability_types_onscreen_name_3k_dlc07_ability_familial_conflict	Passive Buff Self	true
-unit_ability_types_onscreen_name_3k_dlc07_ability_geographic_mastery	Passive Buff Ally	true
-unit_ability_types_onscreen_name_3k_dlc07_ability_heavenly_presence	Active Buff Ally	true
-unit_ability_types_onscreen_name_3k_dlc07_ability_impenetrable_redoubt	Passive Buff Ally	true
-unit_ability_types_onscreen_name_3k_dlc07_ability_mighty_thrust	Active Buff Self	true
-unit_ability_types_onscreen_name_3k_dlc07_ability_misplaced_devotion	Active Buff Self (Auto)	true
-unit_ability_types_onscreen_name_3k_dlc07_ability_mock	Active Debuff Enemy	true
-unit_ability_types_onscreen_name_3k_dlc07_ability_rally_the_troops	Active Buff Ally	true
-unit_ability_types_onscreen_name_3k_dlc07_ability_xiezhi_roar	Active Debuff Enemy	true
-unit_ability_types_onscreen_name_3k_main_ability_adamant_resolve	Active Buff Ally	true
+unit_ability_types_onscreen_name_3k_dlc06_ability_swift_steps	我方主動增益	true
+unit_ability_types_onscreen_name_3k_dlc06_ability_trumpet	敵方主動減益	true
+unit_ability_types_onscreen_name_3k_dlc07_ability_ceasefire	全體主動增益	true
+unit_ability_types_onscreen_name_3k_dlc07_ability_do_or_die	自身主動增益	false
+unit_ability_types_onscreen_name_3k_dlc07_ability_familial_conflict	自身被動增益	true
+unit_ability_types_onscreen_name_3k_dlc07_ability_geographic_mastery	我方被動增益	true
+unit_ability_types_onscreen_name_3k_dlc07_ability_heavenly_presence	我方主動增益	true
+unit_ability_types_onscreen_name_3k_dlc07_ability_impenetrable_redoubt	我方被動增益	true
+unit_ability_types_onscreen_name_3k_dlc07_ability_mighty_thrust	自身主動增益	true
+unit_ability_types_onscreen_name_3k_dlc07_ability_misplaced_devotion	自身主動增益（自動）	true
+unit_ability_types_onscreen_name_3k_dlc07_ability_mock	敵方主動減益	true
+unit_ability_types_onscreen_name_3k_dlc07_ability_rally_the_troops	我方主動增益	true
+unit_ability_types_onscreen_name_3k_dlc07_ability_xiezhi_roar	敵方主動減益	true
+unit_ability_types_onscreen_name_3k_main_ability_adamant_resolve	我方主動增益	true
 unit_ability_types_onscreen_name_3k_main_ability_binding_fury	近戰攻擊	true
-unit_ability_types_onscreen_name_3k_main_ability_blade_breaker	Passive Buff Self	true
-unit_ability_types_onscreen_name_3k_main_ability_blazing_roar	Active Debuff Enemy	true
-unit_ability_types_onscreen_name_3k_main_ability_blazing_saddles	Passive Buff Self	true
-unit_ability_types_onscreen_name_3k_main_ability_blood_fury	Passive Buff Self	true
-unit_ability_types_onscreen_name_3k_main_ability_condemned_howl	Active Debuff Enemy	true
-unit_ability_types_onscreen_name_3k_main_ability_cry_of_the_forest	Passive Buff Self	true
-unit_ability_types_onscreen_name_3k_main_ability_devastating_roar	Active Debuff Enemy	true
-unit_ability_types_onscreen_name_3k_main_ability_distant_courage	Passive Buff Ally	true
-unit_ability_types_onscreen_name_3k_main_ability_elemental_vigour	Passive Buff Self	true
+unit_ability_types_onscreen_name_3k_main_ability_blade_breaker	自身被動增益	true
+unit_ability_types_onscreen_name_3k_main_ability_blazing_roar	敵方主動減益	true
+unit_ability_types_onscreen_name_3k_main_ability_blazing_saddles	自身被動增益	true
+unit_ability_types_onscreen_name_3k_main_ability_blood_fury	自身被動增益	true
+unit_ability_types_onscreen_name_3k_main_ability_condemned_howl	敵方主動減益	true
+unit_ability_types_onscreen_name_3k_main_ability_cry_of_the_forest	自身被動增益	true
+unit_ability_types_onscreen_name_3k_main_ability_devastating_roar	敵方主動減益	true
+unit_ability_types_onscreen_name_3k_main_ability_distant_courage	我方被動增益	true
+unit_ability_types_onscreen_name_3k_main_ability_elemental_vigour	自身被動增益	true
 unit_ability_types_onscreen_name_3k_main_ability_flames_of_the_phoenix	近戰攻擊	true
-unit_ability_types_onscreen_name_3k_main_ability_fleet_footed	Active Buff Self	false
+unit_ability_types_onscreen_name_3k_main_ability_fleet_footed	自身主動增益	false
 unit_ability_types_onscreen_name_3k_main_ability_god_of_war	近戰攻擊	true
 unit_ability_types_onscreen_name_3k_main_ability_hail_of_arrows	遠程攻擊	true
 unit_ability_types_onscreen_name_3k_main_ability_hamstring	近戰攻擊	true
 unit_ability_types_onscreen_name_3k_main_ability_heart_seeker	遠程攻擊	true
-unit_ability_types_onscreen_name_3k_main_ability_imperious_presence	Passive Debuff Enemy	true
-unit_ability_types_onscreen_name_3k_main_ability_impetuous_charge	Active Buff Ally	true
-unit_ability_types_onscreen_name_3k_main_ability_inspiring_words	Active Buff Ally	true
-unit_ability_types_onscreen_name_3k_main_ability_internal_blaze	Passive Buff Self	true
-unit_ability_types_onscreen_name_3k_main_ability_inward_focus	Active Buff Self	true
-unit_ability_types_onscreen_name_3k_main_ability_nature_s_ally	Passive Buff Ally	true
+unit_ability_types_onscreen_name_3k_main_ability_imperious_presence	敵方被動減益	true
+unit_ability_types_onscreen_name_3k_main_ability_impetuous_charge	我方主動增益	true
+unit_ability_types_onscreen_name_3k_main_ability_inspiring_words	我方主動增益	true
+unit_ability_types_onscreen_name_3k_main_ability_internal_blaze	自身被動增益	true
+unit_ability_types_onscreen_name_3k_main_ability_inward_focus	自身主動增益	true
+unit_ability_types_onscreen_name_3k_main_ability_nature_s_ally	我方被動增益	true
 unit_ability_types_onscreen_name_3k_main_ability_poisioned_blade	遠程攻擊	true
-unit_ability_types_onscreen_name_3k_main_ability_quickfire	Passive Buff Self	true
+unit_ability_types_onscreen_name_3k_main_ability_quickfire	自身被動增益	true
 unit_ability_types_onscreen_name_3k_main_ability_rage_of_lu_bu	近戰攻擊	true
-unit_ability_types_onscreen_name_3k_main_ability_reign_of_terror	Active Buff Ally	true
-unit_ability_types_onscreen_name_3k_main_ability_resolve_of_the_righteous	Passive Buff Ally	true
-unit_ability_types_onscreen_name_3k_main_ability_roar_of_the_beast	Active Debuff Enemy	true
-unit_ability_types_onscreen_name_3k_main_ability_sight_of_the_dragon	Passive Buff Self	true
-unit_ability_types_onscreen_name_3k_main_ability_smouldering_fury	Passive Buff Self	true
-unit_ability_types_onscreen_name_3k_main_ability_stalwart_defender	Passive Buff Ally	true
-unit_ability_types_onscreen_name_3k_main_ability_stone_bulwark	Active Buff Ally	true
+unit_ability_types_onscreen_name_3k_main_ability_reign_of_terror	我方主動增益	true
+unit_ability_types_onscreen_name_3k_main_ability_resolve_of_the_righteous	我方被動增益	true
+unit_ability_types_onscreen_name_3k_main_ability_roar_of_the_beast	敵方主動減益	true
+unit_ability_types_onscreen_name_3k_main_ability_sight_of_the_dragon	自身被動增益	true
+unit_ability_types_onscreen_name_3k_main_ability_smouldering_fury	自身被動增益	true
+unit_ability_types_onscreen_name_3k_main_ability_stalwart_defender	我方被動增益	true
+unit_ability_types_onscreen_name_3k_main_ability_stone_bulwark	我方主動增益	true
 unit_ability_types_onscreen_name_3k_main_ability_sundering_strike	近戰攻擊	true
-unit_ability_types_onscreen_name_3k_main_ability_swift_fingers	Passive Buff Ally	true
-unit_ability_types_onscreen_name_3k_main_ability_tempered_deflection	Passive Debuff Enemy	true
-unit_ability_types_onscreen_name_3k_main_ability_tenacity_of_steel	Passive Buff Self	true
-unit_ability_types_onscreen_name_3k_main_ability_the_dragon_s_gaze	Active Debuff Enemy	true
-unit_ability_types_onscreen_name_3k_main_ability_unstoppable	Passive Buff Self	true
-unit_ability_types_onscreen_name_3k_main_ability_unyielding_earth	Active Buff Ally	true
-unit_ability_types_onscreen_name_3k_main_ability_vengeance	Passive Buff Self	true
+unit_ability_types_onscreen_name_3k_main_ability_swift_fingers	我方被動增益	true
+unit_ability_types_onscreen_name_3k_main_ability_tempered_deflection	敵方被動減益	true
+unit_ability_types_onscreen_name_3k_main_ability_tenacity_of_steel	自身被動增益	true
+unit_ability_types_onscreen_name_3k_main_ability_the_dragon_s_gaze	敵方主動減益	true
+unit_ability_types_onscreen_name_3k_main_ability_unstoppable	自身被動增益	true
+unit_ability_types_onscreen_name_3k_main_ability_unyielding_earth	我方主動增益	true
+unit_ability_types_onscreen_name_3k_main_ability_vengeance	自身被動增益	true
 unit_ability_types_onscreen_name_3k_main_ability_warning_shot	遠程攻擊	true
-unit_ability_types_onscreen_name_3k_main_ability_way_of_the_wind	Active Buff Ally	true
-unit_ability_types_onscreen_name_3k_main_ability_wildfire	Passive Buff Self	true
-unit_ability_types_onscreen_name_3k_main_ability_wisdom_of_the_river	Active Debuff Enemy	true
+unit_ability_types_onscreen_name_3k_main_ability_way_of_the_wind	我方主動增益	true
+unit_ability_types_onscreen_name_3k_main_ability_wildfire	自身被動增益	true
+unit_ability_types_onscreen_name_3k_main_ability_wisdom_of_the_river	敵方主動減益	true
 unit_ability_types_onscreen_name_3k_main_formation_mixed_ranged	定點步兵陣形	false
 unit_ability_types_onscreen_name_3k_main_formation_pike_wall	定點步兵陣形	false
 unit_ability_types_onscreen_name_3k_main_formation_shield_wall	定點步兵陣形	false
 unit_ability_types_onscreen_name_3k_main_formation_spear_wall	定點步兵陣形	false
-unit_ability_types_onscreen_name_hv_ability_aggressive_anger	Passive Buff Self	true
-unit_ability_types_onscreen_name_hv_ability_anti_cavalry	Passive Buff Ally	true
-unit_ability_types_onscreen_name_hv_ability_assemble	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_bandit_unlock_earth	Active Buff Self (Auto)	true
-unit_ability_types_onscreen_name_hv_ability_bandit_unlock_fire	Active Buff Self (Auto)	true
-unit_ability_types_onscreen_name_hv_ability_bandit_unlock_metal	Passive Buff Self	true
-unit_ability_types_onscreen_name_hv_ability_bandit_unlock_water	Passive Buff Self	true
-unit_ability_types_onscreen_name_hv_ability_bandit_unlock_wood	Active Buff Self	true
-unit_ability_types_onscreen_name_hv_ability_barded_missile_resistance	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_battle_hardened_cavalry	Passive Buff Self	true
-unit_ability_types_onscreen_name_hv_ability_battle_hardened_melee	Passive Buff Self	true
-unit_ability_types_onscreen_name_hv_ability_battle_hardened_ranged	Passive Buff Self	true
-unit_ability_types_onscreen_name_hv_ability_battle_hardened_spear	Passive Buff Self	true
-unit_ability_types_onscreen_name_hv_ability_battle_trance	Passive Buff Self	true
-unit_ability_types_onscreen_name_hv_ability_beihai_accuracy	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_beihai_reload	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_black_mountain_brotherhood	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_blade_mastery	被動增強效果	true
+unit_ability_types_onscreen_name_hv_ability_aggressive_anger	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_anti_cavalry	我方被動增益	true
+unit_ability_types_onscreen_name_hv_ability_assemble	我方被動增益	true
+unit_ability_types_onscreen_name_hv_ability_bandit_unlock_earth	自身主動增益（自動）	true
+unit_ability_types_onscreen_name_hv_ability_bandit_unlock_fire	自身主動增益（自動）	true
+unit_ability_types_onscreen_name_hv_ability_bandit_unlock_metal	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_bandit_unlock_water	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_bandit_unlock_wood	自身主動增益	true
+unit_ability_types_onscreen_name_hv_ability_barded_missile_resistance	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_battle_hardened_cavalry	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_battle_hardened_melee	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_battle_hardened_ranged	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_battle_hardened_spear	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_battle_trance	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_beihai_accuracy	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_beihai_reload	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_black_mountain_brotherhood	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_blade_mastery	自身被動增益	true
 unit_ability_types_onscreen_name_hv_ability_bleed	近戰攻擊	true
-unit_ability_types_onscreen_name_hv_ability_blood_thirst	Passive Buff Self	true
-unit_ability_types_onscreen_name_hv_ability_brawl	Active Buff All Entities	true
-unit_ability_types_onscreen_name_hv_ability_brotherhood	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_bulwark	被動增強效果	false
-unit_ability_types_onscreen_name_hv_ability_burning	主動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_calm_down	Passive Buff Ally	true
-unit_ability_types_onscreen_name_hv_ability_captain_active	主動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_captain_passive	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_commanding_shout	主動增強效果	true
+unit_ability_types_onscreen_name_hv_ability_blood_thirst	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_brawl	全體主動增益	true
+unit_ability_types_onscreen_name_hv_ability_brotherhood	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_bulwark	自身主動增益	false
+unit_ability_types_onscreen_name_hv_ability_burning	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_calm_down	我方被動增益	true
+unit_ability_types_onscreen_name_hv_ability_captain_active	我方主動增益	true
+unit_ability_types_onscreen_name_hv_ability_captain_passive	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_commanding_shout	我方主動增益	true
 unit_ability_types_onscreen_name_hv_ability_condemn	近戰攻擊	true
-unit_ability_types_onscreen_name_hv_ability_counter_strike	Active Buff Self	true
+unit_ability_types_onscreen_name_hv_ability_counter_strike	自身主動增益	true
 unit_ability_types_onscreen_name_hv_ability_crash	近戰攻擊	true
 unit_ability_types_onscreen_name_hv_ability_crossing_of_the_styx	近戰攻擊	true
-unit_ability_types_onscreen_name_hv_ability_cruel_lord	主動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_dead_or_alive	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_defence_mastery	主動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_defense_mastery_melee	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_defense_mastery_melee_custom	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_defense_mastery_ranged	箭如雨下之時，在此猛擊前他們堅若磐石。	true
-unit_ability_types_onscreen_name_hv_ability_defense_mastery_ranged_custom	箭如雨下之時，在此猛擊前他們堅若磐石。	true
-unit_ability_types_onscreen_name_hv_ability_desperate_cry	主動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_desperate_resistance	Active Buff Self (Auto)	false
-unit_ability_types_onscreen_name_hv_ability_desperate_savior	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_disorientate	主動削弱效果	true
-unit_ability_types_onscreen_name_hv_ability_dong_command	主動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_double_blades_ecstasy	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_dragon_rising	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_eight_talent_defence	Passive Buff Self	false
-unit_ability_types_onscreen_name_hv_ability_energy_of_blackmountain	Passive Buff Self	true
-unit_ability_types_onscreen_name_hv_ability_enlightenment	被動增強效果	true
+unit_ability_types_onscreen_name_hv_ability_cruel_lord	我方主動增益	true
+unit_ability_types_onscreen_name_hv_ability_dead_or_alive	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_defence_mastery	我方主動增益	true
+unit_ability_types_onscreen_name_hv_ability_defense_mastery_melee	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_defense_mastery_melee_custom	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_defense_mastery_ranged	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_defense_mastery_ranged_custom	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_desperate_cry	我方主動增益	true
+unit_ability_types_onscreen_name_hv_ability_desperate_resistance	自身主動增益（自動）	false
+unit_ability_types_onscreen_name_hv_ability_desperate_savior	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_disorientate	敵方主動減益	true
+unit_ability_types_onscreen_name_hv_ability_dong_command	我方主動增益	true
+unit_ability_types_onscreen_name_hv_ability_double_blades_ecstasy	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_dragon_rising	自身主動增益	true
+unit_ability_types_onscreen_name_hv_ability_eight_talent_defence	自身被動增益	false
+unit_ability_types_onscreen_name_hv_ability_energy_of_blackmountain	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_enlightenment	自身被動增益	true
 unit_ability_types_onscreen_name_hv_ability_eviscerate	近戰攻擊	true
-unit_ability_types_onscreen_name_hv_ability_favourable_skies	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_fearless_charge	Active Buff Self (Auto)	true
-unit_ability_types_onscreen_name_hv_ability_ferocity	Active Buff Self (Auto)	true
-unit_ability_types_onscreen_name_hv_ability_fire_control	主動增強效果	true
+unit_ability_types_onscreen_name_hv_ability_favourable_skies	我方被動增益	true
+unit_ability_types_onscreen_name_hv_ability_fearless_charge	自身主動增益（自動）	true
+unit_ability_types_onscreen_name_hv_ability_ferocity	自身主動增益（自動）	true
+unit_ability_types_onscreen_name_hv_ability_fire_control	我方主動增益	true
 unit_ability_types_onscreen_name_hv_ability_flame_breathing	Melee Attack (Auto)	true
-unit_ability_types_onscreen_name_hv_ability_fleet_footed	主動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_flower_of_battlefield	主動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_foresight	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_forest_strategy	Passive Buff Self	true
-unit_ability_types_onscreen_name_hv_ability_forest_strider	Passive Buff Self	true
-unit_ability_types_onscreen_name_hv_ability_frenzy	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_furious_charge	被動增強效果	true
+unit_ability_types_onscreen_name_hv_ability_fleet_footed	自身主動增益	true
+unit_ability_types_onscreen_name_hv_ability_flower_of_battlefield	敵方被動減益	true
+unit_ability_types_onscreen_name_hv_ability_foresight	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_forest_strategy	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_forest_strider	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_frenzy	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_furious_charge	自身被動增益	true
 unit_ability_types_onscreen_name_hv_ability_gas_bomb	遠程攻擊	true
 unit_ability_types_onscreen_name_hv_ability_ghost_of_forest	被動削弱效果	true
 unit_ability_types_onscreen_name_hv_ability_grenade	遠程攻擊	true
-unit_ability_types_onscreen_name_hv_ability_guardian	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_half_barded_missile_resistance	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_hamper	Active Debuff Enemy	true
+unit_ability_types_onscreen_name_hv_ability_guardian	我方被動增益	true
+unit_ability_types_onscreen_name_hv_ability_half_barded_missile_resistance	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_hamper	敵方主動減益	true
 unit_ability_types_onscreen_name_hv_ability_hero_poisonwind_shot	遠程攻擊	true
-unit_ability_types_onscreen_name_hv_ability_hero_slayer	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_importunity	Passive Buff Self	true
-unit_ability_types_onscreen_name_hv_ability_indomitable_warrior	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_inner_fire	主動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_inner_vitality	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_inspection	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_jing_missile_resistance	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_joint_shot	Passive Buff Self	true
+unit_ability_types_onscreen_name_hv_ability_hero_slayer	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_importunity	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_indomitable_warrior	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_inner_fire	自身主動增益	true
+unit_ability_types_onscreen_name_hv_ability_inner_vitality	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_inspection	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_jing_missile_resistance	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_joint_shot	自身被動增益	true
 unit_ability_types_onscreen_name_hv_ability_judgement	近戰攻擊	true
-unit_ability_types_onscreen_name_hv_ability_kingmaker	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_knowledge_of_the_body	主動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_knowledge_of_the_mind	主動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_knowledge_of_the_spirit	主動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_lucky_shot	Active Buff Self (Auto)	true
-unit_ability_types_onscreen_name_hv_ability_mark_target	主動削弱效果	true
-unit_ability_types_onscreen_name_hv_ability_mercenary_passive	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_messenger_recovery	Passive Ally Buff	true
-unit_ability_types_onscreen_name_hv_ability_moment_of_courage	Active Buff Ally (Auto)	true
-unit_ability_types_onscreen_name_hv_ability_mortal_strike	Active Buff Ally	true
+unit_ability_types_onscreen_name_hv_ability_kingmaker	我方被動增益	true
+unit_ability_types_onscreen_name_hv_ability_knowledge_of_the_body	我方主動增益	true
+unit_ability_types_onscreen_name_hv_ability_knowledge_of_the_mind	敵方主動減益	true
+unit_ability_types_onscreen_name_hv_ability_knowledge_of_the_spirit	我方主動增益	true
+unit_ability_types_onscreen_name_hv_ability_lucky_shot	自身主動增益（自動）	true
+unit_ability_types_onscreen_name_hv_ability_mark_target	敵方主動減益	true
+unit_ability_types_onscreen_name_hv_ability_mercenary_passive	自身主動增益（自動）	true
+unit_ability_types_onscreen_name_hv_ability_messenger_recovery	我方被動增益	true
+unit_ability_types_onscreen_name_hv_ability_moment_of_courage	我方主動增益（自動）	true
+unit_ability_types_onscreen_name_hv_ability_mortal_strike	我方主動增益	true
 unit_ability_types_onscreen_name_hv_ability_oil_bomb	遠程攻擊	true
-unit_ability_types_onscreen_name_hv_ability_one_with_heaven	主動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_one_with_the_land	主動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_one_with_the_people	主動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_order_of_tyrant	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_overfight	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_overwhelm	Passive Buff Ally	true
-unit_ability_types_onscreen_name_hv_ability_pounce	Passive Buff Self	true
-unit_ability_types_onscreen_name_hv_ability_preach	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_protection_of_blackmountain	Passive Buff Self	true
-unit_ability_types_onscreen_name_hv_ability_pulverize	主動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_qiang_fatigue	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_rage_of_blackmountain	Passive Buff Self	true
-unit_ability_types_onscreen_name_hv_ability_rage_of_hooves	Passive Buff Self	true
-unit_ability_types_onscreen_name_hv_ability_restore	Passive Buff Ally	true
-unit_ability_types_onscreen_name_hv_ability_retreat_cover	Passive Buff Ally	false
-unit_ability_types_onscreen_name_hv_ability_royal_blood	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_second_chance	Passive Buff Self	true
-unit_ability_types_onscreen_name_hv_ability_skirmishing_shot	Passive Buff Self	true
-unit_ability_types_onscreen_name_hv_ability_sniper_position	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_sparrow	被動削弱效果	true
-unit_ability_types_onscreen_name_hv_ability_storm_of_swords	主動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_strength_of_blackmountain	Passive Buff Self	true
-unit_ability_types_onscreen_name_hv_ability_strength_of_the_land	被動增強效果	true
+unit_ability_types_onscreen_name_hv_ability_one_with_heaven	我方主動增益	true
+unit_ability_types_onscreen_name_hv_ability_one_with_the_land	我方主動增益	true
+unit_ability_types_onscreen_name_hv_ability_one_with_the_people	我方被動增益	true
+unit_ability_types_onscreen_name_hv_ability_order_of_tyrant	我方被動增益	true
+unit_ability_types_onscreen_name_hv_ability_overfight	自身主動增益（自動）	true
+unit_ability_types_onscreen_name_hv_ability_overwhelm	我方被動增益	true
+unit_ability_types_onscreen_name_hv_ability_pounce	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_preach	我方被動增益	true
+unit_ability_types_onscreen_name_hv_ability_protection_of_blackmountain	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_pulverize	自身主動增益	true
+unit_ability_types_onscreen_name_hv_ability_qiang_fatigue	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_rage_of_blackmountain	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_rage_of_hooves	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_restore	我方被動增益	true
+unit_ability_types_onscreen_name_hv_ability_retreat_cover	我方被動增益	false
+unit_ability_types_onscreen_name_hv_ability_royal_blood	敵方被動減益	true
+unit_ability_types_onscreen_name_hv_ability_second_chance	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_skirmishing_shot	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_sniper_position	自身主動增益	true
+unit_ability_types_onscreen_name_hv_ability_sparrow	敵方被動減益	true
+unit_ability_types_onscreen_name_hv_ability_storm_of_swords	我方主動增益	true
+unit_ability_types_onscreen_name_hv_ability_strength_of_blackmountain	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_strength_of_the_land	我方被動增益	true
 unit_ability_types_onscreen_name_hv_ability_striking_tide	近戰攻擊	true
-unit_ability_types_onscreen_name_hv_ability_stubborn	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_tactical_move	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_tactical_stance_defensive	Active Buff Ally	true
-unit_ability_types_onscreen_name_hv_ability_tactical_stance_offensive	Active Buff Ally	true
-unit_ability_types_onscreen_name_hv_ability_the_weight_on_the_shoulders	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_tiger	被動削弱效果	true
-unit_ability_types_onscreen_name_hv_ability_tiger_skin	被動削弱效果	true
-unit_ability_types_onscreen_name_hv_ability_veil_of_darkness	被動削弱效果	true
-unit_ability_types_onscreen_name_hv_ability_whitewater	被動削弱效果	true
-unit_ability_types_onscreen_name_hv_ability_wind_of_north	Active Buff Self (Auto)	true
-unit_ability_types_onscreen_name_hv_ability_wisdom_of_the_waterfall	主動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_wolf	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_words_of_the_way	Passive Buff Ally	true
+unit_ability_types_onscreen_name_hv_ability_stubborn	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_tactical_move	自身主動增益	true
+unit_ability_types_onscreen_name_hv_ability_tactical_stance_defensive	我方主動增益	true
+unit_ability_types_onscreen_name_hv_ability_tactical_stance_offensive	我方主動增益	true
+unit_ability_types_onscreen_name_hv_ability_the_weight_on_the_shoulders	我方被動增益	true
+unit_ability_types_onscreen_name_hv_ability_tiger	敵方被動減益	true
+unit_ability_types_onscreen_name_hv_ability_tiger_skin	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_veil_of_darkness	敵方主動減益	true
+unit_ability_types_onscreen_name_hv_ability_whitewater	我方被動增益	true
+unit_ability_types_onscreen_name_hv_ability_wind_of_north	自身主動增益（自動）	true
+unit_ability_types_onscreen_name_hv_ability_wisdom_of_the_waterfall	我方主動增益	true
+unit_ability_types_onscreen_name_hv_ability_wolf	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_words_of_the_way	我方被動增益	true
 unit_ability_types_onscreen_name_hv_ability_wu_brave	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_wuhuan_riding	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_xianchenying	Active Debuff Enemy (Auto)	true
-unit_ability_types_onscreen_name_hv_ability_xiliang_army	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_xiliang_army_ranged	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_young_blood	Passive Buff Self	true
+unit_ability_types_onscreen_name_hv_ability_wuhuan_riding	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_xianchenying	敵方主動減益（自動）	true
+unit_ability_types_onscreen_name_hv_ability_xiliang_army	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_xiliang_army_ranged	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_young_blood	自身被動增益	true
 unit_ability_types_onscreen_name_hv_ability_youzansen	Melee Attack (Auto)	true
-unit_ability_types_onscreen_name_hv_ability_yuan_officer_passive	被動增強效果	true
-unit_ability_types_onscreen_name_hv_ability_zhou_the_youth	被動增強效果	true
-unit_ability_types_onscreen_name_hv_abillity_danyang_tradition	被動增強效果	true
+unit_ability_types_onscreen_name_hv_ability_yuan_officer_passive	自身被動增益	true
+unit_ability_types_onscreen_name_hv_ability_zhou_the_youth	自身被動增益	true
+unit_ability_types_onscreen_name_hv_abillity_danyang_tradition	自身被動增益	true
 unit_ability_types_onscreen_name_hv_formation_mixed_ranged_spear	定點步兵陣形	true
 unit_ability_types_onscreen_name_hv_formation_pike_wall_eight_talents	定點步兵陣形	true
 unit_ability_types_onscreen_name_hv_formation_pike_wall_white_feather	定點步兵陣形	true

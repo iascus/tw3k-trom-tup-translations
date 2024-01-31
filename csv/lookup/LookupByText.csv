@@ -38,13 +38,13 @@ A yellow turban warband has invaded your territory. You must defeat them.,有黄
 Ability: Crossing of the River Sanzu,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Absent,缺席,缺席,ifo_text_TWEAK.loc.tsv
 Academic Advancement,学术进步,學術進步,hv_TEXT_events.loc.tsv
-Active Buff All Entities,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
-Active Buff Ally,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
-Active Buff Ally (Auto),,,hv_TEXT_unit_abilities.loc.tsv
-Active Buff Self,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
-Active Buff Self (Auto),,,hv_TEXT_unit_abilities.loc.tsv
-Active Debuff Enemy,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
-Active Debuff Enemy (Auto),,,hv_TEXT_unit_abilities.loc.tsv
+Active Buff All Entities,全体主动增益,全體主動增益,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+Active Buff Ally,我方主动增益,我方主動增益,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+Active Buff Ally (Auto),我方主动增益（自动）,我方主動增益（自動）,hv_TEXT_unit_abilities.loc.tsv
+Active Buff Self,自身主动增益,自身主動增益,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+Active Buff Self (Auto),自身主动增益（自动）,自身主動增益（自動）,hv_TEXT_unit_abilities.loc.tsv
+Active Debuff Enemy,敌方主动减益,敵方主動減益,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+Active Debuff Enemy (Auto),敌方主动减益（自动）,敵方主動減益（自動）,hv_TEXT_unit_abilities.loc.tsv
 Adaptation is the only way to live.,,,hv_TEXT_unit_abilities.loc.tsv
 Agronomy,农艺,農藝,z_dummy_hv_TEXT_non_deployable.loc.tsv
 All economic activities have been hampered by the minting of a new coin. We have no choice but to wait for merchants to adjust to the new standard.,所有的经济活动都因为新币的铸造而受到阻碍。我们别无选择，只能等待商人们适应新的标准。,所有的經濟活動都因爲新幣的鑄造而受到阻礙。我們別無選擇，只能等待商人們適應新的標準。,hv_TEXT_events.loc.tsv
@@ -209,10 +209,10 @@ Fire Archers: for recruitment: %+n,,,hv_TEXT_effects_unit_cap.loc.tsv
 Fire Control,火控,火控,hv_TEXT_skills_skill_ability__historical.loc.tsv
 Fire Fiends,火煞兵,火煞兵,hv_TEXT_unit_text_replacements.loc.tsv
 Fire explosive bolts to demoralise hostile units.,扔掷爆裂弹来打击敌军士气。,扔擲爆裂彈來打擊敵軍士氣。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-First Characteristic,特性一,特性一,hv_TEXT_skills_additional.loc.tsv
+First Characteristic,个性一,特性一,hv_TEXT_skills_additional.loc.tsv
 Flame Breathing,吐火,吐火,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 Flame Sling,,,hv_TEXT_unit_ui_bullet.loc.tsv
-"Flank, Charge, Chase",侧击，冲击，追击,側擊，衝擊，追擊,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
+"Flank, Charge, Chase",包抄，冲锋，追击,包抄，衝鋒，追擊,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 Followers of the Flame: for recruitment: %+n,,,hv_TEXT_effects_unit_cap.loc.tsv
 "Following your recent success, the captain of the Northern Army has come to pledge his devotion to you. He brings with him the might of the professional soldiers he commands.",随着您近期的丰功伟业，督掌北军的中尉前来宣誓效忠于您，他所指挥的整支精良军队也一同前来，加入您的麾下。,鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。,hv_TEXT_events.loc.tsv
 "For farmers, they are higher than the emperor.",对佃户来说，他们的地位比皇帝还高。,對佃戶來説，他們的地位比皇帝還高。,z_dummy_hv_TEXT_non_deployable.loc.tsv
@@ -397,10 +397,10 @@ Organised volleys prove more effective.,依序射击更为有效。,依序射擊
 Outlaws of Black Mountain,黑山匪徒,黑山匪徒,hv_TEXT_unit_text_replacements.loc.tsv
 Overwhelmming,压倒之势,壓倒之勢,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Palace Guards,宫廷侍卫,宮廷侍衛,hv_TEXT_unit_text_replacements.loc.tsv
-Passive Ally Buff,,,hv_TEXT_unit_abilities.loc.tsv
-Passive Buff Ally,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
-Passive Buff Self,,,hv_TEXT_unit_abilities.loc.tsv
-Passive Debuff Enemy,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+Passive Ally Buff,我方被动增益,我方被動增益,hv_TEXT_unit_abilities.loc.tsv
+Passive Buff Ally,我方被动增益,我方被動增益,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+Passive Buff Self,自身被动增益,自身被動增益,hv_TEXT_unit_abilities.loc.tsv
+Passive Debuff Enemy,敌方被动减益,敵方被動減益,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 "Perhaps out of admiration or to curry favour, a faction has put in a good word for you with the emperor. Talk of your exploits is is all that is on everyone's lips at the palace of late. ",也许是出于钦佩，也许是向您示好，有一派系在皇帝面前为你多加褒词。最近在宫中人人都在谈论您的功绩。 ,也許是出於欽佩，也許是向您示好，有一勢力在皇帝面前爲你多加褒詞。最近在宮中人人都在談論您的功績。,ifo_text_TWEAK.loc.tsv
 Perhaps you can bring them into your fold...,或许可以招揽……,或許可以招攬……,hv_TEXT_events.loc.tsv
 Pike Wall - Ji Guards of the Eight Talents,八才戟卫戟墙,八才戟衛戟墻,hv_TEXT_unit_abilities.loc.tsv
@@ -457,7 +457,7 @@ Scholar Warriors,学霸勇士,學霸勇士,hv_TEXT_unit_text_replacements.loc.ts
 Scion,袁术之子,袁術之子,hv_TEXT_ceo_career.loc.tsv
 Scribe,主簿,主簿,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Second Chance,余烬复燃,餘燼復燃,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
-Second Characteristic,特性二,特性二,hv_TEXT_skills_additional.loc.tsv
+Second Characteristic,个性二,特性二,hv_TEXT_skills_additional.loc.tsv
 Second Wind,重振旗鼓,重振旗鼓,hv_TEXT_unit_abilities.loc.tsv
 "Selecting this will open the Imperial Intrigue panel, which governs all the mechanics which become active once Emperor Xian comes of age in 195 CE, introducing a struggle over the influence of the new imperial power.",选择此项将打开朝廷权谋面板，该面板统管着公元195年献帝加元服后开启的所有机制，代表着皇权所面临的政治角力。,選取之後將會打開朝廷權謀面板，統管獻帝於公元195年成年後開放使用的所有機制，代表著新任皇權所面臨的政治角力。,ifo_text_TWEAK.loc.tsv
 Sell Horses,卖马,賣馬,hv_TEXT_pooled_resource.loc.tsv
@@ -592,7 +592,7 @@ They becomes frenzied when blood is spilled.,他们闻到血腥就会疯狂。,�
 They excel as warriors having trained in martial disciplines.,他们是受过武术训练的优秀战士。,他們是受過武術訓練的優秀戰士。,hv_TEXT_unit_abilities.loc.tsv
 They get everything down to a note.,他们会记录一切事务。,他們會記錄一切事務。,z_dummy_hv_TEXT_non_deployable.loc.tsv
 They rush like wolves.,,,hv_TEXT_unit_abilities.loc.tsv
-Third Characteristic,特性三,特性三,hv_TEXT_skills_additional.loc.tsv
+Third Characteristic,个性三,特性三,hv_TEXT_skills_additional.loc.tsv
 This age of strife breeds men with a talent for warfare. A follower who has recently joined the faction can assume the role of managing an exclusive unit.,乱世出豪杰。新进的一名随从可管理一只特殊军队。,亂世出豪傑。新進的一名隨從可管理一隻特殊軍隊。,hv_TEXT_events.loc.tsv
 This authorisation tally is tradeable in diplomacy!,此兵符可在外交中用来交易！,此兵符可在外交中用來交易！,hv_TEXT_effects_ceo.loc.tsv
 "This general is as an immovable wall, inspiring his men to stand firm against much greater odds.",此将有如一堵难以撼动的墙，激励麾下兵士坚守阵线排除万难。,此將有如一堵難以撼動的牆，激勵麾下兵士堅守陣線排除萬難。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
