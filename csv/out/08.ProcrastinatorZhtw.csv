@@ -6592,17 +6592,17 @@ unit_description_historical_texts_text_hv_unit_bandits_drifting_warmongers,未�
 unit_description_historical_texts_text_hv_unit_bandits_elite_blood_seekers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_bandits_elite_cunning_monkeys,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_bandits_elite_fire_fiends,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_bandits_elite_iron_walls,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_bandits_elite_iron_walls,,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_bandits_elite_jia_long,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_bandits_elite_ren_xia,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_bandits_elite_two_blades,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_bandits_elite_you_shi_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_bandits_fanatics,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_bandits_heroic_outlaws,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_bandits_sabre_cavalry,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_bandits_sabre_cavalry,,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_black_mountain_bandits,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_black_mountain_bandits_javelineer,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_blue_turban_infantry,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_blue_turban_infantry,,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_bomb_thrower,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_buqu_2h_axemen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_buqu_2h_spear_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
@@ -6611,7 +6611,7 @@ unit_description_historical_texts_text_hv_unit_buqu_archers,未完成\\n\\n（�
 unit_description_historical_texts_text_hv_unit_buqu_axemen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_buqu_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_buqu_ji_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_buqu_of_the_left,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_buqu_of_the_left,,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_buqu_raid_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_buqu_rep_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_buqu_sabre_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
@@ -6631,13 +6631,13 @@ unit_description_historical_texts_text_hv_unit_elite_2h_spearmen,未完成\\n\\n
 unit_description_historical_texts_text_hv_unit_elite_2h_swordsmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_elite_barded_2h_spear_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_elite_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_elite_heavy_bow_archers,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_elite_heavy_bow_archers,,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_elite_ji_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_elite_rep_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_elite_spearmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_elite_sword_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_elite_swordsmen,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_enforcer_archer_cavalry,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_elite_swordsmen,,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_enforcer_archer_cavalry,,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_fellows_of_the_oath,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_goshawk_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_han_captain,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
@@ -6650,18 +6650,18 @@ unit_description_historical_texts_text_hv_unit_hidden_2h_spearmen,未完成\\n\\
 unit_description_historical_texts_text_hv_unit_hidden_assault_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_hidden_snakes,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_imperial_guards,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_iron_fists_of_the_bandit_queen,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_iron_fists_of_the_bandit_queen,,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_jade_dragons,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_jei_fan_infantry,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_jei_fan_infantry,,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_jianan_archers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_jianan_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_jianan_crossbowmen_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_jianan_hand_ji_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_jianan_rep_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_jingchou_buqu_2h_axemen,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_jingchou_buqu_2h_spearmen,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_jingchou_buqu_archers,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_jingchou_buqu_caltrop_infantry,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_jingchou_buqu_2h_axemen,,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_jingchou_buqu_2h_spearmen,,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_jingchou_buqu_archers,,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_jingchou_buqu_caltrop_infantry,,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_juggernaut,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_local_noble_buqu_archers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_local_noble_buqu_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
@@ -6674,12 +6674,12 @@ unit_description_historical_texts_text_hv_unit_mercenary_cavalry,未完成\\n\\n
 unit_description_historical_texts_text_hv_unit_mercenary_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_militia_2h_axemen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_militia_archers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_militia_black_mountain_outlaws,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_militia_black_mountain_outlaws,,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_militia_ji_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_militia_sabre_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_militia_scout_cavalry,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_militia_taishan_outlaws,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_militia_white_tiger_outlaws,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_militia_scout_cavalry,,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_militia_taishan_outlaws,,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_militia_white_tiger_outlaws,,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_multiple_bolt_crossbow,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_nanman_axe_defectors,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_nanman_cavalry_defectors,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
@@ -6688,8 +6688,8 @@ unit_description_historical_texts_text_hv_unit_nanman_southern_foreign_rangers,�
 unit_description_historical_texts_text_hv_unit_nanman_southern_foreign_warriors,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_nanman_southern_shield_bearers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_nanman_spear_defectors,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_nomad_gang_cavalry,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_northern_mace_cavalry,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_nomad_gang_cavalry,,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_northern_mace_cavalry,,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_northern_spear_cavalry,這些騎兵身披重甲，訓練有素，如一把利刃在敵陣中左衝右突。他們由一位身經百戰的伯長指揮，是戰場上的領軍者。他們的致命衝鋒足以使久戰兵鈍的友軍士氣爲之一振。 \\n\\n即便在主將缺陣的情況下，同袍們仍可放心，今日我軍並無敗北之虞。因爲這些北軍顯然已經做好準備，在這支勇猛的長戟騎兵和他們所信賴的伯長的指揮下，與敵人一決生死。,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_onyx_dragons,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_palace_guards,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
@@ -6714,10 +6714,10 @@ unit_description_historical_texts_text_hv_unit_shanyue_warriors,未完成\\n\\n�
 unit_description_historical_texts_text_hv_unit_sogd_barded_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_sogd_warriors,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_spice_guard,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_stray_artisans,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_stray_artisans,,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_swallow_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_taishan_phantoms,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_taishan_poison_wind,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_taishan_phantoms,,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_taishan_poison_wind,,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_tiger_and_leopard_barded_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_tiger_and_leopard_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_trebuchet,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
@@ -6729,20 +6729,20 @@ unit_description_historical_texts_text_hv_unit_white_tiger_guardsmen,未完成\\
 unit_description_historical_texts_text_hv_unit_white_tiger_warriors,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_wuhuan_barded_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_wuhuan_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_xian_chen_ying,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_xian_chen_ying,,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_xianbei_archer_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_xiliang_buqu_archer_cavalry,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_xiliang_buqu_crossbowmen,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_xiliang_buqu_hand_ji_infantry,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_xiliang_buqu_ji_infantry,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_xiliang_buqu_sabre_cavalry,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_xiliang_buqu_spear_cavalry,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_xiliang_buqu_spearmen,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_xiliang_elite_2h_swordsmen,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_xiliang_elite_barded_2h_spear_cavalry,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_xiliang_elite_crossbowmen,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_xiliang_elite_enforcers,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_xiliang_elite_spearmen,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_xiliang_buqu_archer_cavalry,,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_xiliang_buqu_crossbowmen,,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_xiliang_buqu_hand_ji_infantry,,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_xiliang_buqu_ji_infantry,,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_xiliang_buqu_sabre_cavalry,,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_xiliang_buqu_spear_cavalry,,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_xiliang_buqu_spearmen,,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_xiliang_elite_2h_swordsmen,,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_xiliang_elite_barded_2h_spear_cavalry,,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_xiliang_elite_crossbowmen,,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_xiliang_elite_enforcers,,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_xiliang_elite_spearmen,,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_xiongnu_archer_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_xiongnu_barded_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_xiongnu_javelineer,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
@@ -6756,8 +6756,8 @@ unit_description_historical_texts_text_hv_unit_ytr_the_lands_chosen,道教的核
 unit_description_historical_texts_text_hv_unit_ytr_virtuous_noblemen,黃巾軍衝擊了天下的腐朽勢力，許多人都開始有所動搖。\\n\\n這些貴族不再效忠於之前的諸侯，而是另尋天義以求救贖。他們之前生活優渥，自然裝備訓練充足，他們身着華麗兜鍪騎良馬殺入戰場，他們手持斧頭和盾牌，衝破敵陣後也會近戰砍殺。,False,hv_TEXT_unit_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_ytr_zealots_of_the_way,漢代的民兵往往是被迫服役的，但黃巾戰士們確實真心實意爲天下蒼生而戰。\\n\\n 這種堅決的意志使他們比一般的民兵更爲勇猛。他們身着輕甲，手持闊劍，毫不留情地斬殺一切與黃天爲敵之人。,False,hv_TEXT_unit_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_yuan_rong_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_yuan_sword_infantry,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_yue_freemen,尚未翻譯,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_yuan_sword_infantry,,True,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_yue_freemen,,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_zhong_royal_guard,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_azure_dragons,未完成,True,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_bandits_2h_spear_cavalry,未完成,True,hv_TEXT_unit_desc.loc.tsv

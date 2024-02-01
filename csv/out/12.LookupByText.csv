@@ -24,7 +24,6 @@ A new regime is coming into power.,新政权开始建立。,新政權開始建�
 A noble messenger.,一名高贵的信使。,一名高貴的信使。,z_dummy_hv_TEXT_non_deployable.loc.tsv
 A place to trade with the natives.,与土著交易之处。,與土著交易之處。,hv_TEXT_building.loc.tsv
 A place where great teachers and passionate students gather.,贤师高徒汇聚之所。,賢師高徒匯聚之所。,hv_TEXT_building.loc.tsv
-A prince's retinue reflects their glory in splendour. These brave cavalrymen match their splendour with equal prowress in battle.,,,hv_TEXT_unit_desc.loc.tsv
 A quiet but enthusiastic supporter.,安静但热情的支持者。,安靜但熱情的支持者。,z_dummy_hv_TEXT_non_deployable.loc.tsv
 A regiment of the Northern Army will join your faction.,一个北军兵团会加入您的派系。,一個北軍兵團會加入您的勢力。,hv_TEXT_events.loc.tsv
 A remarkable talent.,才华横溢,才華橫溢,hv_TEXT_skills_additional.loc.tsv
@@ -49,7 +48,6 @@ Adaptation is the only way to live.,,,hv_TEXT_unit_abilities.loc.tsv
 Agronomy,农艺,農藝,z_dummy_hv_TEXT_non_deployable.loc.tsv
 All economic activities have been hampered by the minting of a new coin. We have no choice but to wait for merchants to adjust to the new standard.,所有的经济活动都因为新币的铸造而受到阻碍。我们别无选择，只能等待商人们适应新的标准。,所有的經濟活動都因爲新幣的鑄造而受到阻礙。我們別無選擇，只能等待商人們適應新的標準。,hv_TEXT_events.loc.tsv
 All must take up their tools and participate in the enormous effort of rebuilding society.,所有人都必须拿起工具，参与到重建社会的大业中去。,眾人皆需拿起工具，參與重建江山社稷的龐大工作。,z_dummy_hv_TEXT_non_deployable.loc.tsv
-"Although Yuan Shu is not a popular leader, fortunately, it is an era where money can buy loyalty. When he gathered the best warriors in the region and paid them the highest salaries with best equipments, a plausible royal guards was created. \\n\\n They are as confident as their master's desire for fame, and would rather die than accept failure.",,,hv_TEXT_unit_long_desc.loc.tsv
 Always surrounded by people.,周围总是很多人。,周圍總是很多人。,z_dummy_hv_TEXT_non_deployable.loc.tsv
 "Amongst the hills of Jingchu, the unwary may find themselves tripped upon a caltrop, and slain by the man who laid it.",在荆楚的山中，粗心的人可能会被一把蒺藜绊倒，然后被放它的人杀死。 ,在荊楚的山中，粗心的人可能會被一把蒺藜絆倒，然後被放它的人殺死。,hv_TEXT_unit_desc.loc.tsv
 An excellent writing skill.,优秀的写作能力。,優秀的寫作能力。,z_dummy_hv_TEXT_non_deployable.loc.tsv
@@ -92,8 +90,6 @@ Battle Hardened (Spear),,,hv_TEXT_unit_abilities.loc.tsv
 Battle Trance,乱战,亂戰,hv_TEXT_unit_abilities.loc.tsv
 Black Mountain,黑山,黑山,hv_TEXT_pooled_resource.loc.tsv
 Black Mountain / Opportunistic Alignment,黑山/趋利之盟,黑山 / 趨利之盟,hv_TEXT_frontend_features.loc.tsv
-Black Mountain Raider Cavalry,,,hv_TEXT_unit_text_replacements.loc.tsv
-Black Mountain Raiders,,,hv_TEXT_unit_text_replacements.loc.tsv
 Black Mountain bandits exploit the chaos to bolster their numbers.,黑山贼乘乱以增其之数。,黑山贼乘乱以增其之数。,hv_TEXT_pooled_resource.loc.tsv
 Black Mountain: Few,黑山：量小力微,黑山：量小力微,hv_TEXT_effects_pooled_resource.loc.tsv
 Black Mountain: Formidable,黑山：望而生畏,黑山：望而生畏,hv_TEXT_effects_pooled_resource.loc.tsv
@@ -123,11 +119,9 @@ Cao Ang's Armour,曹昂的护甲,曹昂的護甲,hv_TEXT_ceo_career.loc.tsv
 Cao Cao's presence unnerves the enemy general!,曹操在场，敌将备受压制！,曹操在場，敵將備受壓制！,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 Captain,校尉,校尉,hv_TEXT_unit_text_replacements.loc.tsv
 Captain of Yuan House,袁氏校尉,袁氏校尉,hv_TEXT_unit_text_replacements.loc.tsv
-Causes temporary social turmoil,,,hv_TEXT_effects_technology.loc.tsv
 Cement your rule with legitimacy! Build an Imperial City that will be the envy of other warlords. All under heaven will look to you for leadership.,要称霸就要有正统的名义。若能建造一座万人敬仰的都城，便可彰显实力，天下人必当归顺。,要稱霸就要有正統的名義。若能建造一座萬人敬仰的皇城，便可彰顯實力，天下人必當歸順。,hv_TEXT_events.loc.tsv
 "Certain polearms, such as the Ji, can parry incoming attacks.",像戟这样的长柄武器可以阻挡对方的攻击。,像戟這樣的長柄武器可以阻擋對方的攻擊。,hv_TEXT_unit_abilities_hit_effects.loc.tsv
 Character Joins: Dong Bai,,,hv_TEXT_events.loc.tsv
-Chen Deng's Armour,,,hv_TEXT_ceo_career.loc.tsv
 Children of the forest,森林之子,森林之子,hv_TEXT_unit_text_replacements.loc.tsv
 Chunyu Qiong,淳于琼,淳于瓊,hv_TEXT_cb_loadout.loc.tsv
 Chunyu Qiong finally came to his senses! He is no longer a drunkard but a general who can lead an army.,淳于琼终于想通了！他不再是个酒鬼，而是个能带兵的将领。,淳于瓊終於想通了！他不再是個酒鬼，而是個能帶兵的將領。,hv_TEXT_events.loc.tsv
@@ -180,7 +174,6 @@ Duke or Grand Master,派系级别达到公,勢力級別達到公,hv_TEXT_etc.loc
 "Echoing the glory of Chu, the great axes these men wield will make short work of their shielded foes.",这些人所挥的大斧是楚国的荣耀，即使是持盾的敌人亦命不久矣。 ,這些人所揮的大斧是楚國的榮耀，即使是持盾的敵人亦命不久矣。,hv_TEXT_unit_desc.loc.tsv
 "Echoing the nomads they fought for years, these horse archers will do the Xiliang army proud on any battlefield.",这些马弓手与其他游牧部落征战多年，在任何战场上都是西凉军的骄傲。,這些馬弓手與其他遊牧部落征戰多年，在任何戰場上都是西涼軍的驕傲。,hv_TEXT_unit_desc.loc.tsv
 Economic and social upheaval casued by the minting of a new coin.,铸造新币引起了经济和社会的动荡。,鑄造新幣引起了經濟和社會的動蕩。,hv_TEXT_effects_technology.loc.tsv
-Elite Guards of the Eight Talents,,,hv_TEXT_unit_text_replacements.loc.tsv
 Enables: Duelling,可使用：单挑,可使用：單挑,hv_TEXT_skills_skill_ability_etc.loc.tsv
 Enables: Explosive Shot (Trebuchet),可使用：爆裂弹（投石机）,可使用：爆裂彈（投石機）,hv_TEXT_effects_skills.loc.tsv
 Enables: Flaming Shot (Trebuchet),可使用：燃烧弹（投石机）,可使用：燃燒彈（投石機）,hv_TEXT_effects_skills.loc.tsv
@@ -229,7 +222,6 @@ Garrison Reinforcement,驻军补员,駐軍補員,hv_TEXT_skills_additional.loc.t
 Garrisoned armies will support the administration of the local county.,驻防军队将会支持当地郡县的管理。,駐軍會協助縣內行政事宜。,hv_TEXT_effects_pooled_resource.loc.tsv
 Gathering Volunteers,召集义勇,召集義勇,hv_TEXT_skills_additional.loc.tsv
 Goshawk Cavalry,苍鹰突骑,蒼鷹突騎,hv_TEXT_unit_text_replacements.loc.tsv
-"Great danger hides in the early mist of day. Phantoms that will maim their prey, or whose choking gass leaves them gasping for air.",,,hv_TEXT_unit_desc.loc.tsv
 Guo Si's Armour,郭汜的护甲,郭汜的護甲,hv_TEXT_ceo_career.loc.tsv
 "Hailing from Taishan, these women have coated their arrow points in a special ointment, made from poisonous herbs native to the region. In battle, A volley from these archers will soon leave the enemy gasping for air as the poison very quickly spreads through their veins. A wise commander will use these soldiers to spread terror through the enemy ranks, yet keep them well-protected: they are vulnerable to cavalry, as their range is limited.",,,hv_TEXT_unit_long_desc.loc.tsv
 Handmaid Guards,护卫侍女,護衛侍女,hv_TEXT_unit_text_replacements.loc.tsv
@@ -280,13 +272,11 @@ Imperial ancestral rite ended,皇家祭祀仪式结束,皇家祭祀儀式結束,
 Imperial banquet ended without incident,皇家宴会结束，并无意外发生,皇家宴會結束，並無意外發生 ,ifo_text_TWEAK.loc.tsv
 Importunity,坚韧不屈,堅韌不屈,hv_TEXT_unit_abilities.loc.tsv
 "In the face of adversity, those left standing will close ranks and bolster their resolve.",面对逆境，所剩兵士只能集结起来坚定决心。,面對逆境，所剩兵士只能集結起來坚定决心。,hv_TEXT_unit_abilities.loc.tsv
-"In the hills and mountains of the Southlands, the desperate will lay down their lives to escape the Han.",,,hv_TEXT_unit_desc.loc.tsv
 "In the midst of a bloodbath, it's nice to know that someone has your back.",在腥风血雨中你仍有所依靠。,在腥風血雨中你仍有所依靠。,hv_TEXT_unit_abilities.loc.tsv
 "Indeed, the goods brought by the western merchants are diverse, with many rare and valuable items. Furthermore, the mercenaries escorting them look like natural warriors.",的确，西域商人带来的货物种类繁多，其中不乏珍惜名贵之物。而且，护送他们的佣兵看起来就像是天生的战士。,的確，西域商人帶來的貨物種類繁多，其中不乏珍惜名貴之物。而且，護送他們的傭兵看起來就像是天生的戰士。,hv_TEXT_events.loc.tsv
 Indomitable Warrior,无畏之士,無畏之士,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Infill Development ,填地开发,填地開發,hv_TEXT_building.loc.tsv
 Inflicts less damage and has reduced accuracy but suppresses targets.,造成伤害较低，准确率也降低，但可压制目标。,造成傷害較低，準確率也降低，但可壓制目標。,hv_TEXT_etc.loc.tsv
-Ingenuity and craftsmanship can turn even a lowly militiaman into a daunting foe.,,,hv_TEXT_unit_desc.loc.tsv
 Inner Vitality,内在活力,内在活力,hv_TEXT_skills_skill_ability__historical.loc.tsv
 Inspection,审查,審查,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Instinct,本能,本能,z_dummy_hv_TEXT_non_deployable.loc.tsv
@@ -302,10 +292,8 @@ It's getting harder to find anyone who isn't a Black Mountain bandit.,四海之�
 "It's hard to believe, but it might be worth investigating personally.",难以置信，但不妨亲自调查一番。,難以置信，但不妨親自調查一番。,hv_TEXT_events.loc.tsv
 Ji Guards of the Eight Talents,八才戟卫,八才戟衛,hv_TEXT_unit_text_replacements.loc.tsv
 Ji Ling,,,hv_TEXT_cb_loadout.loc.tsv
-Jianan Elite Vigilante,,,hv_TEXT_unit_text_replacements.loc.tsv
 Jiang Qin,,,hv_TEXT_cb_loadout.loc.tsv
 Jiang Qin's Armour,蒋钦的护甲,蔣欽的護甲,hv_TEXT_ceo_career.loc.tsv
-Jie Fan Infantry,,,hv_TEXT_unit_text_replacements.loc.tsv
 Jingchu Troop Tally,荆楚虎符,荊楚虎符,hv_TEXT_effects_ceo.loc.tsv
 Jingchu troop tally can be earned when occupied,占据时可获得荆楚虎符,占據時可獲得荊楚虎符,hv_TEXT_region_army.loc.tsv
 Jiuzhen Javelineers,,,hv_TEXT_unit_text_replacements.loc.tsv
@@ -318,9 +306,6 @@ King Meng Huo [[img:unit_elephant]][[/img]],孟获大王[[img:unit_elephant]][[/
 King Mulu [[img:unit_elephant]][[/img]],木鹿大王[[img:unit_elephant]][[/img]],木鹿大王 [[img:unit_elephant]][[/img]],hv_TEXT_cb_loadout.loc.tsv
 King Shamoke [[img:unit_elephant]][[/img]],沙摩柯大王[[img:unit_elephant]][[/img]],沙摩柯大王 [[img:unit_elephant]][[/img]],hv_TEXT_cb_loadout.loc.tsv
 King Wutugu [[img:unit_elephant]][[/img]],兀突骨大王[[img:unit_elephant]][[/img]],兀突骨大王 [[img:unit_elephant]][[/img]],hv_TEXT_cb_loadout.loc.tsv
-Lady Cai,,,hv_TEXT_ceo_career.loc.tsv
-Lady Cai's Embroidered Garments,,,hv_TEXT_ceo_armour.loc.tsv
-Lady Cai's clothes are thin but soft and sturdy.,,,hv_TEXT_ceo_armour.loc.tsv
 Lady Liu,刘氏,劉氏,hv_TEXT_ceo_career.loc.tsv
 Lady Liu always cares about her family.,刘夫人总是关心她的家人。,劉夫人總是關心他的家人。,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Lady Liu's Robes,刘夫人的长袍,劉夫人的長袍 ,z_dummy_hv_TEXT_non_deployable.loc.tsv
@@ -381,7 +366,6 @@ No one is faster than this one.,无人能快过飞燕的速度。,無人能快�
 No one wants troublemakers.,莫要惹是生非。,莫要惹是生非。,hv_TEXT_events.loc.tsv
 "No one welcomes them, and everyone cast doubt to your decision.",,,hv_TEXT_effects_events.loc.tsv
 Nomad Gang,游牧马贼,游牧馬賊,hv_TEXT_unit_text_replacements.loc.tsv
-Northern Army Captains,,,hv_TEXT_events.loc.tsv
 Not all of us get a second chance.,不是所有人都有机会重来。,不是所有人都有機會重來。,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 Oath Fellows,结义弟兄,結義弟兄,hv_TEXT_unit_text_replacements.loc.tsv
 Offensive Stance,进攻姿态,進攻姿態,hv_TEXT_unit_abilities.loc.tsv
@@ -432,13 +416,8 @@ Ravine Warriors: for recruitment: %+n,,,hv_TEXT_effects_unit_cap.loc.tsv
 Ready to colour the world once again.,,,hv_TEXT_effects_pooled_resource.loc.tsv
 Reassuring words prevent soldiers from wavering on a chaotic battlefield.,安慰之言以防士卒于乱战中摇摆不定。,安慰之言以防士卒于乱战中摇摆不定。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "Recruited by Liu Bei during his time as ""General of the Left"", these soldiers now are loyal to their general and will fight to see his vision fulfilled. The Han shall be restored, and they will unleash a barrage of arrows upon any rebel who would see the Han extinguished. And And if their foes would close the distance, they shall find that they are equally skilled in melee combat, unless they fight cavalry.  ",,,hv_TEXT_unit_long_desc.loc.tsv
-Remnants of Lu Bu's faction have joined us. We may focus on military redeployment.,,,hv_TEXT_effects_events.loc.tsv
-Remnants of Yuan Shu's faction have joined us. We may focus on military redeployment.,,,hv_TEXT_effects_events.loc.tsv
 Ren Xia,任侠,任俠,hv_TEXT_unit_text_replacements.loc.tsv
-Replaces unit: {{tr:hv_unit_buqu_of_the_left}} ({{tr:hv_unit_buqu_archers}}),,,hv_TEXT_skills_additional.loc.tsv
 Replaces unit: {{tr:hv_unit_destroyer_of_traitors}} ({{tr:hv_unit_elite_2h_spear_cavalry}}),,,hv_TEXT_skills_additional.loc.tsv
-Replaces unit: {{tr:hv_unit_handmaid_guard}},,,hv_TEXT_skills_additional.loc.tsv
-Replaces unit: {{tr:hv_unit_swallow_cavalry}} ({{tr:hv_unit_bandits_2h_spear_cavalry}}),,,hv_TEXT_skills_additional.loc.tsv
 Resolve,决心,決心,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Restore,回复,回復,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Resurrection,,,hv_TEXT_pooled_resource.loc.tsv
@@ -467,8 +446,6 @@ Send your warriors into the thick of battle and watch as they fight even more fi
 Set your heart ablaze!,将你的心点燃！,將你的心點燃！,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 Shen Pei,审配,審配,hv_TEXT_cb_loadout.loc.tsv
 Shield Wall (Mobile),,,hv_TEXT_unit_abilities.loc.tsv
-Shield Wall (Mobile) (Spear) - Danyang,,,hv_TEXT_unit_abilities.loc.tsv
-Shield Wall (Mobile) - Danyang,,,hv_TEXT_unit_abilities.loc.tsv
 Shoot and run.,,,hv_TEXT_unit_abilities.loc.tsv
 Shoot some crossbow-bombs for reducing morale of hostile units.,射出一些弩弹，用于降低敌军士气。,射出一些弩彈，用於降低敵軍士氣。,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 "Short Range, High Armour-Piercing Damage, Average Reload",近距，穿甲伤害高，射击速率一般,近距，穿甲傷害高，射擊速率一般,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
@@ -524,7 +501,6 @@ The Black Mountain bandits unleash their fury.,黑山匪徒怒不可遏。,黑�
 The Glory of the Han shall endure while these men have the strength to wield their halberds.,只要这些人有力量挥舞他们的战戟，汉室的荣耀就将延续。 ,只要這些人有力量揮舞他們的戰戟，漢室的榮耀就將延續。,hv_TEXT_unit_desc.loc.tsv
 The Han must be restored. These men shall follow their righteous general to the death to see it done.,汉室必须复兴。这些人将誓死跟随他们通晓大义的将军。 ,漢室必須復興。這些人將誓死跟隨他們通曉大義的將軍。,hv_TEXT_unit_desc.loc.tsv
 The Kidnapped Girl,文姬归汉,文姬歸漢,hv_TEXT_events.loc.tsv
-The Lady of Jingzhou,,,hv_TEXT_ceo_career.loc.tsv
 The Last Kin of the Dong Zhuo,,,hv_TEXT_events.loc.tsv
 The Legacy of Lu Bu,吕布残党,呂布殘黨,hv_TEXT_effects_events.loc.tsv
 The Legacy of Yuan Shu,袁术残党,袁術殘黨,hv_TEXT_effects_events.loc.tsv
@@ -543,8 +519,6 @@ The battlefield is your stage.,战场即是您的舞台。,戰場即是您的舞
 "The captain of the centre, inspector of the professional Northern Army, has pledged his allegiance to Dong Zhuo. He now has a formidable force at his disposal.",领军的校尉掌管北军世兵，现已效忠于董卓。这是支不可小觑的部队。,領軍的校尉掌管北軍世兵，現已效忠于董卓。這是支不可小觑的部隊。,hv_TEXT_events.loc.tsv
 "The captain of the centre, inspector of the professional Northern Army, has pledged his allegiance to Gongsun Zan. He now has a formidable force at his disposal.",领军的校尉掌管北军世兵，现已效忠于公孙瓒。这是支不可小觑的部队。,領軍的校尉掌管北軍世兵，現已效忠于公孫瓚。這是支不可小觑的部隊。,hv_TEXT_events.loc.tsv
 "The captain of the centre, inspector of the professional Northern Army, has pledged his allegiance to Yuan Shu. He now has a formidable force at his disposal.",领军的校尉掌管北军世兵，现已效忠于袁术。这是支不可小觑的部队。,領軍的校尉掌管北軍世兵，現已效忠于袁術。這是支不可小觑的部隊。,hv_TEXT_events.loc.tsv
-"The crossbow is a very effective weapon for a surprise attack. The shooter just have to load a bolt, lower their body, and wait for the prey to come. \\n\\n This unit is adept at the tactics of smashing careless enemies with ambush shots.",,,hv_TEXT_unit_long_desc.loc.tsv
-"The desperate and the disenfranchised gather at the base of Black Mountain, ready to expand their fortunes or die trying.",,,hv_TEXT_unit_desc.loc.tsv
 The emperor thinks highly of you. His majesty has decided to gift you a small fortune in honour of your contributions to the state.,天子对你甚有好感，决定给你一些赏赐，来表彰你对朝廷的贡献。,天子對你甚有好感，决定給你一些賞賜，來表彰你對朝廷的貢獻。 ,ifo_text_TWEAK.loc.tsv
 The estates of powerful and wealthy families.,地方豪强的地产。,地方豪强的地產。,hv_TEXT_building.loc.tsv
 The fervour is now only left in the white ashes.,,,hv_TEXT_effects_pooled_resource.loc.tsv
@@ -552,7 +526,6 @@ The fervour is now only left in the white ashes.,,,hv_TEXT_effects_pooled_resour
 The first three warlords to be named king will proclaim themselves emperor.,,,!hv_TEXT_system.loc.tsv
 The flame of hope shines bright in the darkest hour.,希望之火在最黯时刻光芒闪耀。,希望之火在最黯時刻光芒閃耀。,hv_TEXT_unit_abilities.loc.tsv
 "The forest provides a path, and surer footing, for the respectful.",森林为懂得尊重的人提供了通行路径和更稳固的立足之地。,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。 ,hv_TEXT_skills_skill_ability__historical.loc.tsv
-The house of Cai is the most famous noble family in Jingzhou. Lady Cai is willing to use the power.,,,hv_TEXT_ceo_career.loc.tsv
 The house of Dong is destroyed.,,,hv_TEXT_events.loc.tsv
 "The imperial ancestral rite ended without incident. Unfortunately, the emperor returned to the place without acknowledging your contribution.",皇家祭祀仪式顺利完成，但天子一言不发便回宫了。,皇家祭祀儀式順利完成，但天子一言不發便回宮了。 ,ifo_text_TWEAK.loc.tsv
 "The imperial ancestral rite was completed successfully, and the emperor shows favour to the attending nobles. ",皇家祭祀仪式圆满完成，天子对到场的贵族示恩。,皇家祭祀儀式圓滿完成，天子對到場的貴族示恩。 ,ifo_text_TWEAK.loc.tsv
@@ -569,7 +542,6 @@ The people of Danyang have a reputation for bravery. Tao Qian has turned them in
 "The pride of the Xiliang army, these armored horsemen will teach their enemy the meaning of “elite cavalry”.",作为西凉军的骄傲，这些重甲骑兵将教导他们的敌人“精锐骑兵”的含义。 ,作爲西涼軍的驕傲，這些重甲騎兵將教導他們的敵人“精銳騎兵”的含義。 ,hv_TEXT_unit_desc.loc.tsv
 The quantity and quality of your warhorses is unmatched!,战马的数量与质量皆无与伦比！,戰馬的數量與質量皆無與倫比！,hv_TEXT_effects_pooled_resource.loc.tsv
 The roar of gunpowder is more terrifying than any man or beast.,火药的轰鸣声比任何人兽都更可畏。,火藥的轟鳴聲比任何人獸都更可畏。,hv_TEXT_unit_abilities_hit_effects.loc.tsv
-"The sting of an arrowshaft can be deadly, but with these archers, death may still find you long after the arrow pierced your flesh.",,,hv_TEXT_unit_desc.loc.tsv
 The trees are their friends.,,,hv_TEXT_unit_abilities.loc.tsv
 "The typical bandit force consists of lightly armored troops. These men are not a typical bandit force. A string of victories or lucky looting has netted them the excellent armour wielded by the heavy troops of the Han empire. They now form a heavy spear unit, capable of holding their ground against even the dreaded barded horsemen. With these men, any aspiring bandit warlord may find himself a bandit king or queen, one day.",,,hv_TEXT_unit_long_desc.loc.tsv
 The unit inspires nearby soldiers to fight more aggressively.,此单位激励附近士卒更粗莽地战斗。 ,此單位激勵附近士卒更粗莽地戰鬥。,hv_TEXT_unit_abilities.loc.tsv
@@ -631,9 +603,7 @@ Unit List,,,!hv_TEXT_system.loc.tsv
 Unknown result,结果不明,結果不明 ,ifo_text_TWEAK.loc.tsv
 "Unlocked in 195 CE. Once this is unlocked, you can use imperial favour to preform [[b]]imperial decrees[[/b]]",在公元195年解锁。解锁后，可以使用天子宠信来颁布[[b]]圣旨[[/b]]。,於公元195年解鎖。一旦解除此鎖定，您便可以運用皇帝寵信度發佈[[b]]皇帝詔書[[/b]],ifo_text_TWEAK.loc.tsv
 Unlocked when Emperor Xian comes of age in 195 CE,公元195年献帝加元服后解锁,公元195年獻帝成年時解除鎖定,ifo_text_TWEAK.loc.tsv
-Unlocks Northern Army Buqu units [[col:scope_description]](own retinue)[[/col]],,,hv_TEXT_effects_ceo.loc.tsv
 Unlocks Northern Army Elite units [[col:scope_description]](own retinue)[[/col]],,,hv_TEXT_effects_ceo.loc.tsv
-Unlocks Xiliang Army Buqu units [[col:scope_description]](own retinue)[[/col]],,,hv_TEXT_effects_ceo.loc.tsv
 Unlocks Xiliang Army Elite units [[col:scope_description]](own retinue)[[/col]],,,hv_TEXT_effects_ceo.loc.tsv
 Unlocks a special ability for cavalry units,解锁骑兵单位一个特殊能力,解鎖騎兵單位一個特殊能力,hv_TEXT_effects_pooled_resource.loc.tsv
 Unlocks elite Northern Army Captain Retinues,解锁精锐北军校尉随从,解鎖精銳北軍校尉隨從,hv_TEXT_events.loc.tsv
@@ -678,7 +648,6 @@ Wind of the North,北风,北風,hv_TEXT_unit_abilities.loc.tsv
 "With Hand-ji and shield, these Xiliang warriors will bring death to the enemy.",佩戴盾与手戟，这些西凉勇士为敌人带来杀身之祸。,佩戴盾與手戟，這些西涼勇士為敵人帶來殺身之禍。,hv_TEXT_unit_desc.loc.tsv
 "With a shout, this man spurs on their horse. The warrior can plough into enemies with such force that scores of men go flying.",此人高呼一声，策马飞奔。他冲入敌阵的劲道之强，足以将大批士兵一举震飞。,此人高呼一聲，策馬飛奔。他衝入敵陣的勁道之強，足以將大批士兵一舉震飛。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "With a single shot, The shooter brings death.",此射手只消一击便能取人性命。,此射手只消一擊便能取人性命。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-"With club in hand, the desperate shall make a fortune and name for themselves, or die trying.",,,hv_TEXT_unit_desc.loc.tsv
 "With her graceful beauty, she stuns all around her.",她运用美色，迷得周围所有人动弹不得。,她運用美色，迷得周圍所有人動彈不得。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "With sword and shield, these Xiliang horsemen will strike fear into the foe.",佩戴剑盾，这些西凉骑兵令敌军不寒而栗。,佩戴劍盾，這些西涼騎兵令敵軍不寒而慄。,hv_TEXT_unit_desc.loc.tsv
 "With the many wars that ravage China, militias everywhere have sprung up to defend their home and livelihood from bandits, yellow turbans, and invading warlords. Tempered by hard-won experience, these men have become adepts at war by survival.  Equally skilled in melee as with the bow, they over time bought horses to level the playing field with the more professional troops they often face. Many of these veterans now flock to the banners of the warlords, providing a rapid response force fit for a variety of situations.",,,hv_TEXT_unit_long_desc.loc.tsv
@@ -689,7 +658,6 @@ Wuguo Axe Throwers: for recruitment: %+n,,,hv_TEXT_effects_unit_cap.loc.tsv
 Wuhuan Riding Skill,乌桓骑术,烏桓騎術,hv_TEXT_unit_abilities.loc.tsv
 Wuhuan horsemanship is unparalleled.,乌桓马术天下无双。,烏桓馬術天下無雙。,hv_TEXT_unit_abilities.loc.tsv
 Wuling Fighters: for recruitment: %+n,,,hv_TEXT_effects_unit_cap.loc.tsv
-Xianchenying Guards,,,hv_TEXT_unit_text_replacements.loc.tsv
 Xianchenying Vanguards,,,hv_TEXT_unit_text_replacements.loc.tsv
 Yan Baihu can recruit generic [[b]]Han units[[/b]] with Bandit Network.,严白虎可通过匪盗网招募普通[[b]]汉兵种单位[[/b]]。,嚴白虎可通過盜賊人脈招募普通 [[b]]漢軍單位[[/b]]。,hv_TEXT_frontend_features.loc.tsv
 Yan Baihu may now recruit {{tr:hv_unit_white_tiger_warriors}}.,严白虎现可招募{{tr:hv_unit_white_tiger_warriors}}。,嚴白虎現可招募{{tr:hv_unit_white_tiger_warriors}}。,hv_TEXT_events.loc.tsv
@@ -747,66 +715,14 @@ Zhuge Liang has brilliantly engineered a new weapon. It is a crossbow that fires
 "[[b]]ARMOUR[[/b]]\\n\\n Decreases standard melee, ranged and explosion damages. Doesn't help against armour-piercing damage.",[[b]]护甲[[/b]]\\n\\n减少单位受到的标准近战伤害、远程伤害以及爆炸伤害。无法防御穿甲伤害。,[[b]]護甲[[/b]]\\n\\n 減少單位受到的標準近戰傷害、遠程傷害以及爆炸傷害。無法防禦穿甲傷害。,hv_TEXT_etc.loc.tsv
 [[b]]BONUS VS. CAVALRY[[/b]]\\n\\n Increases melee damage against cavalry.,[[b]]对抗骑兵加成[[/b]]\\n\\n提高对骑兵的近战伤害。,[[b]]對抗騎兵加成[[/b]]\\n\\n 提高對騎兵的近戰傷害。,hv_TEXT_etc.loc.tsv
 [[b]]BONUS VS. INFANTRY[[/b]]\\n\\n Increases melee damage against infantry.,[[b]]对抗步兵加成[[/b]]\\n\\n提高对步兵的近战伤害。,[[b]]對抗步兵加成[[/b]]\\n\\n 提高對步兵的近戰傷害。,hv_TEXT_etc.loc.tsv
-"[[b]]Bandits[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Faction unique units[[/col]]\\n• {{tr:hv_unit_militia_black_mountain_outlaws}}\\n• {{tr:hv_unit_black_mountain_bandits}}\\n• {{tr:hv_unit_black_mountain_bandits_javelineer}}\\n• {{tr:hv_unit_bandits_2h_spear_cavalry}}\\n\\n[[col:flavour]][[i]]When China fell into chaos, peasants and deserters fled to the mountains and returned as bandits.[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Bandits[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Faction unique units[[/col]]\\n• {{tr:hv_unit_militia_taishan_outlaws}}\\n• {{tr:hv_unit_taishan_phantoms}}\\n• {{tr:hv_unit_taishan_poison_wind}}\\n\\n[[col:flavour]][[i]]When China fell into chaos, peasants and deserters fled to the mountains and returned as bandits.[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Bandits[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Faction unique units[[/col]]\\n• {{tr:hv_unit_militia_white_tiger_outlaws}}\\n• {{tr:hv_unit_white_tiger_bandits}}\\n• {{tr:hv_unit_white_tiger_bandits_slingers}}\\n• {{tr:hv_unit_white_tiger_warriors}}\\n\\n[[col:flavour]][[i]]When China fell into chaos, peasants and deserters fled to the mountains and returned as bandits.[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Black Mountain[[/b]] is this faction's unique resource.\\n\\n[[i]][[col:flavour]] Black Mountain bandits exploit the chaos to bolster their numbers. [[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Buqu[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Faction unique units[[/col]]\\n• {{tr:3k_dlc07_unit_earth_tiger_cubs}}\\n • {{tr:hv_unit_tiger_and_leopard_cavalry}}\\n • {{tr:hv_unit_tiger_and_leopard_barded_cavalry}}\\n\\n[[col:flavour]][[i]]A warlord's private army. Well balanced and versatile.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Buqu[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Faction unique units[[/col]]\\n• {{tr:3k_dlc07_unit_wood_dongzhoubing_defenders}}\\n• {{tr:3k_dlc07_unit_water_dongzhoubing_marksmen}}\\n\\n[[col:flavour]][[i]]A warlord's private army. Well balanced and versatile.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Buqu[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Faction unique units[[/col]]\\n• {{tr:hv_unit_chen_spear_defenders}}\\n• {{tr:hv_unit_chen_crossbow_defenders}}\\n• {{tr:hv_unit_chen_rep_crossbow_defenders}}\\n• {{tr:hv_unit_chen_peacekeepers_halberd_infantry}}\\n• {{tr:hv_unit_chen_peacekeepers_crossbowmen}}\\n• {{tr:hv_unit_chen_royal_guard_cavalry}}\\n\\n[[col:flavour]][[i]]A warlord's private army. Well balanced and versatile.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Buqu[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Faction unique units[[/col]]\\n• {{tr:hv_unit_guanxibing_swordsmen}}\\n• {{tr:hv_unit_guanxibing_spearmen}}\\n\\n[[col:flavour]][[i]]A warlord's private army. Well balanced and versatile.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Buqu[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Faction unique units[[/col]]\\n• {{tr:hv_unit_jei_fan_infantry}}\\n• {{tr:hv_unit_blue_turban_infantry}}\\n\\n[[col:flavour]][[i]]A warlord's private army. Well balanced and versatile.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Buqu[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Faction unique units[[/col]]\\n• {{tr:hv_unit_jianan_hand_ji_infantry}}\\n• {{tr:hv_unit_jianan_archers}}\\n• {{tr:hv_unit_jianan_crossbowmen_cavalry}}\\n• {{tr:hv_unit_jianan_crossbowmen}}\\n• {{tr:hv_unit_jianan_rep_crossbowmen}}\\n• {{tr:hv_unit_beihai_fury_mace}}\\n• {{tr:hv_unit_beihai_fury_crossbowmen}}\\n\\n[[col:flavour]][[i]]A warlord's private army. Well balanced and versatile.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Buqu[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Faction unique units[[/col]]\\n• {{tr:hv_unit_jiuzhen_javelineer}}\\n• {{tr:hv_unit_jiuzhen_raider}}\\n• {{tr:hv_unit_spice_guard}}\\n\\n[[col:flavour]][[i]]A warlord's private army. Well balanced and versatile.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Buqu[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Faction unique units[[/col]]\\n• {{tr:hv_unit_northern_mace_cavalry}}\\n• {{tr:hv_unit_northern_spear_cavalry}}\\n\\n[[col:flavour]][[i]]A warlord's private army. Well balanced and versatile.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Buqu[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Faction unique units[[/col]]\\n• {{tr:hv_unit_qingzhou_hand_ji_infantry}}\\n• {{tr:hv_unit_qingzhou_2h_axe_infantry}}\\n• {{tr:hv_unit_qingzhou_raider_cavalry}}\\n• {{tr:3k_dlc07_unit_earth_tiger_cubs}}\\n • {{tr:hv_unit_tiger_and_leopard_cavalry}}\\n • {{tr:hv_unit_tiger_and_leopard_barded_cavalry}}\\n\\n[[col:flavour]][[i]]A warlord's private army. Well balanced and versatile.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Buqu[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Faction unique units[[/col]]\\n• {{tr:hv_unit_stray_artisans}}\\n[[col:flavour]][[i]]A warlord's private army. Well balanced and versatile.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Buqu[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Faction unique units[[/col]]\\n• {{tr:hv_unit_sword_guards_of_the_eight_talents}}\\n• {{tr:hv_unit_ji_guards_of_the_eight_talents}}\\n\\n[[col:flavour]][[i]]A warlord's private army. Well balanced and versatile.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Buqu[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Faction unique units[[/col]]\\n• {{tr:hv_unit_white_feathers}}\\n\\n[[col:flavour]][[i]]A warlord's private army. Well balanced and versatile.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Buqu[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Faction unique units[[/col]]\\n• {{tr:hv_unit_xiliang_elite_enforcers}}\\n• {{tr:hv_unit_enforcer_archer_cavalry}}\\n\\n[[col:flavour]][[i]]A warlord's private army. Well balanced and versatile.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Buqu[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Faction unique units[[/col]]\\n• {{tr:hv_unit_xiliang_elite_enforcers}}\\n• {{tr:hv_unit_enforcer_archer_cavalry}}\\n• {{tr:hv_unit_xian_chen_ying}}\\n• {{tr:hv_unit_xian_chen_ying_2h_sabre}}\\n\\n[[col:flavour]][[i]]A warlord's private army. Well balanced and versatile.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Buqu[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Faction unique units[[/col]]\\n• {{tr:hv_unit_yuan_sword_infantry}}\\n• {{tr:hv_unit_hidden_snakes}}\\n• {{tr:hv_unit_rapid_tigers}}\\n• {{tr:hv_unit_zhong_royal_guard}}\\n\\n[[col:flavour]][[i]]A warlord's private army. Well balanced and versatile.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Buqu[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Faction unique units[[/col]]\\n• {{tr:hv_unit_yuan_sword_infantry}}\\n• {{tr:hv_unit_porcupine_crossbowmen}}\\n• {{tr:hv_unit_yuan_vanguards}}\\n• {{tr:hv_unit_yuan_rearguards}}\\n\\n[[col:flavour]][[i]]A warlord's private army. Well balanced and versatile.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
 [[b]]CHARGE RESISTANCE[[/b]]\\n\\n Determines how solidly this unit can withstand enemy charges. Only functions when the unit is braced.,[[b]]冲锋抵抗力[[/b]]\\n\\n决定该部队能承受多大程度的敌军冲锋。此作用于该单位被冲锋时。,[[b]]衝鋒抵抗力[[/b]]\\n\\n決定該部隊能承受多大程度的敵軍衝鋒。此作用於該單位被衝鋒時。,hv_TEXT_etc.loc.tsv
-[[b]]Can ambush when attacking[[/b]]\\n\\n [[col:flavour]][[i]]This faction can ambush when attacking.[[/col]][[/i]] ,,,hv_TEXT_frontend_features.loc.tsv
 "[[b]]Chen Deng[[/b]]\\nMan For All Seasons\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]Sometimes, just sometimes, power fails to corrupt, and instead leads to altruism and charity.[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Dong Min[[/b]]\\nGreedy Tyrant\\n\\nGeneral type: {{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]Dong Min understands the unwritten rules of politics - one can never possess too much power.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Dong Peishan[[/b]]\\nEmpress Dong\\n\\nGeneral type: {{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]Dong Peishan is greedy, but ever cautious in her conduct. If it’s Dong Zhou you’re after, you must outwit the cunning Dong Peishan first""[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Fortitude[[/b]] is this faction's unique resource.\\n\\n[[i]][[col:flavour]] With bravery and discipline, Liu Chong inspires his men and puts fear into the enemies of the imperial palace. [[/col]][[/i]] \\n\\n",,,hv_TEXT_frontend_features.loc.tsv
 "[[b]]Guerilla Warfare[[/b]]\\n[[col:scope_description]]Military building chain[[/col]]\\n\\n[[col:green]]+[[/col]] Post-battle loot income\\n[[col:green]]+[[/col]] Military supplies\\n[[col:green]]+[[/col]] Replenishment in foreign land\\n\\n[[col:flavour]][[i]]When fighting a greater opponent, remain flexible and use cunning and surprise.[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Horse Breeding[[/b]] is this faction's unique resource.\\n\\n[[i]][[col:flavour]] Ferghana horses are bred to equip cavalry forces. [[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Hou Jinting[[/b]]\\nBrilliant Matriarch\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]The stakes are raised on the fringes of the empire; Hou Jinting’s keen intuition and vigilance safeguards the future of her family.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Hua Lanli[[/b]]\\nArcher of the West\\n\\nGeneral type: {{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]Hua Lanli’s archery skills are outstanding - drawing comparisons to the ancient hero Hou Yi, the Lord Archer himself.[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Jian Yong[[/b]]\\nComic Storyteller\\n\\nGeneral type: {{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]A childhood friend of Liu Bei, Jian Yong is carefree and informal, but also a superior orator.[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
 [[b]]Lady Cai[[/b]]\\nThe Lady of Jingzhou\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]The house of Cai is the most famous noble family in Jingzhou. Lady Cai is willing to use the power.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Lady Feng[[/b]]\\nWeeping Woman\\n\\nGeneral type: {{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]Jealous of Lady Feng’s preferential treatment and beauty, the concubines have made her cry in front of Yuan Shu numerous times.[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Lady Liu[[/b]]\\nDevoted Mother\\n\\nGeneral type: {{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]Lady Liu constantly worries about her family. Perhaps she worries too much.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Lady Trieu[[/b]]\\nFree-spirited Heroine\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]An untamable woman of the Trieu Dynasty who fights to see her people free.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Lady Wu[[/b]]\\nEmpress Wulie\\n\\nGeneral type: {{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]No matter how brave the warrior, they cannot hope to match the power of her dignity and generosity.[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
 [[b]]Loyalty to the Han[[/b]]\\n[[col:scope_description]]Path to victory[[/col]]\\n\\n[[col:red]]Requires high prestige for creating an emperor seat[[/col]]\\nCan gain prestige with imperial favours\\n\\n[[col:flavour]][[i]]Ambition is tamed by respect and loyalty towards the Han and its emperors.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Lu Zheng[[/b]]\\nScout of Taiyuan\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]She transforms the sound of her bow and movement of her troops into a violent and beautiful song and dance.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Luo Jun[[/b]]\\nGuardian of the People\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]""There is nothing to be gained from oppressing the people; they, ultimately, will decide our legacy.""[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Lü Ji[[/b]]\\nDaughter of the Dragon\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]Much is expected from the Warrior Without Equal’s daughter, but the ravishing Lü Ji fights with both the skill and ferocity to live up to the Lü name.[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
 [[b]]MELEE EVASION[[/b]]\\n\\n Increases the chance of evading melee damage from front and side. The enemy's charge bonus decreases it.,[[b]]近战回避[[/b]]\\n\\n此能力值会提高闪避正面与侧面近战伤害的机率。敌人的冲锋加成会降低此能力值。,[[b]]近戰迴避[[/b]]\\n\\n 此能力值會提高閃避正面與側面近戰傷害的機率。敵人的衝鋒加成會降低此能力值。,hv_TEXT_etc.loc.tsv
 [[b]]MELEE HIT BONUS[[/b]]\\n\\n Increases a unit's hit chance at all times by decreasing the enemy's melee evasion.,[[b]]近战命中加成[[/b]]\\n\\n通过降低敌人的近战回避，增加单位在任何时候的命中率。,[[b]]近戰命中加成[[/b]]\\n\\n 通過降低敵人的近戰回避，增加單位在任何時候的命中率。,hv_TEXT_etc.loc.tsv
-"[[b]]Ma Yunlu[[/b]]\\nPrincess Dun Huang\\n\\nGeneral type: {{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]Ma Yunlu prefers small elite units than a large force. For her well equipped and highly skilled troops, she spares no expense.[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Mercenary Outpost[[/b]]\\n[[col:scope_description]]Add-on building[[/col]]\\n\\n[[col:yellow]]Grants access to Mercenaries[[/col]]\\n[[col:green]]+[[/col]] Income from commerce\\n[[col:green]]+[[/col]] Replenishment\\n\\n[[col:flavour]][[i]]Without inheriting authority, wealth's greatest use is for attaining power, so the brave can serve China regardless of their heritage.[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Nanman[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Initial unit available[[/col]]\\n• Followers of the Flame\\n• Tiger Slingers\\n• Tiger Warriors\\n\\n[[col:flavour]][[i]]The courageous warriors of Southern China are finally ready to carve out their place in the world.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Nanman[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Initial unit available[[/col]]\\n• Nanzhong Spearmen\\n• Nanzhong Champions\\n• Nanzhong Elephants\\n\\n[[col:flavour]][[i]]Finally, the courageous warriors of Southern China are ready to carve out a their place in the world.[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Nanman[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Initial unit available[[/col]]\\n• Ravine Warriors\\n• Southern Elephants\\n• War Elephants\\n\\n[[col:flavour]][[i]]The courageous warriors of Southern China are finally ready to carve out their place in the world.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Nanman[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Initial unit available[[/col]]\\n• Wuling Fighters\\n• Wuling Slingers\\n• Might of the Valley\\n\\n[[col:flavour]][[i]]The courageous warriors of Southern China are finally ready to carve out their place in the world.[[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Pang De[[/b]]\\nWhite Horse General\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]Pang De is an unrelenting force, whose avowed enemies know they must face him sooner or later.[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Qu Gong[[/b]]\\nOne-Eyed Bandit\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]When your eye for banditry and mischief is this good, you don’t need both eyes.[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Sell Horses[[/b]]\\n[[col:scope_description]]Economic assignment[[/col]]\\n\\n[[col:green]]+[[/col]] Income from commerce\\n\\n[[col:flavour]][[i]]Your attendant will sell the horses you've bred, for a fine sum.[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Stratocracy[[/b]] is this faction's unique resource.\\n\\n[[i]][[col:flavour]] An inevitable rule to stabilize the turmoil. [[/col]],,,hv_TEXT_frontend_features.loc.tsv
 "[[b]]Wu Anguo[[/b]]\\nOne Armed Bear\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]Although he lost one hand, he was one of the few who survived from duel with Lubu.[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Yan Xiang[[/b]]\\nSagacious Seer\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]Blessed with prodigious foresight, Yan Xiang forsees perils and pitfalls long before they arise.[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Yellow Turbans[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Initial unit available[[/col]]\\n• {{tr:hv_unit_ytr_archery_masters}}\\n\\n[[col:flavour]][[i]]The wind of change that will transform China![[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Yellow Turbans[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Initial unit available[[/col]]\\n• {{tr:hv_unit_ytr_guardians_of_the_land}}\\n• {{tr:hv_unit_ytr_the_lands_chosen}}\\n\\n[[col:flavour]][[i]]The wind of change that will transform China![[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Yellow Turbans[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Initial unit available[[/col]]\\n• {{tr:hv_unit_ytr_youxia}}\\n\\n[[col:flavour]][[i]]The wind of change that will transform China![[/col]][[/i]],,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Yuan Anyang[[/b]]\\nPrincess Zhong\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]The beauty and qualities of Yuan Anyang, a princess of the Kingdom of Zhong, are known throughout the land.[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Zhang Xun[[/b]]\\nGeneral-in-Chief of Zhong\\n\\nGeneral type: {{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]As the leading general of the Kingdom of Zhong, Zhang Xun commands the formidable army of the Yuan family.[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Zheng Lan[[/b]]\\nQueen of Black Mountain\\n\\nGeneral type: {{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]An ambitious woman, whose reasons to marry Zhang Yan are as mysterious as herself.[[/col]][[/i]]",,,hv_TEXT_frontend_features.loc.tsv
 [[col:flavour]]Local Noble's Estate[[/col]],[[col:flavour]]地方豪强庄园[[/col]],[[col:flavour]]地方豪强莊園[[/col]],hv_TEXT_building.loc.tsv
 [[col:green]]Immune to Fear and Terror[[/col]],,,!hv_TEXT_system.loc.tsv
 [[col:scope_description]](adjacent all {{tr:map_regions}})[[/col]],[[col:scope_description]]（相邻各{{tr:map_regions}}）[[/col]],[[col:scope_description]]（相鄰各{{tr:map_regions}}）[[/col]],hv_TEXT_effects_building.loc.tsv

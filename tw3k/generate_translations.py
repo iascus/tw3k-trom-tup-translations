@@ -141,6 +141,11 @@ class ProcrastinatorZhcn(TsvFiles):
     step_no = 7
     dir_path = 'ProcrastinatorZhcn'
 
+    def _run(self):
+        data = super()._run()
+        data.loc[data['Text'].isin(['', '尚未翻译']), 'Text'] = np.nan
+        return data
+
 
 class ProcrastinatorZhtw(Step):
     step_no = 8
@@ -284,10 +289,11 @@ class MapByKeyZhcn(Step):
     step_no = 24
     lang_col = 'zh-cn'
 
-    def __init__(self, trom_eng, vanilla_translations, pikaman_zh, lookup_by_key, map_by_pattern_zh):
+    def __init__(self, trom_eng, vanilla_translations, pikaman_zh, procrastinator_zh, lookup_by_key, map_by_pattern_zh):
         self.trom_eng = trom_eng
         self.vanilla_translations = vanilla_translations
         self.pikaman_zh = pikaman_zh
+        self.procrastinator_zh = procrastinator_zh
         self.lookup_by_key = lookup_by_key
         self.map_by_pattern_zh = map_by_pattern_zh
 
@@ -296,20 +302,23 @@ class MapByKeyZhcn(Step):
         vanilla = self.vanilla_translations.data.drop_duplicates(subset=['Key'])
         vanilla = vanilla[['Key', self.lang_col]].rename({self.lang_col: 'Vanilla'}, axis=1)
         pikaman_zh = self.pikaman_zh.data.drop_duplicates(subset=['Key'])[['Key', 'Text']]
+        procrastinator_zh = self.procrastinator_zh.data.drop_duplicates(subset=['Key'])[['Key', 'Text']]
         lookup_by_key = self.lookup_by_key.data[['Key', self.lang_col]].rename({self.lang_col: 'Override by key'}, axis=1)
+        map_by_pattern_zh = self.map_by_pattern_zh.data[['Text', 'Mapped by text', 'Mapped by pattern']].rename({'Text': 'English'}, axis=1)
+
         data = data.merge(lookup_by_key, on='Key', how='left')
         data = data.merge(vanilla, on='Key', how='left')
         data = data.merge(pikaman_zh.rename({'Text': 'PikaMan'}, axis=1), on='Key', how='left')
         data['Short Key'] = data['Key'].str.rsplit('_', n=1).str[0]
         data = data.merge(pikaman_zh.rename({'Text': 'PikaMan shortened key', 'Key': 'Short Key'}, axis=1), on='Short Key', how='left')
-
+        data = data.merge(procrastinator_zh.rename({'Text': 'Procrastinator'}, axis=1), on='Key', how='left')
         data['Text'] = pd.NA
         data['Source'] = 'Missing'
-        map_by_pattern_zh = self.map_by_pattern_zh.data[['Text', 'Mapped by text', 'Mapped by pattern']]
-        data = data.merge(map_by_pattern_zh, left_on='English', right_on='Text', how='left')
+        data = data.merge(map_by_pattern_zh, on='English', how='left')
         for col in [
             'PikaMan shortened key',
             'PikaMan',
+            'Procrastinator',
             'Vanilla',
             'Mapped by text',
             'Mapped by pattern',
@@ -447,8 +456,8 @@ def main():
     lookup_by_text_fragment = LookupByTextFragment()
     map_by_pattern_zhcn = MapByPatternZhcn(trom_eng, vanilla_translations, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type, lookup_by_text_fragment)
     map_by_pattern_zhtw = MapByPatternZhtw(trom_eng, vanilla_translations, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type, lookup_by_text_fragment)
-    map_by_key_zhcn = MapByKeyZhcn(trom_eng, vanilla_translations, pikaman_zhcn, lookup_by_key, map_by_pattern_zhcn)
-    map_by_key_zhtw = MapByKeyZhtw(trom_eng, vanilla_translations, pikaman_zhtw, lookup_by_key, map_by_pattern_zhtw)
+    map_by_key_zhcn = MapByKeyZhcn(trom_eng, vanilla_translations, pikaman_zhcn, procrastinator_zhcn, lookup_by_key, map_by_pattern_zhcn)
+    map_by_key_zhtw = MapByKeyZhtw(trom_eng, vanilla_translations, pikaman_zhtw, procrastinator_zhtw, lookup_by_key, map_by_pattern_zhtw)
     final_zhcn = FinalZhcn(map_by_key_zhcn)
     final_zhtw = FinalZhtw(map_by_key_zhtw)
     regen_lookup_by_text = RegenLookupByText(map_by_key_zhcn, map_by_key_zhtw)
