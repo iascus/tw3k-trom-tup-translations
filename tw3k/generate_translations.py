@@ -184,8 +184,12 @@ class LookupByUnitType(LookupFile):
     step_no = 16
 
 
-class LookupByTextFragment(LookupFile):
+class LookupBySkill(LookupFile):
     step_no = 17
+
+
+class LookupByTextFragment(LookupFile):
+    step_no = 18
 
 
 class VanillaTranslations(Step):
@@ -218,11 +222,22 @@ class MapByPatternZhcn(Step):
     step_no = 22
     lang_col = 'zh-cn'
 
-    def __init__(self, trom_eng, vanilla_translations, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type, lookup_by_text_fragment):
+    def __init__(
+            self,
+            trom_eng,
+            vanilla_translations,
+            lookup_by_text,
+            lookup_by_pattern,
+            lookup_by_unit_name,
+            lookup_by_unit_type,
+            lookup_by_skill,
+            lookup_by_text_fragment
+    ):
         self.trom_eng = trom_eng
         self.vanilla_translations = vanilla_translations
         self.lookup_by_unit_name = lookup_by_unit_name
         self.lookup_by_unit_type = lookup_by_unit_type
+        self.lookup_by_skill = lookup_by_skill
         self.lookup_by_text = lookup_by_text
         self.lookup_by_pattern = lookup_by_pattern
         self.lookup_by_text_fragment = lookup_by_text_fragment
@@ -248,6 +263,7 @@ class MapByPatternZhcn(Step):
         lookup_by_pattern = self.lookup_by_pattern.data.set_index(['KeyPattern', 'TextPattern'])[[self.lang_col]]
         lookup_by_unit_type = self.lookup_by_unit_type.data.set_index('Text')[self.lang_col].to_dict()
         lookup_by_unit_name = self.lookup_by_unit_name.data.set_index('Text')[self.lang_col].to_dict()
+        lookup_by_skill = self.lookup_by_skill.data.set_index('Text')[self.lang_col].to_dict()
         lookup_by_text_vanilla = self.vanilla_translations.data[['Text', self.lang_col]].dropna().set_index('Text')[self.lang_col].to_dict()
         lookup_by_text_vanilla.update(lookup_by_text.to_dict()['Mapped by text'])
         lookup_by_text = lookup_by_text_vanilla
@@ -273,6 +289,7 @@ class MapByPatternZhcn(Step):
                     found = self._lookup(found, matched, 'unit_type', lookup_by_unit_type)
                     found = self._lookup(found, matched, 'unit_tier', lookup_by_unit_type)
                     found = self._lookup(found, matched, 'unit_name', lookup_by_unit_name)
+                    found = self._lookup(found, matched, 'skill_name', lookup_by_skill)
                     if found.keys() == matched.keys():
                         data.loc[text, 'Mapped by pattern'] = replacement.format(**found)
 
@@ -324,8 +341,10 @@ class MapByKeyZhcn(Step):
             'Mapped by pattern',
             'Override by key',
         ]:
-            data.loc[~pd.isna(data[col]), ['Text']] = data[col]
-            data.loc[~pd.isna(data[col]), ['Source']] = col
+            to_update = (~pd.isna(data[col]) & (data[col] != ''))
+            data.loc[to_update, ['Source']] = col
+            data.loc[to_update, ['Text']] = data[col]
+
         data['File'] = data['File'].str.replace('text/_hvo/', '')
         data = data.reset_index()[[
             'Key', 'Text', 'Tooltip', 'English', 'Override by key',
@@ -407,7 +426,10 @@ class MissingZhtw(MissingZhcn):
 class Comparison(Step):
     step_no = 42
 
-    def __init__(self, trom_eng, vanilla_zhcn, vanilla_zhtw, map_by_key_zhcn, map_by_key_zhtw, pikaman_zhcn, pikaman_zhtw, procrastinator_zhcn):
+    def __init__(
+            self, trom_eng, vanilla_zhcn, vanilla_zhtw, map_by_key_zhcn, map_by_key_zhtw,
+            pikaman_zhcn, pikaman_zhtw, procrastinator_zhcn, procrastinator_zhtw
+    ):
         self.trom_eng = trom_eng
         self.vanilla_zhcn = vanilla_zhcn
         self.vanilla_zhtw = vanilla_zhtw
@@ -416,6 +438,7 @@ class Comparison(Step):
         self.pikaman_zhcn = pikaman_zhcn
         self.pikaman_zhtw = pikaman_zhtw
         self.procrastinator_zhcn = procrastinator_zhcn
+        self.procrastinator_zhtw = procrastinator_zhtw
 
     def _run(self):
         cmp = pd.concat([
@@ -425,15 +448,24 @@ class Comparison(Step):
                 (self.map_by_key_zhcn, 'Text', 'MappedZhcn'),
                 (self.map_by_key_zhcn, 'Source', 'SourceZhcn'),
                 (self.vanilla_zhcn, 'Text', 'VanillaZhcn'),
-                (self.pikaman_zhcn, 'Text', 'PikaManZhcn'),
                 (self.procrastinator_zhcn, 'Text', 'ProcrastinatorZhcn'),
+                (self.pikaman_zhcn, 'Text', 'PikaManZhcn'),
                 (self.map_by_key_zhtw, 'Text', 'MappedZhtw'),
                 (self.map_by_key_zhtw, 'Source', 'SourceZhtw'),
                 (self.vanilla_zhtw, 'Text', 'VanillaZhtw'),
+                (self.procrastinator_zhtw, 'Text', 'ProcrastinatorZhtw'),
                 (self.pikaman_zhtw, 'Text', 'PikaManZhtw'),
             ]
         ], axis=1).loc[self.trom_eng.data['Key'].drop_duplicates()].reset_index()
-        cmp = cmp[(cmp['MappedZhcn'] != cmp['ProcrastinatorZhcn']) & (~cmp['ProcrastinatorZhcn'].isin([np.nan, pd.NA, '', '尚未翻译']))]
+        # cmp = cmp[(cmp['MappedZhcn'] != cmp['ProcrastinatorZhcn']) & (~cmp['ProcrastinatorZhcn'].isin([np.nan, pd.NA, '', '尚未翻译']))]
+        cmp = cmp[
+            cmp['Key'].str.startswith('character_skills_localised_')
+        ]
+        cmp['SkillKey'] = cmp['Key'].str.replace(
+            re.compile('character_skills_localised_([a-z]+)_(.*)'), r'\2_\1', regex=True
+        )
+        cmp = cmp.drop('Key', axis=1).sort_values('SkillKey', ascending=False).drop_duplicates()
+        # cmp = cmp[~cmp['SourceZhtw'].isin(['Vanilla', 'Mapped by pattern'])]
         return cmp
 
 
@@ -453,9 +485,16 @@ def main():
     lookup_by_pattern = LookupByPattern()
     lookup_by_unit_name = LookupByUnitName()
     lookup_by_unit_type = LookupByUnitType()
+    lookup_by_skill = LookupBySkill()
     lookup_by_text_fragment = LookupByTextFragment()
-    map_by_pattern_zhcn = MapByPatternZhcn(trom_eng, vanilla_translations, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type, lookup_by_text_fragment)
-    map_by_pattern_zhtw = MapByPatternZhtw(trom_eng, vanilla_translations, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type, lookup_by_text_fragment)
+    map_by_pattern_zhcn = MapByPatternZhcn(
+        trom_eng, vanilla_translations, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type,
+        lookup_by_skill, lookup_by_text_fragment
+    )
+    map_by_pattern_zhtw = MapByPatternZhtw(
+        trom_eng, vanilla_translations, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type,
+        lookup_by_skill, lookup_by_text_fragment
+    )
     map_by_key_zhcn = MapByKeyZhcn(trom_eng, vanilla_translations, pikaman_zhcn, procrastinator_zhcn, lookup_by_key, map_by_pattern_zhcn)
     map_by_key_zhtw = MapByKeyZhtw(trom_eng, vanilla_translations, pikaman_zhtw, procrastinator_zhtw, lookup_by_key, map_by_pattern_zhtw)
     final_zhcn = FinalZhcn(map_by_key_zhcn)
@@ -463,7 +502,10 @@ def main():
     regen_lookup_by_text = RegenLookupByText(map_by_key_zhcn, map_by_key_zhtw)
     missing_zhcn = MissingZhcn(map_by_key_zhcn)
     missing_zhtw = MissingZhtw(map_by_key_zhtw)
-    comparison = Comparison(trom_eng, vanilla_zhcn, vanilla_zhtw, map_by_key_zhcn, map_by_key_zhtw, pikaman_zhcn, pikaman_zhtw, procrastinator_zhcn)
+    comparison = Comparison(
+        trom_eng, vanilla_zhcn, vanilla_zhtw, map_by_key_zhcn, map_by_key_zhtw,
+        pikaman_zhcn, pikaman_zhtw, procrastinator_zhcn, procrastinator_zhtw
+    )
 
     for step in [
         vanilla_zhcn,
@@ -481,6 +523,7 @@ def main():
         lookup_by_pattern,
         lookup_by_unit_name,
         lookup_by_unit_type,
+        lookup_by_skill,
         lookup_by_text_fragment,
         map_by_pattern_zhcn,
         map_by_pattern_zhtw,

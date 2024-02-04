@@ -2,7 +2,6 @@ KeyPattern,TextPattern,zh-tw,zh-cn
 ,^(?P<repl>{{.*}}) for recruitment: %\+n$,{repl}部署量：%+n,{repl}部署量：%+n
 ,^(?P<repl>{{.*}}) for recruitment: \+1$,{repl}部署量：+1,{repl}部署量：+1
 ,^(?P<repl>{{.*}})$,{repl},{repl}
-,^Ability: (?P<text>[-a-zA-Z ]+)$,技能：{text},技能：{text}
 ,^Unlocks (?P<unit_type>[a-zA-Z ]+) units \[\[col:scope_description\]\]\(own retinue\)\[\[/col\]\],解除{unit_type}單位的鎖定[[col:scope_description]]（我方部曲）[[/col]],解锁{unit_type}单位[[col:scope_description]]（我方部曲）[[/col]]
 ,"^Unlocks (?P<unit_type>[a-zA-Z, ]+) \[\[col:scope_description\]\]\(own retinue\)\[\[/col\]\]",解除{unit_type}的鎖定[[col:scope_description]]（我方部曲）[[/col]],解锁{unit_type}[[col:scope_description]]（我方部曲）[[/col]]
 ,^Unlocks assignment: (?P<text_fragment>.*)$,解鎖任務：{text_fragment},解锁任务：{text_fragment}
@@ -19,6 +18,8 @@ KeyPattern,TextPattern,zh-tw,zh-cn
 ,^\[\[b\]\]%\+n\[\[/b\]\] (?P<text_fragment>[a-zA-Z ]+)$,{text_fragment}[[b]]%+n[[/b]],{text_fragment}[[b]]%+n[[/b]]
 ^ceo_nodes_description_.*,^Proof that the bearer has the authority to command (?P<unit_type>[a-zA-Z ]+).,此令牌可指揮{unit_type}。,此令牌可指挥{unit_type}。
 ^ceo_nodes_description_.*,^Proof that the bearer has the authority to command (?P<unit_type>[a-zA-Z]+) troops.,此令牌可指揮{unit_type}單位。,此令牌可指挥{unit_type}部队。
+^character_skills_localised_.*,"^(?P<skill_name>[-a-zA-Z ',\.]+)$",{skill_name},{skill_name}
+^effects_description_.*,^Ability: (?P<skill_name>[-a-zA-Z ']+)$,技能：{skill_name},技能：{skill_name}
 ^ui_text_replacements_localised_text_,^(?P<repl>\[\[.*\]\]) (?P<text_fragment>[a-zA-Z]+),{repl} {text_fragment},{repl} {text_fragment}
 ^ui_text_replacements_localised_text_.*,^(?P<unit_type>Black Mountain Bandits|Enforcer Troop|Han Provincial|House Servant|Jianan Vigilante|Local Noble|Southern Foreign|Tiger & Leopard|White Tiger|Yellow Turbans|Yuan Rong) (?P<unit_name>[-a-zA-Z ]+),{unit_type}{unit_name},{unit_type}{unit_name}
 ^ui_text_replacements_localised_text_.*,^(?P<unit_type>[a-zA-Z]+) (?P<unit_name>[-a-zA-Z ]+),{unit_type}{unit_name},{unit_type}{unit_name}

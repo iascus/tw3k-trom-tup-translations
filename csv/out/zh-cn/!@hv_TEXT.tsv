@@ -457,7 +457,7 @@ character_skills_localised_description_hv_skill_ability_mock_expertise	此英雄
 character_skills_localised_description_hv_skill_ability_mortal_strike_authority	可发出非常有力的一击。	true
 character_skills_localised_description_hv_skill_ability_mortal_strike_expertise	可发出非常有力的一击。	true
 character_skills_localised_description_hv_skill_ability_mortal_strike_instinct	可发出非常有力的一击。	true
-character_skills_localised_description_hv_skill_ability_nature_s_ally_authority	森林为懂得尊重的人提供了通行路径和更稳固的立足之地。	true
+character_skills_localised_description_hv_skill_ability_nature_s_ally_authority	敬爱山林，山亦敬之，穿林如行路。	true
 character_skills_localised_description_hv_skill_ability_nature_s_ally_cunning	敬爱山林，林即如家，山是前路。 	true
 character_skills_localised_description_hv_skill_ability_nature_s_ally_resolve	敬爱山林，林即如家，山是前路。 	true
 character_skills_localised_description_hv_skill_ability_oil_bomb_cunning	扔掷易燃油罐至目标敌人。	true
@@ -1040,9 +1040,9 @@ character_skills_localised_description_hv_skill_non_deployable_water_2	多谋善
 character_skills_localised_description_hv_skill_non_deployable_wood_1	所谓英雄，不可徒有其表，需当勇冠三军。	true
 character_skills_localised_description_hv_skill_non_deployable_wood_2	所谓英雄，不可徒有其表，需当勇冠三军。	true
 character_skills_localised_description_hv_skill_wood_mobilization	激发斗志乃是领军的精髓。	true
-character_skills_localised_name_hv_historical_skill_ability_earth_01	剑刃风暴	true
+character_skills_localised_name_hv_historical_skill_ability_earth_01	舞爪	true
 character_skills_localised_name_hv_historical_skill_ability_earth_02	磐石	true
-character_skills_localised_name_hv_historical_skill_ability_earth_03	集结	true
+character_skills_localised_name_hv_historical_skill_ability_earth_03	齐心	true
 character_skills_localised_name_hv_historical_skill_ability_fire_01	突围	true
 character_skills_localised_name_hv_historical_skill_ability_fire_02	炎凤	true
 character_skills_localised_name_hv_historical_skill_ability_fire_03	追踪	true
@@ -1057,47 +1057,47 @@ character_skills_localised_name_hv_historical_skill_ability_scholar_02	磐石	tr
 character_skills_localised_name_hv_historical_skill_ability_scholar_03	扬刃	true
 character_skills_localised_name_hv_historical_skill_ability_veteran_01	天侣	true
 character_skills_localised_name_hv_historical_skill_ability_veteran_02	地遁	true
-character_skills_localised_name_hv_historical_skill_ability_veteran_03	反骑兵战术	true
+character_skills_localised_name_hv_historical_skill_ability_veteran_03	反制	true
 character_skills_localised_name_hv_historical_skill_ability_water_01	激浪	true
-character_skills_localised_name_hv_historical_skill_ability_water_02	火控	true
-character_skills_localised_name_hv_historical_skill_ability_water_03	反骑兵战术	true
+character_skills_localised_name_hv_historical_skill_ability_water_02	穿杨	true
+character_skills_localised_name_hv_historical_skill_ability_water_03	反制	true
 character_skills_localised_name_hv_historical_skill_ability_wood_01	壁垒	true
 character_skills_localised_name_hv_historical_skill_ability_wood_02	刚韧	true
-character_skills_localised_name_hv_historical_skill_ability_wood_03	内在活力	true
+character_skills_localised_name_hv_historical_skill_ability_wood_03	内力	true
 character_skills_localised_name_hv_skill_ability_adamant_resolve_expertise	不屈	true
 character_skills_localised_name_hv_skill_ability_adamant_resolve_resolve	不屈	true
-character_skills_localised_name_hv_skill_ability_aggressive_anger_expertise	愈战愈怒	true
-character_skills_localised_name_hv_skill_ability_aggressive_anger_instinct	愈战愈怒	true
+character_skills_localised_name_hv_skill_ability_aggressive_anger_expertise	怒猊	true
+character_skills_localised_name_hv_skill_ability_aggressive_anger_instinct	怒猊	true
 character_skills_localised_name_hv_skill_ability_analyse_weakness_cunning	看破	true
-character_skills_localised_name_hv_skill_ability_anti_cavalry_authority	反骑兵战术	true
-character_skills_localised_name_hv_skill_ability_anti_cavalry_cunning	反骑兵战术	true
-character_skills_localised_name_hv_skill_ability_anti_cavalry_resolve	反骑兵战术	true
-character_skills_localised_name_hv_skill_ability_anti_cavalry_veteran	反骑兵战术	true
-character_skills_localised_name_hv_skill_ability_assemble_authority	集结	true
-character_skills_localised_name_hv_skill_ability_assemble_expertise	集结	true
-character_skills_localised_name_hv_skill_ability_assemble_instinct	集结	true
-character_skills_localised_name_hv_skill_ability_assemble_resolve	集结	true
-character_skills_localised_name_hv_skill_ability_assemble_scholar	集结	true
-character_skills_localised_name_hv_skill_ability_assemble_veteran	集结	true
+character_skills_localised_name_hv_skill_ability_anti_cavalry_authority	反制	true
+character_skills_localised_name_hv_skill_ability_anti_cavalry_cunning	反制	true
+character_skills_localised_name_hv_skill_ability_anti_cavalry_resolve	反制	true
+character_skills_localised_name_hv_skill_ability_anti_cavalry_veteran	反制	true
+character_skills_localised_name_hv_skill_ability_assemble_authority	齐心	true
+character_skills_localised_name_hv_skill_ability_assemble_expertise	齐心	true
+character_skills_localised_name_hv_skill_ability_assemble_instinct	齐心	true
+character_skills_localised_name_hv_skill_ability_assemble_resolve	齐心	true
+character_skills_localised_name_hv_skill_ability_assemble_scholar	齐心	true
+character_skills_localised_name_hv_skill_ability_assemble_veteran	齐心	true
 character_skills_localised_name_hv_skill_ability_binding_fury_instinct	聚怒	true
 character_skills_localised_name_hv_skill_ability_binding_fury_resolve	聚怒	true
 character_skills_localised_name_hv_skill_ability_binding_fury_scholar	聚怒	true
 character_skills_localised_name_hv_skill_ability_blade_breaker_instinct	断刃	true
 character_skills_localised_name_hv_skill_ability_blade_mastery_expertise	盖世	true
-character_skills_localised_name_hv_skill_ability_blade_mastery_resolve	舞爪	true
+character_skills_localised_name_hv_skill_ability_blade_mastery_resolve	盖世	true
 character_skills_localised_name_hv_skill_ability_blazing_roar_instinct	怒吼	true
 character_skills_localised_name_hv_skill_ability_blazing_saddles_instinct	绝尘	true
-character_skills_localised_name_hv_skill_ability_bleed_expertise	险恶一击	true
-character_skills_localised_name_hv_skill_ability_bleed_resolve	险恶一击	true
+character_skills_localised_name_hv_skill_ability_bleed_expertise	霆击	true
+character_skills_localised_name_hv_skill_ability_bleed_resolve	霆击	true
 character_skills_localised_name_hv_skill_ability_blood_fury_instinct	血怒	true
-character_skills_localised_name_hv_skill_ability_brawl_authority	殴打	true
-character_skills_localised_name_hv_skill_ability_brawl_instinct	殴打	true
+character_skills_localised_name_hv_skill_ability_brawl_authority	熊罴	true
+character_skills_localised_name_hv_skill_ability_brawl_instinct	熊罴	true
 character_skills_localised_name_hv_skill_ability_burning_instinct	炎魂	true
 character_skills_localised_name_hv_skill_ability_burning_resolve	炎魂	true
-character_skills_localised_name_hv_skill_ability_calm_down_authority	镇静	true
-character_skills_localised_name_hv_skill_ability_calm_down_expertise	镇静	true
-character_skills_localised_name_hv_skill_ability_calm_down_scholar	镇静	true
-character_skills_localised_name_hv_skill_ability_calm_down_veteran	镇静	true
+character_skills_localised_name_hv_skill_ability_calm_down_authority	将才	true
+character_skills_localised_name_hv_skill_ability_calm_down_expertise	将才	true
+character_skills_localised_name_hv_skill_ability_calm_down_scholar	将才	true
+character_skills_localised_name_hv_skill_ability_calm_down_veteran	将才	true
 character_skills_localised_name_hv_skill_ability_ceasefire_authority	息兵	false
 character_skills_localised_name_hv_skill_ability_commanding_shout	训令	true
 character_skills_localised_name_hv_skill_ability_condemn	声讨	true
@@ -1109,7 +1109,7 @@ character_skills_localised_name_hv_skill_ability_crossing_of_the_styx_scholar	Cr
 character_skills_localised_name_hv_skill_ability_cruel_lord_authority	强令	true
 character_skills_localised_name_hv_skill_ability_cry_of_the_forest_resolve	林啸	true
 character_skills_localised_name_hv_skill_ability_defence_mastery_authority	泰山	true
-character_skills_localised_name_hv_skill_ability_defence_mastery_resolve	山阵	true
+character_skills_localised_name_hv_skill_ability_defence_mastery_resolve	泰山	true
 character_skills_localised_name_hv_skill_ability_desperate_cry	绝号	true
 character_skills_localised_name_hv_skill_ability_devastating_roar_instinct	狂号	true
 character_skills_localised_name_hv_skill_ability_disorientate	蛊惑	true
@@ -1128,10 +1128,10 @@ character_skills_localised_name_hv_skill_ability_favourable_skies	天时	true
 character_skills_localised_name_hv_skill_ability_fire_bomb_authority	火焰弹	true
 character_skills_localised_name_hv_skill_ability_fire_bomb_cunning	火焰弹	true
 character_skills_localised_name_hv_skill_ability_fire_bomb_instinct	火焰弹	true
-character_skills_localised_name_hv_skill_ability_fire_control_authority	火控	true
-character_skills_localised_name_hv_skill_ability_fire_control_cunning	火控	true
-character_skills_localised_name_hv_skill_ability_fire_control_expertise	火控	true
-character_skills_localised_name_hv_skill_ability_fire_control_veteran	火控	true
+character_skills_localised_name_hv_skill_ability_fire_control_authority	穿杨	true
+character_skills_localised_name_hv_skill_ability_fire_control_cunning	穿杨	true
+character_skills_localised_name_hv_skill_ability_fire_control_expertise	穿杨	true
+character_skills_localised_name_hv_skill_ability_fire_control_veteran	穿杨	true
 character_skills_localised_name_hv_skill_ability_flames_of_the_phoenix_authority	炎凤	true
 character_skills_localised_name_hv_skill_ability_flames_of_the_phoenix_instinct	炎凤	true
 character_skills_localised_name_hv_skill_ability_flames_of_the_phoenix_resolve	炎凤	true
@@ -1143,7 +1143,7 @@ character_skills_localised_name_hv_skill_ability_flower_of_battlefield_expertise
 character_skills_localised_name_hv_skill_ability_flower_of_battlefield_instinct	玉骨	true
 character_skills_localised_name_hv_skill_ability_flower_of_battlefield_resolve	玉骨	true
 character_skills_localised_name_hv_skill_ability_foresight_cunning	远见	true
-character_skills_localised_name_hv_skill_ability_forest_strider_resolve	森林适性	true
+character_skills_localised_name_hv_skill_ability_forest_strider_resolve	琼林	true
 character_skills_localised_name_hv_skill_ability_from_the_ashes_cunning	涅槃重生	true
 character_skills_localised_name_hv_skill_ability_geographic_mastery_cunning	巧变	false
 character_skills_localised_name_hv_skill_ability_geographic_mastery_expertise	巧变	false
@@ -1162,17 +1162,17 @@ character_skills_localised_name_hv_skill_ability_heart_seeker_instinct	觅心	tr
 character_skills_localised_name_hv_skill_ability_heavenly_grace_authority	天人之姿	true
 character_skills_localised_name_hv_skill_ability_heavenly_grace_cunning	天人之姿	true
 character_skills_localised_name_hv_skill_ability_heavenly_presence_authority	威临	false
-character_skills_localised_name_hv_skill_ability_hero_poisonwind_shot_cunning	毒风	true
+character_skills_localised_name_hv_skill_ability_hero_poisonwind_shot_cunning	剧毒	true
 character_skills_localised_name_hv_skill_ability_impenetrable_redoubt_authority	毅重	false
 character_skills_localised_name_hv_skill_ability_impenetrable_redoubt_expertise	毅重	false
 character_skills_localised_name_hv_skill_ability_imperious_presence_authority	跋扈	true
 character_skills_localised_name_hv_skill_ability_impetuous_charge_authority	横冲	true
 character_skills_localised_name_hv_skill_ability_impetuous_charge_expertise	横冲	true
 character_skills_localised_name_hv_skill_ability_impetuous_charge_instinct	横冲	true
-character_skills_localised_name_hv_skill_ability_indomitable_warrior_instinct	无畏之士	true
-character_skills_localised_name_hv_skill_ability_indomitable_warrior_resolve	无畏之士	true
+character_skills_localised_name_hv_skill_ability_indomitable_warrior_instinct	无畏	true
+character_skills_localised_name_hv_skill_ability_indomitable_warrior_resolve	无畏	true
 character_skills_localised_name_hv_skill_ability_inner_fire	炽心	true
-character_skills_localised_name_hv_skill_ability_inner_vitality_resolve	内在活力	true
+character_skills_localised_name_hv_skill_ability_inner_vitality_resolve	内力	true
 character_skills_localised_name_hv_skill_ability_inspection_authority	鹰视	true
 character_skills_localised_name_hv_skill_ability_inspection_cunning	鹰视	true
 character_skills_localised_name_hv_skill_ability_inspection_healer	鹰视	true
@@ -1190,15 +1190,15 @@ character_skills_localised_name_hv_skill_ability_knowledge_of_the_spirit	神识	
 character_skills_localised_name_hv_skill_ability_mark_target_authority	丛矢	true
 character_skills_localised_name_hv_skill_ability_mark_target_cunning	丛矢	true
 character_skills_localised_name_hv_skill_ability_mark_target_expertise	丛矢	true
-character_skills_localised_name_hv_skill_ability_mark_target_resolve	瞄定	true
-character_skills_localised_name_hv_skill_ability_mark_target_scholar	瞄定	true
+character_skills_localised_name_hv_skill_ability_mark_target_resolve	丛矢	true
+character_skills_localised_name_hv_skill_ability_mark_target_scholar	丛矢	true
 character_skills_localised_name_hv_skill_ability_mighty_thrust_instinct	披靡	false
 character_skills_localised_name_hv_skill_ability_mock_authority	雄辩	false
 character_skills_localised_name_hv_skill_ability_mock_cunning	雄辩	false
 character_skills_localised_name_hv_skill_ability_mock_expertise	雄辩	false
-character_skills_localised_name_hv_skill_ability_mortal_strike_authority	致命一击	true
-character_skills_localised_name_hv_skill_ability_mortal_strike_expertise	致命一击	true
-character_skills_localised_name_hv_skill_ability_mortal_strike_instinct	致命一击	true
+character_skills_localised_name_hv_skill_ability_mortal_strike_authority	浴血	true
+character_skills_localised_name_hv_skill_ability_mortal_strike_expertise	浴血	true
+character_skills_localised_name_hv_skill_ability_mortal_strike_instinct	浴血	true
 character_skills_localised_name_hv_skill_ability_nature_s_ally_authority	天侣	true
 character_skills_localised_name_hv_skill_ability_nature_s_ally_cunning	天侣	true
 character_skills_localised_name_hv_skill_ability_nature_s_ally_resolve	天侣	true
@@ -1206,11 +1206,11 @@ character_skills_localised_name_hv_skill_ability_oil_bomb_cunning	油罐	true
 character_skills_localised_name_hv_skill_ability_one_with_heaven	天遁	true
 character_skills_localised_name_hv_skill_ability_one_with_the_land	地遁	true
 character_skills_localised_name_hv_skill_ability_one_with_the_people	人遁	true
-character_skills_localised_name_hv_skill_ability_order_of_tyrant_authority	突飞猛进	true
-character_skills_localised_name_hv_skill_ability_order_of_tyrant_instinct	突飞猛进	true
-character_skills_localised_name_hv_skill_ability_order_of_tyrant_resolve	突飞猛进	true
-character_skills_localised_name_hv_skill_ability_overwhelm_instinct	压倒之势	true
-character_skills_localised_name_hv_skill_ability_overwhelm_resolve	压倒之势	true
+character_skills_localised_name_hv_skill_ability_order_of_tyrant_authority	捣穴	true
+character_skills_localised_name_hv_skill_ability_order_of_tyrant_instinct	捣穴	true
+character_skills_localised_name_hv_skill_ability_order_of_tyrant_resolve	捣穴	true
+character_skills_localised_name_hv_skill_ability_overwhelm_instinct	填膺	true
+character_skills_localised_name_hv_skill_ability_overwhelm_resolve	填膺	true
 character_skills_localised_name_hv_skill_ability_poisioned_blade_resolve	毒刃	true
 character_skills_localised_name_hv_skill_ability_preach	布道	true
 character_skills_localised_name_hv_skill_ability_quickfire_expertise	霹雳	true
@@ -1221,8 +1221,8 @@ character_skills_localised_name_hv_skill_ability_reckless_strike_resolve	孟浪	
 character_skills_localised_name_hv_skill_ability_reign_of_terror_instinct	怖惧	true
 character_skills_localised_name_hv_skill_ability_resolve_of_the_righteous_authority	贞义	true
 character_skills_localised_name_hv_skill_ability_resolve_of_the_righteous_expertise	贞义	true
-character_skills_localised_name_hv_skill_ability_restore_authority	回复	true
-character_skills_localised_name_hv_skill_ability_restore_cunning	回复	true
+character_skills_localised_name_hv_skill_ability_restore_authority	回春	true
+character_skills_localised_name_hv_skill_ability_restore_cunning	回春	true
 character_skills_localised_name_hv_skill_ability_roar_of_the_beast_instinct	虎啸	true
 character_skills_localised_name_hv_skill_ability_royal_blood_authority	龙脉	true
 character_skills_localised_name_hv_skill_ability_royal_blood_cunning	龙脉	true
@@ -1239,9 +1239,9 @@ character_skills_localised_name_hv_skill_ability_stalwart_defender_expertise	坚
 character_skills_localised_name_hv_skill_ability_stalwart_defender_resolve	坚防	true
 character_skills_localised_name_hv_skill_ability_stone_bulwark_authority	磐石	true
 character_skills_localised_name_hv_skill_ability_stone_bulwark_cunning	磐石	true
-character_skills_localised_name_hv_skill_ability_storm_of_swords_authority	剑刃风暴	true
-character_skills_localised_name_hv_skill_ability_storm_of_swords_expertise	剑刃风暴	true
-character_skills_localised_name_hv_skill_ability_storm_of_swords_instinct	剑刃风暴	true
+character_skills_localised_name_hv_skill_ability_storm_of_swords_authority	舞爪	true
+character_skills_localised_name_hv_skill_ability_storm_of_swords_expertise	舞爪	true
+character_skills_localised_name_hv_skill_ability_storm_of_swords_instinct	舞爪	true
 character_skills_localised_name_hv_skill_ability_strength_of_the_land	地力	true
 character_skills_localised_name_hv_skill_ability_sundering_strike_instinct	裂斩	true
 character_skills_localised_name_hv_skill_ability_swift_fingers_expertise	妙手	true
@@ -1254,7 +1254,7 @@ character_skills_localised_name_hv_skill_ability_tenacity_of_steel_expertise	刚
 character_skills_localised_name_hv_skill_ability_tenacity_of_steel_resolve	刚韧	true
 character_skills_localised_name_hv_skill_ability_the_dragon_s_gaze_instinct	龙视	true
 character_skills_localised_name_hv_skill_ability_the_weight_on_the_shoulders_authority	砥柱	true
-character_skills_localised_name_hv_skill_ability_the_weight_on_the_shoulders_scholar	身负重担	true
+character_skills_localised_name_hv_skill_ability_the_weight_on_the_shoulders_scholar	砥柱	true
 character_skills_localised_name_hv_skill_ability_tiger_expertise	虎威	true
 character_skills_localised_name_hv_skill_ability_tiger_resolve	虎威	true
 character_skills_localised_name_hv_skill_ability_turning_the_tide_cunning	力挽狂澜	true
@@ -1276,7 +1276,7 @@ character_skills_localised_name_hv_skill_ability_wisdom_of_the_waterfall_cunning
 character_skills_localised_name_hv_skill_ability_wisdom_of_the_waterfall_veteran	远瞩	true
 character_skills_localised_name_hv_skill_ability_wolf_cunning	恶狼	true
 character_skills_localised_name_hv_skill_ability_wolf_resolve	恶狼	true
-character_skills_localised_name_hv_skill_ability_wu_brave	东吴之勇	true
+character_skills_localised_name_hv_skill_ability_wu_brave	英武	true
 character_skills_localised_name_hv_skill_ability_xiezhi_roar_resolve	獬豸之吼	false
 character_skills_localised_name_hv_skill_ability_youzansen_expertise	弧光斩	true
 character_skills_localised_name_hv_skill_ability_youzansen_instinct	弧光斩	true
@@ -2481,20 +2481,20 @@ effects_description_hv_effect_unit_stat_movement_speed_earth	近战骑兵速度[
 effects_description_hv_effect_unit_stat_movement_speed_water	远程部队速度[[b]]%+n%[[/b]]	true
 effects_description_hv_effect_unit_upkeep_local_noble_units	仆从与豪强部队维持费[[b]]%+n%[[/b]]	true
 effects_description_hv_effect_unlock_adamant_resolve	技能：不屈	true
-effects_description_hv_effect_unlock_aggressive_anger	技能：愈战愈怒	true
+effects_description_hv_effect_unlock_aggressive_anger	技能：怒猊	true
 effects_description_hv_effect_unlock_analyse_weakness	技能：看破	true
-effects_description_hv_effect_unlock_anti_cavalry	技能：反骑兵战术	true
-effects_description_hv_effect_unlock_assemble	技能：集结	true
+effects_description_hv_effect_unlock_anti_cavalry	技能：反制	true
+effects_description_hv_effect_unlock_assemble	技能：齐心	true
 effects_description_hv_effect_unlock_binding_fury	技能：聚怒	true
 effects_description_hv_effect_unlock_blade_breaker	技能：断刃	true
 effects_description_hv_effect_unlock_blade_mastery	技能：盖世	true
 effects_description_hv_effect_unlock_blazing_roar	技能：怒吼	true
 effects_description_hv_effect_unlock_blazing_saddles	技能：绝尘	true
-effects_description_hv_effect_unlock_bleed	技能：险恶一击	true
+effects_description_hv_effect_unlock_bleed	技能：霆击	true
 effects_description_hv_effect_unlock_blood_fury	技能：血怒	true
-effects_description_hv_effect_unlock_brawl	技能：殴打	true
-effects_description_hv_effect_unlock_burning	技能：炎魂	true
-effects_description_hv_effect_unlock_calm_down	技能：镇静	true
+effects_description_hv_effect_unlock_brawl	技能：熊罴	true
+effects_description_hv_effect_unlock_burning	技能：热血	true
+effects_description_hv_effect_unlock_calm_down	技能：将才	true
 effects_description_hv_effect_unlock_commanding_shout	技能：训令	true
 effects_description_hv_effect_unlock_condemn	技能：声讨	true
 effects_description_hv_effect_unlock_condemned_howl	技能：狂啸	true
@@ -2517,13 +2517,13 @@ effects_description_hv_effect_unlock_elemental_vigour	技能：龙胆	true
 effects_description_hv_effect_unlock_eviscerate	技能：剔骨	true
 effects_description_hv_effect_unlock_exemplar	技能：楷模	true
 effects_description_hv_effect_unlock_favourable_skies	技能：天时	true
-effects_description_hv_effect_unlock_fire_control	技能：火控	true
+effects_description_hv_effect_unlock_fire_control	技能：穿杨	true
 effects_description_hv_effect_unlock_flame_breathing	技能：吐火	true
 effects_description_hv_effect_unlock_flames_of_the_phoenix	技能：炎凤	true
 effects_description_hv_effect_unlock_fleet_footed	技能：疾行	true
 effects_description_hv_effect_unlock_flower_of_battlefield	技能：玉骨	true
 effects_description_hv_effect_unlock_foresight	技能：远见	true
-effects_description_hv_effect_unlock_forest_strider	技能：森林适性	true
+effects_description_hv_effect_unlock_forest_strider	技能：琼林	true
 effects_description_hv_effect_unlock_from_the_ashes	技能：涅槃重生	true
 effects_description_hv_effect_unlock_ghost_of_forest	技能：林鬼	true
 effects_description_hv_effect_unlock_god_of_war	技能：武圣	true
@@ -2532,12 +2532,12 @@ effects_description_hv_effect_unlock_hamper	技能：搅扰	true
 effects_description_hv_effect_unlock_hamstring	技能：断筋	true
 effects_description_hv_effect_unlock_heart_seeker	技能：觅心	true
 effects_description_hv_effect_unlock_heavenly_grace	技能：天人之姿	true
-effects_description_hv_effect_unlock_hero_poisonwind_shot	技能：毒风	true
+effects_description_hv_effect_unlock_hero_poisonwind_shot	技能：剧毒	true
 effects_description_hv_effect_unlock_imperious_presence	技能：跋扈	true
 effects_description_hv_effect_unlock_impetuous_charge	技能：横冲	true
-effects_description_hv_effect_unlock_indomitable_warrior	技能：无畏之士	true
+effects_description_hv_effect_unlock_indomitable_warrior	技能：无畏	true
 effects_description_hv_effect_unlock_inner_fire	技能：炽心	true
-effects_description_hv_effect_unlock_inner_vitality	技能：内在活力	true
+effects_description_hv_effect_unlock_inner_vitality	技能：内力	true
 effects_description_hv_effect_unlock_inspection	技能：鹰视	true
 effects_description_hv_effect_unlock_inspiring_words	技能：鼓舞	true
 effects_description_hv_effect_unlock_internal_blaze	技能：心火	true
@@ -2549,26 +2549,26 @@ effects_description_hv_effect_unlock_knowledge_of_the_body	技能：体识	true
 effects_description_hv_effect_unlock_knowledge_of_the_mind	技能：心识	true
 effects_description_hv_effect_unlock_knowledge_of_the_spirit	技能：神识	true
 effects_description_hv_effect_unlock_mark_target	技能：丛矢	true
-effects_description_hv_effect_unlock_mortal_strike	技能：致命一击	true
+effects_description_hv_effect_unlock_mortal_strike	技能：浴血	true
 effects_description_hv_effect_unlock_nature_s_ally	技能：天侣	true
 effects_description_hv_effect_unlock_of_the_righteous	技能：贞义	true
 effects_description_hv_effect_unlock_oil_bomb	技能：油罐	true
 effects_description_hv_effect_unlock_one_with_heaven	技能：天遁	true
 effects_description_hv_effect_unlock_one_with_the_land	技能：地遁	true
 effects_description_hv_effect_unlock_one_with_the_people	技能：人遁	true
-effects_description_hv_effect_unlock_order_of_tyrant	技能：突飞猛进	true
-effects_description_hv_effect_unlock_overwhelm	技能：压倒之势	true
+effects_description_hv_effect_unlock_order_of_tyrant	技能：捣穴	true
+effects_description_hv_effect_unlock_overwhelm	技能：填膺	true
 effects_description_hv_effect_unlock_poisioned_blade	技能：毒刃	true
 effects_description_hv_effect_unlock_preach	技能：布道	true
 effects_description_hv_effect_unlock_quickfire	技能：霹雳	true
 effects_description_hv_effect_unlock_rage_of_lu_bu	技能：人中吕布	true
 effects_description_hv_effect_unlock_reckless_strike	技能：孟浪	true
 effects_description_hv_effect_unlock_reign_of_terror	技能：怖惧	true
-effects_description_hv_effect_unlock_restore	技能：回复	true
+effects_description_hv_effect_unlock_restore	技能：回春	true
 effects_description_hv_effect_unlock_roar_of_the_beast	技能：虎啸	true
 effects_description_hv_effect_unlock_royal_blood	技能：龙脉	true
 effects_description_hv_effect_unlock_scattering_blows	技能：诛荡	true
-effects_description_hv_effect_unlock_second_chance	技能：余烬复燃	true
+effects_description_hv_effect_unlock_second_chance	技能：余烬	true
 effects_description_hv_effect_unlock_show_of_force	技能：耀武	true
 effects_description_hv_effect_unlock_sight_of_the_dragon	技能：龙睛	true
 effects_description_hv_effect_unlock_smouldering_fury	技能：愤懑	true
@@ -2577,9 +2577,9 @@ effects_description_hv_effect_unlock_sogd_remove_penalty	装备此随从后，�
 effects_description_hv_effect_unlock_sparrow	技能：燕翔	true
 effects_description_hv_effect_unlock_stalwart_defender	技能：坚防	true
 effects_description_hv_effect_unlock_stone_bulwark	技能：磐石	true
-effects_description_hv_effect_unlock_storm_of_swords	技能：剑刃风暴	true
-effects_description_hv_effect_unlock_strength_of_the_land	技能：地力	true
-effects_description_hv_effect_unlock_striking_tide	技能：刀浪澎湃	true
+effects_description_hv_effect_unlock_storm_of_swords	技能：舞爪	true
+effects_description_hv_effect_unlock_strength_of_the_land	技能：地动	true
+effects_description_hv_effect_unlock_striking_tide	技能：刀浪	true
 effects_description_hv_effect_unlock_sundering_strike	技能：裂斩	true
 effects_description_hv_effect_unlock_swift_fingers	技能：妙手	true
 effects_description_hv_effect_unlock_swift_steps	技能：运步如飞	true
@@ -2598,12 +2598,12 @@ effects_description_hv_effect_unlock_warning_shot	技能：射缨	true
 effects_description_hv_effect_unlock_way_of_the_wind	技能：风道	true
 effects_description_hv_effect_unlock_white_horse_fellows	解锁部队：{{tr:hv_unit_white_horse_fellows}}	true
 effects_description_hv_effect_unlock_white_horse_fellows_remove_penalty	装备此随从后，须等到10回合后才能解除。之后此随从即会消失。	true
-effects_description_hv_effect_unlock_whitewater	技能：习谋	true
-effects_description_hv_effect_unlock_wildfire	技能：猛火袭掠	true
+effects_description_hv_effect_unlock_whitewater	技能：湍流	true
+effects_description_hv_effect_unlock_wildfire	技能：烈火	true
 effects_description_hv_effect_unlock_wisdom_of_the_river	技能：水圣	true
 effects_description_hv_effect_unlock_wisdom_of_the_waterfall	技能：远瞩	true
 effects_description_hv_effect_unlock_wolf	技能：恶狼	true
-effects_description_hv_effect_unlock_wu_brave	技能：东吴之勇	true
+effects_description_hv_effect_unlock_wu_brave	技能：英武	true
 effects_description_hv_effect_unlock_youzansen	技能：弧光斩	true
 effects_description_hv_effect_unlock_yuan_01	解锁部队：{{tr:hv_unit_yuan_sword_infantry}}	true
 effects_description_hv_effect_unlock_yuan_02	解锁部队：{{tr:hv_unit_yuan_ji_guards}}	true
@@ -2612,15 +2612,15 @@ effects_description_hv_effect_unlock_zhou_the_youth	技能：周郎	true
 effects_description_hv_effect_xian_chen_ying_charge_bonus	陷阵营冲锋加成 [[b]]%+n[[/b]]	true
 effects_description_hv_effect_xian_chen_ying_damange_resistance	陷阵营伤害抗性 [[b]]%+n%[[/b]]	true
 effects_description_hv_effect_xian_chen_ying_upkeep	部队维持费 [[b]]%+n%[[/b]]	true
-effects_description_hv_effect_yuan_armoury_captain_ability_passive	技能：一条密计	true
+effects_description_hv_effect_yuan_armoury_captain_ability_passive	技能：密计	true
 effects_description_hv_effects_skill_add_unlock_earth	解锁部队：{{tr:hv_tr_earth}}部队	true
 effects_description_hv_effects_skill_add_unlock_fire	解锁部队：{{tr:hv_tr_fire}}部队	true
 effects_description_hv_effects_skill_add_unlock_metal	解锁部队：{{tr:hv_tr_metal}}部队	true
 effects_description_hv_effects_skill_add_unlock_water	解锁部队：{{tr:hv_tr_water}}部队	true
 effects_description_hv_effects_skill_add_unlock_wood	解锁部队：{{tr:hv_tr_wood}}部队	true
-effects_description_hv_effects_unlock_historical_ability_earth_01	技能：剑刃风暴	true
+effects_description_hv_effects_unlock_historical_ability_earth_01	技能：舞爪	true
 effects_description_hv_effects_unlock_historical_ability_earth_02	技能：磐石	true
-effects_description_hv_effects_unlock_historical_ability_earth_03	技能：集结	true
+effects_description_hv_effects_unlock_historical_ability_earth_03	技能：齐心	true
 effects_description_hv_effects_unlock_historical_ability_fire_01	技能：突围	true
 effects_description_hv_effects_unlock_historical_ability_fire_02	技能：炎凤	true
 effects_description_hv_effects_unlock_historical_ability_fire_03	技能：追踪	true
@@ -2635,13 +2635,13 @@ effects_description_hv_effects_unlock_historical_ability_scholar_02	技能：磐
 effects_description_hv_effects_unlock_historical_ability_scholar_03	技能：扬刃	true
 effects_description_hv_effects_unlock_historical_ability_veteran_01	技能：天侣	true
 effects_description_hv_effects_unlock_historical_ability_veteran_02	技能：地遁	true
-effects_description_hv_effects_unlock_historical_ability_veteran_03	技能：反骑兵战术	true
+effects_description_hv_effects_unlock_historical_ability_veteran_03	技能：反制	true
 effects_description_hv_effects_unlock_historical_ability_water_01	技能：激浪	true
-effects_description_hv_effects_unlock_historical_ability_water_02	技能：火控	true
-effects_description_hv_effects_unlock_historical_ability_water_03	技能：反骑兵战术	true
+effects_description_hv_effects_unlock_historical_ability_water_02	技能：穿杨	true
+effects_description_hv_effects_unlock_historical_ability_water_03	技能：反制	true
 effects_description_hv_effects_unlock_historical_ability_wood_01	技能：壁垒	true
 effects_description_hv_effects_unlock_historical_ability_wood_02	技能：刚韧	true
-effects_description_hv_effects_unlock_historical_ability_wood_03	技能：内在活力	true
+effects_description_hv_effects_unlock_historical_ability_wood_03	技能：内力	true
 effects_description_hv_frontend_description_specialisation_gongsun_zan_1	获得军事增益，但也会恶化与其他势力的关系。 	false
 effects_description_hv_frontend_description_specialisation_gongsun_zan_2	[[b]]宫府[[/b]]中的人物在官府中身居要职，会对派系产生重要影响	false
 effects_description_hv_frontend_description_specialisation_gongsun_zan_3	[[b]]太守[[/b]]是官府中的职位。太守负责管理地方郡国，会为当地提供增益效果	false
@@ -3261,13 +3261,13 @@ projectile_shot_type_enum_onscreen_name_small_arm_whistling	速射	false
 projectile_shot_type_enum_tooltip_text_small_arm_whistling	造成伤害较低，准确率也降低，但可压制目标。	false
 random_localisation_strings_string_resistance_fire_tooltip	火焰抗性：％d %% ||降低火焰造成的伤害数值。	true
 special_ability_phases_onscreen_hv_ability_tactical_move	战术前进	true
-special_ability_phases_onscreen_name_hv_ability_aggressive_anger_1	愈战愈怒	true
-special_ability_phases_onscreen_name_hv_ability_aggressive_anger_2	愈战愈怒	true
-special_ability_phases_onscreen_name_hv_ability_aggressive_anger_3	愈战愈怒	true
-special_ability_phases_onscreen_name_hv_ability_aggressive_anger_4	愈战愈怒	true
-special_ability_phases_onscreen_name_hv_ability_aggressive_anger_5	愈战愈怒	true
-special_ability_phases_onscreen_name_hv_ability_anti_cavalry	反骑兵战术	true
-special_ability_phases_onscreen_name_hv_ability_assemble	集结	true
+special_ability_phases_onscreen_name_hv_ability_aggressive_anger_1	怒猊	true
+special_ability_phases_onscreen_name_hv_ability_aggressive_anger_2	怒猊	true
+special_ability_phases_onscreen_name_hv_ability_aggressive_anger_3	怒猊	true
+special_ability_phases_onscreen_name_hv_ability_aggressive_anger_4	怒猊	true
+special_ability_phases_onscreen_name_hv_ability_aggressive_anger_5	怒猊	true
+special_ability_phases_onscreen_name_hv_ability_anti_cavalry	反制	true
+special_ability_phases_onscreen_name_hv_ability_assemble	齐心	true
 special_ability_phases_onscreen_name_hv_ability_bandit_unlock_earth	Bandit: Dead or Alive	true
 special_ability_phases_onscreen_name_hv_ability_bandit_unlock_fire	Bandit: Strike First	true
 special_ability_phases_onscreen_name_hv_ability_bandit_unlock_metal_1	Bandit: Grievous Bite	true
@@ -3292,13 +3292,13 @@ special_ability_phases_onscreen_name_hv_ability_black_mountain_brotherhood	手�
 special_ability_phases_onscreen_name_hv_ability_blade_mastery_1	盖世	true
 special_ability_phases_onscreen_name_hv_ability_blade_mastery_2	盖世	true
 special_ability_phases_onscreen_name_hv_ability_blade_mastery_3	盖世	true
-special_ability_phases_onscreen_name_hv_ability_bleed	险恶一击	true
+special_ability_phases_onscreen_name_hv_ability_bleed	霆击	true
 special_ability_phases_onscreen_name_hv_ability_blood_thirst	嗜血成性	true
-special_ability_phases_onscreen_name_hv_ability_brawl	殴打	true
+special_ability_phases_onscreen_name_hv_ability_brawl	熊罴	true
 special_ability_phases_onscreen_name_hv_ability_brotherhood	共济	true
 special_ability_phases_onscreen_name_hv_ability_bulwark	墨守	false
 special_ability_phases_onscreen_name_hv_ability_burning	炎魂	true
-special_ability_phases_onscreen_name_hv_ability_calm_down	镇静	true
+special_ability_phases_onscreen_name_hv_ability_calm_down	将才	true
 special_ability_phases_onscreen_name_hv_ability_captain_active	训令	true
 special_ability_phases_onscreen_name_hv_ability_captain_passive	一条密计	true
 special_ability_phases_onscreen_name_hv_ability_commanding_shout	训令	true
@@ -3331,7 +3331,7 @@ special_ability_phases_onscreen_name_hv_ability_enlightenment_3	开化	true
 special_ability_phases_onscreen_name_hv_ability_favourable_skies	天时	true
 special_ability_phases_onscreen_name_hv_ability_fearless_charge	无畏冲锋	true
 special_ability_phases_onscreen_name_hv_ability_ferocity	凶猛残暴	true
-special_ability_phases_onscreen_name_hv_ability_fire_control	火控	true
+special_ability_phases_onscreen_name_hv_ability_fire_control	穿杨	true
 special_ability_phases_onscreen_name_hv_ability_flame_breathing	吐火	true
 special_ability_phases_onscreen_name_hv_ability_flower_of_battlefield	玉骨	true
 special_ability_phases_onscreen_name_hv_ability_foresight	远见	true
@@ -3346,10 +3346,10 @@ special_ability_phases_onscreen_name_hv_ability_half_barded_missile_resistance	�
 special_ability_phases_onscreen_name_hv_ability_hamper	搅扰	true
 special_ability_phases_onscreen_name_hv_ability_hero_slayer	诛将	true
 special_ability_phases_onscreen_name_hv_ability_importunity	坚韧不屈	true
-special_ability_phases_onscreen_name_hv_ability_indomitable_warrior	无畏之士	true
+special_ability_phases_onscreen_name_hv_ability_indomitable_warrior	无畏	true
 special_ability_phases_onscreen_name_hv_ability_inner_fire	炽心	true
-special_ability_phases_onscreen_name_hv_ability_inner_vitality_1	内在活力	true
-special_ability_phases_onscreen_name_hv_ability_inner_vitality_2	内在活力	true
+special_ability_phases_onscreen_name_hv_ability_inner_vitality_1	内力	true
+special_ability_phases_onscreen_name_hv_ability_inner_vitality_2	内力	true
 special_ability_phases_onscreen_name_hv_ability_inspection	鹰视	true
 special_ability_phases_onscreen_name_hv_ability_jing_missile_resistance_1	精甲	true
 special_ability_phases_onscreen_name_hv_ability_jing_missile_resistance_2	精甲	true
@@ -3367,12 +3367,12 @@ special_ability_phases_onscreen_name_hv_ability_mark_target	丛矢	true
 special_ability_phases_onscreen_name_hv_ability_mercenary_passive	猛攻	true
 special_ability_phases_onscreen_name_hv_ability_messenger_recovery	使者信念	true
 special_ability_phases_onscreen_name_hv_ability_moment_of_courage	一时之勇	true
-special_ability_phases_onscreen_name_hv_ability_mortal_strike	致命一击	true
+special_ability_phases_onscreen_name_hv_ability_mortal_strike	浴血	true
 special_ability_phases_onscreen_name_hv_ability_oil_bomb	油罐	true
 special_ability_phases_onscreen_name_hv_ability_one_with_heaven	天遁	true
 special_ability_phases_onscreen_name_hv_ability_one_with_the_land	地遁	true
 special_ability_phases_onscreen_name_hv_ability_one_with_the_people	人遁	true
-special_ability_phases_onscreen_name_hv_ability_order_of_tyrant	突飞猛进	true
+special_ability_phases_onscreen_name_hv_ability_order_of_tyrant	捣穴	true
 special_ability_phases_onscreen_name_hv_ability_overfight	先登	true
 special_ability_phases_onscreen_name_hv_ability_pounce	Pounce	true
 special_ability_phases_onscreen_name_hv_ability_preach	布道	true
@@ -3381,15 +3381,15 @@ special_ability_phases_onscreen_name_hv_ability_pulverize	粉碎一击	true
 special_ability_phases_onscreen_name_hv_ability_qiang_fatigue	抖擞	true
 special_ability_phases_onscreen_name_hv_ability_rage_of_blackmountain	黑山之怒	true
 special_ability_phases_onscreen_name_hv_ability_rage_of_hooves	怒蹄	true
-special_ability_phases_onscreen_name_hv_ability_restore	回复	true
+special_ability_phases_onscreen_name_hv_ability_restore	回春	true
 special_ability_phases_onscreen_name_hv_ability_retreat_cover	掩护撤退	false
 special_ability_phases_onscreen_name_hv_ability_royal_blood	龙脉	true
 special_ability_phases_onscreen_name_hv_ability_second_chance	余烬复燃	true
 special_ability_phases_onscreen_name_hv_ability_skirmishing_shot	Skirmishing Shot	true
 special_ability_phases_onscreen_name_hv_ability_sniper_position	狙击位置	true
 special_ability_phases_onscreen_name_hv_ability_sparrow	燕翔	true
-special_ability_phases_onscreen_name_hv_ability_storm_of_swords_1	剑刃风暴	true
-special_ability_phases_onscreen_name_hv_ability_storm_of_swords_2	剑刃风暴	true
+special_ability_phases_onscreen_name_hv_ability_storm_of_swords_1	舞爪	true
+special_ability_phases_onscreen_name_hv_ability_storm_of_swords_2	舞爪	true
 special_ability_phases_onscreen_name_hv_ability_strength_of_blackmountain	黑山之力	true
 special_ability_phases_onscreen_name_hv_ability_strength_of_the_land	地力	true
 special_ability_phases_onscreen_name_hv_ability_striking_tide	刀浪澎湃	true
@@ -3405,7 +3405,7 @@ special_ability_phases_onscreen_name_hv_ability_wind_of_north	北风	true
 special_ability_phases_onscreen_name_hv_ability_wisdom_of_the_waterfall	远瞩	true
 special_ability_phases_onscreen_name_hv_ability_wolf	恶狼	true
 special_ability_phases_onscreen_name_hv_ability_words_of_the_way	神咏	true
-special_ability_phases_onscreen_name_hv_ability_wu_brave	东吴之勇	true
+special_ability_phases_onscreen_name_hv_ability_wu_brave	英武	true
 special_ability_phases_onscreen_name_hv_ability_wuhuan_riding	乌桓骑术	true
 special_ability_phases_onscreen_name_hv_ability_xianchenying	Breakthrough	true
 special_ability_phases_onscreen_name_hv_ability_xiliang_army	反骑兵专家	true
@@ -3426,9 +3426,9 @@ special_ability_phases_onscreen_name_hv_formation_shock_loose	疏阵冲锋	true
 special_ability_phases_onscreen_name_hv_formation_shock_loose_cavalry	骑兵疏阵冲锋	true
 special_ability_phases_onscreen_name_hv_formation_shock_loose_cavalry_no_requirement	骑兵疏阵冲锋	true
 special_ability_phases_onscreen_name_hv_formation_spear_wall_danyang	丹阳枪盾墙阵	true
-special_ability_phases_onscreen_name_hv_historical_ability_earth_01	剑刃风暴	true
+special_ability_phases_onscreen_name_hv_historical_ability_earth_01	舞爪	true
 special_ability_phases_onscreen_name_hv_historical_ability_earth_02	磐石	true
-special_ability_phases_onscreen_name_hv_historical_ability_earth_03	集结	true
+special_ability_phases_onscreen_name_hv_historical_ability_earth_03	齐心	true
 special_ability_phases_onscreen_name_hv_historical_ability_fire_01	突围	true
 special_ability_phases_onscreen_name_hv_historical_ability_fire_02	炎凤	true
 special_ability_phases_onscreen_name_hv_historical_ability_fire_03	追踪	true
@@ -3443,15 +3443,15 @@ special_ability_phases_onscreen_name_hv_historical_ability_scholar_02	磐石	tru
 special_ability_phases_onscreen_name_hv_historical_ability_scholar_03	扬刃	true
 special_ability_phases_onscreen_name_hv_historical_ability_veteran_01	天侣	true
 special_ability_phases_onscreen_name_hv_historical_ability_veteran_02	地遁	true
-special_ability_phases_onscreen_name_hv_historical_ability_veteran_03	反骑兵战术	true
+special_ability_phases_onscreen_name_hv_historical_ability_veteran_03	反制	true
 special_ability_phases_onscreen_name_hv_historical_ability_water_01	激浪	true
-special_ability_phases_onscreen_name_hv_historical_ability_water_02	火控	true
-special_ability_phases_onscreen_name_hv_historical_ability_water_03	反骑兵战术	true
+special_ability_phases_onscreen_name_hv_historical_ability_water_02	穿杨	true
+special_ability_phases_onscreen_name_hv_historical_ability_water_03	反制	true
 special_ability_phases_onscreen_name_hv_historical_ability_wood_01	壁垒	true
 special_ability_phases_onscreen_name_hv_historical_ability_wood_02_1	刚韧	true
 special_ability_phases_onscreen_name_hv_historical_ability_wood_02_2	刚韧	true
 special_ability_phases_onscreen_name_hv_historical_ability_wood_02_3	刚韧	true
-special_ability_phases_onscreen_name_hv_historical_ability_wood_03	内在活力	true
+special_ability_phases_onscreen_name_hv_historical_ability_wood_03	内力	true
 special_ability_phases_onscreen_name_hv_hit_effect_armour_broken	破甲	true
 special_ability_phases_onscreen_name_hv_hit_effect_firelance	惧怕火器	true
 special_ability_phases_onscreen_name_hv_hit_effect_overwhelmed	压倒	true
@@ -3459,7 +3459,7 @@ special_ability_phases_onscreen_name_hv_hit_effect_rosin_fire	松脂	true
 special_ability_phases_onscreen_name_hv_hit_effect_shield_broken	破盾	true
 special_ability_phases_onscreen_name_hv_hit_effect_sniper_shot	阻击	true
 special_ability_phases_onscreen_name_hv_hit_effect_special_crossbow	强弩	true
-special_ability_phases_onscreen_name_hv_hit_effect_taishan_poison_pot	毒风	true
+special_ability_phases_onscreen_name_hv_hit_effect_taishan_poison_pot	剧毒	true
 special_ability_phases_onscreen_name_hv_hit_effect_trident	格档	true
 special_ability_phases_onscreen_name_hv_hit_effect_venom	投毒	true
 special_ability_phases_onscreen_name_hv_hit_effect_whistle	搅乱	true
@@ -4863,9 +4863,9 @@ uied_component_texts_localised_string_bullet_point_2_NewState_Text_a4e16b75	在�
 uied_component_texts_localised_string_button_replace_unit_Tooltip_1b8282	Unit List	true
 uied_component_texts_localised_string_label_text_false_Text_2a000e	在[[b]]{{CcoBattleDuel:FormatTime（TargetTimeRemaining）}}[[/b]]内获胜	false
 uied_component_texts_localised_string_pre_unlock_active_Text_c2076aa9	公元195年献帝加元服后解锁	false
-unit_abilities_onscreen_name_hv_ability_aggressive_anger	愈战愈怒	true
-unit_abilities_onscreen_name_hv_ability_anti_cavalry	反骑兵战术	true
-unit_abilities_onscreen_name_hv_ability_assemble	集结	true
+unit_abilities_onscreen_name_hv_ability_aggressive_anger	怒猊	true
+unit_abilities_onscreen_name_hv_ability_anti_cavalry	反制	true
+unit_abilities_onscreen_name_hv_ability_assemble	齐心	true
 unit_abilities_onscreen_name_hv_ability_bandit_unlock_earth	Bandit: Dead or Alive	true
 unit_abilities_onscreen_name_hv_ability_bandit_unlock_fire	Bandit: Strike First	true
 unit_abilities_onscreen_name_hv_ability_bandit_unlock_metal	Bandit: Grievous Bite	true
@@ -4881,9 +4881,9 @@ unit_abilities_onscreen_name_hv_ability_beihai_accuracy	精瞄	true
 unit_abilities_onscreen_name_hv_ability_beihai_reload	平心静气装填弹药	true
 unit_abilities_onscreen_name_hv_ability_black_mountain_brotherhood	手足	true
 unit_abilities_onscreen_name_hv_ability_blade_mastery	盖世	true
-unit_abilities_onscreen_name_hv_ability_bleed	险恶一击	true
+unit_abilities_onscreen_name_hv_ability_bleed	霆击	true
 unit_abilities_onscreen_name_hv_ability_blood_thirst	嗜血成性	true
-unit_abilities_onscreen_name_hv_ability_brawl	殴打	true
+unit_abilities_onscreen_name_hv_ability_brawl	熊罴	true
 unit_abilities_onscreen_name_hv_ability_brotherhood	共济	true
 unit_abilities_onscreen_name_hv_ability_bulwark	墨守	false
 unit_abilities_onscreen_name_hv_ability_burning	炎魂	true
@@ -4916,13 +4916,13 @@ unit_abilities_onscreen_name_hv_ability_eviscerate	剔骨	true
 unit_abilities_onscreen_name_hv_ability_favourable_skies	天时	true
 unit_abilities_onscreen_name_hv_ability_fearless_charge	无畏冲锋	true
 unit_abilities_onscreen_name_hv_ability_ferocity	凶猛残暴	true
-unit_abilities_onscreen_name_hv_ability_fire_control	火控	true
+unit_abilities_onscreen_name_hv_ability_fire_control	穿杨	true
 unit_abilities_onscreen_name_hv_ability_flame_breathing	吐火	true
 unit_abilities_onscreen_name_hv_ability_fleet_footed	疾行	true
 unit_abilities_onscreen_name_hv_ability_flower_of_battlefield	玉骨	true
 unit_abilities_onscreen_name_hv_ability_foresight	远见	true
 unit_abilities_onscreen_name_hv_ability_forest_strategy	Forest Strategy	true
-unit_abilities_onscreen_name_hv_ability_forest_strider	森林适性	true
+unit_abilities_onscreen_name_hv_ability_forest_strider	琼林	true
 unit_abilities_onscreen_name_hv_ability_frenzy	及锋	true
 unit_abilities_onscreen_name_hv_ability_furious_charge	横冲直撞	true
 unit_abilities_onscreen_name_hv_ability_gas_bomb	毒气弹	true
@@ -4931,12 +4931,12 @@ unit_abilities_onscreen_name_hv_ability_grenade	爆弹	true
 unit_abilities_onscreen_name_hv_ability_guardian	卫御甲	true
 unit_abilities_onscreen_name_hv_ability_half_barded_missile_resistance	轻马铠	true
 unit_abilities_onscreen_name_hv_ability_hamper	搅扰	true
-unit_abilities_onscreen_name_hv_ability_hero_poisonwind_shot	毒风	true
+unit_abilities_onscreen_name_hv_ability_hero_poisonwind_shot	剧毒	true
 unit_abilities_onscreen_name_hv_ability_hero_slayer	诛将	true
 unit_abilities_onscreen_name_hv_ability_importunity	坚韧不屈	true
-unit_abilities_onscreen_name_hv_ability_indomitable_warrior	无畏之士	true
+unit_abilities_onscreen_name_hv_ability_indomitable_warrior	无畏	true
 unit_abilities_onscreen_name_hv_ability_inner_fire	炽心	true
-unit_abilities_onscreen_name_hv_ability_inner_vitality	内在活力	true
+unit_abilities_onscreen_name_hv_ability_inner_vitality	内力	true
 unit_abilities_onscreen_name_hv_ability_inspection	鹰视	true
 unit_abilities_onscreen_name_hv_ability_jing_missile_resistance	精甲	true
 unit_abilities_onscreen_name_hv_ability_joint_shot	Joint Shot	true
@@ -4950,14 +4950,14 @@ unit_abilities_onscreen_name_hv_ability_mark_target	丛矢	true
 unit_abilities_onscreen_name_hv_ability_mercenary_passive	猛攻	true
 unit_abilities_onscreen_name_hv_ability_messenger_recovery	使者信念	true
 unit_abilities_onscreen_name_hv_ability_moment_of_courage	一时之勇	true
-unit_abilities_onscreen_name_hv_ability_mortal_strike	致命一击	true
+unit_abilities_onscreen_name_hv_ability_mortal_strike	浴血	true
 unit_abilities_onscreen_name_hv_ability_oil_bomb	油罐	true
 unit_abilities_onscreen_name_hv_ability_one_with_heaven	天遁	true
 unit_abilities_onscreen_name_hv_ability_one_with_the_land	地遁	true
 unit_abilities_onscreen_name_hv_ability_one_with_the_people	人遁	true
-unit_abilities_onscreen_name_hv_ability_order_of_tyrant	突飞猛进	true
+unit_abilities_onscreen_name_hv_ability_order_of_tyrant	捣穴	true
 unit_abilities_onscreen_name_hv_ability_overfight	先登	true
-unit_abilities_onscreen_name_hv_ability_overwhelm	压倒之势	true
+unit_abilities_onscreen_name_hv_ability_overwhelm	填膺	true
 unit_abilities_onscreen_name_hv_ability_pounce	Pounce	true
 unit_abilities_onscreen_name_hv_ability_preach	布道	true
 unit_abilities_onscreen_name_hv_ability_protection_of_blackmountain	黑山之佑	true
@@ -4965,14 +4965,14 @@ unit_abilities_onscreen_name_hv_ability_pulverize	粉碎一击	true
 unit_abilities_onscreen_name_hv_ability_qiang_fatigue	抖擞	true
 unit_abilities_onscreen_name_hv_ability_rage_of_blackmountain	黑山之怒	true
 unit_abilities_onscreen_name_hv_ability_rage_of_hooves	怒蹄	true
-unit_abilities_onscreen_name_hv_ability_restore	回复	true
+unit_abilities_onscreen_name_hv_ability_restore	回春	true
 unit_abilities_onscreen_name_hv_ability_retreat_cover	掩护撤退	false
 unit_abilities_onscreen_name_hv_ability_royal_blood	龙脉	true
 unit_abilities_onscreen_name_hv_ability_second_chance	余烬复燃	true
 unit_abilities_onscreen_name_hv_ability_skirmishing_shot	Skirmishing Shot	true
 unit_abilities_onscreen_name_hv_ability_sniper_position	狙击位置	true
 unit_abilities_onscreen_name_hv_ability_sparrow	燕翔	true
-unit_abilities_onscreen_name_hv_ability_storm_of_swords	剑刃风暴	true
+unit_abilities_onscreen_name_hv_ability_storm_of_swords	舞爪	true
 unit_abilities_onscreen_name_hv_ability_strength_of_blackmountain	黑山之力	true
 unit_abilities_onscreen_name_hv_ability_strength_of_the_land	地力	true
 unit_abilities_onscreen_name_hv_ability_striking_tide	刀浪澎湃	true
@@ -4989,7 +4989,7 @@ unit_abilities_onscreen_name_hv_ability_wind_of_north	北风	true
 unit_abilities_onscreen_name_hv_ability_wisdom_of_the_waterfall	远瞩	true
 unit_abilities_onscreen_name_hv_ability_wolf	恶狼	true
 unit_abilities_onscreen_name_hv_ability_words_of_the_way	神咏	true
-unit_abilities_onscreen_name_hv_ability_wu_brave	东吴之勇	true
+unit_abilities_onscreen_name_hv_ability_wu_brave	英武	true
 unit_abilities_onscreen_name_hv_ability_wuhuan_riding	乌桓骑术	true
 unit_abilities_onscreen_name_hv_ability_xianchenying	Breakthrough	true
 unit_abilities_onscreen_name_hv_ability_xiliang_army	反骑兵专家	true
@@ -5009,9 +5009,9 @@ unit_abilities_onscreen_name_hv_formation_shock_loose	疏阵冲锋	true
 unit_abilities_onscreen_name_hv_formation_shock_loose_cavalry	骑兵疏阵冲锋	true
 unit_abilities_onscreen_name_hv_formation_shock_loose_cavalry_no_requirement	骑兵疏阵冲锋	true
 unit_abilities_onscreen_name_hv_formation_spear_wall_danyang	丹阳枪盾墙阵	true
-unit_abilities_onscreen_name_hv_historical_ability_earth_01	剑刃风暴	true
+unit_abilities_onscreen_name_hv_historical_ability_earth_01	舞爪	true
 unit_abilities_onscreen_name_hv_historical_ability_earth_02	磐石	true
-unit_abilities_onscreen_name_hv_historical_ability_earth_03	集结	true
+unit_abilities_onscreen_name_hv_historical_ability_earth_03	齐心	true
 unit_abilities_onscreen_name_hv_historical_ability_fire_01	突围	true
 unit_abilities_onscreen_name_hv_historical_ability_fire_02	炎凤	true
 unit_abilities_onscreen_name_hv_historical_ability_fire_03	追踪	true
@@ -5026,13 +5026,13 @@ unit_abilities_onscreen_name_hv_historical_ability_scholar_02	磐石	true
 unit_abilities_onscreen_name_hv_historical_ability_scholar_03	扬刃	true
 unit_abilities_onscreen_name_hv_historical_ability_veteran_01	天侣	true
 unit_abilities_onscreen_name_hv_historical_ability_veteran_02	地遁	true
-unit_abilities_onscreen_name_hv_historical_ability_veteran_03	反骑兵战术	true
+unit_abilities_onscreen_name_hv_historical_ability_veteran_03	反制	true
 unit_abilities_onscreen_name_hv_historical_ability_water_01	激浪	true
-unit_abilities_onscreen_name_hv_historical_ability_water_02	火控	true
-unit_abilities_onscreen_name_hv_historical_ability_water_03	反骑兵战术	true
+unit_abilities_onscreen_name_hv_historical_ability_water_02	穿杨	true
+unit_abilities_onscreen_name_hv_historical_ability_water_03	反制	true
 unit_abilities_onscreen_name_hv_historical_ability_wood_01	壁垒	true
 unit_abilities_onscreen_name_hv_historical_ability_wood_02	刚韧	true
-unit_abilities_onscreen_name_hv_historical_ability_wood_03	内在活力	true
+unit_abilities_onscreen_name_hv_historical_ability_wood_03	内力	true
 unit_abilities_onscreen_name_hv_hit_effect_armour_broken	破甲	true
 unit_abilities_onscreen_name_hv_hit_effect_firelance	惧怕火器	true
 unit_abilities_onscreen_name_hv_hit_effect_overwhelmed	压倒	true
@@ -5040,7 +5040,7 @@ unit_abilities_onscreen_name_hv_hit_effect_rosin_fire	松脂	true
 unit_abilities_onscreen_name_hv_hit_effect_shield_broken	破盾	true
 unit_abilities_onscreen_name_hv_hit_effect_sniper_shot	阻击	true
 unit_abilities_onscreen_name_hv_hit_effect_special_crossbow	强弩	true
-unit_abilities_onscreen_name_hv_hit_effect_taishan_poison_pot	毒风	true
+unit_abilities_onscreen_name_hv_hit_effect_taishan_poison_pot	剧毒	true
 unit_abilities_onscreen_name_hv_hit_effect_trident	格档	true
 unit_abilities_onscreen_name_hv_hit_effect_venom	投毒	true
 unit_abilities_onscreen_name_hv_hit_effect_whistle	搅乱	true
@@ -5245,9 +5245,9 @@ unit_abilities_tooltip_text_hv_hit_effect_whistle	引发恐慌。	true
 unit_abilities_tooltip_text_hv_hit_effect_white_horse	「号‘白马义从’，以实禁卫也。」	true
 unit_abilities_tooltip_text_hv_yuan_caltrops	虽制造简易，踩上去可也是痛不欲生，寸步难移。	false
 unit_abilities_tooltip_text_hv_yuan_smokescreen	重重烟幕遮天蔽日，使该部队暂时隐身。	false
-unit_ability_types_localised_description_hv_ability_aggressive_anger	愈战愈怒	true
-unit_ability_types_localised_description_hv_ability_anti_cavalry	反骑兵战术	true
-unit_ability_types_localised_description_hv_ability_assemble	集结	true
+unit_ability_types_localised_description_hv_ability_aggressive_anger	怒猊	true
+unit_ability_types_localised_description_hv_ability_anti_cavalry	反制	true
+unit_ability_types_localised_description_hv_ability_assemble	齐心	true
 unit_ability_types_localised_description_hv_ability_bandit_unlock_earth	Bandit: Dead or Alive	true
 unit_ability_types_localised_description_hv_ability_bandit_unlock_fire	Bandit: Strike First	true
 unit_ability_types_localised_description_hv_ability_bandit_unlock_metal	Bandit: Grievous Bite	true
@@ -5263,13 +5263,13 @@ unit_ability_types_localised_description_hv_ability_beihai_accuracy	精瞄	true
 unit_ability_types_localised_description_hv_ability_beihai_reload	平心静气装填弹药	true
 unit_ability_types_localised_description_hv_ability_black_mountain_brotherhood	手足	true
 unit_ability_types_localised_description_hv_ability_blade_mastery	盖世	true
-unit_ability_types_localised_description_hv_ability_bleed	险恶一击	true
+unit_ability_types_localised_description_hv_ability_bleed	霆击	true
 unit_ability_types_localised_description_hv_ability_blood_thirst	嗜血成性	true
-unit_ability_types_localised_description_hv_ability_brawl	殴打	true
+unit_ability_types_localised_description_hv_ability_brawl	熊罴	true
 unit_ability_types_localised_description_hv_ability_brotherhood	共济	true
 unit_ability_types_localised_description_hv_ability_bulwark	墨守	false
 unit_ability_types_localised_description_hv_ability_burning	炎魂	true
-unit_ability_types_localised_description_hv_ability_calm_down	镇静	true
+unit_ability_types_localised_description_hv_ability_calm_down	将才	true
 unit_ability_types_localised_description_hv_ability_captain_active	训令	true
 unit_ability_types_localised_description_hv_ability_captain_passive	一条密计	true
 unit_ability_types_localised_description_hv_ability_commanding_shout	训令	true
@@ -5298,13 +5298,13 @@ unit_ability_types_localised_description_hv_ability_eviscerate	剔骨	true
 unit_ability_types_localised_description_hv_ability_favourable_skies	天时	true
 unit_ability_types_localised_description_hv_ability_fearless_charge	无畏冲锋	true
 unit_ability_types_localised_description_hv_ability_ferocity	凶猛残暴	true
-unit_ability_types_localised_description_hv_ability_fire_control	火控	true
+unit_ability_types_localised_description_hv_ability_fire_control	穿杨	true
 unit_ability_types_localised_description_hv_ability_flame_breathing	吐火	true
 unit_ability_types_localised_description_hv_ability_fleet_footed	疾行	true
 unit_ability_types_localised_description_hv_ability_flower_of_battlefield	玉骨	true
 unit_ability_types_localised_description_hv_ability_foresight	远见	true
 unit_ability_types_localised_description_hv_ability_forest_strategy	Forest Strategy	true
-unit_ability_types_localised_description_hv_ability_forest_strider	森林适性	true
+unit_ability_types_localised_description_hv_ability_forest_strider	琼林	true
 unit_ability_types_localised_description_hv_ability_frenzy	及锋	true
 unit_ability_types_localised_description_hv_ability_furious_charge	横冲直撞	true
 unit_ability_types_localised_description_hv_ability_gas_bomb	毒气弹	true
@@ -5313,12 +5313,12 @@ unit_ability_types_localised_description_hv_ability_grenade	爆弹	true
 unit_ability_types_localised_description_hv_ability_guardian	卫御甲	true
 unit_ability_types_localised_description_hv_ability_half_barded_missile_resistance	轻马铠	true
 unit_ability_types_localised_description_hv_ability_hamper	搅扰	true
-unit_ability_types_localised_description_hv_ability_hero_poisonwind_shot	毒风	true
+unit_ability_types_localised_description_hv_ability_hero_poisonwind_shot	剧毒	true
 unit_ability_types_localised_description_hv_ability_hero_slayer	诛将	true
 unit_ability_types_localised_description_hv_ability_importunity	坚韧不屈	true
-unit_ability_types_localised_description_hv_ability_indomitable_warrior	无畏之士	true
+unit_ability_types_localised_description_hv_ability_indomitable_warrior	无畏	true
 unit_ability_types_localised_description_hv_ability_inner_fire	炽心	true
-unit_ability_types_localised_description_hv_ability_inner_vitality	内在活力	true
+unit_ability_types_localised_description_hv_ability_inner_vitality	内力	true
 unit_ability_types_localised_description_hv_ability_inspection	鹰视	true
 unit_ability_types_localised_description_hv_ability_jing_missile_resistance	精甲	true
 unit_ability_types_localised_description_hv_ability_joint_shot	Joint Shot	true
@@ -5332,14 +5332,14 @@ unit_ability_types_localised_description_hv_ability_mark_target	丛矢	true
 unit_ability_types_localised_description_hv_ability_mercenary_passive	猛攻	true
 unit_ability_types_localised_description_hv_ability_messenger_recovery	使者信念	true
 unit_ability_types_localised_description_hv_ability_moment_of_courage	一时之勇	true
-unit_ability_types_localised_description_hv_ability_mortal_strike	致命一击	true
+unit_ability_types_localised_description_hv_ability_mortal_strike	浴血	true
 unit_ability_types_localised_description_hv_ability_oil_bomb	油罐	true
 unit_ability_types_localised_description_hv_ability_one_with_heaven	天遁	true
 unit_ability_types_localised_description_hv_ability_one_with_the_land	地遁	true
 unit_ability_types_localised_description_hv_ability_one_with_the_people	人遁	true
-unit_ability_types_localised_description_hv_ability_order_of_tyrant	突飞猛进	true
+unit_ability_types_localised_description_hv_ability_order_of_tyrant	捣穴	true
 unit_ability_types_localised_description_hv_ability_overfight	先登	true
-unit_ability_types_localised_description_hv_ability_overwhelm	压倒之势	true
+unit_ability_types_localised_description_hv_ability_overwhelm	填膺	true
 unit_ability_types_localised_description_hv_ability_pounce	Pounce	true
 unit_ability_types_localised_description_hv_ability_preach	布道	true
 unit_ability_types_localised_description_hv_ability_protection_of_blackmountain	黑山之佑	true
@@ -5347,14 +5347,14 @@ unit_ability_types_localised_description_hv_ability_pulverize	粉碎一击	true
 unit_ability_types_localised_description_hv_ability_qiang_fatigue	抖擞	true
 unit_ability_types_localised_description_hv_ability_rage_of_blackmountain	黑山之怒	true
 unit_ability_types_localised_description_hv_ability_rage_of_hooves	怒蹄	true
-unit_ability_types_localised_description_hv_ability_restore	回复	true
+unit_ability_types_localised_description_hv_ability_restore	回春	true
 unit_ability_types_localised_description_hv_ability_retreat_cover	掩护撤退	false
 unit_ability_types_localised_description_hv_ability_royal_blood	龙脉	true
 unit_ability_types_localised_description_hv_ability_second_chance	余烬复燃	true
 unit_ability_types_localised_description_hv_ability_skirmishing_shot	Skirmishing Shot	true
 unit_ability_types_localised_description_hv_ability_sniper_position	狙击位置	true
 unit_ability_types_localised_description_hv_ability_sparrow	燕翔	true
-unit_ability_types_localised_description_hv_ability_storm_of_swords	剑刃风暴	true
+unit_ability_types_localised_description_hv_ability_storm_of_swords	舞爪	true
 unit_ability_types_localised_description_hv_ability_strength_of_blackmountain	黑山之力	true
 unit_ability_types_localised_description_hv_ability_strength_of_the_land	地力	true
 unit_ability_types_localised_description_hv_ability_striking_tide	刀浪澎湃	true
@@ -5371,7 +5371,7 @@ unit_ability_types_localised_description_hv_ability_wind_of_north	北风	true
 unit_ability_types_localised_description_hv_ability_wisdom_of_the_waterfall	远瞩	true
 unit_ability_types_localised_description_hv_ability_wolf	恶狼	true
 unit_ability_types_localised_description_hv_ability_words_of_the_way	神咏	true
-unit_ability_types_localised_description_hv_ability_wu_brave	东吴之勇	true
+unit_ability_types_localised_description_hv_ability_wu_brave	英武	true
 unit_ability_types_localised_description_hv_ability_wuhuan_riding	乌桓骑术	true
 unit_ability_types_localised_description_hv_ability_xianchenying	Breakthrough	true
 unit_ability_types_localised_description_hv_ability_xiliang_army	反骑兵专家	true
@@ -5391,9 +5391,9 @@ unit_ability_types_localised_description_hv_formation_shock_loose	疏阵冲锋	t
 unit_ability_types_localised_description_hv_formation_shock_loose_cavalry	骑兵疏阵冲锋	true
 unit_ability_types_localised_description_hv_formation_shock_loose_cavalry_no_requirement	骑兵疏阵冲锋	true
 unit_ability_types_localised_description_hv_formation_spear_wall_danyang	丹阳枪盾墙阵	true
-unit_ability_types_localised_description_hv_historical_ability_earth_01	剑刃风暴	true
+unit_ability_types_localised_description_hv_historical_ability_earth_01	舞爪	true
 unit_ability_types_localised_description_hv_historical_ability_earth_02	磐石	true
-unit_ability_types_localised_description_hv_historical_ability_earth_03	集结	true
+unit_ability_types_localised_description_hv_historical_ability_earth_03	齐心	true
 unit_ability_types_localised_description_hv_historical_ability_fire_01	突围	true
 unit_ability_types_localised_description_hv_historical_ability_fire_02	炎凤	true
 unit_ability_types_localised_description_hv_historical_ability_fire_03	追踪	true
@@ -5408,13 +5408,13 @@ unit_ability_types_localised_description_hv_historical_ability_scholar_02	磐石
 unit_ability_types_localised_description_hv_historical_ability_scholar_03	扬刃	true
 unit_ability_types_localised_description_hv_historical_ability_veteran_01	天侣	true
 unit_ability_types_localised_description_hv_historical_ability_veteran_02	地遁	true
-unit_ability_types_localised_description_hv_historical_ability_veteran_03	反骑兵战术	true
+unit_ability_types_localised_description_hv_historical_ability_veteran_03	反制	true
 unit_ability_types_localised_description_hv_historical_ability_water_01	激浪	true
-unit_ability_types_localised_description_hv_historical_ability_water_02	火控	true
-unit_ability_types_localised_description_hv_historical_ability_water_03	反骑兵战术	true
+unit_ability_types_localised_description_hv_historical_ability_water_02	穿杨	true
+unit_ability_types_localised_description_hv_historical_ability_water_03	反制	true
 unit_ability_types_localised_description_hv_historical_ability_wood_01	壁垒	true
 unit_ability_types_localised_description_hv_historical_ability_wood_02	刚韧	true
-unit_ability_types_localised_description_hv_historical_ability_wood_03	内在活力	true
+unit_ability_types_localised_description_hv_historical_ability_wood_03	内力	true
 unit_ability_types_localised_description_hv_hit_effect_armour_broken	破甲	true
 unit_ability_types_localised_description_hv_hit_effect_firelance	惧怕火器	true
 unit_ability_types_localised_description_hv_hit_effect_overwhelmed	压倒	true
@@ -5422,7 +5422,7 @@ unit_ability_types_localised_description_hv_hit_effect_rosin_fire	松脂	true
 unit_ability_types_localised_description_hv_hit_effect_shield_broken	破盾	true
 unit_ability_types_localised_description_hv_hit_effect_sniper_shot	阻击	true
 unit_ability_types_localised_description_hv_hit_effect_special_crossbow	强弩	true
-unit_ability_types_localised_description_hv_hit_effect_taishan_poison_pot	毒风	true
+unit_ability_types_localised_description_hv_hit_effect_taishan_poison_pot	剧毒	true
 unit_ability_types_localised_description_hv_hit_effect_trident	格档	true
 unit_ability_types_localised_description_hv_hit_effect_venom	投毒	true
 unit_ability_types_localised_description_hv_hit_effect_whistle	搅乱	true
