@@ -1,4 +1,4 @@
-Key,Text,Tooltip,English,Override by key,Mapped by text,Mapped by pattern,Vanilla,PikaMan,PikaMan shortened key,Source,Short Key,File
+Key,Text,Tooltip,English,OverrideByKey,MappedByText,MappedByPattern,Vanilla,PikaMan,PikaManShortenedKey,Source,Short Key,File
 ----ability name----,,False,,,,,,,,Missing,----ability name----,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 ----skill name----,,False,,,,,,,,Missing,----skill name----,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 campaign_payload_ui_details_description_hv_dilemma_dongbai,,False,Character Joins: Dong Bai,,,,,,,Missing,campaign_payload_ui_details_description_hv_dilemma,hv_TEXT_events.loc.tsv

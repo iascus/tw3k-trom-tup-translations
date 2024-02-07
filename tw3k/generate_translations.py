@@ -16,6 +16,11 @@ logger = logging.getLogger(__name__)
 class Step:
     step_no = None
     data = None
+    dependencies = {}
+
+    def __init__(self, results):
+        for key, cls in self.dependencies.items():
+            setattr(self, key, results[cls])
 
     def __repr__(self):
         return f'<Step {self.name} - {self.data.shape if self.data is not None else 0}>'
@@ -67,7 +72,7 @@ class Step:
         return pd.read_csv(path)
 
 
-class InputFile(Step):
+class InputCsvFile(Step):
     def _run(self):
         return self.load_file('in')
 
@@ -77,7 +82,7 @@ class LookupFile(Step):
         return self.load_file('lookup')
 
 
-class TsvFiles(Step):
+class InputTsvFiles(Step):
     def _run(self):
         dfs = []
         for filepath in glob.glob(os.path.join('csv', 'in', self.dir_path, '**', '*.tsv'), recursive=True):
@@ -110,34 +115,34 @@ class LocOutput(Step):
         logger.info(f'Saved to {loc_filepath}')
 
 
-class VanillaZhcn(InputFile):
+class VanillaZhcn(InputCsvFile):
     step_no = 1
 
 
-class VanillaZhtw(InputFile):
+class VanillaZhtw(InputCsvFile):
     step_no = 2
 
 
-class VanillaEng(InputFile):
+class VanillaEng(InputCsvFile):
     step_no = 3
 
 
-class PikaManZhcn(TsvFiles):
+class PikaManZhcn(InputTsvFiles):
     step_no = 4
     dir_path = 'PikaManZhcn'
 
 
-class PikaManZhtw(TsvFiles):
+class PikaManZhtw(InputTsvFiles):
     step_no = 5
     dir_path = 'PikaManZhtw'
 
 
-class TromEng(TsvFiles):
+class TromEng(InputTsvFiles):
     step_no = 6
     dir_path = 'Trom3.9e'
 
 
-class ProcrastinatorZhcn(TsvFiles):
+class ProcrastinatorZhcn(InputTsvFiles):
     step_no = 7
     dir_path = 'ProcrastinatorZhcn'
 
@@ -150,14 +155,23 @@ class ProcrastinatorZhcn(TsvFiles):
 class ProcrastinatorZhtw(Step):
     step_no = 8
 
-    def __init__(self, procrastinator_zhcn):
-        self.procrastinator_zhcn = procrastinator_zhcn
+    dependencies = {
+        'procrastinator_zhcn': ProcrastinatorZhcn,
+    }
 
     def _run(self):
         data = self.procrastinator_zhcn.data.copy()
         cc = OpenCC('s2t')
         data['Text'] = data['Text'].apply(lambda string: cc.convert(string) if not pd.isna(string) else string)
         return data
+
+
+class IascusZhcn(InputCsvFile):
+    step_no = 9
+
+
+class IascusZhtw(InputCsvFile):
+    step_no = 10
 
 
 class TromVanillaKeyOverride(LookupFile):
@@ -195,12 +209,13 @@ class LookupByTextFragment(LookupFile):
 class VanillaTranslations(Step):
     step_no = 21
 
-    def __init__(self, trom_eng, key_map_override, vanilla_eng, vanilla_zhtw, vanilla_zhcn):
-        self.trom_eng = trom_eng
-        self.key_map_override = key_map_override
-        self.vanilla_eng = vanilla_eng
-        self.vanilla_zhtw = vanilla_zhtw
-        self.vanilla_zhcn = vanilla_zhcn
+    dependencies = {
+        'trom_eng': TromEng,
+        'key_map_override': TromVanillaKeyOverride,
+        'vanilla_eng': VanillaEng,
+        'vanilla_zhtw': VanillaZhtw,
+        'vanilla_zhcn': VanillaZhcn,
+    }
 
     def _run(self):
         trom_eng = self.trom_eng.data.dropna(subset='Text').set_index('Text')
@@ -222,25 +237,16 @@ class MapByPatternZhcn(Step):
     step_no = 22
     lang_col = 'zh-cn'
 
-    def __init__(
-            self,
-            trom_eng,
-            vanilla_translations,
-            lookup_by_text,
-            lookup_by_pattern,
-            lookup_by_unit_name,
-            lookup_by_unit_type,
-            lookup_by_skill,
-            lookup_by_text_fragment
-    ):
-        self.trom_eng = trom_eng
-        self.vanilla_translations = vanilla_translations
-        self.lookup_by_unit_name = lookup_by_unit_name
-        self.lookup_by_unit_type = lookup_by_unit_type
-        self.lookup_by_skill = lookup_by_skill
-        self.lookup_by_text = lookup_by_text
-        self.lookup_by_pattern = lookup_by_pattern
-        self.lookup_by_text_fragment = lookup_by_text_fragment
+    dependencies = {
+        'trom_eng': TromEng,
+        'vanilla_translations': VanillaTranslations,
+        'lookup_by_text': LookupByText,
+        'lookup_by_pattern': LookupByPattern,
+        'lookup_by_unit_name': LookupByUnitName,
+        'lookup_by_unit_type': LookupByUnitType,
+        'lookup_by_skill': LookupBySkill,
+        'lookup_by_text_fragment': LookupByTextFragment,
+    }
 
     @staticmethod
     def _lookup(found, matched, key, lookup):
@@ -255,9 +261,9 @@ class MapByPatternZhcn(Step):
         data = self.trom_eng.data.fillna('').copy()
         data = data.groupby(['Text']).agg(Tooltip=('Tooltip', 'first'), File=('File', 'first'), Count=('Key', 'count'), Key=('Key', 'first'))
         lookup_by_text = self.lookup_by_text.data[~pd.isna(self.lookup_by_text.data[self.lang_col])]
-        lookup_by_text = lookup_by_text.set_index('eng')[[self.lang_col]].rename({self.lang_col: 'Mapped by text'}, axis=1)
+        lookup_by_text = lookup_by_text.set_index('eng')[[self.lang_col]].rename({self.lang_col: 'MappedByText'}, axis=1)
         data = data.merge(lookup_by_text, left_index=True, right_index=True, how='left')
-        data['Mapped by pattern'] = pd.Series(pd.NA, dtype='string')
+        data['MappedByPattern'] = pd.Series(pd.NA, dtype='string')
 
         lookup_by_text_fragment = self.lookup_by_text_fragment.data.set_index('eng')[self.lang_col].to_dict()
         lookup_by_pattern = self.lookup_by_pattern.data.set_index(['KeyPattern', 'TextPattern'])[[self.lang_col]]
@@ -265,7 +271,7 @@ class MapByPatternZhcn(Step):
         lookup_by_unit_name = self.lookup_by_unit_name.data.set_index('Text')[self.lang_col].to_dict()
         lookup_by_skill = self.lookup_by_skill.data.set_index('Text')[self.lang_col].to_dict()
         lookup_by_text_vanilla = self.vanilla_translations.data[['Text', self.lang_col]].dropna().set_index('Text')[self.lang_col].to_dict()
-        lookup_by_text_vanilla.update(lookup_by_text.to_dict()['Mapped by text'])
+        lookup_by_text_vanilla.update(lookup_by_text.to_dict()['MappedByText'])
         lookup_by_text = lookup_by_text_vanilla
 
         compiled_regex = {}
@@ -291,9 +297,9 @@ class MapByPatternZhcn(Step):
                     found = self._lookup(found, matched, 'unit_name', lookup_by_unit_name)
                     found = self._lookup(found, matched, 'skill_name', lookup_by_skill)
                     if found.keys() == matched.keys():
-                        data.loc[text, 'Mapped by pattern'] = replacement.format(**found)
+                        data.loc[text, 'MappedByPattern'] = replacement.format(**found)
 
-        data = data.reset_index()[['Text', 'Count', 'Mapped by text', 'Mapped by pattern', 'File']].drop_duplicates(subset=['Text'])
+        data = data.reset_index()[['Text', 'Count', 'MappedByText', 'MappedByPattern', 'File']].drop_duplicates(subset=['Text'])
         return data
 
 
@@ -306,13 +312,14 @@ class MapByKeyZhcn(Step):
     step_no = 24
     lang_col = 'zh-cn'
 
-    def __init__(self, trom_eng, vanilla_translations, pikaman_zh, procrastinator_zh, lookup_by_key, map_by_pattern_zh):
-        self.trom_eng = trom_eng
-        self.vanilla_translations = vanilla_translations
-        self.pikaman_zh = pikaman_zh
-        self.procrastinator_zh = procrastinator_zh
-        self.lookup_by_key = lookup_by_key
-        self.map_by_pattern_zh = map_by_pattern_zh
+    dependencies = {
+        'trom_eng': TromEng,
+        'vanilla_translations': VanillaTranslations,
+        'pikaman_zh': PikaManZhcn,
+        'procrastinator_zh': ProcrastinatorZhcn,
+        'lookup_by_key': LookupByKey,
+        'map_by_pattern_zh': MapByPatternZhcn,
+    }
 
     def _run(self):
         data = self.trom_eng.data.fillna('').rename({'Text': 'English'}, axis=1).copy()
@@ -320,26 +327,26 @@ class MapByKeyZhcn(Step):
         vanilla = vanilla[['Key', self.lang_col]].rename({self.lang_col: 'Vanilla'}, axis=1)
         pikaman_zh = self.pikaman_zh.data.drop_duplicates(subset=['Key'])[['Key', 'Text']]
         procrastinator_zh = self.procrastinator_zh.data.drop_duplicates(subset=['Key'])[['Key', 'Text']]
-        lookup_by_key = self.lookup_by_key.data[['Key', self.lang_col]].rename({self.lang_col: 'Override by key'}, axis=1)
-        map_by_pattern_zh = self.map_by_pattern_zh.data[['Text', 'Mapped by text', 'Mapped by pattern']].rename({'Text': 'English'}, axis=1)
+        lookup_by_key = self.lookup_by_key.data[['Key', self.lang_col]].rename({self.lang_col: 'OverrideByKey'}, axis=1)
+        map_by_pattern_zh = self.map_by_pattern_zh.data[['Text', 'MappedByText', 'MappedByPattern']].rename({'Text': 'English'}, axis=1)
 
         data = data.merge(lookup_by_key, on='Key', how='left')
         data = data.merge(vanilla, on='Key', how='left')
         data = data.merge(pikaman_zh.rename({'Text': 'PikaMan'}, axis=1), on='Key', how='left')
         data['Short Key'] = data['Key'].str.rsplit('_', n=1).str[0]
-        data = data.merge(pikaman_zh.rename({'Text': 'PikaMan shortened key', 'Key': 'Short Key'}, axis=1), on='Short Key', how='left')
+        data = data.merge(pikaman_zh.rename({'Text': 'PikaManShortenedKey', 'Key': 'Short Key'}, axis=1), on='Short Key', how='left')
         data = data.merge(procrastinator_zh.rename({'Text': 'Procrastinator'}, axis=1), on='Key', how='left')
         data['Text'] = pd.NA
         data['Source'] = 'Missing'
         data = data.merge(map_by_pattern_zh, on='English', how='left')
         for col in [
-            'PikaMan shortened key',
+            'PikaManShortenedKey',
             'PikaMan',
             'Procrastinator',
             'Vanilla',
-            'Mapped by text',
-            'Mapped by pattern',
-            'Override by key',
+            'MappedByText',
+            'MappedByPattern',
+            'OverrideByKey',
         ]:
             to_update = (~pd.isna(data[col]) & (data[col] != ''))
             data.loc[to_update, ['Source']] = col
@@ -347,8 +354,9 @@ class MapByKeyZhcn(Step):
 
         data['File'] = data['File'].str.replace('text/_hvo/', '')
         data = data.reset_index()[[
-            'Key', 'Text', 'Tooltip', 'English', 'Override by key',
-            'Mapped by text', 'Mapped by pattern', 'Vanilla', 'PikaMan', 'PikaMan shortened key',
+            'Key', 'Text', 'Tooltip', 'English', 'OverrideByKey',
+            'MappedByText', 'MappedByPattern', 'Vanilla',
+            'PikaMan', 'PikaManShortenedKey',
             'Source', 'Short Key', 'File',
         ]]
         return data
@@ -358,13 +366,23 @@ class MapByKeyZhtw(MapByKeyZhcn):
     step_no = 25
     lang_col = 'zh-tw'
 
+    dependencies = {
+        'trom_eng': TromEng,
+        'vanilla_translations': VanillaTranslations,
+        'pikaman_zh': PikaManZhtw,
+        'procrastinator_zh': ProcrastinatorZhtw,
+        'lookup_by_key': LookupByKey,
+        'map_by_pattern_zh': MapByPatternZhtw,
+    }
+
 
 class FinalZhcn(LocOutput):
     step_no = 26
     lang_col = 'zh-cn'
 
-    def __init__(self, map_by_key_zh):
-        self.map_by_key_zh = map_by_key_zh
+    dependencies = {
+        'map_by_key_zh': MapByKeyZhcn,
+    }
 
     def _run(self):
         data = self.map_by_key_zh.data.copy()
@@ -377,18 +395,23 @@ class FinalZhtw(FinalZhcn):
     step_no = 27
     lang_col = 'zh-tw'
 
+    dependencies = {
+        'map_by_key_zh': MapByKeyZhtw,
+    }
+
 
 class RegenLookupByText(Step):
     step_no = 28
 
-    def __init__(self, map_by_key_zhcn, map_by_key_zhtw):
-        self.map_by_key_zhcn = map_by_key_zhcn
-        self.map_by_key_zhtw = map_by_key_zhtw
+    dependencies = {
+        'map_by_key_zhcn': MapByKeyZhcn,
+        'map_by_key_zhtw': MapByKeyZhtw,
+    }
 
     def _run(self):
         new_lookup = pd.concat([
             zh.loc[
-                zh.Source.isin(['Missing', 'Mapped by text']), ['English', from_col]
+                zh.Source.isin(['Missing', 'MappedByText']), ['English', from_col]
             ].rename({
                 'English': 'eng',
                 from_col: to_col,
@@ -406,14 +429,15 @@ class RegenLookupByText(Step):
 class MissingZhcn(Step):
     step_no = 40
 
-    def __init__(self, map_by_key_zh):
-        self.map_by_key_zh = map_by_key_zh
+    dependencies = {
+        'map_by_key_zh': MapByKeyZhcn,
+    }
 
     def _run(self):
         data = self.map_by_key_zh.data
         data = data.loc[(data['Source'].isin([
             'Missing',
-            # 'PikaMan shortened key',
+            # 'PikaManShortenedKey',
             # 'PikaMan',
         ])) & (data['Text'] != '')]
         return data
@@ -422,23 +446,27 @@ class MissingZhcn(Step):
 class MissingZhtw(MissingZhcn):
     step_no = 41
 
+    dependencies = {
+        'map_by_key_zh': MapByKeyZhtw,
+    }
+
 
 class Comparison(Step):
     step_no = 42
 
-    def __init__(
-            self, trom_eng, vanilla_zhcn, vanilla_zhtw, map_by_key_zhcn, map_by_key_zhtw,
-            pikaman_zhcn, pikaman_zhtw, procrastinator_zhcn, procrastinator_zhtw
-    ):
-        self.trom_eng = trom_eng
-        self.vanilla_zhcn = vanilla_zhcn
-        self.vanilla_zhtw = vanilla_zhtw
-        self.map_by_key_zhcn = map_by_key_zhcn
-        self.map_by_key_zhtw = map_by_key_zhtw
-        self.pikaman_zhcn = pikaman_zhcn
-        self.pikaman_zhtw = pikaman_zhtw
-        self.procrastinator_zhcn = procrastinator_zhcn
-        self.procrastinator_zhtw = procrastinator_zhtw
+    dependencies = {
+        'trom_eng': TromEng,
+        'vanilla_zhcn': VanillaZhcn,
+        'vanilla_zhtw': VanillaZhtw,
+        'map_by_key_zhcn': MapByKeyZhcn,
+        'map_by_key_zhtw': MapByKeyZhtw,
+        'pikaman_zhcn': PikaManZhcn,
+        'pikaman_zhtw': PikaManZhtw,
+        'procrastinator_zhcn': ProcrastinatorZhcn,
+        'procrastinator_zhtw': ProcrastinatorZhtw,
+        'iascus_zhcn': IascusZhcn,
+        'iascus_zhtw': IascusZhtw,
+    }
 
     def _run(self):
         cmp = pd.concat([
@@ -447,95 +475,71 @@ class Comparison(Step):
                 (self.trom_eng, 'Text', 'English'),
                 (self.map_by_key_zhcn, 'Text', 'MappedZhcn'),
                 (self.map_by_key_zhcn, 'Source', 'SourceZhcn'),
-                (self.vanilla_zhcn, 'Text', 'VanillaZhcn'),
+                (self.map_by_key_zhcn, 'Vanilla', 'VanillaZhcn'),
+                (self.iascus_zhcn, 'Text', 'IascusZhcn'),
                 (self.procrastinator_zhcn, 'Text', 'ProcrastinatorZhcn'),
                 (self.pikaman_zhcn, 'Text', 'PikaManZhcn'),
                 (self.map_by_key_zhtw, 'Text', 'MappedZhtw'),
                 (self.map_by_key_zhtw, 'Source', 'SourceZhtw'),
-                (self.vanilla_zhtw, 'Text', 'VanillaZhtw'),
+                (self.map_by_key_zhtw, 'Vanilla', 'VanillaZhtw'),
+                (self.iascus_zhtw, 'Text', 'IascusZhtw'),
                 (self.procrastinator_zhtw, 'Text', 'ProcrastinatorZhtw'),
                 (self.pikaman_zhtw, 'Text', 'PikaManZhtw'),
             ]
         ], axis=1).loc[self.trom_eng.data['Key'].drop_duplicates()].reset_index()
+
         # cmp = cmp[(cmp['MappedZhcn'] != cmp['ProcrastinatorZhcn']) & (~cmp['ProcrastinatorZhcn'].isin([np.nan, pd.NA, '', '尚未翻译']))]
         cmp = cmp[
             cmp['Key'].str.startswith('character_skills_localised_')
         ]
+        cmp.insert(8, 'DiffZhcn', cmp['ProcrastinatorZhcn'] != cmp['MappedZhcn'])
+        cmp.insert(15, 'DiffZhtw', cmp['ProcrastinatorZhtw'] != cmp['MappedZhtw'])
         cmp['SkillKey'] = cmp['Key'].str.replace(
             re.compile('character_skills_localised_([a-z]+)_(.*)'), r'\2_\1', regex=True
         )
         cmp = cmp.drop('Key', axis=1).sort_values('SkillKey', ascending=False).drop_duplicates()
-        # cmp = cmp[~cmp['SourceZhtw'].isin(['Vanilla', 'Mapped by pattern'])]
+        # cmp = cmp[~cmp['SourceZhtw'].isin(['Vanilla', 'MappedByPattern'])]
         return cmp
 
 
 def main():
-    vanilla_zhcn = VanillaZhcn()
-    vanilla_zhtw = VanillaZhtw()
-    vanilla_eng = VanillaEng()
-    pikaman_zhcn = PikaManZhcn()
-    pikaman_zhtw = PikaManZhtw()
-    trom_eng = TromEng()
-    procrastinator_zhcn = ProcrastinatorZhcn()
-    procrastinator_zhtw = ProcrastinatorZhtw(procrastinator_zhcn)
-    key_map_override = TromVanillaKeyOverride()
-    vanilla_translations = VanillaTranslations(trom_eng, key_map_override, vanilla_eng, vanilla_zhtw, vanilla_zhcn)
-    lookup_by_text = LookupByText()
-    lookup_by_key = LookupByKey()
-    lookup_by_pattern = LookupByPattern()
-    lookup_by_unit_name = LookupByUnitName()
-    lookup_by_unit_type = LookupByUnitType()
-    lookup_by_skill = LookupBySkill()
-    lookup_by_text_fragment = LookupByTextFragment()
-    map_by_pattern_zhcn = MapByPatternZhcn(
-        trom_eng, vanilla_translations, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type,
-        lookup_by_skill, lookup_by_text_fragment
-    )
-    map_by_pattern_zhtw = MapByPatternZhtw(
-        trom_eng, vanilla_translations, lookup_by_text, lookup_by_pattern, lookup_by_unit_name, lookup_by_unit_type,
-        lookup_by_skill, lookup_by_text_fragment
-    )
-    map_by_key_zhcn = MapByKeyZhcn(trom_eng, vanilla_translations, pikaman_zhcn, procrastinator_zhcn, lookup_by_key, map_by_pattern_zhcn)
-    map_by_key_zhtw = MapByKeyZhtw(trom_eng, vanilla_translations, pikaman_zhtw, procrastinator_zhtw, lookup_by_key, map_by_pattern_zhtw)
-    final_zhcn = FinalZhcn(map_by_key_zhcn)
-    final_zhtw = FinalZhtw(map_by_key_zhtw)
-    regen_lookup_by_text = RegenLookupByText(map_by_key_zhcn, map_by_key_zhtw)
-    missing_zhcn = MissingZhcn(map_by_key_zhcn)
-    missing_zhtw = MissingZhtw(map_by_key_zhtw)
-    comparison = Comparison(
-        trom_eng, vanilla_zhcn, vanilla_zhtw, map_by_key_zhcn, map_by_key_zhtw,
-        pikaman_zhcn, pikaman_zhtw, procrastinator_zhcn, procrastinator_zhtw
-    )
-
-    for step in [
-        vanilla_zhcn,
-        vanilla_zhtw,
-        vanilla_eng,
-        pikaman_zhcn,
-        pikaman_zhtw,
-        trom_eng,
-        procrastinator_zhcn,
-        procrastinator_zhtw,
-        key_map_override,
-        vanilla_translations,
-        lookup_by_text,
-        lookup_by_key,
-        lookup_by_pattern,
-        lookup_by_unit_name,
-        lookup_by_unit_type,
-        lookup_by_skill,
-        lookup_by_text_fragment,
-        map_by_pattern_zhcn,
-        map_by_pattern_zhtw,
-        map_by_key_zhcn,
-        map_by_key_zhtw,
-        final_zhcn,
-        final_zhtw,
-        regen_lookup_by_text,
-        missing_zhcn,
-        missing_zhtw,
-        comparison,
-    ]:
+    steps = {
+        cls: None
+        for cls in [
+            VanillaZhcn,
+            VanillaZhtw,
+            VanillaEng,
+            PikaManZhcn,
+            PikaManZhtw,
+            TromEng,
+            ProcrastinatorZhcn,
+            ProcrastinatorZhtw,
+            IascusZhcn,
+            IascusZhtw,
+            TromVanillaKeyOverride,
+            VanillaTranslations,
+            LookupByText,
+            LookupByKey,
+            LookupByPattern,
+            LookupByUnitName,
+            LookupByUnitType,
+            LookupBySkill,
+            LookupByTextFragment,
+            MapByPatternZhcn,
+            MapByPatternZhtw,
+            MapByKeyZhcn,
+            MapByKeyZhtw,
+            FinalZhcn,
+            FinalZhtw,
+            RegenLookupByText,
+            MissingZhcn,
+            MissingZhtw,
+            Comparison,
+        ]
+    }
+    for cls in list(steps.keys()):
+        step = cls(steps)
+        steps[cls] = step
         step.run()
         step.save()
 

@@ -1,4 +1,4 @@
-Text,Count,Mapped by text,Mapped by pattern,File
+Text,Count,MappedByText,MappedByPattern,File
 ,2,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 %-n black mountain decay,1,%-n黑山衰退,,hv_TEXT_effects_pooled_resource.loc.tsv
 %-n horse breeding decay,1,%-n养马衰退,,hv_TEXT_effects_pooled_resource.loc.tsv
