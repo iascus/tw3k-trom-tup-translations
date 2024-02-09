@@ -19,47 +19,47 @@ A charge from a squadron of Spear cavalry is a daunting sight for any soldier. B
 "A charge, fuelled by stern hearts and sterner blades, that will rip enemy lines apart.",2,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
 "A charge, fuelled by stern hearts and sterner blades, will rip enemy lines apart.",4,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
 A clash is inevitable.,6,,衝突無法避免。,hv_TEXT_skills_skill_ability__historical.loc.tsv
-A close observation of the battlefield can bring remarkable insights.,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+A close observation of the battlefield can bring remarkable insights.,1,,以非凡的觀察力縱觀戰場。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "A cowardly conspiracy! There was a failed attempt to assassinate you during the banquet. Unfortunately, the assaliant was slain by the guards before he could be made to reveal the conspirator's identity.",1,陰謀！有人於宴會中欲加害於你。事雖未成，但刺客已被护卫弑杀，無法得知是誰在背後主謀。,,ifo_text_TWEAK.loc.tsv
 "A decree has arrived from the imperial court. A banquet is to be held, and influential nobles from across China are invited to the imperial palace. Wary of our influence, the imperial protector may be plotting something. However, refusing an imperial decree may have grave consequences...",1,,,ifo_text_TWEAK.loc.tsv
 A devastating swing with the power of the risen inferno!,5,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
-A display of unstoppable fury.,3,展現出勢不可擋的憤怒。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+A display of unstoppable fury.,3,,展現出勢不可擋的憤怒。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "A few days after you and your men began searching the mountains, you come across an incredible sight. The den of a large white tiger and its family. The men are intimidated by its size and implore you to go back. You feel as if the massive tiger is staring at you.",1,,,hv_TEXT_events.loc.tsv
 A few of your officers have gained additional experience.,1,您的一些官員獲得額外經驗。,,hv_TEXT_events.loc.tsv
 A fierce wind blows.,1,狂風大作。,,hv_TEXT_unit_abilities.loc.tsv
 A flurry of shafts slows the enemy advance.,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 A focus on form allows one to evade and manoeuvre.,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-A forest friendly man.,2,此人與林爲友。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+A forest friendly man.,2,,此人與林爲友。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 A furious strike that sends anyone nearby reeling.,3,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "A group of beggars appears before you. Among them, a girl dressed nicely comes forward and bows. The girl identifies herself as Dong Bai, the last kin of the tyrant Dong Zhuo, and begs you to take her.",2,,,hv_TEXT_events.loc.tsv
 A group of unusual men sporting shaved heads disembark from a ship.  They claim to have journeyed from distant lands to spread the teachings of Buddha. Perhaps it will be worth supporting them?,1,從船上下來一群剃光頭的異人。他們自稱從遙遠地方來此傳播佛道。也許值得支持他們？,,hv_TEXT_events.loc.tsv
 "A heavy bow made of iron is not easy to use for ordinary archers. \\n\n The range is rather short due to the strong tension and heavy arrowheads, but the arrows will penetrate the enemy. \\n\n This unit is heavily armed with ironclad, and in close combat, it cuts enemy troops with direct distribution.",1,,,hv_TEXT_unit_long_desc.loc.tsv
 "A hero's resolve is not to seem the bravest, but to be it.",2,,,z_dummy_hv_TEXT_non_deployable.loc.tsv
 A lifetime spent learning the ways of heaven will turn thoughts into belief.,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-A look at the battlefield with remarkable insight.,4,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+A look at the battlefield with remarkable insight.,4,,以非凡的觀察力縱觀戰場。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 A master of the battlefield can undermine even the surest of soldiers.,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "A merciless order, for Dong Zhuo's men and his enemies.",2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-A moment's respite from battlefield to heal our troops.,3,從戰場上喘息片刻，為我軍療傷。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+A moment's respite from battlefield to heal our troops.,3,,從戰場上喘息片刻，為我軍療傷。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 A mysterious sword from the West. ,1,西域而來的神秘寶劍。,,hv_TEXT_ceo_weapon.loc.tsv
 A new regime is coming into power.,1,新政權開始建立。,,hv_TEXT_effects_pooled_resource.loc.tsv
-A noble messenger.,1,一名高貴的信使。,,z_dummy_hv_TEXT_non_deployable.loc.tsv
+A noble messenger.,1,,,z_dummy_hv_TEXT_non_deployable.loc.tsv
 A place to trade with the natives.,1,與土著交易之處。,,hv_TEXT_building.loc.tsv
 A place where great teachers and passionate students gather.,1,賢師高徒匯聚之所。,,hv_TEXT_building.loc.tsv
 A prince's retinue reflects their glory in splendour. These brave cavalrymen match their splendour with equal prowress in battle.,1,,,hv_TEXT_unit_desc.loc.tsv
 A quiet but enthusiastic supporter.,1,安靜但熱情的支持者。,,z_dummy_hv_TEXT_non_deployable.loc.tsv
 "A reckless charge, inspiring but exhausting!",3,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 A regiment of the Northern Army will join your faction.,1,一個北軍兵團會加入您的勢力。,,hv_TEXT_events.loc.tsv
-A remarkable talent.,135,才華橫溢,,hv_TEXT_skills_additional.loc.tsv
+A remarkable talent.,135,,才華橫溢,hv_TEXT_skills_additional.loc.tsv
 A second wind has come.,1,,,hv_TEXT_effects_pooled_resource.loc.tsv
 "A shabby warband requests to join your faction. After Lu Bu's defeat, his daughter Lu Ji seems to have been leading the survivors. However, granting them sanctuary may cause their enemies to come after us.",1,一隻殘軍請求加入您的勢力。呂布戰敗後，其女呂姬收攏潰卒。然而，接納他們可能會惹惱呂布之敵。,,hv_TEXT_events.loc.tsv
 "A shabby warband requests to join your faction. After Yuan Shu's defeat, his generals Zhang Xun, Ji Ling and Yan Xiang to have been leading the survivors. However, granting them sanctuary may cause their enemies to come after us.",1,一隻殘軍請求加入您的勢力。袁術戰敗後，其部將張勳，紀靈及閻象收攏潰卒。然而，接納他們可能會惹惱袁術之敵。,,hv_TEXT_events.loc.tsv
 "A shining, typical, and above all appropriate model of how one should be.",4,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 A shout to inspire soldiers.,1,,,hv_TEXT_unit_abilities.loc.tsv
 "A single shot, timed and aimed to perfection, outweighs a thousand wasted volleys.",2,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
-A special arrow containing a toxic substance.,2,含有有毒物質的特殊箭頭。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+A special arrow containing a toxic substance.,2,,含有有毒物質的特殊箭頭。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 A successful hunt,1,狩獵成功,,hv_TEXT_events.loc.tsv
 A war cry from one warrior to another.,4,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
-A warrior who feels truly alive in battle.,4,以戰爲生的勇士。,,hv_TEXT_skills_skill_ability__historical.loc.tsv
+A warrior who feels truly alive in battle.,4,,以戰爲生的勇士。,hv_TEXT_skills_skill_ability__historical.loc.tsv
 A warrior will only fight at their best when they are sure-footed.,1,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 A yellow turban warband has invaded your territory. You must defeat them.,1,有黃巾軍侵入主公領地，須從速討敵。,,hv_TEXT_events.loc.tsv
 Ability: A Secret Plan,1,,,hv_TEXT_effects_skills.loc.tsv
@@ -76,23 +76,23 @@ Ability: Blazing Saddles,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Bloody Fury,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Brawl,1,,技能：毆打,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Brute Power,1,,技能：蠻力,hv_TEXT_skills_skill_enable_effect.loc.tsv
-Ability: Burning Soul,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
+Ability: Burning Soul,1,,技能：燃燒元神,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Commanding Shout,2,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Condemn,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
-Ability: Condemned Howl,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
+Ability: Condemned Howl,1,,技能：天譴之嘯,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Courage of Eastern Wu,1,,技能：東吳之勇,hv_TEXT_skills_skill_ability_wu_brave.loc.tsv
-Ability: Crossing of the River Sanzu,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
+Ability: Crossing of the River Sanzu,1,,技能：黃泉之路,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Cruel Command,1,,技能：強令,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Cry of the Forest,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Desperate Cry,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Devastating Roar,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Disorientate,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
-Ability: Distant Courage,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
+Ability: Distant Courage,1,,技能：千里助勢,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Disturb,1,,技能：攪擾,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Dong Zhuo's Command,1,,技能：相令,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Earth-shattering Strike,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
-Ability: Earthen Rampart,1,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
-Ability: Elemental Vigour,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
+Ability: Earthen Rampart,1,,技能：大地堡壘,hv_TEXT_skills_skill_ability__historical.loc.tsv
+Ability: Elemental Vigour,1,,技能：五行之力,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Eviscerate,1,,技能：剔骨,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Exemplar,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Favourable Skies,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
@@ -101,7 +101,7 @@ Ability: Flame Breathing,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Flames of the Phoenix,2,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Fleet-footed,3,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Flower of the Battlefield,1,,技能：戰場之花,hv_TEXT_skills_skill_enable_effect.loc.tsv
-Ability: Foresight,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
+Ability: Foresight,1,,技能：縱觀全局,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Forest Strider,1,,技能：森林適性,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: From the Ashes,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Frontline Observation,1,,技能：前線查探,hv_TEXT_skills_skill_enable_effect.loc.tsv
@@ -110,7 +110,7 @@ Ability: God of War,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Hail of Arrows,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Hamstring,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Heart Seeker,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
-Ability: Heavenly Grace,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
+Ability: Heavenly Grace,1,,技能：天仙氣質,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Imperious_presence,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Impetuous Charge,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Indomitable Warrior,1,,技能：無畏之士,hv_TEXT_skills_skill_enable_effect.loc.tsv
@@ -121,7 +121,7 @@ Ability: Inspiring Words,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Internal Blaze,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Into the Breach,3,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Inward Focus,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
-Ability: Judgement,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
+Ability: Judgement,1,,技能：明察秋毫,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Kingmaker,1,,技能：王佐,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Knowledge of the Body,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Knowledge of the Mind,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
@@ -140,7 +140,7 @@ Ability: Overwhelmming,1,,技能：壓倒之勢,hv_TEXT_skills_skill_enable_effe
 Ability: Poison-wind,1,,技能：毒風,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Poisoned Blade,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Preach,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
-Ability: Quickfire,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
+Ability: Quickfire,1,,技能：連珠砲,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Rage of Lü Bu,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Reckless Strike,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Reign of Terror,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
@@ -150,17 +150,17 @@ Ability: Roar of the Beast,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Royal Blood,1,,技能：皇室貴胄,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Scattering Blows,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Second Chance,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
-Ability: Show of Force,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
+Ability: Show of Force,1,,技能：揚威挫銳,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Sight of the Dragon,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Sinister Strike,1,,技能：險惡一擊,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Smouldering Fury,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
-Ability: Stalwart Defender,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
+Ability: Stalwart Defender,1,,技能：步步為營,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Stength of the Land,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
-Ability: Stone Bulwark,3,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
+Ability: Stone Bulwark,3,,技能：堅若磐石,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Striking Tide,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Sundering Strike,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Swallow,1,,技能：燕翔,hv_TEXT_skills_skill_enable_effect.loc.tsv
-Ability: Sweeping Arc,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
+Ability: Sweeping Arc,1,,技能：橫掃千軍,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Swift Fingers,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Swift Steps,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Targeted Strikes,1,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
@@ -171,19 +171,19 @@ Ability: The weight on the shoulders,1,,技能：身負重擔,hv_TEXT_skills_ski
 Ability: Tracker,1,,技能：追蹤,hv_TEXT_skills_skill_ability__historical.loc.tsv
 Ability: Turning the Tide,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Undying Vow,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
-Ability: Unstoppable,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
+Ability: Unstoppable,1,,技能：無人可擋,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Unyielding Earth,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
-Ability: Veil of Darkness,1,,技能：莫測,hv_TEXT_skills_skill_enable_effect.loc.tsv
+Ability: Veil of Darkness,1,,技能：黑暗之幕,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Vengeance,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Warning Shot,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Way of the Wind,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
-Ability: White Tiger,1,,技能：白虎,hv_TEXT_skills_skill_enable_effect.loc.tsv
+Ability: White Tiger,1,,技能：白虎之威,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Whitewater,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Wildfire Raider,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Wisdom of the River,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Wisdom of the Waterfall,1,,技能：飛泉之智,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Wolf,1,,技能：惡狼,hv_TEXT_skills_skill_enable_effect.loc.tsv
-Ability: Zhou the Youth,1,,技能：周郎,hv_TEXT_skills_skill_enable_effect.loc.tsv
+Ability: Zhou the Youth,1,,技能：美周郎,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Absent,1,缺席,,ifo_text_TWEAK.loc.tsv
 Abundance,1,,,hv_TEXT_skills_basic.loc.tsv
 Academic Advancement,1,學術進步,,hv_TEXT_events.loc.tsv
@@ -207,15 +207,15 @@ Agitation,3,,,hv_TEXT_unit_abilities_hit_effects.loc.tsv
 Agronomy,1,,農藝,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Aiming Fire,5,,,hv_TEXT_unit_abilities.loc.tsv
 All economic activities have been hampered by the minting of a new coin. We have no choice but to wait for merchants to adjust to the new standard.,1,所有的經濟活動都因爲新幣的鑄造而受到阻礙。我們別無選擇，只能等待商人們適應新的標準。,,hv_TEXT_events.loc.tsv
-All must take up their tools and participate in the enormous effort of rebuilding society.,1,眾人皆需拿起工具，參與重建江山社稷的龐大工作。,,z_dummy_hv_TEXT_non_deployable.loc.tsv
+All must take up their tools and participate in the enormous effort of rebuilding society.,1,,,z_dummy_hv_TEXT_non_deployable.loc.tsv
 "Although Yuan Shu is not a popular leader, fortunately, it is an era where money can buy loyalty. When he gathered the best warriors in the region and paid them the highest salaries with best equipments, a plausible royal guards was created. \\n\\n They are as confident as their master's desire for fame, and would rather die than accept failure.",1,,,hv_TEXT_unit_long_desc.loc.tsv
 "Although their palisade walls are an unfortunate necessity, the Shanyue seek only to live in peace.",1,,,hv_TEXT_building.loc.tsv
 Always surrounded by people.,1,周圍總是很多人。,,z_dummy_hv_TEXT_non_deployable.loc.tsv
 "Amongst the hills of Jingchu, the unwary may find themselves tripped upon a caltrop, and slain by the man who laid it.",1,在荊楚的山中，粗心的人可能會被一把蒺藜絆倒，然後被放它的人殺死。,,hv_TEXT_unit_desc.loc.tsv
 An ancient chant that serves as a reminder that Heaven is with the virtuous.,1,,,hv_TEXT_unit_abilities.loc.tsv
-An excellent writing skill.,1,優秀的寫作能力。,,z_dummy_hv_TEXT_non_deployable.loc.tsv
+An excellent writing skill.,1,,,z_dummy_hv_TEXT_non_deployable.loc.tsv
 "An illustrious lineage provides many swords, along with men willing to wield them.",1,顯赫的血統可以使許多劍士願意效命。,,hv_TEXT_unit_desc.loc.tsv
-An immovable mountain against the tide of the charge.,2,任由驚濤拍岸，我自不動如山。,,hv_TEXT_skills_skill_ability__historical.loc.tsv
+An immovable mountain against the tide of the charge.,2,,任由驚濤拍岸，我自不動如山。,hv_TEXT_skills_skill_ability__historical.loc.tsv
 An imperial ancestral rite is being held...,2,正在舉行皇家祭祀儀式…… ,,ifo_text_TWEAK.loc.tsv
 An inevitable rule to stabilize the turmoil.,2,嚴政方能定亂。,,hv_TEXT_pooled_resource.loc.tsv
 An outnumbered army will fight even harder. Skill trumps numbers.,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -309,7 +309,7 @@ Blue Turbans,1,藍巾兵,,hv_TEXT_unit_text_replacements.loc.tsv
 Bolster,3,支持,,hv_TEXT_unit_abilities.loc.tsv
 Bomb Slingers,1,爆彈兵,,hv_TEXT_unit_text_replacements.loc.tsv
 "Born from refugees and those peoples who would not submit to the Han empire, these White Tiger Strays have thrown their lot with Yan Baihu, hoping to safeguard their independance. Wearing bad equipment, the most valuable thing they offer to their commanders is their lives; to sell dearly as better men win the battle for them.",1,,,hv_TEXT_unit_long_desc.loc.tsv
-"Born to hold the line, This warrior shrugs off attacks as if they were nothing!",3,此人是天生的護衛將才，所有攻擊對他來說都不痛不癢！,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"Born to hold the line, This warrior shrugs off attacks as if they were nothing!",3,,此人是天生的護衛將才，所有攻擊對他來說都不痛不癢！,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Bow Cavalry (Buqu),8,,持弓騎兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
 Bow Cavalry (Elite),7,,持弓騎兵（精銳）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
 Bow Cavalry (Militia),7,,持弓騎兵（義勇）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
@@ -342,7 +342,7 @@ Buqu Sabre Infantry,1,,部曲持刀步兵,hv_TEXT_unit_text_replacements.loc.tsv
 Buqu Spearmen,1,,部曲長槍兵,hv_TEXT_unit_text_replacements.loc.tsv
 Buqu Swordsmen of Yuan,1,,部曲袁氏劍兵,hv_TEXT_unit_text_replacements.loc.tsv
 Buqu of the Left General,1,左將軍部曲,,hv_TEXT_unit_text_replacements.loc.tsv
-Burning Soul,5,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Burning Soul,5,,燃燒元神,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Bustling (12),2,,,hv_TEXT_effects_pooled_resource.loc.tsv
 Bustling (13),2,,,hv_TEXT_effects_pooled_resource.loc.tsv
 Bustling (14),2,,,hv_TEXT_effects_pooled_resource.loc.tsv
@@ -358,10 +358,10 @@ Caltrops,3,,,hv_TEXT_unit_abilities.loc.tsv
 Cao Ang's Armour,1,曹昂的護甲,,hv_TEXT_ceo_career.loc.tsv
 Cao Cao,1,,,hv_TEXT_cb_loadout.loc.tsv
 Cao Cao's ordered mind encourages his forces to more efficient action!,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Cao Cao's presence unnerves the enemy general!,2,曹操在場，敵將備受壓制！,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+Cao Cao's presence unnerves the enemy general!,2,,曹操在場，敵將備受壓制！,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 Captain,1,校尉,,hv_TEXT_unit_text_replacements.loc.tsv
 Captain of Yuan House,1,袁氏校尉,,hv_TEXT_unit_text_replacements.loc.tsv
-Carefully approach and go for the throat.,3,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Carefully approach and go for the throat.,3,,惡狼謹慎出擊，直奔咽喉。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Causes temporary social turmoil,1,,,hv_TEXT_effects_technology.loc.tsv
 Ceasefire,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Cement your rule with legitimacy! Build an Imperial City that will be the envy of other warlords. All under heaven will look to you for leadership.,6,要稱霸就要有正統的名義。若能建造一座萬人敬仰的皇城，便可彰顯實力，天下人必當歸順。,,hv_TEXT_events.loc.tsv
@@ -382,7 +382,7 @@ Cheng Pu,1,,,hv_TEXT_cb_loadout.loc.tsv
 Children of the forest,1,森林之子,,hv_TEXT_unit_text_replacements.loc.tsv
 China will be ruled by might,1,,,hv_TEXT_events_rules.loc.tsv
 China will be ruled by virtue,1,,,hv_TEXT_events_rules.loc.tsv
-Choose the targets to focus fire.,6,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Choose the targets to focus fire.,6,,選定目標集中射擊。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Chosen of the Eight Immortals,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Chunyu Qiong,1,淳于瓊,,hv_TEXT_cb_loadout.loc.tsv
 Chunyu Qiong finally came to his senses! He is no longer a drunkard but a general who can lead an army.,1,淳于瓊終於想通了！他不再是個酒鬼，而是個能帶兵的將領。,,hv_TEXT_events.loc.tsv
@@ -406,8 +406,8 @@ Complete missions to bolster your faction!,1,完成任務可以增强您的勢�
 Completing these missions will gather northern colonels to your cause.,1,完成這些任務，北軍校尉就會爲您效力。,,hv_TEXT_events.loc.tsv
 "Concentrate on the moment: fight, don't think. Use your instincts.",2,,,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Condemn,3,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Condemned Howl,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Confidence and pride go hand in hand.,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Condemned Howl,2,,天譴之嘯,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Confidence and pride go hand in hand.,1,,傲慢即信心所在。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Confront the large white tiger,1,與巨型白虎對峙,,hv_TEXT_events.loc.tsv
 Confucianist,1,儒生,,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Confucius Institute,4,孔子學院,,hv_TEXT_building.loc.tsv
@@ -429,7 +429,7 @@ Crossbow Cavalry (Militia),4,,持弩騎兵（義勇）,hv_TEXT_unit_ui_group_t1_
 Crossbow Infantry (Buqu),13,,持弩步兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
 Crossbow Infantry (Elite),12,,持弩步兵（精銳）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
 Crossbow Infantry (Militia),11,,持弩步兵（義勇）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
-Crossing of the River Sanzu,4,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Crossing of the River Sanzu,4,,黃泉之路,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Cruel Command,5,,強令,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Cry of the Forest,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Cultural friction has caused inter-ethnic conflict between Qiang barbarians and Han settlers. The turmoil is pushing many to leave the region.,2,,,hv_TEXT_events.loc.tsv
@@ -438,7 +438,7 @@ Cultural friction has caused inter-ethnic conflict between Wuhuan barbarians and
 Cultural friction has caused inter-ethnic conflict between Xiongnu barbarians and Han settlers. The turmoil is pushing many to leave the region.,2,,,hv_TEXT_events.loc.tsv
 Cunning,2,,智謀,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Cunning Monkeys,1,狡猴兵,,hv_TEXT_unit_text_replacements.loc.tsv
-Cut down enemies by making an arc with a blade,4,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Cut down enemies by making an arc with a blade,4,,使出一記弧形揮砍殺傷敵人,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 DEBUG GUY,1,校尉,,hv_TEXT_cb_loadout.loc.tsv
 Danyang Archers,1,,丹陽弓兵,hv_TEXT_unit_text_replacements.loc.tsv
 Danyang Spearmen,1,,丹陽長槍兵,hv_TEXT_unit_text_replacements.loc.tsv
@@ -457,7 +457,7 @@ Defence Hardened,3,,,hv_TEXT_unit_abilities.loc.tsv
 Defenders of Earth,2,,,hv_TEXT_unit_text_replacements.loc.tsv
 Defense is the best attack.,1,,,hv_TEXT_unit_abilities.loc.tsv
 Defensive Stance,3,防禦姿態,,hv_TEXT_unit_abilities.loc.tsv
-Delivers a very powerful blow.,4,可發出非常有力的一擊。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Delivers a very powerful blow.,4,,可發出非常有力的一擊。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Desperate Cry,4,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Desperate Stand,3,背水一戰,,hv_TEXT_unit_abilities.loc.tsv
 Desperation soon leads to violence.,2,,,hv_TEXT_unit_abilities.loc.tsv
@@ -466,14 +466,14 @@ Determination and grit allow all attacks to be dodged.,2,,,hv_TEXT_skills_skill_
 Devastating Roar,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Devoted Mother,2,躬親主母,,hv_TEXT_ceo_career.loc.tsv
 Dian Wei,1,,,hv_TEXT_cb_loadout.loc.tsv
-Did you get the boat fare? Heaven! Earth! Mankind!!,3,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Did you get the boat fare? Heaven! Earth! Mankind!!,3,,奈何橋前可奈何，三生石上寫三生。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Diligence,1,,,hv_TEXT_skills_basic.loc.tsv
 Disorientate,4,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Distant Courage,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Distracts the focus of enemy ranged troops.,4,分散敵軍遠程部隊的注意力。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Distant Courage,2,,千里助勢,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Distracts the focus of enemy ranged troops.,4,,分散敵軍遠程部隊的注意力。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Disturb,6,,攪擾,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Disturbance,1,擾亂,,hv_TEXT_skills_additional.loc.tsv
-Do not let emotion cloud your acuity.,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Do not let emotion cloud your acuity.,1,,莫讓情緒蒙蔽心靈的敏銳。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Dong Min,1,董旻,,hv_TEXT_cb_loadout.loc.tsv
 Dong Zhuo,1,,,hv_TEXT_cb_loadout.loc.tsv
 Dong Zhuo's Command,5,,相令,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -500,12 +500,12 @@ Dual Wield Sword Infantry (Militia),6,,雙劍步兵（義勇）,hv_TEXT_unit_ui_
 Duke or Grand Master,1,勢力級別達到公,,hv_TEXT_etc.loc.tsv
 "Each character in Sun Ce's faction grants him shared expertise points once they reach rank 5. At ranks 9, 12 and 15 they generate one extra point respectively.",2,孫策勢力中每位人物在達到5級后均會與他分享專長點。在9級、12級和15級時他們分別會產生一個額外的點數。,,hv_TEXT_etc.loc.tsv
 Earth-shattering Strike,5,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Earthen Rampart,4,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
+Earthen Rampart,4,,大地堡壘,hv_TEXT_skills_skill_ability__historical.loc.tsv
 "Echoing the glory of Chu, the great axes these men wield will make short work of their shielded foes.",1,這些人所揮的大斧是楚國的榮耀，即使是持盾的敵人亦命不久矣。,,hv_TEXT_unit_desc.loc.tsv
 "Echoing the nomads they fought for years, these horse archers will do the Xiliang army proud on any battlefield.",1,這些馬弓手與其他遊牧部落征戰多年，在任何戰場上都是西涼軍的驕傲。,,hv_TEXT_unit_desc.loc.tsv
 Economic and social upheaval casued by the minting of a new coin.,3,鑄造新幣引起了經濟和社會的動蕩。,,hv_TEXT_effects_technology.loc.tsv
 Ecstasy,5,,,hv_TEXT_unit_abilities.loc.tsv
-Elemental Vigour,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Elemental Vigour,1,,五行之力,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Elephants (Buqu),3,,象兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
 Elephants (Elite),3,,象兵（精銳）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
 Elephants (Militia),3,,象兵（義勇）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
@@ -544,7 +544,7 @@ Established (8),2,,,hv_TEXT_effects_pooled_resource.loc.tsv
 "Even as the Han crumbles, embers of its glory remain. These warriors serve the prince of Chenliu, Liu Chong. Clad in gold-lacquered armor, they form a resplendiscent sight on the battlefield, reminding all that the fortunes of the Han have not yet faded while these men stand firm. \\n\\n These royal guards are a beacon of hope to their allies. Gifted with fine steeds to ride, and clad in the heaviest armour availible from the princely armouries, each man has been trained in a myriad of weapons, from crossbow to the noble Jian sword and shield and is a veteran of many battles.",1,,,hv_TEXT_unit_long_desc.loc.tsv
 "Even as the Han crumbles, embers of its glory remain. These warriors serve the prince of Chenliu, Liu Chong. Clad in gold-lacquered armor, they form a resplendiscent sight on the battlefield, reminding all that the fortunes of the Han have not yet faded while these men stand firm.\\n\\n These particular soldiers are armed with crossbows, allowing them to barrage the enemies of the Han relentlessly with volley after volley of armour-piercing bolts. Should the enemy cavalry think to charge, they are in for an unpleasant surprise: these warriors also wield spears and shields and will not hesitate to strike down any horseman who comes too close!",1,,,hv_TEXT_unit_long_desc.loc.tsv
 "Even in the elite Xiliang army, having a big sword can only bring advantages to a commander.",1,就算在精銳的西涼軍裏，一把大刀對於將領來説也頗有好處。,,hv_TEXT_unit_desc.loc.tsv
-Every person has their own path.,135,各行其道,,hv_TEXT_skills_additional.loc.tsv
+Every person has their own path.,135,,各行其道,hv_TEXT_skills_additional.loc.tsv
 "Every spring, characters gain additional experience.",1,每年春季，角色會獲得額外經驗。,,hv_TEXT_effects_building.loc.tsv
 Eviscerate,5,,剔骨,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Exemplar,4,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -553,23 +553,23 @@ Expertise,2,,專精,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Fa Zheng,1,,,hv_TEXT_cb_loadout.loc.tsv
 Faith makes a miracle.,1,信念可帶來奇跡。,,hv_TEXT_unit_abilities.loc.tsv
 Faith of the Messengers,3,使者信念,,hv_TEXT_unit_abilities.loc.tsv
-Fan the flames of war with inextinguishable anger.,3,以不滅的怒氣煽動戰火。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Fan the flames of war with inextinguishable anger.,3,,以不滅的怒氣煽動戰火。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Fanatics,1,狂信徒,,hv_TEXT_unit_text_replacements.loc.tsv
 Favourable Skies,4,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Fear of Gunpowder,3,懼怕火器,,hv_TEXT_unit_abilities_hit_effects.loc.tsv
-"Fearing retribution, enemies hesitate to fire upon a scion of the Han.",6,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"Fearing retribution, enemies hesitate to fire upon a scion of the Han.",6,,敵人亦不敢傷害漢室宗親。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Fearless Charge,3,無畏衝鋒,,hv_TEXT_unit_abilities.loc.tsv
 Fearsome Cavalry,1,駭人鐵騎,,hv_TEXT_events.loc.tsv
 Ferghana horses are bred to equip cavalry forces.,2,養育大宛馬來裝備騎兵部隊。,,hv_TEXT_pooled_resource.loc.tsv
 Ferocity,3,凶猛殘暴,,hv_TEXT_unit_abilities.loc.tsv
-Few can escape this warrior's pursuit.,2,很少有人能逃過這位勇士的追殺。,,hv_TEXT_skills_skill_ability__historical.loc.tsv
+Few can escape this warrior's pursuit.,2,,很少有人能逃過這位勇士的追殺。,hv_TEXT_skills_skill_ability__historical.loc.tsv
 Fighting revitalises them.,1,戰鬥使他們重煥活力。,,hv_TEXT_unit_abilities.loc.tsv
 Fire Archers: for recruitment: %+n,1,,,hv_TEXT_effects_unit_cap.loc.tsv
-Fire Bomb,3,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Fire Bomb,3,,火油彈,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Fire Control,11,,穿楊,hv_TEXT_skills_skill_ability__historical.loc.tsv
 Fire Fiends,1,火煞兵,,hv_TEXT_unit_text_replacements.loc.tsv
 Fire Resistance: %d%%||Damage of flaming attacks is reduced by this amount.,1,,,hv_TEXT_etc.loc.tsv
-Fire explosive bolts to demoralise hostile units.,1,扔擲爆裂彈來打擊敵軍士氣。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Fire explosive bolts to demoralise hostile units.,1,,扔擲爆裂彈來打擊敵軍士氣。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Fire whilst moving,1,,,hv_TEXT_unit_ui_bullet.loc.tsv
 First Characteristic,205,,特性一,hv_TEXT_skills_additional.loc.tsv
 Fists of the Bandit Queen,1,,,hv_TEXT_unit_text_replacements.loc.tsv
@@ -584,10 +584,10 @@ Flower of the Battlefield,8,,戰場之花,hv_TEXT_skills_skill_skill_name_desc.l
 Followers of the Flame: for recruitment: %+n,1,,,hv_TEXT_effects_unit_cap.loc.tsv
 "Following your recent success, the captain of the Northern Army has come to pledge his devotion to you. He brings with him the might of the professional soldiers he commands.",16,鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。,,hv_TEXT_events.loc.tsv
 "For farmers, they are higher than the emperor.",1,對佃戶來説，他們的地位比皇帝還高。,,z_dummy_hv_TEXT_non_deployable.loc.tsv
-Foresight,4,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Foresight,4,,縱觀全局,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Forest Strategy,3,,,hv_TEXT_unit_abilities.loc.tsv
 Forest Strider,3,,森林適性,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Form an air-tight defence.,3,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Form an air-tight defence.,3,,組成無隙可乘的防禦陣型。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Fortitude / Trophy Cabinet,1,堅韌度 / 戰利品櫃,,hv_TEXT_frontend_features.loc.tsv
 "Fortunately, nothing of note happened during the banquet.",1,幸運的是，宴會中沒發生什麼大事。 ,,ifo_text_TWEAK.loc.tsv
 Fortune is with them.,1,正是鴻運當頭之時。,,hv_TEXT_unit_abilities.loc.tsv
@@ -608,7 +608,7 @@ Garrison Reinforcement,1,駐軍補員,,hv_TEXT_skills_additional.loc.tsv
 Garrisoned armies will support the administration of the local county.,1,駐軍會協助縣內行政事宜。,,hv_TEXT_effects_pooled_resource.loc.tsv
 Gathering Volunteers,1,召集義勇,,hv_TEXT_skills_additional.loc.tsv
 Generations working the land will breed a kinship with it.,4,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
-Geographic Mastery,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Geographic Mastery,2,,地理專才,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Ghost of the woods,4,,林中之鬼,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Give a man a fish and you feed him for a day. Teach him to fish and you feed him for a lifetime.,1,,,hv_TEXT_skills_basic.loc.tsv
 Glaive & Bow Infantry (Buqu),5,,大刀步兵與弓兵（部曲）,hv_TEXT_unit_ui_group_t2.loc.tsv
@@ -666,8 +666,8 @@ He Yi,1,,,hv_TEXT_cb_loadout.loc.tsv
 He was also a bandit once.,1,平定江東之功臣。,,hv_TEXT_ceo_career.loc.tsv
 He was loved by everyone.,1,受众人喜爱。,,hv_TEXT_ceo_career.loc.tsv
 Heart Seeker,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Heavenly Grace,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Heavenly Presence,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Heavenly Grace,2,,天仙氣質,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Heavenly Presence,1,,天人親臨,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Heavily-armoured troops carrying iron bows that requires very strong tension. ,1,重裝部隊，携帶張力很强的鐵弓。,,hv_TEXT_unit_desc.loc.tsv
 Heavy Cavalry,2,,,hv_TEXT_unit_ground_type.loc.tsv
 Heavy Infantry,1,,,hv_TEXT_unit_ground_type.loc.tsv
@@ -688,7 +688,7 @@ Hidden Spear Assaults,1,隱槍突擊兵,,hv_TEXT_unit_text_replacements.loc.tsv
 "High Hit Rate, Average Armour-Piercing Damage",29,命中率高，穿甲傷害一般,,hv_TEXT_unit_ui_group_t1.loc.tsv
 "High Hit Rate, High Armour-Piercing Damage",13,命中率高，穿甲傷害高,,hv_TEXT_unit_ui_group_t1.loc.tsv
 Hire the Sogdian mercenaries,1,雇傭粟特傭兵,,hv_TEXT_events.loc.tsv
-His relentless attack makes foes cower before him!,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+His relentless attack makes foes cower before him!,1,,他無止息的瘋狂攻勢令敵人心驚膽寒！,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 His spirit is like a tiger. It takes great courage to face him.,3,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Hit Bonus,1,命中率加成,,hv_TEXT_etc.loc.tsv
 Hollowed Square (Ranged),3,中空方陣（遠程）,,hv_TEXT_unit_abilities.loc.tsv
@@ -717,7 +717,7 @@ Huang Shao,1,,,hv_TEXT_cb_loadout.loc.tsv
 Huang Zhong,1,,,hv_TEXT_cb_loadout.loc.tsv
 Huanglao's Paragons,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Hunting Area,3,狩獵區,,hv_TEXT_building.loc.tsv
-Hurl a bundle of explosive fire bombs to knock down the enemy.,3,扔擲爆裂火油彈來擊倒敵人。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Hurl a bundle of explosive fire bombs to knock down the enemy.,3,,扔擲爆裂火油彈來擊倒敵人。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 I have no choice but to pretend that I am a warrior who knows no fear.,1,我别无选择，只能假装自己是一個無畏战士,,hv_TEXT_unit_abilities.loc.tsv
 "If only strength can rule, then strength must be displayed often and in great abundance. And it must be used to make an example of fools who would believe otherwise. \\n\\n Trained in the Xiliang style of warfare, these disciplined warriors form the backbone of the ironfisted rule that Dong Zhuo and Lu Bu impose upon the Han. Skilled with both the bow and the sword, they habitually patrol the streets to put down any unrest. ",1,,,hv_TEXT_unit_long_desc.loc.tsv
 "If only strength can rule, then strength must be displayed often and in great abundance. And it must be used to make example of fools who would believe otherwise. \\n\\n Trained in the Xiliang style of warfare, these disciplined warriors form the backbone of the ironfisted rule that Dong Zhuo and Lu Bu impose upon the Han. Atop their steeds, they patrol the countryside, putting down any opposition with bow and sword. ",1,,,hv_TEXT_unit_long_desc.loc.tsv
@@ -727,7 +727,7 @@ If you can conquer the mind of the enemy then half the battle is won.,2,,,hv_TEX
 Ignore,2,,,ifo_text_TWEAK.loc.tsv
 Ignore them,1,,,hv_TEXT_events.loc.tsv
 Immature but passionate.,1,不經世故但鬥志昂揚。,,hv_TEXT_unit_abilities.loc.tsv
-Impenetrable Redoubt,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Impenetrable Redoubt,2,,堅韌堡壘,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Imperial Favour,10,,,hv_TEXT_effects_pooled_resource.loc.tsv
 Imperial Favour: A Gift from the Emperor,1,,,ifo_text_TWEAK.loc.tsv
 Imperial Favour: Ancestral Rite,1,皇帝寵信：祭祀儀式 ,,ifo_text_TWEAK.loc.tsv
@@ -778,14 +778,14 @@ Is heaven helping him?,1,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 It causes fear.,1,引發恐慌。,,hv_TEXT_unit_abilities_hit_effects.loc.tsv
 "It is a central tenet of Taoism that the land must be revered and nurtured; it, in turn, will return to us its bounties. Those chosen warriors who receive of nature's boons must use its gifts to pursue those who have contributed to the corruption and destruction plaguing the land. \\n\\n From the boughs of the trees, arrows and crossbows are fashioned and handled by warriors who wield them with greater expertise than most of their contemporaries.",1,,,hv_TEXT_unit_desc.loc.tsv
 "It is not always the command that motivates, but the way it is given.",2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-It is the bear's teeth that the salmon faces at the end of the falls.,4,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+It is the bear's teeth that the salmon faces at the end of the falls.,4,,鮭魚游至瀑底，等待的卻是熊的牙齒。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 It must be bullshit.,1,無稽之談。,,hv_TEXT_events.loc.tsv
 It seems you've offended the imperial court...,2,看來你得罪了朝廷…… ,,ifo_text_TWEAK.loc.tsv
 It will be different this time. Obviously...,2,,,hv_TEXT_effects_pooled_resource.loc.tsv
 It's best to ignore these annoying preachers.,1,不應理睬這些煩人的佈道僧侶。,,hv_TEXT_events.loc.tsv
 It's getting harder to find anyone who isn't a Black Mountain bandit.,1,四海之内，莫非黑山。,,hv_TEXT_effects_pooled_resource.loc.tsv
 "It's hard to believe, but it might be worth investigating personally.",1,難以置信，但不妨親自調查一番。,,hv_TEXT_events.loc.tsv
-It's not a good place for a beautiful woman to stay.,6,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+It's not a good place for a beautiful woman to stay.,6,,此處不宜美人久留。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Jade Dragons,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Jaizi Raiders,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Javelin Throwers (Buqu),4,,擲鋋兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
@@ -822,7 +822,7 @@ Jingchu troop tally can be earned when occupied,1,占據時可獲得荊楚虎符
 Jiuzhen Javelineers,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Jiuzhen Raiders,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Joint Shot,3,,,hv_TEXT_unit_abilities.loc.tsv
-Judgement,4,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Judgement,4,,明察秋毫,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Juggernaut,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Juggernaut (Buqu),1,,火獸車（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
 Juggernaut (Elite),1,,火獸車（精銳）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
@@ -946,7 +946,7 @@ Mercenary Cavalry,1,,僱傭騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 Messengers of Heaven,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Mettlesome Advance,6,,突飛猛進,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Might of the Valley: for recruitment: %+n,1,,,hv_TEXT_effects_unit_cap.loc.tsv
-Mighty Thrust,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Mighty Thrust,1,,強勁衝鋒,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "Mighty, gnarled monoliths, the imposing peaks of China's south stand like sentinels against the unrelenting waters beyond. Amongst these hills and peaks, the Yue tribes eke out their continued existence; brought low from the once-proud past, they stand now against the threat of Han invasion from the north. Although they wield sword and shield, they are nothing like the professional warriors coming to face them. \\n\\n Yet, united behind one who purports to fight for their ideals, the Yue are able to summon themselves into something resembling their own strength – their legacy demands it!",1,,,hv_TEXT_unit_long_desc.loc.tsv
 Military Control,1,,,hv_TEXT_effects_pooled_resource.loc.tsv
 Military Talent,6,軍事才能,,hv_TEXT_events.loc.tsv
@@ -966,11 +966,11 @@ Mobile Cavalry Formation,2,,,hv_TEXT_unit_abilities.loc.tsv
 Mobile Formation,1,,,hv_TEXT_unit_abilities.loc.tsv
 Mobile Infantry Formation,2,,,hv_TEXT_unit_abilities.loc.tsv
 Mobilisation,1,,動員,hv_TEXT_skills_basic.loc.tsv
-Mock,3,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Mock,3,,嘲諷,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Moment of Courage,3,一時之勇,,hv_TEXT_unit_abilities.loc.tsv
 Morale Shock Projectile,9,箭矢打擊士氣,,hv_TEXT_unit_ui_group_t1.loc.tsv
 Mortal Strike,6,,致命一擊,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Motivating men to fight is the essense of leadership.,1,激發鬥志乃是領軍的精髓。,,hv_TEXT_skills_basic.loc.tsv
+Motivating men to fight is the essense of leadership.,1,,,hv_TEXT_skills_basic.loc.tsv
 Mountains,5,,山陣,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "Move swift as the Wind and closely-formed as the Wood. Attack like the Fire and be still as the Mountain. \\n\\n These elite soldiers hail from Danyang province and are rapidly gaining renown with commanders in the crumbling Han empire. Armed with a glaive and heavy armor, they have gathered a reputation assaulting enemy strongpoints succesfully and routing their defenders. \\n\\n Already, enemies have learned to fear their expertise, as well as the gunpowder bombs they carry with them. When the Blue Turbans have been spotted on the field, the foe knows their days are numbered.",1,,,hv_TEXT_unit_long_desc.loc.tsv
 Mud,1,,,!hv_TEXT_system.loc.tsv
@@ -987,11 +987,11 @@ Nature itself provides a shield for its warriors.,1,,,hv_TEXT_skills_skill_skill
 Nature must be preserved and the world saved. These warriors will see it done.,1,,,hv_TEXT_unit_desc.loc.tsv
 Nature's Ally,11,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
 No horseman shall pass these spearmen from the famed Xiliang army.,1,沒有任何騎兵能衝破赫赫有名的西涼軍槍陣。,,hv_TEXT_unit_desc.loc.tsv
-No one dares to challenge this warrior's skill with the blade.,3,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-No one is faster than this one.,2,無人能快過飛燕的速度。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+No one dares to challenge this warrior's skill with the blade.,3,,此人武功蓋世，無能出其右者。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+No one is faster than this one.,2,,飛燕之快，無人能及。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 No one wants troublemakers.,4,莫要惹是生非。,,hv_TEXT_events.loc.tsv
 "No one welcomes them, and everyone cast doubt to your decision.",1,,,hv_TEXT_effects_events.loc.tsv
-Nobility,1,,,hv_TEXT_skills_basic.loc.tsv
+Nobility,1,,龍髓,hv_TEXT_skills_basic.loc.tsv
 Nomad,3,,,hv_TEXT_building.loc.tsv
 Nomad Gang,1,游牧馬賊,,hv_TEXT_unit_text_replacements.loc.tsv
 None of the other warlords in China are as noble or accomplished as you are. Bring order to chaos and officers who were once loyal to the Han Dynasty will flock to your banner. Defeat your rivals and accumulate wealth to expand your power.,1,,,hv_TEXT_events.loc.tsv
@@ -1025,8 +1025,8 @@ One with the People,8,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
 Only through sober and considered analysis can fragility be turned to unerring strength.,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Onslaught,3,猛攻,,hv_TEXT_unit_abilities.loc.tsv
 Onyx Dragons,1,,,hv_TEXT_unit_text_replacements.loc.tsv
-Organise your troops into a solid wall to deter horses. It's a simple but effective tactic.,9,將士兵組成人墻來抵禦馬匹。此戰術簡單有效。,,hv_TEXT_skills_skill_ability__historical.loc.tsv
-Organised volleys prove more effective.,7,依序射擊更為有效。,,hv_TEXT_skills_skill_ability__historical.loc.tsv
+Organise your troops into a solid wall to deter horses. It's a simple but effective tactic.,9,,將士兵組成人墻來抵禦馬匹。此戰術簡單有效。,hv_TEXT_skills_skill_ability__historical.loc.tsv
+Organised volleys prove more effective.,7,,依序射擊更為有效。,hv_TEXT_skills_skill_ability__historical.loc.tsv
 Other ethnic groups influence,1,,,hv_TEXT_effects_building.loc.tsv
 Outlaws of Black Mountain,1,黑山匪徒,,hv_TEXT_unit_text_replacements.loc.tsv
 Overfight,3,,,hv_TEXT_unit_abilities.loc.tsv
@@ -1052,7 +1052,7 @@ Perhaps you can bring them into your fold...,1,或許可以招攬……,,hv_TEXT
 Pike Wall - Ji Guards of the Eight Talents,3,八才戟衛戟墻,,hv_TEXT_unit_abilities.loc.tsv
 Pike Wall - White Feathers,3,白毦兵戟墻,,hv_TEXT_unit_abilities.loc.tsv
 Poachers,1,,,hv_TEXT_unit_text_replacements.loc.tsv
-Poets will sing about today.,2,詩人會爲此日做歌。,,hv_TEXT_skills_skill_ability_wu_brave.loc.tsv
+Poets will sing about today.,2,,,hv_TEXT_skills_skill_ability_wu_brave.loc.tsv
 Poison!,3,,,hv_TEXT_unit_abilities_hit_effects.loc.tsv
 Poison! Poison!,1,,,hv_TEXT_unit_abilities_hit_effects.loc.tsv
 Poison-wind,6,,毒風,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -1070,8 +1070,8 @@ Powerful toxins spread and paralyze the body.,1,,,hv_TEXT_unit_abilities_hit_eff
 Powerful white tigers are with us. ,1,强大的白虎與我們同在。,,hv_TEXT_effects_events.loc.tsv
 Preach,4,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Prevention,1,,預防,z_dummy_hv_TEXT_non_deployable.loc.tsv
-Prevention is better than cure.,1,防患於未然。,,z_dummy_hv_TEXT_non_deployable.loc.tsv
-Pride and confidence go hand in hand.,3,傲慢即信心所在。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Prevention is better than cure.,1,,,z_dummy_hv_TEXT_non_deployable.loc.tsv
+Pride and confidence go hand in hand.,3,,傲慢即信心所在。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Prisoner Negotiation,1,贖回文姬,,hv_TEXT_events.loc.tsv
 Promptly and Accurately,1,,,hv_TEXT_unit_abilities.loc.tsv
 Proof that the bearer has the authority to command Danyang troops.,1,,此令牌可指揮丹陽單位。,hv_TEXT_effects_ceo.loc.tsv
@@ -1099,20 +1099,20 @@ Qingzhou Long Axe Infantry,1,,青州長斧步兵,hv_TEXT_unit_text_replacements.
 Qingzhou Raider Cavalry,1,,青州突襲騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 Qingzhou Troops,1,青州軍,,hv_TEXT_events.loc.tsv
 Qu Gong,1,瞿恭,,hv_TEXT_cb_loadout.loc.tsv
-Quickfire,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Quickfire,1,,連珠砲,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Rage of Black Mountain,3,黑山之怒,,hv_TEXT_unit_abilities.loc.tsv
 Rage of Lü Bu,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Raining arrows.,1,,,hv_TEXT_unit_abilities.loc.tsv
 "Raining death from afar, the archers of Jingchu have learned well the advantage that the bow brings in hilly terrain.",1,荊楚弓手早已領悟到了弓箭在丘陵地帶的優勢。 ,,hv_TEXT_unit_desc.loc.tsv
 Raise your reputation! ,1,您需要提高您的聲望！,,hv_TEXT_events.loc.tsv
-Rally the Troops,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Rally the Troops,1,,集結兵馬,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Rampage,1,,,hv_TEXT_unit_ui_bullet.loc.tsv
 Rapid Fire,1,速射,,hv_TEXT_etc.loc.tsv
 Rapid Tiger Infantry,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Ravine Warriors: for recruitment: %+n,1,,,hv_TEXT_effects_unit_cap.loc.tsv
 Reach,1,,,hv_TEXT_skills_basic.loc.tsv
 Ready to colour the world once again.,1,,,hv_TEXT_effects_pooled_resource.loc.tsv
-Reassuring words prevent soldiers from wavering on a chaotic battlefield.,5,安慰之言以防士卒于乱战中摇摆不定。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Reassuring words prevent soldiers from wavering on a chaotic battlefield.,5,,安慰之言以防士卒于乱战中摇摆不定。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "Recalling their training, these generals reload with startling quickness.",2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Reckless Strike,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Reclaimers,1,,,hv_TEXT_unit_text_replacements.loc.tsv
@@ -1168,7 +1168,7 @@ Second Wind,3,重振旗鼓,,hv_TEXT_unit_abilities.loc.tsv
 Sell Horses,1,賣馬,,hv_TEXT_pooled_resource.loc.tsv
 Send civil officials,1,派文官前去 ,,ifo_text_TWEAK.loc.tsv
 Send military officers,1,派武官前去 ,,ifo_text_TWEAK.loc.tsv
-Send your warriors into the thick of battle and watch as they fight even more fiercely.,3,将你的勇士们送入战场，看着他们更加激烈的战斗。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Send your warriors into the thick of battle and watch as they fight even more fiercely.,3,,将你的勇士们送入战场，看着他们更加激烈的战斗。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Set your heart ablaze!,1,將你的心點燃！,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 Shanyue Javelineer,1,,山越擲鋋兵,hv_TEXT_unit_text_replacements.loc.tsv
 Shanyue Tribal Herd,1,,,hv_TEXT_building.loc.tsv
@@ -1189,7 +1189,7 @@ Shoot some crossbow-bombs for reducing morale of hostile units.,1,射出一些�
 "Short Range, Powerful Flame Damage, Average Reload",3,近距，火焰傷害強，射擊速率一般,,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 Shots from the White Horse Fellows give their enemies pause.,1,,,hv_TEXT_unit_abilities_hit_effects.loc.tsv
 "Should this blow strike true, the battle is done. Should it not, then… it may still also be done.",2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Show of Force,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Show of Force,1,,揚威挫銳,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Siege Attacker,1,,,hv_TEXT_unit_ui_bullet.loc.tsv
 Sight of the Dragon,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Sima Yi,1,,,hv_TEXT_cb_loadout.loc.tsv
@@ -1215,11 +1215,11 @@ Sogdian Merchants,1,粟特商人,,hv_TEXT_events.loc.tsv
 Sogdian Officer,2,粟特士官,,hv_TEXT_effects_ceo.loc.tsv
 Sogdians from the west has been spotted entering our borders. We will be able to purchase fine goods or hire Sogd mercenaries soon.,1,自西域而來的粟特商人出現在我方境内。我們很快就能買到精美商品，或者雇傭粟特傭兵。,,hv_TEXT_events.loc.tsv
 Sogidan Merchants Approach,1,粟特商人來訪,,hv_TEXT_events.loc.tsv
-Soldiers gather under the banner of this hero.,9,军士聚于此英雄之旗下。,,hv_TEXT_skills_skill_ability__historical.loc.tsv
+Soldiers gather under the banner of this hero.,9,,军士聚于此英雄之旗下。,hv_TEXT_skills_skill_ability__historical.loc.tsv
 Solidarity,3,,,hv_TEXT_unit_abilities.loc.tsv
 Some care not for their own personal safety and so work themselves into a whirlwind of destruction and mindless violence!,1,,,hv_TEXT_unit_abilities.loc.tsv
-Someone has to take the first step even if no one wants it.,3,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Someone who stands out among the people.,205,超凡脫俗,,hv_TEXT_skills_additional.loc.tsv
+Someone has to take the first step even if no one wants it.,3,,遭擾攘之時，值兵革之際。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Someone who stands out among the people.,205,,超凡脫俗,hv_TEXT_skills_additional.loc.tsv
 "Sometimes it's not what you hit or how hard, but where.",2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "Sometimes, just sometimes, power fails to corrupt, and instead leads to altruism and charity.",1,,,hv_TEXT_ceo_career.loc.tsv
 Southern Foreign Rangers,1,,南方外族游擊兵,hv_TEXT_unit_text_replacements.loc.tsv
@@ -1239,14 +1239,14 @@ Stability,1,,,hv_TEXT_skills_basic.loc.tsv
 Staff Infantry (Buqu),3,,持杖步兵（部曲）,hv_TEXT_unit_ui_group_t2.loc.tsv
 Staff Infantry (Elite),3,,持杖步兵（精銳）,hv_TEXT_unit_ui_group_t3.loc.tsv
 Staff Infantry (Militia),4,,持杖步兵（義勇）,hv_TEXT_unit_ui_group_t1.loc.tsv
-Stalwart Defender,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Stalwart Defender,2,,步步為營,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Stalwart Shields,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 "Stalwart as the hills they were raised in, these Chu spearmen are an asset to any warlord.",1,這些楚國的矛兵與山丘一樣堅韌，對任何一個軍閥來說都是一筆財富。 ,,hv_TEXT_unit_desc.loc.tsv
 Static Infantry Formation,9,,,!hv_TEXT_system.loc.tsv
 Stength of the Land,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Steppe horse archers are in high demand by many warlords. But sometimes they make a better profit by working for themselves.,1,很多軍閥都想要有草原騎射手。但與其為人效命，有時候不如自己單幹。 ,,hv_TEXT_unit_desc.loc.tsv
 Stockpile Storage ,1,儲備站,,hv_TEXT_building.loc.tsv
-Stone Bulwark,10,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
+Stone Bulwark,10,,堅若磐石,hv_TEXT_skills_skill_ability__historical.loc.tsv
 "Stop the horse, pull the rider down, and kill without mercy.",1,,,hv_TEXT_unit_abilities.loc.tsv
 Stratocracy,1,軍政,,hv_TEXT_pooled_resource.loc.tsv
 Stratocracy / Military Government,1,軍政 / 軍事政府,,hv_TEXT_frontend_features.loc.tsv
@@ -1273,7 +1273,7 @@ Support them,1,支持他們,,hv_TEXT_events.loc.tsv
 Surplus Markets,1,,,hv_TEXT_skills_additional.loc.tsv
 Survival Instinct ,1,生存本能,,hv_TEXT_region_army.loc.tsv
 Swallow,4,,燕翔,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Sweeping Arc,5,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Sweeping Arc,5,,橫掃千軍,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Swift Fingers,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Swift Steps,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Sword Cavalry (Buqu),8,,持劍騎兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
@@ -1369,8 +1369,8 @@ The house of Dong is destroyed.,1,,,hv_TEXT_events.loc.tsv
 The industrious need no orders to galvanise them into action.,1,,,hv_TEXT_skills_basic.loc.tsv
 "The jian is a straight, double-edged sword known as the 'Gentleman of Weapons', and considered to be one of the four major weapons alongside the gun, dao and qiang. It takes a year of training before one is considered competent enough to use it, and so only the most skilled swordsmen are equipped with it. \\n\\n The role of the Elite Swordsmen is to hold the line against enemy attacks, and their swordsmanship, heavy armour and gourd shields enable them to do this long after others have fallen to exhaustion.",1,,,hv_TEXT_unit_long_desc.loc.tsv
 "The land is not just the earth, but the forests and mountains, and all the hidden, ancient places.",2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-The light that burns twice as bright burns half as long.,3,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-"The longer this warrior fights, the greater and more inspiring they becomes!",1,此人會隨著戰鬥時間拉長而越戰越勇，激勵士氣的效果也隨之增強！,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+The light that burns twice as bright burns half as long.,3,,火勢越猛，持燒之時越短。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"The longer this warrior fights, the greater and more inspiring they becomes!",1,,此人會隨著戰鬥時間拉長而越戰越勇，激勵士氣的效果也隨之增強！,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "The longer this warrior fights, the stronger they become!",4,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
 The markets have been thrown into chaos as townsfolk and merchants scramble to adopt the new currency.,3,由於鎮民和商人正向采用新貨幣，市場已陷入混亂。,,hv_TEXT_effects_technology.loc.tsv
 "The more he is opposed, the stronger Lü Bu becomes!",1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -1405,7 +1405,7 @@ The unit presents a wall of shields to the enemy - an offensive formation best u
 The unit presents a wall of spear-points to the enemy - a strong formation that allows the unit to advance slowly but safely whilst defending against charges.,2,,,hv_TEXT_unit_abilities.loc.tsv
 "The unit splits into missiles at the back, in rows, with melee in front protecting them.",1,,,hv_TEXT_unit_abilities.loc.tsv
 "The unit spreads apart, making it more difficult for arrows to hit them.",3,,,hv_TEXT_unit_abilities.loc.tsv
-"The warrior flies into a rage, embodying the mighty Xiezhi, a mythical creature of great power.  ",2,勇士大發雷霆，猶如神話中強大神獸獬豸的體現。  ,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"The warrior flies into a rage, embodying the mighty Xiezhi, a mythical creature of great power.  ",2,,勇士大發雷霆，猶如神話中強大神獸獬豸的體現。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 The wave of the blade push the enemy away.,1,一道道刀浪將敵人推走。,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 The weight on the shoulders,2,,身負重擔,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "The yellow turban warband is crushed. Hailing from Qingzhou, the survivors offer their servitude. Cao Cao gathers them under his banner and dubs them Qingzhou Troops.",1,黃巾匪徒已被擊潰。青州生還者們願意報德。曹操將之收於旗下，名爲青州軍。,,hv_TEXT_events.loc.tsv
@@ -1421,7 +1421,7 @@ There is nothing to fear because the heaven is watching.,1,上天保佑，無可
 There's a sufficient number of horses.,1,有足夠多的馬匹。,,hv_TEXT_effects_pooled_resource.loc.tsv
 There's insufficient horses!,1,馬匹數量不足！,,hv_TEXT_effects_pooled_resource.loc.tsv
 There's no shortage of good horses.,1,不缺好马。,,hv_TEXT_effects_pooled_resource.loc.tsv
-There's something about this strike that just feels off.,3,這種攻擊讓人覺得不太對勁。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+There's something about this strike that just feels off.,3,,這種攻擊似乎陰險歹毒。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 These Buddhists are welcome here.,1,歡迎這些僧侶。,,hv_TEXT_events.loc.tsv
 These are the crossbowmen who shoot while hiding with shields.,1,,,hv_TEXT_unit_desc.loc.tsv
 "These concerned citizens call themselves the Bringers of Righteousness and have used their wealth to purchase their own armour and weapons. Each has undertaken extensive training to become proficient using polearms and learned how to use a bow through traditional archery competitions. \\n\\n Though they wear expensive tunics, their commitment is not mere vainglory; their not-inconsiderable skill with the bow and polearm make them extremely useful due to their flexibility, and therefore welcomed to join the fight for the Great Peace.",1,,,hv_TEXT_unit_desc.loc.tsv
@@ -1449,25 +1449,25 @@ This authorisation tally is tradeable in diplomacy!,1,此兵符可在外交中�
 "This city is a populous hive of activity, a centre of commerce and culture in which the lowest of commoners coexists with the mightiest of nobles.",6,,,hv_TEXT_effects_pooled_resource.loc.tsv
 "This city is bustling with activity, its diverse population living their lives and plying their trades day-to-day.",6,,,hv_TEXT_effects_pooled_resource.loc.tsv
 This general directs and empowers his forces from a… safer distance.,3,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-"This general is as an immovable wall, inspiring his men to stand firm against much greater odds.",3,此將有如一堵難以撼動的牆，激勵麾下兵士堅守陣線排除萬難。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-"This general rallies the troops to greater feats, inspiring them to make one final effort.",2,此將召集兵士奮勇作戰，鼓勵他們作最後一搏。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"This general is as an immovable wall, inspiring his men to stand firm against much greater odds.",3,,此將有如一堵難以撼動的牆，激勵麾下兵士堅守陣線排除萬難。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"This general rallies the troops to greater feats, inspiring them to make one final effort.",2,,此將召集兵士奮勇作戰，鼓勵他們作最後一搏。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "This general's orders are absolute and cannot be refused, no matter how unreasonable they may be.",2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-"This hero accosts the enemy hero, shaking them to the core.",4,此英雄向敵將大膽喊話，令對方心神動搖。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-This hero believes you can only kill that which you can catch.,8,此人相信，要將敵人除之而後快，就必須先追得上敵人。,,hv_TEXT_skills_skill_ability__historical.loc.tsv
+"This hero accosts the enemy hero, shaking them to the core.",4,,此英雄向敵將大膽喊話，令對方心神動搖。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+This hero believes you can only kill that which you can catch.,8,,此人相信，要將敵人除之而後快，就必須先追得上敵人。,hv_TEXT_skills_skill_ability__historical.loc.tsv
 This hero gets a bonus in duels. ,1,此英雄在單挑中有加成。,,hv_TEXT_skills_additional.loc.tsv
 This hero gets a great bonus in duels. ,1,此英雄在單挑中有强大加成。,,hv_TEXT_skills_additional.loc.tsv
 This infantry gathers equipment dropped or left behind in battle to help their brothers and sisters continue the fight.,1,,,hv_TEXT_unit_desc.loc.tsv
 This is how animals fight.,1,,,hv_TEXT_unit_abilities.loc.tsv
 "This is our land, our home, our history. You cannot have it!",1,,,hv_TEXT_building.loc.tsv
 This is path of militarism.,1,以軍治國，軍國一體。,,hv_TEXT_effects_pooled_resource.loc.tsv
-This is the basic way to correct corruption.,1,清除腐敗以此爲本。,,z_dummy_hv_TEXT_non_deployable.loc.tsv
+This is the basic way to correct corruption.,1,,清除腐敗以此爲本。,z_dummy_hv_TEXT_non_deployable.loc.tsv
 This legendary presence gives enemies pause.,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-"This man can see all that was, and all that will be.",2,此人能明鑑古今，洞察未來。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-"This man has a great understanding of geography, and can bend it to their own use.",3,此人熟悉地理知識，能夠善加利用。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-This man has learnt to overcome defeat.,3,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-This man knows how to frighten enemies in the woods.,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"This man can see all that was, and all that will be.",2,,此人能明鑑古今，洞察未來。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"This man has a great understanding of geography, and can bend it to their own use.",3,,此人熟悉地理知識，能夠善加利用。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+This man has learnt to overcome defeat.,3,,屢敗屢戰，無所畏懼。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+This man knows how to frighten enemies in the woods.,1,,神鬼莫測於樹林間震攝敵軍。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "This metropolis is marvellous to behold, a dense and vibrant collection of interesting people and wondrous places.",6,,,hv_TEXT_effects_pooled_resource.loc.tsv
-"This shooter fires and fires, faster and faster, never relenting.",2,此弓手不斷引弓放箭，越放越快，毫不留手。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"This shooter fires and fires, faster and faster, never relenting.",2,,nan,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 This town hums with an energy befitting a small yet well-established settlement.,6,,,hv_TEXT_effects_pooled_resource.loc.tsv
 "This town is busy with the comings and goings of merchants, artisans and nobles alike.",6,,,hv_TEXT_effects_pooled_resource.loc.tsv
 "This unit can attack city gates, allowing you to instantly launch a siege battle without having to wait for towers or battering rams to be built.",1,,,hv_TEXT_unit_ui_bullet.loc.tsv
@@ -1485,12 +1485,12 @@ This unit's arrows spew clouds of deadly gas on impact.,1,,,hv_TEXT_unit_ui_bull
 This unit's weapon allows it to pierce even the strongest enemy armour.,1,此單位的武器可以穿透最强的護甲。,,hv_TEXT_unit_ui_bullet.loc.tsv
 This village is a meagre yet promising community of commoners and artisans.,6,,,hv_TEXT_effects_pooled_resource.loc.tsv
 This village is but a scattered collection of country homes and hovels.,6,,,hv_TEXT_effects_pooled_resource.loc.tsv
-This warrior fights with a fatal rage - an erratic fury!,1,此勇士挾滔天怒火奮戰，攻勢狂暴猛烈！,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+This warrior fights with a fatal rage - an erratic fury!,1,,此勇士挾滔天怒火奮戰，攻勢狂暴猛烈！,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 This warrior has an uncanny ability to unnerve enemies in wooded terrain.,1,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
-"This warrior's presence on the battlefield can give hope to his men, even in the most dire of situations.",2,縱使情勢極為嚴峻，此人現身戰場上仍能為麾下兵士帶來希望。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"This warrior's presence on the battlefield can give hope to his men, even in the most dire of situations.",2,,縱使情勢極為嚴峻，此人現身戰場上仍能為麾下兵士帶來希望。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 This {{tr:map_region}} is occupied by scattered barbarians. Develop this settlement to start exploiting its resources.,1,,,hv_TEXT_effects_building.loc.tsv
 Those who intervene instead of the lord.,1,這些人代替主公處理事務。,,z_dummy_hv_TEXT_non_deployable.loc.tsv
-Those who toil the land require more utilitarian approaches.,1,耕田的人需要的是更為務實的做法。,,z_dummy_hv_TEXT_non_deployable.loc.tsv
+Those who toil the land require more utilitarian approaches.,1,,耕田的人需要的是更為務實的做法。,z_dummy_hv_TEXT_non_deployable.loc.tsv
 "Though you started with little, you will end with much.",1,起家微薄亦可立業有成。,,hv_TEXT_effects_pooled_resource.loc.tsv
 Thousands of comrades across China will rise against oppression.,1,,,hv_TEXT_events.loc.tsv
 Throw a sticky pot of oil onto the enemy.,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -1584,13 +1584,13 @@ Unlocks unit: {{tr:hv_unit_xiliang_elite_enforcers}},2,,解鎖單位：{{tr:hv_u
 Unlocks unit: {{tr:hv_unit_yuan_ji_guards}},2,,解鎖單位：{{tr:hv_unit_yuan_ji_guards}},hv_TEXT_skills_additional.loc.tsv
 Unlocks unit: {{tr:hv_unit_yuan_sword_infantry}},2,,解鎖單位：{{tr:hv_unit_yuan_sword_infantry}},hv_TEXT_skills_additional.loc.tsv
 Unstable Han dynasty,1,漢室式微,,hv_TEXT_effect_faction.loc.tsv
-Unstoppable,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Unstoppable,1,,無人可擋,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Unyielding Earth,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Upon nearby enemy unit routing nearby own units recieve a morale buff.,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Using Furious Beast,13,使用怒獸,,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 "Using Various Weapons, Multi-Role",49,使用多種武器，多重角色,,hv_TEXT_unit_ui_group_t1.loc.tsv
-"Using her graceful beauty, she stuns all those around her.",1,她運用美色，迷得周圍所有人動彈不得。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Veil of Darkness,4,,莫測,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"Using her graceful beauty, she stuns all those around her.",1,,她運用美色，迷得周圍所有人動彈不得。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Veil of Darkness,4,,黑暗之幕,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Venerable Wu,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Vengeance,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "Very High Hit Rate, Very Low Damage",10,命中率非常高，傷害非常低,,hv_TEXT_unit_ui_group_t1.loc.tsv
@@ -1629,7 +1629,7 @@ Wen Chou,1,文醜,,hv_TEXT_cb_loadout.loc.tsv
 "What kind of men are these, who are not soldiers, yet wear elite armour? Bloody men, who have earned their weaponry through victory and pillaging.",1,這些人并非軍士，卻穿著精良的鎧甲。他們的裝備來自於血腥的勝利和洗劫。,,hv_TEXT_unit_desc.loc.tsv
 "What you do not wish upon yourself, extend not to others.",1,,,hv_TEXT_skills_basic.loc.tsv
 "When fighting against or duelling other heroes on the battlefield, they will find their skill and prowess much improved.",1,,,hv_TEXT_unit_abilities.loc.tsv
-"When the victim was aware of what had happened, it must have already been a serious situation.",3,等到被害者明白過來，就已爲時已晚。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"When the victim was aware of what had happened, it must have already been a serious situation.",3,,等到被害者明白過來，就已爲時已晚。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "When they face Xianchenying, they lose confidence.",1,,,hv_TEXT_unit_abilities.loc.tsv
 "When unequipped, the upkeep cost of the units unlocked by this follower will increase.",1,未裝備時，該隨從解鎖的單位的維護費用會增加。,,hv_TEXT_effects_ceo.loc.tsv
 "When weakest, Dian Wei unleashes his true power!",1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -1645,7 +1645,7 @@ White Feathers,1,白毦兵,,hv_TEXT_unit_text_replacements.loc.tsv
 White Horse Fellows,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 White Horse Fellows Officer,1,白馬義從士官,,hv_TEXT_effects_ceo.loc.tsv
 White Horse Fellows Shot,3,,,hv_TEXT_unit_abilities_hit_effects.loc.tsv
-White Tiger,5,,白虎,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+White Tiger,5,,白虎之威,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 White Tiger Guardsmen,1,,白虎衛兵,hv_TEXT_unit_text_replacements.loc.tsv
 White Tiger Raiders,1,,白虎劫匪,hv_TEXT_unit_text_replacements.loc.tsv
 White Tiger Slingers,1,,,hv_TEXT_unit_text_replacements.loc.tsv
@@ -1663,13 +1663,13 @@ Wisdom of the Waterfall,6,,飛泉之智,hv_TEXT_skills_skill_skill_name_desc.loc
 "With Hand-ji and shield, these Xiliang warriors will bring death to the enemy.",1,佩戴盾與手戟，這些西涼勇士為敵人帶來殺身之禍。,,hv_TEXT_unit_desc.loc.tsv
 "With a mighty cleave, Zhang Fei rends his foes' defences.",1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "With a mighty sweep, Lü Bu strikes all around him.",1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-"With a shout, this man spurs on their horse. The warrior can plough into enemies with such force that scores of men go flying.",2,此人高呼一聲，策馬飛奔。他衝入敵陣的勁道之強，足以將大批士兵一舉震飛。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"With a shout, this man spurs on their horse. The warrior can plough into enemies with such force that scores of men go flying.",2,,此人高呼一聲，策馬飛奔。他衝入敵陣的勁道之強，足以將大批士兵一舉震飛。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "With a single blow, Guan Yu rends his enemy asunder!",1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-"With a single shot, The shooter brings death.",2,此射手只消一擊便能取人性命。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"With a single shot, The shooter brings death.",2,,此射手只消一擊便能取人性命。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "With calm, steely resolve, attacks are better deflected.",2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "With club in hand, the desperate shall make a fortune and name for themselves, or die trying.",1,,,hv_TEXT_unit_desc.loc.tsv
 With each volley their shots become ever more powerful and accurate.,1,,,hv_TEXT_unit_abilities.loc.tsv
-"With her graceful beauty, she stuns all around her.",1,她運用美色，迷得周圍所有人動彈不得。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"With her graceful beauty, she stuns all around her.",1,,她運用美色，迷得周圍所有人動彈不得。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "With no knowledge of what cannot be done, you will accomplish great things.",1,,,hv_TEXT_skills_basic.loc.tsv
 "With skin of earth, arrows rebound, harmless.",6,,皮若堅石，箭矢觸及皆反彈無傷。,hv_TEXT_skills_skill_ability__historical.loc.tsv
 "With sword and shield, these Xiliang horsemen will strike fear into the foe.",1,佩戴劍盾，這些西涼騎兵令敵軍不寒而慄。,,hv_TEXT_unit_desc.loc.tsv
@@ -1693,7 +1693,7 @@ Xiahou Yuan,1,,,hv_TEXT_cb_loadout.loc.tsv
 Xianbei Mounted Archers,1,,鮮卑弓騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 Xianchenying Guards,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Xianchenying Vanguards,1,,,hv_TEXT_unit_text_replacements.loc.tsv
-Xiezhi Roar,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Xiezhi Roar,1,,獬豸咆嘯,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Xiliang Buqu Crossbowmen,1,,西涼部曲弩兵,hv_TEXT_unit_text_replacements.loc.tsv
 Xiliang Buqu Hand-Ji Infantry,1,,西涼部曲手戟兵,hv_TEXT_unit_text_replacements.loc.tsv
 Xiliang Buqu Ji Infantry,1,,西涼部曲戟兵,hv_TEXT_unit_text_replacements.loc.tsv
@@ -1748,7 +1748,7 @@ You agree with your men and prepare to descend.,1,你同意下人的意見，準
 You allow them to join your cause. ,2,收納他們加入旗下。,,hv_TEXT_events.loc.tsv
 You are rather taken with a fine steed.,1,您被一匹好馬吸引住了。,,hv_TEXT_events.loc.tsv
 You are rather taken with a peculiar sword.,1,您被一柄怪劍吸引住了。,,hv_TEXT_events.loc.tsv
-You are royal. Act like it.,1,,九五之尊，當彰顯帝王氣度。,hv_TEXT_skills_basic.loc.tsv
+You are royal. Act like it.,1,,,hv_TEXT_skills_basic.loc.tsv
 You are the only one who can bring lasting peace to China. Everyone must obey your will.,2,,,hv_TEXT_events_rules.loc.tsv
 You can't go back empty-handed.,1,不能空手而歸。,,hv_TEXT_events.loc.tsv
 You can't target yourself. ,1,不能指向自己。 ,,ifo_text_TWEAK.loc.tsv
@@ -1810,7 +1810,7 @@ Zhong Royal Guard Cavalry,1,仲氏羽林騎,,hv_TEXT_unit_text_replacements.loc.
 Zhou Tai,1,,,hv_TEXT_cb_loadout.loc.tsv
 Zhou Yu,1,,,hv_TEXT_cb_loadout.loc.tsv
 Zhou Yu's zeal is enough to inspire others.,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Zhou the Youth,6,,周郎,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Zhou the Youth,6,,美周郎,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Zhuge Liang,1,,,hv_TEXT_cb_loadout.loc.tsv
 Zhuge Liang has brilliantly engineered a new weapon. It is a crossbow that fires several bolts simultaneously to overwhelm the enemy.,1,諸葛亮精心設計出一種新武器。這是一種能夠同時射出多枚箭矢的弩弓，可以壓制敵人。,,hv_TEXT_events.loc.tsv
 Zhuge Liang predicts the wind through study of the world.,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv

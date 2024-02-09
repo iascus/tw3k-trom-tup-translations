@@ -295,7 +295,7 @@ class MapByPatternZhcn(Step):
                     found = self._lookup(found, matched, 'unit_type', lookup_by_unit_type)
                     found = self._lookup(found, matched, 'unit_tier', lookup_by_unit_type)
                     found = self._lookup(found, matched, 'unit_name', lookup_by_unit_name)
-                    found = self._lookup(found, matched, 'skill_name', lookup_by_skill)
+                    found = self._lookup(found, matched, 'skill', lookup_by_skill)
                     if found.keys() == matched.keys():
                         data.loc[text, 'MappedByPattern'] = replacement.format(**found)
 
@@ -478,26 +478,31 @@ class Comparison(Step):
                 (self.map_by_key_zhcn, 'Vanilla', 'VanillaZhcn'),
                 (self.iascus_zhcn, 'Text', 'IascusZhcn'),
                 (self.procrastinator_zhcn, 'Text', 'ProcrastinatorZhcn'),
-                (self.pikaman_zhcn, 'Text', 'PikaManZhcn'),
                 (self.map_by_key_zhtw, 'Text', 'MappedZhtw'),
                 (self.map_by_key_zhtw, 'Source', 'SourceZhtw'),
                 (self.map_by_key_zhtw, 'Vanilla', 'VanillaZhtw'),
                 (self.iascus_zhtw, 'Text', 'IascusZhtw'),
                 (self.procrastinator_zhtw, 'Text', 'ProcrastinatorZhtw'),
-                (self.pikaman_zhtw, 'Text', 'PikaManZhtw'),
             ]
         ], axis=1).loc[self.trom_eng.data['Key'].drop_duplicates()].reset_index()
 
-        # cmp = cmp[(cmp['MappedZhcn'] != cmp['ProcrastinatorZhcn']) & (~cmp['ProcrastinatorZhcn'].isin([np.nan, pd.NA, '', '尚未翻译']))]
         cmp = cmp[
             cmp['Key'].str.startswith('character_skills_localised_')
         ]
-        cmp.insert(8, 'DiffZhcn', cmp['ProcrastinatorZhcn'] != cmp['MappedZhcn'])
-        cmp.insert(15, 'DiffZhtw', cmp['ProcrastinatorZhtw'] != cmp['MappedZhtw'])
+        cmp.insert(7, 'DiffZhcn', cmp['ProcrastinatorZhcn'] != cmp['MappedZhcn'])
+        cmp.insert(8, 'DiffZhtw', cmp['ProcrastinatorZhtw'] != cmp['MappedZhtw'])
         cmp['SkillKey'] = cmp['Key'].str.replace(
             re.compile('character_skills_localised_([a-z]+)_(.*)'), r'\2_\1', regex=True
         )
         cmp = cmp.drop('Key', axis=1).sort_values('SkillKey', ascending=False).drop_duplicates()
+        cmp = cmp.loc[~cmp['English'].isin([
+            'First Characteristic',
+            'Someone who stands out among the people.',
+            'Second Characteristic',
+            'A remarkable talent.',
+            'Third Characteristic',
+            'Every person has their own path.',
+        ])]
         # cmp = cmp[~cmp['SourceZhtw'].isin(['Vanilla', 'MappedByPattern'])]
         return cmp
 

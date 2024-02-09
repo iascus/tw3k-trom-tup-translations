@@ -303,11 +303,11 @@ character_skills_localised_description_hv_historical_skill_ability_earth_03,军�
 character_skills_localised_description_hv_historical_skill_ability_fire_01,坚定之心，锋利宝刃，足以撕破敌阵,True
 character_skills_localised_description_hv_historical_skill_ability_fire_02,凤怒炎涛，摧枯拉朽！,True
 character_skills_localised_description_hv_historical_skill_ability_fire_03,很少有人能逃过这位勇士的追杀。,True
-character_skills_localised_description_hv_historical_skill_ability_healer_01,此人相信，要将敌人除之而后快，就必须先追得上敌人。,True
+character_skills_localised_description_hv_historical_skill_ability_healer_01,此人行动迅如狡兔，万军擒拿亦若无物。,True
 character_skills_localised_description_hv_historical_skill_ability_healer_02,坚定之心，锋利宝刃，足以撕破敌阵,True
 character_skills_localised_description_hv_historical_skill_ability_healer_03,兄弟不弃，可谓安心,True
 character_skills_localised_description_hv_historical_skill_ability_metal_01,同袍兄弟，狂呼迎战,True
-character_skills_localised_description_hv_historical_skill_ability_metal_02,此人相信，要将敌人除之而后快，就必须先追得上敌人。,True
+character_skills_localised_description_hv_historical_skill_ability_metal_02,此人行动迅如狡兔，万军擒拿亦若无物。,True
 character_skills_localised_description_hv_historical_skill_ability_metal_03,森林为懂得尊重的人提供了通行路径和更稳固的立足之地。,True
 character_skills_localised_description_hv_historical_skill_ability_scholar_01,上观则为天，深察则为妙,True
 character_skills_localised_description_hv_historical_skill_ability_scholar_02,凭地利，如披坚甲，箭若无物,True
@@ -344,13 +344,13 @@ character_skills_localised_description_hv_skill_ability_blade_mastery_expertise,
 character_skills_localised_description_hv_skill_ability_blade_mastery_resolve,此人武功盖世，无能出其右者。,True
 character_skills_localised_description_hv_skill_ability_blazing_roar_instinct,张飞仰天怒吼，敌军士气溃散！,True
 character_skills_localised_description_hv_skill_ability_blazing_saddles_instinct,强大力量的冲击，会消耗夏侯渊的注意力,True
-character_skills_localised_description_hv_skill_ability_bleed_expertise,这种攻击让人觉得不太对劲。,True
-character_skills_localised_description_hv_skill_ability_bleed_resolve,这种攻击让人觉得不太对劲。,True
+character_skills_localised_description_hv_skill_ability_bleed_expertise,这种攻击似乎阴险歹毒。,True
+character_skills_localised_description_hv_skill_ability_bleed_resolve,这种攻击似乎阴险歹毒。,True
 character_skills_localised_description_hv_skill_ability_blood_fury_instinct,孙策虽愈战愈勇，但肆意猛虎愈无慎行...,True
 character_skills_localised_description_hv_skill_ability_brawl_authority,将你的勇士们送入战场，看着他们更加激烈的战斗。,True
 character_skills_localised_description_hv_skill_ability_brawl_instinct,将你的勇士们送入战场，看着他们更加激烈的战斗。,True
-character_skills_localised_description_hv_skill_ability_burning_instinct,怒火中烧，浴血奋战。,True
-character_skills_localised_description_hv_skill_ability_burning_resolve,怒火中烧，浴血奋战。,True
+character_skills_localised_description_hv_skill_ability_burning_instinct,火势越猛，持烧之时越短。,True
+character_skills_localised_description_hv_skill_ability_burning_resolve,火势越猛，持烧之时越短。,True
 character_skills_localised_description_hv_skill_ability_calm_down_authority,安慰之言以防士卒于乱战中摇摆不定。,True
 character_skills_localised_description_hv_skill_ability_calm_down_expertise,安慰之言以防士卒于乱战中摇摆不定。,True
 character_skills_localised_description_hv_skill_ability_calm_down_scholar,安慰之言以防士卒于乱战中摇摆不定。,True
@@ -358,22 +358,22 @@ character_skills_localised_description_hv_skill_ability_calm_down_veteran,安慰
 character_skills_localised_description_hv_skill_ability_ceasefire_authority,刘璋呼吁周遭止息兵戈，以延缓敌军进攻，为友军创造反击良机。,False
 character_skills_localised_description_hv_skill_ability_commanding_shout,同袍兄弟，狂呼迎战,True
 character_skills_localised_description_hv_skill_ability_condemn,闻此詈语，无不羞愧。,True
-character_skills_localised_description_hv_skill_ability_condemned_howl_resolve,此勇士挟滔天怒火奋战，攻势狂暴猛烈！,True
+character_skills_localised_description_hv_skill_ability_condemned_howl_resolve,此勇士临战则狂，攻势狂暴猛烈！,True
 character_skills_localised_description_hv_skill_ability_crash_resolve,充满怒意的一击，周遭敌军尽受其害,True
 character_skills_localised_description_hv_skill_ability_crash_veteran,充满怒意的一击，周遭敌军尽受其害,True
-character_skills_localised_description_hv_skill_ability_crossing_of_the_styx_healer,Did you get the boat fare? Heaven! Earth! Mankind!!,True
-character_skills_localised_description_hv_skill_ability_crossing_of_the_styx_scholar,Did you get the boat fare? Heaven! Earth! Mankind!!,True
+character_skills_localised_description_hv_skill_ability_crossing_of_the_styx_healer,奈何桥前可奈何，三生石上写三生。,True
+character_skills_localised_description_hv_skill_ability_crossing_of_the_styx_scholar,奈何桥前可奈何，三生石上写三生。,True
 character_skills_localised_description_hv_skill_ability_cruel_lord_authority,命令不易实行但却不可不从。,True
 character_skills_localised_description_hv_skill_ability_cry_of_the_forest_resolve,势穷力衰，身处绝境，典韦将如恶来再现人间！,True
 character_skills_localised_description_hv_skill_ability_defence_mastery_authority,稳如泰山，无隙可乘。,True
-character_skills_localised_description_hv_skill_ability_defence_mastery_resolve,组成无隙可乘的防御阵行。,True
+character_skills_localised_description_hv_skill_ability_defence_mastery_resolve,稳如泰山，无隙可乘。,True
 character_skills_localised_description_hv_skill_ability_desperate_cry,驱人者非令，道也,True
 character_skills_localised_description_hv_skill_ability_devastating_roar_instinct,以愤怒的怒吼压制敌人士气！,True
 character_skills_localised_description_hv_skill_ability_disorientate,坚忍之士亦为所惑,True
 character_skills_localised_description_hv_skill_ability_distant_courage_authority,该英雄会在…安全距离指挥激励部队。,True
 character_skills_localised_description_hv_skill_ability_distant_courage_instinct,该英雄会在…安全距离指挥激励部队。,True
 character_skills_localised_description_hv_skill_ability_dong_command_instinct,来自相国严苛的命令。,True
-character_skills_localised_description_hv_skill_ability_elemental_vigour_expertise,此人会随着战斗时间拉长而越战越勇，激励士气的效果也随之增强！ ,True
+character_skills_localised_description_hv_skill_ability_elemental_vigour_expertise,此人会随着战斗时间拉长而越战越勇，激励士气的效果也随之增强！,True
 character_skills_localised_description_hv_skill_ability_eviscerate_instinct,等到被害者明白过来，就已为时已晚。,True
 character_skills_localised_description_hv_skill_ability_eviscerate_resolve,等到被害者明白过来，就已为时已晚。,True
 character_skills_localised_description_hv_skill_ability_eviscerate_veteran,等到被害者明白过来，就已为时已晚。,True
@@ -392,18 +392,18 @@ character_skills_localised_description_hv_skill_ability_fire_control_veteran,依
 character_skills_localised_description_hv_skill_ability_flames_of_the_phoenix_authority,凤怒炎涛，摧枯拉朽！,True
 character_skills_localised_description_hv_skill_ability_flames_of_the_phoenix_instinct,凤怒炎涛，摧枯拉朽！,True
 character_skills_localised_description_hv_skill_ability_flames_of_the_phoenix_resolve,凤怒炎涛，摧枯拉朽！,True
-character_skills_localised_description_hv_skill_ability_fleet_footed_authority,此人相信，要将敌人除之而后快，就必须先追得上敌人。,True
-character_skills_localised_description_hv_skill_ability_fleet_footed_expertise,此人相信，要将敌人除之而后快，就必须先追得上敌人。,True
-character_skills_localised_description_hv_skill_ability_flower_of_battlefield_authority,看似柳弱花娇，实有巾帼须眉之气。,True
-character_skills_localised_description_hv_skill_ability_flower_of_battlefield_cunning,看似柳弱花娇，实有巾帼须眉之气。,True
-character_skills_localised_description_hv_skill_ability_flower_of_battlefield_expertise,看似柳弱花娇，实有巾帼须眉之气。,True
-character_skills_localised_description_hv_skill_ability_flower_of_battlefield_instinct,看似柳弱花娇，实有巾帼须眉之气。,True
-character_skills_localised_description_hv_skill_ability_flower_of_battlefield_resolve,看似柳弱花娇，实有巾帼须眉之气。,True
-character_skills_localised_description_hv_skill_ability_foresight_cunning,此人能明鉴古今，洞察未来。,True
+character_skills_localised_description_hv_skill_ability_fleet_footed_authority,此人行动迅如狡兔，万军擒拿亦若无物。,True
+character_skills_localised_description_hv_skill_ability_fleet_footed_expertise,此人行动迅如狡兔，万军擒拿亦若无物。,True
+character_skills_localised_description_hv_skill_ability_flower_of_battlefield_authority,此处不宜美人久留。,True
+character_skills_localised_description_hv_skill_ability_flower_of_battlefield_cunning,此处不宜美人久留。,True
+character_skills_localised_description_hv_skill_ability_flower_of_battlefield_expertise,此处不宜美人久留。,True
+character_skills_localised_description_hv_skill_ability_flower_of_battlefield_instinct,此处不宜美人久留。,True
+character_skills_localised_description_hv_skill_ability_flower_of_battlefield_resolve,此处不宜美人久留。,True
+character_skills_localised_description_hv_skill_ability_foresight_cunning,此人鬼才满腹经纶，足以推古衍今。,True
 character_skills_localised_description_hv_skill_ability_forest_strider_resolve,此人与林为友。,True
 character_skills_localised_description_hv_skill_ability_from_the_ashes_cunning,庞统牺牲己身，协助同袍兄弟。,True
-character_skills_localised_description_hv_skill_ability_geographic_mastery_cunning,此人熟悉地理知识，能够善加利用。,False
-character_skills_localised_description_hv_skill_ability_geographic_mastery_expertise,此人熟悉地理知识，能够善加利用。,False
+character_skills_localised_description_hv_skill_ability_geographic_mastery_cunning,此人对山川地势了若指掌，且能善加利用。,False
+character_skills_localised_description_hv_skill_ability_geographic_mastery_expertise,此人对山川地势了若指掌，且能善加利用。,False
 character_skills_localised_description_hv_skill_ability_ghost_of_forest_expertise,神鬼莫测于树林间震摄敌军。,True
 character_skills_localised_description_hv_skill_ability_god_of_war_resolve,关羽刀光过处，敌将人头落地,True
 character_skills_localised_description_hv_skill_ability_hail_of_arrows_expertise,瓢泼箭雨，阻敌挠行,True
@@ -418,10 +418,10 @@ character_skills_localised_description_hv_skill_ability_hamstring_veteran,精心
 character_skills_localised_description_hv_skill_ability_heart_seeker_instinct,此射手只消一击便能取人性命。,True
 character_skills_localised_description_hv_skill_ability_heavenly_grace_authority,她运用美色，迷得周围所有人动弹不得。,True
 character_skills_localised_description_hv_skill_ability_heavenly_grace_cunning,她运用美色，迷得周围所有人动弹不得。,True
-character_skills_localised_description_hv_skill_ability_heavenly_presence_authority,纵使情势极为严峻，此人现身战场上仍能为麾下兵士带来希望。,False
+character_skills_localised_description_hv_skill_ability_heavenly_presence_authority,局势危急之际，此人拍马杀到，为手下带来希望。,False
 character_skills_localised_description_hv_skill_ability_hero_poisonwind_shot_cunning,含有有毒物质的特殊箭头。,True
-character_skills_localised_description_hv_skill_ability_impenetrable_redoubt_authority,此将有如一堵难以撼动的墙，激励麾下兵士坚守阵线排除万难。,False
-character_skills_localised_description_hv_skill_ability_impenetrable_redoubt_expertise,此将有如一堵难以撼动的墙，激励麾下兵士坚守阵线排除万难。,False
+character_skills_localised_description_hv_skill_ability_impenetrable_redoubt_authority,此将有如一道铜墙铁壁，鼓舞着麾下兵士在逆境中不动如山。,False
+character_skills_localised_description_hv_skill_ability_impenetrable_redoubt_expertise,此将有如一道铜墙铁壁，鼓舞着麾下兵士在逆境中不动如山。,False
 character_skills_localised_description_hv_skill_ability_imperious_presence_authority,曹操的威势会激励周围所有部队，从而增强其战斗效率,True
 character_skills_localised_description_hv_skill_ability_impetuous_charge_authority,勇莽冲锋可奋三军，却也颇费精力！,True
 character_skills_localised_description_hv_skill_ability_impetuous_charge_expertise,勇莽冲锋可奋三军，却也颇费精力！,True
@@ -439,20 +439,20 @@ character_skills_localised_description_hv_skill_ability_internal_blaze_instinct,
 character_skills_localised_description_hv_skill_ability_into_the_breach_instinct,坚定之心，锋利宝刃，足以撕破敌阵,True
 character_skills_localised_description_hv_skill_ability_into_the_breach_resolve,坚定之心，锋利宝刃，足以撕破敌阵,True
 character_skills_localised_description_hv_skill_ability_inward_focus_expertise,专注于形则可避敌锋芒,True
-character_skills_localised_description_hv_skill_ability_judgement,不可令情绪掩盖你的眼界,True
+character_skills_localised_description_hv_skill_ability_judgement,不可令情绪掩盖你的眼界。,True
 character_skills_localised_description_hv_skill_ability_kingmaker_cunning,「吾之子房也。」,True
 character_skills_localised_description_hv_skill_ability_knowledge_of_the_body,力不在大，而在于准,True
 character_skills_localised_description_hv_skill_ability_knowledge_of_the_mind,用兵之道，攻心为上,True
 character_skills_localised_description_hv_skill_ability_knowledge_of_the_spirit,不在身心，而在其神,True
-character_skills_localised_description_hv_skill_ability_mark_target_authority,目标只有一个。,True
-character_skills_localised_description_hv_skill_ability_mark_target_cunning,目标只有一个。,True
-character_skills_localised_description_hv_skill_ability_mark_target_expertise,目标只有一个。,True
+character_skills_localised_description_hv_skill_ability_mark_target_authority,选定目标集中射击。,True
+character_skills_localised_description_hv_skill_ability_mark_target_cunning,选定目标集中射击。,True
+character_skills_localised_description_hv_skill_ability_mark_target_expertise,选定目标集中射击。,True
 character_skills_localised_description_hv_skill_ability_mark_target_resolve,选定目标集中射击。,True
 character_skills_localised_description_hv_skill_ability_mark_target_scholar,选定目标集中射击。,True
-character_skills_localised_description_hv_skill_ability_mighty_thrust_instinct,此人高呼一声，策马飞奔。他冲入敌阵的劲道之强，足以将大批士兵一举震飞。,False
-character_skills_localised_description_hv_skill_ability_mock_authority,此英雄向敌将大胆喊话，令对方心神动摇。,False
-character_skills_localised_description_hv_skill_ability_mock_cunning,此英雄向敌将大胆喊话，令对方心神动摇。,False
-character_skills_localised_description_hv_skill_ability_mock_expertise,此英雄向敌将大胆喊话，令对方心神动摇。,False
+character_skills_localised_description_hv_skill_ability_mighty_thrust_instinct,此人大吼一声，纵马冲入敌阵，犹如一把利刃，杀得敌人血肉横飞。,False
+character_skills_localised_description_hv_skill_ability_mock_authority,此英雄面对敌将，一番滔滔雄辩，令其心智动摇。,False
+character_skills_localised_description_hv_skill_ability_mock_cunning,此英雄面对敌将，一番滔滔雄辩，令其心智动摇。,False
+character_skills_localised_description_hv_skill_ability_mock_expertise,此英雄面对敌将，一番滔滔雄辩，令其心智动摇。,False
 character_skills_localised_description_hv_skill_ability_mortal_strike_authority,可发出非常有力的一击。,True
 character_skills_localised_description_hv_skill_ability_mortal_strike_expertise,可发出非常有力的一击。,True
 character_skills_localised_description_hv_skill_ability_mortal_strike_instinct,可发出非常有力的一击。,True
@@ -464,15 +464,15 @@ character_skills_localised_description_hv_skill_ability_one_with_heaven,上观�
 character_skills_localised_description_hv_skill_ability_one_with_the_land,劳于地者必亲之,True
 character_skills_localised_description_hv_skill_ability_one_with_the_people,兄弟不弃，可谓安心,True
 character_skills_localised_description_hv_skill_ability_order_of_tyrant_authority,傲慢即信心所在。,True
-character_skills_localised_description_hv_skill_ability_order_of_tyrant_instinct,犁庭扫穴，无坚不摧。,True
+character_skills_localised_description_hv_skill_ability_order_of_tyrant_instinct,傲慢即信心所在。,True
 character_skills_localised_description_hv_skill_ability_order_of_tyrant_resolve,傲慢即信心所在。,True
 character_skills_localised_description_hv_skill_ability_overwhelm_instinct,展现出势不可挡的愤怒。,True
 character_skills_localised_description_hv_skill_ability_overwhelm_resolve,展现出势不可挡的愤怒。,True
 character_skills_localised_description_hv_skill_ability_poisioned_blade_resolve,敌非惧锋利，乃是怕毒厉,True
 character_skills_localised_description_hv_skill_ability_preach,斯言聚神,True
-character_skills_localised_description_hv_skill_ability_quickfire_expertise,此弓手不断引弓放箭，越放越快，毫不留手。,True
+character_skills_localised_description_hv_skill_ability_quickfire_expertise,一箭紧接一箭，一箭快过一箭。一箭緊接一箭，一箭快過一箭。,True
 character_skills_localised_description_hv_skill_ability_rage_of_lu_bu_instinct,画戟猛烈地横扫，打击吕布周围的所有敌人,True
-character_skills_localised_description_hv_skill_ability_rally_the_troops_cunning,此将召集兵士奋勇作战，鼓励他们作最后一搏。,False
+character_skills_localised_description_hv_skill_ability_rally_the_troops_cunning,此将集结军队，激励众将士发起最后的冲锋，建不世之功业。,False
 character_skills_localised_description_hv_skill_ability_reckless_strike_instinct,此乃绝死一击，若中，则战局可定；若不中……亦可定。,True
 character_skills_localised_description_hv_skill_ability_reckless_strike_resolve,此乃绝死一击，若中，则战局可定；若不中……亦可定。,True
 character_skills_localised_description_hv_skill_ability_reign_of_terror_instinct,暴君震怒，属下瑟瑟发抖,True
@@ -481,19 +481,19 @@ character_skills_localised_description_hv_skill_ability_resolve_of_the_righteous
 character_skills_localised_description_hv_skill_ability_restore_authority,从战场上喘息片刻，为我军疗伤。,True
 character_skills_localised_description_hv_skill_ability_restore_cunning,从战场上喘息片刻，为我军疗伤。,True
 character_skills_localised_description_hv_skill_ability_roar_of_the_beast_instinct,"常胜将军雄威盛怒,敌军闻之皆尽胆寒!",True
-character_skills_localised_description_hv_skill_ability_royal_blood_authority,龙袍加身，气吞山河。,True
-character_skills_localised_description_hv_skill_ability_royal_blood_cunning,龙袍加身，气吞山河。,True
-character_skills_localised_description_hv_skill_ability_royal_blood_expertise,龙袍加身，气吞山河。,True
-character_skills_localised_description_hv_skill_ability_royal_blood_instinct,龙袍加身，气吞山河。,True
-character_skills_localised_description_hv_skill_ability_royal_blood_resolve,龙袍加身，气吞山河。,True
+character_skills_localised_description_hv_skill_ability_royal_blood_authority,敌人亦不敢伤害汉室宗亲。,True
+character_skills_localised_description_hv_skill_ability_royal_blood_cunning,敌人亦不敢伤害汉室宗亲。,True
+character_skills_localised_description_hv_skill_ability_royal_blood_expertise,敌人亦不敢伤害汉室宗亲。,True
+character_skills_localised_description_hv_skill_ability_royal_blood_instinct,敌人亦不敢伤害汉室宗亲。,True
+character_skills_localised_description_hv_skill_ability_royal_blood_resolve,敌人亦不敢伤害汉室宗亲。,True
 character_skills_localised_description_hv_skill_ability_scattering_blows_instinct,迅猛而一致的攻击，如狂风暴雨般席卷敌军。,True
 character_skills_localised_description_hv_skill_ability_scattering_blows_resolve,迅猛而一致的攻击，如狂风暴雨般席卷敌军。,True
 character_skills_localised_description_hv_skill_ability_show_of_force_authority,扔掷爆裂弹来打击敌军士气。,True
 character_skills_localised_description_hv_skill_ability_sight_of_the_dragon_cunning,地理山川暴露敌众，敌众掩迹亦可追寻！,True
 character_skills_localised_description_hv_skill_ability_smouldering_fury_instinct,敌人越多，吕布就会越强大！,True
-character_skills_localised_description_hv_skill_ability_sparrow_resolve,无人能快过飞燕的速度。,True
-character_skills_localised_description_hv_skill_ability_stalwart_defender_expertise,此人是天生的护卫将才，所有攻击对他来说都不痛不痒！,True
-character_skills_localised_description_hv_skill_ability_stalwart_defender_resolve,此人是天生的护卫将才，所有攻击对他来说都不痛不痒！,True
+character_skills_localised_description_hv_skill_ability_sparrow_resolve,飞燕之快，无人能及。,True
+character_skills_localised_description_hv_skill_ability_stalwart_defender_expertise,此人真乃守御惊世之才，敌众猛攻视若无物！,True
+character_skills_localised_description_hv_skill_ability_stalwart_defender_resolve,此人真乃守御惊世之才，敌众猛攻视若无物！,True
 character_skills_localised_description_hv_skill_ability_stone_bulwark_authority,凭地利，如披坚甲，箭若无物,True
 character_skills_localised_description_hv_skill_ability_stone_bulwark_cunning,凭地利，如披坚甲，箭若无物,True
 character_skills_localised_description_hv_skill_ability_storm_of_swords_authority,冲突无法避免。,True
@@ -511,12 +511,12 @@ character_skills_localised_description_hv_skill_ability_tenacity_of_steel_expert
 character_skills_localised_description_hv_skill_ability_tenacity_of_steel_resolve,战之愈久，愈游刃有余！,True
 character_skills_localised_description_hv_skill_ability_the_dragon_s_gaze_instinct,吕布的狂怒凝视，足以让所有人都畏缩不前！,True
 character_skills_localised_description_hv_skill_ability_the_weight_on_the_shoulders_authority,遭扰攘之时，值兵革之际。,True
-character_skills_localised_description_hv_skill_ability_the_weight_on_the_shoulders_scholar,总有人要付诸行动，就算没有人愿意处理。,True
+character_skills_localised_description_hv_skill_ability_the_weight_on_the_shoulders_scholar,遭扰攘之时，值兵革之际。,True
 character_skills_localised_description_hv_skill_ability_tiger_expertise,勇武如猛虎，胆敢与此人对峙之人可称之为有万夫不当之勇。,True
 character_skills_localised_description_hv_skill_ability_tiger_resolve,勇武如猛虎，胆敢与此人对峙之人可称之为有万夫不当之勇。,True
 character_skills_localised_description_hv_skill_ability_turning_the_tide_cunning,敌众溃散之时，三军振奋，追战愈勇。,True
 character_skills_localised_description_hv_skill_ability_undying_vow_instinct,周泰及义亲视死如归，奋战至血尽身死。,True
-character_skills_localised_description_hv_skill_ability_unstoppable_resolve,云长武艺天下绝伦，敌众闻之胆战心惊,True
+character_skills_localised_description_hv_skill_ability_unstoppable_resolve,他武艺天下绝伦，敌众闻之胆战心惊,True
 character_skills_localised_description_hv_skill_ability_unyielding_earth_authority,法自然，如佩坚盾，御阻猛攻。,True
 character_skills_localised_description_hv_skill_ability_veil_of_darkness_cunning,诡秘莫测，令人胆寒。,True
 character_skills_localised_description_hv_skill_ability_vengeance_resolve,夏侯惇能借此愈战愈勇，但会因此丧失理智,True
@@ -528,16 +528,16 @@ character_skills_localised_description_hv_skill_ability_wildfire_instinct,甘宁
 character_skills_localised_description_hv_skill_ability_wisdom_of_the_river_authority,知敌表里，则彼难守，我易攻,True
 character_skills_localised_description_hv_skill_ability_wisdom_of_the_river_cunning,知敌表里，则彼难守，我易攻,True
 character_skills_localised_description_hv_skill_ability_wisdom_of_the_river_veteran,知敌表里，则彼难守，我易攻,True
-character_skills_localised_description_hv_skill_ability_wisdom_of_the_waterfall_authority,层出高瞻之论，真乃奇才也。,True
-character_skills_localised_description_hv_skill_ability_wisdom_of_the_waterfall_cunning,层出高瞻之论，真乃奇才也。,True
-character_skills_localised_description_hv_skill_ability_wisdom_of_the_waterfall_veteran,层出高瞻之论，真乃奇才也。,True
-character_skills_localised_description_hv_skill_ability_wolf_cunning,恶狼出击，紧咬咽喉。,True
-character_skills_localised_description_hv_skill_ability_wolf_resolve,恶狼出击，紧咬咽喉。,True
-character_skills_localised_description_hv_skill_ability_wu_brave,诗人会为此日做歌。,True
-character_skills_localised_description_hv_skill_ability_xiezhi_roar_resolve,勇士大发雷霆，犹如神话中强大神兽獬豸的体现。,False
-character_skills_localised_description_hv_skill_ability_youzansen_expertise,Cut down enemies by making an arc with a blade,True
-character_skills_localised_description_hv_skill_ability_youzansen_instinct,Cut down enemies by making an arc with a blade,True
-character_skills_localised_description_hv_skill_ability_youzansen_resolve,Cut down enemies by making an arc with a blade,True
+character_skills_localised_description_hv_skill_ability_wisdom_of_the_waterfall_authority,鲑鱼游至瀑底，等待的却是熊的牙齿。,True
+character_skills_localised_description_hv_skill_ability_wisdom_of_the_waterfall_cunning,鲑鱼游至瀑底，等待的却是熊的牙齿。,True
+character_skills_localised_description_hv_skill_ability_wisdom_of_the_waterfall_veteran,鲑鱼游至瀑底，等待的却是熊的牙齿。,True
+character_skills_localised_description_hv_skill_ability_wolf_cunning,恶狼谨慎出击，直奔咽喉。,True
+character_skills_localised_description_hv_skill_ability_wolf_resolve,恶狼谨慎出击，直奔咽喉。,True
+character_skills_localised_description_hv_skill_ability_wu_brave,今日之战将流芳百世。,True
+character_skills_localised_description_hv_skill_ability_xiezhi_roar_resolve,勇士怒发冲冠，若獬豸附身，勇不可当。,False
+character_skills_localised_description_hv_skill_ability_youzansen_expertise,使出一记弧形挥砍杀伤敌人,True
+character_skills_localised_description_hv_skill_ability_youzansen_instinct,使出一记弧形挥砍杀伤敌人,True
+character_skills_localised_description_hv_skill_ability_youzansen_resolve,使出一记弧形挥砍杀伤敌人,True
 character_skills_localised_description_hv_skill_ability_zhou_the_youth_cunning,「性度恢廓，实奇才也。」,True
 character_skills_localised_description_hv_skill_add_individuality_cao_ang_4A,超凡脱俗,False
 character_skills_localised_description_hv_skill_add_individuality_cao_bao_4A,超凡脱俗,True
@@ -1022,11 +1022,11 @@ character_skills_localised_description_hv_skill_emperor_nobility,美德并非天
 character_skills_localised_description_hv_skill_emperor_reach,心怀克服万难之决意，方可成就大事,False
 character_skills_localised_description_hv_skill_emperor_stability,柱石不倒，在其根基厚实,False
 character_skills_localised_description_hv_skill_emperor_understanding,己所不欲，勿施于人,False
-character_skills_localised_description_hv_skill_non_deployable_01,优秀的写作能力。,True
+character_skills_localised_description_hv_skill_non_deployable_01,拥有优秀的文笔。,True
 character_skills_localised_description_hv_skill_non_deployable_02,一名高贵的信使。,True
 character_skills_localised_description_hv_skill_non_deployable_03,辛苦劳作的农民们需要的却是更为实用的建筑。,True
 character_skills_localised_description_hv_skill_non_deployable_04,防患于未然。,True
-character_skills_localised_description_hv_skill_non_deployable_05,清楚腐败以此为本。,True
+character_skills_localised_description_hv_skill_non_deployable_05,清除腐败以此为本。,True
 character_skills_localised_description_hv_skill_non_deployable_06,所有人都必须拿起工具，参与到重建社会的大业中去。,True
 character_skills_localised_description_hv_skill_non_deployable_earth_1,位尊则必担重任，任重则不能轻举。,True
 character_skills_localised_description_hv_skill_non_deployable_earth_2,位尊则必担重任，任重则不能轻举。,True
@@ -1038,7 +1038,7 @@ character_skills_localised_description_hv_skill_non_deployable_water_1,多谋善
 character_skills_localised_description_hv_skill_non_deployable_water_2,多谋善计方可立于不败之地。,True
 character_skills_localised_description_hv_skill_non_deployable_wood_1,所谓英雄，不可徒有其表，需当勇冠三军。,True
 character_skills_localised_description_hv_skill_non_deployable_wood_2,所谓英雄，不可徒有其表，需当勇冠三军。,True
-character_skills_localised_description_hv_skill_wood_mobilization,激发斗志乃是领军的精髓。,True
+character_skills_localised_description_hv_skill_wood_mobilization,激发部卒斗志乃是为将的精髓。,True
 character_skills_localised_name_hv_historical_skill_ability_earth_01,舞爪,True
 character_skills_localised_name_hv_historical_skill_ability_earth_02,磐石,True
 character_skills_localised_name_hv_historical_skill_ability_earth_03,齐心,True
@@ -1086,25 +1086,25 @@ character_skills_localised_name_hv_skill_ability_blade_mastery_expertise,盖世,
 character_skills_localised_name_hv_skill_ability_blade_mastery_resolve,盖世,True
 character_skills_localised_name_hv_skill_ability_blazing_roar_instinct,怒吼,True
 character_skills_localised_name_hv_skill_ability_blazing_saddles_instinct,绝尘,True
-character_skills_localised_name_hv_skill_ability_bleed_expertise,霆击,True
-character_skills_localised_name_hv_skill_ability_bleed_resolve,霆击,True
+character_skills_localised_name_hv_skill_ability_bleed_expertise,影袭,True
+character_skills_localised_name_hv_skill_ability_bleed_resolve,影袭,True
 character_skills_localised_name_hv_skill_ability_blood_fury_instinct,血怒,True
 character_skills_localised_name_hv_skill_ability_brawl_authority,熊罴,True
 character_skills_localised_name_hv_skill_ability_brawl_instinct,熊罴,True
 character_skills_localised_name_hv_skill_ability_burning_instinct,炎魂,True
 character_skills_localised_name_hv_skill_ability_burning_resolve,炎魂,True
-character_skills_localised_name_hv_skill_ability_calm_down_authority,将才,True
-character_skills_localised_name_hv_skill_ability_calm_down_expertise,将才,True
-character_skills_localised_name_hv_skill_ability_calm_down_scholar,将才,True
-character_skills_localised_name_hv_skill_ability_calm_down_veteran,将才,True
+character_skills_localised_name_hv_skill_ability_calm_down_authority,镇静,True
+character_skills_localised_name_hv_skill_ability_calm_down_expertise,镇静,True
+character_skills_localised_name_hv_skill_ability_calm_down_scholar,镇静,True
+character_skills_localised_name_hv_skill_ability_calm_down_veteran,镇静,True
 character_skills_localised_name_hv_skill_ability_ceasefire_authority,息兵,False
 character_skills_localised_name_hv_skill_ability_commanding_shout,训令,True
 character_skills_localised_name_hv_skill_ability_condemn,声讨,True
 character_skills_localised_name_hv_skill_ability_condemned_howl_resolve,狂啸,True
 character_skills_localised_name_hv_skill_ability_crash_resolve,裂地,True
 character_skills_localised_name_hv_skill_ability_crash_veteran,裂地,True
-character_skills_localised_name_hv_skill_ability_crossing_of_the_styx_healer,Crossing of the River Sanzu,True
-character_skills_localised_name_hv_skill_ability_crossing_of_the_styx_scholar,Crossing of the River Sanzu,True
+character_skills_localised_name_hv_skill_ability_crossing_of_the_styx_healer,黄泉,True
+character_skills_localised_name_hv_skill_ability_crossing_of_the_styx_scholar,黄泉,True
 character_skills_localised_name_hv_skill_ability_cruel_lord_authority,强令,True
 character_skills_localised_name_hv_skill_ability_cry_of_the_forest_resolve,林啸,True
 character_skills_localised_name_hv_skill_ability_defence_mastery_authority,泰山,True
@@ -1112,8 +1112,8 @@ character_skills_localised_name_hv_skill_ability_defence_mastery_resolve,泰山,
 character_skills_localised_name_hv_skill_ability_desperate_cry,绝号,True
 character_skills_localised_name_hv_skill_ability_devastating_roar_instinct,狂号,True
 character_skills_localised_name_hv_skill_ability_disorientate,蛊惑,True
-character_skills_localised_name_hv_skill_ability_distant_courage_authority,坚毅,True
-character_skills_localised_name_hv_skill_ability_distant_courage_instinct,坚毅,True
+character_skills_localised_name_hv_skill_ability_distant_courage_authority,决胜千里,True
+character_skills_localised_name_hv_skill_ability_distant_courage_instinct,决胜千里,True
 character_skills_localised_name_hv_skill_ability_dong_command_instinct,相令,True
 character_skills_localised_name_hv_skill_ability_elemental_vigour_expertise,龙胆,True
 character_skills_localised_name_hv_skill_ability_eviscerate_instinct,剔骨,True
@@ -1195,9 +1195,9 @@ character_skills_localised_name_hv_skill_ability_mighty_thrust_instinct,披靡,F
 character_skills_localised_name_hv_skill_ability_mock_authority,雄辩,False
 character_skills_localised_name_hv_skill_ability_mock_cunning,雄辩,False
 character_skills_localised_name_hv_skill_ability_mock_expertise,雄辩,False
-character_skills_localised_name_hv_skill_ability_mortal_strike_authority,浴血,True
-character_skills_localised_name_hv_skill_ability_mortal_strike_expertise,浴血,True
-character_skills_localised_name_hv_skill_ability_mortal_strike_instinct,浴血,True
+character_skills_localised_name_hv_skill_ability_mortal_strike_authority,致命一击,True
+character_skills_localised_name_hv_skill_ability_mortal_strike_expertise,致命一击,True
+character_skills_localised_name_hv_skill_ability_mortal_strike_instinct,致命一击,True
 character_skills_localised_name_hv_skill_ability_nature_s_ally_authority,天侣,True
 character_skills_localised_name_hv_skill_ability_nature_s_ally_cunning,天侣,True
 character_skills_localised_name_hv_skill_ability_nature_s_ally_resolve,天侣,True
@@ -1270,9 +1270,9 @@ character_skills_localised_name_hv_skill_ability_wildfire_instinct,猛火袭掠,
 character_skills_localised_name_hv_skill_ability_wisdom_of_the_river_authority,水圣,True
 character_skills_localised_name_hv_skill_ability_wisdom_of_the_river_cunning,水圣,True
 character_skills_localised_name_hv_skill_ability_wisdom_of_the_river_veteran,水圣,True
-character_skills_localised_name_hv_skill_ability_wisdom_of_the_waterfall_authority,远瞩,True
-character_skills_localised_name_hv_skill_ability_wisdom_of_the_waterfall_cunning,远瞩,True
-character_skills_localised_name_hv_skill_ability_wisdom_of_the_waterfall_veteran,远瞩,True
+character_skills_localised_name_hv_skill_ability_wisdom_of_the_waterfall_authority,飞泉之智,True
+character_skills_localised_name_hv_skill_ability_wisdom_of_the_waterfall_cunning,飞泉之智,True
+character_skills_localised_name_hv_skill_ability_wisdom_of_the_waterfall_veteran,飞泉之智,True
 character_skills_localised_name_hv_skill_ability_wolf_cunning,恶狼,True
 character_skills_localised_name_hv_skill_ability_wolf_resolve,恶狼,True
 character_skills_localised_name_hv_skill_ability_wu_brave,英武,True
@@ -1280,7 +1280,7 @@ character_skills_localised_name_hv_skill_ability_xiezhi_roar_resolve,獬豸之�
 character_skills_localised_name_hv_skill_ability_youzansen_expertise,弧光斩,True
 character_skills_localised_name_hv_skill_ability_youzansen_instinct,弧光斩,True
 character_skills_localised_name_hv_skill_ability_youzansen_resolve,弧光斩,True
-character_skills_localised_name_hv_skill_ability_zhou_the_youth_cunning,周郎,True
+character_skills_localised_name_hv_skill_ability_zhou_the_youth_cunning,美周郎,True
 character_skills_localised_name_hv_skill_add_individuality_cao_ang_4A,个性一,False
 character_skills_localised_name_hv_skill_add_individuality_cao_bao_4A,个性一,True
 character_skills_localised_name_hv_skill_add_individuality_cao_cao_4A,个性一,True
@@ -1760,7 +1760,7 @@ character_skills_localised_name_hv_skill_emperor_abundance,富足,False
 character_skills_localised_name_hv_skill_emperor_clarity,聪颖,False
 character_skills_localised_name_hv_skill_emperor_dilligence,勤勉,False
 character_skills_localised_name_hv_skill_emperor_flexibility,屈伸,False
-character_skills_localised_name_hv_skill_emperor_nobility,高尚,False
+character_skills_localised_name_hv_skill_emperor_nobility,龙髓,False
 character_skills_localised_name_hv_skill_emperor_reach,志远,False
 character_skills_localised_name_hv_skill_emperor_stability,坚定,False
 character_skills_localised_name_hv_skill_emperor_understanding,理解,False
@@ -2489,16 +2489,16 @@ effects_description_hv_effect_unlock_blade_breaker,技能：断刃,True
 effects_description_hv_effect_unlock_blade_mastery,技能：盖世,True
 effects_description_hv_effect_unlock_blazing_roar,技能：怒吼,True
 effects_description_hv_effect_unlock_blazing_saddles,技能：绝尘,True
-effects_description_hv_effect_unlock_bleed,技能：霆击,True
+effects_description_hv_effect_unlock_bleed,技能：影袭,True
 effects_description_hv_effect_unlock_blood_fury,技能：血怒,True
 effects_description_hv_effect_unlock_brawl,技能：熊罴,True
-effects_description_hv_effect_unlock_burning,技能：热血,True
-effects_description_hv_effect_unlock_calm_down,技能：将才,True
+effects_description_hv_effect_unlock_burning,技能：炎魂,True
+effects_description_hv_effect_unlock_calm_down,技能：镇静,True
 effects_description_hv_effect_unlock_commanding_shout,技能：训令,True
 effects_description_hv_effect_unlock_condemn,技能：声讨,True
 effects_description_hv_effect_unlock_condemned_howl,技能：狂啸,True
 effects_description_hv_effect_unlock_crash,技能：裂地,True
-effects_description_hv_effect_unlock_crossing_of_the_styx,Ability: Crossing of the River Sanzu,True
+effects_description_hv_effect_unlock_crossing_of_the_styx,技能：黄泉,True
 effects_description_hv_effect_unlock_cruel_lord,技能：强令,True
 effects_description_hv_effect_unlock_cry_of_the_forest,技能：林啸,True
 effects_description_hv_effect_unlock_danyang_01,解锁部队：{{tr:hv_unit_dan_yang_spearmen}},True
@@ -2508,7 +2508,7 @@ effects_description_hv_effect_unlock_defence_mastery,技能：泰山,True
 effects_description_hv_effect_unlock_desperate_cry,技能：绝号,True
 effects_description_hv_effect_unlock_devastating_roar,技能：狂号,True
 effects_description_hv_effect_unlock_disorientate,技能：蛊惑,True
-effects_description_hv_effect_unlock_distant_courage,技能：坚毅,True
+effects_description_hv_effect_unlock_distant_courage,技能：决胜千里,True
 effects_description_hv_effect_unlock_dong_command,技能：相令,True
 effects_description_hv_effect_unlock_duel,可使用：单挑,True
 effects_description_hv_effect_unlock_duel_water,可使用：单挑,True
@@ -2548,7 +2548,7 @@ effects_description_hv_effect_unlock_knowledge_of_the_body,技能：体识,True
 effects_description_hv_effect_unlock_knowledge_of_the_mind,技能：心识,True
 effects_description_hv_effect_unlock_knowledge_of_the_spirit,技能：神识,True
 effects_description_hv_effect_unlock_mark_target,技能：丛矢,True
-effects_description_hv_effect_unlock_mortal_strike,技能：浴血,True
+effects_description_hv_effect_unlock_mortal_strike,技能：致命一击,True
 effects_description_hv_effect_unlock_nature_s_ally,技能：天侣,True
 effects_description_hv_effect_unlock_of_the_righteous,技能：贞义,True
 effects_description_hv_effect_unlock_oil_bomb,技能：油罐,True
@@ -2600,14 +2600,14 @@ effects_description_hv_effect_unlock_white_horse_fellows_remove_penalty,装备�
 effects_description_hv_effect_unlock_whitewater,技能：湍流,True
 effects_description_hv_effect_unlock_wildfire,技能：烈火,True
 effects_description_hv_effect_unlock_wisdom_of_the_river,技能：水圣,True
-effects_description_hv_effect_unlock_wisdom_of_the_waterfall,技能：远瞩,True
+effects_description_hv_effect_unlock_wisdom_of_the_waterfall,技能：飞泉之智,True
 effects_description_hv_effect_unlock_wolf,技能：恶狼,True
 effects_description_hv_effect_unlock_wu_brave,技能：英武,True
 effects_description_hv_effect_unlock_youzansen,技能：弧光斩,True
 effects_description_hv_effect_unlock_yuan_01,解锁部队：{{tr:hv_unit_yuan_sword_infantry}},True
 effects_description_hv_effect_unlock_yuan_02,解锁部队：{{tr:hv_unit_yuan_ji_guards}},True
 effects_description_hv_effect_unlock_yuan_remove_penalty,装备此随从后，须等到10回合后才能解除。之后此随从即会消失。,True
-effects_description_hv_effect_unlock_zhou_the_youth,技能：周郎,True
+effects_description_hv_effect_unlock_zhou_the_youth,技能：美周郎,True
 effects_description_hv_effect_xian_chen_ying_charge_bonus,陷阵营冲锋加成 [[b]]%+n[[/b]],True
 effects_description_hv_effect_xian_chen_ying_damange_resistance,陷阵营伤害抗性 [[b]]%+n%[[/b]],True
 effects_description_hv_effect_xian_chen_ying_upkeep,部队维持费 [[b]]%+n%[[/b]],True
@@ -3291,13 +3291,13 @@ special_ability_phases_onscreen_name_hv_ability_black_mountain_brotherhood,手�
 special_ability_phases_onscreen_name_hv_ability_blade_mastery_1,盖世,True
 special_ability_phases_onscreen_name_hv_ability_blade_mastery_2,盖世,True
 special_ability_phases_onscreen_name_hv_ability_blade_mastery_3,盖世,True
-special_ability_phases_onscreen_name_hv_ability_bleed,霆击,True
+special_ability_phases_onscreen_name_hv_ability_bleed,影袭,True
 special_ability_phases_onscreen_name_hv_ability_blood_thirst,嗜血成性,True
 special_ability_phases_onscreen_name_hv_ability_brawl,熊罴,True
 special_ability_phases_onscreen_name_hv_ability_brotherhood,共济,True
 special_ability_phases_onscreen_name_hv_ability_bulwark,墨守,False
 special_ability_phases_onscreen_name_hv_ability_burning,炎魂,True
-special_ability_phases_onscreen_name_hv_ability_calm_down,将才,True
+special_ability_phases_onscreen_name_hv_ability_calm_down,镇静,True
 special_ability_phases_onscreen_name_hv_ability_captain_active,训令,True
 special_ability_phases_onscreen_name_hv_ability_captain_passive,一条密计,True
 special_ability_phases_onscreen_name_hv_ability_commanding_shout,训令,True
@@ -3366,7 +3366,7 @@ special_ability_phases_onscreen_name_hv_ability_mark_target,丛矢,True
 special_ability_phases_onscreen_name_hv_ability_mercenary_passive,猛攻,True
 special_ability_phases_onscreen_name_hv_ability_messenger_recovery,使者信念,True
 special_ability_phases_onscreen_name_hv_ability_moment_of_courage,一时之勇,True
-special_ability_phases_onscreen_name_hv_ability_mortal_strike,浴血,True
+special_ability_phases_onscreen_name_hv_ability_mortal_strike,致命一击,True
 special_ability_phases_onscreen_name_hv_ability_oil_bomb,油罐,True
 special_ability_phases_onscreen_name_hv_ability_one_with_heaven,天遁,True
 special_ability_phases_onscreen_name_hv_ability_one_with_the_land,地遁,True
@@ -3401,7 +3401,7 @@ special_ability_phases_onscreen_name_hv_ability_tiger_skin,虎皮,True
 special_ability_phases_onscreen_name_hv_ability_veil_of_darkness,莫测,True
 special_ability_phases_onscreen_name_hv_ability_whitewater,习谋,True
 special_ability_phases_onscreen_name_hv_ability_wind_of_north,北风,True
-special_ability_phases_onscreen_name_hv_ability_wisdom_of_the_waterfall,远瞩,True
+special_ability_phases_onscreen_name_hv_ability_wisdom_of_the_waterfall,飞泉之智,True
 special_ability_phases_onscreen_name_hv_ability_wolf,恶狼,True
 special_ability_phases_onscreen_name_hv_ability_words_of_the_way,神咏,True
 special_ability_phases_onscreen_name_hv_ability_wu_brave,英武,True
@@ -3411,9 +3411,9 @@ special_ability_phases_onscreen_name_hv_ability_xiliang_army,反骑兵专家,Tru
 special_ability_phases_onscreen_name_hv_ability_xiliang_army_ranged,反骑兵专家,True
 special_ability_phases_onscreen_name_hv_ability_young_blood,血气方刚,True
 special_ability_phases_onscreen_name_hv_ability_yuan_officer_passive,支持,True
-special_ability_phases_onscreen_name_hv_ability_zhou_the_youth_1,周郎,True
-special_ability_phases_onscreen_name_hv_ability_zhou_the_youth_2,周郎,True
-special_ability_phases_onscreen_name_hv_ability_zhou_the_youth_3,周郎,True
+special_ability_phases_onscreen_name_hv_ability_zhou_the_youth_1,美周郎,True
+special_ability_phases_onscreen_name_hv_ability_zhou_the_youth_2,美周郎,True
+special_ability_phases_onscreen_name_hv_ability_zhou_the_youth_3,美周郎,True
 special_ability_phases_onscreen_name_hv_abillity_danyang_tradition,不挠,True
 special_ability_phases_onscreen_name_hv_formation_mixed_ranged_spear,混合远程,True
 special_ability_phases_onscreen_name_hv_formation_pike_wall_eight_talents,八才戟卫戟墙,True
@@ -4880,7 +4880,7 @@ unit_abilities_onscreen_name_hv_ability_beihai_accuracy,精瞄,True
 unit_abilities_onscreen_name_hv_ability_beihai_reload,平心静气装填弹药,True
 unit_abilities_onscreen_name_hv_ability_black_mountain_brotherhood,手足,True
 unit_abilities_onscreen_name_hv_ability_blade_mastery,盖世,True
-unit_abilities_onscreen_name_hv_ability_bleed,霆击,True
+unit_abilities_onscreen_name_hv_ability_bleed,影袭,True
 unit_abilities_onscreen_name_hv_ability_blood_thirst,嗜血成性,True
 unit_abilities_onscreen_name_hv_ability_brawl,熊罴,True
 unit_abilities_onscreen_name_hv_ability_brotherhood,共济,True
@@ -4893,7 +4893,7 @@ unit_abilities_onscreen_name_hv_ability_commanding_shout,训令,True
 unit_abilities_onscreen_name_hv_ability_condemn,声讨,True
 unit_abilities_onscreen_name_hv_ability_counter_strike,Counter Strike,True
 unit_abilities_onscreen_name_hv_ability_crash,裂地,True
-unit_abilities_onscreen_name_hv_ability_crossing_of_the_styx,Crossing of the River Sanzu,True
+unit_abilities_onscreen_name_hv_ability_crossing_of_the_styx,黄泉,True
 unit_abilities_onscreen_name_hv_ability_cruel_lord,强令,True
 unit_abilities_onscreen_name_hv_ability_dead_or_alive,孤注,True
 unit_abilities_onscreen_name_hv_ability_defence_mastery,泰山,True
@@ -4949,7 +4949,7 @@ unit_abilities_onscreen_name_hv_ability_mark_target,丛矢,True
 unit_abilities_onscreen_name_hv_ability_mercenary_passive,猛攻,True
 unit_abilities_onscreen_name_hv_ability_messenger_recovery,使者信念,True
 unit_abilities_onscreen_name_hv_ability_moment_of_courage,一时之勇,True
-unit_abilities_onscreen_name_hv_ability_mortal_strike,浴血,True
+unit_abilities_onscreen_name_hv_ability_mortal_strike,致命一击,True
 unit_abilities_onscreen_name_hv_ability_oil_bomb,油罐,True
 unit_abilities_onscreen_name_hv_ability_one_with_heaven,天遁,True
 unit_abilities_onscreen_name_hv_ability_one_with_the_land,地遁,True
@@ -4985,7 +4985,7 @@ unit_abilities_onscreen_name_hv_ability_tiger_skin,虎皮,True
 unit_abilities_onscreen_name_hv_ability_veil_of_darkness,莫测,True
 unit_abilities_onscreen_name_hv_ability_whitewater,习谋,True
 unit_abilities_onscreen_name_hv_ability_wind_of_north,北风,True
-unit_abilities_onscreen_name_hv_ability_wisdom_of_the_waterfall,远瞩,True
+unit_abilities_onscreen_name_hv_ability_wisdom_of_the_waterfall,飞泉之智,True
 unit_abilities_onscreen_name_hv_ability_wolf,恶狼,True
 unit_abilities_onscreen_name_hv_ability_words_of_the_way,神咏,True
 unit_abilities_onscreen_name_hv_ability_wu_brave,英武,True
@@ -4996,7 +4996,7 @@ unit_abilities_onscreen_name_hv_ability_xiliang_army_ranged,反骑兵专家,True
 unit_abilities_onscreen_name_hv_ability_young_blood,血气方刚,True
 unit_abilities_onscreen_name_hv_ability_youzansen,弧光斩,True
 unit_abilities_onscreen_name_hv_ability_yuan_officer_passive,支持,True
-unit_abilities_onscreen_name_hv_ability_zhou_the_youth,周郎,True
+unit_abilities_onscreen_name_hv_ability_zhou_the_youth,美周郎,True
 unit_abilities_onscreen_name_hv_abillity_danyang_tradition,不挠,True
 unit_abilities_onscreen_name_hv_formation_mixed_ranged_spear,混合远程,True
 unit_abilities_onscreen_name_hv_formation_pike_wall_eight_talents,八才戟卫戟墙,True
@@ -5047,19 +5047,19 @@ unit_abilities_onscreen_name_hv_hit_effect_white_horse,白马,True
 unit_abilities_onscreen_name_hv_yuan_caltrops,蒺藜,False
 unit_abilities_onscreen_name_hv_yuan_smokescreen,烟幕,False
 unit_abilities_tooltip_text_3k_dlc04_show_of_force,射出一些弩弹，用于降低敌军士气。,True
-unit_abilities_tooltip_text_3k_dlc07_ability_geographic_mastery,此人熟悉地理知识，能够善加利用。,False
-unit_abilities_tooltip_text_3k_dlc07_ability_heavenly_presence,纵使情势极为严峻，此人现身战场上仍能为麾下兵士带来希望。,False
-unit_abilities_tooltip_text_3k_dlc07_ability_impenetrable_redoubt,此将有如一堵难以撼动的墙，激励麾下兵士坚守阵线排除万难。,False
-unit_abilities_tooltip_text_3k_dlc07_ability_mighty_thrust,此人高呼一声，策马飞奔。他冲入敌阵的劲道之强，足以将大批士兵一举震飞。,False
-unit_abilities_tooltip_text_3k_dlc07_ability_mock,此英雄向敌将大胆喊话，令对方心神动摇。,False
-unit_abilities_tooltip_text_3k_dlc07_ability_rally_the_troops,此将召集兵士奋勇作战，鼓励他们作最后一搏。,False
-unit_abilities_tooltip_text_3k_dlc07_ability_xiezhi_roar,勇士大发雷霆，犹如神话中强大神兽獬豸的体现。,False
+unit_abilities_tooltip_text_3k_dlc07_ability_geographic_mastery,此人对山川地势了若指掌，且能善加利用。,False
+unit_abilities_tooltip_text_3k_dlc07_ability_heavenly_presence,局势危急之际，此人拍马杀到，为手下带来希望。,False
+unit_abilities_tooltip_text_3k_dlc07_ability_impenetrable_redoubt,此将有如一道铜墙铁壁，鼓舞着麾下兵士在逆境中不动如山。,False
+unit_abilities_tooltip_text_3k_dlc07_ability_mighty_thrust,此人大吼一声，纵马冲入敌阵，犹如一把利刃，杀得敌人血肉横飞。,False
+unit_abilities_tooltip_text_3k_dlc07_ability_mock,此英雄面对敌将，一番滔滔雄辩，令其心智动摇。,False
+unit_abilities_tooltip_text_3k_dlc07_ability_rally_the_troops,此将集结军队，激励众将士发起最后的冲锋，建不世之功业。,False
+unit_abilities_tooltip_text_3k_dlc07_ability_xiezhi_roar,勇士怒发冲冠，若獬豸附身，勇不可当。,False
 unit_abilities_tooltip_text_3k_main_ability_distant_courage,该英雄会在…安全距离指挥激励部队。,True
-unit_abilities_tooltip_text_3k_main_ability_fleet_footed,此人相信，要将敌人除之而后快，就必须先追得上敌人。,False
+unit_abilities_tooltip_text_3k_main_ability_fleet_footed,此人行动迅如狡兔，万军擒拿亦若无物。,False
 unit_abilities_tooltip_text_3k_main_ability_heart_seeker,此射手只消一击便能取人性命。,True
 unit_abilities_tooltip_text_3k_main_ability_imperious_presence,曹操在场，敌将备受压制！,False
-unit_abilities_tooltip_text_3k_main_ability_quickfire,此弓手不断引弓放箭，越放越快，毫不留手。,True
-unit_abilities_tooltip_text_3k_main_ability_stalwart_defender,此人是天生的护卫将才，所有攻击对他来说都不痛不痒！,True
+unit_abilities_tooltip_text_3k_main_ability_quickfire,一箭紧接一箭，一箭快过一箭。一箭緊接一箭，一箭快過一箭。,True
+unit_abilities_tooltip_text_3k_main_ability_stalwart_defender,此人真乃守御惊世之才，敌众猛攻视若无物！,True
 unit_abilities_tooltip_text_hv_ability_aggressive_anger,以不灭的怒气煽动战火。,True
 unit_abilities_tooltip_text_hv_ability_anti_cavalry,将士兵组成人墙来抵御马匹。此战术简单有效。,True
 unit_abilities_tooltip_text_hv_ability_assemble,军士聚于此英雄之旗下。,True
@@ -5078,12 +5078,12 @@ unit_abilities_tooltip_text_hv_ability_beihai_accuracy,下一击将更为精准�
 unit_abilities_tooltip_text_hv_ability_beihai_reload,心无旁骛，则业无不成。,True
 unit_abilities_tooltip_text_hv_ability_black_mountain_brotherhood,黑山盗匪们有非常深的兄弟情谊。当他们聚在一起时，勇气倍增。,True
 unit_abilities_tooltip_text_hv_ability_blade_mastery,此人武功盖世，无能出其右者。,True
-unit_abilities_tooltip_text_hv_ability_bleed,这种攻击让人觉得不太对劲。,True
+unit_abilities_tooltip_text_hv_ability_bleed,这种攻击似乎阴险歹毒。,True
 unit_abilities_tooltip_text_hv_ability_blood_thirst,他们闻到血腥就会疯狂。,True
 unit_abilities_tooltip_text_hv_ability_brawl,将你的勇士们送入战场，看着他们更加激烈的战斗。,True
 unit_abilities_tooltip_text_hv_ability_brotherhood,军团的成员皆长年共处的伙伴，对彼此充满了信念。,True
 unit_abilities_tooltip_text_hv_ability_bulwark,金石之坚，牢不可破。,False
-unit_abilities_tooltip_text_hv_ability_burning,怒火中烧，浴血奋战。,True
+unit_abilities_tooltip_text_hv_ability_burning,火势越猛，持烧之时越短。,True
 unit_abilities_tooltip_text_hv_ability_calm_down,安慰之言以防士卒于乱战中摇摆不定。,True
 unit_abilities_tooltip_text_hv_ability_captain_active,军令如山，凡不听约束者斩无赦。,True
 unit_abilities_tooltip_text_hv_ability_captain_passive,有锦囊密计，我方无忧！,True
@@ -5091,7 +5091,7 @@ unit_abilities_tooltip_text_hv_ability_commanding_shout,同袍兄弟，狂呼迎
 unit_abilities_tooltip_text_hv_ability_condemn,闻此詈语，无不羞愧。,True
 unit_abilities_tooltip_text_hv_ability_counter_strike,Attack is the best defence.,True
 unit_abilities_tooltip_text_hv_ability_crash,充满怒意的一击，周遭敌军尽受其害,True
-unit_abilities_tooltip_text_hv_ability_crossing_of_the_styx,Did you get the boat fare? Heaven! Earth! Mankind!!,True
+unit_abilities_tooltip_text_hv_ability_crossing_of_the_styx,奈何桥前可奈何，三生石上写三生。,True
 unit_abilities_tooltip_text_hv_ability_cruel_lord,命令不易实行但却不可不从。,True
 unit_abilities_tooltip_text_hv_ability_dead_or_alive,生死存亡，转瞬即逝。,True
 unit_abilities_tooltip_text_hv_ability_defence_mastery,稳如泰山，无隙可乘。,True
@@ -5115,9 +5115,9 @@ unit_abilities_tooltip_text_hv_ability_fearless_charge,冲啊！冲啊！为了�
 unit_abilities_tooltip_text_hv_ability_ferocity,愤怒把他们逼至极限。,True
 unit_abilities_tooltip_text_hv_ability_fire_control,依序射击更为有效。,True
 unit_abilities_tooltip_text_hv_ability_flame_breathing,将你的心点燃！,True
-unit_abilities_tooltip_text_hv_ability_fleet_footed,此人相信，要将敌人除之而后快，就必须先追得上敌人。,True
-unit_abilities_tooltip_text_hv_ability_flower_of_battlefield,看似柳弱花娇，实有巾帼须眉之气。,True
-unit_abilities_tooltip_text_hv_ability_foresight,此人能明鉴古今，洞察未来。,True
+unit_abilities_tooltip_text_hv_ability_fleet_footed,此人行动迅如狡兔，万军擒拿亦若无物。,True
+unit_abilities_tooltip_text_hv_ability_flower_of_battlefield,此处不宜美人久留。,True
+unit_abilities_tooltip_text_hv_ability_foresight,此人鬼才满腹经纶，足以推古衍今。,True
 unit_abilities_tooltip_text_hv_ability_forest_strategy,The trees are their friends.,True
 unit_abilities_tooltip_text_hv_ability_forest_strider,此人与林为友。,True
 unit_abilities_tooltip_text_hv_ability_frenzy,及锋而试，乘胜重击。,True
@@ -5143,7 +5143,7 @@ unit_abilities_tooltip_text_hv_ability_knowledge_of_the_body,力不在大，而�
 unit_abilities_tooltip_text_hv_ability_knowledge_of_the_mind,用兵之道，攻心为上,True
 unit_abilities_tooltip_text_hv_ability_knowledge_of_the_spirit,不在身心，而在其神,True
 unit_abilities_tooltip_text_hv_ability_lucky_shot,正是鸿运当头之时。,True
-unit_abilities_tooltip_text_hv_ability_mark_target,目标只有一个。,True
+unit_abilities_tooltip_text_hv_ability_mark_target,选定目标集中射击。,True
 unit_abilities_tooltip_text_hv_ability_mercenary_passive,以进为退，以攻为守。,True
 unit_abilities_tooltip_text_hv_ability_messenger_recovery,信念可带来奇迹。,True
 unit_abilities_tooltip_text_hv_ability_moment_of_courage,勇气与精力皆以重振。,True
@@ -5164,11 +5164,11 @@ unit_abilities_tooltip_text_hv_ability_rage_of_blackmountain,黑山匪徒怒不�
 unit_abilities_tooltip_text_hv_ability_rage_of_hooves,解决掉他们的弓手，我们到中间会合。,True
 unit_abilities_tooltip_text_hv_ability_restore,从战场上喘息片刻，为我军疗伤。,True
 unit_abilities_tooltip_text_hv_ability_retreat_cover,掩护友军安全撤离。,False
-unit_abilities_tooltip_text_hv_ability_royal_blood,龙袍加身，气吞山河。,True
+unit_abilities_tooltip_text_hv_ability_royal_blood,敌人亦不敢伤害汉室宗亲。,True
 unit_abilities_tooltip_text_hv_ability_second_chance,不是所有人都有机会重来。,True
 unit_abilities_tooltip_text_hv_ability_skirmishing_shot,Shoot and run.,True
 unit_abilities_tooltip_text_hv_ability_sniper_position,匿影潜形，寻找机会行致命一击。,True
-unit_abilities_tooltip_text_hv_ability_sparrow,无人能快过飞燕的速度。,True
+unit_abilities_tooltip_text_hv_ability_sparrow,飞燕之快，无人能及。,True
 unit_abilities_tooltip_text_hv_ability_storm_of_swords,冲突无法避免。,True
 unit_abilities_tooltip_text_hv_ability_strength_of_blackmountain,黑山匪徒开始进军。,True
 unit_abilities_tooltip_text_hv_ability_strength_of_the_land,千林万山皆地也，上古遗宫莫不如是,True
@@ -5183,16 +5183,16 @@ unit_abilities_tooltip_text_hv_ability_tiger_skin,虎皮可抵御箭矢攻击。
 unit_abilities_tooltip_text_hv_ability_veil_of_darkness,诡秘莫测，令人胆寒。,True
 unit_abilities_tooltip_text_hv_ability_whitewater,如有神助。,True
 unit_abilities_tooltip_text_hv_ability_wind_of_north,狂风大作。,True
-unit_abilities_tooltip_text_hv_ability_wisdom_of_the_waterfall,层出高瞻之论，真乃奇才也。,True
-unit_abilities_tooltip_text_hv_ability_wolf,恶狼出击，紧咬咽喉。,True
+unit_abilities_tooltip_text_hv_ability_wisdom_of_the_waterfall,鲑鱼游至瀑底，等待的却是熊的牙齿。,True
+unit_abilities_tooltip_text_hv_ability_wolf,恶狼谨慎出击，直奔咽喉。,True
 unit_abilities_tooltip_text_hv_ability_words_of_the_way,吟诵古调，天德犹存,True
-unit_abilities_tooltip_text_hv_ability_wu_brave,诗人会为此日做歌。,True
+unit_abilities_tooltip_text_hv_ability_wu_brave,今日之战将流芳百世。,True
 unit_abilities_tooltip_text_hv_ability_wuhuan_riding,乌桓马术天下无双。,True
 unit_abilities_tooltip_text_hv_ability_xianchenying,"When they face Xianchenying, they lose confidence.",True
 unit_abilities_tooltip_text_hv_ability_xiliang_army,此部队擅长对抗骑兵。,True
 unit_abilities_tooltip_text_hv_ability_xiliang_army_ranged,此部队擅长对抗骑兵。,True
 unit_abilities_tooltip_text_hv_ability_young_blood,不经世故但斗志昂扬。,True
-unit_abilities_tooltip_text_hv_ability_youzansen,Cut down enemies by making an arc with a blade,True
+unit_abilities_tooltip_text_hv_ability_youzansen,使出一记弧形挥砍杀伤敌人,True
 unit_abilities_tooltip_text_hv_ability_yuan_officer_passive,强强联手，鼎力相助。,True
 unit_abilities_tooltip_text_hv_ability_zhou_the_youth,「性度恢廓，实奇才也。」,True
 unit_abilities_tooltip_text_hv_abillity_danyang_tradition,百折不屈，克服万难。,True
@@ -5212,11 +5212,11 @@ unit_abilities_tooltip_text_hv_historical_ability_earth_03,军士聚于此英雄
 unit_abilities_tooltip_text_hv_historical_ability_fire_01,坚定之心，锋利宝刃，足以撕破敌阵,True
 unit_abilities_tooltip_text_hv_historical_ability_fire_02,凤怒炎涛，摧枯拉朽！,True
 unit_abilities_tooltip_text_hv_historical_ability_fire_03,很少有人能逃过这位勇士的追杀。,True
-unit_abilities_tooltip_text_hv_historical_ability_healer_01,此人相信，要将敌人除之而后快，就必须先追得上敌人。,True
+unit_abilities_tooltip_text_hv_historical_ability_healer_01,此人行动迅如狡兔，万军擒拿亦若无物。,True
 unit_abilities_tooltip_text_hv_historical_ability_healer_02,坚定之心，锋利宝刃，足以撕破敌阵,True
 unit_abilities_tooltip_text_hv_historical_ability_healer_03,兄弟不弃，可谓安心,True
 unit_abilities_tooltip_text_hv_historical_ability_metal_01,同袍兄弟，狂呼迎战,True
-unit_abilities_tooltip_text_hv_historical_ability_metal_02,此人相信，要将敌人除之而后快，就必须先追得上敌人。,True
+unit_abilities_tooltip_text_hv_historical_ability_metal_02,此人行动迅如狡兔，万军擒拿亦若无物。,True
 unit_abilities_tooltip_text_hv_historical_ability_metal_03,森林为懂得尊重的人提供了通行路径和更稳固的立足之地。,True
 unit_abilities_tooltip_text_hv_historical_ability_scholar_01,上观则为天，深察则为妙,True
 unit_abilities_tooltip_text_hv_historical_ability_scholar_02,凭地利，如披坚甲，箭若无物,True
@@ -5262,20 +5262,20 @@ unit_ability_types_localised_description_hv_ability_beihai_accuracy,精瞄,True
 unit_ability_types_localised_description_hv_ability_beihai_reload,平心静气装填弹药,True
 unit_ability_types_localised_description_hv_ability_black_mountain_brotherhood,手足,True
 unit_ability_types_localised_description_hv_ability_blade_mastery,盖世,True
-unit_ability_types_localised_description_hv_ability_bleed,霆击,True
+unit_ability_types_localised_description_hv_ability_bleed,影袭,True
 unit_ability_types_localised_description_hv_ability_blood_thirst,嗜血成性,True
 unit_ability_types_localised_description_hv_ability_brawl,熊罴,True
 unit_ability_types_localised_description_hv_ability_brotherhood,共济,True
 unit_ability_types_localised_description_hv_ability_bulwark,墨守,False
 unit_ability_types_localised_description_hv_ability_burning,炎魂,True
-unit_ability_types_localised_description_hv_ability_calm_down,将才,True
+unit_ability_types_localised_description_hv_ability_calm_down,镇静,True
 unit_ability_types_localised_description_hv_ability_captain_active,训令,True
 unit_ability_types_localised_description_hv_ability_captain_passive,一条密计,True
 unit_ability_types_localised_description_hv_ability_commanding_shout,训令,True
 unit_ability_types_localised_description_hv_ability_condemn,声讨,True
 unit_ability_types_localised_description_hv_ability_counter_strike,Counter Strike,True
 unit_ability_types_localised_description_hv_ability_crash,裂地,True
-unit_ability_types_localised_description_hv_ability_crossing_of_the_styx,Crossing of the River Sanzu,True
+unit_ability_types_localised_description_hv_ability_crossing_of_the_styx,黄泉,True
 unit_ability_types_localised_description_hv_ability_cruel_lord,强令,True
 unit_ability_types_localised_description_hv_ability_dead_or_alive,孤注,True
 unit_ability_types_localised_description_hv_ability_defence_mastery,泰山,True
@@ -5331,7 +5331,7 @@ unit_ability_types_localised_description_hv_ability_mark_target,丛矢,True
 unit_ability_types_localised_description_hv_ability_mercenary_passive,猛攻,True
 unit_ability_types_localised_description_hv_ability_messenger_recovery,使者信念,True
 unit_ability_types_localised_description_hv_ability_moment_of_courage,一时之勇,True
-unit_ability_types_localised_description_hv_ability_mortal_strike,浴血,True
+unit_ability_types_localised_description_hv_ability_mortal_strike,致命一击,True
 unit_ability_types_localised_description_hv_ability_oil_bomb,油罐,True
 unit_ability_types_localised_description_hv_ability_one_with_heaven,天遁,True
 unit_ability_types_localised_description_hv_ability_one_with_the_land,地遁,True
@@ -5367,7 +5367,7 @@ unit_ability_types_localised_description_hv_ability_tiger_skin,虎皮,True
 unit_ability_types_localised_description_hv_ability_veil_of_darkness,莫测,True
 unit_ability_types_localised_description_hv_ability_whitewater,习谋,True
 unit_ability_types_localised_description_hv_ability_wind_of_north,北风,True
-unit_ability_types_localised_description_hv_ability_wisdom_of_the_waterfall,远瞩,True
+unit_ability_types_localised_description_hv_ability_wisdom_of_the_waterfall,飞泉之智,True
 unit_ability_types_localised_description_hv_ability_wolf,恶狼,True
 unit_ability_types_localised_description_hv_ability_words_of_the_way,神咏,True
 unit_ability_types_localised_description_hv_ability_wu_brave,英武,True
@@ -5378,7 +5378,7 @@ unit_ability_types_localised_description_hv_ability_xiliang_army_ranged,反骑�
 unit_ability_types_localised_description_hv_ability_young_blood,血气方刚,True
 unit_ability_types_localised_description_hv_ability_youzansen,弧光斩,True
 unit_ability_types_localised_description_hv_ability_yuan_officer_passive,支持,True
-unit_ability_types_localised_description_hv_ability_zhou_the_youth,周郎,True
+unit_ability_types_localised_description_hv_ability_zhou_the_youth,美周郎,True
 unit_ability_types_localised_description_hv_abillity_danyang_tradition,不挠,True
 unit_ability_types_localised_description_hv_formation_mixed_ranged_spear,混合远程,True
 unit_ability_types_localised_description_hv_formation_pike_wall_eight_talents,八才戟卫戟墙,True
