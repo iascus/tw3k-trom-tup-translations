@@ -1,6 +1,7 @@
 Text,zh-tw,zh-cn
 Archers,弓兵,弓手
 Assault Cavalry,突擊騎兵,突击骑兵
+Assaults,衝鋒兵,冲锋手
 Axe Defectors,叛逃斧兵,变节斧手
 Axemen,斧兵,斧手
 Bandits,盗贼,山贼
@@ -26,6 +27,7 @@ Heavy Bow Archers,重型弓兵,重弓手
 Horsemen,騎兵,骑兵
 Hunters,獵人,猎手
 Javelineer,擲鋋兵,投枪手
+Javelineers,擲鋋兵,投枪手
 Ji Cavalry,戟騎兵,戟骑兵
 Ji Infantry,戟兵,戟步兵
 Lancer Cataphracts,長槍鐵甲騎兵,长枪铁骑
@@ -35,8 +37,9 @@ Long Axemen,長斧兵,长斧手
 Long Spear Defectors,叛逃長槍兵,变节长枪兵
 Long Spearmen,長槍兵,长枪兵
 Marauders,掠奪者,劫匪
+Marksmen,射手,射声士
 Melee Infantry,近戰步兵,近战步兵
-Mounted Archers,弓騎兵,弓骑兵
+Mounted Archers,弓騎兵,骑射手
 Mounted Rangers,游騎兵,游骑兵
 Mounted Warriors,騎馬戰士,骑乘勇士
 Polearm Infantry,持戟步兵,持戟步兵
@@ -54,6 +57,7 @@ Royal Guard Cavalry,羽林騎,羽林骑
 Sabre Cavalry,刀騎兵,刀骑兵
 Sabre Infantry,持刀步兵,持刀步兵
 Shield Bearers,持盾者,持盾者
+Slingers,投石兵,投石兵
 Spear Defenders,槍衛,持矛卫士
 Spear Gang,槍兵團,矛兵团
 Spearmen,長槍兵,矛兵
@@ -64,7 +68,16 @@ Swordsmen of Yuan,袁氏劍兵,袁氏剑兵
 Swordsmen,劍兵,剑兵
 Tamers,馴獸師,驯兽师
 Troops,兵,兵
+Vanguards,先鋒,先锋
 Veterans,老兵,宿卫
 Warband,兵團,兵团
 Warriors,戰士,勇士
 Zhanmajian Infantry,斬馬劍兵,斩马劲卒
+Fire Archers,火矢弓兵,火箭手
+Followers of the Flame,火神信徒,火神信徒
+Might of the Valley,五谿豪傑,五溪蛮兵
+Ravine Warriors,洞兵,八纳洞兵
+Sanjiang Poison Darts,三江毒鏢兵,三江毒箭手
+Wolf Pack,群狼兵,群狼
+Wuguo Axe Throwers,烏戈飛斧手,乌戈飞斧兵
+Wuling Fighters,武陵鬥士,武陵战士

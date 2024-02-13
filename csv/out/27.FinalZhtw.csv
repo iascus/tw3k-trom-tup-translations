@@ -153,7 +153,7 @@ campaign_payload_ui_details_description_hv_dilemma_northern_army_intro,完成任
 campaign_payload_ui_details_description_hv_dilemma_yuan_shu_legacy,袁術之兵將追隨於您。,False
 campaign_payload_ui_details_description_hv_event_budda_unlock,您現在可以招募：{{tr:hv_unit_warrior_monks}},False
 campaign_payload_ui_details_description_hv_event_cao_cao_qingzhou,您現在可以招募：{{tr:hv_unit_qingzhou_hand_ji_infantry}}，{{tr:hv_unit_qingzhou_2h_axe_infantry}}，{{tr:hv_unit_qingzhou_raider_cavalry}}。,True
-campaign_payload_ui_details_description_hv_event_tiger_hunt_white_tiger_cap,{{tr:hv_unit_white_tiger_warriors}}部署量：+1,False
+campaign_payload_ui_details_description_hv_event_tiger_hunt_white_tiger_cap,可招募{{tr:hv_unit_white_tiger_warriors}}數：+1,False
 campaign_payload_ui_details_description_hv_event_tiger_hunt_white_tiger_unlock,您現在可以招募：{{tr:hv_unit_white_tiger_warriors}},False
 campaign_payload_ui_details_description_hv_event_tiger_tracking,尋覓怪獸……,False
 campaign_payload_ui_details_description_hv_event_white_tiger,嚴白虎現可招募{{tr:hv_unit_white_tiger_warriors}}。,True
@@ -1793,7 +1793,7 @@ custom_battle_loadouts_name_hv_cb_loadout_dian_wei_01,典韋,False
 custom_battle_loadouts_name_hv_cb_loadout_dong_min_01,董旻,False
 custom_battle_loadouts_name_hv_cb_loadout_dong_zhuo_01,董卓,False
 custom_battle_loadouts_name_hv_cb_loadout_dong_zhuo_02,暴君,False
-custom_battle_loadouts_name_hv_cb_loadout_fa_zheng_01,Fa Zheng,False
+custom_battle_loadouts_name_hv_cb_loadout_fa_zheng_01,法正,False
 custom_battle_loadouts_name_hv_cb_loadout_gan_ning_01,甘寧,False
 custom_battle_loadouts_name_hv_cb_loadout_gao_shun_01,高順,False
 custom_battle_loadouts_name_hv_cb_loadout_gong_du_01,龔都,False
@@ -1810,9 +1810,9 @@ custom_battle_loadouts_name_hv_cb_loadout_he_yi_02,黃巾軍將領,False
 custom_battle_loadouts_name_hv_cb_loadout_huang_shao_01,黃邵,False
 custom_battle_loadouts_name_hv_cb_loadout_huang_shao_02,黃巾軍將領,False
 custom_battle_loadouts_name_hv_cb_loadout_huang_zhong_01,黃忠,False
-custom_battle_loadouts_name_hv_cb_loadout_ji_ling_01,Ji Ling,False
+custom_battle_loadouts_name_hv_cb_loadout_ji_ling_01,纪灵,False
 custom_battle_loadouts_name_hv_cb_loadout_jia_xu_01,賈詡,False
-custom_battle_loadouts_name_hv_cb_loadout_jiang_qin_01,Jiang Qin,False
+custom_battle_loadouts_name_hv_cb_loadout_jiang_qin_01,蔣欽,False
 custom_battle_loadouts_name_hv_cb_loadout_king_duosi_01,朵思大王,False
 custom_battle_loadouts_name_hv_cb_loadout_king_duosi_02,朵思大王 [[img:unit_elephant]][[/img]],False
 custom_battle_loadouts_name_hv_cb_loadout_king_meng_huo_01,孟獲大王,False
@@ -1826,8 +1826,8 @@ custom_battle_loadouts_name_hv_cb_loadout_king_wutugu_02,兀突骨大王 [[img:u
 custom_battle_loadouts_name_hv_cb_loadout_kong_rong_01,孔融,False
 custom_battle_loadouts_name_hv_cb_loadout_kong_rong_02,諸侯,False
 custom_battle_loadouts_name_hv_cb_loadout_lady_sun_01,孫仁,False
-custom_battle_loadouts_name_hv_cb_loadout_lady_trieu_01,Lady Trieu,False
-custom_battle_loadouts_name_hv_cb_loadout_lady_trieu_02,Lady Trieu [[img:unit_elephant]][[/img]],False
+custom_battle_loadouts_name_hv_cb_loadout_lady_trieu_01,趙嫗,False
+custom_battle_loadouts_name_hv_cb_loadout_lady_trieu_02,趙嫗[[img:unit_elephant]][[/img]],False
 custom_battle_loadouts_name_hv_cb_loadout_lady_zhurong_01,祝融夫人,False
 custom_battle_loadouts_name_hv_cb_loadout_lady_zhurong_02,祝融夫人 [[img:unit_elephant]][[/img]],False
 custom_battle_loadouts_name_hv_cb_loadout_li_ru_01,李儒,False
@@ -1864,7 +1864,7 @@ custom_battle_loadouts_name_hv_cb_loadout_tao_qian_01,陶謙,False
 custom_battle_loadouts_name_hv_cb_loadout_tao_qian_02,太守,False
 custom_battle_loadouts_name_hv_cb_loadout_wei_yan_01,魏延,False
 custom_battle_loadouts_name_hv_cb_loadout_wen_chou_01,文醜,False
-custom_battle_loadouts_name_hv_cb_loadout_wu_anguo_01,Wu Anguo,False
+custom_battle_loadouts_name_hv_cb_loadout_wu_anguo_01,武安囯,False
 custom_battle_loadouts_name_hv_cb_loadout_xiahou_dun_01,夏侯惇,False
 custom_battle_loadouts_name_hv_cb_loadout_xiahou_yuan_01,夏侯淵,False
 custom_battle_loadouts_name_hv_cb_loadout_xu_chu_01,許褚,False
@@ -1882,7 +1882,7 @@ custom_battle_loadouts_name_hv_cb_loadout_yuan_shu_01,袁術,False
 custom_battle_loadouts_name_hv_cb_loadout_yuan_shu_02,仲帝,False
 custom_battle_loadouts_name_hv_cb_loadout_yuan_tan_01,袁譚,False
 custom_battle_loadouts_name_hv_cb_loadout_yue_jin_01,樂進,False
-custom_battle_loadouts_name_hv_cb_loadout_zhang_fang_01,Zhang Fang,False
+custom_battle_loadouts_name_hv_cb_loadout_zhang_fang_01,張方,False
 custom_battle_loadouts_name_hv_cb_loadout_zhang_fei_01,張飛,False
 custom_battle_loadouts_name_hv_cb_loadout_zhang_he_01,張郃,False
 custom_battle_loadouts_name_hv_cb_loadout_zhang_kai_01,張闓,False
@@ -2137,10 +2137,10 @@ effects_description_hv_building_effect_dummy_scattered_immigrants,{{tr:map_regio
 effects_description_hv_building_effect_liu_bei_unity,團結度[[b]]%+n[[/b]],True
 effects_description_hv_building_effect_province_mercenary_access,提供[[b]]丹陽部隊校尉[[/b]]招募次數,True
 effects_description_hv_building_effect_replenishment_danyang,丹陽單位補員速率[[b]]%+n%[[/b]],True
-effects_description_hv_dummy_effect_enforcer_archers_unlock,解鎖單位：{{tr:hv_unit_xiliang_elite_enforcers}},False
-effects_description_hv_dummy_effect_enforcer_mounted_archers_unlock,解鎖單位：{{tr:hv_unit_enforcer_archer_cavalry}},False
-effects_description_hv_dummy_effect_hidden_snakes_unlock,解鎖單位：{{tr:hv_unit_hidden_snakes}},False
-effects_description_hv_dummy_effect_rapid_tigers_unlock,解鎖單位：{{tr:hv_unit_rapid_tigers}},False
+effects_description_hv_dummy_effect_enforcer_archers_unlock,解除單位鎖定：{{tr:hv_unit_xiliang_elite_enforcers}},False
+effects_description_hv_dummy_effect_enforcer_mounted_archers_unlock,解除單位鎖定：{{tr:hv_unit_enforcer_archer_cavalry}},False
+effects_description_hv_dummy_effect_hidden_snakes_unlock,解除單位鎖定：{{tr:hv_unit_hidden_snakes}},False
+effects_description_hv_dummy_effect_rapid_tigers_unlock,解除單位鎖定：{{tr:hv_unit_rapid_tigers}},False
 effects_description_hv_dummy_effect_white_tiger_warriors_unlock,為嚴白虎解鎖單位：{{tr:hv_unit_white_tiger_warriors}},False
 effects_description_hv_dummy_effect_ytr_resurrection,"When your faction reached Enlightened, there will be Yellow Turban rebellion across China.",True
 effects_description_hv_effect_army_stockpiles,存糧[[b]]%+n[[/b]] ,True
@@ -2153,7 +2153,7 @@ effects_description_hv_effect_black_mountain_morale,黑山匪徒單位士氣[[b]
 effects_description_hv_effect_black_mountain_replenishment,黑山匪徒單位補員速率[[b]]%+n%[[/b]],True
 effects_description_hv_effect_black_mountain_unique_ability,解鎖黑山匪徒單位特殊能力,True
 effects_description_hv_effect_black_mountain_upkeep,黑山匪徒單位維持費[[b]]%+n%[[/b]],True
-effects_description_hv_effect_charge_bonus_ranged_cavalry,[[b]]%+n%[[/b]] charge bonus for Mounted Archer units,True
+effects_description_hv_effect_charge_bonus_ranged_cavalry,弓騎兵單位衝鋒加成[[b]]%+n%[[/b]],True
 effects_description_hv_effect_dan_yang_charge_bonus,丹陽單位衝鋒加成[[b]]%+n[[/b]],True
 effects_description_hv_effect_dan_yang_upkeep,丹陽單位維持費[[b]]%+n%[[/b]],True
 effects_description_hv_effect_dummy_accessory_tradable,此兵符可在外交中用來交易！,True
@@ -2170,7 +2170,7 @@ effects_description_hv_effect_dummy_jingchou_unlock,解除荊楚單位的鎖定[
 effects_description_hv_effect_dummy_lu_bu_legacy_unlock,解除捕掾隊單位的鎖定[[col:scope_description]]（我方部曲）[[/col]],True
 effects_description_hv_effect_dummy_ma_teng_pooled_resource_recurring_cost,每回合養馬[[b]]%+n[[/b]],True
 effects_description_hv_effect_dummy_northern_army_unlock,解鎖北軍部隊 [[col:scope_description]]（本部曲）[[/col]],True
-effects_description_hv_effect_dummy_northern_army_unlock_elite,Unlocks Northern Army Elite units [[col:scope_description]](own retinue)[[/col]],True
+effects_description_hv_effect_dummy_northern_army_unlock_elite,解除北軍精銳單位的鎖定[[col:scope_description]]（我方部曲）[[/col]],True
 effects_description_hv_effect_dummy_officer_penalty_alarm,未裝備時，該隨從解鎖的單位的維護費用會增加。,True
 effects_description_hv_effect_dummy_officer_warning,裝備此飾物後，須等到20回合後才能解除。之後此飾物即會消失。,True
 effects_description_hv_effect_dummy_protectors_not_recruitable,鎖定五龍御林軍,True
@@ -2178,37 +2178,37 @@ effects_description_hv_effect_dummy_protectors_recruitable,解鎖五龍御林軍
 effects_description_hv_effect_dummy_sogd_unlock,解除粟特單位的鎖定[[col:scope_description]]（我方部曲）[[/col]],True
 effects_description_hv_effect_dummy_unlock_duelist_expert_ui,此英雄在單挑中有强大加成。,True
 effects_description_hv_effect_dummy_unlock_duelist_ui,此英雄在單挑中有加成。,True
-effects_description_hv_effect_dummy_unlock_unit_bomb_thrower,解鎖單位：{{tr:hv_unit_bomb_thrower}},True
-effects_description_hv_effect_dummy_unlock_unit_buqu_archer_cavalry,解鎖單位：{{tr:hv_unit_buqu_archer_cavalry}},True
+effects_description_hv_effect_dummy_unlock_unit_bomb_thrower,解除單位鎖定：{{tr:hv_unit_bomb_thrower}},True
+effects_description_hv_effect_dummy_unlock_unit_buqu_archer_cavalry,解除單位鎖定：{{tr:hv_unit_buqu_archer_cavalry}},True
 effects_description_hv_effect_dummy_unlock_unit_buqu_of_the_left,解鎖部隊：{{tr:hv_unit_buqu_of_the_left}},True
 effects_description_hv_effect_dummy_unlock_unit_destroyer_of_traitors,Replaces unit: {{tr:hv_unit_destroyer_of_traitors}} ({{tr:hv_unit_elite_2h_spear_cavalry}}),True
-effects_description_hv_effect_dummy_unlock_unit_enforcer_archer_cavalry,解鎖單位：{{tr:hv_unit_enforcer_archer_cavalry}},True
-effects_description_hv_effect_dummy_unlock_unit_enforcer_archers,解鎖單位：{{tr:hv_unit_xiliang_elite_enforcers}},True
-effects_description_hv_effect_dummy_unlock_unit_fellows_of_the_oath,解鎖單位：{{tr:hv_unit_fellows_of_the_oath}},True
-effects_description_hv_effect_dummy_unlock_unit_goshawk_cavalry,解鎖單位：{{tr:hv_unit_goshawk_cavalry}},True
+effects_description_hv_effect_dummy_unlock_unit_enforcer_archer_cavalry,解除單位鎖定：{{tr:hv_unit_enforcer_archer_cavalry}},True
+effects_description_hv_effect_dummy_unlock_unit_enforcer_archers,解除單位鎖定：{{tr:hv_unit_xiliang_elite_enforcers}},True
+effects_description_hv_effect_dummy_unlock_unit_fellows_of_the_oath,解除單位鎖定：{{tr:hv_unit_fellows_of_the_oath}},True
+effects_description_hv_effect_dummy_unlock_unit_goshawk_cavalry,解除單位鎖定：{{tr:hv_unit_goshawk_cavalry}},True
 effects_description_hv_effect_dummy_unlock_unit_handmaid_guard,解鎖部隊：{{tr:hv_unit_handmaid_guard}},True
-effects_description_hv_effect_dummy_unlock_unit_hidden_2h_spearmen,解鎖單位：{{tr:hv_unit_hidden_2h_spearmen}},True
-effects_description_hv_effect_dummy_unlock_unit_hidden_assault_infantry,解鎖單位：{{tr:hv_unit_hidden_assault_infantry}},True
-effects_description_hv_effect_dummy_unlock_unit_hidden_snakes,解鎖單位：{{tr:hv_unit_hidden_snakes}},True
-effects_description_hv_effect_dummy_unlock_unit_iron_fists_of_the_bandit_queen,解鎖單位：{{tr:hv_unit_iron_fists_of_the_bandit_queen}},True
-effects_description_hv_effect_dummy_unlock_unit_juggernaut,解鎖單位：{{tr:hv_unit_juggernaut}},True
-effects_description_hv_effect_dummy_unlock_unit_militia_2h_axemen,解鎖單位：{{tr:hv_unit_militia_2h_axemen}},True
-effects_description_hv_effect_dummy_unlock_unit_militia_scout_cavalry,解鎖單位：{{tr:hv_unit_militia_scout_cavalry}},True
-effects_description_hv_effect_dummy_unlock_unit_militia_white_tiger_outlaws,解鎖單位：{{tr:hv_unit_militia_white_tiger_outlaws}},True
-effects_description_hv_effect_dummy_unlock_unit_rapid_tigers,解鎖單位：{{tr:hv_unit_rapid_tigers}},True
+effects_description_hv_effect_dummy_unlock_unit_hidden_2h_spearmen,解除單位鎖定：{{tr:hv_unit_hidden_2h_spearmen}},True
+effects_description_hv_effect_dummy_unlock_unit_hidden_assault_infantry,解除單位鎖定：{{tr:hv_unit_hidden_assault_infantry}},True
+effects_description_hv_effect_dummy_unlock_unit_hidden_snakes,解除單位鎖定：{{tr:hv_unit_hidden_snakes}},True
+effects_description_hv_effect_dummy_unlock_unit_iron_fists_of_the_bandit_queen,解除單位鎖定：{{tr:hv_unit_iron_fists_of_the_bandit_queen}},True
+effects_description_hv_effect_dummy_unlock_unit_juggernaut,解除單位鎖定：{{tr:hv_unit_juggernaut}},True
+effects_description_hv_effect_dummy_unlock_unit_militia_2h_axemen,解除單位鎖定：{{tr:hv_unit_militia_2h_axemen}},True
+effects_description_hv_effect_dummy_unlock_unit_militia_scout_cavalry,解除單位鎖定：{{tr:hv_unit_militia_scout_cavalry}},True
+effects_description_hv_effect_dummy_unlock_unit_militia_white_tiger_outlaws,解除單位鎖定：{{tr:hv_unit_militia_white_tiger_outlaws}},True
+effects_description_hv_effect_dummy_unlock_unit_rapid_tigers,解除單位鎖定：{{tr:hv_unit_rapid_tigers}},True
 effects_description_hv_effect_dummy_unlock_unit_swallow_cavalry,解鎖部隊：{{tr:hv_unit_swallow_cavalry}},True
-effects_description_hv_effect_dummy_unlock_unit_white_horse_fellows,解鎖單位：{{tr:hv_unit_white_horse_fellows}},True
-effects_description_hv_effect_dummy_unlock_unit_white_tiger_bandits,解鎖單位：{{tr:hv_unit_white_tiger_bandits}},True
-effects_description_hv_effect_dummy_unlock_unit_white_tiger_guardsmen,解鎖單位：{{tr:hv_unit_white_tiger_guardsmen}},True
-effects_description_hv_effect_dummy_unlock_unit_white_tiger_warriors,解鎖單位：{{tr:hv_unit_white_tiger_warriors}},True
-effects_description_hv_effect_dummy_unlock_unit_xian_chen_ying,解鎖單位：{{tr:hv_unit_xian_chen_ying}},True
-effects_description_hv_effect_dummy_unlock_unit_xian_chen_ying_2h,解鎖單位：{{tr:hv_unit_xian_chen_ying_2h_sabre}},True
-effects_description_hv_effect_dummy_unlock_unit_yuan_ji_guards,解鎖單位：{{tr:hv_unit_yuan_ji_guards}},True
-effects_description_hv_effect_dummy_unlock_unit_yuan_rong_crossbowmen,解鎖單位：{{tr:hv_unit_bomb_thrower}},True
-effects_description_hv_effect_dummy_unlock_unit_yuan_swordsmen,解鎖單位：{{tr:hv_unit_yuan_sword_infantry}},True
+effects_description_hv_effect_dummy_unlock_unit_white_horse_fellows,解除單位鎖定：{{tr:hv_unit_white_horse_fellows}},True
+effects_description_hv_effect_dummy_unlock_unit_white_tiger_bandits,解除單位鎖定：{{tr:hv_unit_white_tiger_bandits}},True
+effects_description_hv_effect_dummy_unlock_unit_white_tiger_guardsmen,解除單位鎖定：{{tr:hv_unit_white_tiger_guardsmen}},True
+effects_description_hv_effect_dummy_unlock_unit_white_tiger_warriors,解除單位鎖定：{{tr:hv_unit_white_tiger_warriors}},True
+effects_description_hv_effect_dummy_unlock_unit_xian_chen_ying,解除單位鎖定：{{tr:hv_unit_xian_chen_ying}},True
+effects_description_hv_effect_dummy_unlock_unit_xian_chen_ying_2h,解除單位鎖定：{{tr:hv_unit_xian_chen_ying_2h_sabre}},True
+effects_description_hv_effect_dummy_unlock_unit_yuan_ji_guards,解除單位鎖定：{{tr:hv_unit_yuan_ji_guards}},True
+effects_description_hv_effect_dummy_unlock_unit_yuan_rong_crossbowmen,解除單位鎖定：{{tr:hv_unit_bomb_thrower}},True
+effects_description_hv_effect_dummy_unlock_unit_yuan_swordsmen,解除單位鎖定：{{tr:hv_unit_yuan_sword_infantry}},True
 effects_description_hv_effect_dummy_xiliang_army_region,占據時可獲得西涼軍校尉,True
 effects_description_hv_effect_dummy_xiliang_army_unlock,解鎖西涼軍部隊 [[col:scope_description]]（本部曲）[[/col]],True
-effects_description_hv_effect_dummy_xiliang_army_unlock_elite,Unlocks Xiliang Army Elite units [[col:scope_description]](own retinue)[[/col]],True
+effects_description_hv_effect_dummy_xiliang_army_unlock_elite,解除西涼軍精銳單位的鎖定[[col:scope_description]]（我方部曲）[[/col]],True
 effects_description_hv_effect_dummy_yuan_shu_legacy_unlock,解除隱蛇兵與虎賁軍的鎖定[[col:scope_description]]（我方部曲）[[/col]],True
 effects_description_hv_effect_elemental_authority_campaign_sight,戰役地圖視野 [[b]]%+n%[[/b]],True
 effects_description_hv_effect_elemental_authority_cavalry_missile_resistance,騎兵遠程阻擋[[b]]%+n%[[/b]],True
@@ -2242,7 +2242,7 @@ effects_description_hv_effect_pooled_resource_ytr_population,[[b]]%+n[[/b]] resu
 effects_description_hv_effect_pooled_resource_zhang_yan_buildings,黑山[[b]]%+n[[/b]],True
 effects_description_hv_effect_pooled_resource_zhang_yan_decay_rate_1,%-n 黑山衰退,True
 effects_description_hv_effect_pooled_resource_zhang_yan_from_battles,黑山[[b]]%+n[[/b]],True
-effects_description_hv_effect_recruitment_cost_ranged_cavalry,[[b]]%+n%[[/b]] recruitment cost for Mounted Archer units,True
+effects_description_hv_effect_recruitment_cost_ranged_cavalry,弓騎兵單位招募費用[[b]]%+n%[[/b]],True
 effects_description_hv_effect_replenishment_cavalry,騎兵單位補員速率[[b]]%+n%[[/b]],True
 effects_description_hv_effect_replenishment_character_only,人物生命值回復[[b]]%+n%[[/b]],True
 effects_description_hv_effect_replenishment_danyang_army,丹陽單位補員速率[[b]]%+n%[[/b]],True
@@ -2279,195 +2279,195 @@ effects_description_hv_effect_t3_recruitment_cost,精銳單位招募費用[[b]]%
 effects_description_hv_effect_t3_upkeep,精銳單位維持費[[b]]%+n%[[/b]],True
 effects_description_hv_effect_t4_recruitment_cost,禁衛單位招募費用[[b]]%+n%[[/b]],True
 effects_description_hv_effect_t4_upkeep,禁衛單位維持費[[b]]%+n%[[/b]],True
-effects_description_hv_effect_unit_cap_azure_dragons,{{tr:hv_unit_azure_dragons}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_bandits_2h_spear_cavalry,{{tr:hv_unit_bandits_2h_spear_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_bandits_2h_spear_infantry,{{tr:hv_unit_bandits_2h_spear_infantry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_bandits_archers,{{tr:hv_unit_bandits_archers}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_bandits_axe_infantry,{{tr:hv_unit_bandits_axe_infantry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_bandits_children_of_the_forest,{{tr:hv_unit_bandits_children_of_the_forest}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_bandits_drifting_warmongers,{{tr:hv_unit_bandits_drifting_warmongers}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_bandits_elite_blood_seekers,{{tr:hv_unit_bandits_elite_blood_seekers}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_bandits_elite_cunning_monkeys,{{tr:hv_unit_bandits_elite_cunning_monkeys}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_bandits_elite_iron_walls,{{tr:hv_unit_bandits_elite_iron_walls}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_bandits_elite_jia_long,{{tr:hv_unit_bandits_elite_jia_long}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_bandits_elite_ren_xia,{{tr:hv_unit_bandits_elite_ren_xia}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_bandits_elite_two_blades,{{tr:hv_unit_bandits_elite_two_blades}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_bandits_elite_you_shi_cavalry,{{tr:hv_unit_bandits_elite_you_shi_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_bandits_fanatics,{{tr:hv_unit_bandits_fanatics}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_bandits_heroic_outlaws,{{tr:hv_unit_bandits_heroic_outlaws}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_bandits_men_of_thunder,{{tr:hv_unit_bandits_men_of_thunder}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_bandits_sabre_cavalry,{{tr:hv_unit_bandits_sabre_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_black_mountain_bandits,{{tr:hv_unit_black_mountain_bandits}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_black_mountain_bandits_javelineer,{{tr:hv_unit_black_mountain_bandits_javelineer}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_blue_turban_infantry,{{tr:hv_unit_blue_turban_infantry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_bomb_thrower,{{tr:hv_unit_bomb_thrower}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_buqu_2h_axemen,{{tr:hv_unit_buqu_2h_axemen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_buqu_2h_spear_cavalry,{{tr:hv_unit_buqu_2h_spear_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_buqu_archer_cavalry,{{tr:hv_unit_buqu_archer_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_buqu_archers,{{tr:hv_unit_buqu_archers}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_buqu_axemen,{{tr:hv_unit_buqu_axemen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_buqu_crossbowmen,{{tr:hv_unit_buqu_crossbowmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_buqu_ji_infantry,{{tr:hv_unit_buqu_ji_infantry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_buqu_of_the_left,{{tr:hv_unit_buqu_of_the_left}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_buqu_raid_cavalry,{{tr:hv_unit_buqu_raid_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_buqu_rep_crossbowmen,{{tr:hv_unit_buqu_rep_crossbowmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_buqu_sabre_cavalry,{{tr:hv_unit_buqu_sabre_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_buqu_sabre_infantry,{{tr:hv_unit_buqu_sabre_infantry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_buqu_spearmen,{{tr:hv_unit_buqu_spearmen}}部署量：%+n,True
+effects_description_hv_effect_unit_cap_azure_dragons,可招募{{tr:hv_unit_azure_dragons}}數：%+n,True
+effects_description_hv_effect_unit_cap_bandits_2h_spear_cavalry,可招募{{tr:hv_unit_bandits_2h_spear_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_bandits_2h_spear_infantry,可招募{{tr:hv_unit_bandits_2h_spear_infantry}}數：%+n,True
+effects_description_hv_effect_unit_cap_bandits_archers,可招募{{tr:hv_unit_bandits_archers}}數：%+n,True
+effects_description_hv_effect_unit_cap_bandits_axe_infantry,可招募{{tr:hv_unit_bandits_axe_infantry}}數：%+n,True
+effects_description_hv_effect_unit_cap_bandits_children_of_the_forest,可招募{{tr:hv_unit_bandits_children_of_the_forest}}數：%+n,True
+effects_description_hv_effect_unit_cap_bandits_drifting_warmongers,可招募{{tr:hv_unit_bandits_drifting_warmongers}}數：%+n,True
+effects_description_hv_effect_unit_cap_bandits_elite_blood_seekers,可招募{{tr:hv_unit_bandits_elite_blood_seekers}}數：%+n,True
+effects_description_hv_effect_unit_cap_bandits_elite_cunning_monkeys,可招募{{tr:hv_unit_bandits_elite_cunning_monkeys}}數：%+n,True
+effects_description_hv_effect_unit_cap_bandits_elite_iron_walls,可招募{{tr:hv_unit_bandits_elite_iron_walls}}數：%+n,True
+effects_description_hv_effect_unit_cap_bandits_elite_jia_long,可招募{{tr:hv_unit_bandits_elite_jia_long}}數：%+n,True
+effects_description_hv_effect_unit_cap_bandits_elite_ren_xia,可招募{{tr:hv_unit_bandits_elite_ren_xia}}數：%+n,True
+effects_description_hv_effect_unit_cap_bandits_elite_two_blades,可招募{{tr:hv_unit_bandits_elite_two_blades}}數：%+n,True
+effects_description_hv_effect_unit_cap_bandits_elite_you_shi_cavalry,可招募{{tr:hv_unit_bandits_elite_you_shi_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_bandits_fanatics,可招募{{tr:hv_unit_bandits_fanatics}}數：%+n,True
+effects_description_hv_effect_unit_cap_bandits_heroic_outlaws,可招募{{tr:hv_unit_bandits_heroic_outlaws}}數：%+n,True
+effects_description_hv_effect_unit_cap_bandits_men_of_thunder,可招募{{tr:hv_unit_bandits_men_of_thunder}}數：%+n,True
+effects_description_hv_effect_unit_cap_bandits_sabre_cavalry,可招募{{tr:hv_unit_bandits_sabre_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_black_mountain_bandits,可招募{{tr:hv_unit_black_mountain_bandits}}數：%+n,True
+effects_description_hv_effect_unit_cap_black_mountain_bandits_javelineer,可招募{{tr:hv_unit_black_mountain_bandits_javelineer}}數：%+n,True
+effects_description_hv_effect_unit_cap_blue_turban_infantry,可招募{{tr:hv_unit_blue_turban_infantry}}數：%+n,True
+effects_description_hv_effect_unit_cap_bomb_thrower,可招募{{tr:hv_unit_bomb_thrower}}數：%+n,True
+effects_description_hv_effect_unit_cap_buqu_2h_axemen,可招募{{tr:hv_unit_buqu_2h_axemen}}數：%+n,True
+effects_description_hv_effect_unit_cap_buqu_2h_spear_cavalry,可招募{{tr:hv_unit_buqu_2h_spear_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_buqu_archer_cavalry,可招募{{tr:hv_unit_buqu_archer_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_buqu_archers,可招募{{tr:hv_unit_buqu_archers}}數：%+n,True
+effects_description_hv_effect_unit_cap_buqu_axemen,可招募{{tr:hv_unit_buqu_axemen}}數：%+n,True
+effects_description_hv_effect_unit_cap_buqu_crossbowmen,可招募{{tr:hv_unit_buqu_crossbowmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_buqu_ji_infantry,可招募{{tr:hv_unit_buqu_ji_infantry}}數：%+n,True
+effects_description_hv_effect_unit_cap_buqu_of_the_left,可招募{{tr:hv_unit_buqu_of_the_left}}數：%+n,True
+effects_description_hv_effect_unit_cap_buqu_raid_cavalry,可招募{{tr:hv_unit_buqu_raid_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_buqu_rep_crossbowmen,可招募{{tr:hv_unit_buqu_rep_crossbowmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_buqu_sabre_cavalry,可招募{{tr:hv_unit_buqu_sabre_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_buqu_sabre_infantry,可招募{{tr:hv_unit_buqu_sabre_infantry}}數：%+n,True
+effects_description_hv_effect_unit_cap_buqu_spearmen,可招募{{tr:hv_unit_buqu_spearmen}}數：%+n,True
 effects_description_hv_effect_unit_cap_chen_peacekeepers,陳郡太平衛士部署量：%+n,True
-effects_description_hv_effect_unit_cap_chen_peacekeepers_crossbowmen,{{tr:hv_unit_chen_peacekeepers_crossbowmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_chen_peacekeepers_halberd_infantry,{{tr:hv_unit_chen_peacekeepers_halberd_infantry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_chen_royal_guard_cavalry,{{tr:hv_unit_chen_royal_guard_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_dan_yang_archers,{{tr:hv_unit_dan_yang_archers}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_dan_yang_infantry,{{tr:hv_unit_dan_yang_infantry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_dan_yang_spearmen,{{tr:hv_unit_dan_yang_spearmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_defenders_of_earth,{{tr:hv_unit_defenders_of_earth}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_defenders_of_earth_might,{{tr:hv_unit_defenders_of_earth_might}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_elite_2h_axemen,{{tr:hv_unit_elite_2h_axemen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_elite_2h_spear_cavalry,{{tr:hv_unit_elite_2h_spear_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_elite_2h_spearmen,{{tr:hv_unit_elite_2h_spearmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_elite_2h_swordsmen,{{tr:hv_unit_elite_2h_swordsmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_elite_barded_2h_spear_cavalry,{{tr:hv_unit_elite_barded_2h_spear_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_elite_crossbowmen,{{tr:hv_unit_elite_crossbowmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_elite_heavy_bow_archers,{{tr:hv_unit_elite_heavy_bow_archers}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_elite_ji_infantry,{{tr:hv_unit_elite_ji_infantry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_elite_rep_crossbowmen,{{tr:hv_unit_elite_rep_crossbowmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_elite_spearmen,{{tr:hv_unit_elite_spearmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_elite_sword_cavalry,{{tr:hv_unit_elite_sword_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_elite_swordsmen,{{tr:hv_unit_elite_swordsmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_enforcer_archer_cavalry,{{tr:hv_unit_enforcer_archer_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_fellows_of_the_oath,{{tr:hv_unit_fellows_of_the_oath}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_fire_archers,Fire Archers: for recruitment: %+n,True
-effects_description_hv_effect_unit_cap_followers_of_the_flame,Followers of the Flame: for recruitment: %+n,True
-effects_description_hv_effect_unit_cap_goshawk_cavalry,{{tr:hv_unit_goshawk_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_han_volunteer_rep_crossbowmen,{{tr:hv_unit_han_volunteer_rep_crossbowmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_han_volunteer_spearmen,{{tr:hv_unit_han_volunteer_spearmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_handmaid_guard,{{tr:hv_unit_handmaid_guard}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_hebei_spearmen,{{tr:hv_unit_hebei_spearmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_hebei_sword_cavalry,{{tr:hv_unit_hebei_sword_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_hidden_2h_spearmen,{{tr:hv_unit_hidden_2h_spearmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_hidden_assault_infantry,{{tr:hv_unit_hidden_assault_infantry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_hidden_snakes,{{tr:hv_unit_hidden_snakes}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_iron_fists_of_the_bandit_queen,{{tr:hv_unit_iron_fists_of_the_bandit_queen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_ironfist_barded_2h_spear_cavalry,{{tr:hv_unit_ironfist_barded_2h_spear_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_jade_dragons,{{tr:hv_unit_jade_dragons}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_jei_fan_infantry,{{tr:hv_unit_jei_fan_infantry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_jianan_archers,{{tr:hv_unit_jianan_archers}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_jianan_crossbowmen,{{tr:hv_unit_jianan_crossbowmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_jianan_crossbowmen_cavalry,{{tr:hv_unit_jianan_crossbowmen_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_jianan_hand_ji_infantry,{{tr:hv_unit_jianan_hand_ji_infantry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_jianan_rep_crossbowmen,{{tr:hv_unit_jianan_rep_crossbowmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_jingchou_buqu_2h_axemen,{{tr:hv_unit_jingchou_buqu_2h_axemen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_jingchou_buqu_2h_spear_cavalry,{{tr:hv_unit_jingchou_buqu_2h_spear_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_jingchou_buqu_2h_spearmen,{{tr:hv_unit_jingchou_buqu_2h_spearmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_jingchou_buqu_archers,{{tr:hv_unit_jingchou_buqu_archers}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_jingchou_buqu_axemen,{{tr:hv_unit_jingchou_buqu_axemen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_jingchou_buqu_caltrop_infantry,{{tr:hv_unit_jingchou_buqu_caltrop_infantry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_jingchou_buqu_sabre_cavalry,{{tr:hv_unit_jingchou_buqu_sabre_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_juggernaut,{{tr:hv_unit_juggernaut}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_local_noble_buqu_archers,{{tr:hv_unit_local_noble_buqu_archers}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_local_noble_buqu_infantry,{{tr:hv_unit_local_noble_buqu_infantry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_local_noble_buqu_raider_cavalry,{{tr:hv_unit_local_noble_buqu_raider_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_local_noble_buqu_spearmen,{{tr:hv_unit_local_noble_buqu_spearmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_local_noble_elite_archers,{{tr:hv_unit_local_noble_elite_archers}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_mercenary_archers,{{tr:hv_unit_mercenary_archers}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_mercenary_cavalry,{{tr:hv_unit_mercenary_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_mercenary_infantry,{{tr:hv_unit_mercenary_infantry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_might_of_the_valley,Might of the Valley: for recruitment: %+n,True
-effects_description_hv_effect_unit_cap_militia_2h_axemen,{{tr:hv_unit_militia_2h_axemen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_militia_archers,{{tr:hv_unit_militia_archers}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_militia_black_mountain_outlaws,{{tr:hv_unit_militia_black_mountain_outlaws}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_militia_ji_infantry,{{tr:hv_unit_militia_ji_infantry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_militia_sabre_infantry,{{tr:hv_unit_militia_sabre_infantry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_militia_scout_cavalry,{{tr:hv_unit_militia_scout_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_militia_taishan_outlaws,{{tr:hv_unit_militia_taishan_outlaws}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_militia_white_tiger_outlaws,{{tr:hv_unit_militia_white_tiger_outlaws}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_multiple_bolt_crossbow,{{tr:hv_unit_multiple_bolt_crossbow}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_nanman_axe_defectors,{{tr:hv_unit_nanman_axe_defectors}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_nanman_cavalry_defectors,{{tr:hv_unit_nanman_cavalry_defectors}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_nanman_crossbow_defectors,{{tr:hv_unit_nanman_crossbow_defectors}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_nanman_southern_foreign_rangers,{{tr:hv_unit_nanman_southern_foreign_rangers}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_nanman_southern_foreign_warriors,{{tr:hv_unit_nanman_southern_foreign_warriors}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_nanman_southern_shield_bearers,{{tr:hv_unit_nanman_southern_shield_bearers}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_nanman_spear_defectors,{{tr:hv_unit_nanman_spear_defectors}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_nomad_gang_cavalry,{{tr:hv_unit_nomad_gang_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_northern_mace_cavalry,{{tr:hv_unit_northern_mace_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_northern_spear_cavalry,{{tr:hv_unit_northern_spear_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_onyx_dragons,{{tr:hv_unit_onyx_dragons}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_pearl_dragons,{{tr:hv_unit_pearl_dragons}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_porcupine_crossbowmen,{{tr:hv_unit_porcupine_crossbowmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_protectors_of_heaven,{{tr:hv_unit_protectors_of_heaven}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_protectors_of_heaven_might,{{tr:hv_unit_protectors_of_heaven_might}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_qiang_archers,{{tr:hv_unit_qiang_archers}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_qiang_axemen,{{tr:hv_unit_qiang_axemen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_qiang_elite_ranger_cavalry,{{tr:hv_unit_qiang_elite_ranger_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_qiang_elite_warrior_cavalry,{{tr:hv_unit_qiang_elite_warrior_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_qiang_javelineer,{{tr:hv_unit_qiang_javelineer}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_qiang_ji_infantry,{{tr:hv_unit_qiang_ji_infantry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_qiang_spear_cavalry,{{tr:hv_unit_qiang_spear_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_qingzhou_2h_axe_infantry,{{tr:hv_unit_qingzhou_2h_axe_infantry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_qingzhou_hand_ji_infantry,{{tr:hv_unit_qingzhou_hand_ji_infantry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_qingzhou_raider_cavalry,{{tr:hv_unit_qingzhou_raider_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_rapid_tigers,{{tr:hv_unit_rapid_tigers}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_ravine_warriors,Ravine Warriors: for recruitment: %+n,True
-effects_description_hv_effect_unit_cap_sanjiang_poison_darts,Sanjiang Poison Darts: for recruitment: %+n,True
-effects_description_hv_effect_unit_cap_shanyue_javelineer,{{tr:hv_unit_shanyue_javelineer}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_shanyue_remnants,{{tr:hv_unit_shanyue_remnants}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_shanyue_warriors,{{tr:hv_unit_shanyue_warriors}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_sogd_barded_cavalry,{{tr:hv_unit_sogd_barded_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_sogd_warriors,{{tr:hv_unit_sogd_warriors}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_spice_guard,{{tr:hv_unit_spice_guard}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_stray_artisans,{{tr:hv_unit_stray_artisans}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_swallow_cavalry,{{tr:hv_unit_swallow_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_taishan_phantoms,{{tr:hv_unit_taishan_phantoms}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_taishan_poison_wind,{{tr:hv_unit_taishan_poison_wind}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_tiger_and_leopard_barded_cavalry,{{tr:hv_unit_tiger_and_leopard_barded_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_tiger_and_leopard_cavalry,{{tr:hv_unit_tiger_and_leopard_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_trebuchet,{{tr:hv_unit_trebuchet}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_warrior_monks,{{tr:hv_unit_warrior_monks}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_white_feathers,{{tr:hv_unit_white_feathers}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_white_horse_fellows,{{tr:hv_unit_white_horse_fellows}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_white_tiger_bandits,{{tr:hv_unit_white_tiger_bandits}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_white_tiger_guardsmen,{{tr:hv_unit_white_tiger_guardsmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_white_tiger_warriors,{{tr:hv_unit_white_tiger_warriors}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_wolf_pack,Wolf Pack: for recruitment: %+n,True
-effects_description_hv_effect_unit_cap_wugou_axe_throwers,Wuguo Axe Throwers: for recruitment: %+n,True
-effects_description_hv_effect_unit_cap_wuhuan_barded_cavalry,{{tr:hv_unit_wuhuan_barded_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_wuhuan_cavalry,{{tr:hv_unit_wuhuan_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_wuling_fighters,Wuling Fighters: for recruitment: %+n,True
-effects_description_hv_effect_unit_cap_xian_chen_ying,{{tr:hv_unit_xian_chen_ying}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_xianbei_archer_cavalry,{{tr:hv_unit_xianbei_archer_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_xiliang_buqu_archer_cavalry,{{tr:hv_unit_xiliang_buqu_archer_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_xiliang_buqu_crossbowmen,{{tr:hv_unit_xiliang_buqu_crossbowmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_xiliang_buqu_hand_ji_infantry,{{tr:hv_unit_xiliang_buqu_hand_ji_infantry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_xiliang_buqu_ji_infantry,{{tr:hv_unit_xiliang_buqu_ji_infantry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_xiliang_buqu_rep_crossbowmen,{{tr:hv_unit_xiliang_buqu_rep_crossbowmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_xiliang_buqu_sabre_cavalry,{{tr:hv_unit_xiliang_buqu_sabre_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_xiliang_buqu_spear_cavalry,{{tr:hv_unit_xiliang_buqu_spear_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_xiliang_buqu_spearmen,{{tr:hv_unit_xiliang_buqu_spearmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_xiliang_elite_2h_swordsmen,{{tr:hv_unit_xiliang_elite_2h_swordsmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_xiliang_elite_barded_2h_spear_cavalry,{{tr:hv_unit_xiliang_elite_barded_2h_spear_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_xiliang_elite_crossbowmen,{{tr:hv_unit_xiliang_elite_crossbowmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_xiliang_elite_enforcers,{{tr:hv_unit_xiliang_elite_enforcers}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_xiliang_elite_ji_cavalry,{{tr:hv_unit_xiliang_elite_ji_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_xiliang_elite_mace_cavalry,{{tr:hv_unit_xiliang_elite_mace_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_xiliang_elite_spearmen,{{tr:hv_unit_xiliang_elite_spearmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_xiongnu_archer_cavalry,{{tr:hv_unit_xiongnu_archer_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_xiongnu_barded_cavalry,{{tr:hv_unit_xiongnu_barded_cavalry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_xiongnu_javelineer,{{tr:hv_unit_xiongnu_javelineer}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_yellow_dragons,{{tr:hv_unit_yellow_dragons}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_ytr_bringers_of_righteousness,{{tr:hv_unit_ytr_bringers_of_righteousness}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_ytr_peoples_warband,{{tr:hv_unit_ytr_peoples_warband}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_ytr_poachers,{{tr:hv_unit_ytr_poachers}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_ytr_venerable_wu,{{tr:hv_unit_ytr_venerable_wu}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_ytr_white_wave_horsemen,{{tr:hv_unit_ytr_white_wave_horsemen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_ytr_white_wave_veterans,{{tr:hv_unit_ytr_white_wave_veterans}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_ytr_zealots_of_the_way,{{tr:hv_unit_ytr_zealots_of_the_way}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_yuan_ji_guards,{{tr:hv_unit_yuan_ji_guards}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_yuan_rong_crossbowmen,{{tr:hv_unit_yuan_rong_crossbowmen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_yuan_sword_infantry,{{tr:hv_unit_yuan_sword_infantry}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_yue_freemen,{{tr:hv_unit_yue_freemen}}部署量：%+n,True
-effects_description_hv_effect_unit_cap_zhong_royal_guard,{{tr:hv_unit_zhong_royal_guard}}部署量：%+n,True
+effects_description_hv_effect_unit_cap_chen_peacekeepers_crossbowmen,可招募{{tr:hv_unit_chen_peacekeepers_crossbowmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_chen_peacekeepers_halberd_infantry,可招募{{tr:hv_unit_chen_peacekeepers_halberd_infantry}}數：%+n,True
+effects_description_hv_effect_unit_cap_chen_royal_guard_cavalry,可招募{{tr:hv_unit_chen_royal_guard_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_dan_yang_archers,可招募{{tr:hv_unit_dan_yang_archers}}數：%+n,True
+effects_description_hv_effect_unit_cap_dan_yang_infantry,可招募{{tr:hv_unit_dan_yang_infantry}}數：%+n,True
+effects_description_hv_effect_unit_cap_dan_yang_spearmen,可招募{{tr:hv_unit_dan_yang_spearmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_defenders_of_earth,可招募{{tr:hv_unit_defenders_of_earth}}數：%+n,True
+effects_description_hv_effect_unit_cap_defenders_of_earth_might,可招募{{tr:hv_unit_defenders_of_earth_might}}數：%+n,True
+effects_description_hv_effect_unit_cap_elite_2h_axemen,可招募{{tr:hv_unit_elite_2h_axemen}}數：%+n,True
+effects_description_hv_effect_unit_cap_elite_2h_spear_cavalry,可招募{{tr:hv_unit_elite_2h_spear_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_elite_2h_spearmen,可招募{{tr:hv_unit_elite_2h_spearmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_elite_2h_swordsmen,可招募{{tr:hv_unit_elite_2h_swordsmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_elite_barded_2h_spear_cavalry,可招募{{tr:hv_unit_elite_barded_2h_spear_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_elite_crossbowmen,可招募{{tr:hv_unit_elite_crossbowmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_elite_heavy_bow_archers,可招募{{tr:hv_unit_elite_heavy_bow_archers}}數：%+n,True
+effects_description_hv_effect_unit_cap_elite_ji_infantry,可招募{{tr:hv_unit_elite_ji_infantry}}數：%+n,True
+effects_description_hv_effect_unit_cap_elite_rep_crossbowmen,可招募{{tr:hv_unit_elite_rep_crossbowmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_elite_spearmen,可招募{{tr:hv_unit_elite_spearmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_elite_sword_cavalry,可招募{{tr:hv_unit_elite_sword_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_elite_swordsmen,可招募{{tr:hv_unit_elite_swordsmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_enforcer_archer_cavalry,可招募{{tr:hv_unit_enforcer_archer_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_fellows_of_the_oath,可招募{{tr:hv_unit_fellows_of_the_oath}}數：%+n,True
+effects_description_hv_effect_unit_cap_fire_archers,可招募火矢弓兵數：%+n,True
+effects_description_hv_effect_unit_cap_followers_of_the_flame,可招募火神信徒數：%+n,True
+effects_description_hv_effect_unit_cap_goshawk_cavalry,可招募{{tr:hv_unit_goshawk_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_han_volunteer_rep_crossbowmen,可招募{{tr:hv_unit_han_volunteer_rep_crossbowmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_han_volunteer_spearmen,可招募{{tr:hv_unit_han_volunteer_spearmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_handmaid_guard,可招募{{tr:hv_unit_handmaid_guard}}數：%+n,True
+effects_description_hv_effect_unit_cap_hebei_spearmen,可招募{{tr:hv_unit_hebei_spearmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_hebei_sword_cavalry,可招募{{tr:hv_unit_hebei_sword_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_hidden_2h_spearmen,可招募{{tr:hv_unit_hidden_2h_spearmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_hidden_assault_infantry,可招募{{tr:hv_unit_hidden_assault_infantry}}數：%+n,True
+effects_description_hv_effect_unit_cap_hidden_snakes,可招募{{tr:hv_unit_hidden_snakes}}數：%+n,True
+effects_description_hv_effect_unit_cap_iron_fists_of_the_bandit_queen,可招募{{tr:hv_unit_iron_fists_of_the_bandit_queen}}數：%+n,True
+effects_description_hv_effect_unit_cap_ironfist_barded_2h_spear_cavalry,可招募{{tr:hv_unit_ironfist_barded_2h_spear_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_jade_dragons,可招募{{tr:hv_unit_jade_dragons}}數：%+n,True
+effects_description_hv_effect_unit_cap_jei_fan_infantry,可招募{{tr:hv_unit_jei_fan_infantry}}數：%+n,True
+effects_description_hv_effect_unit_cap_jianan_archers,可招募{{tr:hv_unit_jianan_archers}}數：%+n,True
+effects_description_hv_effect_unit_cap_jianan_crossbowmen,可招募{{tr:hv_unit_jianan_crossbowmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_jianan_crossbowmen_cavalry,可招募{{tr:hv_unit_jianan_crossbowmen_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_jianan_hand_ji_infantry,可招募{{tr:hv_unit_jianan_hand_ji_infantry}}數：%+n,True
+effects_description_hv_effect_unit_cap_jianan_rep_crossbowmen,可招募{{tr:hv_unit_jianan_rep_crossbowmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_jingchou_buqu_2h_axemen,可招募{{tr:hv_unit_jingchou_buqu_2h_axemen}}數：%+n,True
+effects_description_hv_effect_unit_cap_jingchou_buqu_2h_spear_cavalry,可招募{{tr:hv_unit_jingchou_buqu_2h_spear_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_jingchou_buqu_2h_spearmen,可招募{{tr:hv_unit_jingchou_buqu_2h_spearmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_jingchou_buqu_archers,可招募{{tr:hv_unit_jingchou_buqu_archers}}數：%+n,True
+effects_description_hv_effect_unit_cap_jingchou_buqu_axemen,可招募{{tr:hv_unit_jingchou_buqu_axemen}}數：%+n,True
+effects_description_hv_effect_unit_cap_jingchou_buqu_caltrop_infantry,可招募{{tr:hv_unit_jingchou_buqu_caltrop_infantry}}數：%+n,True
+effects_description_hv_effect_unit_cap_jingchou_buqu_sabre_cavalry,可招募{{tr:hv_unit_jingchou_buqu_sabre_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_juggernaut,可招募{{tr:hv_unit_juggernaut}}數：%+n,True
+effects_description_hv_effect_unit_cap_local_noble_buqu_archers,可招募{{tr:hv_unit_local_noble_buqu_archers}}數：%+n,True
+effects_description_hv_effect_unit_cap_local_noble_buqu_infantry,可招募{{tr:hv_unit_local_noble_buqu_infantry}}數：%+n,True
+effects_description_hv_effect_unit_cap_local_noble_buqu_raider_cavalry,可招募{{tr:hv_unit_local_noble_buqu_raider_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_local_noble_buqu_spearmen,可招募{{tr:hv_unit_local_noble_buqu_spearmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_local_noble_elite_archers,可招募{{tr:hv_unit_local_noble_elite_archers}}數：%+n,True
+effects_description_hv_effect_unit_cap_mercenary_archers,可招募{{tr:hv_unit_mercenary_archers}}數：%+n,True
+effects_description_hv_effect_unit_cap_mercenary_cavalry,可招募{{tr:hv_unit_mercenary_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_mercenary_infantry,可招募{{tr:hv_unit_mercenary_infantry}}數：%+n,True
+effects_description_hv_effect_unit_cap_might_of_the_valley,可招募五谿豪傑數：%+n,True
+effects_description_hv_effect_unit_cap_militia_2h_axemen,可招募{{tr:hv_unit_militia_2h_axemen}}數：%+n,True
+effects_description_hv_effect_unit_cap_militia_archers,可招募{{tr:hv_unit_militia_archers}}數：%+n,True
+effects_description_hv_effect_unit_cap_militia_black_mountain_outlaws,可招募{{tr:hv_unit_militia_black_mountain_outlaws}}數：%+n,True
+effects_description_hv_effect_unit_cap_militia_ji_infantry,可招募{{tr:hv_unit_militia_ji_infantry}}數：%+n,True
+effects_description_hv_effect_unit_cap_militia_sabre_infantry,可招募{{tr:hv_unit_militia_sabre_infantry}}數：%+n,True
+effects_description_hv_effect_unit_cap_militia_scout_cavalry,可招募{{tr:hv_unit_militia_scout_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_militia_taishan_outlaws,可招募{{tr:hv_unit_militia_taishan_outlaws}}數：%+n,True
+effects_description_hv_effect_unit_cap_militia_white_tiger_outlaws,可招募{{tr:hv_unit_militia_white_tiger_outlaws}}數：%+n,True
+effects_description_hv_effect_unit_cap_multiple_bolt_crossbow,可招募{{tr:hv_unit_multiple_bolt_crossbow}}數：%+n,True
+effects_description_hv_effect_unit_cap_nanman_axe_defectors,可招募{{tr:hv_unit_nanman_axe_defectors}}數：%+n,True
+effects_description_hv_effect_unit_cap_nanman_cavalry_defectors,可招募{{tr:hv_unit_nanman_cavalry_defectors}}數：%+n,True
+effects_description_hv_effect_unit_cap_nanman_crossbow_defectors,可招募{{tr:hv_unit_nanman_crossbow_defectors}}數：%+n,True
+effects_description_hv_effect_unit_cap_nanman_southern_foreign_rangers,可招募{{tr:hv_unit_nanman_southern_foreign_rangers}}數：%+n,True
+effects_description_hv_effect_unit_cap_nanman_southern_foreign_warriors,可招募{{tr:hv_unit_nanman_southern_foreign_warriors}}數：%+n,True
+effects_description_hv_effect_unit_cap_nanman_southern_shield_bearers,可招募{{tr:hv_unit_nanman_southern_shield_bearers}}數：%+n,True
+effects_description_hv_effect_unit_cap_nanman_spear_defectors,可招募{{tr:hv_unit_nanman_spear_defectors}}數：%+n,True
+effects_description_hv_effect_unit_cap_nomad_gang_cavalry,可招募{{tr:hv_unit_nomad_gang_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_northern_mace_cavalry,可招募{{tr:hv_unit_northern_mace_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_northern_spear_cavalry,可招募{{tr:hv_unit_northern_spear_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_onyx_dragons,可招募{{tr:hv_unit_onyx_dragons}}數：%+n,True
+effects_description_hv_effect_unit_cap_pearl_dragons,可招募{{tr:hv_unit_pearl_dragons}}數：%+n,True
+effects_description_hv_effect_unit_cap_porcupine_crossbowmen,可招募{{tr:hv_unit_porcupine_crossbowmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_protectors_of_heaven,可招募{{tr:hv_unit_protectors_of_heaven}}數：%+n,True
+effects_description_hv_effect_unit_cap_protectors_of_heaven_might,可招募{{tr:hv_unit_protectors_of_heaven_might}}數：%+n,True
+effects_description_hv_effect_unit_cap_qiang_archers,可招募{{tr:hv_unit_qiang_archers}}數：%+n,True
+effects_description_hv_effect_unit_cap_qiang_axemen,可招募{{tr:hv_unit_qiang_axemen}}數：%+n,True
+effects_description_hv_effect_unit_cap_qiang_elite_ranger_cavalry,可招募{{tr:hv_unit_qiang_elite_ranger_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_qiang_elite_warrior_cavalry,可招募{{tr:hv_unit_qiang_elite_warrior_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_qiang_javelineer,可招募{{tr:hv_unit_qiang_javelineer}}數：%+n,True
+effects_description_hv_effect_unit_cap_qiang_ji_infantry,可招募{{tr:hv_unit_qiang_ji_infantry}}數：%+n,True
+effects_description_hv_effect_unit_cap_qiang_spear_cavalry,可招募{{tr:hv_unit_qiang_spear_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_qingzhou_2h_axe_infantry,可招募{{tr:hv_unit_qingzhou_2h_axe_infantry}}數：%+n,True
+effects_description_hv_effect_unit_cap_qingzhou_hand_ji_infantry,可招募{{tr:hv_unit_qingzhou_hand_ji_infantry}}數：%+n,True
+effects_description_hv_effect_unit_cap_qingzhou_raider_cavalry,可招募{{tr:hv_unit_qingzhou_raider_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_rapid_tigers,可招募{{tr:hv_unit_rapid_tigers}}數：%+n,True
+effects_description_hv_effect_unit_cap_ravine_warriors,可招募洞兵數：%+n,True
+effects_description_hv_effect_unit_cap_sanjiang_poison_darts,可招募三江毒鏢兵數：%+n,True
+effects_description_hv_effect_unit_cap_shanyue_javelineer,可招募{{tr:hv_unit_shanyue_javelineer}}數：%+n,True
+effects_description_hv_effect_unit_cap_shanyue_remnants,可招募{{tr:hv_unit_shanyue_remnants}}數：%+n,True
+effects_description_hv_effect_unit_cap_shanyue_warriors,可招募{{tr:hv_unit_shanyue_warriors}}數：%+n,True
+effects_description_hv_effect_unit_cap_sogd_barded_cavalry,可招募{{tr:hv_unit_sogd_barded_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_sogd_warriors,可招募{{tr:hv_unit_sogd_warriors}}數：%+n,True
+effects_description_hv_effect_unit_cap_spice_guard,可招募{{tr:hv_unit_spice_guard}}數：%+n,True
+effects_description_hv_effect_unit_cap_stray_artisans,可招募{{tr:hv_unit_stray_artisans}}數：%+n,True
+effects_description_hv_effect_unit_cap_swallow_cavalry,可招募{{tr:hv_unit_swallow_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_taishan_phantoms,可招募{{tr:hv_unit_taishan_phantoms}}數：%+n,True
+effects_description_hv_effect_unit_cap_taishan_poison_wind,可招募{{tr:hv_unit_taishan_poison_wind}}數：%+n,True
+effects_description_hv_effect_unit_cap_tiger_and_leopard_barded_cavalry,可招募{{tr:hv_unit_tiger_and_leopard_barded_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_tiger_and_leopard_cavalry,可招募{{tr:hv_unit_tiger_and_leopard_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_trebuchet,可招募{{tr:hv_unit_trebuchet}}數：%+n,True
+effects_description_hv_effect_unit_cap_warrior_monks,可招募{{tr:hv_unit_warrior_monks}}數：%+n,True
+effects_description_hv_effect_unit_cap_white_feathers,可招募{{tr:hv_unit_white_feathers}}數：%+n,True
+effects_description_hv_effect_unit_cap_white_horse_fellows,可招募{{tr:hv_unit_white_horse_fellows}}數：%+n,True
+effects_description_hv_effect_unit_cap_white_tiger_bandits,可招募{{tr:hv_unit_white_tiger_bandits}}數：%+n,True
+effects_description_hv_effect_unit_cap_white_tiger_guardsmen,可招募{{tr:hv_unit_white_tiger_guardsmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_white_tiger_warriors,可招募{{tr:hv_unit_white_tiger_warriors}}數：%+n,True
+effects_description_hv_effect_unit_cap_wolf_pack,可招募群狼兵數：%+n,True
+effects_description_hv_effect_unit_cap_wugou_axe_throwers,可招募烏戈飛斧手數：%+n,True
+effects_description_hv_effect_unit_cap_wuhuan_barded_cavalry,可招募{{tr:hv_unit_wuhuan_barded_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_wuhuan_cavalry,可招募{{tr:hv_unit_wuhuan_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_wuling_fighters,可招募武陵鬥士數：%+n,True
+effects_description_hv_effect_unit_cap_xian_chen_ying,可招募{{tr:hv_unit_xian_chen_ying}}數：%+n,True
+effects_description_hv_effect_unit_cap_xianbei_archer_cavalry,可招募{{tr:hv_unit_xianbei_archer_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_xiliang_buqu_archer_cavalry,可招募{{tr:hv_unit_xiliang_buqu_archer_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_xiliang_buqu_crossbowmen,可招募{{tr:hv_unit_xiliang_buqu_crossbowmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_xiliang_buqu_hand_ji_infantry,可招募{{tr:hv_unit_xiliang_buqu_hand_ji_infantry}}數：%+n,True
+effects_description_hv_effect_unit_cap_xiliang_buqu_ji_infantry,可招募{{tr:hv_unit_xiliang_buqu_ji_infantry}}數：%+n,True
+effects_description_hv_effect_unit_cap_xiliang_buqu_rep_crossbowmen,可招募{{tr:hv_unit_xiliang_buqu_rep_crossbowmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_xiliang_buqu_sabre_cavalry,可招募{{tr:hv_unit_xiliang_buqu_sabre_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_xiliang_buqu_spear_cavalry,可招募{{tr:hv_unit_xiliang_buqu_spear_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_xiliang_buqu_spearmen,可招募{{tr:hv_unit_xiliang_buqu_spearmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_xiliang_elite_2h_swordsmen,可招募{{tr:hv_unit_xiliang_elite_2h_swordsmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_xiliang_elite_barded_2h_spear_cavalry,可招募{{tr:hv_unit_xiliang_elite_barded_2h_spear_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_xiliang_elite_crossbowmen,可招募{{tr:hv_unit_xiliang_elite_crossbowmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_xiliang_elite_enforcers,可招募{{tr:hv_unit_xiliang_elite_enforcers}}數：%+n,True
+effects_description_hv_effect_unit_cap_xiliang_elite_ji_cavalry,可招募{{tr:hv_unit_xiliang_elite_ji_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_xiliang_elite_mace_cavalry,可招募{{tr:hv_unit_xiliang_elite_mace_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_xiliang_elite_spearmen,可招募{{tr:hv_unit_xiliang_elite_spearmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_xiongnu_archer_cavalry,可招募{{tr:hv_unit_xiongnu_archer_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_xiongnu_barded_cavalry,可招募{{tr:hv_unit_xiongnu_barded_cavalry}}數：%+n,True
+effects_description_hv_effect_unit_cap_xiongnu_javelineer,可招募{{tr:hv_unit_xiongnu_javelineer}}數：%+n,True
+effects_description_hv_effect_unit_cap_yellow_dragons,可招募{{tr:hv_unit_yellow_dragons}}數：%+n,True
+effects_description_hv_effect_unit_cap_ytr_bringers_of_righteousness,可招募{{tr:hv_unit_ytr_bringers_of_righteousness}}數：%+n,True
+effects_description_hv_effect_unit_cap_ytr_peoples_warband,可招募{{tr:hv_unit_ytr_peoples_warband}}數：%+n,True
+effects_description_hv_effect_unit_cap_ytr_poachers,可招募{{tr:hv_unit_ytr_poachers}}數：%+n,True
+effects_description_hv_effect_unit_cap_ytr_venerable_wu,可招募{{tr:hv_unit_ytr_venerable_wu}}數：%+n,True
+effects_description_hv_effect_unit_cap_ytr_white_wave_horsemen,可招募{{tr:hv_unit_ytr_white_wave_horsemen}}數：%+n,True
+effects_description_hv_effect_unit_cap_ytr_white_wave_veterans,可招募{{tr:hv_unit_ytr_white_wave_veterans}}數：%+n,True
+effects_description_hv_effect_unit_cap_ytr_zealots_of_the_way,可招募{{tr:hv_unit_ytr_zealots_of_the_way}}數：%+n,True
+effects_description_hv_effect_unit_cap_yuan_ji_guards,可招募{{tr:hv_unit_yuan_ji_guards}}數：%+n,True
+effects_description_hv_effect_unit_cap_yuan_rong_crossbowmen,可招募{{tr:hv_unit_yuan_rong_crossbowmen}}數：%+n,True
+effects_description_hv_effect_unit_cap_yuan_sword_infantry,可招募{{tr:hv_unit_yuan_sword_infantry}}數：%+n,True
+effects_description_hv_effect_unit_cap_yue_freemen,可招募{{tr:hv_unit_yue_freemen}}數：%+n,True
+effects_description_hv_effect_unit_cap_zhong_royal_guard,可招募{{tr:hv_unit_zhong_royal_guard}}數：%+n,True
 effects_description_hv_effect_unit_stat_armour_metal,近戰步兵護甲[[b]]%+n%[[/b]],True
 effects_description_hv_effect_unit_stat_charge_bonus_earth,近戰騎兵衝鋒加成[[b]]%+n[[/b]],True
 effects_description_hv_effect_unit_stat_charge_bonus_metal,近戰步兵衝鋒加成[[b]]%+n[[/b]],True
@@ -2501,9 +2501,9 @@ effects_description_hv_effect_unlock_crash,技能：天崩地裂,True
 effects_description_hv_effect_unlock_crossing_of_the_styx,技能：黃泉之路,True
 effects_description_hv_effect_unlock_cruel_lord,技能：強令,True
 effects_description_hv_effect_unlock_cry_of_the_forest,技能：森林戰嚎,True
-effects_description_hv_effect_unlock_danyang_01,解鎖單位：{{tr:hv_unit_dan_yang_spearmen}},True
-effects_description_hv_effect_unlock_danyang_02,解鎖單位：{{tr:hv_unit_dan_yang_archers}},True
-effects_description_hv_effect_unlock_danyang_03,解鎖單位：{{tr:hv_unit_dan_yang_infantry}},True
+effects_description_hv_effect_unlock_danyang_01,解除單位鎖定：{{tr:hv_unit_dan_yang_spearmen}},True
+effects_description_hv_effect_unlock_danyang_02,解除單位鎖定：{{tr:hv_unit_dan_yang_archers}},True
+effects_description_hv_effect_unlock_danyang_03,解除單位鎖定：{{tr:hv_unit_dan_yang_infantry}},True
 effects_description_hv_effect_unlock_defence_mastery,技能：山陣,True
 effects_description_hv_effect_unlock_desperate_cry,技能：慘烈呼喊,True
 effects_description_hv_effect_unlock_devastating_roar,技能：毀滅之吼,True
@@ -2571,7 +2571,7 @@ effects_description_hv_effect_unlock_second_chance,技能：餘燼,True
 effects_description_hv_effect_unlock_show_of_force,技能：揚威挫銳,True
 effects_description_hv_effect_unlock_sight_of_the_dragon,技能：龍之慧眼,True
 effects_description_hv_effect_unlock_smouldering_fury,技能：怒火中燒,True
-effects_description_hv_effect_unlock_sogd,"解鎖單位：{{tr:hv_unit_sogd_warriors}}, {{tr:hv_unit_sogd_barded_cavalry}}",True
+effects_description_hv_effect_unlock_sogd,"解除單位鎖定：{{tr:hv_unit_sogd_warriors}}, {{tr:hv_unit_sogd_barded_cavalry}}",True
 effects_description_hv_effect_unlock_sogd_remove_penalty,裝備此隨從後，須等到10回合後才能解除。之後此隨從即會消失。,True
 effects_description_hv_effect_unlock_sparrow,技能：燕翔,True
 effects_description_hv_effect_unlock_stalwart_defender,技能：步步為營,True
@@ -2595,7 +2595,7 @@ effects_description_hv_effect_unlock_veil_of_darkness,技能：黑暗之幕,True
 effects_description_hv_effect_unlock_vengeance,技能：報仇雪恨,True
 effects_description_hv_effect_unlock_warning_shot,技能：警告射擊,True
 effects_description_hv_effect_unlock_way_of_the_wind,技能：預測風向,True
-effects_description_hv_effect_unlock_white_horse_fellows,解鎖單位：{{tr:hv_unit_white_horse_fellows}},True
+effects_description_hv_effect_unlock_white_horse_fellows,解除單位鎖定：{{tr:hv_unit_white_horse_fellows}},True
 effects_description_hv_effect_unlock_white_horse_fellows_remove_penalty,裝備此隨從後，須等到10回合後才能解除。之後此隨從即會消失。,True
 effects_description_hv_effect_unlock_whitewater,技能：激流湧升,True
 effects_description_hv_effect_unlock_wildfire,技能：烈火,True
@@ -2604,19 +2604,19 @@ effects_description_hv_effect_unlock_wisdom_of_the_waterfall,技能：飛泉之�
 effects_description_hv_effect_unlock_wolf,技能：惡狼,True
 effects_description_hv_effect_unlock_wu_brave,技能：東吳之勇,True
 effects_description_hv_effect_unlock_youzansen,技能：橫掃千軍,True
-effects_description_hv_effect_unlock_yuan_01,解鎖單位：{{tr:hv_unit_yuan_sword_infantry}},True
-effects_description_hv_effect_unlock_yuan_02,解鎖單位：{{tr:hv_unit_yuan_ji_guards}},True
+effects_description_hv_effect_unlock_yuan_01,解除單位鎖定：{{tr:hv_unit_yuan_sword_infantry}},True
+effects_description_hv_effect_unlock_yuan_02,解除單位鎖定：{{tr:hv_unit_yuan_ji_guards}},True
 effects_description_hv_effect_unlock_yuan_remove_penalty,裝備此隨從後，須等到10回合後才能解除。之後此隨從即會消失。,True
 effects_description_hv_effect_unlock_zhou_the_youth,技能：美周郎,True
-effects_description_hv_effect_xian_chen_ying_charge_bonus,陷陣營衝鋒加成 [[b]]%+n[[/b]],True
-effects_description_hv_effect_xian_chen_ying_damange_resistance,陷陣營傷害抗性 [[b]]%+n%[[/b]],True
-effects_description_hv_effect_xian_chen_ying_upkeep,部隊維持費 [[b]]%+n%[[/b]],True
+effects_description_hv_effect_xian_chen_ying_charge_bonus,陷陣營衝鋒加成[[b]]%+n[[/b]],True
+effects_description_hv_effect_xian_chen_ying_damange_resistance,陷陣營傷害抵抗力[[b]]%+n%[[/b]],True
+effects_description_hv_effect_xian_chen_ying_upkeep,陷陣營維持費[[b]]%+n%[[/b]],True
 effects_description_hv_effect_yuan_armoury_captain_ability_passive,技能：密計,True
-effects_description_hv_effects_skill_add_unlock_earth,解鎖單位：{{tr:hv_tr_earth}}單位,True
-effects_description_hv_effects_skill_add_unlock_fire,解鎖單位：{{tr:hv_tr_fire}}單位,True
-effects_description_hv_effects_skill_add_unlock_metal,解鎖單位：{{tr:hv_tr_metal}}單位,True
-effects_description_hv_effects_skill_add_unlock_water,解鎖單位：{{tr:hv_tr_water}}單位,True
-effects_description_hv_effects_skill_add_unlock_wood,解鎖單位：{{tr:hv_tr_wood}}單位,True
+effects_description_hv_effects_skill_add_unlock_earth,解除單位鎖定：{{tr:hv_tr_earth}}單位,True
+effects_description_hv_effects_skill_add_unlock_fire,解除單位鎖定：{{tr:hv_tr_fire}}單位,True
+effects_description_hv_effects_skill_add_unlock_metal,解除單位鎖定：{{tr:hv_tr_metal}}單位,True
+effects_description_hv_effects_skill_add_unlock_water,解除單位鎖定：{{tr:hv_tr_water}}單位,True
+effects_description_hv_effects_skill_add_unlock_wood,解除單位鎖定：{{tr:hv_tr_wood}}單位,True
 effects_description_hv_effects_unlock_historical_ability_earth_01,技能：劍刃風暴,True
 effects_description_hv_effects_unlock_historical_ability_earth_02,技能：堅若磐石,True
 effects_description_hv_effects_unlock_historical_ability_earth_03,技能：集結,True
@@ -2689,7 +2689,7 @@ effects_description_hv_tech_effect_yue_replenishment,越族單位補員速率[[b
 effects_description_hv_tech_effect_yue_upkeep,越族單位維持費[[b]]%+n%[[/b]],True
 effects_description_hv_tech_turn_reset,下次改革可以馬上執行，無需冷卻,True
 effects_description_hv_tech_turn_tier_0,下一次改革需 [[b]]%n[[/b]] 回合,True
-effects_generalised_descriptions_localised_description_3k_dlc05_frontend_generalised_description_specialisation_white_tiger_yan_4,• 可以招募大漢单位,False
+effects_generalised_descriptions_localised_description_3k_dlc05_frontend_generalised_description_specialisation_white_tiger_yan_4,• 可以招募大漢單位,False
 effects_generalised_descriptions_localised_description_hv_frontend_generalised_description_specialisation_gongsun_zan_1,• 改善軍事,False
 effects_generalised_descriptions_localised_description_hv_frontend_generalised_description_specialisation_gongsun_zan_2,•專屬宮廷職位：軍事督察,False
 effects_generalised_descriptions_localised_description_hv_frontend_generalised_description_specialisation_gongsun_zan_3,• 限制行政官員數,False
@@ -2700,7 +2700,7 @@ effects_generalised_descriptions_localised_description_hv_frontend_generalised_d
 effects_generalised_descriptions_localised_description_hv_frontend_generalised_description_specialisation_ma_teng_1,• 改善騎兵單位,False
 effects_generalised_descriptions_localised_description_hv_frontend_generalised_description_specialisation_ma_teng_2,• 軍隊紮營時可以搜糧,False
 effects_generalised_descriptions_localised_description_hv_frontend_generalised_description_specialisation_ma_teng_3,• 提升軍事物資補給加成,False
-effects_generalised_descriptions_localised_description_hv_frontend_generalised_description_specialisation_zhang_yan_1,• 可以改善独特单位,False
+effects_generalised_descriptions_localised_description_hv_frontend_generalised_description_specialisation_zhang_yan_1,• 可以改善獨特單位,False
 effects_generalised_descriptions_localised_description_hv_frontend_generalised_description_specialisation_zhang_yan_2,• 可增進與黃巾軍的關係,False
 effects_generalised_descriptions_localised_description_hv_frontend_generalised_description_specialisation_zhang_yan_3,• 可在攻擊期間發動伏擊,False
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_chen_jiu_hero_wood_190,[[b]]龐德[[/b]]\\n白馬將軍\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]龐德戒昭果毅，敵者必討[[/col]][[/i]],False
@@ -2924,12 +2924,12 @@ land_units_onscreen_name_3k_dlc07_unit_wood_northern_veteran_ji_infantry,{{tr:3k
 land_units_onscreen_name_3k_dlc07_unit_wood_northern_veteran_spears,{{tr:3k_dlc07_unit_wood_northern_veteran_spears}},True
 land_units_onscreen_name_3k_mtu_hero_earth_lady_bian_huilan,劉氏,True
 land_units_onscreen_name_3k_mtu_hero_water_lady_zou_yuan,鄒氏,False
-land_units_onscreen_name_ep_general_sima_jiong,Zhang Fang,False
-land_units_onscreen_name_ep_general_sima_wei,Jiang Qin,False
-land_units_onscreen_name_ep_hero_sima_jiong,Zhang Fang,False
-land_units_onscreen_name_ep_hero_sima_wei,Jiang Qin,False
-land_units_onscreen_name_hv_general_fire_ji_ling,Ji Ling,False
-land_units_onscreen_name_hv_hero_fire_ji_ling,Ji Ling,False
+land_units_onscreen_name_ep_general_sima_jiong,張方,False
+land_units_onscreen_name_ep_general_sima_wei,蔣欽,False
+land_units_onscreen_name_ep_hero_sima_jiong,張方,False
+land_units_onscreen_name_ep_hero_sima_wei,蔣欽,False
+land_units_onscreen_name_hv_general_fire_ji_ling,纪灵,False
+land_units_onscreen_name_hv_hero_fire_ji_ling,纪灵,False
 land_units_onscreen_name_hv_unit_azure_dragons,{{tr:hv_unit_azure_dragons}},True
 land_units_onscreen_name_hv_unit_bandits_2h_spear_cavalry,{{tr:hv_unit_bandits_2h_spear_cavalry}},True
 land_units_onscreen_name_hv_unit_bandits_2h_spear_infantry,{{tr:hv_unit_bandits_2h_spear_infantry}},True
@@ -3275,10 +3275,10 @@ special_ability_phases_onscreen_name_hv_ability_bandit_unlock_water_1,Bandit: Im
 special_ability_phases_onscreen_name_hv_ability_bandit_unlock_water_2,Bandit: Improvisation,True
 special_ability_phases_onscreen_name_hv_ability_bandit_unlock_wood,Bandit: Deeply-Rooted,True
 special_ability_phases_onscreen_name_hv_ability_barded_missile_resistance,重馬鎧,True
-special_ability_phases_onscreen_name_hv_ability_battle_hardened_cavalry,Battle Hardened (Cavalry),True
-special_ability_phases_onscreen_name_hv_ability_battle_hardened_melee,Battle Hardened (Melee),True
-special_ability_phases_onscreen_name_hv_ability_battle_hardened_ranged,Battle Hardened (Ranged),True
-special_ability_phases_onscreen_name_hv_ability_battle_hardened_spear,Battle Hardened (Spear),True
+special_ability_phases_onscreen_name_hv_ability_battle_hardened_cavalry,久經沙場（騎兵）,True
+special_ability_phases_onscreen_name_hv_ability_battle_hardened_melee,久經沙場（近戰）,True
+special_ability_phases_onscreen_name_hv_ability_battle_hardened_ranged,久經沙場（遠程）,True
+special_ability_phases_onscreen_name_hv_ability_battle_hardened_spear,久經沙場（槍兵）,True
 special_ability_phases_onscreen_name_hv_ability_battle_trance_1,亂戰,True
 special_ability_phases_onscreen_name_hv_ability_battle_trance_2,亂戰,True
 special_ability_phases_onscreen_name_hv_ability_beihai_accuracy_1,精瞄,True
@@ -3525,10 +3525,10 @@ ui_text_replacements_localised_text_hv_unit_bandits_elite_two_blades,雙刃兵,T
 ui_text_replacements_localised_text_hv_unit_bandits_elite_you_shi_cavalry,游師騎兵,True
 ui_text_replacements_localised_text_hv_unit_bandits_fanatics,狂信徒,True
 ui_text_replacements_localised_text_hv_unit_bandits_heroic_outlaws,英勇匪徒,True
-ui_text_replacements_localised_text_hv_unit_bandits_men_of_thunder,Men of Thunder,True
+ui_text_replacements_localised_text_hv_unit_bandits_men_of_thunder,雷霆軍,True
 ui_text_replacements_localised_text_hv_unit_bandits_sabre_cavalry,盜賊掠奪者,True
-ui_text_replacements_localised_text_hv_unit_beihai_fury_crossbowmen,Fury of Beihai Marksmen,True
-ui_text_replacements_localised_text_hv_unit_beihai_fury_mace,Fury of Beihai Assaults,True
+ui_text_replacements_localised_text_hv_unit_beihai_fury_crossbowmen,北海之怒射手,True
+ui_text_replacements_localised_text_hv_unit_beihai_fury_mace,北海之怒衝鋒兵,True
 ui_text_replacements_localised_text_hv_unit_black_mountain_bandits,黑山惡斧團,True
 ui_text_replacements_localised_text_hv_unit_black_mountain_bandits_javelineer,黑山掠奪者,True
 ui_text_replacements_localised_text_hv_unit_blue_turban_infantry,藍巾兵,True
@@ -3602,8 +3602,8 @@ ui_text_replacements_localised_text_hv_unit_jingchou_buqu_archers,荊楚部曲�
 ui_text_replacements_localised_text_hv_unit_jingchou_buqu_axemen,荊楚部曲斧兵,True
 ui_text_replacements_localised_text_hv_unit_jingchou_buqu_caltrop_infantry,荊楚部曲蒺藜兵,True
 ui_text_replacements_localised_text_hv_unit_jingchou_buqu_sabre_cavalry,荊楚部曲刀騎兵,True
-ui_text_replacements_localised_text_hv_unit_jiuzhen_javelineer,Jiuzhen Javelineers,True
-ui_text_replacements_localised_text_hv_unit_jiuzhen_raider,Jiuzhen Raiders,True
+ui_text_replacements_localised_text_hv_unit_jiuzhen_javelineer,九真擲鋋兵,True
+ui_text_replacements_localised_text_hv_unit_jiuzhen_raider,九真劫匪,True
 ui_text_replacements_localised_text_hv_unit_juggernaut,火獸車,True
 ui_text_replacements_localised_text_hv_unit_local_noble_buqu_archers,家僕弓兵,True
 ui_text_replacements_localised_text_hv_unit_local_noble_buqu_infantry,家僕斧兵,True
@@ -3668,13 +3668,13 @@ ui_text_replacements_localised_text_hv_unit_warrior_monks,武僧,True
 ui_text_replacements_localised_text_hv_unit_white_feathers,白毦兵,True
 ui_text_replacements_localised_text_hv_unit_white_horse_fellows,白馬義從,True
 ui_text_replacements_localised_text_hv_unit_white_tiger_bandits,白虎劫匪,True
-ui_text_replacements_localised_text_hv_unit_white_tiger_bandits_slingers,White Tiger Slingers,True
+ui_text_replacements_localised_text_hv_unit_white_tiger_bandits_slingers,白虎投石兵,True
 ui_text_replacements_localised_text_hv_unit_white_tiger_guardsmen,白虎衛兵,True
 ui_text_replacements_localised_text_hv_unit_white_tiger_warriors,白虎馴獸師,True
 ui_text_replacements_localised_text_hv_unit_wuhuan_barded_cavalry,烏桓長槍鐵甲騎兵,True
 ui_text_replacements_localised_text_hv_unit_wuhuan_cavalry,烏桓騎兵,True
 ui_text_replacements_localised_text_hv_unit_xian_chen_ying,陷陣死士,True
-ui_text_replacements_localised_text_hv_unit_xian_chen_ying_2h_sabre,Xianchenying Vanguards,True
+ui_text_replacements_localised_text_hv_unit_xian_chen_ying_2h_sabre,陷陣營先鋒,True
 ui_text_replacements_localised_text_hv_unit_xianbei_archer_cavalry,鮮卑弓騎兵,True
 ui_text_replacements_localised_text_hv_unit_xiliang_buqu_archer_cavalry,西涼部曲弓騎兵,True
 ui_text_replacements_localised_text_hv_unit_xiliang_buqu_crossbowmen,西涼部曲弩兵,True
@@ -4859,7 +4859,7 @@ uied_component_texts_localised_string_bullet_point_1_NewState_Text_3388e0c7,假�
 uied_component_texts_localised_string_bullet_point_2_NewState_Text_54004a,孫策勢力中每位人物在達到5級后均會與他分享專長點。在9級、12級和15級時他們分別會產生一個額外的點數。,False
 uied_component_texts_localised_string_bullet_point_2_NewState_Text_54004aa,孫策勢力中每位人物在達到5級后均會與他分享專長點。在9級、12級和15級時他們分別會產生一個額外的點數。,False
 uied_component_texts_localised_string_bullet_point_2_NewState_Text_a4e16b75,於公元195年解鎖。一旦解除此鎖定，您便可以運用皇帝寵信度發佈[[b]]皇帝詔書[[/b]],False
-uied_component_texts_localised_string_button_replace_unit_Tooltip_1b8282,Unit List,True
+uied_component_texts_localised_string_button_replace_unit_Tooltip_1b8282,單位清單,True
 uied_component_texts_localised_string_label_text_false_Text_2a000e,在[[b]]{{CcoBattleDuel:FormatTime(TargetTimeRemaining)}}[[/b]]內獲勝,False
 uied_component_texts_localised_string_pre_unlock_active_Text_c2076aa9,公元195年獻帝成年時解除鎖定,False
 unit_abilities_onscreen_name_hv_ability_aggressive_anger,蠻力,True
@@ -4871,10 +4871,10 @@ unit_abilities_onscreen_name_hv_ability_bandit_unlock_metal,Bandit: Grievous Bit
 unit_abilities_onscreen_name_hv_ability_bandit_unlock_water,Bandit: Improvisation,True
 unit_abilities_onscreen_name_hv_ability_bandit_unlock_wood,Bandit: Deeply-Rooted,True
 unit_abilities_onscreen_name_hv_ability_barded_missile_resistance,重馬鎧,True
-unit_abilities_onscreen_name_hv_ability_battle_hardened_cavalry,Battle Hardened (Cavalry),True
-unit_abilities_onscreen_name_hv_ability_battle_hardened_melee,Battle Hardened (Melee),True
-unit_abilities_onscreen_name_hv_ability_battle_hardened_ranged,Battle Hardened (Ranged),True
-unit_abilities_onscreen_name_hv_ability_battle_hardened_spear,Battle Hardened (Spear),True
+unit_abilities_onscreen_name_hv_ability_battle_hardened_cavalry,久經沙場（騎兵）,True
+unit_abilities_onscreen_name_hv_ability_battle_hardened_melee,久經沙場（近戰）,True
+unit_abilities_onscreen_name_hv_ability_battle_hardened_ranged,久經沙場（遠程）,True
+unit_abilities_onscreen_name_hv_ability_battle_hardened_spear,久經沙場（槍兵）,True
 unit_abilities_onscreen_name_hv_ability_battle_trance,亂戰,True
 unit_abilities_onscreen_name_hv_ability_beihai_accuracy,精瞄,True
 unit_abilities_onscreen_name_hv_ability_beihai_reload,平心靜氣裝填彈藥,True
@@ -5253,10 +5253,10 @@ unit_ability_types_localised_description_hv_ability_bandit_unlock_metal,Bandit: 
 unit_ability_types_localised_description_hv_ability_bandit_unlock_water,Bandit: Improvisation,True
 unit_ability_types_localised_description_hv_ability_bandit_unlock_wood,Bandit: Deeply-Rooted,True
 unit_ability_types_localised_description_hv_ability_barded_missile_resistance,重馬鎧,True
-unit_ability_types_localised_description_hv_ability_battle_hardened_cavalry,Battle Hardened (Cavalry),True
-unit_ability_types_localised_description_hv_ability_battle_hardened_melee,Battle Hardened (Melee),True
-unit_ability_types_localised_description_hv_ability_battle_hardened_ranged,Battle Hardened (Ranged),True
-unit_ability_types_localised_description_hv_ability_battle_hardened_spear,Battle Hardened (Spear),True
+unit_ability_types_localised_description_hv_ability_battle_hardened_cavalry,久經沙場（騎兵）,True
+unit_ability_types_localised_description_hv_ability_battle_hardened_melee,久經沙場（近戰）,True
+unit_ability_types_localised_description_hv_ability_battle_hardened_ranged,久經沙場（遠程）,True
+unit_ability_types_localised_description_hv_ability_battle_hardened_spear,久經沙場（槍兵）,True
 unit_ability_types_localised_description_hv_ability_battle_trance,亂戰,True
 unit_ability_types_localised_description_hv_ability_beihai_accuracy,精瞄,True
 unit_ability_types_localised_description_hv_ability_beihai_reload,平心靜氣裝填彈藥,True
@@ -5576,7 +5576,7 @@ unit_ability_types_onscreen_name_hv_ability_favourable_skies,我方被動增益,
 unit_ability_types_onscreen_name_hv_ability_fearless_charge,自身主動增益（自動）,True
 unit_ability_types_onscreen_name_hv_ability_ferocity,自身主動增益（自動）,True
 unit_ability_types_onscreen_name_hv_ability_fire_control,我方主動增益,True
-unit_ability_types_onscreen_name_hv_ability_flame_breathing,被動增益,True
+unit_ability_types_onscreen_name_hv_ability_flame_breathing,近戰攻擊（自動）,True
 unit_ability_types_onscreen_name_hv_ability_fleet_footed,自身主動增益,True
 unit_ability_types_onscreen_name_hv_ability_flower_of_battlefield,敵方被動減益,True
 unit_ability_types_onscreen_name_hv_ability_foresight,自身被動增益,True
@@ -5654,7 +5654,7 @@ unit_ability_types_onscreen_name_hv_ability_xianchenying,敵方主動減益（�
 unit_ability_types_onscreen_name_hv_ability_xiliang_army,自身被動增益,True
 unit_ability_types_onscreen_name_hv_ability_xiliang_army_ranged,自身被動增益,True
 unit_ability_types_onscreen_name_hv_ability_young_blood,自身被動增益,True
-unit_ability_types_onscreen_name_hv_ability_youzansen,Melee Attack (Auto),True
+unit_ability_types_onscreen_name_hv_ability_youzansen,近戰攻擊（自動）,True
 unit_ability_types_onscreen_name_hv_ability_yuan_officer_passive,自身被動增益,True
 unit_ability_types_onscreen_name_hv_ability_zhou_the_youth,自身被動增益,True
 unit_ability_types_onscreen_name_hv_abillity_danyang_tradition,自身被動增益,True
