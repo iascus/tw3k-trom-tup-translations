@@ -1,9 +1,9 @@
 Text,Count,MappedByText,MappedByPattern,File
 ,2,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
-%-n black mountain decay,1,%-n黑山衰退,,hv_TEXT_effects_pooled_resource.loc.tsv
-%-n horse breeding decay,1,%-n养马衰退,,hv_TEXT_effects_pooled_resource.loc.tsv
-%-n resurrection decay,1,,,hv_TEXT_effects_pooled_resource.loc.tsv
-%-n stratocracy decay,1,%-n军政衰退,,hv_TEXT_effects_pooled_resource.loc.tsv
+%-n black mountain decay,1,黑山衰退%-n,,hv_TEXT_effects_pooled_resource.loc.tsv
+%-n horse breeding decay,1,养马衰退%-n,,hv_TEXT_effects_pooled_resource.loc.tsv
+%-n resurrection decay,1,重生衰退%-n,,hv_TEXT_effects_pooled_resource.loc.tsv
+%-n stratocracy decay,1,军政衰退%-n,,hv_TEXT_effects_pooled_resource.loc.tsv
 %n Siege Towers per item (at siege escalation),1,,,hv_TEXT_etc.loc.tsv
 "...dividing up the empire, parcelling it out in fiefs to the various kings and marquises, he was hailed as the mighty conqueror...",1,,,hv_TEXT_events_rules.loc.tsv
 "A New Era, A New Ruler.",1,新时代，新主公。,,hv_TEXT_events_rules.loc.tsv
@@ -31,7 +31,7 @@ A flurry of shafts slows the enemy advance.,2,,,hv_TEXT_skills_skill_skill_name_
 A focus on form allows one to evade and manoeuvre.,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 A forest friendly man.,2,,此人与林为友。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 A furious strike that sends anyone nearby reeling.,3,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-"A group of beggars appears before you. Among them, a girl dressed nicely comes forward and bows. The girl identifies herself as Dong Bai, the last kin of the tyrant Dong Zhuo, and begs you to take her.",2,,,hv_TEXT_events.loc.tsv
+"A group of beggars appears before you. Among them, a girl dressed nicely comes forward and bows. The girl identifies herself as Dong Bai, the last kin of the tyrant Dong Zhuo, and begs you to take her.",2,前面来了一群乞丐，其中有一名衣冠楚楚的少女上前行礼。女孩自称董白，是暴君董卓最后的亲人。她求你带她走。,,hv_TEXT_events.loc.tsv
 A group of unusual men sporting shaved heads disembark from a ship.  They claim to have journeyed from distant lands to spread the teachings of Buddha. Perhaps it will be worth supporting them?,1,从船上下来一群剃光头的异人。他们自称从遥远地方来此传播佛道。也许值得支持他们？,,hv_TEXT_events.loc.tsv
 "A heavy bow made of iron is not easy to use for ordinary archers. \\n\n The range is rather short due to the strong tension and heavy arrowheads, but the arrows will penetrate the enemy. \\n\n This unit is heavily armed with ironclad, and in close combat, it cuts enemy troops with direct distribution.",1,,,hv_TEXT_unit_long_desc.loc.tsv
 "A hero's resolve is not to seem the bravest, but to be it.",2,,,z_dummy_hv_TEXT_non_deployable.loc.tsv
@@ -160,7 +160,7 @@ Ability: Stone Bulwark,3,,技能：磐石,hv_TEXT_skills_skill_enable_effect.loc
 Ability: Striking Tide,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Sundering Strike,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Swallow,1,,技能：燕翔,hv_TEXT_skills_skill_enable_effect.loc.tsv
-Ability: Sweeping Arc,1,,技能：弧光斩,hv_TEXT_skills_skill_enable_effect.loc.tsv
+Ability: Sweeping Arc,1,,技能：弧斩,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Swift Fingers,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Swift Steps,1,,,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Targeted Strikes,1,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
@@ -367,7 +367,7 @@ Ceasefire,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Cement your rule with legitimacy! Build an Imperial City that will be the envy of other warlords. All under heaven will look to you for leadership.,6,要称霸就要有正统的名义。若能建造一座万人敬仰的都城，便可彰显实力，天下人必当归顺。,,hv_TEXT_events.loc.tsv
 "Certain polearms, such as the Ji, can parry incoming attacks.",1,像戟这样的长柄武器可以阻挡对方的攻击。,,hv_TEXT_unit_abilities_hit_effects.loc.tsv
 Chanters,1,,,hv_TEXT_unit_text_replacements.loc.tsv
-Character Joins: Dong Bai,1,,,hv_TEXT_events.loc.tsv
+Character Joins: Dong Bai,1,人物加入：董白,,hv_TEXT_events.loc.tsv
 Charge like unstoppable bulls.,1,,,hv_TEXT_unit_abilities.loc.tsv
 Chen Crossbow Defenders,1,,陈国弩卫,hv_TEXT_unit_text_replacements.loc.tsv
 Chen Crossbow Peacekeepers,1,,陈国泰平弩卫,hv_TEXT_unit_text_replacements.loc.tsv
@@ -828,7 +828,7 @@ Juggernaut (Buqu),1,,木兽（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
 Juggernaut (Elite),1,,木兽（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
 Juggernaut (Militia),1,,木兽（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 Khanda,1,坎达直剑,,hv_TEXT_ceo_weapon.loc.tsv
-Kill her,2,,,hv_TEXT_events.loc.tsv
+Kill her,2,杀了她,,hv_TEXT_events.loc.tsv
 King Duosi,1,,,hv_TEXT_cb_loadout.loc.tsv
 King Duosi [[img:unit_elephant]][[/img]],1,朵思大王[[img:unit_elephant]][[/img]],,hv_TEXT_cb_loadout.loc.tsv
 King Meng Huo,1,,,hv_TEXT_cb_loadout.loc.tsv
@@ -906,7 +906,7 @@ Lost the throne!,1,,,hv_TEXT_events_rules.loc.tsv
 "Low Hit Rate, High Armour-Piercing Damage, Break Enemy's Shield",21,命中率低，穿甲伤害高，破盾,,hv_TEXT_unit_ui_group_t1.loc.tsv
 "Low Hit Rate, Low Armour-Piercing Damage",3,命中率低，穿甲伤害低,,hv_TEXT_unit_ui_group_t1.loc.tsv
 Lu Bu,1,吕布,,hv_TEXT_cb_loadout.loc.tsv
-Lu Bu's Retinues,1,,,hv_TEXT_effects_events.loc.tsv
+Lu Bu's Retinues,1,吕布的随从,,hv_TEXT_effects_events.loc.tsv
 Lu Bu's army follows your faction.,1,吕布之兵将追随于您。,,hv_TEXT_events.loc.tsv
 Lu Bu's retinues want to join us quickly. We may  focus on military redeployment.,1,,,hv_TEXT_effects_events.loc.tsv
 Lu Zheng,1,陆政,,hv_TEXT_cb_loadout.loc.tsv
@@ -989,7 +989,7 @@ Nature's Ally,11,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
 No horseman shall pass these spearmen from the famed Xiliang army.,1,没有任何骑兵能冲破赫赫有名的西凉军枪阵。 ,,hv_TEXT_unit_desc.loc.tsv
 No one dares to challenge this warrior's skill with the blade.,3,,此人武功盖世，无能出其右者。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 No one is faster than this one.,2,,飞燕之快，无人能及。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-No one wants troublemakers.,4,莫要惹是生非。,,hv_TEXT_events.loc.tsv
+No one wants troublemakers.,4,莫要引禍上身。,,hv_TEXT_events.loc.tsv
 "No one welcomes them, and everyone cast doubt to your decision.",1,,,hv_TEXT_effects_events.loc.tsv
 Nobility,1,,龙髓,hv_TEXT_skills_basic.loc.tsv
 Nomad,3,,,hv_TEXT_building.loc.tsv
@@ -1132,13 +1132,13 @@ Replaces unit: {{tr:hv_unit_swallow_cavalry}} ({{tr:hv_unit_bandits_2h_spear_cav
 Resolve,2,,决心,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Resolve of the Righteous,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Restore,5,,回春,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Resurrection,1,,,hv_TEXT_pooled_resource.loc.tsv
-Resurrection: Ash,1,,,hv_TEXT_effects_pooled_resource.loc.tsv
-Resurrection: Ember,1,,,hv_TEXT_effects_pooled_resource.loc.tsv
-Resurrection: Great Fire,1,,,hv_TEXT_effects_pooled_resource.loc.tsv
-Resurrection: Great Fire (Complelete),1,,,hv_TEXT_effects_pooled_resource.loc.tsv
-Resurrection: Reignite,1,,,hv_TEXT_effects_pooled_resource.loc.tsv
-Resurrection: Wild Fire,1,,,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection,1,重生,,hv_TEXT_pooled_resource.loc.tsv
+Resurrection: Ash,1,重生：灰烬已冷,,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection: Ember,1,重生：余焰未尽,,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection: Great Fire,1,重生：烈火熊熊,,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection: Great Fire (Complelete),1,重生：烈火熊熊（已完成）,,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection: Reignite,1,重生：死灰复燃,,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection: Wild Fire,1,重生：野火燎原,,hv_TEXT_effects_pooled_resource.loc.tsv
 Retreat Cover,3,掩护撤退,,hv_TEXT_unit_abilities.loc.tsv
 "Ride, ride to ruin and the world's ending!",1,冲啊！冲啊！为了捍卫天下！勇往直前！,,hv_TEXT_unit_abilities.loc.tsv
 Righteous Vanguards,1,,,hv_TEXT_unit_text_replacements.loc.tsv
@@ -1273,7 +1273,7 @@ Support them,1,支持他们,,hv_TEXT_events.loc.tsv
 Surplus Markets,1,,,hv_TEXT_skills_additional.loc.tsv
 Survival Instinct ,1,生存本能,,hv_TEXT_region_army.loc.tsv
 Swallow,4,,燕翔,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Sweeping Arc,5,,弧光斩,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Sweeping Arc,5,,弧斩,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Swift Fingers,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Swift Steps,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Sword Cavalry (Buqu),8,,持剑骑兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
@@ -1289,7 +1289,7 @@ Taishan Batters,1,泰山连击兵,,hv_TEXT_unit_text_replacements.loc.tsv
 Taishan Phantoms,1,泰山魅影兵,,hv_TEXT_unit_text_replacements.loc.tsv
 Taishan Poison Wind Archers,1,泰山毒风弓兵,,hv_TEXT_unit_text_replacements.loc.tsv
 Taishi Ci,1,,,hv_TEXT_cb_loadout.loc.tsv
-Take her,2,,,hv_TEXT_events.loc.tsv
+Take her,2,收留她,,hv_TEXT_events.loc.tsv
 Take out their archers. I'll meet you in the middle.,1,解决掉他们的弓手，我们到中间会合。,,hv_TEXT_unit_abilities.loc.tsv
 Tao Qian,1,,,hv_TEXT_cb_loadout.loc.tsv
 Targeted Strikes,4,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
@@ -1311,7 +1311,7 @@ The Han must be restored. These men shall follow their righteous general to the 
 The Kidnapped Girl,3,文姬归汉,,hv_TEXT_events.loc.tsv
 The Lady of Jingzhou,4,,,hv_TEXT_ceo_career.loc.tsv
 The Land's Chosen,1,,,hv_TEXT_unit_text_replacements.loc.tsv
-The Last Kin of the Dong Zhuo,3,,,hv_TEXT_events.loc.tsv
+The Last Kin of the Dong Zhuo,3,董卓遗孤,,hv_TEXT_events.loc.tsv
 The Legacy of Lu Bu,1,吕布残党,,hv_TEXT_effects_events.loc.tsv
 The Legacy of Yuan Shu,1,袁术残党,,hv_TEXT_effects_events.loc.tsv
 The New Coin Causes Confusion!,3,新币引起了混乱！,,hv_TEXT_events.loc.tsv
@@ -1362,7 +1362,7 @@ The flame of hope shines bright in the darkest hour.,1,希望之火在最黯时�
 "The forest provides a path, and surer footing, for the respectful. ",2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 The fury of the victorious warrior is fearful to behold!,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 The house of Cai is the most famous noble family in Jingzhou. Lady Cai is willing to use the power.,1,,,hv_TEXT_ceo_career.loc.tsv
-The house of Dong is destroyed.,1,,,hv_TEXT_events.loc.tsv
+The house of Dong is destroyed.,1,董卓全族已被诛灭,,hv_TEXT_events.loc.tsv
 "The imperial ancestral rite ended without incident. Unfortunately, the emperor returned to the place without acknowledging your contribution.",1,皇家祭祀仪式顺利完成，但天子一言不发便回宫了。,,ifo_text_TWEAK.loc.tsv
 "The imperial ancestral rite was completed successfully, and the emperor shows favour to the attending nobles. ",2,皇家祭祀仪式圆满完成，天子对到场的贵族示恩。,,ifo_text_TWEAK.loc.tsv
 "The imperial ancestral rite, a significant event in China, will be held soon. An imperial decree demands that you send civil officials to assist in administrative affairs or military officers for the imperial guard detail. If you fulfill your duties as a faithful servant, the imperial court will grant you grace. If you refuse, you may incurr the emperor's disfavour...",1,,,ifo_text_TWEAK.loc.tsv
@@ -1415,7 +1415,7 @@ Their heavy metal bows are short-ranged but can pierce through enemies.,1,,,hv_T
 "Their own lives are not important, and they will somehow stop the enemy.",1,不顾己命也要阻挡敌人。,,hv_TEXT_unit_desc.loc.tsv
 Their shots are almost always accurate even in the sand breeze.,1,即使在沙尘中，他们也总能准确命中。 ,,hv_TEXT_unit_desc.loc.tsv
 Their thirst for battle goes beyond physical limits.,1,,,hv_TEXT_unit_abilities.loc.tsv
-There is no sin against this innocent girl.,2,,,hv_TEXT_events.loc.tsv
+There is no sin against this innocent girl.,2,此女清白，并无罪过。,,hv_TEXT_events.loc.tsv
 There is nothing to fear because the heaven is watching.,1,上天保佑，无可畏惧。,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 "There's a rumor about a nearby village. Each night, a huge monster terrorises the peasants. The villagers seek a hero to comb the mountains and drive out the beast.",1,,,hv_TEXT_events.loc.tsv
 There's a sufficient number of horses.,1,有足够多的马匹。,,hv_TEXT_effects_pooled_resource.loc.tsv
@@ -1918,7 +1918,7 @@ Zong Bu,1,,,hv_TEXT_building.loc.tsv
 [[b]]%+n[[/b]] morale for Yue units,1,,山越部队士气[[b]]%+n[[/b]],hv_TEXT_effects_technology.loc.tsv
 [[b]]%+n[[/b]] morale for black mountain bandit units,1,,黑山匪徒部队士气[[b]]%+n[[/b]],hv_TEXT_effects_pooled_resource.loc.tsv
 [[b]]%+n[[/b]] reserves ,1,,,hv_TEXT_etc.loc.tsv
-[[b]]%+n[[/b]] resurrection,1,,,hv_TEXT_effects_pooled_resource.loc.tsv
+[[b]]%+n[[/b]] resurrection,1,,重生[[b]]%+n[[/b]],hv_TEXT_effects_pooled_resource.loc.tsv
 [[b]]%+n[[/b]] satisfaction for all characters,1,,,hv_TEXT_skills_attributes.loc.tsv
 [[b]]%+n[[/b]] starting rank for Buqu units,1,,部曲部队起始等级[[b]]%+n[[/b]],hv_TEXT_effects_technology.loc.tsv
 [[b]]%+n[[/b]] starting rank for Elite units,1,,精锐部队起始等级[[b]]%+n[[/b]],hv_TEXT_effects_technology.loc.tsv
@@ -2000,7 +2000,7 @@ Zong Bu,1,,,hv_TEXT_building.loc.tsv
 "[[b]]Zhang Xun[[/b]]\\nGeneral-in-Chief of Zhong\\n\\nGeneral type: {{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]As the leading general of the Kingdom of Zhong, Zhang Xun commands the formidable army of the Yuan family.[[/col]][[/i]]",2,,,hv_TEXT_frontend_features.loc.tsv
 "[[b]]Zheng Lan[[/b]]\\nQueen of Black Mountain\\n\\nGeneral type: {{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]An ambitious woman, whose reasons to marry Zhang Yan are as mysterious as herself.[[/col]][[/i]]",3,,,hv_TEXT_frontend_features.loc.tsv
 [[col:flavour]]Local Noble's Estate[[/col]],1,[[col:flavour]]地方豪强庄园[[/col]],,hv_TEXT_building.loc.tsv
-[[col:green]]Immune to Fear and Terror[[/col]],1,,,!hv_TEXT_system.loc.tsv
+[[col:green]]Immune to Fear and Terror[[/col]],1,[[col:green]]免疫惊吓和惊骇[[/col]],,!hv_TEXT_system.loc.tsv
 [[col:scope_description]](adjacent all {{tr:map_regions}})[[/col]],1,[[col:scope_description]]（相邻各{{tr:map_regions}}）[[/col]],,hv_TEXT_effects_building.loc.tsv
 [[col:scope_description]](adjacent {{tr:map_provinces}})[[/col]],1,,,hv_TEXT_effect_scope.loc.tsv
 [[col:scope_description]](enemies in local {{tr:map_region}})[[/col]],1,[[col:scope_description]]（本{{tr:map_region}}内的敌军）[[/col]],,hv_TEXT_effect_scope.loc.tsv

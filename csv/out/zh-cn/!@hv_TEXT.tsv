@@ -147,8 +147,8 @@ campaign_payload_ui_details_description_3k_dlc_07_child_emperor_banquet_dilemma_
 campaign_payload_ui_details_description_3k_dlc_07_child_emperor_rites_dilemma_text	结果不明	false
 campaign_payload_ui_details_description_dummy_hv_cao_cao_qingzhoubing	或许可以招揽……	true
 campaign_payload_ui_details_description_dummy_hv_mission_northern_mission	一个北军兵团会加入您的派系。	false
-campaign_payload_ui_details_description_hv_dilemma_dongbai	Character Joins: Dong Bai	false
-campaign_payload_ui_details_description_hv_dilemma_kill_dong_bai	The house of Dong is destroyed.	false
+campaign_payload_ui_details_description_hv_dilemma_dongbai	人物加入：董白	false
+campaign_payload_ui_details_description_hv_dilemma_kill_dong_bai	董卓全族已被诛灭	false
 campaign_payload_ui_details_description_hv_dilemma_lu_bu_legacy	吕布之兵将追随于您。	false
 campaign_payload_ui_details_description_hv_dilemma_northern_army_intro	完成任务可以增强您的势力！	false
 campaign_payload_ui_details_description_hv_dilemma_yuan_shu_legacy	袁术之兵将追随于您。	false
@@ -176,10 +176,10 @@ cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_buddaFIRST	
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_buddaSECOND	置之不理	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_cai_yanFIRST	接受	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_cai_yanSECOND	拒绝	false
-cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc05FIRST	Take her	false
-cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc05SECOND	Kill her	false
-cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc07FIRST	Take her	true
-cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc07SECOND	Kill her	true
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc05FIRST	收留她	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc05SECOND	杀了她	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc07FIRST	收留她	true
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc07SECOND	杀了她	true
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_empire_rulesFIRST	天下将以王道主义来治理。	true
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_empire_rulesSECOND	天下将以霸道主义来治理。	true
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_ji_ling_zhang_xun_dlc07FIRST	接受	false
@@ -204,16 +204,16 @@ cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_buddaFIRST	
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_buddaSECOND	不应理睬这些烦人的布道僧侣。	false
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_cai_yanFIRST	蔡文姬获救。	false
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_cai_yanSECOND	不与蛮夷交易。	false
-cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_dong_bai_dlc05FIRST	There is no sin against this innocent girl.	false
-cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_dong_bai_dlc05SECOND	莫要惹是生非。	false
-cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_dong_bai_dlc07FIRST	There is no sin against this innocent girl.	true
-cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_dong_bai_dlc07SECOND	莫要惹是生非。	true
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_dong_bai_dlc05FIRST	此女清白，并无罪过。	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_dong_bai_dlc05SECOND	莫要引禍上身。	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_dong_bai_dlc07FIRST	此女清白，并无罪过。	true
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_dong_bai_dlc07SECOND	莫要引禍上身。	true
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_empire_rulesFIRST	你是唯一能让天下回归太平之人，众人将服从你的意志。	true
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_empire_rulesSECOND	你是唯一能让天下回归太平之人，众人将服从你的意志。	true
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_ji_ling_zhang_xun_dlc07FIRST	收纳他们加入旗下。	false
-cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_ji_ling_zhang_xun_dlc07SECOND	莫要惹是生非。	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_ji_ling_zhang_xun_dlc07SECOND	莫要引禍上身。	false
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_lu_ji_dlc07FIRST	收纳他们加入旗下。	false
-cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_lu_ji_dlc07SECOND	莫要惹是生非。	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_lu_ji_dlc07SECOND	莫要引禍上身。	false
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_northern_army_introFIRST	完成这些任务，北军校尉就会为您效力。	false
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_sogdFIRST	您雇佣了一队粟特佣兵。	false
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_sogdFOURTH	您被一柄怪剑吸引住了。	false
@@ -1278,9 +1278,9 @@ character_skills_localised_name_hv_skill_ability_wolf_cunning	恶狼	true
 character_skills_localised_name_hv_skill_ability_wolf_resolve	恶狼	true
 character_skills_localised_name_hv_skill_ability_wu_brave	英武	true
 character_skills_localised_name_hv_skill_ability_xiezhi_roar_resolve	獬豸之吼	false
-character_skills_localised_name_hv_skill_ability_youzansen_expertise	弧光斩	true
-character_skills_localised_name_hv_skill_ability_youzansen_instinct	弧光斩	true
-character_skills_localised_name_hv_skill_ability_youzansen_resolve	弧光斩	true
+character_skills_localised_name_hv_skill_ability_youzansen_expertise	弧斩	true
+character_skills_localised_name_hv_skill_ability_youzansen_instinct	弧斩	true
+character_skills_localised_name_hv_skill_ability_youzansen_resolve	弧斩	true
 character_skills_localised_name_hv_skill_ability_zhou_the_youth_cunning	美周郎	true
 character_skills_localised_name_hv_skill_add_individuality_cao_ang_4A	个性一	false
 character_skills_localised_name_hv_skill_add_individuality_cao_bao_4A	个性一	true
@@ -1901,8 +1901,8 @@ dilemmas_localised_description_3k_dlc07_child_emperor_dilemma_imperial_ancestral
 dilemmas_localised_description_3k_dlc07_child_emperor_dilemma_imperial_banquet	朝廷下达了一道诏书，将在皇宫设宴邀请天下有影响力的贵族。这恐怕是辅政大臣因为担心我们的影响力设下的计谋，但违背诏书可能会有严重后果…… 	false
 dilemmas_localised_description_hv_dilemma_budda	从船上下来一群剃光头的异人。他们自称从遥远地方来此传播佛道。也许值得支持他们？	false
 dilemmas_localised_description_hv_dilemma_cai_yan	吾人已与匈奴联系，被绑架的女子确为已被匈奴王纳为小妾的蔡琰。匈奴提议，可以重金将此女赎回。	false
-dilemmas_localised_description_hv_dilemma_dong_bai_dlc05	A group of beggars appears before you. Among them, a girl dressed nicely comes forward and bows. The girl identifies herself as Dong Bai, the last kin of the tyrant Dong Zhuo, and begs you to take her.	false
-dilemmas_localised_description_hv_dilemma_dong_bai_dlc07	A group of beggars appears before you. Among them, a girl dressed nicely comes forward and bows. The girl identifies herself as Dong Bai, the last kin of the tyrant Dong Zhuo, and begs you to take her.	true
+dilemmas_localised_description_hv_dilemma_dong_bai_dlc05	前面来了一群乞丐，其中有一名衣冠楚楚的少女上前行礼。女孩自称董白，是暴君董卓最后的亲人。她求你带她走。	false
+dilemmas_localised_description_hv_dilemma_dong_bai_dlc07	前面来了一群乞丐，其中有一名衣冠楚楚的少女上前行礼。女孩自称董白，是暴君董卓最后的亲人。她求你带她走。	true
 dilemmas_localised_description_hv_dilemma_empire_rules	经过数个世代，汉王朝失其天命。然而，天下黎民仍饱受各地宣称带有天命的军阀，所带来的战乱之苦。主公，你必须终结乱世。天下正等待新的治理规则引导新的团结繁荣与太平盛​​世。你将如何选择，治里天下众生？	true
 dilemmas_localised_description_hv_dilemma_ji_ling_zhang_xun_dlc07	一只残军请求加入您的派系。袁术战败后，其部将张勋，纪灵及阎象收拢溃卒。然而，接纳他们可能会惹恼袁术之敌。	false
 dilemmas_localised_description_hv_dilemma_lu_ji_dlc07	一只残军请求加入您的派系。吕布战败后，其女吕姬收拢溃卒。然而，接纳他们可能会惹恼吕布之敌。	false
@@ -1914,8 +1914,8 @@ dilemmas_localised_title_3k_dlc07_child_emperor_dilemma_imperial_ancestral_rites
 dilemmas_localised_title_3k_dlc07_child_emperor_dilemma_imperial_banquet	天子宠信：皇家宴会	false
 dilemmas_localised_title_hv_dilemma_budda	佛教传入	false
 dilemmas_localised_title_hv_dilemma_cai_yan	赎回文姬	false
-dilemmas_localised_title_hv_dilemma_dong_bai_dlc05	The Last Kin of the Dong Zhuo	false
-dilemmas_localised_title_hv_dilemma_dong_bai_dlc07	The Last Kin of the Dong Zhuo	true
+dilemmas_localised_title_hv_dilemma_dong_bai_dlc05	董卓遗孤	false
+dilemmas_localised_title_hv_dilemma_dong_bai_dlc07	董卓遗孤	true
 dilemmas_localised_title_hv_dilemma_empire_rules	新时代，新主公。	true
 dilemmas_localised_title_hv_dilemma_ji_ling_zhang_xun_dlc07	寄人篱下	false
 dilemmas_localised_title_hv_dilemma_lu_ji_dlc07	寄人篱下	false
@@ -2038,12 +2038,12 @@ effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ma_teng_1	养�
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ma_teng_2	养马：有余	true
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ma_teng_3	养马：充裕	true
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ma_teng_4	养马：天助	true
-effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_0	Resurrection: Ash	true
-effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_1	Resurrection: Ember	true
-effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_2	Resurrection: Reignite	true
-effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_3	Resurrection: Wild Fire	true
-effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_4	Resurrection: Great Fire	true
-effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_5	Resurrection: Great Fire (Complelete)	true
+effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_0	重生：灰烬已冷	true
+effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_1	重生：余焰未尽	true
+effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_2	重生：死灰复燃	true
+effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_3	重生：野火燎原	true
+effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_4	重生：烈火熊熊	true
+effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_5	重生：烈火熊熊（已完成）	true
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_zhang_yan_0	黑山：四散而逃	true
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_zhang_yan_1	黑山：量小力微	true
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_zhang_yan_2	黑山：同心协力	true
@@ -2106,8 +2106,8 @@ effect_bundles_localised_title_hv_gov_3k_dlc07_effect_bundle_pooled_resource_imp
 effect_bundles_localised_title_hv_gov_3k_dlc07_effect_bundle_pooled_resource_imperial_favour_70	天子宠信	true
 effect_bundles_localised_title_hv_gov_3k_dlc07_effect_bundle_pooled_resource_imperial_favour_80	天子宠信	true
 effect_bundles_localised_title_hv_gov_3k_dlc07_effect_bundle_pooled_resource_imperial_favour_90	天子宠信	true
-effect_bundles_localised_title_hv_script_effect_bundle_dong_bai	The Last Kin of the Dong Zhuo	false
-effect_bundles_localised_title_hv_script_effect_bundle_exodus	Lu Bu's Retinues	false
+effect_bundles_localised_title_hv_script_effect_bundle_dong_bai	董卓遗孤	false
+effect_bundles_localised_title_hv_script_effect_bundle_exodus	吕布的随从	false
 effect_bundles_localised_title_hv_script_effect_bundle_lu_bu_legacy	吕布残党	false
 effect_bundles_localised_title_hv_script_effect_bundle_qiang_penalty	社会动荡	true
 effect_bundles_localised_title_hv_script_effect_bundle_rule_of_might	霸道	true
@@ -2234,14 +2234,14 @@ effects_description_hv_effect_mass_cavalry	骑兵单位质量[[b]]%+n%[[/b]]	tru
 effects_description_hv_effect_mercenary_pool_recruitment_cost_mod	伯长部曲招募费用[[b]]%+n%[[/b]]	true
 effects_description_hv_effect_mercenary_pool_upkeep_mod	伯长部曲维持费[[b]]%+n%[[/b]]	true
 effects_description_hv_effect_pooled_resource_gongsun_zan_buildings	每回合军政[[b]]%+n[[/b]]	false
-effects_description_hv_effect_pooled_resource_gongsun_zan_decay_rate_1	%-n军政衰退	false
+effects_description_hv_effect_pooled_resource_gongsun_zan_decay_rate_1	军政衰退%-n	false
 effects_description_hv_effect_pooled_resource_gongsun_zan_garrison	每回合军政[[b]]%+n[[/b]]	false
 effects_description_hv_effect_pooled_resource_ma_teng_buildings	养马[[b]]%+n[[/b]]	true
-effects_description_hv_effect_pooled_resource_ma_teng_decay_rate_1	%-n养马衰退	true
-effects_description_hv_effect_pooled_resource_ytr_decay_rate_1	%-n resurrection decay	true
-effects_description_hv_effect_pooled_resource_ytr_population	[[b]]%+n[[/b]] resurrection	true
+effects_description_hv_effect_pooled_resource_ma_teng_decay_rate_1	养马衰退%-n	true
+effects_description_hv_effect_pooled_resource_ytr_decay_rate_1	重生衰退%-n	true
+effects_description_hv_effect_pooled_resource_ytr_population	重生[[b]]%+n[[/b]]	true
 effects_description_hv_effect_pooled_resource_zhang_yan_buildings	黑山[[b]]%+n[[/b]]	true
-effects_description_hv_effect_pooled_resource_zhang_yan_decay_rate_1	%-n黑山衰退	true
+effects_description_hv_effect_pooled_resource_zhang_yan_decay_rate_1	黑山衰退%-n	true
 effects_description_hv_effect_pooled_resource_zhang_yan_from_battles	黑山[[b]]%+n[[/b]]	true
 effects_description_hv_effect_recruitment_cost_ranged_cavalry	骑射手部队招募费用[[b]]%+n%[[/b]]	true
 effects_description_hv_effect_replenishment_cavalry	骑兵部队补员速率[[b]]%+n%[[/b]]	true
@@ -2604,7 +2604,7 @@ effects_description_hv_effect_unlock_wisdom_of_the_river	技能：水圣	true
 effects_description_hv_effect_unlock_wisdom_of_the_waterfall	技能：飞泉之智	true
 effects_description_hv_effect_unlock_wolf	技能：恶狼	true
 effects_description_hv_effect_unlock_wu_brave	技能：英武	true
-effects_description_hv_effect_unlock_youzansen	技能：弧光斩	true
+effects_description_hv_effect_unlock_youzansen	技能：弧斩	true
 effects_description_hv_effect_unlock_yuan_01	解锁部队：{{tr:hv_unit_yuan_sword_infantry}}	true
 effects_description_hv_effect_unlock_yuan_02	解锁部队：{{tr:hv_unit_yuan_ji_guards}}	true
 effects_description_hv_effect_unlock_yuan_remove_penalty	装备此随从后，须等到10回合后才能解除。之后此随从即会消失。	true
@@ -3245,7 +3245,7 @@ pooled_resources_description_hv_pooled_resource_ytr	The Yellow Turban is ready t
 pooled_resources_description_hv_pooled_resource_zhang_yan	黑山贼乘乱以增其之数。	false
 pooled_resources_display_name_hv_pooled_resource_gongsun_zan	军政	false
 pooled_resources_display_name_hv_pooled_resource_ma_teng	养马	false
-pooled_resources_display_name_hv_pooled_resource_ytr	Resurrection	false
+pooled_resources_display_name_hv_pooled_resource_ytr	重生	false
 pooled_resources_display_name_hv_pooled_resource_zhang_yan	黑山	false
 pooled_resources_foreign_diplomacy_view_tooltip_hv_pooled_resource_gongsun_zan	严政方能定乱。	false
 pooled_resources_foreign_diplomacy_view_tooltip_hv_pooled_resource_ma_teng	养育大宛马来装备骑兵部队。	false
@@ -4995,7 +4995,7 @@ unit_abilities_onscreen_name_hv_ability_xianchenying	Breakthrough	true
 unit_abilities_onscreen_name_hv_ability_xiliang_army	反骑兵专家	true
 unit_abilities_onscreen_name_hv_ability_xiliang_army_ranged	反骑兵专家	true
 unit_abilities_onscreen_name_hv_ability_young_blood	血气方刚	true
-unit_abilities_onscreen_name_hv_ability_youzansen	弧光斩	true
+unit_abilities_onscreen_name_hv_ability_youzansen	弧斩	true
 unit_abilities_onscreen_name_hv_ability_yuan_officer_passive	支持	true
 unit_abilities_onscreen_name_hv_ability_zhou_the_youth	美周郎	true
 unit_abilities_onscreen_name_hv_abillity_danyang_tradition	不挠	true
@@ -5377,7 +5377,7 @@ unit_ability_types_localised_description_hv_ability_xianchenying	Breakthrough	tr
 unit_ability_types_localised_description_hv_ability_xiliang_army	反骑兵专家	true
 unit_ability_types_localised_description_hv_ability_xiliang_army_ranged	反骑兵专家	true
 unit_ability_types_localised_description_hv_ability_young_blood	血气方刚	true
-unit_ability_types_localised_description_hv_ability_youzansen	弧光斩	true
+unit_ability_types_localised_description_hv_ability_youzansen	弧斩	true
 unit_ability_types_localised_description_hv_ability_yuan_officer_passive	支持	true
 unit_ability_types_localised_description_hv_ability_zhou_the_youth	美周郎	true
 unit_ability_types_localised_description_hv_abillity_danyang_tradition	不挠	true
@@ -5707,7 +5707,7 @@ unit_ability_types_onscreen_name_hv_hit_effect_whistle	远程减益	true
 unit_ability_types_onscreen_name_hv_hit_effect_white_horse	远程减益	true
 unit_ability_types_onscreen_name_hv_yuan_caltrops	远程攻击	false
 unit_ability_types_onscreen_name_hv_yuan_smokescreen	远程攻击	false
-unit_attributes_imued_effect_text_immune_to_psychology	[[col:green]]Immune to Fear and Terror[[/col]]	false
+unit_attributes_imued_effect_text_immune_to_psychology	[[col:green]]免疫惊吓和惊骇[[/col]]	false
 unit_description_historical_texts_text_hv_unit_azure_dragons	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
 unit_description_historical_texts_text_hv_unit_bandits_2h_spear_cavalry	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
 unit_description_historical_texts_text_hv_unit_bandits_2h_spear_infantry	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
