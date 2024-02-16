@@ -145,6 +145,9 @@ campaign_payload_ui_details_description_3k_dlc_07_child_emperor_banquet_dilemma_
 campaign_payload_ui_details_description_3k_dlc_07_child_emperor_rites_dilemma_text	结果不明	false
 campaign_payload_ui_details_description_dummy_hv_cao_cao_qingzhoubing	或许可以招揽……	true
 campaign_payload_ui_details_description_dummy_hv_mission_northern_mission	一个北军兵团会加入您的派系。	false
+campaign_payload_ui_details_description_dummy_mtu_lady_trieu_historic	赵妪将遵循历史自成一派	false
+campaign_payload_ui_details_description_dummy_mtu_lady_trieu_rumor	赵妪将现身于一个南方国度	false
+campaign_payload_ui_details_description_dummy_mtu_lu_bu_interpose	吕布介入了袁术与刘备的争斗之中，并尝试促使双方讲和。	true
 campaign_payload_ui_details_description_hv_dilemma_dongbai	人物加入：董白	false
 campaign_payload_ui_details_description_hv_dilemma_kill_dong_bai	董卓全族已被诛灭	false
 campaign_payload_ui_details_description_hv_dilemma_lu_bu_legacy	吕布之兵将追随于您。	false
@@ -163,6 +166,14 @@ campaign_payload_ui_details_description_hv_incident_ironfist_army	您现在可�
 campaign_payload_ui_details_description_hv_incident_jingchou_army	您现在可以招募：荆楚部队	false
 campaign_payload_ui_details_description_hv_incident_xiliang_army	您现在可以招募：西凉部队	false
 campaign_payload_ui_details_description_hv_incident_ytr_resurrection	Thousands of comrades across China will rise against oppression.	true
+campaign_payload_ui_details_description_mtu_born_dummy_guan_xing	人物出生：关兴	false
+campaign_payload_ui_details_description_mtu_born_dummy_guan_yinping	人物出生：关嫣	false
+campaign_payload_ui_details_description_mtu_born_dummy_liu_shan	人物出生：刘禅	false
+campaign_payload_ui_details_description_mtu_born_dummy_zhang_bao	人物出生：张苞	false
+campaign_payload_ui_details_description_mtu_born_dummy_zhang_xingcai	人物出生：张氏	false
+campaign_payload_ui_details_description_mtu_zhao_yun_appointed_zhenjunjiangjun	加封赵云为虎威将军	true
+campaign_payload_ui_details_description_mtu_zhao_yun_get_blue_blade	赵云在战场上夺得了一把泛着青光的短剑，看靶上有金嵌「青釭」二字，方知是宝剑也	true
+campaign_payload_ui_details_description_mtu_zhao_yun_get_new_armour	解锁虎威将军的护甲	true
 campaign_post_battle_captive_options_description_enslavehv_campaign_group_captive_option_recruit_zhang_yan	敌军中许多士卒愿意向我方投诚，并将不从者处以极刑。这将为我军提供有生力量，但也可能动摇我方与敌方派系的关系	false
 campaign_post_battle_captive_options_onscreen_name_enslavehv_campaign_group_captive_option_recruit_zhang_yan	招募	false
 cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesFIRST	派文官前去	true
@@ -170,16 +181,92 @@ cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor
 cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesTHIRD	隔岸观火	true
 cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor_dilemma_imperial_banquetFIRST	出席	true
 cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor_dilemma_imperial_banquetSECOND	缺席	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_main_historical_dong_li_guo_rebellion_dilemmaFIRST	Refuse their demands	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_main_historical_dong_li_guo_rebellion_dilemmaSECOND	Send Wang Yun to them	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_main_historical_xun_yu_empty_lunchpail_dilemmaFIRST	Forgive him	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_main_historical_xun_yu_empty_lunchpail_dilemmaSECOND	"Send The ""Gift"""	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_bring_cai_yan_dilemma_pcFIRST	派特使将她赎回	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_bring_cai_yan_dilemma_pcSECOND	不可滥用公款！	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_cai_yong_death_dilemma_pcFIRST	支持王允	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_cai_yong_death_dilemma_pcSECOND	阻劝王允	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_daughter_guan_trait_dilemma_1FIRST	令关嫣修复书橱	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_daughter_guan_trait_dilemma_1SECOND	与关嫣一同修复书橱	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_daughter_zhang_trait_dilemma_1FIRST	大声斥骂	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_daughter_zhang_trait_dilemma_1SECOND	冷静应待	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_lady_trieu_rumor_dilemmaFIRST	举办祭天大典	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_lady_trieu_rumor_dilemmaSECOND	不过是个梦罢了	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_lbFIRST	设下宴席	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_lbSECOND	随他们去吧	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_ylFIRST	遵从天意	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_ylSECOND	拒绝吕布的提议	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_moh_jian_yong_joins_liu_bei_dilemma_pcFIRST	接纳简雍	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_moh_jian_yong_joins_liu_bei_dilemma_pcSECOND	拒绝他	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_xiong_nu_catches_cai_yan_dilemma_pcFIRST	交付赎金	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_xiong_nu_catches_cai_yan_dilemma_pcSECOND	置之不理	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_da_qiao_dilemmaFIRST	将大乔纳入后宫	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_da_qiao_dilemmaSECOND	不能让美色误了大事	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_diao_chan_dilemmaFIRST	将貂蝉纳入后宫	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_diao_chan_dilemmaSECOND	不能让美色误了大事	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_empress_he_dilemmaFIRST	将何皇后纳入后宫	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_empress_he_dilemmaSECOND	不能让美色误了大事	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_guan_yinping_dilemmaFIRST	将关嫣纳入后宫	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_guan_yinping_dilemmaSECOND	不能让美色误了大事	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_bian_dilemmaFIRST	将卞氏纳入后宫	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_bian_dilemmaSECOND	不能让美色误了大事	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_cai_yan_dilemmaFIRST	将蔡琰纳入后宫	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_cai_yan_dilemmaSECOND	不能让美色误了大事	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_dong_dilemmaFIRST	将董氏纳入后宫	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_dong_dilemmaSECOND	不能让美色误了大事	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_du_dilemmaFIRST	将刘氏入后宫	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_du_dilemmaSECOND	不能让美色误了大事	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_feng_dilemmaFIRST	将冯氏纳入后宫	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_feng_dilemmaSECOND	不能让美色误了大事	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_lu_zheng_dilemmaFIRST	将陆政纳入后宫	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_lu_zheng_dilemmaSECOND	不能让美色误了大事	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_ma_dilemmaFIRST	将华氏纳入后宫	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_ma_dilemmaSECOND	不能让美色误了大事	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_ma_yunlu_dilemmaFIRST	将马云禄纳入后宫	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_ma_yunlu_dilemmaSECOND	不能让美色误了大事	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_mi_dilemmaFIRST	将糜氏纳入后宫	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_mi_dilemmaSECOND	不能让美色误了大事	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_sun_dilemmaFIRST	将孙仁纳入后宫	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_sun_dilemmaSECOND	不能让美色误了大事	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_trieu_dilemmaFIRST	将赵妪纳入后宫	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_trieu_dilemmaSECOND	不能让美色误了大事	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_wang_dilemmaFIRST	将伊健丽婷纳入后宫	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_wang_dilemmaSECOND	不能让美色误了大事	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_wu_dilemmaFIRST	将吴氏纳入后宫	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_wu_dilemmaSECOND	不能让美色误了大事	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_yuan_anyang_dilemmaFIRST	将袁氏纳入后宫	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_yuan_anyang_dilemmaSECOND	不能让美色误了大事	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_zhen_dilemmaFIRST	将甄氏纳入后宫	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_zhen_dilemmaSECOND	不能让美色误了大事	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_zheng_jiang_dilemmaFIRST	将郑姜纳入后宫	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_zheng_jiang_dilemmaSECOND	不能让美色误了大事	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_zhurong_dilemmaFIRST	将祝融夫人纳入后宫	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_zhurong_dilemmaSECOND	不能让美色误了大事	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lu_ji_dilemmaFIRST	将吕姬纳入后宫	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lu_ji_dilemmaSECOND	不能让美色误了大事	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_song_jinting_dilemmaFIRST	将侯氏纳入后宫	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_song_jinting_dilemmaSECOND	不能让美色误了大事	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_xiao_qiao_dilemmaFIRST	将小乔纳入后宫	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_xiao_qiao_dilemmaSECOND	不能让美色误了大事	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_zhang_xueer_dilemmaFIRST	将张氏纳入后宫	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_zhang_xueer_dilemmaSECOND	不能让美色误了大事	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_zheng_lan_dilemmaFIRST	将郑兰纳入后宫	false
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_zheng_lan_dilemmaSECOND	不能让美色误了大事	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_buddaFIRST	支持他们	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_buddaSECOND	置之不理	false
-cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_cai_yanFIRST	接受	false
-cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_cai_yanSECOND	拒绝	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_cai_yanFIRST	派特使将她赎回	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_cai_yanSECOND	不可滥用国库！	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc05FIRST	收留她	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc05SECOND	杀了她	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc07FIRST	收留她	true
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc07SECOND	杀了她	true
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_empire_rulesFIRST	天下将以王道主义来治理。	true
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_empire_rulesSECOND	天下将以霸道主义来治理。	true
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_guan_pingFIRST	接受	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_guan_pingSECOND	拒绝	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_ji_ling_zhang_xun_dlc07FIRST	接受	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_ji_ling_zhang_xun_dlc07SECOND	拒绝	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_lu_ji_dlc07FIRST	接受	false
@@ -193,15 +280,91 @@ cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_white_tiger
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_white_tiger_01SECOND	隔岸观火	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_white_tiger_02FIRST	与巨型白虎对峙	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_white_tiger_02SECOND	回去	false
+cdir_events_dilemma_choice_details_localised_choice_label_mtu_dilemma_suggestion_of_rebel_sistersFIRST	接受	true
+cdir_events_dilemma_choice_details_localised_choice_label_mtu_dilemma_suggestion_of_rebel_sistersSECOND	拒绝	true
 cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesFIRST	正在举行皇家祭祀仪式……	true
 cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesSECOND	正在举行皇家祭祀仪式……	true
 cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesTHIRD	看来你得罪了朝廷……	true
 cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor_dilemma_imperial_banquetFIRST	宴会继续进行……	true
 cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor_dilemma_imperial_banquetSECOND	看来你得罪了朝廷……	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_main_historical_dong_li_guo_rebellion_dilemmaFIRST	You refused to hand over Wang Yun and his family to them. Then the rebels are furious, and they're going through the whole country!	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_main_historical_dong_li_guo_rebellion_dilemmaSECOND	"Wang Yun went to them obediently and left these words.\\n\\n ""It was my wish to make the country peaceful. I didn't, so I sacrifice myself. The litte emperor has shown kindness to me, and I can't stand to live a miserable life."""	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_main_historical_xun_yu_empty_lunchpail_dilemmaFIRST	"Instead of sending Xun Yu the ""gift"", you chose to admit your wrong. With him, you swore to take the right path."	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_main_historical_xun_yu_empty_lunchpail_dilemmaSECOND	"Xun Yu recognized the meaning of your ""gift"" and made the last choice. You regretted your choice when you heard that he was dead, but it was too late."	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_bring_cai_yan_dilemma_pcFIRST	你派出特使重金将蔡琰赎回，但当她离开她的孩子们时，面容全无光彩。	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_bring_cai_yan_dilemma_pcSECOND	你决定将国库的资金用于更有用的地方，但却愧对了蔡氏家族。	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_cai_yong_death_dilemma_pcFIRST	当世大儒蔡邕死于了王允的令下	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_cai_yong_death_dilemma_pcSECOND	你改变了王允的主意	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_daughter_guan_trait_dilemma_1FIRST	关羽虽怒，却不怒不变容，他令其女儿自行打扫狼藉，让她自己反思。	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_daughter_guan_trait_dilemma_1SECOND	关羽见一片狼藉，唤来其女，与她一同修复书橱，并对其悉心教导。	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_daughter_zhang_trait_dilemma_1FIRST	心爱的酒水被夺走了，铭心张飞大怒，欲让其女对此事刻骨铭心。于是对张氏大声斥骂，骂声震耳欲聋，如同雷鸣。不料张氏却顶撞其父，斥其父成日醉酒，总有一日会坏大事。	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_daughter_zhang_trait_dilemma_1SECOND	尽管心爱的酒水被女儿喝得一干二净，张飞忍住了心中的不甘以及怒火，对张氏警告了私自触碰他人物品的品行，以及对她说以后应当邀请他一起饮酒。	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_lady_trieu_rumor_dilemmaFIRST	你带著随从，攀上高山举办祭典。夜晚来临，你发现金星比之前见到时更加明亮了。次日，你从细作口中得知，一位名叫赵妪的女中豪杰加入了某个派系，活跃于南方。	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_lady_trieu_rumor_dilemmaSECOND	你渐渐的忘记了此事，岂能让一个梦耽误了你的霸业？	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_lbFIRST	交战双方双双接受邀请前来赴宴，你向他们解释了邀请双方的原因以及依从天意的提议。袁刘两家都接受了你的提议，并在惊叹中目睹了箭矢穿过了一百五十步外戟上的小支。	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_lbSECOND	袁刘两家相争，与你毫无相干。你深知与其插手其中，不如令鹤蚌相争，最后还可以方渔翁得利。	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_ylFIRST	双方都接受了吕布的提议，并在惊叹中目睹了吕布在一百五十步外射中了戟上的小支。	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_ylSECOND	 吕布生性狡猾，此举必然有诈。你谢过了吕布的宴席，回营深思退敌之计。	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_moh_jian_yong_joins_liu_bei_dilemma_pcFIRST	「你我同心，必成大事！」	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_moh_jian_yong_joins_liu_bei_dilemma_pcSECOND	「我志虽大，但却前途凶险，你还有家事老小，还是以他们为重为好。」\\n\\n 你将简雍送回了他的住处。	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_xiong_nu_catches_cai_yan_dilemma_pcFIRST	你派出特使重金将蔡琰赎回，然而如此的特殊待遇难免令他人产生妒忌之心。	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_xiong_nu_catches_cai_yan_dilemma_pcSECOND	你无视了那名军士，继续派兵镇压匈奴入侵。	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_da_qiao_dilemmaFIRST	你将大乔纳为妾室，你与她鸾凤和鸣。	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_da_qiao_dilemmaSECOND	你遣人把大乔从府中送了出去	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_diao_chan_dilemmaFIRST	你将貂蝉纳为妾室，绝世佳人怎可不为龙所有？	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_diao_chan_dilemmaSECOND	你遣人把貂蝉从府中送了出去	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_empress_he_dilemmaFIRST	你将何皇后纳为妾室，她将侍奉又一位君王。 	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_empress_he_dilemmaSECOND	你遣人把何皇后从府中送了出去	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_guan_xinping_dilemmaFIRST	你将祝关嫣纳为妾室 ，只有持龙虎之志才配此女。	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_guan_yinping_dilemmaSECOND	你遣人把关嫣从府中送了出去	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_bian_dilemmaFIRST	你将卞氏纳为妾室， 怒不变容，喜不失节，故是最为难。	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_bian_dilemmaSECOND	你遣人把卞氏从府中送了出去	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_cai_yan_dilemmaFIRST	你将蔡琰纳为妾室，她的文采将让你的传奇将流芳百世。	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_cai_yan_dilemmaSECOND	你遣人把蔡琰从府中送了出去	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_dong_dilemmaFIRST	你将董氏纳为妾室，为了保证你能坐上皇位她将倾其所有。	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_dong_dilemmaSECOND	你遣人把董氏从府中送了出去	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_du_dilemmaFIRST	你将刘氏纳为妾室，她的美貌激动人心。	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_du_dilemmaSECOND	你遣人把刘氏从府中送了出去	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_feng_dilemmaFIRST	你将冯氏纳为妾室，在你的羽翼之下她将不再哭泣。 	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_lady_feng_dilemmaSECOND	你遣人把冯氏从府中送了出去	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_lady_mi_dilemmaFIRST	你将糜氏纳为妾室，得此贤惠美貌之妻真是三生有幸。	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_lu_zheng_dilemmaFIRST	你将陆政纳为妾室，你不仅收获了一位可靠的谋士，还多了一员勇猛的将领	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_lu_zheng_dilemmaSECOND	你遣人把陆政从府中送了出去	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_ma_dilemmaFIRST	你将华氏纳为妾室，面对如此神射却是你先张弓搭箭。	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_ma_dilemmaSECOND	你遣人把华氏从府中送了出去	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_ma_yunlu_dilemmaFIRST	你将马云禄纳为妾室，此女犹如妇好再世。	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_ma_yunlu_dilemmaSECOND	你遣人把马云禄从府中送了出去	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_mi_dilemmaSECOND	你遣人把糜氏从府中送了出去	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_sun_dilemmaFIRST	你将孙仁纳为妾室，她会将她的满腔热血注入到你的霸业当中。	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_sun_dilemmaSECOND	你遣人把孙仁从府中送了出去	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_trieu_dilemmaFIRST	你将赵妪纳为妾室，传说她乳长三尺，如今一见果然如此。	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_trieu_dilemmaSECOND	你遣人把赵妪从府中送了出去	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_wang_dilemmaFIRST	你将伊健丽婷为妾室，她将为你的江山霸业鼎力相助。	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_wang_dilemmaSECOND	你遣人把伊健丽婷从府中送了出去	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_wu_dilemmaFIRST	你将吴氏纳为妾室，她的刚正与气概将助你一臂之力。	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_wu_dilemmaSECOND	你遣人把吴氏从府中送了出去	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_yuan_anyang_dilemmaFIRST	你将袁氏纳为妾室，她的姓氏将为你的霸业添上浓厚的一笔。	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_yuan_anyang_dilemmaSECOND	你遣人把袁氏从府中送了出去	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_zhen_dilemmaFIRST	你将甄氏纳为妾室，此真孝妇也。	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_zhen_dilemmaSECOND	你遣人把甄氏从府中送了出去	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_zheng_jiang_dilemmaFIRST	你将郑姜纳为妾室，她如一股狂风一般难以阻挡。	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_zheng_jiang_dilemmaSECOND	你遣人把郑姜从府中送了出去	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_zhurong_dilemmaFIRST	你将祝融夫人纳为妾室 ，今有火神侍奉必将令士气大振。	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_zhurong_dilemmaSECOND	你遣人把祝融夫人从府中送了出去	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lu_ji_dilemmaFIRST	你将吕姬纳为妾室，她的美貌可与她的武艺相媲美。	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lu_ji_dilemmaSECOND	你遣人把吕姬从府中送了出去	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_song_jinting_dilemmaFIRST	你将侯氏纳为妾室，她在边疆侍奉公孙瓒的经验实为可贵。	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_song_jinting_dilemmaSECOND	你遣人把侯氏从府中送了出去	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_xiao_qiao_dilemmaFIRST	你将小乔纳为妾室，她的甜言蜜语如音乐般余音缭绕。	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_xiao_qiao_dilemmaSECOND	你遣人把小乔从府中送了出去	true
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_zhang_xueer_dilemmaFIRST	你将祝张氏纳为妾室 ，此女有麟凤之气。	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_zhang_xueer_dilemmaSECOND	你遣人把张氏从府中送了出去	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_zheng_lan_dilemmaFIRST	你将郑兰纳为妾室，从此总比多一个叛贼好些。	false
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_zheng_lan_dilemmaSECOND	你遣人把郑兰从府中送了出去	false
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_buddaFIRST	欢迎这些僧侣。	false
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_buddaSECOND	不应理睬这些烦人的布道僧侣。	false
-cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_cai_yanFIRST	蔡文姬获救。	false
-cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_cai_yanSECOND	不与蛮夷交易。	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_cai_yanFIRST	你派出特使重金将蔡琰赎回，但当她离开她的孩子们时，面容全无光彩。	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_cai_yanSECOND	你决定将国库的资金用于更有用的地方，但却愧对了蔡氏家族。	false
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_dong_bai_dlc05FIRST	此女清白，并无罪过。	false
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_dong_bai_dlc05SECOND	莫要引禍上身。	false
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_dong_bai_dlc07FIRST	此女清白，并无罪过。	true
@@ -221,15 +384,114 @@ cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_white_tiger
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_white_tiger_01SECOND	无稽之谈。	false
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_white_tiger_02FIRST	不能空手而归。	false
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_white_tiger_02SECOND	你同意下人的意见，准备下山。	false
+cdir_events_dilemma_choice_details_localised_choice_title_mtu_dilemma_suggestion_of_rebel_sistersFIRST	得人钱财，与人消灾，有钱能使鬼都推磨！	true
+cdir_events_dilemma_choice_details_localised_choice_title_mtu_dilemma_suggestion_of_rebel_sistersSECOND	你坚定的拒绝了与她们妥协。	true
+ceo_equipped_set_bonuses_description_3k_main_item_set_celestial_fury2	不义者天自罚之	true
 ceo_equipped_set_bonuses_description_3k_main_item_set_lord_of_fire	战场即是您的舞台。	false
+ceo_equipped_set_bonuses_description_3k_main_item_set_tacticians_design2	千百韬略尽见矣	true
+ceo_equipped_set_bonuses_description_3k_mtu_item_set_changshan_zhaozilong	「阿斗有命矣。」	true
+ceo_equipped_set_bonuses_description_3k_mtu_item_set_eight_principle_of_yong	似鸟头燕尾，又似鸟头凤尾，横竖笔画丝丝露白，飞笔断白，燥润相宜，似枯笔做成。	true
+ceo_equipped_set_bonuses_description_3k_mtu_item_set_invincible	「子龙一身都是胆也！」	true
+ceo_equipped_set_bonuses_description_3k_mtu_item_set_sorrow_and_anger	「人生几何时，怀忧终年岁。」	true
+ceo_equipped_set_bonuses_title_3k_main_item_set_celestial_fury2	天怒将军	true
 ceo_equipped_set_bonuses_title_3k_main_item_set_lord_of_fire	战场之王	false
+ceo_equipped_set_bonuses_title_3k_main_item_set_tacticians_design2	龙韬虎略	true
+ceo_equipped_set_bonuses_title_3k_mtu_item_set_changshan_zhaozilong	单骑救主	true
+ceo_equipped_set_bonuses_title_3k_mtu_item_set_eight_principle_of_yong	飞白书	true
+ceo_equipped_set_bonuses_title_3k_mtu_item_set_invincible	虎威	true
+ceo_equipped_set_bonuses_title_3k_mtu_item_set_sorrow_and_anger	怀古伤今	true
+ceo_nodes_description_3k_dlc04_ceo_node_career_historical_lady_cai_yan_wenji_01	「婉娩淑女，与士并列。至柔动刚，彤管炜节。」	false
 ceo_nodes_description_3k_dlc05_ancillary_title_blood_dragon_01	赢得一场您的一名将领亲自杀敌三百人的战斗	false
 ceo_nodes_description_3k_dlc05_ancillary_title_blood_dragon_locked_00	赢得一场您的一名将领亲自杀敌三百人的战斗	false
 ceo_nodes_description_3k_dlc07_ancillary_weapon_emperor_xian_weapon_unique	一柄精美绝伦的宝剑，错以黄金，饰以鲛皮，与天子之尊位相称。	false
+ceo_nodes_description_3k_main_ancillary_lady_diao_chans_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_main_ceo_node_career_historical_lady_diao_chan_01	Diao Chan's beauty is enough to destroy a country in a moment.	false
+ceo_nodes_description_3k_mtu_ancillary_accessory_eight_principles_of_yong	积弊已深，颓势已定。	true
+ceo_nodes_description_3k_mtu_ancillary_accessory_poem_of_sorrow_and_anger	字字是血，句句是泪。	true
+ceo_nodes_description_3k_mtu_ancillary_armour_jian_yongs_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_armour_lady_cai_yans_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_armour_zhao_yuns_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_chen_jius_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_chunyu_qiongs_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_dong_mins_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_eminent_calligrapher_armour_water_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_empty_lunchpail	空空如也	true
+ceo_nodes_description_3k_mtu_ancillary_gao_shuns_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_hidden_flow	此剑寒气逼人，可如两股暗流般袭向敌手。	true
+ceo_nodes_description_3k_mtu_ancillary_hua_xins_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_huang_zus_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
 ceo_nodes_description_3k_mtu_ancillary_lady_bian_huilans_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_lady_da_qiaos_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_lady_dong_bais_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_lady_dong_peishans_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_lady_gongsun_jintings_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_lady_guan_yinpings_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_lady_lu_jis_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_lady_lu_zhengs_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_lady_ma_lanlis_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_lady_ma_yunlus_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_lady_trieus_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_lady_wang_litings_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_lady_wu_minyus_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_lady_xiao_qiaos_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_lady_zhang_jinglans_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_lady_zhang_xingcais_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
 ceo_nodes_description_3k_mtu_ancillary_lady_zou_yuans_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_line_breaker	此戟的重量与平衡恰到好处，是一把善于瓦解敌阵的利器。	true
+ceo_nodes_description_3k_mtu_ancillary_luo_juns_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_mount_lady_trieus_elephant_unique	赵妪亲手驯服的巨象，来去如响雷地震般惊天动地	true
+ceo_nodes_description_3k_mtu_ancillary_phoenix_beak	这把武器犹如凤喙一般尖锐，锋芒逼人。	true
+ceo_nodes_description_3k_mtu_ancillary_qu_gongs_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_shen_peis_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_weapon_comet_spear	此矛锐不可挡，如彗星划过星空一般刺穿敌腹。	true
+ceo_nodes_description_3k_mtu_ancillary_weapon_dachui	As big as it is, heavy but strong	true
+ceo_nodes_description_3k_mtu_ancillary_weapon_diplomat	就算是说客也需要防身之物。	true
+ceo_nodes_description_3k_mtu_ancillary_weapon_goshawk	此弓仅配鹰觑鹘望之人。	true
+ceo_nodes_description_3k_mtu_ancillary_weapon_hawk	此弓就如飞隼一般，看似小巧，实则力大无穷。	true
+ceo_nodes_description_3k_mtu_ancillary_weapon_hometowns_bow	此弓铸造的铸造者与你同乡，真是令人欣慰。	true
+ceo_nodes_description_3k_mtu_ancillary_weapon_invincible	所向披靡	true
+ceo_nodes_description_3k_mtu_ancillary_weapon_juque	穿铜釜，绝铁砺 ，胥中决如粢米。	true
+ceo_nodes_description_3k_mtu_ancillary_weapon_mothers_bow	慈母所赠，岂可不用乎？	true
+ceo_nodes_description_3k_mtu_ancillary_weapon_point_piercer	此矛犹如蝰蛇的毒牙一般致命。	false
+ceo_nodes_description_3k_mtu_ancillary_weapon_sharp_light	锐利得发光，此戟不逊于方天画戟。	false
+ceo_nodes_description_3k_mtu_ancillary_weapon_shengxie	吴主孙权有六剑，三曰辟邪。	true
+ceo_nodes_description_3k_mtu_ancillary_weapon_wind_of_north	此弓射出的箭矢疾如狂风，眨眼间就能破军杀将。	true
+ceo_nodes_description_3k_mtu_ancillary_weapon_wind_of_taiyuan	此弓射出的箭矢风卷残云，竟然会发出如同太原狂风一般的声音。	true
+ceo_nodes_description_3k_mtu_ancillary_weapon_young_dragon	雏龙虽尚且稚嫩，却也是龙。	true
+ceo_nodes_description_3k_mtu_ancillary_wu_anguos_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_yan_xiangs_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_zhang_baos_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_chen_jiu_01	庞德戎昭果毅，敌者必讨	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_chunyu_qiong_reborn	淳于琼气节刚烈，曾被汉灵帝册封为西园八校尉之一。	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_dong_min_01	贪暴成性，荼毒关中。	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_gao_shun_01	仲氏大将军张勋号令三军谁敢不从？	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_hua_xin_01	「华歆清纯德素，诚一时之俊伟也。」	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_huang_zu_01	「祖宿狡猾，为表腹心，出作爪牙，表之鸱张，以祖气息。」	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_jian_yong_01	简雍擅于辩论、议事，但也闲暇自得，行为不检。	true
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_bian_huilan_01	她的优雅、决心和美貌使她受到当时所有英雄的垂涎。	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_cai_yan_01	「婉娩淑女，与士并列。至柔动刚，彤管炜节。」	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_da_qiao_01	冯氏不仅天姿国色，还因胸怀大志而深受袁术宠爱。	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_dong_bai_01	董卓遍封其宗族，董白尚未及笄，便被封为渭阳君，在郿城东起坛。	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_dong_peishan_01	董卓发妻，卓封郿侯。不仅生性贪婪，且行事作风十分谨慎狡猾。	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_gongsun_jinting_01	公孙瓒常年征战在外，侯氏依靠着她的贤明与机警守护着家族的未来。	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_guan_yinping_01	「虎女安能配犬子乎？」	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_lu_ji_01	虎父无犬女，吕布之女不仅美艳，也是战场豪杰。	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_lu_zheng_01	狡黠之徒，矢不虚发，乃魁首之腕。	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_ma_lanli_01	羌族女杰华氏精于骑射，武艺不在其夫之下。	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_ma_yunlu_01	马云禄深知兵在精而不在多，为了部队执锐披坚她总是不惜血本。	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_trieu_01	「横戈当虎易，对面婆王难。」	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_wang_liting_01	伊健丽婷眼观六路，耳听八方，对她的敌人了如指掌。	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_wu_minyu_01	气质高雅，心胸宽广。	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_xiao_qiao_01	仲氏公主袁氏的美貌与贤良人尽皆知。	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_zhang_jinglan_01	虽为女贼，其鸿鹄之志却比肩世间枭雄。	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_zhang_xingcai_01	继其父虎将之勇及其母之貌，唯有行帝王之道者方可驾驭此女。	true
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_zou_yuan_01	「吾为夫人故，特纳张绣之降；不然灭族矣。」	false
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_luo_jun_01	「施压于民，绝无益处。水能载舟，亦能覆舟。」	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_qu_gong_01	只有一只眼睛都可以如此为非作歹，难道还需要另外一只不成？	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_wu_anguo_01	Although he lost one hand, he was one of the few who survived from duel with Lubu.	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_yan_xiang_01	阎象深图远虑，总是危机到来之前就做好了准备。	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_zhang_bao_01	「虎父无犬子也！」	true
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_zhu_beng_01	「二逆不诛，乱臣贼子，行将接踵于天下矣！」	true
 ceo_nodes_description_hv_ancillary_accessory_danyang_military_talisman	此令牌可指挥丹阳部队。	true
 ceo_nodes_description_hv_ancillary_accessory_jingchou_military_talisman	此令牌可指挥荆楚部队。	true
 ceo_nodes_description_hv_ancillary_accessory_lu_bu_legacy_military_talisman	此令牌可指挥捕掾队部队。	false
@@ -252,10 +514,96 @@ ceo_nodes_description_hv_ceo_node_career_non_deployable_type_3	对佃户来说�
 ceo_nodes_description_hv_ceo_node_career_non_deployable_type_4	这些人代替主公处理事务。	true
 ceo_nodes_description_hv_ceo_node_career_non_deployable_type_5	周围总是很多人。	true
 ceo_nodes_description_hv_ceo_node_career_non_deployable_type_6	他们会记录一切事务。	true
-ceo_nodes_title_3k_mtu_ancillary_lady_bian_huilans_armour_unique	刘夫人绣衣	true
+ceo_nodes_title_3k_dlc04_ceo_node_career_historical_lady_cai_yan_wenji_01	悲愤才女	false
+ceo_nodes_title_3k_main_ancillary_lady_diao_chans_armour_unique	Diao Chan's Silk Raiment	true
+ceo_nodes_title_3k_main_ceo_node_career_historical_lady_diao_chan_01	Femme Fatale	false
+ceo_nodes_title_3k_mtu_ancillary_accessory_eight_principles_of_yong	《述行赋》	true
+ceo_nodes_title_3k_mtu_ancillary_accessory_poem_of_sorrow_and_anger	《悲愤诗》	true
+ceo_nodes_title_3k_mtu_ancillary_armour_jian_yongs_armour_unique	简雍的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_armour_lady_cai_yans_armour_unique	蔡琰的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_armour_zhao_yuns_armour_unique	虎威将军的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_chen_jius_armour_unique	庞德的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_chunyu_qiongs_armour_unique	淳于琼的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_dong_mins_armour_unique	董旻的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_eminent_calligrapher_armour_water_unique	靛蓝官衣	true
+ceo_nodes_title_3k_mtu_ancillary_empty_lunchpail	紫檀食盒	true
+ceo_nodes_title_3k_mtu_ancillary_gao_shuns_armour_unique	张勋的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_hidden_flow	伏波剑	true
+ceo_nodes_title_3k_mtu_ancillary_hua_xins_armour_unique	华歆的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_huang_zus_armour_unique	黄祖的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_lady_bian_huilans_armour_unique	刘氏的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_lady_da_qiaos_armour_unique	冯氏的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_lady_dong_bais_armour_unique	董白的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_lady_dong_peishans_armour_unique	董氏的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_lady_gongsun_jintings_armour_unique	侯氏的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_lady_guan_yinpings_armour_unique	关嫣的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_lady_lu_jis_armour_unique	吕姬的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_lady_lu_zhengs_armour_unique	陆政的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_lady_ma_lanlis_armour_unique	华氏的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_lady_ma_yunlus_armour_unique	马云禄的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_lady_trieus_armour_unique	赵妪的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_lady_wang_litings_armour_unique	伊健丽婷的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_lady_wu_minyus_armour_unique	吴氏的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_lady_xiao_qiaos_armour_unique	袁氏的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_lady_zhang_jinglans_armour_unique	郑兰的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_lady_zhang_xingcais_armour_unique	张氏的护甲	true
 ceo_nodes_title_3k_mtu_ancillary_lady_zou_yuans_armour_unique	邹氏的护甲	true
-ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_bian_huilan_01	躬亲主母	true
+ceo_nodes_title_3k_mtu_ancillary_line_breaker	破阵戟	true
+ceo_nodes_title_3k_mtu_ancillary_luo_juns_armour_unique	骆俊的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_mount_lady_trieus_elephant_unique	九真白象	true
+ceo_nodes_title_3k_mtu_ancillary_phoenix_beak	凤喙刀	true
+ceo_nodes_title_3k_mtu_ancillary_qu_gongs_armour_unique	瞿恭的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_shen_peis_armour_unique	审配的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_weapon_comet_spear	长星枪	true
+ceo_nodes_title_3k_mtu_ancillary_weapon_dachui	Big Mace	true
+ceo_nodes_title_3k_mtu_ancillary_weapon_diplomat	使节剑	true
+ceo_nodes_title_3k_mtu_ancillary_weapon_goshawk	苍鹰弓	true
+ceo_nodes_title_3k_mtu_ancillary_weapon_hawk	飞隼弓	true
+ceo_nodes_title_3k_mtu_ancillary_weapon_hometowns_bow	桑梓弓	true
+ceo_nodes_title_3k_mtu_ancillary_weapon_invincible	亮银枪	true
+ceo_nodes_title_3k_mtu_ancillary_weapon_juque	阙翦剑	true
+ceo_nodes_title_3k_mtu_ancillary_weapon_mothers_bow	家慈弓	true
+ceo_nodes_title_3k_mtu_ancillary_weapon_point_piercer	蝰牙矛	false
+ceo_nodes_title_3k_mtu_ancillary_weapon_sharp_light	锐光戟	false
+ceo_nodes_title_3k_mtu_ancillary_weapon_shengxie	辟邪剑	true
+ceo_nodes_title_3k_mtu_ancillary_weapon_wind_of_north	风驰弓	true
+ceo_nodes_title_3k_mtu_ancillary_weapon_wind_of_taiyuan	太原之风	true
+ceo_nodes_title_3k_mtu_ancillary_weapon_young_dragon	雏龙刀	true
+ceo_nodes_title_3k_mtu_ancillary_wu_anguos_armour_unique	Wu Anguo's Armour	true
+ceo_nodes_title_3k_mtu_ancillary_yan_xiangs_armour_unique	阎象的护甲	true
+ceo_nodes_title_3k_mtu_ancillary_zhang_baos_armour_unique	张苞的护甲	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_chen_jiu_01	白马将军	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_chunyu_qiong_reborn	西园校尉	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_dong_min_01	无魇暴君	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_gao_shun_01	开国将军	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_hua_xin_01	名士高风	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_huang_zu_01	远射伏虎	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_jian_yong_01	优游风议	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_bian_huilan_01	忌害美妇	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_cai_yan_01	悲愤才女	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_da_qiao_01	涕泣美人	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_dong_bai_01	董氏明珠	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_dong_peishan_01	郿侯夫人	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_gongsun_jinting_01	贤明母主	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_guan_yinping_01	虎女	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_lu_ji_01	飞将之女	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_lu_zheng_01	晋阳女贼	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_ma_lanli_01	西羌女杰	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_ma_yunlu_01	敦煌公主	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_trieu_01	骆越之光	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_wang_liting_01	求知若渴	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_wu_minyu_01	武烈皇后	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_xiao_qiao_01	仲氏公主	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_zhang_jinglan_01	黑山母主	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_zhang_xingcai_01	敬哀皇后	true
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_zou_yuan_01	妖娆祸水	false
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_luo_jun_01	百姓卫士	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_qu_gong_01	独眼山贼	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_wu_anguo_01	One Armed Bear	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_yan_xiang_01	贤达哲士	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_zhang_bao_01	虎将之子	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_zhao_yun_01	五虎上将	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_zhu_beng_01	乱臣贼子	true
 ceo_nodes_title_ep_ancillary_sima_ai_armour_unique	曹昂的护甲	true
 ceo_nodes_title_ep_ancillary_sima_jiong_armour_unique	张方的护甲	true
 ceo_nodes_title_ep_ancillary_sima_liang_armour_unique	张鲁的护甲	true
@@ -295,7 +643,94 @@ ceo_nodes_title_hv_ceo_node_faction_rank_unlock_legacy_yuan_shu	袁术余部	fal
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_monk	佛教	false
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_qingzhou	剿灭黄巾	false
 character_skills_localised_description_3k_dlc07_skill_emperor_earth_imperious	九五之尊，当彰显帝王气度。	false
+character_skills_localised_description_3k_main_skill_special_ability_earth_advance	军令如山，不听约束者皆斩之。	true
+character_skills_localised_description_3k_main_skill_special_ability_earth_battle_stance	知己知彼，百战不殆。	true
+character_skills_localised_description_3k_main_skill_special_ability_earth_cheers_of_encouragement	将帅之安危岂可不保乎？	true
+character_skills_localised_description_3k_main_skill_special_ability_earth_commanding_presence	不可无礼！	true
+character_skills_localised_description_3k_main_skill_special_ability_earth_coward	董旻只敢仗势欺人。	true
+character_skills_localised_description_3k_main_skill_special_ability_earth_dignity_of_the_empress	如有要事禀告，务必以礼相待。	true
+character_skills_localised_description_3k_main_skill_special_ability_earth_empress_dong	如此寥寥无几，也敢奉上？	true
+character_skills_localised_description_3k_main_skill_special_ability_earth_empress_wulie	孙吴国太为人刚强正直，德才兼备。	true
+character_skills_localised_description_3k_main_skill_special_ability_earth_empress_wuxuan	魏国之母，母仪天下。	true
+character_skills_localised_description_3k_main_skill_special_ability_earth_encouragement	将士们的所做所为将流芳百世！	true
+character_skills_localised_description_3k_main_skill_special_ability_earth_forced_march	你这厮，还不快接着走！	true
+character_skills_localised_description_3k_main_skill_special_ability_earth_greedy_tyrant	贪如狼恶，好自积财。	true
+character_skills_localised_description_3k_main_skill_special_ability_earth_heavenly_color	二乔的美貌名扬江东。为了她们，士卒们愿意出生入死，保家卫国。	true
 character_skills_localised_description_3k_main_skill_special_ability_earth_imperious_presence	曹操在场，敌将备受压制！	false
+character_skills_localised_description_3k_main_skill_special_ability_earth_lady_dong_cruel_command	宁舍尔命，也得保障夫人毫发无伤。	true
+character_skills_localised_description_3k_main_skill_special_ability_earth_order_of_tyrant	暴君的怒吼能让最懦弱的士兵也士气高昂，坚如磐石。	true
+character_skills_localised_description_3k_main_skill_special_ability_earth_shout	诏令在此，不得抗命！	true
+character_skills_localised_description_3k_main_skill_special_ability_fire_blood_flower	张氏在战场上由于天上流星一般，美丽绝伦却又危险。	true
+character_skills_localised_description_3k_main_skill_special_ability_fire_breakthrough_in_concentration	号令三军攻其一处！	true
+character_skills_localised_description_3k_main_skill_special_ability_fire_camp_crushing	犁庭扫穴，无坚不摧。	true
+character_skills_localised_description_3k_main_skill_special_ability_fire_chunyu_qiong_frenzy	被激怒了的淳于琼，将全力以赴，力战身死。	true
+character_skills_localised_description_3k_main_skill_special_ability_fire_concentrated_strikes	毒蛇出击，一击致命。	true
+character_skills_localised_description_3k_main_skill_special_ability_fire_experienced_rider	羌人自小学习骑术，骑术十分了得。	true
+character_skills_localised_description_3k_main_skill_special_ability_fire_father_daughter	父女同心，无往不利。	true
+character_skills_localised_description_3k_main_skill_special_ability_fire_ferocious_rush	怒火中烧，浴血奋战。	true
+character_skills_localised_description_3k_main_skill_special_ability_fire_reckless_warrior	奋不顾身，得失难记。	true
+character_skills_localised_description_3k_main_skill_special_ability_fire_thunderous_bellow	犹如其父亲张飞，张苞的怒吼同样也是响彻云霄。	true
+character_skills_localised_description_3k_main_skill_special_ability_fire_thunderous_blow	竭尽全力，致命一击。	true
+character_skills_localised_description_3k_main_skill_special_ability_fire_tiger_son	「亮以张苞为虎翼将军，杖前右护卫使。」	true
+character_skills_localised_description_3k_main_skill_special_ability_fire_xianchenying	张勋领军，当世无双。	true
+character_skills_localised_description_3k_main_skill_special_ability_metal_blooming_beauty_xiao	美妙的芬芳在前线总能鼓舞将士们勇猛杀敌。	true
+character_skills_localised_description_3k_main_skill_special_ability_metal_call_of_courage	设下酒宴，待将军得胜归来！	true
+character_skills_localised_description_3k_main_skill_special_ability_metal_cosy_haven	冬去春来，生机勃发。	true
+character_skills_localised_description_3k_main_skill_special_ability_metal_critical strike	摧心剖肝，直中要害。	true
+character_skills_localised_description_3k_main_skill_special_ability_metal_double_sword_dance	舞剑操刀于敌众之间。	true
+character_skills_localised_description_3k_main_skill_special_ability_metal_experienced_rider	羌人自小学习骑术，骑术十分了得。	true
+character_skills_localised_description_3k_main_skill_special_ability_metal_heavenly_color	二乔的美貌名扬江东。为了她们，士卒们愿意出生入死，保家卫国。	true
+character_skills_localised_description_3k_main_skill_special_ability_metal_lucky_pearl	「漫道无华争俏丽,长青更胜一时芳。」	true
+character_skills_localised_description_3k_main_skill_special_ability_metal_persistent_attack	持久且不衰，伊健丽婷永不放弃。	true
+character_skills_localised_description_3k_main_skill_special_ability_metal_provocation	你难道想在沙场上于刘关张相会？	true
+character_skills_localised_description_3k_main_skill_special_ability_metal_pursuit	猎人猎物，瓮中捉鳖。	true
+character_skills_localised_description_3k_main_skill_special_ability_metal_shadow_of_the_black_mountain	传黑山有一女，能如遁迹匿影，来去自如。	false
+character_skills_localised_description_3k_main_skill_special_ability_metal_shower_of_arrows	华氏射出的飞箭如漫天蝗虫一般袭向敌手，令人变貌失色。	true
+character_skills_localised_description_3k_main_skill_special_ability_metal_story_telling	能言之人在就算战场上也能用唇舌鼓舞三军。	true
+character_skills_localised_description_3k_main_skill_special_ability_metal_suppressive_fire	明枪好躲，暗箭难防。	true
+character_skills_localised_description_3k_main_skill_special_ability_metal_vigor_of_a_warrior	马云禄战起来称其为废寝忘食也不为过。	true
+character_skills_localised_description_3k_main_skill_special_ability_water_blossoming_beauty	美人一笑，士愿捐躯。	false
+character_skills_localised_description_3k_main_skill_special_ability_water_broad_Knowledge	没人能不被蔡文姬浑身上下都散发着的学识所影响。	true
+character_skills_localised_description_3k_main_skill_special_ability_water_calculated_judgment	出其不意，瓮中捉鳖。	true
+character_skills_localised_description_3k_main_skill_special_ability_water_cautious_approach	匿影藏形于林宇之间，狠下毒手，攻其敌于不备。	true
+character_skills_localised_description_3k_main_skill_special_ability_water_console	主之贤明，将愿捐躯。	true
+character_skills_localised_description_3k_main_skill_special_ability_water_elegant_and_cultured	熟读兵书，精通兵法之将领可令千人有万人之威。	true
+character_skills_localised_description_3k_main_skill_special_ability_water_eloquent_speaker	能言雄辩之人有时甚于一员猛将。	true
+character_skills_localised_description_3k_main_skill_special_ability_water_fatal_attraction	「不知夫人今宵愿与我同席共枕否？」	true
+character_skills_localised_description_3k_main_skill_special_ability_water_foul_wits	高瞻之论还需配上愿听忠言之明主。	true
+character_skills_localised_description_3k_main_skill_special_ability_water_lament	梨花带雨，我见犹怜。	true
+character_skills_localised_description_3k_main_skill_special_ability_water_loyal_advice	「昔周自后稷至于文王，积德累功，三分天下有其二，犹服事殷。明公虽奕世克昌，未若有周之盛，汉室虽微，未若殷纣之暴也。」	true
+character_skills_localised_description_3k_main_skill_special_ability_water_marksman_of_taiyuan	陆政的猎物对她来说犹如瓮中捉鳖。	true
+character_skills_localised_description_3k_main_skill_special_ability_water_poison	我视你为友，你竟然因一片黄金而与我割席而坐。	true
+character_skills_localised_description_3k_main_skill_special_ability_water_quick_preparation	陆政使用长弓手到擒来，总能先人一步拉弓搭箭。	true
+character_skills_localised_description_3k_main_skill_special_ability_water_tantrum	将士宁可上阵出生入死，也不肯在营中被将军责骂。	true
+character_skills_localised_description_3k_main_skill_special_ability_water_tragic_foresight	为国者以民为基，民以衣食为本。	true
+character_skills_localised_description_3k_main_skill_special_ability_water_tyrants_gaze	栖身与暴君鹯狼身旁，董白已练就金刚不坏之身。	true
+character_skills_localised_description_3k_main_skill_special_ability_water_unbreakable_faith	荀彧坚定不移的意志是将士之范。	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_avenge	敌军势穷，怎可不乘胜追击？	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_brawn_of_yangan	有传言说有一人可以徒手驯服一头暴怒的公牛。	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_champion_of_xiliang	庞德既能与关公死战，那也必能匹敌马超。	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_coffin_march	庞德要么会取得胜利，要么就是死战入土。	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_demigod_of_war	一脉相承，不愧为武圣之女！	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_distrust_power	不臣之士，话里藏刀。	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_flower_on_the_battlefield	美貌之下，藏着一头桀骜不驯的猛兽。	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_goddess_of_battle	赵妪所经之处无所不催。	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_guardian	百姓卫士，民为其足	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_hope_of_nam_viet	身背骆越人民的希望，赵贞娘绝不会退缩。	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_indiscriminate_charge	独拥残兵守邺城，审配慷慨壮烈。	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_last_resist	就算被围，审配也拒不投降，背水一战。	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_martial_prodigy	父为吕奉先，吕姬天赋异禀。	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_mercy_of_the_forest	来自于自然的恩惠，可是不可多得的。	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_persistent_combat	即使是逆境之下，黄祖也不会退缩。	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_prevent_assassination	遭扰攘之时，值兵革之际。	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_rage_of_lu_ji	愈战愈勇，佛挡杀佛。	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_sister_bandits	臭味相投，不求同生，只求共死。	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_strike_of_justice	正气凛然，骆俊的重击充满着正义与民意。	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_tiger_suppression	黄祖最善于百步之外阴袭敌军。	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_unexpected_strike	出其不备，攻其不意。	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_unwed_warrior	为光复骆越而战，岂可浪费时间于男女情长。	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_victory_or_death	庞德冲锋时不顾自身死活，总是捷足先登。	true
+character_skills_localised_description_3k_main_skill_special_ability_wood_youthful_vigor	关兴对他的手下也从不手下留情，这令他的部曲令人生畏。	true
 character_skills_localised_description_hv_historical_skill_ability_earth_01	冲突无法避免。	true
 character_skills_localised_description_hv_historical_skill_ability_earth_02	凭地利，如披坚甲，箭若无物	true
 character_skills_localised_description_hv_historical_skill_ability_earth_03	军士聚于此英雄之旗下。	true
@@ -414,7 +849,7 @@ character_skills_localised_description_hv_skill_ability_hamstring_expertise	精�
 character_skills_localised_description_hv_skill_ability_hamstring_instinct	精心出突袭，使敌步蹒跚	true
 character_skills_localised_description_hv_skill_ability_hamstring_resolve	精心出突袭，使敌步蹒跚	true
 character_skills_localised_description_hv_skill_ability_hamstring_veteran	精心出突袭，使敌步蹒跚	true
-character_skills_localised_description_hv_skill_ability_heart_seeker_instinct	此射手只消一击便能取人性命。	true
+character_skills_localised_description_hv_skill_ability_heart_seeker_instinct	百步穿杨，一击便可致敌于死地。	true
 character_skills_localised_description_hv_skill_ability_heavenly_grace_authority	她运用美色，迷得周围所有人动弹不得。	true
 character_skills_localised_description_hv_skill_ability_heavenly_grace_cunning	她运用美色，迷得周围所有人动弹不得。	true
 character_skills_localised_description_hv_skill_ability_heavenly_presence_authority	局势危急之际，此人拍马杀到，为手下带来希望。	false
@@ -471,7 +906,7 @@ character_skills_localised_description_hv_skill_ability_poisioned_blade_resolve	
 character_skills_localised_description_hv_skill_ability_preach	斯言聚神	true
 character_skills_localised_description_hv_skill_ability_quickfire_expertise	此人一箭紧接一箭，一箭快过一箭。	true
 character_skills_localised_description_hv_skill_ability_rage_of_lu_bu_instinct	画戟猛烈地横扫，打击吕布周围的所有敌人	true
-character_skills_localised_description_hv_skill_ability_rally_the_troops_cunning	此将集结军队，激励众将士发起最后的冲锋，建不世之功业。	false
+character_skills_localised_description_hv_skill_ability_rally_the_troops_cunning	此将召集兵士奋勇作战，鼓励他们作最后一搏。	false
 character_skills_localised_description_hv_skill_ability_reckless_strike_instinct	此乃绝死一击，若中，则战局可定；若不中……亦可定。	true
 character_skills_localised_description_hv_skill_ability_reckless_strike_resolve	此乃绝死一击，若中，则战局可定；若不中……亦可定。	true
 character_skills_localised_description_hv_skill_ability_reign_of_terror_instinct	暴君震怒，属下瑟瑟发抖	true
@@ -514,7 +949,7 @@ character_skills_localised_description_hv_skill_ability_the_weight_on_the_should
 character_skills_localised_description_hv_skill_ability_tiger_expertise	勇武如猛虎，胆敢与此人对峙之人可称之为有万夫不当之勇。	true
 character_skills_localised_description_hv_skill_ability_tiger_resolve	勇武如猛虎，胆敢与此人对峙之人可称之为有万夫不当之勇。	true
 character_skills_localised_description_hv_skill_ability_turning_the_tide_cunning	敌众溃散之时，三军振奋，追战愈勇。	true
-character_skills_localised_description_hv_skill_ability_undying_vow_instinct	周泰及义亲视死如归，奋战至血尽身死。	true
+character_skills_localised_description_hv_skill_ability_undying_vow_instinct	此人视死如归，奋战至血尽身死。	true
 character_skills_localised_description_hv_skill_ability_unstoppable_resolve	他武艺天下绝伦，敌众闻之胆战心惊	true
 character_skills_localised_description_hv_skill_ability_unyielding_earth_authority	法自然，如佩坚盾，御阻猛攻。	true
 character_skills_localised_description_hv_skill_ability_veil_of_darkness_cunning	诡秘莫测，令人胆寒。	true
@@ -1038,6 +1473,93 @@ character_skills_localised_description_hv_skill_non_deployable_water_2	多谋善
 character_skills_localised_description_hv_skill_non_deployable_wood_1	所谓英雄，不可徒有其表，需当勇冠三军。	true
 character_skills_localised_description_hv_skill_non_deployable_wood_2	所谓英雄，不可徒有其表，需当勇冠三军。	true
 character_skills_localised_description_hv_skill_wood_mobilization	激发部卒斗志乃是为将的精髓。	true
+character_skills_localised_name_3k_main_skill_special_ability_earth_advance	军令	true
+character_skills_localised_name_3k_main_skill_special_ability_earth_battle_stance	厉兵	true
+character_skills_localised_name_3k_main_skill_special_ability_earth_cheers_of_encouragement	保帅	true
+character_skills_localised_name_3k_main_skill_special_ability_earth_commanding_presence	凤髓	true
+character_skills_localised_name_3k_main_skill_special_ability_earth_coward	懦夫	true
+character_skills_localised_name_3k_main_skill_special_ability_earth_dignity_of_the_empress	自重	true
+character_skills_localised_name_3k_main_skill_special_ability_earth_empress_dong	无餍	true
+character_skills_localised_name_3k_main_skill_special_ability_earth_empress_wulie	刚正	true
+character_skills_localised_name_3k_main_skill_special_ability_earth_empress_wuxuan	母仪	true
+character_skills_localised_name_3k_main_skill_special_ability_earth_encouragement	金鼓	true
+character_skills_localised_name_3k_main_skill_special_ability_earth_forced_march	兴师	true
+character_skills_localised_name_3k_main_skill_special_ability_earth_greedy_tyrant	贪饕	true
+character_skills_localised_name_3k_main_skill_special_ability_earth_heavenly_color	国色	true
+character_skills_localised_name_3k_main_skill_special_ability_earth_lady_dong_cruel_command	强令	true
+character_skills_localised_name_3k_main_skill_special_ability_earth_order_of_tyrant	遮天	true
+character_skills_localised_name_3k_main_skill_special_ability_earth_shout	懿旨	true
+character_skills_localised_name_3k_main_skill_special_ability_fire_blood_flower	流星	true
+character_skills_localised_name_3k_main_skill_special_ability_fire_breakthrough_in_concentration	讨贼先锋	true
+character_skills_localised_name_3k_main_skill_special_ability_fire_camp_crushing	捣穴	true
+character_skills_localised_name_3k_main_skill_special_ability_fire_chunyu_qiong_frenzy	狂暴	true
+character_skills_localised_name_3k_main_skill_special_ability_fire_concentrated_strikes	猛蛇	true
+character_skills_localised_name_3k_main_skill_special_ability_fire_experienced_rider	骐骥	true
+character_skills_localised_name_3k_main_skill_special_ability_fire_father_daughter	龙虎	true
+character_skills_localised_name_3k_main_skill_special_ability_fire_ferocious_rush	浴血	true
+character_skills_localised_name_3k_main_skill_special_ability_fire_reckless_warrior	熊罴	true
+character_skills_localised_name_3k_main_skill_special_ability_fire_thunderous_bellow	断喝	true
+character_skills_localised_name_3k_main_skill_special_ability_fire_thunderous_blow	霆击	true
+character_skills_localised_name_3k_main_skill_special_ability_fire_tiger_son	虎翼	true
+character_skills_localised_name_3k_main_skill_special_ability_fire_xianchenying	马首	true
+character_skills_localised_name_3k_main_skill_special_ability_metal_blooming_beauty_xiao	芳香	true
+character_skills_localised_name_3k_main_skill_special_ability_metal_call_of_courage	摆宴	true
+character_skills_localised_name_3k_main_skill_special_ability_metal_cosy_haven	回春	true
+character_skills_localised_name_3k_main_skill_special_ability_metal_critical strike	摧心	true
+character_skills_localised_name_3k_main_skill_special_ability_metal_double_sword_dance	剑舞	true
+character_skills_localised_name_3k_main_skill_special_ability_metal_experienced_rider	骐骥	true
+character_skills_localised_name_3k_main_skill_special_ability_metal_heavenly_color	国色	true
+character_skills_localised_name_3k_main_skill_special_ability_metal_lucky_pearl	松柏	true
+character_skills_localised_name_3k_main_skill_special_ability_metal_persistent_attack	不衰	true
+character_skills_localised_name_3k_main_skill_special_ability_metal_provocation	挑衅	true
+character_skills_localised_name_3k_main_skill_special_ability_metal_pursuit	饿虎	true
+character_skills_localised_name_3k_main_skill_special_ability_metal_shadow_of_the_black_mountain	黑影	false
+character_skills_localised_name_3k_main_skill_special_ability_metal_shower_of_arrows	飞蝗	true
+character_skills_localised_name_3k_main_skill_special_ability_metal_story_telling	妙语	true
+character_skills_localised_name_3k_main_skill_special_ability_metal_suppressive_fire	冷箭	true
+character_skills_localised_name_3k_main_skill_special_ability_metal_vigor_of_a_warrior	热血	true
+character_skills_localised_name_3k_main_skill_special_ability_water_blossoming_beauty	天仙	true
+character_skills_localised_name_3k_main_skill_special_ability_water_broad_Knowledge	渊博	true
+character_skills_localised_name_3k_main_skill_special_ability_water_calculated_judgment	奇袭	true
+character_skills_localised_name_3k_main_skill_special_ability_water_cautious_approach	匿形	true
+character_skills_localised_name_3k_main_skill_special_ability_water_console	振奋	true
+character_skills_localised_name_3k_main_skill_special_ability_water_elegant_and_cultured	龙韬	true
+character_skills_localised_name_3k_main_skill_special_ability_water_eloquent_speaker	铁舌	true
+character_skills_localised_name_3k_main_skill_special_ability_water_fatal_attraction	妩媚	true
+character_skills_localised_name_3k_main_skill_special_ability_water_foul_wits	远瞩	true
+character_skills_localised_name_3k_main_skill_special_ability_water_lament	恸哭	true
+character_skills_localised_name_3k_main_skill_special_ability_water_loyal_advice	劝谏	true
+character_skills_localised_name_3k_main_skill_special_ability_water_marksman_of_taiyuan	神射	true
+character_skills_localised_name_3k_main_skill_special_ability_water_poison	分坐	true
+character_skills_localised_name_3k_main_skill_special_ability_water_quick_preparation	旋踵	true
+character_skills_localised_name_3k_main_skill_special_ability_water_tantrum	痛斥	true
+character_skills_localised_name_3k_main_skill_special_ability_water_tragic_foresight	止战	true
+character_skills_localised_name_3k_main_skill_special_ability_water_tyrants_gaze	狼视	true
+character_skills_localised_name_3k_main_skill_special_ability_water_unbreakable_faith	铁壁	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_avenge	逐北	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_brawn_of_yangan	斗牛	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_champion_of_xiliang	断蛟	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_coffin_march	死战	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_demigod_of_war	箕裘	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_distrust_power	藏刀	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_flower_on_the_battlefield	龙女	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_goddess_of_battle	恶浪	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_guardian	卫足	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_hope_of_nam_viet	民意	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_indiscriminate_charge	困兽	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_last_resist	背水	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_martial_prodigy	异禀	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_mercy_of_the_forest	琼林	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_persistent_combat	血斗	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_prevent_assassination	砥柱	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_rage_of_lu_ji	无双	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_sister_bandits	沆瀣	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_strike_of_justice	正气	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_tiger_suppression	伏虎	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_unexpected_strike	突袭	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_unwed_warrior	处子	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_victory_or_death	破甑	true
+character_skills_localised_name_3k_main_skill_special_ability_wood_youthful_vigor	稚虎	true
 character_skills_localised_name_hv_historical_skill_ability_earth_01	舞爪	true
 character_skills_localised_name_hv_historical_skill_ability_earth_02	磐石	true
 character_skills_localised_name_hv_historical_skill_ability_earth_03	齐心	true
@@ -1276,9 +1798,9 @@ character_skills_localised_name_hv_skill_ability_wolf_cunning	恶狼	true
 character_skills_localised_name_hv_skill_ability_wolf_resolve	恶狼	true
 character_skills_localised_name_hv_skill_ability_wu_brave	英武	true
 character_skills_localised_name_hv_skill_ability_xiezhi_roar_resolve	獬豸之吼	false
-character_skills_localised_name_hv_skill_ability_youzansen_expertise	弧斩	true
-character_skills_localised_name_hv_skill_ability_youzansen_instinct	弧斩	true
-character_skills_localised_name_hv_skill_ability_youzansen_resolve	弧斩	true
+character_skills_localised_name_hv_skill_ability_youzansen_expertise	弧光斩	true
+character_skills_localised_name_hv_skill_ability_youzansen_instinct	弧光斩	true
+character_skills_localised_name_hv_skill_ability_youzansen_resolve	弧光斩	true
 character_skills_localised_name_hv_skill_ability_zhou_the_youth_cunning	美周郎	true
 character_skills_localised_name_hv_skill_add_individuality_cao_ang_4A	个性一	false
 character_skills_localised_name_hv_skill_add_individuality_cao_bao_4A	个性一	true
@@ -1780,10 +2302,88 @@ character_skills_localised_name_hv_skill_non_deployable_water_2	智谋	true
 character_skills_localised_name_hv_skill_non_deployable_wood_1	决心	true
 character_skills_localised_name_hv_skill_non_deployable_wood_2	决心	true
 character_skills_localised_name_hv_skill_wood_mobilization	动员	true
+custom_battle_loadouts_name_3k_main_custom_battle_loadout_lady_diao_chan_01	Lady	true
+custom_battle_loadouts_name_3k_main_custom_battle_loadout_lady_diao_chan_02	女杰	true
+custom_battle_loadouts_name_3k_main_custom_battle_loadout_lady_diao_chan_03	皇后	true
 custom_battle_loadouts_name_3k_main_custom_battle_loadout_test	校尉	false
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_chunyu_qiong_01	别部司马	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_chunyu_qiong_02	都尉	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_chunyu_qiong_03	西园校尉	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_dong_min_01	别部司马	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_dong_min_02	将军	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_dong_min_03	暴君	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_gongsun_jinting_01	军师	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_gongsun_jinting_02	奇谋百出	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_gongsun_jinting_03	皇后	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_hua_xin_01	举孝廉	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_hua_xin_02	尚书令	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_hua_xin_03	魏氏三公	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_jian_yong_01	说客	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_jian_yong_02	好友	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_jian_yong_03	昭德将军	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_cai_yan_01	俘虏	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_cai_yan_02	才女	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_cai_yan_03	文学家	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_da_qiao_01	孺人	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_da_qiao_02	女杰	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_da_qiao_03	皇后	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_dong_bai_01	孺人	false
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_dong_bai_02	夫人	false
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_dong_bai_03	渭阳君	false
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_dong_peishan_01	孺人	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_dong_peishan_02	女杰	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_dong_peishan_03	皇后	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_du_01	孺人	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_du_02	女杰	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_du_03	沛王太妃	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_lu_ji_01	别部司马	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_lu_ji_02	将领	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_lu_ji_03	飞将之女	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_lu_zheng_01	贼徒	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_lu_zheng_02	诸侯	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_lu_zheng_03	贼首	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_lanli_01	别部司马	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_lanli_02	将军	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_lanli_03	西羌女杰	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_yunlu_01	别部司马	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_yunlu_02	将军	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_yunlu_03	敦煌公主	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_trieu_01	别部司马	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_trieu_02	九真盗贼	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_trieu_03	骆越之光	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_wang_liting_01	勇士	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_wang_liting_02	女杰	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_wang_liting_03	女杰	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_wu_minyu_01	孺人	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_wu_minyu_02	女杰	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_wu_minyu_03	武烈皇后	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_xiao_qiao_01	夫人	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_xiao_qiao_02	女杰	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_xiao_qiao_03	仲氏公主	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_jinglan_01	贼徒	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_jinglan_02	凶犯	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_jinglan_03	贼首	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_xingcai_01	别部司马	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_xingcai_02	将军	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_xingcai_03	敬哀皇后	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zou_yuan_01	孺人	false
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zou_yuan_02	夫人	false
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zou_yuan_03	皇后	false
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_luo_jun_01	将军	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_luo_jun_02	将领	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_luo_jun_03	陈郡守卫	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_shen_pei_01	别部司马	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_shen_pei_02	将军	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_shen_pei_03	五子良将	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_wu_anguo_01	别部司马	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_wu_anguo_02	将军	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_wu_anguo_03	五子良将	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_yan_xiang_01	谋士	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_yan_xiang_02	主簿	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_yan_xiang_03	贤达哲士	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_zhang_xun_01	别部司马	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_zhang_xun_02	将军	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_zhang_xun_03	大将军	true
 custom_battle_loadouts_name_hv_cb_loadout_cao_cao_01	曹操	false
 custom_battle_loadouts_name_hv_cb_loadout_cao_cao_02	魏武帝	false
 custom_battle_loadouts_name_hv_cb_loadout_cheng_pu_01	程普	false
@@ -1897,30 +2497,113 @@ custom_battle_loadouts_name_hv_cb_loadout_zhou_yu_01	英杰周瑜	false
 custom_battle_loadouts_name_hv_cb_loadout_zhuge_liang_01	诸葛亮	false
 dilemmas_localised_description_3k_dlc07_child_emperor_dilemma_imperial_ancestral_rites	即将举行的皇家祭祀仪式是朝中的一项重大活动。诏书要求您派文官去协助行政事务，或派武官去协助禁卫。如果您尽忠职守，朝廷会给予赏赐。拒不执行，则可能招致天子的不满。	false
 dilemmas_localised_description_3k_dlc07_child_emperor_dilemma_imperial_banquet	朝廷下达了一道诏书，将在皇宫设宴邀请天下有影响力的贵族。这恐怕是辅政大臣因为担心我们的影响力设下的计谋，但违背诏书可能会有严重后果…… 	false
+dilemmas_localised_description_3k_main_historical_dong_li_guo_rebellion_dilemma	Li Jue and Guo Si came to the capital with a huge army. They want avenge for their fallen master. The only thing they want is the neck of the killer.	false
+dilemmas_localised_description_3k_main_historical_xun_yu_empty_lunchpail_dilemma	"You are furious because you found out your old friend and trusted servant, Xun Yu, has turned his back against you. He does not oppose you publicly for the time being, but you are certain he will betray you the first chance he gets. \\n\\n It's time to choose. You can send him a ""gift."" when he receives your ""gift,"" he who shares a deep friendship with you will know the meaning of it..."	false
+dilemmas_localised_description_3k_mtu_global_event_bring_cai_yan_dilemma_pc	蔡邕身为当代大儒，却无男性继承人，唯育一女蔡文姬却为匈奴左贤王所掳。\\n\\n 今蔡氏血脉能否延续，由你决定。	true
+dilemmas_localised_description_3k_mtu_global_event_cai_yong_death_dilemma_pc	董卓被杀，蔡邕伤感其遇，被王允知悉，而出兵捉拿蔡邕并下令处死。\\n\\n 王允曰：「昔武帝不杀司马迁，使作谤书，流于后世。方今国祚中衰，戎马在郊，不可令佞臣执笔在幼主左右，后令吾徒并受谤议。」	true
+dilemmas_localised_description_3k_mtu_global_event_daughter_guan_trait_dilemma_1	关嫣在倦与诗书之时拾起其父亲的青龙偃月刀，想效仿其父过五关斩六将之勇，不料却不小心砍坏了关羽的书橱。关羽闻声赶来，见此狼藉心中顾虑重重。	false
+dilemmas_localised_description_3k_mtu_global_event_daughter_zhang_trait_dilemma_1	趁父亲外出练武之时，张氏在倦与诗书之时竟拾起其父之酒壶，偷偷饮酒。张飞归来之时发现自己的酒壶居然一滴不剩，马上知道发生了什么，开始寻找自己的女儿。	true
+dilemmas_localised_description_3k_mtu_global_event_lady_trieu_rumor_dilemma	月明星稀，你在漫步于后院苦思于谋策之时发现了夜空中闪耀着一颗明亮的金星。当晚就寝时，一位先知现于梦中，说如若举行祭天大典你便可改变历史。次日，这想法充斥着你的脑海。虽是场梦，但却如此生动，常现在脑海中挥之不去。	false
+dilemmas_localised_description_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_lb	不出所料，袁刘两家果然开战了。出于本方的利益，你与你的谋士参议，决定邀请两家来到营中，并尝试讲和。 	true
+dilemmas_localised_description_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_yl	大战将至，吕布派来的使节却突然来访，邀请你去参加他设下的宴席。虽然可疑，但你相信你们昔日的旧情于是前往赴宴。你在到达后却发现敌军大将纪灵也在席上，吕布解释道他平生痛恨争斗，希望此次争斗能依天意而行。他提议如果他能射中营中一百五十步外戟上的小支，双方就必须停战。	true
+dilemmas_localised_description_3k_mtu_global_event_moh_jian_yong_joins_liu_bei_dilemma_pc	老友简雍在听闻你的雄心壮志后前来拜访。你与他促膝长谈，期间他透露希望与你共谋大事。	true
+dilemmas_localised_description_3k_mtu_global_event_xiong_nu_catches_cai_yan_dilemma_pc	匈奴入侵，凡经过之处皆寸草不生。乱军之中一名军士来报：蔡邕的女儿，蔡文姬，被匈奴人俘走了。	true
+dilemmas_localised_description_3k_mtu_leader_concubine_da_qiao_dilemma	曹操曾在修建铜雀台时写过欲延揽二乔之诗句，今得二乔之一，你感叹大乔果然是倾国美人。你开始思考是否纳她为妾。	true
+dilemmas_localised_description_3k_mtu_leader_concubine_diao_chan_dilemma	猛将勇夫不能除一董卓，而貂蝉独能除之。你不仅被貂蝉的美貌所折服，更被其胆识所吸引，于是考虑向其传达纳妾之意。	true
+dilemmas_localised_description_3k_mtu_leader_concubine_empress_he_dilemma	听说国母何后倾国倾城；母仪天下，如今亲眼所见真是五体投地！你仔细思考将何皇后纳为妾室的利与弊。	true
+dilemmas_localised_description_3k_mtu_leader_concubine_guan_yinping_dilemma	都说虎女焉能嫁犬子，如今你图谋大事，有帝王之志，定能配得上此等女杰。你考虑与此女结下姻缘。	false
+dilemmas_localised_description_3k_mtu_leader_concubine_lady_bian_dilemma	怒不变容，喜不失节，故是最为难。卞氏的气概令你折服，你与卞氏长谈后苦思是否纳她为妾之事。	false
+dilemmas_localised_description_3k_mtu_leader_concubine_lady_cai_yan_dilemma	蔡琰的才华可谓千古难逢，此女不仅有才，且还美艳动人。你在府中吟诵蔡妍所著的诗词，其意深远脱俗，你也陷入了苦思之中。	true
+dilemmas_localised_description_3k_mtu_leader_concubine_lady_dong_dilemma	董贼原配，没想到如此足智多谋。你在见过董氏之后考虑将她纳为妾室。	true
+dilemmas_localised_description_3k_mtu_leader_concubine_lady_du_dilemma	刘氏犹如明珠一般美丽动人，如此美貌怎可错过？你有意将刘氏纳为妾室。	false
+dilemmas_localised_description_3k_mtu_leader_concubine_lady_feng_dilemma	如此美人，怎可让其日夜哭泣？你考虑将冯氏纳为妾室。	false
+dilemmas_localised_description_3k_mtu_leader_concubine_lady_lu_zheng_dilemma	你夜访陆政，作为魁首的左膀右臂陆郑同样见多识广，且深藏不露。你细思是否将她纳为妾室。	true
+dilemmas_localised_description_3k_mtu_leader_concubine_lady_ma_dilemma	听闻华氏武艺高强，常年征战西羌。此次相会，你见华氏虽然历经风霜但却美丽动人。你立马开始思考是否纳她为妾。	true
+dilemmas_localised_description_3k_mtu_leader_concubine_lady_ma_yunlu_dilemma	你与马云禄彻夜长谈军武，赞扬她的经历所闻。回府期间，你考虑是否传达纳妾之意。	true
+dilemmas_localised_description_3k_mtu_leader_concubine_lady_mi_dilemma	糜氏不仅贤惠美丽，她还是徐州大家糜氏的一员，如纳她为妾可谓一石二鸟。于是你为掂量此事闭门不出。	false
+dilemmas_localised_description_3k_mtu_leader_concubine_lady_sun_dilemma	孙仁桀骜不驯的个性与出色的样貌深深的折服了你，于是你考虑决定将她纳为妾室。	true
+dilemmas_localised_description_3k_mtu_leader_concubine_lady_trieu_dilemma	传说赵妪身长9尺，胸长达3尺，作战时将其胸绑在背上，身穿盔甲，头插金簪，脚穿象牙鞋，骑在象头上冲锋陷阵。得知有此奇女，你仔细斟酌是否传达纳妾之意。	false
+dilemmas_localised_description_3k_mtu_leader_concubine_lady_wang_dilemma	此女城府极深，且武艺高强。你在与伊健丽婷长谈后考虑纳她为妾。	true
+dilemmas_localised_description_3k_mtu_leader_concubine_lady_wu_dilemma	虎之妻，何不为龙之妻？你考虑将吴氏纳为妾室。	true
+dilemmas_localised_description_3k_mtu_leader_concubine_lady_yuan_anyang_dilemma	袁氏为袁氏后代，不仅美貌绝人而且政治经验颇丰。于是你考虑遣人传达纳妾之意。	false
+dilemmas_localised_description_3k_mtu_leader_concubine_lady_zhen_dilemma	此女贵乃不可言，你考虑将甄氏纳为妾室。	false
+dilemmas_localised_description_3k_mtu_leader_concubine_lady_zheng_jiang_dilemma	你只身探访郑姜，此前认为她仅仅为狗盗之辈，而当今却被她的气魄与见识所折服，于是你仔细斟酌纳妾之事。	true
+dilemmas_localised_description_3k_mtu_leader_concubine_lady_zhurong_dilemma	祝融夫人作为一名南蛮战士，果然名不虚传，然而令人惊讶的是她纯洁与坚定的内心。你考虑在次日遣人传达纳妾之意。	false
+dilemmas_localised_description_3k_mtu_leader_concubine_lu_ji_dilemma	飞将之女吕姬武艺不在其父之下，如能得此猛将霸业必成！你考虑在次日遣人传达纳妾之意。	false
+dilemmas_localised_description_3k_mtu_leader_concubine_song_jinting_dilemma	侯氏贤明机警，在公孙瓒常年征战在外的情况下总能稳定后防。你在了解了侯氏的才能后有意纳她为妾。	false
+dilemmas_localised_description_3k_mtu_leader_concubine_xiao_qiao_dilemma	曹操曾在修建铜雀台时写过欲延揽二乔之诗句，今得二乔之一，你感叹小乔果然是倾国美人。你开始思考是否纳她为妾。	true
+dilemmas_localised_description_3k_mtu_leader_concubine_zhang_xueer_dilemma	很难想象此等花颜月貌竟能在沙场上威震四方，还能在官场上舌战群儒。你在了解了张氏的才能后考虑纳她为妾。	false
+dilemmas_localised_description_3k_mtu_leader_concubine_zheng_lan_dilemma	此女曾为黑山母主，一人之下，万人之上。有此人相助，大业必成！你考虑在次日遣人传达纳妾之意。	false
 dilemmas_localised_description_hv_dilemma_budda	从船上下来一群剃光头的异人。他们自称从遥远地方来此传播佛道。也许值得支持他们？	false
-dilemmas_localised_description_hv_dilemma_cai_yan	吾人已与匈奴联系，被绑架的女子确为已被匈奴王纳为小妾的蔡琰。匈奴提议，可以重金将此女赎回。	false
+dilemmas_localised_description_hv_dilemma_cai_yan	蔡邕身为当代大儒，却无子嗣，唯育一女蔡文姬却为匈奴左贤王所掳。	false
 dilemmas_localised_description_hv_dilemma_dong_bai_dlc05	前面来了一群乞丐，其中有一名衣冠楚楚的少女上前行礼。女孩自称董白，是暴君董卓最后的亲人。她求你带她走。	false
 dilemmas_localised_description_hv_dilemma_dong_bai_dlc07	前面来了一群乞丐，其中有一名衣冠楚楚的少女上前行礼。女孩自称董白，是暴君董卓最后的亲人。她求你带她走。	true
 dilemmas_localised_description_hv_dilemma_empire_rules	经过数个世代，汉王朝失其天命。然而，天下黎民仍饱受各地宣称带有天命的军阀，所带来的战乱之苦。主公，你必须终结乱世。天下正等待新的治理规则引导新的团结繁荣与太平盛​​世。你将如何选择，治里天下众生？	true
+dilemmas_localised_description_hv_dilemma_guan_ping	刘备一行人途经冀州关家庄，庄主关定见刘关张英雄盖世而关羽又为其同宗兄弟，欲使其次子关平与三人一同匡扶汉室，于是刘备主张关羽与关平为义父子。	false
 dilemmas_localised_description_hv_dilemma_ji_ling_zhang_xun_dlc07	一只残军请求加入您的派系。袁术战败后，其部将张勋，纪灵及阎象收拢溃卒。然而，接纳他们可能会惹恼袁术之敌。	false
 dilemmas_localised_description_hv_dilemma_lu_ji_dlc07	一只残军请求加入您的派系。吕布战败后，其女吕姬收拢溃卒。然而，接纳他们可能会惹恼吕布之敌。	false
 dilemmas_localised_description_hv_dilemma_northern_army_intro	天下大乱，雄豪并起。主公若能运筹演谋，鞭挞宇内，忠于汉室之能人必来投效。以公之神武明哲而辅以大顺，何向而不济！	false
 dilemmas_localised_description_hv_dilemma_sogd	的确，西域商人带来的货物种类繁多，其中不乏珍惜名贵之物。而且，护送他们的佣兵看起来就像是天生的战士。	false
 dilemmas_localised_description_hv_dilemma_white_tiger_01	附近村庄有传闻说，每晚会有巨兽出没恐吓农民。村民们在找寻一位英雄来进山驱走怪兽。	false
 dilemmas_localised_description_hv_dilemma_white_tiger_02	在您与部下开始搜山几天后，您遇到了一个不可思议的景象：一只巨型白虎的巢穴。您的部下被老虎体型吓到，恳求您回去。您感觉好像那只巨大的老虎正在盯着你。	false
+dilemmas_localised_description_mtu_dilemma_suggestion_of_rebel_sisters	随着匪帮的扩张，众将中难免会有人持不臣之心。其中朱土，朱崩二人野心勃勃，势力日益壮大，准备推翻你。 \\n\\n 想要收复她们的忠诚，恐怕得花费不少金银俸禄。	true
 dilemmas_localised_title_3k_dlc07_child_emperor_dilemma_imperial_ancestral_rites	天子宠信：祭祀仪式	false
 dilemmas_localised_title_3k_dlc07_child_emperor_dilemma_imperial_banquet	天子宠信：皇家宴会	false
+dilemmas_localised_title_3k_main_historical_dong_li_guo_rebellion_dilemma	Rebellion of Li Jue and Guo Si	false
+dilemmas_localised_title_3k_main_historical_xun_yu_empty_lunchpail_dilemma	The Last Gift	false
+dilemmas_localised_title_3k_mtu_global_event_bring_cai_yan_dilemma_pc	文姬归汉	true
+dilemmas_localised_title_3k_mtu_global_event_cai_yong_death_dilemma_pc	一代大儒的叹息	true
+dilemmas_localised_title_3k_mtu_global_event_daughter_guan_trait_dilemma_1	无心之过	false
+dilemmas_localised_title_3k_mtu_global_event_daughter_zhang_trait_dilemma_1	虎父无犬女	false
+dilemmas_localised_title_3k_mtu_global_event_lady_trieu_rumor_dilemma	天上明星	true
+dilemmas_localised_title_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_lb	辕门射戟	true
+dilemmas_localised_title_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_dilemma_yl	辕门射戟	true
+dilemmas_localised_title_3k_mtu_global_event_moh_jian_yong_joins_liu_bei_dilemma_pc	老友来投	true
+dilemmas_localised_title_3k_mtu_global_event_xiong_nu_catches_cai_yan_dilemma_pc	匈奴入侵	true
+dilemmas_localised_title_3k_mtu_leader_concubine_da_qiao_dilemma	江东美人，大乔	true
+dilemmas_localised_title_3k_mtu_leader_concubine_diao_chan_dilemma	绝世佳人，貂蝉	true
+dilemmas_localised_title_3k_mtu_leader_concubine_empress_he_dilemma	灵思皇后，何皇后	true
+dilemmas_localised_title_3k_mtu_leader_concubine_guan_yinping_dilemma	花颜虎女，关嫣	false
+dilemmas_localised_title_3k_mtu_leader_concubine_lady_bian_dilemma	温厚母主, 卞氏	false
+dilemmas_localised_title_3k_mtu_leader_concubine_lady_cai_yan_dilemma	悲愤才女，蔡琰	true
+dilemmas_localised_title_3k_mtu_leader_concubine_lady_dong_dilemma	郿侯夫人，董氏	true
+dilemmas_localised_title_3k_mtu_leader_concubine_lady_du_dilemma	忌害美妇\\n，刘氏	false
+dilemmas_localised_title_3k_mtu_leader_concubine_lady_feng_dilemma	涕泣美人，冯氏	false
+dilemmas_localised_title_3k_mtu_leader_concubine_lady_lu_zheng_dilemma	晋阳女贼，陆政	true
+dilemmas_localised_title_3k_mtu_leader_concubine_lady_ma_dilemma	西羌女杰，华氏	true
+dilemmas_localised_title_3k_mtu_leader_concubine_lady_ma_yunlu_dilemma	敦煌公主，马云禄	true
+dilemmas_localised_title_3k_mtu_leader_concubine_lady_mi_dilemma	果敢美人, 糜氏	false
+dilemmas_localised_title_3k_mtu_leader_concubine_lady_sun_dilemma	枭姬，孙仁	true
+dilemmas_localised_title_3k_mtu_leader_concubine_lady_trieu_dilemma	交州英雄，赵妪	false
+dilemmas_localised_title_3k_mtu_leader_concubine_lady_wang_dilemma	不懈女杰，伊健丽婷	true
+dilemmas_localised_title_3k_mtu_leader_concubine_lady_wu_dilemma	武烈皇后，吴氏	true
+dilemmas_localised_title_3k_mtu_leader_concubine_lady_yuan_anyang_dilemma	仲氏公主，袁氏	false
+dilemmas_localised_title_3k_mtu_leader_concubine_lady_zhen_dilemma	文昭皇后，甄氏	false
+dilemmas_localised_title_3k_mtu_leader_concubine_lady_zheng_jiang_dilemma	魁首，郑姜	true
+dilemmas_localised_title_3k_mtu_leader_concubine_lady_zhurong_dilemma	热情火神，祝融夫人	false
+dilemmas_localised_title_3k_mtu_leader_concubine_lu_ji_dilemma	美艳飞将，吕姬	false
+dilemmas_localised_title_3k_mtu_leader_concubine_song_jinting_dilemma	贤明母主，侯氏	false
+dilemmas_localised_title_3k_mtu_leader_concubine_xiao_qiao_dilemma	江东美人，小乔	true
+dilemmas_localised_title_3k_mtu_leader_concubine_zhang_xueer_dilemma	敬哀皇后，张氏	false
+dilemmas_localised_title_3k_mtu_leader_concubine_zheng_lan_dilemma	黑山女王，郑兰	false
 dilemmas_localised_title_hv_dilemma_budda	佛教传入	false
-dilemmas_localised_title_hv_dilemma_cai_yan	赎回文姬	false
+dilemmas_localised_title_hv_dilemma_cai_yan	残膏剩馥	false
 dilemmas_localised_title_hv_dilemma_dong_bai_dlc05	董卓遗孤	false
 dilemmas_localised_title_hv_dilemma_dong_bai_dlc07	董卓遗孤	true
 dilemmas_localised_title_hv_dilemma_empire_rules	新时代，新主公。	true
+dilemmas_localised_title_hv_dilemma_guan_ping	关圣太子	false
 dilemmas_localised_title_hv_dilemma_ji_ling_zhang_xun_dlc07	寄人篱下	false
 dilemmas_localised_title_hv_dilemma_lu_ji_dlc07	寄人篱下	false
 dilemmas_localised_title_hv_dilemma_northern_army_intro	集兵练卒	false
 dilemmas_localised_title_hv_dilemma_sogd	粟特商人	false
 dilemmas_localised_title_hv_dilemma_white_tiger_01	怪兽传言	false
 dilemmas_localised_title_hv_dilemma_white_tiger_02	遭遇虎袭	false
+dilemmas_localised_title_mtu_dilemma_suggestion_of_rebel_sisters	不臣之心	true
+effect_bundles_localised_description_3k_main_effect_bundle_dong_zhou_event_public_order	The chaos caused by Li Jue and Guo Si is devastating the whole country.	false
+effect_bundles_localised_description_3k_mtu_effect_bundle_dec_public_order_5	恶有恶报。种其因者,须食其果。	true
+effect_bundles_localised_description_3k_mtu_effect_bundle_dec_public_order_5_for_cai	钱财不拿来造福人民，却用于赎买美色。此举会使百姓不满。	true
+effect_bundles_localised_description_3k_mtu_effect_bundle_inc_public_order_5	有仁有德之君必得人心。	true
+effect_bundles_localised_description_3k_mtu_effect_bundle_inc_public_order_6	做事应该顾全大局，而不是唯利是图。	true
 effect_bundles_localised_description_hv_effect_bundle_coin_confuse_1	由于镇民和商人争相采用新货币，市场已陷入混乱。	false
 effect_bundles_localised_description_hv_effect_bundle_coin_confuse_2	由于镇民和商人争相采用新货币，市场已陷入混乱。	false
 effect_bundles_localised_description_hv_effect_bundle_coin_confuse_3	由于镇民和商人争相采用新货币，市场已陷入混乱。	false
@@ -2018,6 +2701,11 @@ effect_bundles_localised_description_hv_script_effect_bundle_wuhuan_penalty	与�
 effect_bundles_localised_description_hv_script_effect_bundle_xiongnu_penalty	与汉人的文化冲突导致了匈奴部落的失控。百姓不安，质疑你的治理，争相离去。	true
 effect_bundles_localised_description_hv_script_effect_bundle_yuan_northern	解锁精锐北军校尉随从	false
 effect_bundles_localised_description_hv_script_effect_bundle_yuan_shu_legacy	袁术派系的余党加入了我方。	true
+effect_bundles_localised_title_3k_main_effect_bundle_dong_zhou_event_public_order	The Cataclysm	false
+effect_bundles_localised_title_3k_mtu_effect_bundle_dec_public_order_5	残忍	true
+effect_bundles_localised_title_3k_mtu_effect_bundle_dec_public_order_5_for_cai	昏君	true
+effect_bundles_localised_title_3k_mtu_effect_bundle_inc_public_order_5	亲善	true
+effect_bundles_localised_title_3k_mtu_effect_bundle_inc_public_order_6	耐心	true
 effect_bundles_localised_title_hv_dlc07_zheng_jiang_bundle	生存本能	true
 effect_bundles_localised_title_hv_effect_bundle_coin_confuse_1	铸造新币引起了经济和社会的动荡。	false
 effect_bundles_localised_title_hv_effect_bundle_coin_confuse_2	铸造新币引起了经济和社会的动荡。	false
@@ -2117,11 +2805,102 @@ effect_bundles_localised_title_hv_script_effect_bundle_xiongnu_penalty	社会动
 effect_bundles_localised_title_hv_script_effect_bundle_yuan_northern	北军校尉	false
 effect_bundles_localised_title_hv_script_effect_bundle_yuan_shu_legacy	袁术残党	false
 effects_description_3k_dlc05_frontend_description_specialisation_white_tiger_yan_4	严白虎可通过匪盗网招募普通[[b]]汉兵种部队[[/b]]。	false
+effects_description_3k_elephant_trample	技能：践踏	true
 effects_description_3k_main_dummy_effect_emperor_palace_guard	解锁精锐禁卫军	true
 effects_description_3k_main_dummy_faction_progression_emperor_proclamation_info	The first three warlords to be named king will proclaim themselves emperor.	false
 effects_description_3k_main_effect_character_stat_mod_melee_attack	近战命中加成[[b]]%+n%[[/b]]	true
+effects_description_3k_main_effect_character_stat_mod_missile_damage_cavalry_missile	远程骑兵杀伤[[b]]%+n%[[/b]] 	true
 effects_description_3k_main_effect_enable_projectile_fire_artillery	可使用：燃烧弹（投石机）	true
+effects_description_3k_main_effect_unit_stats_ammunition_cavalry_missile	远程骑兵箭矢增加[[b]]%+n%[[/b]] 	true
 effects_description_3k_main_effect_unit_stats_unit_hit_chance	近战命中加成[[b]]%+n%[[/b]]	true
+effects_description_3k_main_skill_advance	技能：军令	true
+effects_description_3k_main_skill_avenge	技能：夙仇	true
+effects_description_3k_main_skill_battle_stance	技能: 厉兵	true
+effects_description_3k_main_skill_blood_flower	技能：流星	true
+effects_description_3k_main_skill_blooming_beauty_xiao_25	技能：芳香	true
+effects_description_3k_main_skill_blooming_beauty_xiao_50	技能：芳香	true
+effects_description_3k_main_skill_blossoming_beauty	技能：天仙	true
+effects_description_3k_main_skill_brawn_of_yangan	技能：斗牛	true
+effects_description_3k_main_skill_breakthrough_in_concentration	技能：破茧	true
+effects_description_3k_main_skill_broad_Knowledge_1	被动增益：渊博	true
+effects_description_3k_main_skill_broad_Knowledge_2	被动增益：渊博	true
+effects_description_3k_main_skill_calculated_judgment	技能：奇袭	true
+effects_description_3k_main_skill_call_of_courage	技能：摆宴	true
+effects_description_3k_main_skill_camp_crushing	技能：捣穴	true
+effects_description_3k_main_skill_cautious_approach	技能：匿形	true
+effects_description_3k_main_skill_champion_of_xiliang	技能：断蛟	true
+effects_description_3k_main_skill_cheers_of_encouragement	技能：保帅	true
+effects_description_3k_main_skill_chunyu_qiong_frenzy	技能：狂暴	true
+effects_description_3k_main_skill_coffin_march	技能：死战	true
+effects_description_3k_main_skill_commanding_presence_25	技能：凤髓	true
+effects_description_3k_main_skill_commanding_presence_50	技能：凤髓	true
+effects_description_3k_main_skill_concentrated_strikes	技能：猛蛇	true
+effects_description_3k_main_skill_console	技能：振奋	true
+effects_description_3k_main_skill_cosy_haven	技能：回春	true
+effects_description_3k_main_skill_coward_a50	技能：懦夫	true
+effects_description_3k_main_skill_coward_b50	技能：懦夫	true
+effects_description_3k_main_skill_critical_strike	技能：摧心	true
+effects_description_3k_main_skill_demigod_of_war	技能：箕裘	true
+effects_description_3k_main_skill_dignity_of_the_empress	技能 : 庄严	true
+effects_description_3k_main_skill_distrust_power	技能：藏刀	true
+effects_description_3k_main_skill_double_sword_dance	技能：剑舞	true
+effects_description_3k_main_skill_elegant_and_cultured	技能：龙韬	true
+effects_description_3k_main_skill_eloquent_speaker_1	被动增益：铁舌	true
+effects_description_3k_main_skill_encouragement_25	技能：金鼓	true
+effects_description_3k_main_skill_encouragement_50	技能：金鼓	true
+effects_description_3k_main_skill_experienced_rider	技能：骐骥	true
+effects_description_3k_main_skill_fatal_attraction	技能：妩媚	true
+effects_description_3k_main_skill_father_daughter	技能：龙虎	true
+effects_description_3k_main_skill_ferocious_rush	技能：浴血	true
+effects_description_3k_main_skill_flower_on_the_battlefield	技能：龙女	true
+effects_description_3k_main_skill_forced_march	技能：兴师	true
+effects_description_3k_main_skill_foul_wits	技能：远瞩	true
+effects_description_3k_main_skill_goddess_of_battle	技能：恶浪	true
+effects_description_3k_main_skill_guardian	技能：卫足	true
+effects_description_3k_main_skill_hope_of_nam_viet	技能：民意	true
+effects_description_3k_main_skill_indiscriminate_charge	被动增益	true
+effects_description_3k_main_skill_lady_dong_cruel_command	技能：强令	true
+effects_description_3k_main_skill_lament	技能：恸哭	true
+effects_description_3k_main_skill_last_resist	技能：背水	true
+effects_description_3k_main_skill_loyal_advice	技能：劝谏	true
+effects_description_3k_main_skill_lucky_pearl	技能：松柏	true
+effects_description_3k_main_skill_marksman_of_taiyuan	技能：神射	true
+effects_description_3k_main_skill_martial_prodigy	技能：异禀	true
+effects_description_3k_main_skill_mercy_of_the_forest	技能：琼林	true
+effects_description_3k_main_skill_order_of_tyrant	技能：遮天	true
+effects_description_3k_main_skill_persistent_attack	技能：不衰	true
+effects_description_3k_main_skill_persistent_combat	技能：血斗	true
+effects_description_3k_main_skill_poison	技能：分坐	true
+effects_description_3k_main_skill_prevent_assassination1	技能：砥柱	true
+effects_description_3k_main_skill_prevent_assassination2	技能：砥柱	true
+effects_description_3k_main_skill_provocation	技能：挑衅	true
+effects_description_3k_main_skill_pursuit	技能：饿虎	true
+effects_description_3k_main_skill_quick_preparation	技能：旋踵	true
+effects_description_3k_main_skill_rage_of_lu_ji	技能：无双	true
+effects_description_3k_main_skill_reckless_warrior	技能：熊罴	true
+effects_description_3k_main_skill_shadow_of_the_black_mountain	技能：黑影	false
+effects_description_3k_main_skill_shout	技能：懿旨	true
+effects_description_3k_main_skill_shower_of_arrows	技能：飞蝗	true
+effects_description_3k_main_skill_sister_bandits	技能：沆瀣	true
+effects_description_3k_main_skill_story_telling_1	技能：妙语	true
+effects_description_3k_main_skill_story_telling_2	技能：妙语	true
+effects_description_3k_main_skill_strike_of_justice	技能：正气	true
+effects_description_3k_main_skill_suppressive_fire	技能：冷箭	true
+effects_description_3k_main_skill_tantrum	技能：痛斥	true
+effects_description_3k_main_skill_thunderous_bellow	技能：断喝	true
+effects_description_3k_main_skill_thunderous_blow	技能：霆击	true
+effects_description_3k_main_skill_tiger_son	技能：虎翼	true
+effects_description_3k_main_skill_tiger_suppression	技能：伏虎	true
+effects_description_3k_main_skill_tragic_foresight	技能：止战	true
+effects_description_3k_main_skill_tyrants_gaze	技能：狼视	true
+effects_description_3k_main_skill_unbreakable_faith	技能：铁壁	true
+effects_description_3k_main_skill_unexpected_strike	技能：突袭	true
+effects_description_3k_main_skill_unwed_warrior	技能：处子	true
+effects_description_3k_main_skill_victory_or_death	技能：破甑	true
+effects_description_3k_main_skill_vigor_of_a_warrior	技能：热血	true
+effects_description_3k_main_skill_wedge_formation_wen_chu	启用阵型：楔形阵	true
+effects_description_3k_main_skill_xianchenying	技能：马首	true
+effects_description_3k_main_skill_youthful_vigor	技能：稚虎	true
 effects_description_hv_assignment_effect_dummy_disturbance	解锁任务：扰乱	true
 effects_description_hv_assignment_effect_dummy_replenishment_garrison	解锁任务：驻军补员	true
 effects_description_hv_assignment_effect_dummy_unlock_more_build_slot	解锁任务：扩展城市	true
@@ -2602,7 +3381,7 @@ effects_description_hv_effect_unlock_wisdom_of_the_river	技能：水圣	true
 effects_description_hv_effect_unlock_wisdom_of_the_waterfall	技能：飞泉之智	true
 effects_description_hv_effect_unlock_wolf	技能：恶狼	true
 effects_description_hv_effect_unlock_wu_brave	技能：英武	true
-effects_description_hv_effect_unlock_youzansen	技能：弧斩	true
+effects_description_hv_effect_unlock_youzansen	技能：弧光斩	true
 effects_description_hv_effect_unlock_yuan_01	解锁部队：{{tr:hv_unit_yuan_sword_infantry}}	true
 effects_description_hv_effect_unlock_yuan_02	解锁部队：{{tr:hv_unit_yuan_ji_guards}}	true
 effects_description_hv_effect_unlock_yuan_remove_penalty	装备此随从后，须等到10回合后才能解除。之后此随从即会消失。	true
@@ -2702,6 +3481,38 @@ effects_generalised_descriptions_localised_description_hv_frontend_generalised_d
 effects_generalised_descriptions_localised_description_hv_frontend_generalised_description_specialisation_zhang_yan_1	• 可以改善独特部队	false
 effects_generalised_descriptions_localised_description_hv_frontend_generalised_description_specialisation_zhang_yan_2	• 提升与黄巾军的外交	false
 effects_generalised_descriptions_localised_description_hv_frontend_generalised_description_specialisation_zhang_yan_3	• 攻击时可以伏击	false
+effects_value_format_3k_main_skill_wedge_formation_wen_chu		true
+frontend_characters_optional_name_override_3k_dlc04_template_historical_empress_he_fire_182		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_chen_jiu_hero_wood_190		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_chen_jiu_hero_wood_194		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_dong_min_hero_earth_182		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_jian_yong_hero_metal_190		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_jian_yong_hero_metal_194		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_dong_peishan_hero_earth_182		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_feng_hero_earth_190		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_feng_hero_earth_194		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_gongsun_jinting_hero_water_190		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_gongsun_jinting_hero_water_194		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_lu_ji_hero_wood_190		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_lu_ji_hero_wood_194		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_lu_zheng_hero_water_190		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_lu_zheng_hero_water_194		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_ma_lanli_hero_metal_190		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_ma_lanli_hero_metal_194		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_ma_yunlu_hero_metal_190		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_ma_yunlu_hero_metal_194		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_trieu_hero_wood_190		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_trieu_hero_wood_194		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_wu_minyu_hero_earth_182		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_yuan_anyang_hero_water_190		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_yuan_anyang_hero_water_194		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_qu_gong_hero_wood_190		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_qu_gong_hero_wood_194		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_yan_xiang_hero_water_190		false
+frontend_characters_optional_name_override_3k_mtu_template_historical_zhang_xun_hero_earth_190		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_zhang_xun_hero_earth_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_dlc04_template_historical_empress_he_fire_182	[[b]]何皇后[[/b]]\\n精操妙手\\n\\n将领类型：{{tr:3k_general_type_fire}}\\n\\n[[col:flavour]][[i]]一向能某巧算，一向诡计多端，表面平静之下，向来波诡云谲。向来如此。[[/col]][[/i]]	false
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_dlc05_template_historical_jian_yong_hero_metal_194	[[b]]简雍[[/b]]\\n优游风议\\n\\n将领类型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]简雍擅于辩论、议事，但也闲暇自得，行为不检。[[/col]][[/i]]	false
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_chen_jiu_hero_wood_190	[[b]]庞德[[/b]]\\n白马将军\\n\\n将领类型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]庞德戒昭果毅，敌者必讨[[/col]][[/i]]	false
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_chen_jiu_hero_wood_194	[[b]]庞德[[/b]]\\n白马将军\\n\\n将领类型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]庞德戒昭果毅，敌者必讨[[/col]][[/i]]	false
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_chen_jiu_hero_wood_200	[[b]]庞德[[/b]]\\n白马将军\\n\\n将领类型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]庞德戒昭果毅，敌者必讨[[/col]][[/i]]	false
@@ -2709,6 +3520,8 @@ frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_jian_yong_hero_metal_190	[[b]]简雍[[/b]]\\n优游风议\\n\\n将领类型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]简雍擅于辩论、议事，但也闲暇自得，行为不检。[[/col]][[/i]]	false
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_jian_yong_hero_metal_194	[[b]]简雍[[/b]]\\n优游风议\\n\\n将领类型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]简雍擅于辩论、议事，但也闲暇自得，行为不检。[[/col]][[/i]]	false
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_jian_yong_hero_metal_200	[[b]]简雍[[/b]]\\n优游风议\\n\\n将领类型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]简雍擅于辩论、议事，但也闲暇自得，行为不检。[[/col]][[/i]]	false
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_kong_rong_hero_water_190	[[b]]Wu Anguo[[/b]]\\nOne Armed Bear\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]Although he lost one hand, he was one of the few who survived from duel with Lubu.[[/col]][[/i]]	false
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_kong_rong_hero_water_194	[[b]]Wu Anguo[[/b]]\\nOne Armed Bear\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]Although he lost one hand, he was one of the few who survived from duel with Lubu.[[/col]][[/i]]	false
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_dong_peishan_hero_earth_182	[[b]]董氏[[/b]]\\n郿侯夫人\\n\\n将领类型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]董卓发妻，卓封郿侯。不仅生性贪婪，且行事作风十分谨慎狡猾。[[/col]][[/i]]	false
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_feng_hero_earth_190	[[b]]冯氏[[/b]]\\n涕泣美人\\n\\n将领类型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]冯氏不仅天姿国色，还因胸怀大志而深受袁术宠爱。[[/col]][[/i]]	false
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_feng_hero_earth_194	[[b]]冯氏[[/b]]\\n涕泣美人\\n\\n将领类型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]冯氏不仅天姿国色，还因胸怀大志而深受袁术宠爱。[[/col]][[/i]]	false
@@ -2804,6 +3617,15 @@ incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_banquet
 incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_grace	天子对你甚有好感，决定给你一些赏赐，来表彰你对朝廷的贡献。	false
 incidents_localised_description_3k_dlc07_child_emperor_scripted_incident_political_scheme_bad	诽谤！一个敌对的军阀在朝廷散布恶意的谣言，使献帝怀疑我们对大汉的忠诚。	false
 incidents_localised_description_3k_dlc07_child_emperor_scripted_incident_political_scheme_good	也许是出于钦佩，也许是向您示好，有一派系在皇帝面前为你多加褒词。最近在宫中人人都在谈论您的功绩。 	false
+incidents_localised_description_3k_main_char_historical_xun_yu_disappointed_cao_cao	Xun Yu openly criticized you for seeking power, saying you should be focusing on the restoration of Han dynasty. He even had the gall to say that because of your pursuit of power, you will never see a good end. \\n\\n You were furious, but you could not openly express it, since he was an old friend and a loyal servant.	false
+incidents_localised_description_3k_main_char_historical_xun_yu_join_cao_cao	Xun Yu, a renowned strategist, has come to you to offer you his service. Many lords have offered him to join their side, but he rejected all the offers and decided to be a part of your ambition. You were thrilled to accept that someone so talented had come to you.	true
+incidents_localised_description_3k_mtu_global_event_cai_yong_death_incident_npc	董卓被杀，蔡邕伤感其遇，被王允知悉，而出兵捉拿蔡邕并下令处死。\\n\\n 王允曰：「昔武帝不杀司马迁，使作谤书，流于后世。方今国祚中衰，戎马在郊，不可令佞臣执笔在幼主左右，后令吾徒并受谤议。」	true
+incidents_localised_description_3k_mtu_global_event_lady_trieu_rise_incident	我方活跃于交州的细作禀报最近一位赵姓妇人以人民的名义率兵起义对抗交州军队，并将其击败。据说此人夺取了城池并自成一派。时间会告诉你是否得到一个盟友，还是一个敌人。	false
+incidents_localised_description_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_incident	袁刘两家开战，吕布为了自己的利益决定尝试促使双方讲和。于是吕布设下酒席并邀请双方赴宴。吕布告诉双方的将领他厌恶争斗。交战的双方一方是他的亲家，一方他的贤弟，如果双方要争斗那不如依照天意，如果他能射中营中一百五十步外戟上的小支，那双方就立马停战。袁刘双方出于对吕布的尊重接受了提议，并在惊叹中目睹了箭矢穿过了一百五十步外戟上的小支。	true
+incidents_localised_description_3k_mtu_global_event_moh_cai_family_move_190_incident	蔡琰的丈夫世后，蔡琰与她的父亲蔡邕都决定返回故居洛阳。	true
+incidents_localised_description_3k_mtu_global_event_precognitive_dream_incident	你帐下的一位的女士昨晚做了一个胎梦。一位谋士说道：「主公，昨晚见双尾彗星，此梦吉兆也。」	true
+incidents_localised_description_3k_mtu_global_event_xiong_nu_kidnaps_cai_yan_incident_pc	匈奴入侵，凡经过之处皆寸草不生。乱军之中一名军士来报：蔡邕的女儿，蔡文姬，被匈奴人俘走了。	true
+incidents_localised_description_3k_mtu_global_event_zhao_yun_becomes_zhenjun_general	你听军士讲述常山赵子龙救黄忠、拒汉水之事，你称子龙“一身是胆”，并号其为虎威将军，大劳将士，欢宴至晚。	true
 incidents_localised_description_hv_event_cao_cao_qingzhou	黄巾匪徒已被击溃。青州生还者们愿意报德。曹操将之收于旗下，名为青州军。	true
 incidents_localised_description_hv_event_coin_confuse_1	所有的经济活动都因为新币的铸造而受到阻碍。我们别无选择，只能等待商人们适应新的标准。	false
 incidents_localised_description_hv_event_coin_confuse_2	由于新币发行，买粮时出现问题。我们别无选择，只能等到农民们适应新的标准。	false
@@ -2824,7 +3646,7 @@ incidents_localised_description_hv_event_zhuge_liang_yuanrong	诸葛亮精心设
 incidents_localised_description_hv_incident_cai_yan	信使来报，有商贩在匈奴营中发现一位中土女眷，正是名士蔡邕之女蔡琰，已沦为匈奴左贤王女奴。匈奴王或许愿意放了蔡琰，你的一个探子已经前去调查……	false
 incidents_localised_description_hv_incident_cai_yan_dlc05	Your messengers report a remarkable story. A trader spotted a Han woman living amongst the Xiongnu and identified her as Cai Yan, the daughter of the grand scholar Cai Yong. It seems she was forced to marry a chieftain of the Xiongnu. Perhaps someone could convince this chieftain to free Cai Yan. One of your scouts has already left to investigate...	false
 incidents_localised_description_hv_incident_cai_yan_dlc07	Your messengers report a remarkable story. A trader spotted a Han woman living amongst the Xiongnu and identified her as Cai Yan, the daughter of the grand scholar Cai Yong. It seems she was forced to marry a chieftain of the Xiongnu. Perhaps someone could convince this chieftain to free Cai Yan. One of your scouts has already left to investigate...	false
-incidents_localised_description_hv_incident_chunyu_qiong	淳于琼终于想通了！他不再是个酒鬼，而是个能带兵的将领。	false
+incidents_localised_description_hv_incident_chunyu_qiong	曾比肩袁曹，现却成日饮酒作乐，荒废才能。不料淳于琼在危难之际却悬崖勒马，重振其西园校尉之威。	false
 incidents_localised_description_hv_incident_danyang_army	您获得一张可指挥丹阳部队的兵符。	false
 incidents_localised_description_hv_incident_education	由于您对学者和人才的赞助，您的官员在启蒙的道路上取得了进步。	false
 incidents_localised_description_hv_incident_ironfist_army	我们从附近游牧民族召集战士，组成了一支强健骑兵。这些令人可畏的铁甲骑兵将冲垮你的敌人。	false
@@ -2851,6 +3673,17 @@ incidents_localised_description_hv_northern_army_unlocked_yuan_shu	随着您近�
 incidents_localised_description_hv_northern_army_unlocked_yuan_shu_ai	领军的校尉掌管北军世兵，现已效忠于袁术。这是支不可小觑的部队。	false
 incidents_localised_description_hv_northern_army_unlocked_yuan_shu_last	随着您近期的丰功伟业，督掌北军的中尉前来宣誓效忠于您，他所指挥的整支精良军队也一同前来，加入您的麾下。	false
 incidents_localised_description_hv_northern_army_unlocked_yuan_shu_mid	随着您近期的丰功伟业，督掌北军的中尉前来宣誓效忠于您，他所指挥的整支精良军队也一同前来，加入您的麾下。	false
+incidents_localised_description_mtu_historical_female_born_incident	喜报！宗族已喜得千金，此女将正式成为主公宗亲，但同侪兄弟的勾心斗角，怕是在所难免…	false
+incidents_localised_description_mtu_historical_guan_xing_born_incident	恭贺关将军麟儿入拿，喜得贵子！此孩儿蕴藏的勇武英气与其关将军相比也不遑多让。关将军真有福气！	false
+incidents_localised_description_mtu_historical_guan_yinping_born_incident	恭贺关将军明珠入拿，喜得千金！此孩儿虽为女儿身，其蕴藏的勇武英气与其兄相比却也不遑多让。关将军真有福气！	false
+incidents_localised_description_mtu_historical_liu_shan_born_incident	恭贺主公麟儿入拿，喜得贵子！此孩儿蕴藏的勇武英气与其主公相比也不遑多让。主公真有福气！	false
+incidents_localised_description_mtu_historical_male_born_incident	喜报！宗族已喜得贵子，此子将正式成为主公宗亲，但同侪兄弟的勾心斗角，怕是在所难免…	false
+incidents_localised_description_mtu_historical_zhang_bao_born_incident	恭贺张将军麟儿入拿，喜得贵子！此孩儿蕴藏的勇武英气与其关将军相比也不遑多让。张将军真有福气！	false
+incidents_localised_description_mtu_historical_zhang_xingcai_born_incident	恭贺张将军明珠入拿，喜得千金！此孩儿虽为女儿身，其蕴藏的勇武英气与其兄相比却也不遑多让。张将军真有福气！	false
+incidents_localised_description_mtu_two_qiao_marry_incident_npc	随着乔公将两位女儿许给了孙策与周瑜，二乔的美貌与风雅名扬江东。	true
+incidents_localised_description_mtu_two_qiao_marry_incident_pc	皖城乔公有两个女儿，皆国色也。乔公闻孙策与周瑜的大名，特来将两位女儿许配给两位将军。	true
+incidents_localised_description_mtu_zhou_yu_spawns_incident	才智过人，忠诚有加而又仪表堂堂的咒语，从少年时期就是孙策的密友了。两人自幼形影不离，而且对互相的家族也十分敬重。周瑜的音乐才华无人能比，说明他既才华横溢，又有礼有节。	true
+incidents_localised_description_mtu_zhu_sisters_robbery_incident	野心勃勃的土，崩二人开始了对你的反叛，她们想夺取王位，取你首级！	true
 incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_civil	皇家祭祀仪式结束	false
 incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_military	皇家祭祀仪式结束	false
 incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_nothing	皇家祭祀仪式结束	false
@@ -2859,6 +3692,15 @@ incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_banquet_resul
 incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_grace	天子宠信：天子恩赐	false
 incidents_localised_title_3k_dlc07_child_emperor_scripted_incident_political_scheme_bad	政治斡旋	false
 incidents_localised_title_3k_dlc07_child_emperor_scripted_incident_political_scheme_good	政治斡旋	false
+incidents_localised_title_3k_main_char_historical_xun_yu_disappointed_cao_cao	Xun Yu's Opposition	false
+incidents_localised_title_3k_main_char_historical_xun_yu_join_cao_cao	王佐之才	true
+incidents_localised_title_3k_mtu_global_event_cai_yong_death_incident_npc	一代大儒的叹息	true
+incidents_localised_title_3k_mtu_global_event_lady_trieu_rise_incident	交部骚动	false
+incidents_localised_title_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_incident	辕门射戟	true
+incidents_localised_title_3k_mtu_global_event_moh_cai_family_move_190_incident	蔡氏家族	true
+incidents_localised_title_3k_mtu_global_event_precognitive_dream_incident	胎梦	true
+incidents_localised_title_3k_mtu_global_event_xiong_nu_kidnaps_cai_yan_incident_pc	匈奴入侵	true
+incidents_localised_title_3k_mtu_global_event_zhao_yun_becomes_zhenjun_general	五虎上将	true
 incidents_localised_title_hv_event_cao_cao_qingzhou	青州军	true
 incidents_localised_title_hv_event_coin_confuse_1	新币引起了混乱！	false
 incidents_localised_title_hv_event_coin_confuse_2	新币引起了混乱！	false
@@ -2876,10 +3718,10 @@ incidents_localised_title_hv_event_white_tiger_2	慎重决定	false
 incidents_localised_title_hv_event_wuhuan_penalty	社会动荡	true
 incidents_localised_title_hv_event_xiongnu_penalty	社会动荡	true
 incidents_localised_title_hv_event_zhuge_liang_yuanrong	元戎弩	true
-incidents_localised_title_hv_incident_cai_yan	文姬归汉	false
+incidents_localised_title_hv_incident_cai_yan	文姬被掳	false
 incidents_localised_title_hv_incident_cai_yan_dlc05	文姬归汉	false
 incidents_localised_title_hv_incident_cai_yan_dlc07	文姬归汉	false
-incidents_localised_title_hv_incident_chunyu_qiong	淳于琼不再酗酒	false
+incidents_localised_title_hv_incident_chunyu_qiong	临崖勒马	false
 incidents_localised_title_hv_incident_danyang_army	丹阳战士	false
 incidents_localised_title_hv_incident_education	学术进步	false
 incidents_localised_title_hv_incident_ironfist_army	骇人铁骑	false
@@ -2906,6 +3748,17 @@ incidents_localised_title_hv_northern_army_unlocked_yuan_shu	北军	false
 incidents_localised_title_hv_northern_army_unlocked_yuan_shu_ai	北军	false
 incidents_localised_title_hv_northern_army_unlocked_yuan_shu_last	北军	false
 incidents_localised_title_hv_northern_army_unlocked_yuan_shu_mid	北军	false
+incidents_localised_title_mtu_historical_female_born_incident	弄瓦之喜	false
+incidents_localised_title_mtu_historical_guan_xing_born_incident	关羽喜得贵子	false
+incidents_localised_title_mtu_historical_guan_yinping_born_incident	关羽喜得千金	false
+incidents_localised_title_mtu_historical_liu_shan_born_incident	刘备喜得贵子	false
+incidents_localised_title_mtu_historical_male_born_incident	弄璋之喜	false
+incidents_localised_title_mtu_historical_zhang_bao_born_incident	张飞喜得贵子	false
+incidents_localised_title_mtu_historical_zhang_xingcai_born_incident	张飞喜得千金	false
+incidents_localised_title_mtu_two_qiao_marry_incident_npc	二乔	true
+incidents_localised_title_mtu_two_qiao_marry_incident_pc	二乔	true
+incidents_localised_title_mtu_zhou_yu_spawns_incident	英杰周瑜	true
+incidents_localised_title_mtu_zhu_sisters_robbery_incident	乱臣贼子	true
 land_units_onscreen_name_3k_dlc07_hv_unit_northern_elite_2h_sword_infantry	{{tr:3k_dlc07_hv_unit_northern_elite_2h_sword_infantry}}	true
 land_units_onscreen_name_3k_dlc07_unit_earth_northern_sabre_cavalry	{{tr:3k_dlc07_unit_earth_northern_sabre_cavalry}}	true
 land_units_onscreen_name_3k_dlc07_unit_earth_northern_veteran_sabre_cavalry	{{tr:3k_dlc07_unit_earth_northern_veteran_sabre_cavalry}}	true
@@ -2921,8 +3774,66 @@ land_units_onscreen_name_3k_dlc07_unit_wood_northern_ji_infantry	{{tr:3k_dlc07_u
 land_units_onscreen_name_3k_dlc07_unit_wood_northern_spear_guards	{{tr:3k_dlc07_unit_wood_northern_spear_guards}}	true
 land_units_onscreen_name_3k_dlc07_unit_wood_northern_veteran_ji_infantry	{{tr:3k_dlc07_unit_wood_northern_veteran_ji_infantry}}	true
 land_units_onscreen_name_3k_dlc07_unit_wood_northern_veteran_spears	{{tr:3k_dlc07_unit_wood_northern_veteran_spears}}	true
-land_units_onscreen_name_3k_mtu_hero_earth_lady_bian_huilan	刘氏	true
+land_units_onscreen_name_3k_main_hero_earth_lady_bian_huilan	Lady Bian	true
+land_units_onscreen_name_3k_main_hero_water_lady_diao_chan	貂蝉	true
+land_units_onscreen_name_3k_mtu_general_earth_dong_min	董旻	false
+land_units_onscreen_name_3k_mtu_general_earth_lady_bian_huilan	Lady Du	false
+land_units_onscreen_name_3k_mtu_general_earth_lady_da_qiao	Lady Feng	false
+land_units_onscreen_name_3k_mtu_general_earth_lady_dong_peishan	Lady Dong	false
+land_units_onscreen_name_3k_mtu_general_earth_lady_wu_minyu	Lady Wu	false
+land_units_onscreen_name_3k_mtu_general_earth_zhang_xun	张勋	false
+land_units_onscreen_name_3k_mtu_general_fire_chunyu_qiong	淳于琼	false
+land_units_onscreen_name_3k_mtu_general_fire_lady_zhang_xingcai	Zhang Xueer	false
+land_units_onscreen_name_3k_mtu_general_metal_jian_yong	Jian Yong	false
+land_units_onscreen_name_3k_mtu_general_metal_lady_ma_lanli	华兰丽	false
+land_units_onscreen_name_3k_mtu_general_metal_lady_ma_yunlu	Ma Yunlu	false
+land_units_onscreen_name_3k_mtu_general_metal_lady_wang_liting	Yijian Liting	false
+land_units_onscreen_name_3k_mtu_general_metal_lady_xiao_qiao	Yuan Anyang	false
+land_units_onscreen_name_3k_mtu_general_metal_lady_zhang_jinglan	Zheng Lan	false
+land_units_onscreen_name_3k_mtu_general_water_cai_yan	Cai Yan	false
+land_units_onscreen_name_3k_mtu_general_water_hua_xin	华歆	false
+land_units_onscreen_name_3k_mtu_general_water_lady_dong_bai	Dong Bai	false
+land_units_onscreen_name_3k_mtu_general_water_lady_gongsun_jinting	Hou Jinting	false
+land_units_onscreen_name_3k_mtu_general_water_lady_lu_zheng	陆政	false
+land_units_onscreen_name_3k_mtu_general_water_lady_zou_yuan	Zou Yuan	false
+land_units_onscreen_name_3k_mtu_general_water_yan_xiang	Yan Xiang	false
+land_units_onscreen_name_3k_mtu_general_wood_chen_jiu	Pang De	false
+land_units_onscreen_name_3k_mtu_general_wood_huang_zu	黄祖	false
+land_units_onscreen_name_3k_mtu_general_wood_lady_lu_ji	Lü Ji	false
+land_units_onscreen_name_3k_mtu_general_wood_lady_trieu	赵妪	false
+land_units_onscreen_name_3k_mtu_general_wood_luo_jun	骆俊	false
+land_units_onscreen_name_3k_mtu_general_wood_qu_gong	瞿恭	false
+land_units_onscreen_name_3k_mtu_general_wood_shen_pei	审配	false
+land_units_onscreen_name_3k_mtu_general_wood_wu_anguo	武安国	false
+land_units_onscreen_name_3k_mtu_hero_earth_dong_min	董旻	false
+land_units_onscreen_name_3k_mtu_hero_earth_lady_bian_huilan	刘氏	false
+land_units_onscreen_name_3k_mtu_hero_earth_lady_da_qiao	冯氏	false
+land_units_onscreen_name_3k_mtu_hero_earth_lady_dong_peishan	董氏	false
+land_units_onscreen_name_3k_mtu_hero_earth_lady_wu_minyu	吴氏	false
+land_units_onscreen_name_3k_mtu_hero_earth_zhang_xun	张勋	false
+land_units_onscreen_name_3k_mtu_hero_fire_chunyu_qiong	淳于琼	false
+land_units_onscreen_name_3k_mtu_hero_fire_lady_zhang_xingcai	张氏	false
+land_units_onscreen_name_3k_mtu_hero_metal_jian_yong	简雍	false
+land_units_onscreen_name_3k_mtu_hero_metal_lady_ma_lanli	华兰丽	false
+land_units_onscreen_name_3k_mtu_hero_metal_lady_ma_yunlu	马云禄	false
+land_units_onscreen_name_3k_mtu_hero_metal_lady_wang_liting	伊健丽婷	false
+land_units_onscreen_name_3k_mtu_hero_metal_lady_xiao_qiao	袁氏	false
+land_units_onscreen_name_3k_mtu_hero_metal_lady_zhang_jinglan	郑兰	false
+land_units_onscreen_name_3k_mtu_hero_water_cai_yan	蔡琰	false
+land_units_onscreen_name_3k_mtu_hero_water_hua_xin	华歆	false
+land_units_onscreen_name_3k_mtu_hero_water_lady_dong_bai	董白	false
+land_units_onscreen_name_3k_mtu_hero_water_lady_gongsun_jinting	侯氏	false
+land_units_onscreen_name_3k_mtu_hero_water_lady_lu_zheng	陆政	false
 land_units_onscreen_name_3k_mtu_hero_water_lady_zou_yuan	邹氏	false
+land_units_onscreen_name_3k_mtu_hero_water_yan_xiang	阎象	false
+land_units_onscreen_name_3k_mtu_hero_wood_chen_jiu	庞德	false
+land_units_onscreen_name_3k_mtu_hero_wood_huang_zu	黄祖	false
+land_units_onscreen_name_3k_mtu_hero_wood_lady_lu_ji	吕姬	false
+land_units_onscreen_name_3k_mtu_hero_wood_lady_trieu	赵妪	false
+land_units_onscreen_name_3k_mtu_hero_wood_luo_jun	骆俊	false
+land_units_onscreen_name_3k_mtu_hero_wood_qu_gong	瞿恭	false
+land_units_onscreen_name_3k_mtu_hero_wood_shen_pei	审配	false
+land_units_onscreen_name_3k_mtu_hero_wood_wu_anguo	武安国	false
 land_units_onscreen_name_ep_general_sima_jiong	张方	false
 land_units_onscreen_name_ep_general_sima_wei	蒋钦	false
 land_units_onscreen_name_ep_hero_sima_jiong	张方	false
@@ -3206,6 +4117,24 @@ missions_localised_title_hv_mission_northern_yuan_shao_03	称霸之路	false
 missions_localised_title_hv_mission_northern_yuan_shu_01	军事才能	false
 missions_localised_title_hv_mission_northern_yuan_shu_02	积聚财富	false
 missions_localised_title_hv_mission_northern_yuan_shu_03	称霸之路	false
+names_alt_name_1288691848	杜氏	false
+names_alt_name_1289534361	崩	false
+names_alt_name_1479868341	氏	false
+names_alt_name_1770238896	土	false
+names_alt_name_528608323	国达	false
+names_alt_name_60007	云禄	false
+names_alt_name_622849696	氏	false
+names_alt_name_785834225	赵妪	false
+names_alt_name_962851362	安國	false
+names_name_1288691848	杜氏	false
+names_name_1289534361	崩	false
+names_name_1479868341	氏	false
+names_name_1770238896	土	false
+names_name_528608323	国达	false
+names_name_60007	云禄	false
+names_name_622849696	氏	false
+names_name_785834225	赵妪	false
+names_name_962851362	安国	false
 pooled_resource_factors_display_name_negative_hv_pooled_factor_army_stockpiles	军队	true
 pooled_resource_factors_display_name_negative_hv_pooled_factor_gongsun_zan	减少	false
 pooled_resource_factors_display_name_negative_hv_pooled_factor_gongsun_zan_buildings	建筑	false
@@ -3259,6 +4188,114 @@ projectile_shot_type_enum_onscreen_name_small_arm_whistling	速射	false
 projectile_shot_type_enum_tooltip_text_small_arm_whistling	造成伤害较低，准确率也降低，但可压制目标。	false
 random_localisation_strings_string_resistance_fire_tooltip	火焰抗性：％d %% ||降低火焰造成的伤害数值。	true
 special_ability_phases_onscreen_hv_ability_tactical_move	战术前进	true
+special_ability_phases_onscreen_name_3k_elephant_ability_trample	践踏	true
+special_ability_phases_onscreen_name_3k_main_ability_advance	军令	true
+special_ability_phases_onscreen_name_3k_main_ability_avenge	逐北	true
+special_ability_phases_onscreen_name_3k_main_ability_battle_stance	厉兵	true
+special_ability_phases_onscreen_name_3k_main_ability_blood_flower	流星	true
+special_ability_phases_onscreen_name_3k_main_ability_blooming_beauty_xiao_25	芳香	true
+special_ability_phases_onscreen_name_3k_main_ability_blooming_beauty_xiao_50	芳香	true
+special_ability_phases_onscreen_name_3k_main_ability_blossoming_beauty	天仙	true
+special_ability_phases_onscreen_name_3k_main_ability_brawn_of_yangan	斗牛	true
+special_ability_phases_onscreen_name_3k_main_ability_breakthrough_in_concentration_1	讨贼先锋	true
+special_ability_phases_onscreen_name_3k_main_ability_breakthrough_in_concentration_2	讨贼先锋	true
+special_ability_phases_onscreen_name_3k_main_ability_breakthrough_in_concentration_3	讨贼先锋	true
+special_ability_phases_onscreen_name_3k_main_ability_broad_Knowledge_1	渊博	true
+special_ability_phases_onscreen_name_3k_main_ability_broad_Knowledge_2	渊博	true
+special_ability_phases_onscreen_name_3k_main_ability_calculated_judgment	奇袭	true
+special_ability_phases_onscreen_name_3k_main_ability_call_of_courage	摆宴	true
+special_ability_phases_onscreen_name_3k_main_ability_camp_crushing	捣穴	true
+special_ability_phases_onscreen_name_3k_main_ability_cautious_approach	匿形	true
+special_ability_phases_onscreen_name_3k_main_ability_champion_of_xiliang	断蛟	true
+special_ability_phases_onscreen_name_3k_main_ability_cheers_of_encouragement	保帅	true
+special_ability_phases_onscreen_name_3k_main_ability_chunyu_qiong_frenzy	狂暴	true
+special_ability_phases_onscreen_name_3k_main_ability_coffin_march	死战	true
+special_ability_phases_onscreen_name_3k_main_ability_commanding_presence_25	凤髓	true
+special_ability_phases_onscreen_name_3k_main_ability_commanding_presence_50	凤髓	true
+special_ability_phases_onscreen_name_3k_main_ability_concentrated_strikes	猛蛇	true
+special_ability_phases_onscreen_name_3k_main_ability_console	振奋	true
+special_ability_phases_onscreen_name_3k_main_ability_cosy_haven	回春	true
+special_ability_phases_onscreen_name_3k_main_ability_coward_a50	懦夫	true
+special_ability_phases_onscreen_name_3k_main_ability_coward_b50	懦夫	true
+special_ability_phases_onscreen_name_3k_main_ability_critical_strike	摧心	true
+special_ability_phases_onscreen_name_3k_main_ability_demigod_of_war	箕裘	true
+special_ability_phases_onscreen_name_3k_main_ability_dignity_of_the_empress	自重	true
+special_ability_phases_onscreen_name_3k_main_ability_distrust_power	藏刀	true
+special_ability_phases_onscreen_name_3k_main_ability_double_sword_dance	剑舞	true
+special_ability_phases_onscreen_name_3k_main_ability_elegant_and_cultured	龙韬	true
+special_ability_phases_onscreen_name_3k_main_ability_eloquent_speaker_1	铁舌	true
+special_ability_phases_onscreen_name_3k_main_ability_encouragement_25	金鼓	true
+special_ability_phases_onscreen_name_3k_main_ability_encouragement_50	金鼓	true
+special_ability_phases_onscreen_name_3k_main_ability_experienced_rider	骐骥	true
+special_ability_phases_onscreen_name_3k_main_ability_fatal_attraction	妩媚	true
+special_ability_phases_onscreen_name_3k_main_ability_father_daughter	龙虎	true
+special_ability_phases_onscreen_name_3k_main_ability_ferocious_rush1	浴血	true
+special_ability_phases_onscreen_name_3k_main_ability_ferocious_rush2	浴血	true
+special_ability_phases_onscreen_name_3k_main_ability_ferocious_rush3	浴血	true
+special_ability_phases_onscreen_name_3k_main_ability_flower_on_the_battlefield1	龙女	true
+special_ability_phases_onscreen_name_3k_main_ability_flower_on_the_battlefield2	龙女	true
+special_ability_phases_onscreen_name_3k_main_ability_flower_on_the_battlefield3	龙女	true
+special_ability_phases_onscreen_name_3k_main_ability_flower_on_the_battlefield4	龙女	true
+special_ability_phases_onscreen_name_3k_main_ability_flower_on_the_battlefield5	龙女	true
+special_ability_phases_onscreen_name_3k_main_ability_forced_march	兴师	true
+special_ability_phases_onscreen_name_3k_main_ability_foul_wits	远瞩	true
+special_ability_phases_onscreen_name_3k_main_ability_goddess_of_battle	恶浪	true
+special_ability_phases_onscreen_name_3k_main_ability_guardian	卫足	true
+special_ability_phases_onscreen_name_3k_main_ability_hope_of_nam_viet	民意	true
+special_ability_phases_onscreen_name_3k_main_ability_indiscriminate_charge	困兽	true
+special_ability_phases_onscreen_name_3k_main_ability_lady_dong_cruel_command	强令	true
+special_ability_phases_onscreen_name_3k_main_ability_lament	恸哭	true
+special_ability_phases_onscreen_name_3k_main_ability_last_resist	背水	true
+special_ability_phases_onscreen_name_3k_main_ability_loyal_advice1	劝谏	true
+special_ability_phases_onscreen_name_3k_main_ability_loyal_advice2	劝谏	true
+special_ability_phases_onscreen_name_3k_main_ability_lucky_pearl1	松柏	true
+special_ability_phases_onscreen_name_3k_main_ability_lucky_pearl2	松柏	true
+special_ability_phases_onscreen_name_3k_main_ability_lucky_pearl3	松柏	true
+special_ability_phases_onscreen_name_3k_main_ability_marksman_of_taiyuan	神射	true
+special_ability_phases_onscreen_name_3k_main_ability_martial_prodigy	异禀	true
+special_ability_phases_onscreen_name_3k_main_ability_mercy_of_the_forest	琼林	true
+special_ability_phases_onscreen_name_3k_main_ability_order_of_tyrant	遮天	true
+special_ability_phases_onscreen_name_3k_main_ability_persistent_attack	不衰	true
+special_ability_phases_onscreen_name_3k_main_ability_persistent_combat	血斗	true
+special_ability_phases_onscreen_name_3k_main_ability_poison	分坐	true
+special_ability_phases_onscreen_name_3k_main_ability_prevent_assassination1	砥柱	true
+special_ability_phases_onscreen_name_3k_main_ability_prevent_assassination2	砥柱	true
+special_ability_phases_onscreen_name_3k_main_ability_provocation	挑衅	true
+special_ability_phases_onscreen_name_3k_main_ability_pursuit	饿虎	true
+special_ability_phases_onscreen_name_3k_main_ability_quick_preparation	旋踵	true
+special_ability_phases_onscreen_name_3k_main_ability_rage_of_lu_ji	无双	true
+special_ability_phases_onscreen_name_3k_main_ability_reckless_warrior	熊罴	true
+special_ability_phases_onscreen_name_3k_main_ability_shadow_of_the_black_mountain	黑影	false
+special_ability_phases_onscreen_name_3k_main_ability_shout	懿旨	true
+special_ability_phases_onscreen_name_3k_main_ability_sister_bandits	沆瀣	true
+special_ability_phases_onscreen_name_3k_main_ability_story_telling_1	妙语	true
+special_ability_phases_onscreen_name_3k_main_ability_story_telling_2	妙语	true
+special_ability_phases_onscreen_name_3k_main_ability_strike_of_justice	正气	true
+special_ability_phases_onscreen_name_3k_main_ability_suppressive_fire	冷箭	true
+special_ability_phases_onscreen_name_3k_main_ability_tantrum1	痛斥	true
+special_ability_phases_onscreen_name_3k_main_ability_tantrum2	痛斥	true
+special_ability_phases_onscreen_name_3k_main_ability_thunderous_bellow	断喝	true
+special_ability_phases_onscreen_name_3k_main_ability_thunderous_blow	霆击	true
+special_ability_phases_onscreen_name_3k_main_ability_tiger_son	虎翼	true
+special_ability_phases_onscreen_name_3k_main_ability_tiger_suppression	伏虎	true
+special_ability_phases_onscreen_name_3k_main_ability_tragic_foresight	止战	true
+special_ability_phases_onscreen_name_3k_main_ability_tyrants_gaze	狼视	true
+special_ability_phases_onscreen_name_3k_main_ability_unbreakable_faith	铁壁	true
+special_ability_phases_onscreen_name_3k_main_ability_unexpected_strike	突袭	true
+special_ability_phases_onscreen_name_3k_main_ability_unwed_warrior	处子	true
+special_ability_phases_onscreen_name_3k_main_ability_victory_or_death_1	破甑	true
+special_ability_phases_onscreen_name_3k_main_ability_victory_or_death_2	破甑	true
+special_ability_phases_onscreen_name_3k_main_ability_victory_or_death_3	破甑	true
+special_ability_phases_onscreen_name_3k_main_ability_victory_or_death_4	破甑	true
+special_ability_phases_onscreen_name_3k_main_ability_victory_or_death_5	破甑	true
+special_ability_phases_onscreen_name_3k_main_ability_vigor_of_a_warrior_1	热血	true
+special_ability_phases_onscreen_name_3k_main_ability_vigor_of_a_warrior_2	热血	true
+special_ability_phases_onscreen_name_3k_main_ability_vigor_of_a_warrior_3	热血	true
+special_ability_phases_onscreen_name_3k_main_ability_vigor_of_a_warrior_4	热血	true
+special_ability_phases_onscreen_name_3k_main_ability_vigor_of_a_warrior_5	热血	true
+special_ability_phases_onscreen_name_3k_main_ability_xianchenying	马首	true
+special_ability_phases_onscreen_name_3k_main_ability_youthful_vigor	稚虎	true
+special_ability_phases_onscreen_name_3k_main_formation_wedge_wen_chu	楔形阵	true
 special_ability_phases_onscreen_name_hv_ability_aggressive_anger_1	怒猊	true
 special_ability_phases_onscreen_name_hv_ability_aggressive_anger_2	怒猊	true
 special_ability_phases_onscreen_name_hv_ability_aggressive_anger_3	怒猊	true
@@ -3339,7 +4376,7 @@ special_ability_phases_onscreen_name_hv_ability_furious_charge_1	横冲直撞	tr
 special_ability_phases_onscreen_name_hv_ability_furious_charge_2	横冲直撞	true
 special_ability_phases_onscreen_name_hv_ability_gas_bomb_inside	毒气	true
 special_ability_phases_onscreen_name_hv_ability_ghost_of_forest	林鬼	true
-special_ability_phases_onscreen_name_hv_ability_guardian	卫御甲	true
+special_ability_phases_onscreen_name_hv_ability_guardian	卫足	true
 special_ability_phases_onscreen_name_hv_ability_half_barded_missile_resistance	轻马铠	true
 special_ability_phases_onscreen_name_hv_ability_hamper	搅扰	true
 special_ability_phases_onscreen_name_hv_ability_hero_slayer	诛将	true
@@ -4861,6 +5898,95 @@ uied_component_texts_localised_string_bullet_point_2_NewState_Text_a4e16b75	在�
 uied_component_texts_localised_string_button_replace_unit_Tooltip_1b8282	部队列表	true
 uied_component_texts_localised_string_label_text_false_Text_2a000e	在[[b]]{{CcoBattleDuel:FormatTime（TargetTimeRemaining）}}[[/b]]内获胜	false
 uied_component_texts_localised_string_pre_unlock_active_Text_c2076aa9	公元195年献帝加元服后解锁	false
+unit_abilities_onscreen_name_3k_elephant_ability_trample	践踏	true
+unit_abilities_onscreen_name_3k_main_ability_advance	军令	true
+unit_abilities_onscreen_name_3k_main_ability_avenge	逐北	true
+unit_abilities_onscreen_name_3k_main_ability_battle_stance	厉兵	true
+unit_abilities_onscreen_name_3k_main_ability_blood_flower	流星	true
+unit_abilities_onscreen_name_3k_main_ability_blooming_beauty_xiao_25	芳香	true
+unit_abilities_onscreen_name_3k_main_ability_blooming_beauty_xiao_50	芳香	true
+unit_abilities_onscreen_name_3k_main_ability_blossoming_beauty	天仙	true
+unit_abilities_onscreen_name_3k_main_ability_brawn_of_yangan	斗牛	true
+unit_abilities_onscreen_name_3k_main_ability_breakthrough_in_concentration	讨贼先锋	true
+unit_abilities_onscreen_name_3k_main_ability_broad_Knowledge_1	渊博	true
+unit_abilities_onscreen_name_3k_main_ability_broad_Knowledge_2	渊博	true
+unit_abilities_onscreen_name_3k_main_ability_calculated_judgment	奇袭	true
+unit_abilities_onscreen_name_3k_main_ability_call_of_courage	摆宴	true
+unit_abilities_onscreen_name_3k_main_ability_camp_crushing	捣穴	true
+unit_abilities_onscreen_name_3k_main_ability_cautious_approach	匿形	true
+unit_abilities_onscreen_name_3k_main_ability_champion_of_xiliang	断蛟	true
+unit_abilities_onscreen_name_3k_main_ability_cheers_of_encouragement	保帅	true
+unit_abilities_onscreen_name_3k_main_ability_chunyu_qiong_frenzy	狂暴	true
+unit_abilities_onscreen_name_3k_main_ability_coffin_march	死战	true
+unit_abilities_onscreen_name_3k_main_ability_commanding_presence_25	凤髓	true
+unit_abilities_onscreen_name_3k_main_ability_commanding_presence_50	凤髓	true
+unit_abilities_onscreen_name_3k_main_ability_concentrated_strikes	猛蛇	true
+unit_abilities_onscreen_name_3k_main_ability_console	振奋	true
+unit_abilities_onscreen_name_3k_main_ability_cosy_haven	回春	true
+unit_abilities_onscreen_name_3k_main_ability_coward_a50	懦夫	true
+unit_abilities_onscreen_name_3k_main_ability_coward_b50	懦夫	true
+unit_abilities_onscreen_name_3k_main_ability_critical_strike	摧心	true
+unit_abilities_onscreen_name_3k_main_ability_demigod_of_war	箕裘	true
+unit_abilities_onscreen_name_3k_main_ability_dignity_of_the_empress	自重	true
+unit_abilities_onscreen_name_3k_main_ability_distrust_power	藏刀	true
+unit_abilities_onscreen_name_3k_main_ability_double_sword_dance	剑舞	true
+unit_abilities_onscreen_name_3k_main_ability_elegant_and_cultured	龙韬	true
+unit_abilities_onscreen_name_3k_main_ability_eloquent_speaker_1	铁舌	true
+unit_abilities_onscreen_name_3k_main_ability_encouragement_25	金鼓	true
+unit_abilities_onscreen_name_3k_main_ability_encouragement_50	金鼓	true
+unit_abilities_onscreen_name_3k_main_ability_experienced_rider	骐骥	true
+unit_abilities_onscreen_name_3k_main_ability_fatal_attraction	妩媚	true
+unit_abilities_onscreen_name_3k_main_ability_father_daughter	龙虎	true
+unit_abilities_onscreen_name_3k_main_ability_ferocious_rush	浴血	true
+unit_abilities_onscreen_name_3k_main_ability_flower_on_the_battlefield	龙女	true
+unit_abilities_onscreen_name_3k_main_ability_forced_march	兴师	true
+unit_abilities_onscreen_name_3k_main_ability_foul_wits	远瞩	true
+unit_abilities_onscreen_name_3k_main_ability_goddess_of_battle	恶浪	true
+unit_abilities_onscreen_name_3k_main_ability_guardian	卫足	true
+unit_abilities_onscreen_name_3k_main_ability_hope_of_nam_viet	民意	true
+unit_abilities_onscreen_name_3k_main_ability_indiscriminate_charge	困兽	true
+unit_abilities_onscreen_name_3k_main_ability_lady_dong_cruel_command	强令	true
+unit_abilities_onscreen_name_3k_main_ability_lament	恸哭	true
+unit_abilities_onscreen_name_3k_main_ability_last_resist	背水	true
+unit_abilities_onscreen_name_3k_main_ability_loyal_advice	劝谏	true
+unit_abilities_onscreen_name_3k_main_ability_lucky_pearl	松柏	true
+unit_abilities_onscreen_name_3k_main_ability_marksman_of_taiyuan	神射	true
+unit_abilities_onscreen_name_3k_main_ability_martial_prodigy	异禀	true
+unit_abilities_onscreen_name_3k_main_ability_mercy_of_the_forest	琼林	true
+unit_abilities_onscreen_name_3k_main_ability_order_of_tyrant	遮天	true
+unit_abilities_onscreen_name_3k_main_ability_persistent_attack	不衰	true
+unit_abilities_onscreen_name_3k_main_ability_persistent_combat	血斗	true
+unit_abilities_onscreen_name_3k_main_ability_poison	分坐	true
+unit_abilities_onscreen_name_3k_main_ability_prevent_assassination1	砥柱	true
+unit_abilities_onscreen_name_3k_main_ability_prevent_assassination2	砥柱	true
+unit_abilities_onscreen_name_3k_main_ability_provocation	挑衅	true
+unit_abilities_onscreen_name_3k_main_ability_pursuit	饿虎	true
+unit_abilities_onscreen_name_3k_main_ability_quick_preparation	旋踵	true
+unit_abilities_onscreen_name_3k_main_ability_rage_of_lu_ji	无双	true
+unit_abilities_onscreen_name_3k_main_ability_reckless_warrior	熊罴	true
+unit_abilities_onscreen_name_3k_main_ability_shadow_of_the_black_mountain	黑影	false
+unit_abilities_onscreen_name_3k_main_ability_shout	懿旨	true
+unit_abilities_onscreen_name_3k_main_ability_shower_of_arrows	飞蝗	true
+unit_abilities_onscreen_name_3k_main_ability_sister_bandits	沆瀣	true
+unit_abilities_onscreen_name_3k_main_ability_story_telling_1	妙语	true
+unit_abilities_onscreen_name_3k_main_ability_story_telling_2	妙语	true
+unit_abilities_onscreen_name_3k_main_ability_strike_of_justice	正气	true
+unit_abilities_onscreen_name_3k_main_ability_suppressive_fire	冷箭	true
+unit_abilities_onscreen_name_3k_main_ability_tantrum	痛斥	true
+unit_abilities_onscreen_name_3k_main_ability_thunderous_bellow	断喝	true
+unit_abilities_onscreen_name_3k_main_ability_thunderous_blow	霆击	true
+unit_abilities_onscreen_name_3k_main_ability_tiger_son	虎翼	true
+unit_abilities_onscreen_name_3k_main_ability_tiger_suppression	伏虎	true
+unit_abilities_onscreen_name_3k_main_ability_tragic_foresight	止战	true
+unit_abilities_onscreen_name_3k_main_ability_tyrants_gaze	狼视	true
+unit_abilities_onscreen_name_3k_main_ability_unbreakable_faith	铁壁	true
+unit_abilities_onscreen_name_3k_main_ability_unexpected_strike	突袭	true
+unit_abilities_onscreen_name_3k_main_ability_unwed_warrior	处子	true
+unit_abilities_onscreen_name_3k_main_ability_victory_or_death	破甑	true
+unit_abilities_onscreen_name_3k_main_ability_vigor_of_a_warrior	热血	true
+unit_abilities_onscreen_name_3k_main_ability_xianchenying	马首	true
+unit_abilities_onscreen_name_3k_main_ability_youthful_vigor	稚虎	true
+unit_abilities_onscreen_name_3k_main_formation_wedge_wen_chu	楔形阵	true
 unit_abilities_onscreen_name_hv_ability_aggressive_anger	怒猊	true
 unit_abilities_onscreen_name_hv_ability_anti_cavalry	反制	true
 unit_abilities_onscreen_name_hv_ability_assemble	齐心	true
@@ -4926,7 +6052,7 @@ unit_abilities_onscreen_name_hv_ability_furious_charge	横冲直撞	true
 unit_abilities_onscreen_name_hv_ability_gas_bomb	毒气弹	true
 unit_abilities_onscreen_name_hv_ability_ghost_of_forest	林鬼	true
 unit_abilities_onscreen_name_hv_ability_grenade	爆弹	true
-unit_abilities_onscreen_name_hv_ability_guardian	卫御甲	true
+unit_abilities_onscreen_name_hv_ability_guardian	卫足	true
 unit_abilities_onscreen_name_hv_ability_half_barded_missile_resistance	轻马铠	true
 unit_abilities_onscreen_name_hv_ability_hamper	搅扰	true
 unit_abilities_onscreen_name_hv_ability_hero_poisonwind_shot	剧毒	true
@@ -4993,7 +6119,7 @@ unit_abilities_onscreen_name_hv_ability_xianchenying	Breakthrough	true
 unit_abilities_onscreen_name_hv_ability_xiliang_army	反骑兵专家	true
 unit_abilities_onscreen_name_hv_ability_xiliang_army_ranged	反骑兵专家	true
 unit_abilities_onscreen_name_hv_ability_young_blood	血气方刚	true
-unit_abilities_onscreen_name_hv_ability_youzansen	弧斩	true
+unit_abilities_onscreen_name_hv_ability_youzansen	弧光斩	true
 unit_abilities_onscreen_name_hv_ability_yuan_officer_passive	支持	true
 unit_abilities_onscreen_name_hv_ability_zhou_the_youth	美周郎	true
 unit_abilities_onscreen_name_hv_abillity_danyang_tradition	不挠	true
@@ -5051,14 +6177,103 @@ unit_abilities_tooltip_text_3k_dlc07_ability_heavenly_presence	局势危急之�
 unit_abilities_tooltip_text_3k_dlc07_ability_impenetrable_redoubt	此将有如一道铜墙铁壁，鼓舞着麾下兵士在逆境中不动如山。	false
 unit_abilities_tooltip_text_3k_dlc07_ability_mighty_thrust	此人大吼一声，纵马冲入敌阵，犹如一把利刃，杀得敌人血肉横飞。	false
 unit_abilities_tooltip_text_3k_dlc07_ability_mock	此英雄面对敌将，一番滔滔雄辩，令其心智动摇。	false
-unit_abilities_tooltip_text_3k_dlc07_ability_rally_the_troops	此将集结军队，激励众将士发起最后的冲锋，建不世之功业。	false
+unit_abilities_tooltip_text_3k_dlc07_ability_rally_the_troops	此将召集兵士奋勇作战，鼓励他们作最后一搏。	false
 unit_abilities_tooltip_text_3k_dlc07_ability_xiezhi_roar	勇士怒发冲冠，若獬豸附身，勇不可当。	false
+unit_abilities_tooltip_text_3k_elephant_ability_trample	战象的猛然一跺，足以碾碎脚下的一切。	true
+unit_abilities_tooltip_text_3k_main_ability_advance	军令如山，不听约束者皆斩之。	true
+unit_abilities_tooltip_text_3k_main_ability_avenge	敌军势穷，怎可不乘胜追击？	true
+unit_abilities_tooltip_text_3k_main_ability_battle_stance	知己知彼，百战不殆。	true
+unit_abilities_tooltip_text_3k_main_ability_blood_flower	张氏在战场上由于天上流星一般，美丽绝伦却又危险。	true
+unit_abilities_tooltip_text_3k_main_ability_blooming_beauty_xiao_25	美妙的芬芳在前线总能鼓舞将士们勇猛杀敌。	true
+unit_abilities_tooltip_text_3k_main_ability_blooming_beauty_xiao_50	美妙的芬芳在前线总能鼓舞将士们勇猛杀敌。	true
+unit_abilities_tooltip_text_3k_main_ability_blossoming_beauty	美人一笑，士愿捐躯。	true
+unit_abilities_tooltip_text_3k_main_ability_brawn_of_yangan	有传言说有一人可以徒手驯服一头暴怒的公牛。	true
+unit_abilities_tooltip_text_3k_main_ability_breakthrough_in_concentration	号令三军攻其一处！	true
+unit_abilities_tooltip_text_3k_main_ability_broad_Knowledge_1	没人能不被蔡文姬浑身上下都散发着的学识所影响。	true
+unit_abilities_tooltip_text_3k_main_ability_broad_Knowledge_2	没人能不被蔡文姬浑身上下都散发着的学识所影响。	true
+unit_abilities_tooltip_text_3k_main_ability_calculated_judgment	出其不意，瓮中捉鳖。	true
+unit_abilities_tooltip_text_3k_main_ability_call_of_courage	设下酒宴，待将军得胜归来！	true
+unit_abilities_tooltip_text_3k_main_ability_camp_crushing	犁庭扫穴，无坚不摧。	true
+unit_abilities_tooltip_text_3k_main_ability_cautious_approach	匿影藏形于林宇之间，狠下毒手，攻其敌于不备。	true
+unit_abilities_tooltip_text_3k_main_ability_champion_of_xiliang	庞德既能与关公死战，那也必能匹敌马超。	true
+unit_abilities_tooltip_text_3k_main_ability_cheers_of_encouragement	将帅之安危岂可不保乎？	true
+unit_abilities_tooltip_text_3k_main_ability_chunyu_qiong_frenzy	被激怒了的淳于琼，将全力以赴，力战身死。	true
+unit_abilities_tooltip_text_3k_main_ability_coffin_march	庞德要么会取得胜利，要么就是死战入土。	true
+unit_abilities_tooltip_text_3k_main_ability_commanding_presence_25	不可无礼！	true
+unit_abilities_tooltip_text_3k_main_ability_commanding_presence_50	不可无礼！	true
+unit_abilities_tooltip_text_3k_main_ability_concentrated_strikes	毒蛇出击，一击致命。	true
+unit_abilities_tooltip_text_3k_main_ability_console	主之贤明，将愿捐躯。	true
+unit_abilities_tooltip_text_3k_main_ability_cosy_haven	冬去春来，生机勃发。	true
+unit_abilities_tooltip_text_3k_main_ability_coward_a50	董旻只敢仗势欺人。	true
+unit_abilities_tooltip_text_3k_main_ability_coward_b50	董旻只敢仗势欺人。	true
+unit_abilities_tooltip_text_3k_main_ability_critical_strike	摧心剖肝，直中要害。	true
+unit_abilities_tooltip_text_3k_main_ability_demigod_of_war	一脉相承，不愧为武圣之女！	true
+unit_abilities_tooltip_text_3k_main_ability_dignity_of_the_empress	如有要事禀告，务必以礼相待。	true
 unit_abilities_tooltip_text_3k_main_ability_distant_courage	该英雄会在…安全距离指挥激励部队。	true
+unit_abilities_tooltip_text_3k_main_ability_distrust_power	不臣之士，话里藏刀。	true
+unit_abilities_tooltip_text_3k_main_ability_double_sword_dance	舞剑操刀于敌众之间。	true
+unit_abilities_tooltip_text_3k_main_ability_elegant_and_cultured	熟读兵书，精通兵法之将领可令千人有万人之威。	true
+unit_abilities_tooltip_text_3k_main_ability_eloquent_speaker_1	能言雄辩之人有时甚于一员猛将。	true
+unit_abilities_tooltip_text_3k_main_ability_encouragement_25	将士们的所做所为将流芳百世！	true
+unit_abilities_tooltip_text_3k_main_ability_encouragement_50	将士们的所做所为将流芳百世！	true
+unit_abilities_tooltip_text_3k_main_ability_experienced_rider	羌人自小学习骑术，骑术十分了得。	true
+unit_abilities_tooltip_text_3k_main_ability_fatal_attraction	「不知夫人今宵愿与我同席共枕否？」	true
+unit_abilities_tooltip_text_3k_main_ability_father_daughter	父女同心，无往不利。	true
+unit_abilities_tooltip_text_3k_main_ability_ferocious_rush	怒火中烧，浴血奋战。	true
 unit_abilities_tooltip_text_3k_main_ability_fleet_footed	此人行动迅如狡兔，万军擒拿亦若无物。	false
-unit_abilities_tooltip_text_3k_main_ability_heart_seeker	此射手只消一击便能取人性命。	true
+unit_abilities_tooltip_text_3k_main_ability_flower_on_the_battlefield	美貌之下，藏着一头桀骜不驯的猛兽。	true
+unit_abilities_tooltip_text_3k_main_ability_forced_march	你这厮，还不快接着走！	true
+unit_abilities_tooltip_text_3k_main_ability_foul_wits	高瞻之论还需配上愿听忠言之明主。	true
+unit_abilities_tooltip_text_3k_main_ability_goddess_of_battle	赵妪所经之处无所不催。	true
+unit_abilities_tooltip_text_3k_main_ability_guardian	百姓卫士，民为其足	true
+unit_abilities_tooltip_text_3k_main_ability_heart_seeker	百步穿杨，一击便可致敌于死地。	true
+unit_abilities_tooltip_text_3k_main_ability_hope_of_nam_viet	身背骆越人民的希望，赵贞娘绝不会退缩。	true
 unit_abilities_tooltip_text_3k_main_ability_imperious_presence	曹操在场，敌将备受压制！	false
+unit_abilities_tooltip_text_3k_main_ability_indiscriminate_charge	独拥残兵守邺城，审配慷慨壮烈。	true
+unit_abilities_tooltip_text_3k_main_ability_lady_dong_cruel_command	宁舍尔命，也得保障夫人毫发无伤。	true
+unit_abilities_tooltip_text_3k_main_ability_lament	梨花带雨，我见犹怜。	true
+unit_abilities_tooltip_text_3k_main_ability_last_resist	就算被围，审配也拒不投降，背水一战。	true
+unit_abilities_tooltip_text_3k_main_ability_loyal_advice	「昔周自后稷至于文王，积德累功，三分天下有其二，犹服事殷。明公虽奕世克昌，未若有周之盛，汉室虽微，未若殷纣之暴也。」	true
+unit_abilities_tooltip_text_3k_main_ability_lucky_pearl	「漫道无华争俏丽,长青更胜一时芳。」	true
+unit_abilities_tooltip_text_3k_main_ability_marksman_of_taiyuan	陆政的猎物对她来说犹如瓮中捉鳖。	true
+unit_abilities_tooltip_text_3k_main_ability_martial_prodigy	父为吕奉先，吕姬天赋异禀。	true
+unit_abilities_tooltip_text_3k_main_ability_mercy_of_the_forest	来自于自然的恩惠，可是不可多得的。	true
+unit_abilities_tooltip_text_3k_main_ability_order_of_tyrant	暴君的怒吼能让最懦弱的士兵也士气高昂，坚如磐石。	true
+unit_abilities_tooltip_text_3k_main_ability_persistent_attack	持久且不衰，伊健丽婷永不放弃。	true
+unit_abilities_tooltip_text_3k_main_ability_persistent_combat	即使是逆境之下，黄祖也不会退缩。	true
+unit_abilities_tooltip_text_3k_main_ability_poison	我视你为友，你竟然因一片黄金而与我割席而坐。	true
+unit_abilities_tooltip_text_3k_main_ability_prevent_assassination1	遭扰攘之时，值兵革之际。	true
+unit_abilities_tooltip_text_3k_main_ability_prevent_assassination2	遭扰攘之时，值兵革之际。	true
+unit_abilities_tooltip_text_3k_main_ability_provocation	你难道想在沙场上于刘关张相会？	true
+unit_abilities_tooltip_text_3k_main_ability_pursuit	猎人猎物，瓮中捉鳖。	true
+unit_abilities_tooltip_text_3k_main_ability_quick_preparation	陆政使用长弓手到擒来，总能先人一步拉弓搭箭。	true
 unit_abilities_tooltip_text_3k_main_ability_quickfire	此人一箭紧接一箭，一箭快过一箭。	true
+unit_abilities_tooltip_text_3k_main_ability_rage_of_lu_ji	愈战愈勇，佛挡杀佛。	true
+unit_abilities_tooltip_text_3k_main_ability_reckless_warrior	奋不顾身，得失难记。	true
+unit_abilities_tooltip_text_3k_main_ability_shadow_of_the_black_mountain	传黑山有一女，能如遁迹匿影，来去自如。	false
+unit_abilities_tooltip_text_3k_main_ability_shout	诏令在此，不得抗命！	true
+unit_abilities_tooltip_text_3k_main_ability_shower_of_arrows	华氏射出的飞箭如漫天蝗虫一般袭向敌手，令人变貌失色。	true
+unit_abilities_tooltip_text_3k_main_ability_sister_bandits	臭味相投，不求同生，只求共死。	true
 unit_abilities_tooltip_text_3k_main_ability_stalwart_defender	此人真乃守御惊世之才，敌众猛攻视若无物！	true
+unit_abilities_tooltip_text_3k_main_ability_story_telling_1	能言之人在就算战场上也能用唇舌鼓舞三军。	true
+unit_abilities_tooltip_text_3k_main_ability_story_telling_2	能言之人在就算战场上也能用唇舌鼓舞三军。	true
+unit_abilities_tooltip_text_3k_main_ability_strike_of_justice	正气凛然，骆俊的重击充满着正义与民意。	true
+unit_abilities_tooltip_text_3k_main_ability_suppressive_fire	明枪好躲，暗箭难防。	true
+unit_abilities_tooltip_text_3k_main_ability_tantrum	将士宁可上阵出生入死，也不肯在营中被将军责骂。	true
+unit_abilities_tooltip_text_3k_main_ability_thunderous_bellow	犹如其父亲张飞，张苞的怒吼同样也是响彻云霄。	true
+unit_abilities_tooltip_text_3k_main_ability_thunderous_blow	竭尽全力，致命一击。	true
+unit_abilities_tooltip_text_3k_main_ability_tiger_son	「亮以张苞为虎翼将军，杖前右护卫使。」	true
+unit_abilities_tooltip_text_3k_main_ability_tiger_suppression	黄祖最善于百步之外阴袭敌军。	true
+unit_abilities_tooltip_text_3k_main_ability_tragic_foresight	为国者以民为基，民以衣食为本。	true
+unit_abilities_tooltip_text_3k_main_ability_tyrants_gaze	栖身与暴君鹯狼身旁，董白已练就金刚不坏之身。	true
+unit_abilities_tooltip_text_3k_main_ability_unbreakable_faith	荀彧坚定不移的意志是将士之范。	true
+unit_abilities_tooltip_text_3k_main_ability_unexpected_strike	出其不备，攻其不意。	true
+unit_abilities_tooltip_text_3k_main_ability_unwed_warrior	为光复骆越而战，岂可浪费时间于男女情长。	true
+unit_abilities_tooltip_text_3k_main_ability_victory_or_death	庞德冲锋时不顾自身死活，总是捷足先登。	true
+unit_abilities_tooltip_text_3k_main_ability_vigor_of_a_warrior	马云禄战起来称其为废寝忘食也不为过。	true
+unit_abilities_tooltip_text_3k_main_ability_xianchenying	张勋领军，当世无双。	true
+unit_abilities_tooltip_text_3k_main_ability_youthful_vigor	关兴对他的手下也从不手下留情，这令他的部曲令人生畏。	true
+unit_abilities_tooltip_text_3k_main_formation_wedge_wen_chu	部队结成矛尖阵型，可以迅速杀透敌军战线	true
 unit_abilities_tooltip_text_hv_ability_aggressive_anger	以不灭的怒气煽动战火。	true
 unit_abilities_tooltip_text_hv_ability_anti_cavalry	将士兵组成人墙来抵御马匹。此战术简单有效。	true
 unit_abilities_tooltip_text_hv_ability_assemble	军士聚于此英雄之旗下。	true
@@ -5243,6 +6458,95 @@ unit_abilities_tooltip_text_hv_hit_effect_whistle	引发恐慌。	true
 unit_abilities_tooltip_text_hv_hit_effect_white_horse	「号‘白马义从’，以实禁卫也。」	true
 unit_abilities_tooltip_text_hv_yuan_caltrops	虽制造简易，踩上去可也是痛不欲生，寸步难移。	false
 unit_abilities_tooltip_text_hv_yuan_smokescreen	重重烟幕遮天蔽日，使该部队暂时隐身。	false
+unit_ability_types_localised_description_3k_elephant_ability_trample	践踏	true
+unit_ability_types_localised_description_3k_main_ability_advance	军令	true
+unit_ability_types_localised_description_3k_main_ability_avenge	逐北	true
+unit_ability_types_localised_description_3k_main_ability_battle_stance	厉兵	true
+unit_ability_types_localised_description_3k_main_ability_blood_flower	流星	true
+unit_ability_types_localised_description_3k_main_ability_blooming_beauty_xiao_25	芳香	true
+unit_ability_types_localised_description_3k_main_ability_blooming_beauty_xiao_50	芳香	true
+unit_ability_types_localised_description_3k_main_ability_blossoming_beauty	天仙	true
+unit_ability_types_localised_description_3k_main_ability_brawn_of_yangan	斗牛	true
+unit_ability_types_localised_description_3k_main_ability_breakthrough_in_concentration	讨贼先锋	true
+unit_ability_types_localised_description_3k_main_ability_broad_Knowledge_1	渊博	true
+unit_ability_types_localised_description_3k_main_ability_broad_Knowledge_2	渊博	true
+unit_ability_types_localised_description_3k_main_ability_calculated_judgment	奇袭	true
+unit_ability_types_localised_description_3k_main_ability_call_of_courage	摆宴	true
+unit_ability_types_localised_description_3k_main_ability_camp_crushing	捣穴	true
+unit_ability_types_localised_description_3k_main_ability_cautious_approach	匿形	true
+unit_ability_types_localised_description_3k_main_ability_champion_of_xiliang	断蛟	true
+unit_ability_types_localised_description_3k_main_ability_cheers_of_encouragement	保帅	true
+unit_ability_types_localised_description_3k_main_ability_chunyu_qiong_frenzy	狂暴	true
+unit_ability_types_localised_description_3k_main_ability_coffin_march	死战	true
+unit_ability_types_localised_description_3k_main_ability_commanding_presence_25	凤髓	true
+unit_ability_types_localised_description_3k_main_ability_commanding_presence_50	凤髓	true
+unit_ability_types_localised_description_3k_main_ability_concentrated_strikes	猛蛇	true
+unit_ability_types_localised_description_3k_main_ability_console	振奋	true
+unit_ability_types_localised_description_3k_main_ability_cosy_haven	回春	true
+unit_ability_types_localised_description_3k_main_ability_coward_a50	懦夫	true
+unit_ability_types_localised_description_3k_main_ability_coward_b50	懦夫	true
+unit_ability_types_localised_description_3k_main_ability_critical_strike	摧心	true
+unit_ability_types_localised_description_3k_main_ability_demigod_of_war	箕裘	true
+unit_ability_types_localised_description_3k_main_ability_dignity_of_the_empress	自重	true
+unit_ability_types_localised_description_3k_main_ability_distrust_power	藏刀	true
+unit_ability_types_localised_description_3k_main_ability_double_sword_dance	剑舞	true
+unit_ability_types_localised_description_3k_main_ability_elegant_and_cultured	龙韬	true
+unit_ability_types_localised_description_3k_main_ability_eloquent_speaker_1	铁舌	true
+unit_ability_types_localised_description_3k_main_ability_encouragement_25	金鼓	true
+unit_ability_types_localised_description_3k_main_ability_encouragement_50	金鼓	true
+unit_ability_types_localised_description_3k_main_ability_experienced_rider	骐骥	true
+unit_ability_types_localised_description_3k_main_ability_fatal_attraction	妩媚	true
+unit_ability_types_localised_description_3k_main_ability_father_daughter	龙虎	true
+unit_ability_types_localised_description_3k_main_ability_ferocious_rush	浴血	true
+unit_ability_types_localised_description_3k_main_ability_flower_on_the_battlefield	龙女	true
+unit_ability_types_localised_description_3k_main_ability_forced_march	兴师	true
+unit_ability_types_localised_description_3k_main_ability_foul_wits	远瞩	true
+unit_ability_types_localised_description_3k_main_ability_goddess_of_battle	恶浪	true
+unit_ability_types_localised_description_3k_main_ability_guardian	卫足	true
+unit_ability_types_localised_description_3k_main_ability_hope_of_nam_viet	民意	true
+unit_ability_types_localised_description_3k_main_ability_indiscriminate_charge	困兽	true
+unit_ability_types_localised_description_3k_main_ability_lady_dong_cruel_command	强令	true
+unit_ability_types_localised_description_3k_main_ability_lament	恸哭	true
+unit_ability_types_localised_description_3k_main_ability_last_resist	背水	true
+unit_ability_types_localised_description_3k_main_ability_loyal_advice	劝谏	true
+unit_ability_types_localised_description_3k_main_ability_lucky_pearl	松柏	true
+unit_ability_types_localised_description_3k_main_ability_marksman_of_taiyuan	神射	true
+unit_ability_types_localised_description_3k_main_ability_martial_prodigy	异禀	true
+unit_ability_types_localised_description_3k_main_ability_mercy_of_the_forest	琼林	true
+unit_ability_types_localised_description_3k_main_ability_order_of_tyrant	遮天	true
+unit_ability_types_localised_description_3k_main_ability_persistent_attack	不衰	true
+unit_ability_types_localised_description_3k_main_ability_persistent_combat	血斗	true
+unit_ability_types_localised_description_3k_main_ability_poison	分坐	true
+unit_ability_types_localised_description_3k_main_ability_prevent_assassination1	砥柱	true
+unit_ability_types_localised_description_3k_main_ability_prevent_assassination2	砥柱	true
+unit_ability_types_localised_description_3k_main_ability_provocation	挑衅	true
+unit_ability_types_localised_description_3k_main_ability_pursuit	饿虎	true
+unit_ability_types_localised_description_3k_main_ability_quick_preparation	旋踵	true
+unit_ability_types_localised_description_3k_main_ability_rage_of_lu_ji	无双	true
+unit_ability_types_localised_description_3k_main_ability_reckless_warrior	熊罴	true
+unit_ability_types_localised_description_3k_main_ability_shadow_of_the_black_mountain	黑影	false
+unit_ability_types_localised_description_3k_main_ability_shout	懿旨	true
+unit_ability_types_localised_description_3k_main_ability_shower_of_arrows	飞蝗	true
+unit_ability_types_localised_description_3k_main_ability_sister_bandits	沆瀣	true
+unit_ability_types_localised_description_3k_main_ability_story_telling_1	妙语	true
+unit_ability_types_localised_description_3k_main_ability_story_telling_2	妙语	true
+unit_ability_types_localised_description_3k_main_ability_strike_of_justice	正气	true
+unit_ability_types_localised_description_3k_main_ability_suppressive_fire	冷箭	true
+unit_ability_types_localised_description_3k_main_ability_tantrum	痛斥	true
+unit_ability_types_localised_description_3k_main_ability_thunderous_bellow	断喝	true
+unit_ability_types_localised_description_3k_main_ability_thunderous_blow	霆击	true
+unit_ability_types_localised_description_3k_main_ability_tiger_son	虎翼	true
+unit_ability_types_localised_description_3k_main_ability_tiger_suppression	伏虎	true
+unit_ability_types_localised_description_3k_main_ability_tragic_foresight	止战	true
+unit_ability_types_localised_description_3k_main_ability_tyrants_gaze	狼视	true
+unit_ability_types_localised_description_3k_main_ability_unbreakable_faith	铁壁	true
+unit_ability_types_localised_description_3k_main_ability_unexpected_strike	突袭	true
+unit_ability_types_localised_description_3k_main_ability_unwed_warrior	处子	true
+unit_ability_types_localised_description_3k_main_ability_victory_or_death	破甑	true
+unit_ability_types_localised_description_3k_main_ability_vigor_of_a_warrior	热血	true
+unit_ability_types_localised_description_3k_main_ability_xianchenying	马首	true
+unit_ability_types_localised_description_3k_main_ability_youthful_vigor	稚虎	true
+unit_ability_types_localised_description_3k_main_formation_wedge_wen_chu	楔形阵	true
 unit_ability_types_localised_description_hv_ability_aggressive_anger	怒猊	true
 unit_ability_types_localised_description_hv_ability_anti_cavalry	反制	true
 unit_ability_types_localised_description_hv_ability_assemble	齐心	true
@@ -5308,7 +6612,7 @@ unit_ability_types_localised_description_hv_ability_furious_charge	横冲直撞	
 unit_ability_types_localised_description_hv_ability_gas_bomb	毒气弹	true
 unit_ability_types_localised_description_hv_ability_ghost_of_forest	林鬼	true
 unit_ability_types_localised_description_hv_ability_grenade	爆弹	true
-unit_ability_types_localised_description_hv_ability_guardian	卫御甲	true
+unit_ability_types_localised_description_hv_ability_guardian	卫足	true
 unit_ability_types_localised_description_hv_ability_half_barded_missile_resistance	轻马铠	true
 unit_ability_types_localised_description_hv_ability_hamper	搅扰	true
 unit_ability_types_localised_description_hv_ability_hero_poisonwind_shot	剧毒	true
@@ -5375,7 +6679,7 @@ unit_ability_types_localised_description_hv_ability_xianchenying	Breakthrough	tr
 unit_ability_types_localised_description_hv_ability_xiliang_army	反骑兵专家	true
 unit_ability_types_localised_description_hv_ability_xiliang_army_ranged	反骑兵专家	true
 unit_ability_types_localised_description_hv_ability_young_blood	血气方刚	true
-unit_ability_types_localised_description_hv_ability_youzansen	弧斩	true
+unit_ability_types_localised_description_hv_ability_youzansen	弧光斩	true
 unit_ability_types_localised_description_hv_ability_yuan_officer_passive	支持	true
 unit_ability_types_localised_description_hv_ability_zhou_the_youth	美周郎	true
 unit_ability_types_localised_description_hv_abillity_danyang_tradition	不挠	true
@@ -5472,55 +6776,144 @@ unit_ability_types_onscreen_name_3k_dlc07_ability_misplaced_devotion	自身主�
 unit_ability_types_onscreen_name_3k_dlc07_ability_mock	敌方主动减益	true
 unit_ability_types_onscreen_name_3k_dlc07_ability_rally_the_troops	我方主动增益	true
 unit_ability_types_onscreen_name_3k_dlc07_ability_xiezhi_roar	敌方主动减益	true
+unit_ability_types_onscreen_name_3k_elephant_ability_trample	近战攻击	true
 unit_ability_types_onscreen_name_3k_main_ability_adamant_resolve	我方主动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_advance	主动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_avenge	近战攻击	true
+unit_ability_types_onscreen_name_3k_main_ability_battle_stance	主动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_binding_fury	近战攻击	true
 unit_ability_types_onscreen_name_3k_main_ability_blade_breaker	自身被动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_blazing_roar	敌方主动减益	true
 unit_ability_types_onscreen_name_3k_main_ability_blazing_saddles	自身被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_blood_flower	被动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_blood_fury	自身被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_blooming_beauty_xiao_25	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_blooming_beauty_xiao_50	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_blossoming_beauty	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_brawn_of_yangan	近战攻击	true
+unit_ability_types_onscreen_name_3k_main_ability_breakthrough_in_concentration	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_broad_Knowledge_1	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_broad_Knowledge_2	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_calculated_judgment	主动减益	true
+unit_ability_types_onscreen_name_3k_main_ability_call_of_courage	主动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_camp_crushing	近战攻击	true
+unit_ability_types_onscreen_name_3k_main_ability_cautious_approach	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_champion_of_xiliang	近战攻击	true
+unit_ability_types_onscreen_name_3k_main_ability_cheers_of_encouragement	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_chunyu_qiong_frenzy	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_coffin_march	主动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_commanding_presence_25	被动减益	true
+unit_ability_types_onscreen_name_3k_main_ability_commanding_presence_50	被动减益	true
+unit_ability_types_onscreen_name_3k_main_ability_concentrated_strikes	近战攻击	true
 unit_ability_types_onscreen_name_3k_main_ability_condemned_howl	敌方主动减益	true
+unit_ability_types_onscreen_name_3k_main_ability_console	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_cosy_haven	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_coward_a50	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_coward_b50	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_critical_strike	远程杀伤	true
 unit_ability_types_onscreen_name_3k_main_ability_cry_of_the_forest	自身被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_demigod_of_war	近战攻击	true
 unit_ability_types_onscreen_name_3k_main_ability_devastating_roar	敌方主动减益	true
+unit_ability_types_onscreen_name_3k_main_ability_dignity_of_the_empress	主动减益	true
 unit_ability_types_onscreen_name_3k_main_ability_distant_courage	我方被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_distrust_power	主动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_double_sword_dance	近战攻击	true
+unit_ability_types_onscreen_name_3k_main_ability_elegant_and_cultured	主动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_elemental_vigour	自身被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_eloquent_speaker_1	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_encouragement_25	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_encouragement_50	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_experienced_rider	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_fatal_attraction	主动减益	true
+unit_ability_types_onscreen_name_3k_main_ability_father_daughter	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_ferocious_rush	被动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_flames_of_the_phoenix	近战攻击	true
 unit_ability_types_onscreen_name_3k_main_ability_fleet_footed	自身主动增益	false
+unit_ability_types_onscreen_name_3k_main_ability_flower_on_the_battlefield	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_forced_march	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_foul_wits	被动减益	true
 unit_ability_types_onscreen_name_3k_main_ability_god_of_war	近战攻击	true
+unit_ability_types_onscreen_name_3k_main_ability_goddess_of_battle	近战攻击	true
+unit_ability_types_onscreen_name_3k_main_ability_guardian	主动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_hail_of_arrows	远程攻击	true
 unit_ability_types_onscreen_name_3k_main_ability_hamstring	近战攻击	true
 unit_ability_types_onscreen_name_3k_main_ability_heart_seeker	远程攻击	true
+unit_ability_types_onscreen_name_3k_main_ability_hope_of_nam_viet	主动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_imperious_presence	敌方被动减益	true
 unit_ability_types_onscreen_name_3k_main_ability_impetuous_charge	我方主动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_indiscriminate_charge	被动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_inspiring_words	我方主动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_internal_blaze	自身被动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_inward_focus	自身主动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_lady_dong_cruel_command	主动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_lament	主动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_last_resist	主动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_loyal_advice	主动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_lucky_pearl	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_marksman_of_taiyuan	远程攻击	true
+unit_ability_types_onscreen_name_3k_main_ability_martial_prodigy	主动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_mercy_of_the_forest	主动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_nature_s_ally	我方被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_order_of_tyrant	主动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_persistent_attack	近战攻击	true
+unit_ability_types_onscreen_name_3k_main_ability_persistent_combat	被动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_poisioned_blade	远程攻击	true
+unit_ability_types_onscreen_name_3k_main_ability_poison	远程杀伤	true
+unit_ability_types_onscreen_name_3k_main_ability_prevent_assassination1	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_prevent_assassination2	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_provocation	主动减益	true
+unit_ability_types_onscreen_name_3k_main_ability_pursuit	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_quick_preparation	被动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_quickfire	自身被动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_rage_of_lu_bu	近战攻击	true
+unit_ability_types_onscreen_name_3k_main_ability_rage_of_lu_ji	近战攻击	true
+unit_ability_types_onscreen_name_3k_main_ability_reckless_warrior	被动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_reign_of_terror	我方主动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_resolve_of_the_righteous	我方被动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_roar_of_the_beast	敌方主动减益	true
+unit_ability_types_onscreen_name_3k_main_ability_shadow_of_the_black_mountain	主动增益	false
+unit_ability_types_onscreen_name_3k_main_ability_shout	主动减益	true
+unit_ability_types_onscreen_name_3k_main_ability_shower_of_arrows	远程攻击	true
 unit_ability_types_onscreen_name_3k_main_ability_sight_of_the_dragon	自身被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_sister_bandits	被动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_smouldering_fury	自身被动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_stalwart_defender	我方被动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_stone_bulwark	我方主动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_story_telling_1	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_story_telling_2	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_strike_of_justice	近战攻击	true
 unit_ability_types_onscreen_name_3k_main_ability_sundering_strike	近战攻击	true
+unit_ability_types_onscreen_name_3k_main_ability_suppressive_fire	远程杀伤	true
 unit_ability_types_onscreen_name_3k_main_ability_swift_fingers	我方被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_tantrum	主动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_tempered_deflection	敌方被动减益	true
 unit_ability_types_onscreen_name_3k_main_ability_tenacity_of_steel	自身被动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_the_dragon_s_gaze	敌方主动减益	true
+unit_ability_types_onscreen_name_3k_main_ability_thunderous_bellow	主动减益	true
+unit_ability_types_onscreen_name_3k_main_ability_thunderous_blow	近战攻击	true
+unit_ability_types_onscreen_name_3k_main_ability_tiger_son	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_tiger_suppression	远程攻击	true
+unit_ability_types_onscreen_name_3k_main_ability_tragic_foresight	主动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_tyrants_gaze	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_unbreakable_faith	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_unexpected_strike	被动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_unstoppable	自身被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_unwed_warrior	被动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_unyielding_earth	我方主动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_vengeance	自身被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_victory_or_death	被动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_vigor_of_a_warrior	被动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_warning_shot	远程攻击	true
 unit_ability_types_onscreen_name_3k_main_ability_way_of_the_wind	我方主动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_wildfire	自身被动增益	true
 unit_ability_types_onscreen_name_3k_main_ability_wisdom_of_the_river	敌方主动减益	true
+unit_ability_types_onscreen_name_3k_main_ability_xianchenying	主动增益	true
+unit_ability_types_onscreen_name_3k_main_ability_youthful_vigor	被动增益	true
 unit_ability_types_onscreen_name_3k_main_formation_mixed_ranged	固防步兵阵形	false
 unit_ability_types_onscreen_name_3k_main_formation_pike_wall	固防步兵阵形	false
 unit_ability_types_onscreen_name_3k_main_formation_shield_wall	固防步兵阵形	false
 unit_ability_types_onscreen_name_3k_main_formation_spear_wall	固防步兵阵形	false
+unit_ability_types_onscreen_name_3k_main_formation_wedge_wen_chu	机动步兵阵型	true
 unit_ability_types_onscreen_name_hv_ability_aggressive_anger	自身被动增益	true
 unit_ability_types_onscreen_name_hv_ability_anti_cavalry	我方被动增益	true
 unit_ability_types_onscreen_name_hv_ability_assemble	我方被动增益	true

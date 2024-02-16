@@ -86,8 +86,6 @@ class InputTsvFiles(Step):
     def _run(self):
         dfs = []
         for filepath in glob.glob(os.path.join('csv', 'in', self.dir_path, '**', '*.tsv'), recursive=True):
-            if 'mtu_text' in filepath:
-                continue
             with open(filepath, encoding='utf-8') as tsv_file:
                 df = pd.read_csv(tsv_file, sep='\t', skiprows=[1])
                 df.columns = ['Key', 'Text', 'Tooltip']
@@ -128,23 +126,33 @@ class VanillaEng(InputCsvFile):
     step_no = 3
 
 
-class PikaManZhcn(InputTsvFiles):
+class TromEng(InputTsvFiles):
     step_no = 4
+    dir_path = 'Trom3.9e'
+
+
+class MtuZhcn(InputTsvFiles):
+    step_no = 11
+    dir_path = 'MtuZhcn'
+
+
+class MtuZhtw(InputTsvFiles):
+    step_no = 12
+    dir_path = 'MtuZhtw'
+
+
+class PikaManZhcn(InputTsvFiles):
+    step_no = 13
     dir_path = 'PikaManZhcn'
 
 
 class PikaManZhtw(InputTsvFiles):
-    step_no = 5
+    step_no = 14
     dir_path = 'PikaManZhtw'
 
 
-class TromEng(InputTsvFiles):
-    step_no = 6
-    dir_path = 'Trom3.9e'
-
-
 class ProcrastinatorZhcn(InputTsvFiles):
-    step_no = 7
+    step_no = 15
     dir_path = 'ProcrastinatorZhcn'
 
     def _run(self):
@@ -154,7 +162,7 @@ class ProcrastinatorZhcn(InputTsvFiles):
 
 
 class ProcrastinatorZhtw(Step):
-    step_no = 8
+    step_no = 16
 
     dependencies = {
         'procrastinator_zhcn': ProcrastinatorZhcn,
@@ -168,47 +176,47 @@ class ProcrastinatorZhtw(Step):
 
 
 class IascusZhcn(InputCsvFile):
-    step_no = 9
-
-
-class IascusZhtw(InputCsvFile):
-    step_no = 10
-
-
-class TromVanillaKeyOverride(LookupFile):
-    step_no = 11
-
-
-class LookupByText(LookupFile):
-    step_no = 12
-
-
-class LookupByKey(LookupFile):
-    step_no = 13
-
-
-class LookupByPattern(LookupFile):
-    step_no = 14
-
-
-class LookupByUnitName(LookupFile):
-    step_no = 15
-
-
-class LookupByUnitType(LookupFile):
-    step_no = 16
-
-
-class LookupBySkill(LookupFile):
     step_no = 17
 
 
-class LookupByTextFragment(LookupFile):
+class IascusZhtw(InputCsvFile):
     step_no = 18
 
 
-class VanillaTranslations(Step):
+class TromVanillaKeyOverride(LookupFile):
     step_no = 21
+
+
+class LookupByText(LookupFile):
+    step_no = 22
+
+
+class LookupByKey(LookupFile):
+    step_no = 23
+
+
+class LookupByPattern(LookupFile):
+    step_no = 24
+
+
+class LookupByUnitName(LookupFile):
+    step_no = 25
+
+
+class LookupByUnitType(LookupFile):
+    step_no = 26
+
+
+class LookupBySkill(LookupFile):
+    step_no = 27
+
+
+class LookupByTextFragment(LookupFile):
+    step_no = 28
+
+
+class VanillaTranslations(Step):
+    step_no = 31
 
     dependencies = {
         'trom_eng': TromEng,
@@ -235,7 +243,7 @@ class VanillaTranslations(Step):
 
 
 class MapByPatternZhcn(Step):
-    step_no = 22
+    step_no = 32
     lang_col = 'zh-cn'
 
     dependencies = {
@@ -305,17 +313,18 @@ class MapByPatternZhcn(Step):
 
 
 class MapByPatternZhtw(MapByPatternZhcn):
-    step_no = 23
+    step_no = 33
     lang_col = 'zh-tw'
 
 
 class MapByKeyZhcn(Step):
-    step_no = 24
+    step_no = 34
     lang_col = 'zh-cn'
 
     dependencies = {
         'trom_eng': TromEng,
         'vanilla_translations': VanillaTranslations,
+        'mtu_zh': MtuZhcn,
         'pikaman_zh': PikaManZhcn,
         'procrastinator_zh': ProcrastinatorZhcn,
         'lookup_by_key': LookupByKey,
@@ -326,6 +335,7 @@ class MapByKeyZhcn(Step):
         data = self.trom_eng.data.fillna('').rename({'Text': 'English'}, axis=1).copy()
         vanilla = self.vanilla_translations.data.drop_duplicates(subset=['Key'])
         vanilla = vanilla[['Key', self.lang_col]].rename({self.lang_col: 'Vanilla'}, axis=1)
+        mtu_zh = self.mtu_zh.data.drop_duplicates(subset=['Key'])[['Key', 'Text']]
         pikaman_zh = self.pikaman_zh.data.drop_duplicates(subset=['Key'])[['Key', 'Text']]
         procrastinator_zh = self.procrastinator_zh.data.drop_duplicates(subset=['Key'])[['Key', 'Text']]
         lookup_by_key = self.lookup_by_key.data[['Key', self.lang_col]].rename({self.lang_col: 'OverrideByKey'}, axis=1)
@@ -333,6 +343,7 @@ class MapByKeyZhcn(Step):
 
         data = data.merge(lookup_by_key, on='Key', how='left')
         data = data.merge(vanilla, on='Key', how='left')
+        data = data.merge(mtu_zh.rename({'Text': 'Mtu'}, axis=1), on='Key', how='left')
         data = data.merge(pikaman_zh.rename({'Text': 'PikaMan'}, axis=1), on='Key', how='left')
         data['Short Key'] = data['Key'].str.rsplit('_', n=1).str[0]
         data = data.merge(pikaman_zh.rename({'Text': 'PikaManShortenedKey', 'Key': 'Short Key'}, axis=1), on='Short Key', how='left')
@@ -341,6 +352,7 @@ class MapByKeyZhcn(Step):
         data['Source'] = 'Missing'
         data = data.merge(map_by_pattern_zh, on='English', how='left')
         for col in [
+            'Mtu',
             'PikaManShortenedKey',
             'PikaMan',
             'Procrastinator',
@@ -364,12 +376,13 @@ class MapByKeyZhcn(Step):
 
 
 class MapByKeyZhtw(MapByKeyZhcn):
-    step_no = 25
+    step_no = 35
     lang_col = 'zh-tw'
 
     dependencies = {
         'trom_eng': TromEng,
         'vanilla_translations': VanillaTranslations,
+        'mtu_zh': MtuZhtw,
         'pikaman_zh': PikaManZhtw,
         'procrastinator_zh': ProcrastinatorZhtw,
         'lookup_by_key': LookupByKey,
@@ -378,7 +391,7 @@ class MapByKeyZhtw(MapByKeyZhcn):
 
 
 class FinalZhcn(LocOutput):
-    step_no = 26
+    step_no = 36
     lang_col = 'zh-cn'
 
     dependencies = {
@@ -393,7 +406,7 @@ class FinalZhcn(LocOutput):
 
 
 class FinalZhtw(FinalZhcn):
-    step_no = 27
+    step_no = 37
     lang_col = 'zh-tw'
 
     dependencies = {
@@ -402,7 +415,7 @@ class FinalZhtw(FinalZhcn):
 
 
 class RegenLookupByText(Step):
-    step_no = 28
+    step_no = 41
 
     dependencies = {
         'map_by_key_zhcn': MapByKeyZhcn,
@@ -428,7 +441,7 @@ class RegenLookupByText(Step):
 
 
 class MissingZhcn(Step):
-    step_no = 40
+    step_no = 42
 
     dependencies = {
         'map_by_key_zh': MapByKeyZhcn,
@@ -445,7 +458,7 @@ class MissingZhcn(Step):
 
 
 class MissingZhtw(MissingZhcn):
-    step_no = 41
+    step_no = 43
 
     dependencies = {
         'map_by_key_zh': MapByKeyZhtw,
@@ -453,7 +466,7 @@ class MissingZhtw(MissingZhcn):
 
 
 class Comparison(Step):
-    step_no = 42
+    step_no = 44
 
     dependencies = {
         'trom_eng': TromEng,
@@ -515,6 +528,8 @@ def main():
             VanillaZhcn,
             VanillaZhtw,
             VanillaEng,
+            MtuZhcn,
+            MtuZhtw,
             PikaManZhcn,
             PikaManZhtw,
             TromEng,

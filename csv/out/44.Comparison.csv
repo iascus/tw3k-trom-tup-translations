@@ -1,0 +1,711 @@
+English,MappedZhcn,SourceZhcn,VanillaZhcn,IascusZhcn,ProcrastinatorZhcn,DiffZhcn,DiffZhtw,MappedZhtw,SourceZhtw,VanillaZhtw,IascusZhtw,ProcrastinatorZhtw,SkillKey
+Mobilisation,动员,MappedByPattern,,动员,动员,False,False,動員,MappedByPattern,,動員,動員,hv_skill_wood_mobilization_name
+Motivating men to fight is the essense of leadership.,激发部卒斗志乃是为将的精髓。,Procrastinator,,激发斗志乃是领军的精髓。,激发部卒斗志乃是为将的精髓。,False,False,激發部卒鬥志乃是爲將的精髓。,Procrastinator,,激發鬥志乃是領軍的精髓。,激發部卒鬥志乃是爲將的精髓。,hv_skill_wood_mobilization_description
+Resolve,决心,MappedByPattern,,决心,决心,False,False,決心,MappedByPattern,,決心,決心,hv_skill_non_deployable_wood_2_name
+"A hero's resolve is not to seem the bravest, but to be it.",所谓英雄，不可徒有其表，需当勇冠三军。,Vanilla,所谓英雄，不可徒有其表，需当勇冠三军。,所谓英雄，不可徒有其表，需当勇冠三军。,所谓英雄，不可徒有其表，需当勇冠三军。,False,True,英雄的決心並非裝模作樣，而是發自內心的勇氣。,Vanilla,英雄的決心並非裝模作樣，而是發自內心的勇氣。,英雄的決心並非裝模作樣，而是發自內心的勇氣。,所謂英雄，不可徒有其表，需當勇冠三軍。,hv_skill_non_deployable_wood_2_description
+Resolve,决心,MappedByPattern,,决心,决心,False,False,決心,MappedByPattern,,決心,決心,hv_skill_non_deployable_wood_1_name
+"A hero's resolve is not to seem the bravest, but to be it.",所谓英雄，不可徒有其表，需当勇冠三军。,Vanilla,所谓英雄，不可徒有其表，需当勇冠三军。,所谓英雄，不可徒有其表，需当勇冠三军。,所谓英雄，不可徒有其表，需当勇冠三军。,False,True,英雄的決心並非裝模作樣，而是發自內心的勇氣。,Vanilla,英雄的決心並非裝模作樣，而是發自內心的勇氣。,英雄的決心並非裝模作樣，而是發自內心的勇氣。,所謂英雄，不可徒有其表，需當勇冠三軍。,hv_skill_non_deployable_wood_1_description
+Cunning,智谋,MappedByPattern,变化机谋,智谋,智谋,False,False,智謀,MappedByPattern,足智多謀,智謀,智謀,hv_skill_non_deployable_water_2_name
+Be cunning and full of tricks and your people shall never be destroyed.,多谋善计方可立于不败之地。,Vanilla,多谋善计方可立于不败之地。,多谋善计方可立于不败之地。,多谋善计方可立于不败之地。,False,True,兵不厭詐，謀如湧泉，則手下士兵無堅不摧。,Vanilla,兵不厭詐，謀如湧泉，則手下士兵無堅不摧。,兵不厭詐，謀如湧泉，則手下士兵無堅不摧。,多謀善計方可立於不敗之地。,hv_skill_non_deployable_water_2_description
+Cunning,智谋,MappedByPattern,变化机谋,智谋,智谋,False,False,智謀,MappedByPattern,足智多謀,智謀,智謀,hv_skill_non_deployable_water_1_name
+Be cunning and full of tricks and your people shall never be destroyed.,多谋善计方可立于不败之地。,Vanilla,多谋善计方可立于不败之地。,多谋善计方可立于不败之地。,多谋善计方可立于不败之地。,False,True,兵不厭詐，謀如湧泉，則手下士兵無堅不摧。,Vanilla,兵不厭詐，謀如湧泉，則手下士兵無堅不摧。,兵不厭詐，謀如湧泉，則手下士兵無堅不摧。,多謀善計方可立於不敗之地。,hv_skill_non_deployable_water_1_description
+Expertise,专精,MappedByPattern,,专精,专精,False,False,專精,MappedByPattern,,專精,專精,hv_skill_non_deployable_metal_2_name
+Martial expertise from hard work. Practice. Preparation. Endless repetition.,习技艺，服劳苦，勤习无休懈，方可弓马娴熟。,Vanilla,习技艺，服劳苦，勤习无休懈，方可弓马娴熟。,习技艺，服劳苦，勤习无休懈，方可弓马娴熟。,习技艺，服劳苦，勤习无休懈，方可弓马娴熟。,False,True,高強武藝來自勤練。必須孜孜不倦、未雨綢繆、千錘百鍊。,Vanilla,高強武藝來自勤練。必須孜孜不倦、未雨綢繆、千錘百鍊。,高強武藝來自勤練。必須孜孜不倦、未雨綢繆、千錘百鍊。,習技藝，服勞苦，勤習無休懈，方可弓馬嫺熟。,hv_skill_non_deployable_metal_2_description
+Expertise,专精,MappedByPattern,,专精,专精,False,False,專精,MappedByPattern,,專精,專精,hv_skill_non_deployable_metal_1_name
+Martial expertise from hard work. Practice. Preparation. Endless repetition.,习技艺，服劳苦，勤习无休懈，方可弓马娴熟。,Vanilla,习技艺，服劳苦，勤习无休懈，方可弓马娴熟。,习技艺，服劳苦，勤习无休懈，方可弓马娴熟。,习技艺，服劳苦，勤习无休懈，方可弓马娴熟。,False,True,高強武藝來自勤練。必須孜孜不倦、未雨綢繆、千錘百鍊。,Vanilla,高強武藝來自勤練。必須孜孜不倦、未雨綢繆、千錘百鍊。,高強武藝來自勤練。必須孜孜不倦、未雨綢繆、千錘百鍊。,習技藝，服勞苦，勤習無休懈，方可弓馬嫺熟。,hv_skill_non_deployable_metal_1_description
+Instinct,本能,MappedByPattern,,本能,本能,False,False,本能,MappedByPattern,,本能,本能,hv_skill_non_deployable_fire_2_name
+"Concentrate on the moment: fight, don't think. Use your instincts.",专注当下：切勿迟疑，但斩前敌。,Vanilla,专注当下：切勿迟疑，但斩前敌。,专注当下：切勿迟疑，但斩前敌。,专注当下：切勿迟疑，但斩前敌。,False,True,專注於當下：只管戰鬥，無須思考。活用直覺。,Vanilla,專注於當下：只管戰鬥，無須思考。活用直覺。,專注於當下：只管戰鬥，無須思考。活用直覺。,專注當下：切勿遲疑，但斬前敵。,hv_skill_non_deployable_fire_2_description
+Instinct,本能,MappedByPattern,,本能,本能,False,False,本能,MappedByPattern,,本能,本能,hv_skill_non_deployable_fire_1_name
+"Concentrate on the moment: fight, don't think. Use your instincts.",专注当下：切勿迟疑，但斩前敌。,Vanilla,专注当下：切勿迟疑，但斩前敌。,专注当下：切勿迟疑，但斩前敌。,专注当下：切勿迟疑，但斩前敌。,False,True,專注於當下：只管戰鬥，無須思考。活用直覺。,Vanilla,專注於當下：只管戰鬥，無須思考。活用直覺。,專注於當下：只管戰鬥，無須思考。活用直覺。,專注當下：切勿遲疑，但斬前敵。,hv_skill_non_deployable_fire_1_description
+Authority,权威,MappedByPattern,,权威,权威,False,False,權威,MappedByPattern,,權威,權威,hv_skill_non_deployable_earth_2_name
+The responsibility that comes with authority should not be taken lightly.,位尊则必担重任，任重则不能轻举。,Vanilla,位尊则必担重任，任重则不能轻举。,位尊则必担重任，任重则不能轻举。,位尊则必担重任，任重则不能轻举。,False,True,權威帶來的責任絕不能等閒視之。,Vanilla,權威帶來的責任絕不能等閒視之。,權威帶來的責任絕不能等閒視之。,位尊則必擔重任，任重則不能輕舉。,hv_skill_non_deployable_earth_2_description
+Authority,权威,MappedByPattern,,权威,权威,False,False,權威,MappedByPattern,,權威,權威,hv_skill_non_deployable_earth_1_name
+The responsibility that comes with authority should not be taken lightly.,位尊则必担重任，任重则不能轻举。,Vanilla,位尊则必担重任，任重则不能轻举。,位尊则必担重任，任重则不能轻举。,位尊则必担重任，任重则不能轻举。,False,True,權威帶來的責任絕不能等閒視之。,Vanilla,權威帶來的責任絕不能等閒視之。,權威帶來的責任絕不能等閒視之。,位尊則必擔重任，任重則不能輕舉。,hv_skill_non_deployable_earth_1_description
+City Recovery,城市复兴,MappedByPattern,,城市复兴,城市复兴,False,False,城市復興,MappedByPattern,,城市復興,城市復興,hv_skill_non_deployable_06_name
+All must take up their tools and participate in the enormous effort of rebuilding society.,所有人都必须拿起工具，参与到重建社会的大业中去。,Procrastinator,,所有人都必须拿起工具，参与到重建社会的大业中去。,所有人都必须拿起工具，参与到重建社会的大业中去。,False,False,所有人都必須拿起工具，參與到重建社會的大業中去。,Procrastinator,,眾人皆需拿起工具，參與重建江山社稷的龐大工作。,所有人都必須拿起工具，參與到重建社會的大業中去。,hv_skill_non_deployable_06_description
+Inspection,审查,MappedByPattern,,审查,审查,False,False,審查,MappedByPattern,,審查,審查,hv_skill_non_deployable_05_name
+This is the basic way to correct corruption.,清除腐败以此为本。,MappedByPattern,,清楚腐败以此为本。,清楚腐败以此为本。,True,True,清除腐敗以此爲本。,MappedByPattern,,清除腐敗以此爲本。,清楚腐敗以此爲本。,hv_skill_non_deployable_05_description
+Prevention,预防,MappedByPattern,,预防,预防,False,False,預防,MappedByPattern,,預防,預防,hv_skill_non_deployable_04_name
+Prevention is better than cure.,防患于未然。,Procrastinator,,防患于未然。,防患于未然。,False,False,防患於未然。,Procrastinator,,防患於未然。,防患於未然。,hv_skill_non_deployable_04_description
+Agronomy,农艺,MappedByPattern,,农艺,农艺,False,False,農藝,MappedByPattern,,農藝,農藝,hv_skill_non_deployable_03_name
+Those who toil the land require more utilitarian approaches.,辛苦劳作的农民们需要的却是更为实用的建筑。,MappedByPattern,,辛苦劳作的农民们需要的却是更为实用的建筑。,辛苦劳作的农民们需要的却是更为实用的建筑。,False,True,耕田的人需要的是更為務實的做法。,MappedByPattern,,耕田的人需要的是更為務實的做法。,辛苦勞作的農民們需要的卻是更爲實用的建築。,hv_skill_non_deployable_03_description
+Herald,先驱,MappedByPattern,,先驱,先驱,False,False,先驅,MappedByPattern,,先驅,先驅,hv_skill_non_deployable_02_name
+A noble messenger.,一名高贵的信使。,Procrastinator,,一名高贵的信使。,一名高贵的信使。,False,False,一名高貴的信使。,Procrastinator,,一名高貴的信使。,一名高貴的信使。,hv_skill_non_deployable_02_description
+Stylism,文学,MappedByPattern,,文学,文学,False,False,文學,MappedByPattern,,文學,文學,hv_skill_non_deployable_01_name
+An excellent writing skill.,拥有优秀的文笔。,Procrastinator,,优秀的写作能力。,拥有优秀的文笔。,False,False,擁有優秀的文筆。,Procrastinator,,優秀的寫作能力。,擁有優秀的文筆。,hv_skill_non_deployable_01_description
+Understanding,理解,Vanilla,理解,理解,理解,False,True,將心比心,Vanilla,將心比心,將心比心,理解,hv_skill_emperor_understanding_name
+"What you do not wish upon yourself, extend not to others.",己所不欲，勿施于人,Vanilla,己所不欲，勿施于人,己所不欲，勿施于人,己所不欲，勿施于人,False,True,己所不欲，勿施於人。,Vanilla,己所不欲，勿施於人。,己所不欲，勿施於人。,己所不欲，勿施於人,hv_skill_emperor_understanding_description
+Stability,坚定,Vanilla,坚定,坚定,坚定,False,True,穩重如山,Vanilla,穩重如山,穩重如山,堅定,hv_skill_emperor_stability_name
+The pillar is strongest at its base.,柱石不倒，在其根基厚实,Vanilla,柱石不倒，在其根基厚实,柱石不倒，在其根基厚实,柱石不倒，在其根基厚实,False,True,柱之堅韌，以根基為最。,Vanilla,柱之堅韌，以根基為最。,柱之堅韌，以根基為最。,柱石不倒，在其根基厚實,hv_skill_emperor_stability_description
+Reach,志远,Vanilla,志远,志远,志远,False,True,有志竟成,Vanilla,有志竟成,有志竟成,志遠,hv_skill_emperor_reach_name
+"With no knowledge of what cannot be done, you will accomplish great things.",心怀克服万难之决意，方可成就大事,Vanilla,心怀克服万难之决意，方可成就大事,心怀克服万难之决意，方可成就大事,心怀克服万难之决意，方可成就大事,False,True,不知其不可為而為者，當能成就大事。,Vanilla,不知其不可為而為者，當能成就大事。,不知其不可為而為者，當能成就大事。,心懷克服萬難之決意，方可成就大事,hv_skill_emperor_reach_description
+Nobility,龙髓,MappedByPattern,高尚,高尚,龙髓,False,False,龍髓,MappedByPattern,高尚風範,高尚風範,龍髓,hv_skill_emperor_nobility_name
+"Virtue cannot be acquired, only nurtured.",美德并非天成，只可造就,Vanilla,美德并非天成，只可造就,美德并非天成，只可造就,美德并非天成，只可造就,False,True,修德非一蹴可幾，須時刻培養。,Vanilla,修德非一蹴可幾，須時刻培養。,修德非一蹴可幾，須時刻培養。,美德並非天成，只可造就,hv_skill_emperor_nobility_description
+Flexibility,屈伸,Vanilla,屈伸,屈伸,屈伸,False,True,無往不適,Vanilla,無往不適,無往不適,屈伸,hv_skill_emperor_flexibility_name
+"Like the weather, one's fortune may change by the evening.",天有不测风云，人有旦夕祸福,Vanilla,天有不测风云，人有旦夕祸福,天有不测风云，人有旦夕祸福,天有不测风云，人有旦夕祸福,False,True,天有不測風雲，人有旦夕禍福。,Vanilla,天有不測風雲，人有旦夕禍福。,天有不測風雲，人有旦夕禍福。,天有不測風雲，人有旦夕禍福,hv_skill_emperor_flexibility_description
+Diligence,勤勉,Vanilla,勤勉,勤勉,勤勉,False,True,勤奮努力,Vanilla,勤奮努力,勤奮努力,勤勉,hv_skill_emperor_dilligence_name
+The industrious need no orders to galvanise them into action.,勤奋的人，无需任何指引便可行动起来,Vanilla,勤奋的人，无需任何指引便可行动起来,勤奋的人，无需任何指引便可行动起来,勤奋的人，无需任何指引便可行动起来,False,True,勤勉之人不需命令也會行動。,Vanilla,勤勉之人不需命令也會行動。,勤勉之人不需命令也會行動。,勤奮的人，無需任何指引便可行動起來,hv_skill_emperor_dilligence_description
+Clarity,聪颖,Vanilla,聪颖,聪颖,聪颖,False,True,清楚透徹,Vanilla,清楚透徹,清楚透徹,聰穎,hv_skill_emperor_clarity_name
+Coherence in thought and speech brings clear advantage.,巧言善辩会带来显著的优势,Vanilla,巧言善辩会带来显著的优势,巧言善辩会带来显著的优势,巧言善辩会带来显著的优势,False,True,心口一致，無往不利。,Vanilla,心口一致，無往不利。,心口一致，無往不利。,巧言善辯會帶來顯著的優勢,hv_skill_emperor_clarity_description
+Abundance,富足,Vanilla,富足,富足,富足,False,True,充盈豐沛,Vanilla,充盈豐沛,充盈豐沛,富足,hv_skill_emperor_abundance_name
+Give a man a fish and you feed him for a day. Teach him to fish and you feed him for a lifetime.,授人以鱼，不如授人以渔,Vanilla,授人以鱼，不如授人以渔,授人以鱼，不如授人以渔,授人以鱼，不如授人以渔,False,True,授人以魚不如教之以漁。,Vanilla,授人以魚不如教之以漁。,授人以魚不如教之以漁。,授人以魚，不如授人以漁,hv_skill_emperor_abundance_description
+Zhou the Youth,美周郎,MappedByPattern,,美周郎,周郎,True,True,美周郎,MappedByPattern,,美周郎,周郎,hv_skill_ability_zhou_the_youth_cunning_name
+Zhou Yu's zeal is enough to inspire others.,「性度恢廓，实奇才也。」,Procrastinator,,周瑜的情操足以激励他人。,「性度恢廓，实奇才也。」,False,False,「性度恢廓，實奇才也。」,Procrastinator,,周瑜的情操足以激勵他人。,「性度恢廓，實奇才也。」,hv_skill_ability_zhou_the_youth_cunning_description
+Sweeping Arc,弧光斩,MappedByPattern,弧光斩,,,True,True,橫掃千軍,MappedByPattern,橫掃千軍,,,hv_skill_ability_youzansen_resolve_name
+Cut down enemies by making an arc with a blade,使出一记弧形挥砍杀伤敌人,MappedByPattern,,,,True,True,使出一記弧形揮砍殺傷敵人,MappedByPattern,,,,hv_skill_ability_youzansen_resolve_description
+Sweeping Arc,弧光斩,MappedByPattern,弧光斩,,,True,True,橫掃千軍,MappedByPattern,橫掃千軍,,,hv_skill_ability_youzansen_instinct_name
+Cut down enemies by making an arc with a blade,使出一记弧形挥砍杀伤敌人,MappedByPattern,,,,True,True,使出一記弧形揮砍殺傷敵人,MappedByPattern,,,,hv_skill_ability_youzansen_instinct_description
+Sweeping Arc,弧光斩,MappedByPattern,弧光斩,,,True,True,橫掃千軍,MappedByPattern,橫掃千軍,,,hv_skill_ability_youzansen_expertise_name
+Cut down enemies by making an arc with a blade,使出一记弧形挥砍杀伤敌人,MappedByPattern,,,,True,True,使出一記弧形揮砍殺傷敵人,MappedByPattern,,,,hv_skill_ability_youzansen_expertise_description
+Xiezhi Roar,獬豸之吼,MappedByPattern,獬豸之吼,獬豸之吼,獬豸,True,True,獬豸咆嘯,MappedByPattern,獬豸咆嘯,獬豸咆嘯,獬豸,hv_skill_ability_xiezhi_roar_resolve_name
+"The warrior flies into a rage, embodying the mighty Xiezhi, a mythical creature of great power.  ",勇士怒发冲冠，若獬豸附身，勇不可当。,MappedByPattern,,勇士大发雷霆，犹如神话中强大神兽獬豸的体现。,勇士大发雷霆，犹如神话中的神兽獬豸。,True,True,勇士大發雷霆，猶如神話中強大神獸獬豸的體現。,MappedByPattern,,勇士大發雷霆，猶如神話中強大神獸獬豸的體現。  ,勇士大發雷霆，猶如神話中的神獸獬豸。,hv_skill_ability_xiezhi_roar_resolve_description
+Courage of Eastern Wu,英武,MappedByPattern,,东吴之勇,英武,False,True,東吳之勇,MappedByPattern,,東吳之勇,英武,hv_skill_ability_wu_brave_name
+Poets will sing about today.,今日之战将流芳百世。,Procrastinator,,诗人会为此日做歌。,今日之战将流芳百世。,False,False,今日之戰將流芳百世。,Procrastinator,,詩人會爲此日做歌。,今日之戰將流芳百世。,hv_skill_ability_wu_brave_description
+Wolf,恶狼,MappedByPattern,,战狼,恶狼,False,False,惡狼,MappedByPattern,,戰狼,惡狼,hv_skill_ability_wolf_resolve_name
+Carefully approach and go for the throat.,恶狼谨慎出击，直奔咽喉。,MappedByPattern,,谨慎向前，紧咬其咽喉。,恶狼出击，紧咬咽喉。,True,True,惡狼謹慎出擊，直奔咽喉。,MappedByPattern,,謹慎向前，緊咬其咽喉。,惡狼出擊，緊咬咽喉。,hv_skill_ability_wolf_resolve_description
+Wolf,恶狼,MappedByPattern,,战狼,恶狼,False,False,惡狼,MappedByPattern,,戰狼,惡狼,hv_skill_ability_wolf_cunning_name
+Carefully approach and go for the throat.,恶狼谨慎出击，直奔咽喉。,MappedByPattern,,谨慎向前，紧咬其咽喉。,恶狼出击，紧咬咽喉。,True,True,惡狼謹慎出擊，直奔咽喉。,MappedByPattern,,謹慎向前，緊咬其咽喉。,惡狼出擊，緊咬咽喉。,hv_skill_ability_wolf_cunning_description
+Wisdom of the Waterfall,飞泉之智,MappedByPattern,,飞泉之智,远瞩,True,True,飛泉之智,MappedByPattern,,飛泉之智,遠矚,hv_skill_ability_wisdom_of_the_waterfall_veteran_name
+It is the bear's teeth that the salmon faces at the end of the falls.,鲑鱼游至瀑底，等待的却是熊的牙齿。,MappedByPattern,,鲑鱼在瀑布尽头时所面对的就是熊的牙齿。,层出高瞻之论，真乃奇才也。,True,True,鮭魚游至瀑底，等待的卻是熊的牙齒。,MappedByPattern,,鮭魚在瀑布盡頭時所面對的就是熊的牙齒。,層出高瞻之論，真乃奇才也。,hv_skill_ability_wisdom_of_the_waterfall_veteran_description
+Wisdom of the Waterfall,飞泉之智,MappedByPattern,,飞泉之智,远瞩,True,True,飛泉之智,MappedByPattern,,飛泉之智,遠矚,hv_skill_ability_wisdom_of_the_waterfall_cunning_name
+It is the bear's teeth that the salmon faces at the end of the falls.,鲑鱼游至瀑底，等待的却是熊的牙齿。,MappedByPattern,,鲑鱼在瀑布尽头时所面对的就是熊的牙齿。,层出高瞻之论，真乃奇才也。,True,True,鮭魚游至瀑底，等待的卻是熊的牙齒。,MappedByPattern,,鮭魚在瀑布盡頭時所面對的就是熊的牙齒。,層出高瞻之論，真乃奇才也。,hv_skill_ability_wisdom_of_the_waterfall_cunning_description
+Wisdom of the Waterfall,飞泉之智,MappedByPattern,,飞泉之智,远瞩,True,True,飛泉之智,MappedByPattern,,飛泉之智,遠矚,hv_skill_ability_wisdom_of_the_waterfall_authority_name
+It is the bear's teeth that the salmon faces at the end of the falls.,鲑鱼游至瀑底，等待的却是熊的牙齿。,MappedByPattern,,鲑鱼在瀑布尽头时所面对的就是熊的牙齿。,层出高瞻之论，真乃奇才也。,True,True,鮭魚游至瀑底，等待的卻是熊的牙齒。,MappedByPattern,,鮭魚在瀑布盡頭時所面對的就是熊的牙齒。,層出高瞻之論，真乃奇才也。,hv_skill_ability_wisdom_of_the_waterfall_authority_description
+Wisdom of the River,水圣,Vanilla,水圣,水圣,水圣,False,True,河之智慧,Vanilla,河之智慧,河之智慧,水聖,hv_skill_ability_wisdom_of_the_river_veteran_name
+Knowledge of the enemy weakens their defences.,知敌表里，则彼难守，我易攻,Vanilla,知敌表里，则彼难守，我易攻,知敌表里，则彼难守，我易攻,知敌表里，则彼难守，我易攻,False,True,了解敵人，就能減弱他們的防禦。,Vanilla,了解敵人，就能減弱他們的防禦。,了解敵人，就能減弱他們的防禦。,知敵表裏，則彼難守，我易攻,hv_skill_ability_wisdom_of_the_river_veteran_description
+Wisdom of the River,水圣,Vanilla,水圣,水圣,水圣,False,True,河之智慧,Vanilla,河之智慧,河之智慧,水聖,hv_skill_ability_wisdom_of_the_river_cunning_name
+Knowledge of the enemy weakens their defences.,知敌表里，则彼难守，我易攻,Vanilla,知敌表里，则彼难守，我易攻,知敌表里，则彼难守，我易攻,知敌表里，则彼难守，我易攻。,True,True,了解敵人，就能減弱他們的防禦。,Vanilla,了解敵人，就能減弱他們的防禦。,了解敵人，就能減弱他們的防禦。,知敵表裏，則彼難守，我易攻。,hv_skill_ability_wisdom_of_the_river_cunning_description
+Wisdom of the River,水圣,Vanilla,水圣,水圣,水圣,False,True,河之智慧,Vanilla,河之智慧,河之智慧,水聖,hv_skill_ability_wisdom_of_the_river_authority_name
+Knowledge of the enemy weakens their defences.,知敌表里，则彼难守，我易攻,Vanilla,知敌表里，则彼难守，我易攻,知敌表里，则彼难守，我易攻,知敌表里，则彼难守，我易攻。,True,True,了解敵人，就能減弱他們的防禦。,Vanilla,了解敵人，就能減弱他們的防禦。,了解敵人，就能減弱他們的防禦。,知敵表裏，則彼難守，我易攻。,hv_skill_ability_wisdom_of_the_river_authority_description
+Wildfire Raider,猛火袭掠,Vanilla,猛火袭掠,猛火袭掠,烈火,True,True,野火劫匪,Vanilla,野火劫匪,野火劫匪,烈火,hv_skill_ability_wildfire_instinct_name
+"Gan Ning moves ever faster, as fire spreads through the forest.",甘宁疾冲之势，如野火飞掠林梢,Vanilla,甘宁疾冲之势，如野火飞掠林梢,甘宁疾冲之势，如野火飞掠林梢,甘宁疾冲之势，如野火飞掠林梢,False,True,甘寧有如燎原野火，動作越發迅捷。,Vanilla,甘寧有如燎原野火，動作越發迅捷。,甘寧有如燎原野火，動作越發迅捷。,甘寧疾衝之勢，如野火飛掠林梢,hv_skill_ability_wildfire_instinct_description
+Whitewater,习谋,Vanilla,习谋,习谋,习谋,False,True,激流湧升,Vanilla,激流湧升,激流湧升,習謀,hv_skill_ability_whitewater_cunning_name
+This legendary presence gives enemies pause.,此人谋略通神，足令敌踌躇待毙,Vanilla,此人谋略通神，足令敌踌躇待毙,此人谋略通神，足令敌踌躇待毙,此人谋略通神，足令敌踌躇待毙。,True,True,此人的傳奇風采使敵人望而卻步。,Vanilla,此人的傳奇風采使敵人望而卻步。,此人的傳奇風采使敵人望而卻步。,此人謀略通神，足令敵躊躇待斃。,hv_skill_ability_whitewater_cunning_description
+Way of the Wind,风道,Vanilla,风道,风道,风道,False,True,預測風向,Vanilla,預測風向,預測風向,風道,hv_skill_ability_way_of_the_wind_cunning_name
+Zhuge Liang predicts the wind through study of the world.,卧龙饱谙天文地理，风向去留亦可观之,Vanilla,卧龙饱谙天文地理，风向去留亦可观之,卧龙饱谙天文地理，风向去留亦可观之,卧龙饱谙天文地理，风向去留亦可观之。,True,True,諸葛亮對自然萬物觀察細微而能預知風向。,Vanilla,諸葛亮對自然萬物觀察細微而能預知風向。,諸葛亮對自然萬物觀察細微而能預知風向。,臥龍飽諳天文地理，風向去留亦可觀之。,hv_skill_ability_way_of_the_wind_cunning_description
+Warning Shot,射缨,Vanilla,射缨,射缨,射缨,False,True,警告射擊,Vanilla,警告射擊,警告射擊,射纓,hv_skill_ability_warning_shot_expertise_name
+The enemy knows the next shot will not miss.,「这下一箭，射的就是汝之心窝！」,Vanilla,「这下一箭，射的就是汝之心窝！」,「这下一箭，射的就是汝之心窝！」,「这下一箭，射的就是汝之心窝！」,False,True,敵人深知下一箭必不失準。,Vanilla,敵人深知下一箭必不失準。,敵人深知下一箭必不失準。,「這下一箭，射的就是汝之心窩！」,hv_skill_ability_warning_shot_expertise_description
+Warning Shot,射缨,Vanilla,射缨,射缨,射缨,False,True,警告射擊,Vanilla,警告射擊,警告射擊,射纓,hv_skill_ability_warning_shot_cunning_name
+The enemy knows the next shot will not miss.,「这下一箭，射的就是汝之心窝！」,Vanilla,「这下一箭，射的就是汝之心窝！」,「这下一箭，射的就是汝之心窝！」,「这下一箭，射的就是汝之心窝！」,False,True,敵人深知下一箭必不失準。,Vanilla,敵人深知下一箭必不失準。,敵人深知下一箭必不失準。,「這下一箭，射的就是汝之心窩！」,hv_skill_ability_warning_shot_cunning_description
+Vengeance,睚眦,Vanilla,睚眦,睚眦,睚眦,False,True,有仇必報,Vanilla,有仇必報,有仇必報,睚眥,hv_skill_ability_vengeance_resolve_name
+"Xiahou Dun fights best in the thick of it, but may lose his composure.",夏侯惇能借此愈战愈勇，但会因此丧失理智,Vanilla,夏侯惇能借此愈战愈勇，但会因此丧失理智,夏侯惇能借此愈战愈勇，但会因此丧失理智,夏侯惇能借此愈战愈勇，但会因此丧失理智。,True,True,夏侯惇在情況危急時反而能發揮最強實力，不過他也容易因此失去理智。,Vanilla,夏侯惇在情況危急時反而能發揮最強實力，不過他也容易因此失去理智。,夏侯惇在情況危急時反而能發揮最強實力，不過他也容易因此失去理智。,夏侯惇能借此愈戰愈勇，但會因此喪失理智。,hv_skill_ability_vengeance_resolve_description
+Veil of Darkness,莫测,MappedByPattern,,黑暗面纱,莫测,False,True,黑暗之幕,MappedByPattern,,黑暗面紗,莫測,hv_skill_ability_veil_of_darkness_cunning_name
+Unease spreads among the enemy ranks.,诡秘莫测，令人胆寒。,Procrastinator,,未知的焦虑于敌方里蔓延。,诡秘莫测，令人胆寒。,False,False,詭祕莫測，令人膽寒。,Procrastinator,,未知的焦慮於敵方裡蔓延。,詭祕莫測，令人膽寒。,hv_skill_ability_veil_of_darkness_cunning_description
+Unyielding Earth,坚土,Vanilla,坚土,坚土,坚土,False,True,不屈之土,Vanilla,不屈之土,不屈之土,堅土,hv_skill_ability_unyielding_earth_authority_name
+Nature itself provides a shield for its warriors.,法自然，如佩坚盾，御阻猛攻。,Vanilla,法自然，如佩坚盾，御阻猛攻。,法自然，如佩坚盾，御阻猛攻。,法自然，如佩坚盾，御阻猛攻。,False,True,大地為它的戰士們提供屏障。,Vanilla,大地為它的戰士們提供屏障。,大地為它的戰士們提供屏障。,法自然，如佩堅盾，御阻猛攻。,hv_skill_ability_unyielding_earth_authority_description
+Unstoppable,横行,MappedByPattern,横行,横行,横行,False,True,無人可擋,MappedByPattern,無人可擋,無人可擋,橫行,hv_skill_ability_unstoppable_resolve_name
+His relentless attack makes foes cower before him!,他武艺天下绝伦，敌众闻之胆战心惊,MappedByPattern,云长武艺天下绝伦，敌众闻之胆战心惊,云长武艺天下绝伦，敌众闻之胆战心惊,云长武艺天下绝伦，敌众闻之胆战心惊。,True,True,他無止息的瘋狂攻勢令敵人心驚膽寒！,MappedByPattern,他無止息的瘋狂攻勢令敵人心驚膽寒！,他無止息的瘋狂攻勢令敵人心驚膽寒！,雲長武藝天下絕倫，敵衆聞之膽戰心驚。,hv_skill_ability_unstoppable_resolve_description
+Undying Vow,守誓,Vanilla,守誓,守誓,守誓,False,True,誓死不屈,Vanilla,誓死不屈,誓死不屈,守誓,hv_skill_ability_undying_vow_instinct_name
+"To the very bitter end and beyond, if possible, to the very last breath, they will be constant and unswerving.",此人视死如归，奋战至血尽身死。,MappedByPattern,周泰及义亲视死如归，奋战至血尽身死。,周泰及义亲视死如归，奋战至血尽身死。,周泰及义亲视死如归，奋战至血尽身死。,True,True,直到最後的最後，如果可以的話，甚至直到最後一口氣，此人都會穩守陣地、絕不低頭。,MappedByPattern,直到最後的最後，如果可以的話，甚至直到最後一口氣，此人都會穩守陣地、絕不低頭。,直到最後的最後，如果可以的話，甚至直到最後一口氣，此人都會穩守陣地、絕不低頭。,周泰及義親視死如歸，奮戰至血盡身死。,hv_skill_ability_undying_vow_instinct_description
+Turning the Tide,力挽狂澜,Vanilla,力挽狂澜,力挽狂澜,力挽,True,True,力挽狂瀾,Vanilla,力挽狂瀾,力挽狂瀾,力挽,hv_skill_ability_turning_the_tide_cunning_name
+Upon nearby enemy unit routing nearby own units recieve a morale buff.,敌众溃散之时，三军振奋，追战愈勇。,Vanilla,敌众溃散之时，三军振奋，追战愈勇。,敌众溃散之时，三军振奋，追战愈勇。,敌众溃散之时，三军振奋，追战愈勇。,False,True,周遭敵軍單位潰逃時，賦予周遭我方單位士氣增強效果。,Vanilla,周遭敵軍單位潰逃時，賦予周遭我方單位士氣增強效果。,周遭敵軍單位潰逃時，賦予周遭我方單位士氣增強效果。,敵衆潰散之時，三軍振奮，追戰愈勇。,hv_skill_ability_turning_the_tide_cunning_description
+White Tiger,虎威,MappedByPattern,,白虎,虎威,False,True,白虎之威,MappedByPattern,,白虎,虎威,hv_skill_ability_tiger_resolve_name
+His spirit is like a tiger. It takes great courage to face him.,勇武如猛虎，胆敢与此人对峙之人可称之为有万夫不当之勇。,Procrastinator,,此人精神如猛虎，在没有伟大的勇气支持下无人胆敢面对此人。,勇武如猛虎，胆敢与此人对峙之人可称之为有万夫不当之勇。,False,False,勇武如猛虎，膽敢與此人對峙之人可稱之爲有萬夫不當之勇。,Procrastinator,,此人精神如猛虎，在沒有偉大的勇氣支持下無人膽敢面對此人。,勇武如猛虎，膽敢與此人對峙之人可稱之爲有萬夫不當之勇。,hv_skill_ability_tiger_resolve_description
+White Tiger,虎威,MappedByPattern,,白虎,虎威,False,True,白虎之威,MappedByPattern,,白虎,虎威,hv_skill_ability_tiger_expertise_name
+His spirit is like a tiger. It takes great courage to face him.,勇武如猛虎，胆敢与此人对峙之人可称之为有万夫不当之勇。,Procrastinator,,此人精神如猛虎，在没有伟大的勇气支持下无人胆敢面对此人。,勇武如猛虎，胆敢与此人对峙之人可称之为有万夫不当之勇。,False,False,勇武如猛虎，膽敢與此人對峙之人可稱之爲有萬夫不當之勇。,Procrastinator,,此人精神如猛虎，在沒有偉大的勇氣支持下無人膽敢面對此人。,勇武如猛虎，膽敢與此人對峙之人可稱之爲有萬夫不當之勇。,hv_skill_ability_tiger_expertise_description
+The weight on the shoulders,砥柱,MappedByPattern,,,,True,True,身負重擔,MappedByPattern,,,,hv_skill_ability_the_weight_on_the_shoulders_scholar_name
+Someone has to take the first step even if no one wants it.,遭扰攘之时，值兵革之际。,MappedByPattern,,,,True,True,遭擾攘之時，值兵革之際。,MappedByPattern,,,,hv_skill_ability_the_weight_on_the_shoulders_scholar_description
+The weight on the shoulders,砥柱,MappedByPattern,,身负重担,砥柱,False,True,身負重擔,MappedByPattern,,身負重擔,砥柱,hv_skill_ability_the_weight_on_the_shoulders_authority_name
+Someone has to take the first step even if no one wants it.,遭扰攘之时，值兵革之际。,MappedByPattern,,总有人要付诸行动，就算没有人愿意处理。,遭扰攘之时，值兵革之际。,False,False,遭擾攘之時，值兵革之際。,MappedByPattern,,總有人要付諸行動，就算沒有人願意處理。,遭擾攘之時，值兵革之際。,hv_skill_ability_the_weight_on_the_shoulders_authority_description
+The Dragon's Gaze,龙视,Vanilla,龙视,龙视,龙视,False,True,蛟龍怒目,Vanilla,蛟龍怒目,蛟龍怒目,龍視,hv_skill_ability_the_dragon_s_gaze_instinct_name
+Lü Bu's furious gaze causes all to cower!,吕布的狂怒凝视，足以让所有人都畏缩不前！,Vanilla,吕布的狂怒凝视，足以让所有人都畏缩不前！,吕布的狂怒凝视，足以让所有人都畏缩不前！,吕布的狂怒凝视，足以让所有人都畏缩不前！,False,True,呂布怒目一瞪，眾兵卒無不驚懼畏怯！,Vanilla,呂布怒目一瞪，眾兵卒無不驚懼畏怯！,呂布怒目一瞪，眾兵卒無不驚懼畏怯！,呂布的狂怒凝視，足以讓所有人都畏縮不前！,hv_skill_ability_the_dragon_s_gaze_instinct_description
+Tenacity of Steel,刚韧,Vanilla,刚韧,刚韧,刚韧,False,True,堅韌如鋼,Vanilla,堅韌如鋼,堅韌如鋼,剛韌,hv_skill_ability_tenacity_of_steel_resolve_name
+"The longer this warrior fights, the stronger they become!",战之愈久，愈游刃有余！,Vanilla,战之愈久，愈游刃有余！,战之愈久，愈游刃有余！,战之愈久，愈游刃有余！,False,True,這名戰士越戰越勇！,Vanilla,這名戰士越戰越勇！,這名戰士越戰越勇！,戰之愈久，愈遊刃有餘！,hv_skill_ability_tenacity_of_steel_resolve_description
+Tenacity of Steel,刚韧,Vanilla,刚韧,刚韧,刚韧,False,True,堅韌如鋼,Vanilla,堅韌如鋼,堅韌如鋼,剛韌,hv_skill_ability_tenacity_of_steel_expertise_name
+"The longer this warrior fights, the stronger they become!",战之愈久，愈游刃有余！,Vanilla,战之愈久，愈游刃有余！,战之愈久，愈游刃有余！,战之愈久，愈游刃有余！,False,True,這名戰士越戰越勇！,Vanilla,這名戰士越戰越勇！,這名戰士越戰越勇！,戰之愈久，愈遊刃有餘！,hv_skill_ability_tenacity_of_steel_expertise_description
+Tempered Deflection,固守,Vanilla,固守,固守,固守,False,True,鍛甲禦矢,Vanilla,鍛甲禦矢,鍛甲禦矢,固守,hv_skill_ability_tempered_deflection_resolve_name
+"With calm, steely resolve, attacks are better deflected.",铁意石心，抵御万物,Vanilla,铁意石心，抵御万物,铁意石心，抵御万物,铁意石心，抵御万物。,True,True,如鋼鐵般冷靜堅毅，就更能擋開攻勢。,Vanilla,如鋼鐵般冷靜堅毅，就更能擋開攻勢。,如鋼鐵般冷靜堅毅，就更能擋開攻勢。,鐵意石心，抵禦萬物。,hv_skill_ability_tempered_deflection_resolve_description
+Tempered Deflection,固守,Vanilla,固守,固守,固守,False,True,鍛甲禦矢,Vanilla,鍛甲禦矢,鍛甲禦矢,固守,hv_skill_ability_tempered_deflection_expertise_name
+"With calm, steely resolve, attacks are better deflected.",铁意石心，抵御万物,Vanilla,铁意石心，抵御万物,铁意石心，抵御万物,铁意石心，抵御万物。,True,True,如鋼鐵般冷靜堅毅，就更能擋開攻勢。,Vanilla,如鋼鐵般冷靜堅毅，就更能擋開攻勢。,如鋼鐵般冷靜堅毅，就更能擋開攻勢。,鐵意石心，抵禦萬物。,hv_skill_ability_tempered_deflection_expertise_description
+Swift Steps,运步如飞,Vanilla,运步如飞,运步如飞,运步,True,True,靈動步伐,Vanilla,靈動步伐,靈動步伐,運步,hv_skill_ability_swift_steps_expertise_name
+One foot in front of the other in rapid succession – this is the key to swiftness.,以极快的速度迈步，这便是行动迅速的诀窍。,Vanilla,以极快的速度迈步，这便是行动迅速的诀窍。,以极快的速度迈步，这便是行动迅速的诀窍。,以极快的速度迈步，这便是行动迅速的诀窍。,False,True,雙腳連續快速交互向前，這就是迅敏的關鍵。,Vanilla,雙腳連續快速交互向前，這就是迅敏的關鍵。,雙腳連續快速交互向前，這就是迅敏的關鍵。,以極快的速度邁步，這便是行動迅速的訣竅。,hv_skill_ability_swift_steps_expertise_description
+Swift Steps,运步如飞,Vanilla,运步如飞,运步如飞,运步,True,True,靈動步伐,Vanilla,靈動步伐,靈動步伐,運步,hv_skill_ability_swift_steps_cunning_name
+One foot in front of the other in rapid succession – this is the key to swiftness.,以极快的速度迈步，这便是行动迅速的诀窍。,Vanilla,以极快的速度迈步，这便是行动迅速的诀窍。,以极快的速度迈步，这便是行动迅速的诀窍。,以极快的速度迈步，这便是行动迅速的诀窍。,False,True,雙腳連續快速交互向前，這就是迅敏的關鍵。,Vanilla,雙腳連續快速交互向前，這就是迅敏的關鍵。,雙腳連續快速交互向前，這就是迅敏的關鍵。,以極快的速度邁步，這便是行動迅速的訣竅。,hv_skill_ability_swift_steps_cunning_description
+Swift Fingers,妙手,Vanilla,妙手,,,True,True,十指靈巧,Vanilla,十指靈巧,,,hv_skill_ability_swift_fingers_instinct_name
+"Recalling their training, these generals reload with startling quickness.",三军需依训练妙法，弯弓搭箭迅如脱兔,Vanilla,三军需依训练妙法，弯弓搭箭迅如脱兔,,,True,True,這些將領回想起自己受過的訓練，以令人刮目相看的飛速裝填矢石。,Vanilla,這些將領回想起自己受過的訓練，以令人刮目相看的飛速裝填矢石。,,,hv_skill_ability_swift_fingers_instinct_description
+Swift Fingers,妙手,Vanilla,妙手,妙手,妙手,False,True,十指靈巧,Vanilla,十指靈巧,十指靈巧,妙手,hv_skill_ability_swift_fingers_expertise_name
+"Recalling their training, these generals reload with startling quickness.",三军需依训练妙法，弯弓搭箭迅如脱兔,Vanilla,三军需依训练妙法，弯弓搭箭迅如脱兔,三军需依训练妙法，弯弓搭箭迅如脱兔,三军需依训练妙法，弯弓搭箭迅如脱兔。,True,True,這些將領回想起自己受過的訓練，以令人刮目相看的飛速裝填矢石。,Vanilla,這些將領回想起自己受過的訓練，以令人刮目相看的飛速裝填矢石。,這些將領回想起自己受過的訓練，以令人刮目相看的飛速裝填矢石。,三軍需依訓練妙法，彎弓搭箭迅如脫兔。,hv_skill_ability_swift_fingers_expertise_description
+Sundering Strike,裂斩,Vanilla,裂斩,裂斩,裂斩,False,True,開山劈石,Vanilla,開山劈石,開山劈石,裂斬,hv_skill_ability_sundering_strike_instinct_name
+"With a mighty cleave, Zhang Fei rends his foes' defences.",张飞奋力一击，敌军防御土崩瓦解,Vanilla,张飞奋力一击，敌军防御土崩瓦解,张飞奋力一击，敌军防御土崩瓦解,张飞奋力一击，敌军防御土崩瓦解,False,True,張飛強力劈擊，撕裂敵人的防線。,Vanilla,張飛強力劈擊，撕裂敵人的防線。,張飛強力劈擊，撕裂敵人的防線。,張飛奮力一擊，敵軍防禦土崩瓦解,hv_skill_ability_sundering_strike_instinct_description
+Stength of the Land,地力,Vanilla,地力,地力,地动,True,True,大地之力,Vanilla,大地之力,大地之力,地動,hv_skill_ability_strength_of_the_land_name
+"The land is not just the earth, but the forests and mountains, and all the hidden, ancient places.",千林万山皆地也，上古遗宫莫不如是,Vanilla,千林万山皆地也，上古遗宫莫不如是,千林万山皆地也，上古遗宫莫不如是,千林万山皆地也，上古遗宫莫不如是。,True,True,大地並非只有土，還有上面的森林與山脈，以及各種神秘的古老地點。,Vanilla,大地並非只有土，還有上面的森林與山脈，以及各種神秘的古老地點。,大地並非只有土，還有上面的森林與山脈，以及各種神秘的古老地點。,千林萬山皆地也，上古遺宮莫不如是。,hv_skill_ability_strength_of_the_land_description
+A Storm of Swords,舞爪,MappedByPattern,,剑刃风暴,舞爪,False,True,劍刃風暴,MappedByPattern,,劍刃風暴,舞爪,hv_skill_ability_storm_of_swords_instinct_name
+A clash is inevitable.,冲突无法避免。,MappedByPattern,,冲突无法避免。,冲突无法避免。,False,False,衝突無法避免。,MappedByPattern,,衝突無法避免。,衝突無法避免。,hv_skill_ability_storm_of_swords_instinct_description
+A Storm of Swords,舞爪,MappedByPattern,,剑刃风暴,舞爪,False,True,劍刃風暴,MappedByPattern,,劍刃風暴,舞爪,hv_skill_ability_storm_of_swords_expertise_name
+A clash is inevitable.,冲突无法避免。,MappedByPattern,,冲突无法避免。,冲突无法避免。,False,False,衝突無法避免。,MappedByPattern,,衝突無法避免。,衝突無法避免。,hv_skill_ability_storm_of_swords_expertise_description
+A Storm of Swords,舞爪,MappedByPattern,,剑刃风暴,舞爪,False,True,劍刃風暴,MappedByPattern,,劍刃風暴,舞爪,hv_skill_ability_storm_of_swords_authority_name
+A clash is inevitable.,冲突无法避免。,MappedByPattern,,冲突无法避免。,冲突无法避免。,False,False,衝突無法避免。,MappedByPattern,,衝突無法避免。,衝突無法避免。,hv_skill_ability_storm_of_swords_authority_description
+Stone Bulwark,磐石,MappedByPattern,磐石,磐石,磐石,False,True,堅若磐石,MappedByPattern,堅若磐石,堅若磐石,磐石,hv_skill_ability_stone_bulwark_cunning_name
+"With skin of earth, arrows rebound, harmless.",凭地利，如披坚甲，箭若无物,MappedByPattern,凭地利，如披坚甲，箭若无物,凭地利，如披坚甲，箭若无物,凭地利，如披坚甲，箭若无物。,True,True,皮若堅石，箭矢觸及皆反彈無傷。,MappedByPattern,皮若堅石，箭矢觸及皆反彈無傷。,皮若堅石，箭矢觸及皆反彈無傷。,憑地利，如披堅甲，箭若無物。,hv_skill_ability_stone_bulwark_cunning_description
+Stone Bulwark,磐石,MappedByPattern,磐石,磐石,磐石,False,True,堅若磐石,MappedByPattern,堅若磐石,堅若磐石,磐石,hv_skill_ability_stone_bulwark_authority_name
+"With skin of earth, arrows rebound, harmless.",凭地利，如披坚甲，箭若无物,MappedByPattern,凭地利，如披坚甲，箭若无物,凭地利，如披坚甲，箭若无物,凭地利，如披坚甲，箭若无物。,True,True,皮若堅石，箭矢觸及皆反彈無傷。,MappedByPattern,皮若堅石，箭矢觸及皆反彈無傷。,皮若堅石，箭矢觸及皆反彈無傷。,憑地利，如披堅甲，箭若無物。,hv_skill_ability_stone_bulwark_authority_description
+Stalwart Defender,坚防,MappedByPattern,坚防,坚防,坚防,False,True,步步為營,MappedByPattern,步步為營,步步為營,堅防,hv_skill_ability_stalwart_defender_resolve_name
+"Born to hold the line, This warrior shrugs off attacks as if they were nothing!",此人真乃守御惊世之才，敌众猛攻视若无物！,MappedByPattern,,此人是天生的护卫将才，所有攻击对他来说都不痛不痒！,此人真乃守御惊世之才，敌众猛攻视若无物！,False,True,此人是天生的護衛將才，所有攻擊對他來說都不痛不癢！,MappedByPattern,,此人是天生的護衛將才，所有攻擊對他來說都不痛不癢！,此人真乃守禦驚世之才，敵衆猛攻視若無物！,hv_skill_ability_stalwart_defender_resolve_description
+Stalwart Defender,坚防,MappedByPattern,坚防,坚防,坚防,False,True,步步為營,MappedByPattern,步步為營,步步為營,堅防,hv_skill_ability_stalwart_defender_expertise_name
+"Born to hold the line, This warrior shrugs off attacks as if they were nothing!",此人真乃守御惊世之才，敌众猛攻视若无物！,MappedByPattern,,此人是天生的护卫将才，所有攻击对他来说都不痛不痒！,此人真乃守御惊世之才，敌众猛攻视若无物！,False,True,此人是天生的護衛將才，所有攻擊對他來說都不痛不癢！,MappedByPattern,,此人是天生的護衛將才，所有攻擊對他來說都不痛不癢！,此人真乃守禦驚世之才，敵衆猛攻視若無物！,hv_skill_ability_stalwart_defender_expertise_description
+Swallow,燕翔,MappedByPattern,,燕翔,燕翔,False,False,燕翔,MappedByPattern,,燕翔,燕翔,hv_skill_ability_sparrow_resolve_name
+No one is faster than this one.,飞燕之快，无人能及。,MappedByPattern,,无人能快过飞燕的速度。,飞燕之快，无人能及。,False,False,飛燕之快，無人能及。,MappedByPattern,,無人能快過飛燕的速度。,飛燕之快，無人能及。,hv_skill_ability_sparrow_resolve_description
+Smouldering Fury,愤懑,Vanilla,愤懑,愤懑,愤懑,False,True,怒火中燒,Vanilla,怒火中燒,怒火中燒,憤懣,hv_skill_ability_smouldering_fury_instinct_name
+"The more he is opposed, the stronger Lü Bu becomes!",敌人越多，吕布就会越强大！,Vanilla,敌人越多，吕布就会越强大！,敌人越多，吕布就会越强大！,敌人越多，吕布就会越强大！,False,True,呂布遭逢越多阻撓，就越是頑強！,Vanilla,呂布遭逢越多阻撓，就越是頑強！,呂布遭逢越多阻撓，就越是頑強！,敵人越多，呂布就會越強大！,hv_skill_ability_smouldering_fury_instinct_description
+Sight of the Dragon,龙睛,Vanilla,龙睛,龙睛,龙睛,False,True,龍之慧眼,Vanilla,龍之慧眼,龍之慧眼,龍睛,hv_skill_ability_sight_of_the_dragon_cunning_name
+The enemy is located; the earth reveals them.,地理山川暴露敌众，敌众掩迹亦可追寻！,Vanilla,地理山川暴露敌众，敌众掩迹亦可追寻！,地理山川暴露敌众，敌众掩迹亦可追寻！,地理山川暴露敌众，敌众掩迹亦可追寻！,False,True,敵軍現蹤影，大地顯蹤跡。,Vanilla,敵軍現蹤影，大地顯蹤跡。,敵軍現蹤影，大地顯蹤跡。,地理山川暴露敵衆，敵衆掩跡亦可追尋！,hv_skill_ability_sight_of_the_dragon_cunning_description
+Show of Force,耀武,MappedByPattern,耀武,耀武,耀武,False,True,揚威挫銳,MappedByPattern,揚威挫銳,揚威挫銳,耀武,hv_skill_ability_show_of_force_authority_name
+Fire explosive bolts to demoralise hostile units.,扔掷爆裂弹来打击敌军士气。,MappedByPattern,,扔掷爆裂弹来打击敌军士气。,这一箭威力巨大，令人望而却步。,True,True,扔擲爆裂彈來打擊敵軍士氣。,MappedByPattern,,扔擲爆裂彈來打擊敵軍士氣。,這一箭威力巨大，令人望而卻步。,hv_skill_ability_show_of_force_authority_description
+Scattering Blows,诛荡,Vanilla,诛荡,诛荡,诛荡,False,True,潰散攻擊,Vanilla,潰散攻擊,潰散攻擊,誅蕩,hv_skill_ability_scattering_blows_resolve_name
+The attacks fall with such consistency that they are as a rain of strikes falling upon the foe.,迅猛而一致的攻击，如狂风暴雨般席卷敌军。,Vanilla,迅猛而一致的攻击，如狂风暴雨般席卷敌军。,迅猛而一致的攻击，如狂风暴雨般席卷敌军。,迅猛而一致的攻击，如狂风暴雨般席卷敌军。,False,True,猶如驟雨般的連綿攻勢，一次次地衝擊對手。,Vanilla,猶如驟雨般的連綿攻勢，一次次地衝擊對手。,猶如驟雨般的連綿攻勢，一次次地衝擊對手。,迅猛而一致的攻擊，如狂風暴雨般席捲敵軍。,hv_skill_ability_scattering_blows_resolve_description
+Scattering Blows,诛荡,Vanilla,诛荡,诛荡,诛荡,False,True,潰散攻擊,Vanilla,潰散攻擊,潰散攻擊,誅蕩,hv_skill_ability_scattering_blows_instinct_name
+The attacks fall with such consistency that they are as a rain of strikes falling upon the foe.,迅猛而一致的攻击，如狂风暴雨般席卷敌军。,Vanilla,迅猛而一致的攻击，如狂风暴雨般席卷敌军。,迅猛而一致的攻击，如狂风暴雨般席卷敌军。,迅猛而一致的攻击，如狂风暴雨般席卷敌军。,False,True,猶如驟雨般的連綿攻勢，一次次地衝擊對手。,Vanilla,猶如驟雨般的連綿攻勢，一次次地衝擊對手。,猶如驟雨般的連綿攻勢，一次次地衝擊對手。,迅猛而一致的攻擊，如狂風暴雨般席捲敵軍。,hv_skill_ability_scattering_blows_instinct_description
+Royal Blood,龙脉,MappedByPattern,,皇室贵胄,龙脉,False,True,皇室貴胄,MappedByPattern,,皇室貴胄,龍脈,hv_skill_ability_royal_blood_resolve_name
+"Fearing retribution, enemies hesitate to fire upon a scion of the Han.",敌人并不敢伤害汉室宗亲。,MappedByPattern,,如果以弓箭射伤此人，弓箭手将遭受全中国的谴责。,龙袍加身，气吞山河。,True,True,敵人並不敢傷害漢室宗親。,MappedByPattern,,如果以弓箭射傷此人，弓箭手將受到天下的責難。,龍袍加身，氣吞山河。,hv_skill_ability_royal_blood_resolve_description
+Royal Blood,龙脉,MappedByPattern,,皇室贵胄,龙脉,False,True,皇室貴胄,MappedByPattern,,皇室貴胄,龍脈,hv_skill_ability_royal_blood_instinct_name
+"Fearing retribution, enemies hesitate to fire upon a scion of the Han.",敌人并不敢伤害汉室宗亲。,MappedByPattern,,如果以弓箭射伤此人，弓箭手将遭受全中国的谴责。,龙袍加身，气吞山河。,True,True,敵人並不敢傷害漢室宗親。,MappedByPattern,,如果以弓箭射傷此人，弓箭手將受到天下的責難。,龍袍加身，氣吞山河。,hv_skill_ability_royal_blood_instinct_description
+Royal Blood,龙脉,MappedByPattern,,皇室贵胄,龙脉,False,True,皇室貴胄,MappedByPattern,,皇室貴胄,龍脈,hv_skill_ability_royal_blood_expertise_name
+"Fearing retribution, enemies hesitate to fire upon a scion of the Han.",敌人并不敢伤害汉室宗亲。,MappedByPattern,,如果以弓箭射伤此人，弓箭手将遭受全中国的谴责。,龙袍加身，气吞山河。,True,True,敵人並不敢傷害漢室宗親。,MappedByPattern,,如果以弓箭射傷此人，弓箭手將受到天下的責難。,龍袍加身，氣吞山河。,hv_skill_ability_royal_blood_expertise_description
+Royal Blood,龙脉,MappedByPattern,,皇室贵胄,龙脉,False,True,皇室貴胄,MappedByPattern,,皇室貴胄,龍脈,hv_skill_ability_royal_blood_cunning_name
+"Fearing retribution, enemies hesitate to fire upon a scion of the Han.",敌人并不敢伤害汉室宗亲。,MappedByPattern,,如果以弓箭射伤此人，弓箭手将遭受全中国的谴责。,龙袍加身，气吞山河。,True,True,敵人並不敢傷害漢室宗親。,MappedByPattern,,如果以弓箭射傷此人，弓箭手將受到天下的責難。,龍袍加身，氣吞山河。,hv_skill_ability_royal_blood_cunning_description
+Royal Blood,龙脉,MappedByPattern,,皇室贵胄,龙脉,False,True,皇室貴胄,MappedByPattern,,皇室貴胄,龍脈,hv_skill_ability_royal_blood_authority_name
+"Fearing retribution, enemies hesitate to fire upon a scion of the Han.",敌人并不敢伤害汉室宗亲。,MappedByPattern,,如果以弓箭射伤此人，弓箭手将遭受全中国的谴责。,龙袍加身，气吞山河。,True,True,敵人並不敢傷害漢室宗親。,MappedByPattern,,如果以弓箭射傷此人，弓箭手將受到天下的責難。,龍袍加身，氣吞山河。,hv_skill_ability_royal_blood_authority_description
+Roar of the Beast,虎啸,Vanilla,虎啸,虎啸,虎啸,False,True,野獸咆哮,Vanilla,野獸咆哮,野獸咆哮,虎嘯,hv_skill_ability_roar_of_the_beast_instinct_name
+The fury of the victorious warrior is fearful to behold!,"常胜将军雄威盛怒,敌军闻之皆尽胆寒!",Vanilla,"常胜将军雄威盛怒,敌军闻之皆尽胆寒!","常胜将军雄威盛怒,敌军闻之皆尽胆寒!","常胜将军雄威盛怒,敌军闻之皆尽胆寒!",False,True,常勝戰士的氣焰熾熱得令人不敢直視！,Vanilla,常勝戰士的氣焰熾熱得令人不敢直視！,常勝戰士的氣焰熾熱得令人不敢直視！,"常勝將軍雄威盛怒,敵軍聞之皆盡膽寒!",hv_skill_ability_roar_of_the_beast_instinct_description
+Restore,回春,MappedByPattern,,回复,回春,False,True,回復,MappedByPattern,,回復,回春,hv_skill_ability_restore_cunning_name
+A moment's respite from battlefield to heal our troops.,从战场上喘息片刻，为我军疗伤。,MappedByPattern,,从战场上喘息片刻，为我军疗伤。,冬去春来，生机勃发。,True,True,從戰場上喘息片刻，為我軍療傷。,MappedByPattern,,從戰場上喘息片刻，為我軍療傷。,冬去春來，生機勃發。,hv_skill_ability_restore_cunning_description
+Restore,回春,MappedByPattern,,回复,回春,False,True,回復,MappedByPattern,,回復,回春,hv_skill_ability_restore_authority_name
+A moment's respite from battlefield to heal our troops.,从战场上喘息片刻，为我军疗伤。,MappedByPattern,,从战场上喘息片刻，为我军疗伤。,冬去春来，生机勃发。,True,True,從戰場上喘息片刻，為我軍療傷。,MappedByPattern,,從戰場上喘息片刻，為我軍療傷。,冬去春來，生機勃發。,hv_skill_ability_restore_authority_description
+Resolve of the Righteous,贞义,Vanilla,贞义,贞义,贞义,False,True,大義凜然,Vanilla,大義凜然,大義凜然,貞義,hv_skill_ability_resolve_of_the_righteous_expertise_name
+An outnumbered army will fight even harder. Skill trumps numbers.,以寡击众，则士卒必效死：所谓兵不在多，而在其用,Vanilla,以寡击众，则士卒必效死：所谓兵不在多，而在其用,以寡击众，则士卒必效死：所谓兵不在多，而在其用,以寡击众，则士卒必效死：所谓兵不在多，而在其用。,True,True,以寡擊眾之軍更能背水一戰。實力遠比數量重要。,Vanilla,以寡擊眾之軍更能背水一戰。實力遠比數量重要。,以寡擊眾之軍更能背水一戰。實力遠比數量重要。,以寡擊衆，則士卒必效死：所謂兵不在多，而在其用。,hv_skill_ability_resolve_of_the_righteous_expertise_description
+Resolve of the Righteous,贞义,Vanilla,贞义,贞义,贞义,False,True,大義凜然,Vanilla,大義凜然,大義凜然,貞義,hv_skill_ability_resolve_of_the_righteous_authority_name
+An outnumbered army will fight even harder. Skill trumps numbers.,以寡击众，则士卒必效死：所谓兵不在多，而在其用,Vanilla,以寡击众，则士卒必效死：所谓兵不在多，而在其用,以寡击众，则士卒必效死：所谓兵不在多，而在其用,以寡击众，则士卒必效死：所谓兵不在多，而在其用。,True,True,以寡擊眾之軍更能背水一戰。實力遠比數量重要。,Vanilla,以寡擊眾之軍更能背水一戰。實力遠比數量重要。,以寡擊眾之軍更能背水一戰。實力遠比數量重要。,以寡擊衆，則士卒必效死：所謂兵不在多，而在其用。,hv_skill_ability_resolve_of_the_righteous_authority_description
+Reign of Terror,怖惧,Vanilla,怖惧,怖惧,怖惧,False,True,恐怖統治,Vanilla,恐怖統治,恐怖統治,怖懼,hv_skill_ability_reign_of_terror_instinct_name
+The tyrant rages; his men hold through fear.,暴君震怒，属下瑟瑟发抖,Vanilla,暴君震怒，属下瑟瑟发抖,暴君震怒，属下瑟瑟发抖,暴君震怒，属下瑟瑟发抖。,True,True,暴君盛怒，部下皆心懷恐懼。,Vanilla,暴君盛怒，部下皆心懷恐懼。,暴君盛怒，部下皆心懷恐懼。,暴君震怒，屬下瑟瑟發抖。,hv_skill_ability_reign_of_terror_instinct_description
+Reckless Strike,孟浪,Vanilla,孟浪,孟浪,孟浪,False,True,蠻橫猛擊,Vanilla,蠻橫猛擊,蠻橫猛擊,孟浪,hv_skill_ability_reckless_strike_resolve_name
+"Should this blow strike true, the battle is done. Should it not, then… it may still also be done.",此乃绝死一击，若中，则战局可定；若不中……亦可定。,Vanilla,此乃绝死一击，若中，则战局可定；若不中……亦可定。,此乃绝死一击，若中，则战局可定；若不中……亦可定。,此乃绝死一击，若中，则战局可定；若不中……亦可定。,False,True,如果這一擊命中，戰鬥便會結束。如果沒有命中，那麼…戰鬥仍然可能結束。,Vanilla,如果這一擊命中，戰鬥便會結束。如果沒有命中，那麼…戰鬥仍然可能結束。,如果這一擊命中，戰鬥便會結束。如果沒有命中，那麼…戰鬥仍然可能結束。,此乃絕死一擊，若中，則戰局可定；若不中……亦可定。,hv_skill_ability_reckless_strike_resolve_description
+Reckless Strike,孟浪,Vanilla,孟浪,孟浪,孟浪,False,True,蠻橫猛擊,Vanilla,蠻橫猛擊,蠻橫猛擊,孟浪,hv_skill_ability_reckless_strike_instinct_name
+"Should this blow strike true, the battle is done. Should it not, then… it may still also be done.",此乃绝死一击，若中，则战局可定；若不中……亦可定。,Vanilla,此乃绝死一击，若中，则战局可定；若不中……亦可定。,此乃绝死一击，若中，则战局可定；若不中……亦可定。,此乃绝死一击，若中，则战局可定；若不中……亦可定。,False,True,如果這一擊命中，戰鬥便會結束。如果沒有命中，那麼…戰鬥仍然可能結束。,Vanilla,如果這一擊命中，戰鬥便會結束。如果沒有命中，那麼…戰鬥仍然可能結束。,如果這一擊命中，戰鬥便會結束。如果沒有命中，那麼…戰鬥仍然可能結束。,此乃絕死一擊，若中，則戰局可定；若不中……亦可定。,hv_skill_ability_reckless_strike_instinct_description
+Rally the Troops,重振旗鼓,MappedByPattern,重振旗鼓,重振旗鼓,重振,True,True,集結兵馬,MappedByPattern,集結兵馬,集結兵馬,重振,hv_skill_ability_rally_the_troops_cunning_name
+"This general rallies the troops to greater feats, inspiring them to make one final effort.",此将召集兵士奋勇作战，鼓励他们作最后一搏。,MappedByPattern,,此将召集兵士奋勇作战，鼓励他们作最后一搏。,此将召集兵士奋勇作战，鼓励他们作最后一搏。,False,False,此將召集兵士奮勇作戰，鼓勵他們作最後一搏。,MappedByPattern,,此將召集兵士奮勇作戰，鼓勵他們作最後一搏。,此將召集兵士奮勇作戰，鼓勵他們作最後一搏。,hv_skill_ability_rally_the_troops_cunning_description
+Rage of Lü Bu,人中吕布,Vanilla,人中吕布,人中吕布,人中吕布,False,True,呂布之怒,Vanilla,呂布之怒,呂布之怒,人中呂布,hv_skill_ability_rage_of_lu_bu_instinct_name
+"With a mighty sweep, Lü Bu strikes all around him.",画戟猛烈地横扫，打击吕布周围的所有敌人,Vanilla,画戟猛烈地横扫，打击吕布周围的所有敌人,画戟猛烈地横扫，打击吕布周围的所有敌人,画戟猛烈地横扫，打击吕布周围的所有敌人。,True,True,呂布猛力一擊，徹底掃平周遭一眾敵軍。,Vanilla,呂布猛力一擊，徹底掃平周遭一眾敵軍。,呂布猛力一擊，徹底掃平周遭一眾敵軍。,畫戟猛烈地橫掃，打擊呂布周圍的所有敵人。,hv_skill_ability_rage_of_lu_bu_instinct_description
+Quickfire,霹雳,MappedByPattern,霹雳,霹雳,霹雳,False,True,連珠砲,MappedByPattern,連珠砲,連珠砲,霹靂,hv_skill_ability_quickfire_expertise_name
+"This shooter fires and fires, faster and faster, never relenting.",此人一箭紧接一箭，一箭快过一箭。,MappedByPattern,,此弓手不断引弓放箭，越放越快，毫不留手。,一箭紧接一箭，一箭快过一箭。,True,True,此人不斷引弓放箭，越放越快，毫不留手。,MappedByPattern,,此弓手不斷引弓放箭，越放越快，毫不留手。,一箭緊接一箭，一箭快過一箭。,hv_skill_ability_quickfire_expertise_description
+Preach,布道,Vanilla,布道,布道,布道,False,True,講道,Vanilla,講道,講道,佈道,hv_skill_ability_preach_name
+These words will fortify the spirit.,斯言聚神,Vanilla,斯言聚神,斯言聚神,斯言聚神。,True,True,這樣的話語能強化心靈。,Vanilla,這樣的話語能強化心靈。,這樣的話語能強化心靈。,斯言聚神。,hv_skill_ability_preach_description
+Poisoned Blade,毒刃,Vanilla,毒刃,毒刃,毒刃,False,True,淬毒刀刃,Vanilla,淬毒刀刃,淬毒刀刃,毒刃,hv_skill_ability_poisioned_blade_resolve_name
+"The thing to fear is not the bolt itself, but the dark and toxic unguent coated across its ever-increasing tip.",敌非惧锋利，乃是怕毒厉,Vanilla,敌非惧锋利，乃是怕毒厉,敌非惧锋利，乃是怕毒厉,敌非惧锋利，乃是怕毒厉。,True,True,箭矢本身倒不可怕，令人膽寒的是上頭沾染的黑毒膏。,Vanilla,箭矢本身倒不可怕，令人膽寒的是上頭沾染的黑毒膏。,箭矢本身倒不可怕，令人膽寒的是上頭沾染的黑毒膏。,敵非懼鋒利，乃是怕毒厲。,hv_skill_ability_poisioned_blade_resolve_description
+Overwhelmming,填膺,MappedByPattern,,压倒之势,填膺,False,True,壓倒之勢,MappedByPattern,,壓倒之勢,填膺,hv_skill_ability_overwhelm_resolve_name
+A display of unstoppable fury.,展现出势不可挡的愤怒。,MappedByPattern,,展现出势不可挡的愤怒。,展现出势不可挡的愤怒。,False,False,展現出勢不可擋的憤怒。,MappedByPattern,,展現出勢不可擋的憤怒。,展現出勢不可擋的憤怒。,hv_skill_ability_overwhelm_resolve_description
+Overwhelmming,填膺,MappedByPattern,,压倒之势,填膺,False,True,壓倒之勢,MappedByPattern,,壓倒之勢,填膺,hv_skill_ability_overwhelm_instinct_name
+A display of unstoppable fury.,展现出势不可挡的愤怒。,MappedByPattern,,展现出势不可挡的愤怒。,展现出势不可挡的愤怒。,False,False,展現出勢不可擋的憤怒。,MappedByPattern,,展現出勢不可擋的憤怒。,展現出勢不可擋的憤怒。,hv_skill_ability_overwhelm_instinct_description
+Mettlesome Advance,捣穴,MappedByPattern,,突飞猛进,捣穴,False,True,突飛猛進,MappedByPattern,,突飛猛進,搗穴,hv_skill_ability_order_of_tyrant_resolve_name
+Pride and confidence go hand in hand.,傲慢即信心所在。,MappedByPattern,,傲慢即信心所在。,犁庭扫穴，无坚不摧。,True,True,傲慢即信心所在。,MappedByPattern,,傲慢即信心所在。,犁庭掃穴，無堅不摧。,hv_skill_ability_order_of_tyrant_resolve_description
+Mettlesome Advance,捣穴,MappedByPattern,,突飞猛进,捣穴,False,True,突飛猛進,MappedByPattern,,突飛猛進,搗穴,hv_skill_ability_order_of_tyrant_instinct_name
+Confidence and pride go hand in hand.,傲慢即信心所在。,MappedByPattern,,傲慢即信心所在,犁庭扫穴，无坚不摧。,True,True,傲慢即信心所在。,MappedByPattern,,傲慢即信心所在,犁庭掃穴，無堅不摧。,hv_skill_ability_order_of_tyrant_instinct_description
+Mettlesome Advance,捣穴,MappedByPattern,,突飞猛进,捣穴,False,True,突飛猛進,MappedByPattern,,突飛猛進,搗穴,hv_skill_ability_order_of_tyrant_authority_name
+Pride and confidence go hand in hand.,傲慢即信心所在。,MappedByPattern,,傲慢即信心所在。,犁庭扫穴，无坚不摧。,True,True,傲慢即信心所在。,MappedByPattern,,傲慢即信心所在。,犁庭掃穴，無堅不摧。,hv_skill_ability_order_of_tyrant_authority_description
+One with the People,人遁,Vanilla,人遁,人遁,人遁,False,True,與人合一,Vanilla,與人合一,與人合一,人遁,hv_skill_ability_one_with_the_people_name
+Knowledge that your comrades will never abandon you brings tremendous comfort.,兄弟不弃，可谓安心,Vanilla,兄弟不弃，可谓安心,兄弟不弃，可谓安心,兄弟不弃，可谓安心。,True,True,知道同胞絕不會捨自己而去，能讓人大感安心。,Vanilla,知道同胞絕不會捨自己而去，能讓人大感安心。,知道同胞絕不會捨自己而去，能讓人大感安心。,兄弟不棄，可謂安心。,hv_skill_ability_one_with_the_people_description
+One with the Land,地遁,Vanilla,地遁,地遁,地遁,False,True,與地合一,Vanilla,與地合一,與地合一,地遁,hv_skill_ability_one_with_the_land_name
+Generations working the land will breed a kinship with it.,劳于地者必亲之,Vanilla,劳于地者必亲之,劳于地者必亲之,劳于地者必亲之。,True,True,世世代代在土地上生息能使人培養出與土地的密切情誼。,Vanilla,世世代代在土地上生息能使人培養出與土地的密切情誼。,世世代代在土地上生息能使人培養出與土地的密切情誼。,勞於地者必親之。,hv_skill_ability_one_with_the_land_description
+One with Heaven,天遁,Vanilla,天遁,天遁,天遁,False,True,與天合一,Vanilla,與天合一,與天合一,天遁,hv_skill_ability_one_with_heaven_name
+Look up and you will see the sky; look inward and you will see heaven.,上观则为天，深察则为妙,Vanilla,上观则为天，深察则为妙,上观则为天，深察则为妙,上观则为天，深察则为妙。,True,True,往頭上看，看到的是天空，往心裡看，看到的便是黃天。,Vanilla,往頭上看，看到的是天空，往心裡看，看到的便是黃天。,往頭上看，看到的是天空，往心裡看，看到的便是黃天。,上觀則爲天，深察則爲妙。,hv_skill_ability_one_with_heaven_description
+Oil Pot,油罐,MappedByPattern,,油罐,油罐,False,False,油罐,MappedByPattern,,油罐,油罐,hv_skill_ability_oil_bomb_cunning_name
+Throw a sticky pot of oil onto the enemy.,扔掷易燃油罐至目标敌人。,Procrastinator,,扔掷黏糊糊油罐至目标敌人。,扔掷易燃油罐至目标敌人。,False,False,扔擲易燃油罐至目標敵人。,Procrastinator,,扔擲黏糊糊油罐至目標敵人。,扔擲易燃油罐至目標敵人。,hv_skill_ability_oil_bomb_cunning_description
+Nature's Ally,天侣,Vanilla,天侣,天侣,天侣,False,True,自然之友,Vanilla,自然之友,自然之友,天侶,hv_skill_ability_nature_s_ally_resolve_name
+"The forest provides a path, and surer footing, for the respectful. ",敬爱山林，林即如家，山是前路。 ,Vanilla,敬爱山林，林即如家，山是前路。 ,敬爱山林，林即如家，山是前路。 ,敬爱山林，山亦敬之，穿林如行路。,True,True,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。 ,Vanilla,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。 ,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。 ,敬愛山林，山亦敬之，穿林如行路。,hv_skill_ability_nature_s_ally_resolve_description
+Nature's Ally,天侣,Vanilla,天侣,天侣,天侣,False,True,自然之友,Vanilla,自然之友,自然之友,天侶,hv_skill_ability_nature_s_ally_cunning_name
+"The forest provides a path, and surer footing, for the respectful. ",敬爱山林，林即如家，山是前路。 ,Vanilla,敬爱山林，林即如家，山是前路。 ,敬爱山林，林即如家，山是前路。 ,敬爱山林，山亦敬之，穿林如行路。,True,True,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。 ,Vanilla,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。 ,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。 ,敬愛山林，山亦敬之，穿林如行路。,hv_skill_ability_nature_s_ally_cunning_description
+Nature's Ally,天侣,Vanilla,天侣,天侣,天侣,False,True,自然之友,Vanilla,自然之友,自然之友,天侶,hv_skill_ability_nature_s_ally_authority_name
+"The forest provides a path, and surer footing, for the respectful.",敬爱山林，山亦敬之，穿林如行路。,Procrastinator,,森林为懂得尊重的人提供了通行路径和更稳固的立足之地。,敬爱山林，山亦敬之，穿林如行路。,False,False,敬愛山林，山亦敬之，穿林如行路。,Procrastinator,,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。 ,敬愛山林，山亦敬之，穿林如行路。,hv_skill_ability_nature_s_ally_authority_description
+Mortal Strike,致命一击,MappedByPattern,,致命一击,浴血,True,True,致命一擊,MappedByPattern,,致命一擊,浴血,hv_skill_ability_mortal_strike_instinct_name
+Delivers a very powerful blow.,可发出非常有力的一击。,MappedByPattern,,可发出非常有力的一击。,浴血奋战，雷霆万钧。,True,True,可發出非常有力的一擊。,MappedByPattern,,可發出非常有力的一擊。,浴血奮戰，雷霆萬鈞。,hv_skill_ability_mortal_strike_instinct_description
+Mortal Strike,致命一击,MappedByPattern,,致命一击,浴血,True,True,致命一擊,MappedByPattern,,致命一擊,浴血,hv_skill_ability_mortal_strike_expertise_name
+Delivers a very powerful blow.,可发出非常有力的一击。,MappedByPattern,,可发出非常有力的一击。,浴血奋战，雷霆万钧。,True,True,可發出非常有力的一擊。,MappedByPattern,,可發出非常有力的一擊。,浴血奮戰，雷霆萬鈞。,hv_skill_ability_mortal_strike_expertise_description
+Mortal Strike,致命一击,MappedByPattern,,致命一击,浴血,True,True,致命一擊,MappedByPattern,,致命一擊,浴血,hv_skill_ability_mortal_strike_authority_name
+Delivers a very powerful blow.,可发出非常有力的一击。,MappedByPattern,,可发出非常有力的一击。,浴血奋战，雷霆万钧。,True,True,可發出非常有力的一擊。,MappedByPattern,,可發出非常有力的一擊。,浴血奮戰，雷霆萬鈞。,hv_skill_ability_mortal_strike_authority_description
+Mock,雄辩,MappedByPattern,雄辩,雄辩,雄辩,False,True,嘲諷,MappedByPattern,嘲諷,嘲諷,雄辯,hv_skill_ability_mock_expertise_name
+"This hero accosts the enemy hero, shaking them to the core.",此英雄面对敌将，一番滔滔雄辩，令其心智动摇。,MappedByPattern,,此英雄向敌将大胆喊话，令对方心神动摇。,面对敌将，一番滔滔雄辩，令其心智动摇。,True,True,此英雄向敵將大膽喊話，令對方心神動搖。,MappedByPattern,,此英雄向敵將大膽喊話，令對方心神動搖。,面對敵將，一番滔滔雄辯，令其心智動搖。,hv_skill_ability_mock_expertise_description
+Mock,雄辩,MappedByPattern,雄辩,雄辩,雄辩,False,True,嘲諷,MappedByPattern,嘲諷,嘲諷,雄辯,hv_skill_ability_mock_cunning_name
+"This hero accosts the enemy hero, shaking them to the core.",此英雄面对敌将，一番滔滔雄辩，令其心智动摇。,MappedByPattern,,此英雄向敌将大胆喊话，令对方心神动摇。,面对敌将，一番滔滔雄辩，令其心智动摇。,True,True,此英雄向敵將大膽喊話，令對方心神動搖。,MappedByPattern,,此英雄向敵將大膽喊話，令對方心神動搖。,面對敵將，一番滔滔雄辯，令其心智動搖。,hv_skill_ability_mock_cunning_description
+Mock,雄辩,MappedByPattern,雄辩,雄辩,雄辩,False,True,嘲諷,MappedByPattern,嘲諷,嘲諷,雄辯,hv_skill_ability_mock_authority_name
+"This hero accosts the enemy hero, shaking them to the core.",此英雄面对敌将，一番滔滔雄辩，令其心智动摇。,MappedByPattern,,此英雄向敌将大胆喊话，令对方心神动摇。,面对敌将，一番滔滔雄辩，令其心智动摇。,True,True,此英雄向敵將大膽喊話，令對方心神動搖。,MappedByPattern,,此英雄向敵將大膽喊話，令對方心神動搖。,面對敵將，一番滔滔雄辯，令其心智動搖。,hv_skill_ability_mock_authority_description
+Mighty Thrust,披靡,MappedByPattern,披靡,披靡,披靡,False,True,強勁衝鋒,MappedByPattern,強勁衝鋒,強勁衝鋒,披靡,hv_skill_ability_mighty_thrust_instinct_name
+"With a shout, this man spurs on their horse. The warrior can plough into enemies with such force that scores of men go flying.",此人大吼一声，纵马冲入敌阵，犹如一把利刃，杀得敌人血肉横飞。,MappedByPattern,,此人高呼一声，策马飞奔。他冲入敌阵的劲道之强，足以将大批士兵一举震飞。,此人高呼一声，策马飞奔。他冲入敌阵的劲道之强，足以将大批士兵一举震飞。,True,False,此人高呼一聲，策馬飛奔。他衝入敵陣的勁道之強，足以將大批士兵一舉震飛。,MappedByPattern,,此人高呼一聲，策馬飛奔。他衝入敵陣的勁道之強，足以將大批士兵一舉震飛。,此人高呼一聲，策馬飛奔。他衝入敵陣的勁道之強，足以將大批士兵一舉震飛。,hv_skill_ability_mighty_thrust_instinct_description
+Mark Target,丛矢,MappedByPattern,,,,True,True,瞄定,MappedByPattern,,,,hv_skill_ability_mark_target_scholar_name
+Choose the targets to focus fire.,选定目标集中射击。,MappedByPattern,,,,True,True,選定目標集中射擊。,MappedByPattern,,,,hv_skill_ability_mark_target_scholar_description
+Mark Target,丛矢,MappedByPattern,,,,True,True,瞄定,MappedByPattern,,,,hv_skill_ability_mark_target_resolve_name
+Choose the targets to focus fire.,选定目标集中射击。,MappedByPattern,,,,True,True,選定目標集中射擊。,MappedByPattern,,,,hv_skill_ability_mark_target_resolve_description
+Mark Target,丛矢,MappedByPattern,,瞄定,丛矢,False,True,瞄定,MappedByPattern,,瞄定,叢矢,hv_skill_ability_mark_target_expertise_name
+Choose the targets to focus fire.,选定目标集中射击。,MappedByPattern,,选定目标集中射击。,目标只有一个。,True,True,選定目標集中射擊。,MappedByPattern,,選定目標集中射擊。,目標只有一個。,hv_skill_ability_mark_target_expertise_description
+Mark Target,丛矢,MappedByPattern,,瞄定,丛矢,False,True,瞄定,MappedByPattern,,瞄定,叢矢,hv_skill_ability_mark_target_cunning_name
+Choose the targets to focus fire.,选定目标集中射击。,MappedByPattern,,选定目标集中射击。,目标只有一个。,True,True,選定目標集中射擊。,MappedByPattern,,選定目標集中射擊。,目標只有一個。,hv_skill_ability_mark_target_cunning_description
+Mark Target,丛矢,MappedByPattern,,瞄定,丛矢,False,True,瞄定,MappedByPattern,,瞄定,叢矢,hv_skill_ability_mark_target_authority_name
+Choose the targets to focus fire.,选定目标集中射击。,MappedByPattern,,选定目标集中射击。,目标只有一个。,True,True,選定目標集中射擊。,MappedByPattern,,選定目標集中射擊。,目標只有一個。,hv_skill_ability_mark_target_authority_description
+Knowledge of the Spirit,神识,Vanilla,神识,神识,神识,False,True,靈之識見,Vanilla,靈之識見,靈之識見,神識,hv_skill_ability_knowledge_of_the_spirit_name
+"True strength lies not in the mind or body, but within the spirit.",不在身心，而在其神,Vanilla,不在身心，而在其神,不在身心，而在其神,不在身心，而在其神。,True,True,真正的力量不在身體也不在心思，而是在靈魂中。,Vanilla,真正的力量不在身體也不在心思，而是在靈魂中。,真正的力量不在身體也不在心思，而是在靈魂中。,不在身心，而在其神。,hv_skill_ability_knowledge_of_the_spirit_description
+Knowledge of the Mind,心识,Vanilla,心识,心识,心识,False,True,心之識見,Vanilla,心之識見,心之識見,心識,hv_skill_ability_knowledge_of_the_mind_name
+If you can conquer the mind of the enemy then half the battle is won.,用兵之道，攻心为上,Vanilla,用兵之道，攻心为上,用兵之道，攻心为上,用兵之道，攻心为上。,True,True,若能征服敵軍的軍心，戰鬥便贏了一半。,Vanilla,若能征服敵軍的軍心，戰鬥便贏了一半。,若能征服敵軍的軍心，戰鬥便贏了一半。,用兵之道，攻心爲上。,hv_skill_ability_knowledge_of_the_mind_description
+Knowledge of the Body,体识,Vanilla,体识,体识,体识,False,True,身之識見,Vanilla,身之識見,身之識見,體識,hv_skill_ability_knowledge_of_the_body_name
+"Sometimes it's not what you hit or how hard, but where.",力不在大，而在于准,Vanilla,力不在大，而在于准,力不在大，而在于准,力不在大，而在于准。,True,True,有時重點不在打中了什麼、打得多用力，而是打在哪裡。,Vanilla,有時重點不在打中了什麼、打得多用力，而是打在哪裡。,有時重點不在打中了什麼、打得多用力，而是打在哪裡。,力不在大，而在於準。,hv_skill_ability_knowledge_of_the_body_description
+Kingmaker,王佐,MappedByPattern,,王佐,王佐,False,False,王佐,MappedByPattern,,王佐,王佐,hv_skill_ability_kingmaker_cunning_name
+Xun Yu has the power to influence the emperor. No one doubts his reputation.,「吾之子房也。」,Procrastinator,,荀彧是位有能辅佐帝王之士，没有人会怀疑这一点。,「吾之子房也。」,False,False,「吾之子房也。」,Procrastinator,,荀彧是位有能輔佐帝王之士，沒有人會懷疑這一點。,「吾之子房也。」,hv_skill_ability_kingmaker_cunning_description
+Judgement,慎断,MappedByPattern,慎断,慎断,慎断,False,True,明察秋毫,MappedByPattern,明察秋毫,明察秋毫,慎斷,hv_skill_ability_judgement_name
+Do not let emotion cloud your acuity.,不可令情绪掩盖你的眼界。,MappedByPattern,不可令情绪掩盖你的眼界,不可令情绪掩盖你的眼界,不可令情绪掩盖你的眼界。,False,True,莫讓情緒蒙蔽心靈的敏銳。,MappedByPattern,莫讓情緒蒙蔽心靈的敏銳。,莫讓情緒蒙蔽心靈的敏銳。,不可令情緒掩蓋你的眼界。,hv_skill_ability_judgement_description
+Inward Focus,内凝,Vanilla,内凝,内凝,内凝,False,True,專注內在,Vanilla,專注內在,專注內政,內凝,hv_skill_ability_inward_focus_expertise_name
+A focus on form allows one to evade and manoeuvre.,专注于形则可避敌锋芒,Vanilla,专注于形则可避敌锋芒,专注于形则可避敌锋芒,专注于形则可避敌锋芒。,True,True,專注於身形，便能夠閃躲挪騰。,Vanilla,專注於身形，便能夠閃躲挪騰。,專注於身形，便能夠閃躲挪騰。,專注於形則可避敵鋒芒。,hv_skill_ability_inward_focus_expertise_description
+Into the Breach,突围,Vanilla,突围,突围,背水,True,True,乘隙而入,Vanilla,乘隙而入,乘隙而入,背水,hv_skill_ability_into_the_breach_resolve_name
+"A charge, fuelled by stern hearts and sterner blades, will rip enemy lines apart.",坚定之心，锋利宝刃，足以撕破敌阵,Vanilla,坚定之心，锋利宝刃，足以撕破敌阵,坚定之心，锋利宝刃，足以撕破敌阵,坚定之心，锐利宝刃，足矣！,True,True,以堅定的心智和強硬的刀刃發起衝鋒，便能一舉撕裂敵陣。,Vanilla,以堅定的心智和強硬的刀刃發起衝鋒，便能一舉撕裂敵陣。,以堅定的心智和強硬的刀刃發起衝鋒，便能一舉撕裂敵陣。,堅定之心，銳利寶刃，足矣！,hv_skill_ability_into_the_breach_resolve_description
+Into the Breach,突围,Vanilla,突围,突围,背水,True,True,乘隙而入,Vanilla,乘隙而入,乘隙而入,背水,hv_skill_ability_into_the_breach_instinct_name
+"A charge, fuelled by stern hearts and sterner blades, will rip enemy lines apart.",坚定之心，锋利宝刃，足以撕破敌阵,Vanilla,坚定之心，锋利宝刃，足以撕破敌阵,坚定之心，锋利宝刃，足以撕破敌阵,坚定之心，锐利宝刃，足矣！,True,True,以堅定的心智和強硬的刀刃發起衝鋒，便能一舉撕裂敵陣。,Vanilla,以堅定的心智和強硬的刀刃發起衝鋒，便能一舉撕裂敵陣。,以堅定的心智和強硬的刀刃發起衝鋒，便能一舉撕裂敵陣。,堅定之心，銳利寶刃，足矣！,hv_skill_ability_into_the_breach_instinct_description
+Internal Blaze,心火,Vanilla,心火,心火,心火,False,True,心中烈火,Vanilla,心中烈火,心中烈火,心火,hv_skill_ability_internal_blaze_instinct_name
+Ma Chao's internal strife manifests in bursts of rage; uncontrollable charges at the enemy!,心火燎原不能自已，马超化怨作勇悍而冲锋！,Vanilla,心火燎原不能自已，马超化怨作勇悍而冲锋！,心火燎原不能自已，马超化怨作勇悍而冲锋！,心火燎原不能自已，马超化怨作勇悍而冲锋！,False,True,馬超心中的不滿化作爆發的狂怒，抑制不住地直往敵人轟去！,Vanilla,馬超心中的不滿化作爆發的狂怒，抑制不住地直往敵人轟去！,馬超心中的不滿化作爆發的狂怒，抑制不住地直往敵人轟去！,心火燎原不能自已，馬超化怨作勇悍而衝鋒！,hv_skill_ability_internal_blaze_instinct_description
+Inspiring Words,鼓舞,Vanilla,鼓舞,鼓舞,鼓舞,False,True,慷慨陳詞,Vanilla,慷慨陳詞,慷慨陳詞,鼓舞,hv_skill_ability_inspiring_words_authority_name
+Liu Bei's words drive his men to greatness!,刘备的话语可以促使麾下将士拼死效命,Vanilla,刘备的话语可以促使麾下将士拼死效命,刘备的话语可以促使麾下将士拼死效命,刘备的话语可以促使麾下将士拼死效命。,True,True,劉備的激昂言辭引領他的部下共創偉業！,Vanilla,劉備的激昂言辭引領他的部下共創偉業！,劉備的激昂言辭引領他的部下共創偉業！,劉備的話語可以促使麾下將士拼死效命。,hv_skill_ability_inspiring_words_authority_description
+Frontline Observation,鹰视,MappedByPattern,,前线查探,鹰视,False,True,前線查探,MappedByPattern,,前線查探,鷹視,hv_skill_ability_inspection_resolve_name
+A look at the battlefield with remarkable insight.,以非凡的观察力纵观战场。,MappedByPattern,,以非凡的观察力纵观战场。,以非凡的观察力纵观战场。,False,False,以非凡的觀察力縱觀戰場。,MappedByPattern,,以非凡的觀察力縱觀戰場。,以非凡的觀察力縱觀戰場。,hv_skill_ability_inspection_resolve_description
+Frontline Observation,鹰视,MappedByPattern,,前线查探,鹰视,False,True,前線查探,MappedByPattern,,前線查探,鷹視,hv_skill_ability_inspection_healer_name
+A look at the battlefield with remarkable insight.,以非凡的观察力纵观战场。,MappedByPattern,,以非凡的观察力纵观战场。,以非凡的观察力纵观战场。,False,False,以非凡的觀察力縱觀戰場。,MappedByPattern,,以非凡的觀察力縱觀戰場。,以非凡的觀察力縱觀戰場。,hv_skill_ability_inspection_healer_description
+Frontline Observation,鹰视,MappedByPattern,,前线查探,鹰视,False,True,前線查探,MappedByPattern,,前線查探,鷹視,hv_skill_ability_inspection_cunning_name
+A look at the battlefield with remarkable insight.,以非凡的观察力纵观战场。,MappedByPattern,,以非凡的观察力纵观战场。,以非凡的观察力纵观战场。,False,False,以非凡的觀察力縱觀戰場。,MappedByPattern,,以非凡的觀察力縱觀戰場。,以非凡的觀察力縱觀戰場。,hv_skill_ability_inspection_cunning_description
+Frontline Observation,鹰视,MappedByPattern,,前线查探,鹰视,False,True,前線查探,MappedByPattern,,前線查探,鷹視,hv_skill_ability_inspection_authority_name
+A close observation of the battlefield can bring remarkable insights.,以非凡的观察力纵观战场。,MappedByPattern,,以非凡的观察力纵观战场。,以非凡的观察力纵观战场。,False,False,以非凡的觀察力縱觀戰場。,MappedByPattern,,以非凡的觀察力縱觀戰場。,以非凡的觀察力縱觀戰場。,hv_skill_ability_inspection_authority_description
+Inner Vitality,内力,MappedByPattern,,内在活力,内力,False,True,内在活力,MappedByPattern,,内在活力,內力,hv_skill_ability_inner_vitality_resolve_name
+A warrior who feels truly alive in battle.,以战为生的勇士。,MappedByPattern,,以战为生的勇士。,以战为生的勇士。,False,False,以戰爲生的勇士。,MappedByPattern,,以戰爲生的勇士。,以戰爲生的勇士。,hv_skill_ability_inner_vitality_resolve_description
+Inner Fire,炽心,Vanilla,炽心,炽心,炽心,False,True,心中真火,Vanilla,心中真火,心中真火,熾心,hv_skill_ability_inner_fire_name
+A lifetime spent learning the ways of heaven will turn thoughts into belief.,长解天道则称信。,Vanilla,长解天道则称信。,长解天道则称信。,长解天道则称信。,False,True,畢生學習天道，便能將想法化為信念。,Vanilla,畢生學習天道，便能將想法化為信念。,畢生學習天道，便能將想法化為信念。,長解天道則稱信。,hv_skill_ability_inner_fire_description
+Indomitable Warrior,无畏,MappedByPattern,,无畏之士,无畏,False,True,無畏之士,MappedByPattern,,無畏之士,無畏,hv_skill_ability_indomitable_warrior_resolve_name
+This man has learnt to overcome defeat.,屡败屡战，无所畏惧。,MappedByPattern,,此人屡败屡战。,屡败屡战，无所畏惧。,False,False,屢敗屢戰，無所畏懼。,MappedByPattern,,此人屢敗屢戰。,屢敗屢戰，無所畏懼。,hv_skill_ability_indomitable_warrior_resolve_description
+Indomitable Warrior,无畏,MappedByPattern,,无畏之士,无畏,False,True,無畏之士,MappedByPattern,,無畏之士,無畏,hv_skill_ability_indomitable_warrior_instinct_name
+This man has learnt to overcome defeat.,屡败屡战，无所畏惧。,MappedByPattern,,此人屡败屡战。,屡败屡战，无所畏惧。,False,False,屢敗屢戰，無所畏懼。,MappedByPattern,,此人屢敗屢戰。,屢敗屢戰，無所畏懼。,hv_skill_ability_indomitable_warrior_instinct_description
+Impetuous Charge,横冲,Vanilla,横冲,横冲,横冲,False,True,狂暴衝鋒,Vanilla,狂暴衝鋒,狂暴衝鋒,橫衝,hv_skill_ability_impetuous_charge_instinct_name
+"A reckless charge, inspiring but exhausting!",勇莽冲锋可奋三军，却也颇费精力！,Vanilla,勇莽冲锋可奋三军，却也颇费精力！,勇莽冲锋可奋三军，却也颇费精力！,勇莽冲锋可奋三军，却也颇费精力！,False,True,悍然衝鋒，令人激賞，但也消耗氣力！,Vanilla,悍然衝鋒，令人激賞，但也消耗氣力！,悍然衝鋒，令人激賞，但也消耗氣力！,勇莽衝鋒可奮三軍，卻也頗費精力！,hv_skill_ability_impetuous_charge_instinct_description
+Impetuous Charge,横冲,Vanilla,横冲,横冲,横冲,False,True,狂暴衝鋒,Vanilla,狂暴衝鋒,狂暴衝鋒,橫衝,hv_skill_ability_impetuous_charge_expertise_name
+"A reckless charge, inspiring but exhausting!",勇莽冲锋可奋三军，却也颇费精力！,Vanilla,勇莽冲锋可奋三军，却也颇费精力！,勇莽冲锋可奋三军，却也颇费精力！,勇莽冲锋可奋三军，却也颇费精力！,False,True,悍然衝鋒，令人激賞，但也消耗氣力！,Vanilla,悍然衝鋒，令人激賞，但也消耗氣力！,悍然衝鋒，令人激賞，但也消耗氣力！,勇莽衝鋒可奮三軍，卻也頗費精力！,hv_skill_ability_impetuous_charge_expertise_description
+Impetuous Charge,横冲,Vanilla,横冲,横冲,横冲,False,True,狂暴衝鋒,Vanilla,狂暴衝鋒,狂暴衝鋒,橫衝,hv_skill_ability_impetuous_charge_authority_name
+"A reckless charge, inspiring but exhausting!",勇莽冲锋可奋三军，却也颇费精力！,Vanilla,勇莽冲锋可奋三军，却也颇费精力！,勇莽冲锋可奋三军，却也颇费精力！,勇莽冲锋可奋三军，却也颇费精力！,False,True,悍然衝鋒，令人激賞，但也消耗氣力！,Vanilla,悍然衝鋒，令人激賞，但也消耗氣力！,悍然衝鋒，令人激賞，但也消耗氣力！,勇莽衝鋒可奮三軍，卻也頗費精力！,hv_skill_ability_impetuous_charge_authority_description
+Imperious Presence,跋扈,Vanilla,跋扈,霸气逼人,跋扈,False,True,霸氣逼人,Vanilla,霸氣逼人,霸氣逼人,跋扈,hv_skill_ability_imperious_presence_authority_name
+Cao Cao's ordered mind encourages his forces to more efficient action!,曹操的威势会激励周围所有部队，从而增强其战斗效率,Vanilla,曹操的威势会激励周围所有部队，从而增强其战斗效率,曹操的威势会激励周围所有部队，从而增强其战斗效率,曹操的威势会激励周围所有部队，从而增强其战斗效率。,True,True,曹操的聰明睿智能使他的部隊行動更有效率！,Vanilla,曹操的聰明睿智能使他的部隊行動更有效率！,曹操的聰明睿智能使他的部隊行動更有效率！,曹操的威勢會激勵周圍所有部隊，從而增強其戰鬥效率。,hv_skill_ability_imperious_presence_authority_description
+Impenetrable Redoubt,毅重,MappedByPattern,毅重,毅重,毅重,False,True,堅韌堡壘,MappedByPattern,堅韌堡壘,堅韌堡壘,毅重,hv_skill_ability_impenetrable_redoubt_expertise_name
+"This general is as an immovable wall, inspiring his men to stand firm against much greater odds.",此将有如一道铜墙铁壁，鼓舞着麾下兵士在逆境中不动如山。,MappedByPattern,,此将有如一堵难以撼动的墙，激励麾下兵士坚守阵线排除万难。,此将有如一堵难以撼动的墙，激励麾下兵士坚守阵线排除万难。,True,False,此將有如一堵難以撼動的牆，激勵麾下兵士堅守陣線排除萬難。,MappedByPattern,,此將有如一堵難以撼動的牆，激勵麾下兵士堅守陣線排除萬難。,此將有如一堵難以撼動的牆，激勵麾下兵士堅守陣線排除萬難。,hv_skill_ability_impenetrable_redoubt_expertise_description
+Impenetrable Redoubt,毅重,MappedByPattern,毅重,毅重,毅重,False,True,堅韌堡壘,MappedByPattern,堅韌堡壘,堅韌堡壘,毅重,hv_skill_ability_impenetrable_redoubt_authority_name
+"This general is as an immovable wall, inspiring his men to stand firm against much greater odds.",此将有如一道铜墙铁壁，鼓舞着麾下兵士在逆境中不动如山。,MappedByPattern,,此将有如一堵难以撼动的墙，激励麾下兵士坚守阵线排除万难。,此将有如一堵难以撼动的墙，激励麾下兵士坚守阵线排除万难。,True,False,此將有如一堵難以撼動的牆，激勵麾下兵士堅守陣線排除萬難。,MappedByPattern,,此將有如一堵難以撼動的牆，激勵麾下兵士堅守陣線排除萬難。,此將有如一堵難以撼動的牆，激勵麾下兵士堅守陣線排除萬難。,hv_skill_ability_impenetrable_redoubt_authority_description
+Poison-wind,剧毒,MappedByPattern,,毒风,剧毒,False,True,毒風,MappedByPattern,,毒風,劇毒,hv_skill_ability_hero_poisonwind_shot_cunning_name
+A special arrow containing a toxic substance.,含有有毒物质的特殊箭头。,MappedByPattern,,含有有毒物质的特殊箭头。,含有有毒物质的特殊箭头。,False,False,含有有毒物質的特殊箭頭。,MappedByPattern,,含有有毒物質的特殊箭頭。,含有有毒物質的特殊箭頭。,hv_skill_ability_hero_poisonwind_shot_cunning_description
+Heavenly Presence,威临,MappedByPattern,威临,威临,威临,False,True,天人親臨,MappedByPattern,天人親臨,天人親臨,威臨,hv_skill_ability_heavenly_presence_authority_name
+"This warrior's presence on the battlefield can give hope to his men, even in the most dire of situations.",局势危急之际，此人拍马杀到，为手下带来希望。,MappedByPattern,,纵使情势极为严峻，此人现身战场上仍能为麾下兵士带来希望。,纵使情势极为严峻，此人现身战场上仍能为麾下兵士带来希望。,True,True,縱使情勢極為嚴峻，此人現身戰場上仍能為麾下兵士帶來希望。,MappedByPattern,,縱使情勢極為嚴峻，此人現身戰場上仍能為麾下兵士帶來希望。,縱使情勢極爲嚴峻，此人現身戰場上仍能爲麾下兵士帶來希望。,hv_skill_ability_heavenly_presence_authority_description
+Heavenly Grace,天人之姿,MappedByPattern,天人之姿,天人之姿,天人之姿,False,True,天仙氣質,MappedByPattern,天仙氣質,天仙氣質,天人之姿,hv_skill_ability_heavenly_grace_cunning_name
+"Using her graceful beauty, she stuns all those around her.",她运用美色，迷得周围所有人动弹不得。,MappedByPattern,,她运用美色，迷得周围所有人动弹不得。,她运用美色，迷得周围所有人动弹不得。,False,False,她運用美色，迷得周圍所有人動彈不得。,MappedByPattern,,她運用美色，迷得周圍所有人動彈不得。,她運用美色，迷得周圍所有人動彈不得。,hv_skill_ability_heavenly_grace_cunning_description
+Heavenly Grace,天人之姿,MappedByPattern,天人之姿,天人之姿,天人之姿,False,True,天仙氣質,MappedByPattern,天仙氣質,天仙氣質,天人之姿,hv_skill_ability_heavenly_grace_authority_name
+"With her graceful beauty, she stuns all around her.",她运用美色，迷得周围所有人动弹不得。,MappedByPattern,,她运用美色，迷得周围所有人动弹不得。,她运用美色，迷得周围所有人动弹不得。,False,False,她運用美色，迷得周圍所有人動彈不得。,MappedByPattern,,她運用美色，迷得周圍所有人動彈不得。,她運用美色，迷得周圍所有人動彈不得。,hv_skill_ability_heavenly_grace_authority_description
+Heart Seeker,觅心,Vanilla,觅心,觅心,觅心,False,True,一箭穿心,Vanilla,一箭穿心,一箭穿心,覓心,hv_skill_ability_heart_seeker_instinct_name
+"With a single shot, The shooter brings death.",百步穿杨，一击便可致敌于死地。,MappedByPattern,,此射手只消一击便能取人性命。,百步穿杨，一击便可致敌于死地。,False,False,百步穿楊，一擊便可致敵於死地。,MappedByPattern,,此射手只消一擊便能取人性命。,百步穿楊，一擊便可致敵於死地。,hv_skill_ability_heart_seeker_instinct_description
+Hamstring,断筋,Vanilla,断筋,断筋,断筋,False,True,削斷腿筋,Vanilla,削斷腿筋,削斷腿筋,斷筋,hv_skill_ability_hamstring_veteran_name
+A carefully-placed strike hobbles the unlucky enemy.,精心出突袭，使敌步蹒跚,Vanilla,精心出突袭，使敌步蹒跚,精心出突袭，使敌步蹒跚,精心出突袭，使敌步蹒跚。,True,True,精心策劃的襲擊，讓不幸的敵人措手不及。,Vanilla,精心策劃的襲擊，讓不幸的敵人措手不及。,精心策劃的襲擊，讓不幸的敵人措手不及。,精心出突襲，使敵步蹣跚。,hv_skill_ability_hamstring_veteran_description
+Hamstring,断筋,Vanilla,断筋,断筋,断筋,False,True,削斷腿筋,Vanilla,削斷腿筋,削斷腿筋,斷筋,hv_skill_ability_hamstring_resolve_name
+A carefully-placed strike hobbles the unlucky enemy.,精心出突袭，使敌步蹒跚,Vanilla,精心出突袭，使敌步蹒跚,精心出突袭，使敌步蹒跚,精心出突袭，使敌步蹒跚。,True,True,精心策劃的襲擊，讓不幸的敵人措手不及。,Vanilla,精心策劃的襲擊，讓不幸的敵人措手不及。,精心策劃的襲擊，讓不幸的敵人措手不及。,精心出突襲，使敵步蹣跚。,hv_skill_ability_hamstring_resolve_description
+Hamstring,断筋,Vanilla,断筋,断筋,断筋,False,True,削斷腿筋,Vanilla,削斷腿筋,削斷腿筋,斷筋,hv_skill_ability_hamstring_instinct_name
+A carefully-placed strike hobbles the unlucky enemy.,精心出突袭，使敌步蹒跚,Vanilla,精心出突袭，使敌步蹒跚,精心出突袭，使敌步蹒跚,精心出突袭，使敌步蹒跚。,True,True,精心策劃的襲擊，讓不幸的敵人措手不及。,Vanilla,精心策劃的襲擊，讓不幸的敵人措手不及。,精心策劃的襲擊，讓不幸的敵人措手不及。,精心出突襲，使敵步蹣跚。,hv_skill_ability_hamstring_instinct_description
+Hamstring,断筋,Vanilla,断筋,断筋,断筋,False,True,削斷腿筋,Vanilla,削斷腿筋,削斷腿筋,斷筋,hv_skill_ability_hamstring_expertise_name
+A carefully-placed strike hobbles the unlucky enemy.,精心出突袭，使敌步蹒跚,Vanilla,精心出突袭，使敌步蹒跚,精心出突袭，使敌步蹒跚,精心出突袭，使敌步蹒跚。,True,True,精心策劃的襲擊，讓不幸的敵人措手不及。,Vanilla,精心策劃的襲擊，讓不幸的敵人措手不及。,精心策劃的襲擊，讓不幸的敵人措手不及。,精心出突襲，使敵步蹣跚。,hv_skill_ability_hamstring_expertise_description
+Disturb,搅扰,MappedByPattern,,,,True,True,攪擾,MappedByPattern,,,,hv_skill_ability_hamper_veteran_name
+Distracts the focus of enemy ranged troops.,分散敌军远程部队的注意力。,MappedByPattern,,,,True,True,分散敵軍遠程部隊的注意力。,MappedByPattern,,,,hv_skill_ability_hamper_veteran_description
+Disturb,搅扰,MappedByPattern,,搅扰,搅扰,False,False,攪擾,MappedByPattern,,攪擾,攪擾,hv_skill_ability_hamper_expertise_name
+Distracts the focus of enemy ranged troops.,分散敌军远程部队的注意力。,MappedByPattern,,分散敌军远程部队的注意力。,分散敌军远程部队的注意力。,False,False,分散敵軍遠程部隊的注意力。,MappedByPattern,,分散敵軍遠程部隊的注意力。,分散敵軍遠程部隊的注意力。,hv_skill_ability_hamper_expertise_description
+Disturb,搅扰,MappedByPattern,,搅扰,搅扰,False,False,攪擾,MappedByPattern,,攪擾,攪擾,hv_skill_ability_hamper_cunning_name
+Distracts the focus of enemy ranged troops.,分散敌军远程部队的注意力。,MappedByPattern,,分散敌军远程部队的注意力。,分散敌军远程部队的注意力。,False,False,分散敵軍遠程部隊的注意力。,MappedByPattern,,分散敵軍遠程部隊的注意力。,分散敵軍遠程部隊的注意力。,hv_skill_ability_hamper_cunning_description
+Hail of Arrows,箭雨,Vanilla,箭雨,箭雨,箭雨,False,True,箭如雨下,Vanilla,箭如雨下,箭如雨下,箭雨,hv_skill_ability_hail_of_arrows_scholar_name
+A flurry of shafts slows the enemy advance.,瓢泼箭雨，阻敌挠行,Vanilla,瓢泼箭雨，阻敌挠行,瓢泼箭雨，阻敌挠行,瓢泼箭雨，阻敌挠行。,True,True,漫天箭雨可拖慢敵人前進的速度。,Vanilla,漫天箭雨可拖慢敵人前進的速度。,漫天箭雨可拖慢敵人前進的速度。,瓢潑箭雨，阻敵撓行。,hv_skill_ability_hail_of_arrows_scholar_description
+Hail of Arrows,箭雨,Vanilla,箭雨,箭雨,箭雨,False,True,箭如雨下,Vanilla,箭如雨下,箭如雨下,箭雨,hv_skill_ability_hail_of_arrows_expertise_name
+A flurry of shafts slows the enemy advance.,瓢泼箭雨，阻敌挠行,Vanilla,瓢泼箭雨，阻敌挠行,瓢泼箭雨，阻敌挠行,瓢泼箭雨，阻敌挠行。,True,True,漫天箭雨可拖慢敵人前進的速度。,Vanilla,漫天箭雨可拖慢敵人前進的速度。,漫天箭雨可拖慢敵人前進的速度。,瓢潑箭雨，阻敵撓行。,hv_skill_ability_hail_of_arrows_expertise_description
+God of War,武圣,Vanilla,武圣,武圣,武圣,False,False,武聖,Vanilla,武聖,武聖,武聖,hv_skill_ability_god_of_war_resolve_name
+"With a single blow, Guan Yu rends his enemy asunder!",关羽刀光过处，敌将人头落地,Vanilla,关羽刀光过处，敌将人头落地,关羽刀光过处，敌将人头落地,关羽刀光过处，敌将人头落地。,True,True,關羽一擊便能讓敵人手足異處！,Vanilla,關羽一擊便能讓敵人手足異處！,關羽一擊便能讓敵人手足異處！,關羽刀光過處，敵將人頭落地。,hv_skill_ability_god_of_war_resolve_description
+Ghost of the woods,林鬼,MappedByPattern,,林中之鬼,林鬼,False,True,林中之鬼,MappedByPattern,,林中之鬼,林鬼,hv_skill_ability_ghost_of_forest_expertise_name
+This man knows how to frighten enemies in the woods.,神鬼莫测于树林间震摄敌军。,MappedByPattern,,此人知晓如何于林中震摄敌军。,神鬼莫测于树林间震摄敌军。,False,False,神鬼莫測於樹林間震攝敵軍。,MappedByPattern,,此人知曉如何於林中震攝敵軍。,神鬼莫測於樹林間震攝敵軍。,hv_skill_ability_ghost_of_forest_expertise_description
+Geographic Mastery,巧变,MappedByPattern,巧变,巧变,巧变,False,True,地理專才,MappedByPattern,地理專才,地理專才,巧變,hv_skill_ability_geographic_mastery_expertise_name
+"This man has a great understanding of geography, and can bend it to their own use.",此人对山川地势了若指掌，且能善加利用。,MappedByPattern,,此人熟悉地理知识，能够善加利用。,此人熟悉地理知识，能够善加利用。,True,False,此人熟悉地理知識，能夠善加利用。,MappedByPattern,,此人熟悉地理知識，能夠善加利用。,此人熟悉地理知識，能夠善加利用。,hv_skill_ability_geographic_mastery_expertise_description
+Geographic Mastery,巧变,MappedByPattern,巧变,巧变,巧变,False,True,地理專才,MappedByPattern,地理專才,地理專才,巧變,hv_skill_ability_geographic_mastery_cunning_name
+"This man has a great understanding of geography, and can bend it to their own use.",此人对山川地势了若指掌，且能善加利用。,MappedByPattern,,此人熟悉地理知识，能够善加利用。,此人熟悉地理知识，能够善加利用。,True,False,此人熟悉地理知識，能夠善加利用。,MappedByPattern,,此人熟悉地理知識，能夠善加利用。,此人熟悉地理知識，能夠善加利用。,hv_skill_ability_geographic_mastery_cunning_description
+From the Ashes,涅槃重生,Vanilla,涅槃重生,涅槃重生,涅槃,True,True,死灰復燃,Vanilla,死灰復燃,死灰復燃,涅槃,hv_skill_ability_from_the_ashes_cunning_name
+"Pang Tong sacrifices himself, to aid his fellow brothers.",庞统牺牲己身，协助同袍兄弟。,Vanilla,庞统牺牲己身，协助同袍兄弟。,庞统牺牲己身，协助同袍兄弟。,庞统牺牲己身，协助同袍兄弟。,False,False,龐統犧牲己身，協助同袍兄弟。,Vanilla,龐統犧牲己身，協助同袍兄弟。,龐統犧牲己身，協助同袍兄弟。,龐統犧牲己身，協助同袍兄弟。,hv_skill_ability_from_the_ashes_cunning_description
+Forest Strider,琼林,MappedByPattern,,森林适性,琼林,False,True,森林適性,MappedByPattern,,森林適性,瓊林,hv_skill_ability_forest_strider_resolve_name
+A forest friendly man.,此人与林为友。,MappedByPattern,,此人与林为友。,都说即鹿无虞，而此人却与林为友。,True,True,此人與林爲友。,MappedByPattern,,此人與林爲友。,都說即鹿無虞，而此人卻與林爲友。,hv_skill_ability_forest_strider_resolve_description
+Foresight,远见,MappedByPattern,远见,远见,远见,False,True,縱觀全局,MappedByPattern,縱觀全局,縱觀全局,遠見,hv_skill_ability_foresight_cunning_name
+"This man can see all that was, and all that will be.",此人鬼才满腹经纶，足以推古衍今。,MappedByPattern,,此人能明鉴古今，洞察未来。,此人能明鉴古今，洞察未来。,True,False,此人能明鑑古今，洞察未來。,MappedByPattern,,此人能明鑑古今，洞察未來。,此人能明鑑古今，洞察未來。,hv_skill_ability_foresight_cunning_description
+Flower of the Battlefield,玉骨,MappedByPattern,,战场之花,玉骨,False,True,戰場之花,MappedByPattern,,戰場之花,玉骨,hv_skill_ability_flower_of_battlefield_resolve_name
+It's not a good place for a beautiful woman to stay.,此处不宜美人久留。,MappedByPattern,,此处不宜美人久留。,看似柳弱花娇，实有巾帼须眉之气。,True,True,此處不宜美人久留。,MappedByPattern,,此處不宜美人久留。,看似柳弱花嬌，實有巾幗鬚眉之氣。,hv_skill_ability_flower_of_battlefield_resolve_description
+Flower of the Battlefield,玉骨,MappedByPattern,,战场之花,玉骨,False,True,戰場之花,MappedByPattern,,戰場之花,玉骨,hv_skill_ability_flower_of_battlefield_instinct_name
+It's not a good place for a beautiful woman to stay.,此处不宜美人久留。,MappedByPattern,,此处不宜美人久留。,看似柳弱花娇，实有巾帼须眉之气。,True,True,此處不宜美人久留。,MappedByPattern,,此處不宜美人久留。,看似柳弱花嬌，實有巾幗鬚眉之氣。,hv_skill_ability_flower_of_battlefield_instinct_description
+Flower of the Battlefield,玉骨,MappedByPattern,,战场之花,玉骨,False,True,戰場之花,MappedByPattern,,戰場之花,玉骨,hv_skill_ability_flower_of_battlefield_expertise_name
+It's not a good place for a beautiful woman to stay.,此处不宜美人久留。,MappedByPattern,,此处不宜美人久留。,看似柳弱花娇，实有巾帼须眉之气。,True,True,此處不宜美人久留。,MappedByPattern,,此處不宜美人久留。,看似柳弱花嬌，實有巾幗鬚眉之氣。,hv_skill_ability_flower_of_battlefield_expertise_description
+Flower of the Battlefield,玉骨,MappedByPattern,,战场之花,玉骨,False,True,戰場之花,MappedByPattern,,戰場之花,玉骨,hv_skill_ability_flower_of_battlefield_cunning_name
+It's not a good place for a beautiful woman to stay.,此处不宜美人久留。,MappedByPattern,,此处不宜美人久留。,看似柳弱花娇，实有巾帼须眉之气。,True,True,此處不宜美人久留。,MappedByPattern,,此處不宜美人久留。,看似柳弱花嬌，實有巾幗鬚眉之氣。,hv_skill_ability_flower_of_battlefield_cunning_description
+Flower of the Battlefield,玉骨,MappedByPattern,,战场之花,玉骨,False,True,戰場之花,MappedByPattern,,戰場之花,玉骨,hv_skill_ability_flower_of_battlefield_authority_name
+It's not a good place for a beautiful woman to stay.,此处不宜美人久留。,MappedByPattern,,此处不宜美人久留。,看似柳弱花娇，实有巾帼须眉之气。,True,True,此處不宜美人久留。,MappedByPattern,,此處不宜美人久留。,看似柳弱花嬌，實有巾幗鬚眉之氣。,hv_skill_ability_flower_of_battlefield_authority_description
+Fleet-footed,疾行,Vanilla,疾行,疾行,疾行,False,True,腳步迅捷,Vanilla,腳步迅捷,腳步迅捷,疾行,hv_skill_ability_fleet_footed_expertise_name
+This hero believes you can only kill that which you can catch.,此人行动迅如狡兔，万军擒拿亦若无物。,MappedByPattern,,此人相信，要将敌人除之而后快，就必须先追得上敌人。,此人相信，要将敌人除之而后快，就必须先追得上敌人。,True,False,此人相信，要將敵人除之而後快，就必須先追得上敵人。,MappedByPattern,,此人相信，要將敵人除之而後快，就必須先追得上敵人。,此人相信，要將敵人除之而後快，就必須先追得上敵人。,hv_skill_ability_fleet_footed_expertise_description
+Fleet-footed,疾行,Vanilla,疾行,疾行,疾行,False,True,腳步迅捷,Vanilla,腳步迅捷,腳步迅捷,疾行,hv_skill_ability_fleet_footed_authority_name
+This hero believes you can only kill that which you can catch.,此人行动迅如狡兔，万军擒拿亦若无物。,MappedByPattern,,此人相信，要将敌人除之而后快，就必须先追得上敌人。,此人相信，要将敌人除之而后快，就必须先追得上敌人。,True,False,此人相信，要將敵人除之而後快，就必須先追得上敵人。,MappedByPattern,,此人相信，要將敵人除之而後快，就必須先追得上敵人。,此人相信，要將敵人除之而後快，就必須先追得上敵人。,hv_skill_ability_fleet_footed_authority_description
+Flames of the Phoenix,炎凤,Vanilla,炎凤,炎凤,炎凤,False,True,鳳凰之火,Vanilla,鳳凰之火,鳳凰之火,炎鳳,hv_skill_ability_flames_of_the_phoenix_resolve_name
+A devastating swing with the power of the risen inferno!,凤怒炎涛，摧枯拉朽！,Vanilla,凤怒炎涛，摧枯拉朽！,凤怒炎涛，摧枯拉朽！,凤怒炎涛，摧枯拉朽！,False,True,挾帶竄升烈火之力的毀滅一擊！,Vanilla,挾帶竄升烈火之力的毀滅一擊！,挾帶竄升烈火之力的毀滅一擊！,鳳怒炎濤，摧枯拉朽！,hv_skill_ability_flames_of_the_phoenix_resolve_description
+Flames of the Phoenix,炎凤,Vanilla,炎凤,炎凤,炎凤,False,True,鳳凰之火,Vanilla,鳳凰之火,鳳凰之火,炎鳳,hv_skill_ability_flames_of_the_phoenix_instinct_name
+A devastating swing with the power of the risen inferno!,凤怒炎涛，摧枯拉朽！,Vanilla,凤怒炎涛，摧枯拉朽！,凤怒炎涛，摧枯拉朽！,凤怒炎涛，摧枯拉朽！,False,True,挾帶竄升烈火之力的毀滅一擊！,Vanilla,挾帶竄升烈火之力的毀滅一擊！,挾帶竄升烈火之力的毀滅一擊！,鳳怒炎濤，摧枯拉朽！,hv_skill_ability_flames_of_the_phoenix_instinct_description
+Flames of the Phoenix,炎凤,Vanilla,炎凤,炎凤,炎凤,False,True,鳳凰之火,Vanilla,鳳凰之火,鳳凰之火,炎鳳,hv_skill_ability_flames_of_the_phoenix_authority_name
+A devastating swing with the power of the risen inferno!,凤怒炎涛，摧枯拉朽！,Vanilla,凤怒炎涛，摧枯拉朽！,凤怒炎涛，摧枯拉朽！,凤怒炎涛，摧枯拉朽！,False,True,挾帶竄升烈火之力的毀滅一擊！,Vanilla,挾帶竄升烈火之力的毀滅一擊！,挾帶竄升烈火之力的毀滅一擊！,鳳怒炎濤，摧枯拉朽！,hv_skill_ability_flames_of_the_phoenix_authority_description
+Fire Control,穿杨,MappedByPattern,,,,True,True,穿楊,MappedByPattern,,,,hv_skill_ability_fire_control_veteran_name
+Organised volleys prove more effective.,依序射击更为有效。,MappedByPattern,,,,True,True,依序射擊更為有效。,MappedByPattern,,,,hv_skill_ability_fire_control_veteran_description
+Fire Control,穿杨,MappedByPattern,,火控,穿杨,False,False,穿楊,MappedByPattern,,火控,穿楊,hv_skill_ability_fire_control_expertise_name
+Organised volleys prove more effective.,依序射击更为有效。,MappedByPattern,,依序射击更为有效。,静下心来瞄准方能百发百中。,True,True,依序射擊更為有效。,MappedByPattern,,依序射擊更為有效。,靜下心來瞄準方能百發百中。,hv_skill_ability_fire_control_expertise_description
+Fire Control,穿杨,MappedByPattern,,火控,穿杨,False,False,穿楊,MappedByPattern,,火控,穿楊,hv_skill_ability_fire_control_cunning_name
+Organised volleys prove more effective.,依序射击更为有效。,MappedByPattern,,依序射击更为有效。,静下心来瞄准方能百发百中。,True,True,依序射擊更為有效。,MappedByPattern,,依序射擊更為有效。,靜下心來瞄準方能百發百中。,hv_skill_ability_fire_control_cunning_description
+Fire Control,穿杨,MappedByPattern,,火控,穿杨,False,False,穿楊,MappedByPattern,,火控,穿楊,hv_skill_ability_fire_control_authority_name
+Organised volleys prove more effective.,依序射击更为有效。,MappedByPattern,,依序射击更为有效。,静下心来瞄准方能百发百中。,True,True,依序射擊更為有效。,MappedByPattern,,依序射擊更為有效。,靜下心來瞄準方能百發百中。,hv_skill_ability_fire_control_authority_description
+Fire Bomb,火焰弹,MappedByPattern,火焰弹,火焰弹,火焰弹,False,True,火油彈,MappedByPattern,火油彈,火油彈,火焰彈,hv_skill_ability_fire_bomb_instinct_name
+Hurl a bundle of explosive fire bombs to knock down the enemy.,扔掷爆裂火油弹来击倒敌人。,MappedByPattern,,扔掷爆裂火油弹来击倒敌人。,扔掷爆裂火油弹来击倒敌人。,False,False,扔擲爆裂火油彈來擊倒敵人。,MappedByPattern,,扔擲爆裂火油彈來擊倒敵人。,扔擲爆裂火油彈來擊倒敵人。,hv_skill_ability_fire_bomb_instinct_description
+Fire Bomb,火焰弹,MappedByPattern,火焰弹,火焰弹,火焰弹,False,True,火油彈,MappedByPattern,火油彈,火油彈,火焰彈,hv_skill_ability_fire_bomb_cunning_name
+Hurl a bundle of explosive fire bombs to knock down the enemy.,扔掷爆裂火油弹来击倒敌人。,MappedByPattern,,扔掷爆裂火油弹来击倒敌人。,扔掷爆裂火油弹来击倒敌人。,False,False,扔擲爆裂火油彈來擊倒敵人。,MappedByPattern,,扔擲爆裂火油彈來擊倒敵人。,扔擲爆裂火油彈來擊倒敵人。,hv_skill_ability_fire_bomb_cunning_description
+Fire Bomb,火焰弹,MappedByPattern,火焰弹,火焰弹,火焰弹,False,True,火油彈,MappedByPattern,火油彈,火油彈,火焰彈,hv_skill_ability_fire_bomb_authority_name
+Hurl a bundle of explosive fire bombs to knock down the enemy.,扔掷爆裂火油弹来击倒敌人。,MappedByPattern,,扔掷爆裂火油弹来击倒敌人。,扔掷爆裂火油弹来击倒敌人。,False,False,扔擲爆裂火油彈來擊倒敵人。,MappedByPattern,,扔擲爆裂火油彈來擊倒敵人。,扔擲爆裂火油彈來擊倒敵人。,hv_skill_ability_fire_bomb_authority_description
+Favourable Skies,天时,Vanilla,天时,天时,天时,False,True,有利天候,Vanilla,有利天候,有利天候,天時,hv_skill_ability_favourable_skies_name
+Knowing when best to shoot is most effective when you are the one being shot at.,欲中其的，先处其位,Vanilla,欲中其的，先处其位,欲中其的，先处其位,欲中其的，先处其位。,True,True,瞭解最佳的放箭時機，在輪到自己挨箭時便能收到奇效。,Vanilla,瞭解最佳的放箭時機，在輪到自己挨箭時便能收到奇效。,瞭解最佳的放箭時機，在輪到自己挨箭時便能收到奇效。,欲中其的，先處其位。,hv_skill_ability_favourable_skies_description
+Exemplar,楷模,Vanilla,楷模,楷模,楷模,False,True,為人典範,Vanilla,為人典範,為人典範,楷模,hv_skill_ability_exemplar_resolve_name
+"A shining, typical, and above all appropriate model of how one should be.",此乃举世无双之楷模！,Vanilla,此乃举世无双之楷模！,此乃举世无双之楷模！,躬先表率，此乃将士之范！,True,True,此人乃是為人表率的耀眼典範，更重要的是其舉止得體。,Vanilla,此人乃是為人表率的耀眼典範，更重要的是其舉止得體。,此人乃是為人表率的耀眼典範，更重要的是其舉止得體。,躬先表率，此乃將士之範！,hv_skill_ability_exemplar_resolve_description
+Exemplar,楷模,Vanilla,楷模,楷模,楷模,False,True,為人典範,Vanilla,為人典範,為人典範,楷模,hv_skill_ability_exemplar_expertise_name
+"A shining, typical, and above all appropriate model of how one should be.",此乃举世无双之楷模！,Vanilla,此乃举世无双之楷模！,此乃举世无双之楷模！,躬先表率，此乃将士之范！,True,True,此人乃是為人表率的耀眼典範，更重要的是其舉止得體。,Vanilla,此人乃是為人表率的耀眼典範，更重要的是其舉止得體。,此人乃是為人表率的耀眼典範，更重要的是其舉止得體。,躬先表率，此乃將士之範！,hv_skill_ability_exemplar_expertise_description
+Exemplar,楷模,Vanilla,楷模,楷模,楷模,False,True,為人典範,Vanilla,為人典範,為人典範,楷模,hv_skill_ability_exemplar_cunning_name
+"A shining, typical, and above all appropriate model of how one should be.",此乃举世无双之楷模！,Vanilla,此乃举世无双之楷模！,此乃举世无双之楷模！,躬先表率，此乃将士之范！,True,True,此人乃是為人表率的耀眼典範，更重要的是其舉止得體。,Vanilla,此人乃是為人表率的耀眼典範，更重要的是其舉止得體。,此人乃是為人表率的耀眼典範，更重要的是其舉止得體。,躬先表率，此乃將士之範！,hv_skill_ability_exemplar_cunning_description
+Exemplar,楷模,Vanilla,楷模,楷模,楷模,False,True,為人典範,Vanilla,為人典範,為人典範,楷模,hv_skill_ability_exemplar_authority_name
+"A shining, typical, and above all appropriate model of how one should be.",此乃举世无双之楷模！,Vanilla,此乃举世无双之楷模！,此乃举世无双之楷模！,躬先表率，此乃将士之范！,True,True,此人乃是為人表率的耀眼典範，更重要的是其舉止得體。,Vanilla,此人乃是為人表率的耀眼典範，更重要的是其舉止得體。,此人乃是為人表率的耀眼典範，更重要的是其舉止得體。,躬先表率，此乃將士之範！,hv_skill_ability_exemplar_authority_description
+Eviscerate,剔骨,MappedByPattern,,,,True,True,剔骨,MappedByPattern,,,,hv_skill_ability_eviscerate_veteran_name
+"When the victim was aware of what had happened, it must have already been a serious situation.",等到被害者明白过来，就已为时已晚。,MappedByPattern,,,,True,True,等到被害者明白過來，就已爲時已晚。,MappedByPattern,,,,hv_skill_ability_eviscerate_veteran_description
+Eviscerate,剔骨,MappedByPattern,,剔骨,剔骨,False,False,剔骨,MappedByPattern,,剔骨,剔骨,hv_skill_ability_eviscerate_resolve_name
+"When the victim was aware of what had happened, it must have already been a serious situation.",等到被害者明白过来，就已为时已晚。,MappedByPattern,,等到被害者明白过来，就已为时已晚。,等到被害者明白过来，就已为时已晚。,False,False,等到被害者明白過來，就已爲時已晚。,MappedByPattern,,等到被害者明白過來，就已爲時已晚。,等到被害者明白過來，就已爲時已晚。,hv_skill_ability_eviscerate_resolve_description
+Eviscerate,剔骨,MappedByPattern,,,,True,True,剔骨,MappedByPattern,,,,hv_skill_ability_eviscerate_instinct_name
+"When the victim was aware of what had happened, it must have already been a serious situation.",等到被害者明白过来，就已为时已晚。,MappedByPattern,,,,True,True,等到被害者明白過來，就已爲時已晚。,MappedByPattern,,,,hv_skill_ability_eviscerate_instinct_description
+Elemental Vigour,龙胆,MappedByPattern,龙胆,龙胆,龙胆,False,True,五行之力,MappedByPattern,五行之力,五行之力,龍膽,hv_skill_ability_elemental_vigour_expertise_name
+"The longer this warrior fights, the greater and more inspiring they becomes!",此人会随着战斗时间拉长而越战越勇，激励士气的效果也随之增强！,MappedByPattern,,此人会随着战斗时间拉长而越战越勇，激励士气的效果也随之增强！ ,此人会随着战斗时间拉长而越战越勇，激励士气的效果也随之增强！ ,True,True,此人會隨著戰鬥時間拉長而越戰越勇，激勵士氣的效果也隨之增強！,MappedByPattern,,此人會隨著戰鬥時間拉長而越戰越勇，激勵士氣的效果也隨之增強！,此人會隨着戰鬥時間拉長而越戰越勇，激勵士氣的效果也隨之增強！ ,hv_skill_ability_elemental_vigour_expertise_description
+Dong Zhuo's Command,相令,MappedByPattern,,董卓之令,相令,False,False,相令,MappedByPattern,,董卓之令,相令,hv_skill_ability_dong_command_instinct_name
+"A merciless order, for Dong Zhuo's men and his enemies.",来自相国严苛的命令。,Procrastinator,,严苛高压的命令。,来自相国严苛的命令。,False,False,來自相國嚴苛的命令。,Procrastinator,,嚴苛高壓的命令。,來自相國嚴苛的命令。,hv_skill_ability_dong_command_instinct_description
+Distant Courage,决胜千里,MappedByPattern,坚毅,坚毅,坚毅,True,True,千里助勢,MappedByPattern,千里助勢,千里助勢,堅毅,hv_skill_ability_distant_courage_instinct_name
+This general directs and empowers his forces from a… safer distance.,该英雄会在…安全距离指挥激励部队。,Vanilla,该英雄会在…安全距离指挥激励部队。,该英雄会在…安全距离指挥激励部队。,大将军难道不应该在远离纷争的地方运筹帷幄？,True,True,這名英雄指揮若定，鼓舞盟友大顯身手…但他本人並不親赴前線。,Vanilla,這名英雄指揮若定，鼓舞盟友大顯身手…但他本人並不親赴前線。,這名英雄指揮若定，鼓舞盟友大顯身手…但他本人並不親赴前線。,大將軍難道不應該在遠離紛爭的地方運籌帷幄？,hv_skill_ability_distant_courage_instinct_description
+Distant Courage,决胜千里,MappedByPattern,坚毅,坚毅,坚毅,True,True,千里助勢,MappedByPattern,千里助勢,千里助勢,堅毅,hv_skill_ability_distant_courage_authority_name
+This general directs and empowers his forces from a… safer distance.,该英雄会在…安全距离指挥激励部队。,Vanilla,该英雄会在…安全距离指挥激励部队。,该英雄会在…安全距离指挥激励部队。,大将军难道不应该在远离纷争的地方运筹帷幄？,True,True,這名英雄指揮若定，鼓舞盟友大顯身手…但他本人並不親赴前線。,Vanilla,這名英雄指揮若定，鼓舞盟友大顯身手…但他本人並不親赴前線。,這名英雄指揮若定，鼓舞盟友大顯身手…但他本人並不親赴前線。,大將軍難道不應該在遠離紛爭的地方運籌帷幄？,hv_skill_ability_distant_courage_authority_description
+Disorientate,蛊惑,Vanilla,蛊惑,蛊惑,蛊惑,False,True,打亂方向,Vanilla,打亂方向,打亂方向,蠱惑,hv_skill_ability_disorientate_name
+A master of the battlefield can undermine even the surest of soldiers.,坚忍之士亦为所惑,Vanilla,坚忍之士亦为所惑,坚忍之士亦为所惑,坚忍之士亦为所惑。,True,True,熟知戰場的人即使面對最有把握的士兵，也能動搖他們的自信。,Vanilla,熟知戰場的人即使面對最有把握的士兵，也能動搖他們的自信。,熟知戰場的人即使面對最有把握的士兵，也能動搖他們的自信。,堅忍之士亦爲所惑。,hv_skill_ability_disorientate_description
+Devastating Roar,狂号,Vanilla,狂号,狂号,狂号,False,True,毀滅之吼,Vanilla,毀滅之吼,毀滅之吼,狂號,hv_skill_ability_devastating_roar_instinct_name
+The roar of fury crushes enemy morale!,以愤怒的怒吼压制敌人士气！,Vanilla,以愤怒的怒吼压制敌人士气！,以愤怒的怒吼压制敌人士气！,以愤怒的怒吼压制敌人士气！,False,True,狂怒的吼聲擊潰敵軍士氣！,Vanilla,狂怒的吼聲擊潰敵軍士氣！,狂怒的吼聲擊潰敵軍士氣！,以憤怒的怒吼壓制敵人士氣！,hv_skill_ability_devastating_roar_instinct_description
+Desperate Cry,绝号,Vanilla,绝号,绝号,绝号,False,True,慘烈呼喊,Vanilla,慘烈呼喊,慘烈呼喊,絕號,hv_skill_ability_desperate_cry_name
+"It is not always the command that motivates, but the way it is given.",驱人者非令，道也,Vanilla,驱人者非令，道也,驱人者非令，道也,驱人者非令，道也。,True,True,能激勵人的不見得是命令的內容，也可能是發號施令的方法。,Vanilla,能激勵人的不見得是命令的內容，也可能是發號施令的方法。,能激勵人的不見得是命令的內容，也可能是發號施令的方法。,驅人者非令，道也。,hv_skill_ability_desperate_cry_description
+Mountains,泰山,MappedByPattern,,,,True,True,山陣,MappedByPattern,,,,hv_skill_ability_defence_mastery_resolve_name
+Form an air-tight defence.,稳如泰山，无隙可乘。,MappedByPattern,,,,True,True,組成無隙可乘的防禦陣型。,MappedByPattern,,,,hv_skill_ability_defence_mastery_resolve_description
+Mountains,泰山,MappedByPattern,,山阵,泰山,False,True,山陣,MappedByPattern,,山陣,泰山,hv_skill_ability_defence_mastery_authority_name
+Form an air-tight defence.,稳如泰山，无隙可乘。,MappedByPattern,,组成无隙可乘的防御阵行。,稳如泰山，无隙可乘。,False,True,組成無隙可乘的防禦陣型。,MappedByPattern,,組成無隙可乘的防禦陣行。,穩如泰山，無隙可乘。,hv_skill_ability_defence_mastery_authority_description
+Cry of the Forest,林啸,Vanilla,林啸,林啸,林啸,False,True,森林戰嚎,Vanilla,森林戰嚎,森林戰嚎,林嘯,hv_skill_ability_cry_of_the_forest_resolve_name
+"When weakest, Dian Wei unleashes his true power!",势穷力衰，身处绝境，典韦将如恶来再现人间！,Vanilla,势穷力衰，身处绝境，典韦将如恶来再现人间！,势穷力衰，身处绝境，典韦将如恶来再现人间！,势穷力衰，身处绝境，典韦将如恶来再现人间！,False,True,典韋在傷得最重時，才會顯露出真正的實力！,Vanilla,典韋在傷得最重時，才會顯露出真正的實力！,典韋在傷得最重時，才會顯露出真正的實力！,勢窮力衰，身處絕境，典韋將如惡來再現人間！,hv_skill_ability_cry_of_the_forest_resolve_description
+Cruel Command,强令,MappedByPattern,,酷令,强令,False,False,強令,MappedByPattern,,酷令,強令,hv_skill_ability_cruel_lord_authority_name
+"This general's orders are absolute and cannot be refused, no matter how unreasonable they may be.",命令不易实行但却不可不从。,Procrastinator,,命令不易实行但也不可不从。,命令不易实行但却不可不从。,False,False,命令不易實行但卻不可不從。,Procrastinator,,命令不易實行但也不可不從。,命令不易實行但卻不可不從。,hv_skill_ability_cruel_lord_authority_description
+Crossing of the River Sanzu,黄泉,MappedByPattern,,,,True,True,黃泉之路,MappedByPattern,,,,hv_skill_ability_crossing_of_the_styx_scholar_name
+Did you get the boat fare? Heaven! Earth! Mankind!!,奈何桥前可奈何，三生石上写三生。,MappedByPattern,,,,True,True,奈何橋前可奈何，三生石上寫三生。,MappedByPattern,,,,hv_skill_ability_crossing_of_the_styx_scholar_description
+Crossing of the River Sanzu,黄泉,MappedByPattern,,,,True,True,黃泉之路,MappedByPattern,,,,hv_skill_ability_crossing_of_the_styx_healer_name
+Did you get the boat fare? Heaven! Earth! Mankind!!,奈何桥前可奈何，三生石上写三生。,MappedByPattern,,,,True,True,奈何橋前可奈何，三生石上寫三生。,MappedByPattern,,,,hv_skill_ability_crossing_of_the_styx_healer_description
+Earth-shattering Strike,裂地,Vanilla,裂地,裂地,裂地,False,True,天崩地裂,Vanilla,天崩地裂,天崩地裂,裂地,hv_skill_ability_crash_veteran_name
+A furious strike that sends anyone nearby reeling.,充满怒意的一击，周遭敌军尽受其害,Vanilla,充满怒意的一击，周遭敌军尽受其害,充满怒意的一击，周遭敌军尽受其害,兽困则噬，山崩地裂。,True,True,飽含怒火的一擊，令周遭敵人無不搖晃欲倒。,Vanilla,飽含怒火的一擊，令周遭敵人無不搖晃欲倒。,飽含怒火的一擊，令周遭敵人無不搖晃欲倒。,獸困則噬，山崩地裂。,hv_skill_ability_crash_veteran_description
+Earth-shattering Strike,裂地,Vanilla,裂地,裂地,裂地,False,True,天崩地裂,Vanilla,天崩地裂,天崩地裂,裂地,hv_skill_ability_crash_resolve_name
+A furious strike that sends anyone nearby reeling.,充满怒意的一击，周遭敌军尽受其害,Vanilla,充满怒意的一击，周遭敌军尽受其害,充满怒意的一击，周遭敌军尽受其害,兽困则噬，山崩地裂。,True,True,飽含怒火的一擊，令周遭敵人無不搖晃欲倒。,Vanilla,飽含怒火的一擊，令周遭敵人無不搖晃欲倒。,飽含怒火的一擊，令周遭敵人無不搖晃欲倒。,獸困則噬，山崩地裂。,hv_skill_ability_crash_resolve_description
+Condemned Howl,狂啸,MappedByPattern,狂啸,狂啸,狂啸,False,True,天譴之嘯,MappedByPattern,天譴之嘯,天譴之嘯,狂嘯,hv_skill_ability_condemned_howl_resolve_name
+This warrior fights with a fatal rage - an erratic fury!,此勇士临战则狂，攻势狂暴猛烈！,MappedByPattern,,此勇士挟滔天怒火奋战，攻势狂暴猛烈！,此勇士挟滔天怒火奋战，攻势狂暴猛烈！,True,False,此勇士挾滔天怒火奮戰，攻勢狂暴猛烈！,MappedByPattern,,此勇士挾滔天怒火奮戰，攻勢狂暴猛烈！,此勇士挾滔天怒火奮戰，攻勢狂暴猛烈！,hv_skill_ability_condemned_howl_resolve_description
+Condemn,声讨,Vanilla,声讨,声讨,声讨,False,True,譴責,Vanilla,譴責,譴責,聲討,hv_skill_ability_condemn_name
+These words will bring shame and humiliation.,闻此詈语，无不羞愧。,Vanilla,闻此詈语，无不羞愧。,闻此詈语，无不羞愧。,闻此詈语，无不羞愧。,False,True,這樣的話語會帶來羞愧與恥辱。,Vanilla,這樣的話語會帶來羞愧與恥辱。,這樣的話語會帶來羞愧與恥辱。,聞此詈語，無不羞愧。,hv_skill_ability_condemn_description
+Commanding Shout,训令,Vanilla,训令,训令,战嚎,True,True,號令吶喊,Vanilla,號令吶喊,號令吶喊,戰嚎,hv_skill_ability_commanding_shout_name
+A war cry from one warrior to another.,同袍兄弟，狂呼迎战,Vanilla,同袍兄弟，狂呼迎战,同袍兄弟，狂呼迎战,同袍兄弟，狂呼迎战。,True,True,從一名戰士傳達到另一名戰士的戰鬥口號。,Vanilla,從一名戰士傳達到另一名戰士的戰鬥口號。,從一名戰士傳達到另一名戰士的戰鬥口號。,同袍兄弟，狂呼迎戰。,hv_skill_ability_commanding_shout_description
+Ceasefire,息兵,Vanilla,息兵,息兵,息兵,False,True,止兵莫動,Vanilla,止兵莫動,止兵莫動,息兵,hv_skill_ability_ceasefire_authority_name
+"Liu Zhang calls a ceasefire for all nearby units, delaying the enemy while his allies work on a counter-attack.",刘璋呼吁周遭止息兵戈，以延缓敌军进攻，为友军创造反击良机。,Vanilla,刘璋呼吁周遭止息兵戈，以延缓敌军进攻，为友军创造反击良机。,刘璋呼吁周遭止息兵戈，以延缓敌军进攻，为友军创造反击良机。,刘璋呼吁周遭止息兵戈，以延缓敌军进攻，为友军创造反击良机。,False,True,劉璋要求周遭所有單位暫時止兵，以延緩敵軍進攻，盟友則趁機準備反擊。,Vanilla,劉璋要求周遭所有單位暫時止兵，以延緩敵軍進攻，盟友則趁機準備反擊。,劉璋要求周遭所有單位暫時止兵，以延緩敵軍進攻，盟友則趁機準備反擊。,劉璋呼籲周遭止息兵戈，以延緩敵軍進攻，爲友軍創造反擊良機。,hv_skill_ability_ceasefire_authority_description
+Make Calm Down,镇静,MappedByPattern,,镇静,将才,True,True,鎮靜,MappedByPattern,,鎮靜,將才,hv_skill_ability_calm_down_veteran_name
+Reassuring words prevent soldiers from wavering on a chaotic battlefield.,安慰之言以防士卒于乱战中摇摆不定。,MappedByPattern,,安慰之言以防士卒于乱战中摇摆不定。,临危不惧，从容自若，真乃将才也！,True,True,安慰之言以防士卒于乱战中摇摆不定。,MappedByPattern,,安慰之言以防士卒于乱战中摇摆不定。,臨危不懼，從容自若，真乃將才也！,hv_skill_ability_calm_down_veteran_description
+Make Calm Down,镇静,MappedByPattern,,,,True,True,鎮靜,MappedByPattern,,,,hv_skill_ability_calm_down_scholar_name
+Reassuring words prevent soldiers from wavering on a chaotic battlefield.,安慰之言以防士卒于乱战中摇摆不定。,MappedByPattern,,,,True,True,安慰之言以防士卒于乱战中摇摆不定。,MappedByPattern,,,,hv_skill_ability_calm_down_scholar_description
+Make Calm Down,镇静,MappedByPattern,,镇静,将才,True,True,鎮靜,MappedByPattern,,鎮靜,將才,hv_skill_ability_calm_down_expertise_name
+Reassuring words prevent soldiers from wavering on a chaotic battlefield.,安慰之言以防士卒于乱战中摇摆不定。,MappedByPattern,,安慰之言以防士卒于乱战中摇摆不定。,安慰之言以防士卒于乱战中摇摆不定。,False,True,安慰之言以防士卒于乱战中摇摆不定。,MappedByPattern,,安慰之言以防士卒于乱战中摇摆不定。,安慰之言以防士卒於亂戰中搖擺不定。,hv_skill_ability_calm_down_expertise_description
+Make Calm Down,镇静,MappedByPattern,,镇静,将才,True,True,鎮靜,MappedByPattern,,鎮靜,將才,hv_skill_ability_calm_down_authority_name
+Reassuring words prevent soldiers from wavering on a chaotic battlefield.,安慰之言以防士卒于乱战中摇摆不定。,MappedByPattern,,安慰之言以防士卒于乱战中摇摆不定。,临危不惧，从容自若，真乃将才也！,True,True,安慰之言以防士卒于乱战中摇摆不定。,MappedByPattern,,安慰之言以防士卒于乱战中摇摆不定。,臨危不懼，從容自若，真乃將才也！,hv_skill_ability_calm_down_authority_description
+Burning Soul,炎魂,MappedByPattern,炎魂,炎魂,热血,True,True,燃燒元神,MappedByPattern,燃燒元神,燃燒元神,熱血,hv_skill_ability_burning_resolve_name
+The light that burns twice as bright burns half as long.,火势越猛，持烧之时越短。,MappedByPattern,,火势越猛，持烧之时越短。,怒火中烧，浴血奋战。,True,True,火勢越猛，持燒之時越短。,MappedByPattern,,火勢越猛，持燒之時越短。,怒火中燒，浴血奮戰。,hv_skill_ability_burning_resolve_description
+Burning Soul,炎魂,MappedByPattern,炎魂,炎魂,热血,True,True,燃燒元神,MappedByPattern,燃燒元神,燃燒元神,熱血,hv_skill_ability_burning_instinct_name
+The light that burns twice as bright burns half as long.,火势越猛，持烧之时越短。,MappedByPattern,,火势越猛，持烧之时越短。,怒火中烧，浴血奋战。,True,True,火勢越猛，持燒之時越短。,MappedByPattern,,火勢越猛，持燒之時越短。,怒火中燒，浴血奮戰。,hv_skill_ability_burning_instinct_description
+Brawl,熊罴,MappedByPattern,,殴打,熊罴,False,True,毆打,MappedByPattern,,毆打,熊羆,hv_skill_ability_brawl_instinct_name
+Send your warriors into the thick of battle and watch as they fight even more fiercely.,将你的勇士们送入战场，看着他们更加激烈的战斗。,MappedByPattern,,将你的勇士们送入战场，看着他们更加激烈的战斗。,奋不顾身，得失难记。,True,True,将你的勇士们送入战场，看着他们更加激烈的战斗。,MappedByPattern,,将你的勇士们送入战场，看着他们更加激烈的战斗。,奮不顧身，得失難記。,hv_skill_ability_brawl_instinct_description
+Brawl,熊罴,MappedByPattern,,殴打,熊罴,False,True,毆打,MappedByPattern,,毆打,熊羆,hv_skill_ability_brawl_authority_name
+Send your warriors into the thick of battle and watch as they fight even more fiercely.,将你的勇士们送入战场，看着他们更加激烈的战斗。,MappedByPattern,,将你的勇士们送入战场，看着他们更加激烈的战斗。,奋不顾身，得失难记。,True,True,将你的勇士们送入战场，看着他们更加激烈的战斗。,MappedByPattern,,将你的勇士们送入战场，看着他们更加激烈的战斗。,奮不顧身，得失難記。,hv_skill_ability_brawl_authority_description
+Bloody Fury,血怒,Vanilla,血怒,血怒,血怒,False,True,鮮血之怒,Vanilla,鮮血之怒,鮮血之怒,血怒,hv_skill_ability_blood_fury_instinct_name
+"As Sun Ce's strength rises, his grip on rationality weakens…",孙策虽愈战愈勇，但肆意猛虎愈无慎行...,Vanilla,孙策虽愈战愈勇，但肆意猛虎愈无慎行...,孙策虽愈战愈勇，但肆意猛虎愈无慎行...,孙策虽愈战愈勇，但肆意猛虎愈无慎行...,False,True,孫策戰力漸增，卻也愈加感情用事…,Vanilla,孫策戰力漸增，卻也愈加感情用事…,孫策戰力漸增，卻也愈加感情用事…,孫策雖愈戰愈勇，但肆意猛虎愈無慎行...,hv_skill_ability_blood_fury_instinct_description
+Sinister Strike,影袭,MappedByPattern,,险恶一击,霆击,True,True,險惡一擊,MappedByPattern,,險惡一擊,霆擊,hv_skill_ability_bleed_resolve_name
+There's something about this strike that just feels off.,这种攻击似乎阴险歹毒。,MappedByPattern,,这种攻击让人觉得不太对劲。,竭尽全力，致命一击。,True,True,這種攻擊似乎陰險歹毒。,MappedByPattern,,這種攻擊讓人覺得不太對勁。,竭盡全力，致命一擊。,hv_skill_ability_bleed_resolve_description
+Sinister Strike,影袭,MappedByPattern,,险恶一击,霆击,True,True,險惡一擊,MappedByPattern,,險惡一擊,霆擊,hv_skill_ability_bleed_expertise_name
+There's something about this strike that just feels off.,这种攻击似乎阴险歹毒。,MappedByPattern,,这种攻击让人觉得不太对劲。,竭尽全力，致命一击。,True,True,這種攻擊似乎陰險歹毒。,MappedByPattern,,這種攻擊讓人覺得不太對勁。,竭盡全力，致命一擊。,hv_skill_ability_bleed_expertise_description
+Blazing Saddles,绝尘,Vanilla,绝尘,绝尘,绝尘,False,True,炙熱馬鞍,Vanilla,炙熱馬鞍,炙熱馬鞍,絕塵,hv_skill_ability_blazing_saddles_instinct_name
+"A charge of great power, draining Xiahou Yuan's focus.",强大力量的冲击，会消耗夏侯渊的注意力,Vanilla,强大力量的冲击，会消耗夏侯渊的注意力,强大力量的冲击，会消耗夏侯渊的注意力,强大力量的冲击，会消耗夏侯渊的注意力,False,True,發動強力的衝鋒，使夏侯淵耗盡專注力。,Vanilla,發動強力的衝鋒，使夏侯淵耗盡專注力。,發動強力的衝鋒，使夏侯淵耗盡專注力。,強大力量的衝擊，會消耗夏侯淵的注意力,hv_skill_ability_blazing_saddles_instinct_description
+Blazing Roar,怒吼,Vanilla,怒吼,怒吼,怒吼,False,True,燃燒之吼,Vanilla,燃燒之吼,燃燒之吼,怒吼,hv_skill_ability_blazing_roar_instinct_name
+Zhang Fei's burly howl can rout an entire regiment!,张飞仰天怒吼，敌军士气溃散！,Vanilla,张飞仰天怒吼，敌军士气溃散！,张飞仰天怒吼，敌军士气溃散！,张飞仰天怒吼，敌军士气溃散！,False,True,張飛仰天長嘯，使敵軍士氣潰散！,Vanilla,張飛仰天長嘯，使敵軍士氣潰散！,張飛仰天長嘯，使敵軍士氣潰散！,張飛仰天怒吼，敵軍士氣潰散！,hv_skill_ability_blazing_roar_instinct_description
+Blade Mastery,盖世,MappedByPattern,,剑术大师,舞爪,True,False,舞爪,MappedByPattern,,劍術大師,舞爪,hv_skill_ability_blade_mastery_resolve_name
+No one dares to challenge this warrior's skill with the blade.,此人武功盖世，无能出其右者。,MappedByPattern,,其剑术无能出其右者。,此人武功盖世，无能出其右者。,False,False,此人武功蓋世，無能出其右者。,MappedByPattern,,其劍術無能出其右者。,此人武功蓋世，無能出其右者。,hv_skill_ability_blade_mastery_resolve_description
+Blade Mastery,盖世,MappedByPattern,,剑术大师,盖世,False,True,舞爪,MappedByPattern,,劍術大師,蓋世,hv_skill_ability_blade_mastery_expertise_name
+No one dares to challenge this warrior's skill with the blade.,此人武功盖世，无能出其右者。,MappedByPattern,,其剑术无能出其右者。,此人武功盖世，无能出其右者。,False,False,此人武功蓋世，無能出其右者。,MappedByPattern,,其劍術無能出其右者。,此人武功蓋世，無能出其右者。,hv_skill_ability_blade_mastery_expertise_description
+Blade Breaker,断刃,Vanilla,断刃,断刃,断刃,False,True,堅甲破刃,Vanilla,堅甲破刃,堅甲破刃,斷刃,hv_skill_ability_blade_breaker_instinct_name
+The tyrant laughs as blades glance harmlessly off his armour.,望着刀刃徒劳地划过铠甲，暴君不禁朗声大笑,Vanilla,望着刀刃徒劳地划过铠甲，暴君不禁朗声大笑,望着刀刃徒劳地划过铠甲，暴君不禁朗声大笑,望着刀刃徒劳地划过铠甲，暴君不禁朗声大笑,False,True,暴君眼見刀刃碰上其護甲瞬被彈開，無法損及分毫，猖狂大笑。,Vanilla,暴君眼見刀刃碰上其護甲瞬被彈開，無法損及分毫，猖狂大笑。,暴君眼見刀刃碰上其護甲瞬被彈開，無法損及分毫，猖狂大笑。,望着刀刃徒勞地劃過鎧甲，暴君不禁朗聲大笑,hv_skill_ability_blade_breaker_instinct_description
+Binding Fury,聚怒,Vanilla,聚怒,聚怒,聚怒,False,True,怒不可抑,Vanilla,怒不可抑,怒不可抑,聚怒,hv_skill_ability_binding_fury_scholar_name
+The strength of the forest brought to bear against a single foe.,聚山林盛怒，以对抗一人,Vanilla,聚山林盛怒，以对抗一人,聚山林盛怒，以对抗一人,聚山林盛怒，以对抗一人。,True,True,集結全森林之力對付一個敵人。,Vanilla,集結全森林之力對付一個敵人。,集結全森林之力對付一個敵人。,聚山林盛怒，以對抗一人。,hv_skill_ability_binding_fury_scholar_description
+Binding Fury,聚怒,Vanilla,聚怒,聚怒,聚怒,False,True,怒不可抑,Vanilla,怒不可抑,怒不可抑,聚怒,hv_skill_ability_binding_fury_resolve_name
+The strength of the forest brought to bear against a single foe.,聚山林盛怒，以对抗一人,Vanilla,聚山林盛怒，以对抗一人,聚山林盛怒，以对抗一人,聚山林盛怒，以对抗一人。,True,True,集結全森林之力對付一個敵人。,Vanilla,集結全森林之力對付一個敵人。,集結全森林之力對付一個敵人。,聚山林盛怒，以對抗一人。,hv_skill_ability_binding_fury_resolve_description
+Binding Fury,聚怒,Vanilla,聚怒,聚怒,聚怒,False,True,怒不可抑,Vanilla,怒不可抑,怒不可抑,聚怒,hv_skill_ability_binding_fury_instinct_name
+The strength of the forest brought to bear against a single foe.,聚山林盛怒，以对抗一人,Vanilla,聚山林盛怒，以对抗一人,聚山林盛怒，以对抗一人,聚山林盛怒，以对抗一人。,True,True,集結全森林之力對付一個敵人。,Vanilla,集結全森林之力對付一個敵人。,集結全森林之力對付一個敵人。,聚山林盛怒，以對抗一人。,hv_skill_ability_binding_fury_instinct_description
+Assemble,齐心,MappedByPattern,,,,True,True,集結,MappedByPattern,,,,hv_skill_ability_assemble_veteran_name
+Soldiers gather under the banner of this hero.,军士聚于此英雄之旗下。,MappedByPattern,,,,True,True,军士聚于此英雄之旗下。,MappedByPattern,,,,hv_skill_ability_assemble_veteran_description
+Assemble,齐心,MappedByPattern,,集结,齐心,False,True,集結,MappedByPattern,,集結,齊心,hv_skill_ability_assemble_scholar_name
+Soldiers gather under the banner of this hero.,军士聚于此英雄之旗下。,MappedByPattern,,军士聚于此英雄之旗下。,英雄大志者必能凝聚人心。,True,True,军士聚于此英雄之旗下。,MappedByPattern,,军士聚于此英雄之旗下。,英雄大志者必能凝聚人心。,hv_skill_ability_assemble_scholar_description
+Assemble,齐心,MappedByPattern,,集结,齐心,False,True,集結,MappedByPattern,,集結,齊心,hv_skill_ability_assemble_resolve_name
+Soldiers gather under the banner of this hero.,军士聚于此英雄之旗下。,MappedByPattern,,军士聚于此英雄之旗下。,英雄大志者必能凝聚人心。,True,True,军士聚于此英雄之旗下。,MappedByPattern,,军士聚于此英雄之旗下。,英雄大志者必能凝聚人心。,hv_skill_ability_assemble_resolve_description
+Assemble,齐心,MappedByPattern,,集结,齐心,False,True,集結,MappedByPattern,,集結,齊心,hv_skill_ability_assemble_instinct_name
+Soldiers gather under the banner of this hero.,军士聚于此英雄之旗下。,MappedByPattern,,军士聚于此英雄之旗下。,英雄大志者必能凝聚人心。,True,True,军士聚于此英雄之旗下。,MappedByPattern,,军士聚于此英雄之旗下。,英雄大志者必能凝聚人心。,hv_skill_ability_assemble_instinct_description
+Assemble,齐心,MappedByPattern,,集结,齐心,False,True,集結,MappedByPattern,,集結,齊心,hv_skill_ability_assemble_expertise_name
+Soldiers gather under the banner of this hero.,军士聚于此英雄之旗下。,MappedByPattern,,军士聚于此英雄之旗下。,英雄大志者必能凝聚人心。,True,True,军士聚于此英雄之旗下。,MappedByPattern,,军士聚于此英雄之旗下。,英雄大志者必能凝聚人心。,hv_skill_ability_assemble_expertise_description
+Assemble,齐心,MappedByPattern,,集结,齐心,False,True,集結,MappedByPattern,,集結,齊心,hv_skill_ability_assemble_authority_name
+Soldiers gather under the banner of this hero.,军士聚于此英雄之旗下。,MappedByPattern,,军士聚于此英雄之旗下。,英雄大志者必能凝聚人心。,True,True,军士聚于此英雄之旗下。,MappedByPattern,,军士聚于此英雄之旗下。,英雄大志者必能凝聚人心。,hv_skill_ability_assemble_authority_description
+Anti-Cavalry Tactics,反制,MappedByPattern,,,,True,True,反騎兵戰術,MappedByPattern,,,,hv_skill_ability_anti_cavalry_veteran_name
+Organise your troops into a solid wall to deter horses. It's a simple but effective tactic.,将士兵组成人墙来抵御马匹。此战术简单有效。,MappedByPattern,,,,True,True,將士兵組成人墻來抵禦馬匹。此戰術簡單有效。,MappedByPattern,,,,hv_skill_ability_anti_cavalry_veteran_description
+Anti-Cavalry Tactics,反制,MappedByPattern,,反骑兵战术,反制,False,True,反騎兵戰術,MappedByPattern,,反騎兵戰術,反制,hv_skill_ability_anti_cavalry_resolve_name
+Organise your troops into a solid wall to deter horses. It's a simple but effective tactic.,将士兵组成人墙来抵御马匹。此战术简单有效。,MappedByPattern,,将士兵组成人墙来抵御马匹。此战术简单有效。,以其人之道，还治其人之身。,True,True,將士兵組成人墻來抵禦馬匹。此戰術簡單有效。,MappedByPattern,,將士兵組成人墻來抵禦馬匹。此戰術簡單有效。,以其人之道，還治其人之身。,hv_skill_ability_anti_cavalry_resolve_description
+Anti-Cavalry Tactics,反制,MappedByPattern,,反骑兵战术,反制,False,True,反騎兵戰術,MappedByPattern,,反騎兵戰術,反制,hv_skill_ability_anti_cavalry_cunning_name
+Organise your troops into a solid wall to deter horses. It's a simple but effective tactic.,将士兵组成人墙来抵御马匹。此战术简单有效。,MappedByPattern,,将士兵组成人墙来抵御马匹。此战术简单有效。,以其人之道，还治其人之身。,True,True,將士兵組成人墻來抵禦馬匹。此戰術簡單有效。,MappedByPattern,,將士兵組成人墻來抵禦馬匹。此戰術簡單有效。,以其人之道，還治其人之身。,hv_skill_ability_anti_cavalry_cunning_description
+Anti-Cavalry Tactics,反制,MappedByPattern,,反骑兵战术,反制,False,True,反騎兵戰術,MappedByPattern,,反騎兵戰術,反制,hv_skill_ability_anti_cavalry_authority_name
+Organise your troops into a solid wall to deter horses. It's a simple but effective tactic.,将士兵组成人墙来抵御马匹。此战术简单有效。,MappedByPattern,,将士兵组成人墙来抵御马匹。此战术简单有效。,以其人之道，还治其人之身。,True,True,將士兵組成人墻來抵禦馬匹。此戰術簡單有效。,MappedByPattern,,將士兵組成人墻來抵禦馬匹。此戰術簡單有效。,以其人之道，還治其人之身。,hv_skill_ability_anti_cavalry_authority_description
+Analyse Weakness,看破,Vanilla,看破,看破,看破,False,True,分析弱點,Vanilla,分析弱點,分析弱點,看破,hv_skill_ability_analyse_weakness_cunning_name
+Only through sober and considered analysis can fragility be turned to unerring strength.,要想扬长避短，须得冷静沉着、仔细思量。,Vanilla,要想扬长避短，须得冷静沉着、仔细思量。,要想扬长避短，须得冷静沉着、仔细思量。,要想扬长避短，须得冷静沉着、仔细思量。,False,True,只有透過審慎周詳的分析，才能化弱為強。,Vanilla,只有透過審慎周詳的分析，才能化弱為強。,只有透過審慎周詳的分析，才能化弱為強。,要想揚長避短，須得冷靜沉着、仔細思量。,hv_skill_ability_analyse_weakness_cunning_description
+Brute Power,怒猊,MappedByPattern,,愈战愈怒,愈战愈怒,True,True,蠻力,MappedByPattern,,愈戰愈怒,愈戰愈怒,hv_skill_ability_aggressive_anger_instinct_name
+Fan the flames of war with inextinguishable anger.,以不灭的怒气煽动战火。,MappedByPattern,,以不灭的怒气煽动战火。,以不灭的怒气煽动战火。,False,False,以不滅的怒氣煽動戰火。,MappedByPattern,,以不滅的怒氣煽動戰火。,以不滅的怒氣煽動戰火。,hv_skill_ability_aggressive_anger_instinct_description
+Brute Power,怒猊,MappedByPattern,,愈战愈怒,怒猊,False,True,蠻力,MappedByPattern,,愈戰愈怒,怒猊,hv_skill_ability_aggressive_anger_expertise_name
+Fan the flames of war with inextinguishable anger.,以不灭的怒气煽动战火。,MappedByPattern,,以不灭的怒气煽动战火。,以不灭的怒气煽动战火。,False,False,以不滅的怒氣煽動戰火。,MappedByPattern,,以不滅的怒氣煽動戰火。,以不滅的怒氣煽動戰火。,hv_skill_ability_aggressive_anger_expertise_description
+Adamant Resolve,不屈,Vanilla,不屈,不屈,不屈,False,True,堅定不移,Vanilla,堅定不移,堅定不移,不屈,hv_skill_ability_adamant_resolve_resolve_name
+Determination and grit allow all attacks to be dodged.,勇气决心，平扫万难,Vanilla,勇气决心，平扫万难,勇气决心，平扫万难,勇气决心，平扫万难,False,True,抱有足夠的決心與膽識便可避開所有攻勢。,Vanilla,抱有足夠的決心與膽識便可避開所有攻勢。,抱有足夠的決心與膽識便可避開所有攻勢。,勇氣決心，平掃萬難,hv_skill_ability_adamant_resolve_resolve_description
+Adamant Resolve,不屈,Vanilla,不屈,不屈,不屈,False,True,堅定不移,Vanilla,堅定不移,堅定不移,不屈,hv_skill_ability_adamant_resolve_expertise_name
+Determination and grit allow all attacks to be dodged.,勇气决心，平扫万难,Vanilla,勇气决心，平扫万难,勇气决心，平扫万难,勇气决心，平扫万难。,True,True,抱有足夠的決心與膽識便可避開所有攻勢。,Vanilla,抱有足夠的決心與膽識便可避開所有攻勢。,抱有足夠的決心與膽識便可避開所有攻勢。,勇氣決心，平掃萬難。,hv_skill_ability_adamant_resolve_expertise_description
+Inner Vitality,内力,MappedByPattern,,内在活力,内力,False,True,内在活力,MappedByPattern,,内在活力,內力,hv_historical_skill_ability_wood_03_name
+A warrior who feels truly alive in battle.,以战为生的勇士。,MappedByPattern,,以战为生的勇士。,以战为生的勇士。,False,False,以戰爲生的勇士。,MappedByPattern,,以戰爲生的勇士。,以戰爲生的勇士。,hv_historical_skill_ability_wood_03_description
+Tenacity of Steel,刚韧,Vanilla,刚韧,刚韧,刚韧,False,True,堅韌如鋼,Vanilla,堅韌如鋼,堅韌如鋼,剛韌,hv_historical_skill_ability_wood_02_name
+"The longer this warrior fights, the stronger they become!",战之愈久，愈游刃有余！,Vanilla,战之愈久，愈游刃有余！,战之愈久，愈游刃有余！,战之愈久，愈游刃有余！,False,True,這名戰士越戰越勇！,Vanilla,這名戰士越戰越勇！,這名戰士越戰越勇！,戰之愈久，愈遊刃有餘！,hv_historical_skill_ability_wood_02_description
+Earthen Rampart,壁垒,MappedByPattern,壁垒,壁垒,壁垒,False,True,大地堡壘,MappedByPattern,大地堡壘,大地堡壘,壁壘,hv_historical_skill_ability_wood_01_name
+An immovable mountain against the tide of the charge.,任由惊涛拍岸，我自不动如山。,MappedByPattern,,任由惊涛拍岸，我自不动如山。,任由惊涛拍岸，我自不动如山。,False,False,任由驚濤拍岸，我自不動如山。,MappedByPattern,,任由驚濤拍岸，我自不動如山。,任由驚濤拍岸，我自不動如山。,hv_historical_skill_ability_wood_01_description
+Anti-Cavalry Tactics,反制,MappedByPattern,,反骑兵战术,反制,False,True,反騎兵戰術,MappedByPattern,,反騎兵戰術,反制,hv_historical_skill_ability_water_03_name
+Organise your troops into a solid wall to deter horses. It's a simple but effective tactic.,将士兵组成人墙来抵御马匹。此战术简单有效。,MappedByPattern,,将士兵组成人墙来抵御马匹。此战术简单有效。,以其人之道，还治其人之身。,True,True,將士兵組成人墻來抵禦馬匹。此戰術簡單有效。,MappedByPattern,,將士兵組成人墻來抵禦馬匹。此戰術簡單有效。,以其人之道，還治其人之身。,hv_historical_skill_ability_water_03_description
+Fire Control,穿杨,MappedByPattern,,火控,穿杨,False,False,穿楊,MappedByPattern,,火控,穿楊,hv_historical_skill_ability_water_02_name
+Organised volleys prove more effective.,依序射击更为有效。,MappedByPattern,,依序射击更为有效。,静下心来瞄准方能百发百中。,True,True,依序射擊更為有效。,MappedByPattern,,依序射擊更為有效。,靜下心來瞄準方能百發百中。,hv_historical_skill_ability_water_02_description
+Inspiring Surge,激浪,Vanilla,激浪,激浪,激浪,False,True,戰意澎湃,Vanilla,戰意澎湃,戰意澎湃,激浪,hv_historical_skill_ability_water_01_name
+Inspirational deeds spur forces to swifter action!,激流汹涌，鼓舞军心,Vanilla,激流汹涌，鼓舞军心,激流汹涌，鼓舞军心,激流汹涌，鼓舞军心,False,True,激勵人心之舉可鼓舞部隊加速行動！,Vanilla,激勵人心之舉可鼓舞部隊加速行動！,激勵人心之舉可鼓舞部隊加速行動！,激流洶湧，鼓舞軍心,hv_historical_skill_ability_water_01_description
+Anti-Cavalry Tactics,反制,MappedByPattern,,反骑兵战术,反制,False,True,反騎兵戰術,MappedByPattern,,反騎兵戰術,反制,hv_historical_skill_ability_veteran_03_name
+Organise your troops into a solid wall to deter horses. It's a simple but effective tactic.,将士兵组成人墙来抵御马匹。此战术简单有效。,MappedByPattern,,将士兵组成人墙来抵御马匹。此战术简单有效。,以其人之道，还治其人之身。,True,True,將士兵組成人墻來抵禦馬匹。此戰術簡單有效。,MappedByPattern,,將士兵組成人墻來抵禦馬匹。此戰術簡單有效。,以其人之道，還治其人之身。,hv_historical_skill_ability_veteran_03_description
+One with the Land,地遁,Vanilla,地遁,地遁,地遁,False,True,與地合一,Vanilla,與地合一,與地合一,地遁,hv_historical_skill_ability_veteran_02_name
+Generations working the land will breed a kinship with it.,劳于地者必亲之,Vanilla,劳于地者必亲之,劳于地者必亲之,劳于地者必亲之,False,True,世世代代在土地上生息能使人培養出與土地的密切情誼。,Vanilla,世世代代在土地上生息能使人培養出與土地的密切情誼。,世世代代在土地上生息能使人培養出與土地的密切情誼。,勞於地者必親之,hv_historical_skill_ability_veteran_02_description
+Nature's Ally,天侣,Vanilla,天侣,天侣,天侣,False,True,自然之友,Vanilla,自然之友,自然之友,天侶,hv_historical_skill_ability_veteran_01_name
+"The forest provides a path, and surer footing, for the respectful.",森林为懂得尊重的人提供了通行路径和更稳固的立足之地。,Procrastinator,,森林为懂得尊重的人提供了通行路径和更稳固的立足之地。,森林为懂得尊重的人提供了通行路径和更稳固的立足之地。,False,False,森林爲懂得尊重的人提供了通行路徑和更穩固的立足之地。,Procrastinator,,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。 ,森林爲懂得尊重的人提供了通行路徑和更穩固的立足之地。,hv_historical_skill_ability_veteran_01_description
+Targeted Strikes,扬刃,Vanilla,扬刃,扬刃,扬刃,False,True,精準打擊,Vanilla,精準打擊,精準打擊,揚刃,hv_historical_skill_ability_scholar_03_name
+"A single shot, timed and aimed to perfection, outweighs a thousand wasted volleys.",精妙一击，宁缺毋滥,Vanilla,精妙一击，宁缺毋滥,精妙一击，宁缺毋滥,精妙一击，宁缺毋滥,False,True,一千發虛擲的矢石，比不上一記時機拿捏得恰到好處的精準射擊。,Vanilla,一千發虛擲的矢石，比不上一記時機拿捏得恰到好處的精準射擊。,一千發虛擲的矢石，比不上一記時機拿捏得恰到好處的精準射擊。,精妙一擊，寧缺毋濫,hv_historical_skill_ability_scholar_03_description
+Stone Bulwark,磐石,MappedByPattern,磐石,磐石,磐石,False,True,堅若磐石,MappedByPattern,堅若磐石,堅若磐石,磐石,hv_historical_skill_ability_scholar_02_name
+"With skin of earth, arrows rebound, harmless.",凭地利，如披坚甲，箭若无物,MappedByPattern,凭地利，如披坚甲，箭若无物,凭地利，如披坚甲，箭若无物,凭地利，如披坚甲，箭若无物,False,True,皮若堅石，箭矢觸及皆反彈無傷。,MappedByPattern,皮若堅石，箭矢觸及皆反彈無傷。,皮若堅石，箭矢觸及皆反彈無傷。,憑地利，如披堅甲，箭若無物,hv_historical_skill_ability_scholar_02_description
+One with Heaven,天遁,Vanilla,天遁,天遁,天遁,False,True,與天合一,Vanilla,與天合一,與天合一,天遁,hv_historical_skill_ability_scholar_01_name
+Look up and you will see the sky; look inward and you will see heaven.,上观则为天，深察则为妙,Vanilla,上观则为天，深察则为妙,上观则为天，深察则为妙,上观则为天，深察则为妙。,True,True,往頭上看，看到的是天空，往心裡看，看到的便是黃天。,Vanilla,往頭上看，看到的是天空，往心裡看，看到的便是黃天。,往頭上看，看到的是天空，往心裡看，看到的便是黃天。,上觀則爲天，深察則爲妙。,hv_historical_skill_ability_scholar_01_description
+Nature's Ally,天侣,Vanilla,天侣,天侣,天侣,False,True,自然之友,Vanilla,自然之友,自然之友,天侶,hv_historical_skill_ability_metal_03_name
+"The forest provides a path, and surer footing, for the respectful.",森林为懂得尊重的人提供了通行路径和更稳固的立足之地。,Procrastinator,,森林为懂得尊重的人提供了通行路径和更稳固的立足之地。,森林为懂得尊重的人提供了通行路径和更稳固的立足之地。,False,False,森林爲懂得尊重的人提供了通行路徑和更穩固的立足之地。,Procrastinator,,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。 ,森林爲懂得尊重的人提供了通行路徑和更穩固的立足之地。,hv_historical_skill_ability_metal_03_description
+Fleet-footed,疾行,Vanilla,疾行,疾行,疾行,False,True,腳步迅捷,Vanilla,腳步迅捷,腳步迅捷,疾行,hv_historical_skill_ability_metal_02_name
+This hero believes you can only kill that which you can catch.,此人行动迅如狡兔，万军擒拿亦若无物。,MappedByPattern,,此人相信，要将敌人除之而后快，就必须先追得上敌人。,此人相信，要将敌人除之而后快，就必须先追得上敌人。,True,False,此人相信，要將敵人除之而後快，就必須先追得上敵人。,MappedByPattern,,此人相信，要將敵人除之而後快，就必須先追得上敵人。,此人相信，要將敵人除之而後快，就必須先追得上敵人。,hv_historical_skill_ability_metal_02_description
+Commanding Shout,训令,Vanilla,训令,训令,战嚎,True,True,號令吶喊,Vanilla,號令吶喊,號令吶喊,戰嚎,hv_historical_skill_ability_metal_01_name
+A war cry from one warrior to another.,同袍兄弟，狂呼迎战,Vanilla,同袍兄弟，狂呼迎战,同袍兄弟，狂呼迎战,同袍兄弟，狂呼迎战,False,True,從一名戰士傳達到另一名戰士的戰鬥口號。,Vanilla,從一名戰士傳達到另一名戰士的戰鬥口號。,從一名戰士傳達到另一名戰士的戰鬥口號。,同袍兄弟，狂呼迎戰,hv_historical_skill_ability_metal_01_description
+One with the People,人遁,Vanilla,人遁,人遁,人遁,False,True,與人合一,Vanilla,與人合一,與人合一,人遁,hv_historical_skill_ability_healer_03_name
+Knowledge that your comrades will never abandon you brings tremendous comfort.,兄弟不弃，可谓安心,Vanilla,兄弟不弃，可谓安心,兄弟不弃，可谓安心,兄弟不弃，可谓安心。,True,True,知道同胞絕不會捨自己而去，能讓人大感安心。,Vanilla,知道同胞絕不會捨自己而去，能讓人大感安心。,知道同胞絕不會捨自己而去，能讓人大感安心。,兄弟不棄，可謂安心。,hv_historical_skill_ability_healer_03_description
+Into the Breach,突围,Vanilla,突围,突围,背水,True,True,乘隙而入,Vanilla,乘隙而入,乘隙而入,背水,hv_historical_skill_ability_healer_02_name
+"A charge, fuelled by stern hearts and sterner blades, that will rip enemy lines apart.",坚定之心，锋利宝刃，足以撕破敌阵,Vanilla,坚定之心，锋利宝刃，足以撕破敌阵,坚定之心，锋利宝刃，足以撕破敌阵,坚定之心，锐利宝刃，足矣！,True,True,以堅定的心智和強硬的刀刃發起衝鋒，便能一舉撕裂敵陣。,Vanilla,以堅定的心智和強硬的刀刃發起衝鋒，便能一舉撕裂敵陣。,以堅定的心智和強硬的刀刃發起衝鋒，便能一舉撕裂敵陣。,堅定之心，銳利寶刃，足矣！,hv_historical_skill_ability_healer_02_description
+Fleet-footed,疾行,Vanilla,疾行,疾行,疾行,False,True,腳步迅捷,Vanilla,腳步迅捷,腳步迅捷,疾行,hv_historical_skill_ability_healer_01_name
+This hero believes you can only kill that which you can catch.,此人行动迅如狡兔，万军擒拿亦若无物。,MappedByPattern,,此人相信，要将敌人除之而后快，就必须先追得上敌人。,此人相信，要将敌人除之而后快，就必须先追得上敌人。,True,False,此人相信，要將敵人除之而後快，就必須先追得上敵人。,MappedByPattern,,此人相信，要將敵人除之而後快，就必須先追得上敵人。,此人相信，要將敵人除之而後快，就必須先追得上敵人。,hv_historical_skill_ability_healer_01_description
+Tracker,追踪,MappedByPattern,,追踪,追踪,False,False,追蹤,MappedByPattern,,追蹤,追蹤,hv_historical_skill_ability_fire_03_name
+Few can escape this warrior's pursuit.,很少有人能逃过这位勇士的追杀。,MappedByPattern,,很少有人能逃过这位勇士的追杀。,很少有人能逃过这位勇士的追杀。,False,False,很少有人能逃過這位勇士的追殺。,MappedByPattern,,很少有人能逃過這位勇士的追殺。,很少有人能逃過這位勇士的追殺。,hv_historical_skill_ability_fire_03_description
+Flames of the Phoenix,炎凤,Vanilla,炎凤,炎凤,炎凤,False,True,鳳凰之火,Vanilla,鳳凰之火,鳳凰之火,炎鳳,hv_historical_skill_ability_fire_02_name
+A devastating swing with the power of the risen inferno!,凤怒炎涛，摧枯拉朽！,Vanilla,凤怒炎涛，摧枯拉朽！,凤怒炎涛，摧枯拉朽！,凤怒炎涛，摧枯拉朽！,False,True,挾帶竄升烈火之力的毀滅一擊！,Vanilla,挾帶竄升烈火之力的毀滅一擊！,挾帶竄升烈火之力的毀滅一擊！,鳳怒炎濤，摧枯拉朽！,hv_historical_skill_ability_fire_02_description
+Into the Breach,突围,Vanilla,突围,突围,背水,True,True,乘隙而入,Vanilla,乘隙而入,乘隙而入,背水,hv_historical_skill_ability_fire_01_name
+"A charge, fuelled by stern hearts and sterner blades, will rip enemy lines apart.",坚定之心，锋利宝刃，足以撕破敌阵,Vanilla,坚定之心，锋利宝刃，足以撕破敌阵,坚定之心，锋利宝刃，足以撕破敌阵,坚定之心，锐利宝刃，足矣！,True,True,以堅定的心智和強硬的刀刃發起衝鋒，便能一舉撕裂敵陣。,Vanilla,以堅定的心智和強硬的刀刃發起衝鋒，便能一舉撕裂敵陣。,以堅定的心智和強硬的刀刃發起衝鋒，便能一舉撕裂敵陣。,堅定之心，銳利寶刃，足矣！,hv_historical_skill_ability_fire_01_description
+Assemble,齐心,MappedByPattern,,集结,齐心,False,True,集結,MappedByPattern,,集結,齊心,hv_historical_skill_ability_earth_03_name
+Soldiers gather under the banner of this hero.,军士聚于此英雄之旗下。,MappedByPattern,,军士聚于此英雄之旗下。,英雄大志者必能凝聚人心。,True,True,军士聚于此英雄之旗下。,MappedByPattern,,军士聚于此英雄之旗下。,英雄大志者必能凝聚人心。,hv_historical_skill_ability_earth_03_description
+Stone Bulwark,磐石,MappedByPattern,磐石,磐石,磐石,False,True,堅若磐石,MappedByPattern,堅若磐石,堅若磐石,磐石,hv_historical_skill_ability_earth_02_name
+"With skin of earth, arrows rebound, harmless.",凭地利，如披坚甲，箭若无物,MappedByPattern,凭地利，如披坚甲，箭若无物,凭地利，如披坚甲，箭若无物,凭地利，如披坚甲，箭若无物,False,True,皮若堅石，箭矢觸及皆反彈無傷。,MappedByPattern,皮若堅石，箭矢觸及皆反彈無傷。,皮若堅石，箭矢觸及皆反彈無傷。,憑地利，如披堅甲，箭若無物,hv_historical_skill_ability_earth_02_description
+A Storm of Swords,舞爪,MappedByPattern,,剑刃风暴,舞爪,False,True,劍刃風暴,MappedByPattern,,劍刃風暴,舞爪,hv_historical_skill_ability_earth_01_name
+A clash is inevitable.,冲突无法避免。,MappedByPattern,,冲突无法避免。,冲突无法避免。,False,False,衝突無法避免。,MappedByPattern,,衝突無法避免。,衝突無法避免。,hv_historical_skill_ability_earth_01_description
+Youthful Vigor,稚虎,Procrastinator,,,稚虎,False,False,稚虎,Procrastinator,,,稚虎,3k_main_skill_special_ability_wood_youthful_vigor_name
+"Gaun Xing drives his men without mercy, yet it always proves effective.",关兴对他的手下也从不手下留情，这令他的部曲令人生畏。,Procrastinator,,,关兴对他的手下也从不手下留情，这令他的部曲令人生畏。,False,False,關興對他的手下也從不手下留情，這令他的部曲令人生畏。,Procrastinator,,,關興對他的手下也從不手下留情，這令他的部曲令人生畏。,3k_main_skill_special_ability_wood_youthful_vigor_description
+Death Oath,破甑,Procrastinator,,,破甑,False,False,破甑,Procrastinator,,,破甑,3k_main_skill_special_ability_wood_victory_or_death_name
+"Pang De promises only death - to his adversary, or to himself.",庞德冲锋时不顾自身死活，总是捷足先登。,Procrastinator,,,庞德冲锋时不顾自身死活，总是捷足先登。,False,False,龐德衝鋒時不顧自身死活，總是捷足先登。,Procrastinator,,,龐德衝鋒時不顧自身死活，總是捷足先登。,3k_main_skill_special_ability_wood_victory_or_death_description
+Unwed Warrior,处子,Procrastinator,,,处子,False,False,處子,Procrastinator,,,處子,3k_main_skill_special_ability_wood_unwed_warrior_name
+ Lady Trieu has devoted her life to the fight for freedom.,为光复骆越而战，岂可浪费时间于男女情长。,Procrastinator,,,为光复骆越而战，岂可浪费时间于男女情长。,False,False,爲光復駱越而戰，豈可浪費時間於男女情長。,Procrastinator,,,爲光復駱越而戰，豈可浪費時間於男女情長。,3k_main_skill_special_ability_wood_unwed_warrior_description
+Unexpected Strike,突袭,Procrastinator,,,突袭,False,False,突襲,Procrastinator,,,突襲,3k_main_skill_special_ability_wood_unexpected_strike_name
+Who can defend against that which he cannot see?,出其不备，攻其不意。,Procrastinator,,,出其不备，攻其不意。,False,False,出其不備，攻其不意。,Procrastinator,,,出其不備，攻其不意。,3k_main_skill_special_ability_wood_unexpected_strike_description
+Tiger Suppression,伏虎,Procrastinator,,,伏虎,False,False,伏虎,Procrastinator,,,伏虎,3k_main_skill_special_ability_wood_tiger_suppression_name
+Huang Zu is famed to have put the Tiger of Jiangdong in his coffin.,黄祖最善于百步之外阴袭敌军。,Procrastinator,,,黄祖最善于百步之外阴袭敌军。,False,False,黃祖最善於百步之外陰襲敵軍。,Procrastinator,,,黃祖最善於百步之外陰襲敵軍。,3k_main_skill_special_ability_wood_tiger_suppression_description
+Fist of the Righteous,正气,Procrastinator,,,正气,False,False,正氣,Procrastinator,,,正氣,3k_main_skill_special_ability_wood_strike_of_justice_name
+"In the name of honor and the people, the virtuous Luo Jun strikes hard and true.",正气凛然，骆俊的重击充满着正义与民意。,Procrastinator,,,正气凛然，骆俊的重击充满着正义与民意。,False,False,正氣凜然，駱俊的重擊充滿着正義與民意。,Procrastinator,,,正氣凜然，駱俊的重擊充滿着正義與民意。,3k_main_skill_special_ability_wood_strike_of_justice_description
+Sister Outlaws,沆瀣,Procrastinator,,,沆瀣,False,False,沆瀣,Procrastinator,,,沆瀣,3k_main_skill_special_ability_wood_sister_bandits_name
+"The Zhu sisters have pledged to live, fight, and die together.",臭味相投，不求同生，只求共死。,Procrastinator,,,臭味相投，不求同生，只求共死。,False,False,臭味相投，不求同生，只求共死。,Procrastinator,,,臭味相投，不求同生，只求共死。,3k_main_skill_special_ability_wood_sister_bandits_description
+Rage of Lü Ji,无双,Procrastinator,,,无双,False,False,無雙,Procrastinator,,,無雙,3k_main_skill_special_ability_wood_rage_of_lu_ji_name
+"Like father, like daughter - Lü Ji’s uncontrollable temper decimates the enemy.",愈战愈勇，佛挡杀佛。,Procrastinator,,,愈战愈勇，佛挡杀佛。,False,False,愈戰愈勇，佛擋殺佛。,Procrastinator,,,愈戰愈勇，佛擋殺佛。,3k_main_skill_special_ability_wood_rage_of_lu_ji_description
+Die Hard,砥柱,Procrastinator,,,砥柱,False,False,砥柱,Procrastinator,,,砥柱,3k_main_skill_special_ability_wood_prevent_assassination_name
+Luo Jun has survived several attempts on his life.,遭扰攘之时，值兵革之际。,Procrastinator,,,遭扰攘之时，值兵革之际。,False,False,遭擾攘之時，值兵革之際。,Procrastinator,,,遭擾攘之時，值兵革之際。,3k_main_skill_special_ability_wood_prevent_assassination_description
+False Retreat,血斗,Procrastinator,,,血斗,False,False,血鬥,Procrastinator,,,血鬥,3k_main_skill_special_ability_wood_persistent_combat_name
+"Huang Zu feigns retreat, only to rapidly re-engage the unsuspecting enemy and give his men the upperhand.",即使是逆境之下，黄祖也不会退缩。,Procrastinator,,,即使是逆境之下，黄祖也不会退缩。,False,False,即使是逆境之下，黃祖也不會退縮。,Procrastinator,,,即使是逆境之下，黃祖也不會退縮。,3k_main_skill_special_ability_wood_persistent_combat_description
+Mercy of the Forest,琼林,Procrastinator,,,琼林,False,False,瓊林,Procrastinator,,,瓊林,3k_main_skill_special_ability_wood_mercy_of_the_forest_name
+"The favor of nature, though bountiful, does not come often.",来自于自然的恩惠，可是不可多得的。,Procrastinator,,,来自于自然的恩惠，可是不可多得的。,False,False,來自於自然的恩惠，可是不可多得的。,Procrastinator,,,來自於自然的恩惠，可是不可多得的。,3k_main_skill_special_ability_wood_mercy_of_the_forest_description
+Martial Prodigy,异禀,Procrastinator,,,异禀,False,False,異稟,Procrastinator,,,異稟,3k_main_skill_special_ability_wood_martial_prodigy_name
+"Lü Ji, gifted with uncanny martial talent and the ambition to hone her skills, wreaks havoc on the battlefield.",父为吕奉先，吕姬天赋异禀。,Procrastinator,,,父为吕奉先，吕姬天赋异禀。,False,False,父爲呂奉先，呂姬天賦異稟。,Procrastinator,,,父爲呂奉先，呂姬天賦異稟。,3k_main_skill_special_ability_wood_martial_prodigy_description
+Perpetual Devotion,背水,Procrastinator,,,背水,False,False,背水,Procrastinator,,,背水,3k_main_skill_special_ability_wood_last_resist_name
+"Revered for his allegiance to his Lord and his cause, Shen Pei shall never retreat as long as his Lord’s interests are threatened.",就算被围，审配也拒不投降，背水一战。,Procrastinator,,,就算被围，审配也拒不投降，背水一战。,False,False,就算被圍，審配也拒不投降，背水一戰。,Procrastinator,,,就算被圍，審配也拒不投降，背水一戰。,3k_main_skill_special_ability_wood_last_resist_description
+Indiscriminate Charge,困兽,Procrastinator,,,困兽,False,False,困獸,Procrastinator,,,困獸,3k_main_skill_special_ability_wood_indiscriminate_charge_name
+"Strong of will, but without tact. Shen Pei charges into the fray without hesitation, pushing his men with him, willing to win by determination alone.",独拥残兵守邺城，审配慷慨壮烈。,Procrastinator,,,独拥残兵守邺城，审配慷慨壮烈。,False,False,獨擁殘兵守鄴城，審配慷慨壯烈。,Procrastinator,,,獨擁殘兵守鄴城，審配慷慨壯烈。,3k_main_skill_special_ability_wood_indiscriminate_charge_description
+Hope of Nam Viet,民意,Procrastinator,,,民意,False,False,民意,Procrastinator,,,民意,3k_main_skill_special_ability_wood_hope_of_nam_viet_name
+The hopes of her people rest squarely on her shoulders; Lady Trieu will not fail them.,身背骆越人民的希望，赵贞娘绝不会退缩。,Procrastinator,,,身背骆越人民的希望，赵贞娘绝不会退缩。,False,False,身背駱越人民的希望，趙貞娘絕不會退縮。,Procrastinator,,,身背駱越人民的希望，趙貞娘絕不會退縮。,3k_main_skill_special_ability_wood_hope_of_nam_viet_description
+Guardian,卫足,MappedByPattern,卫御甲,,卫足,False,False,衛足,MappedByPattern,護衛,,衛足,3k_main_skill_special_ability_wood_guardian_name
+A noble guardian protects his people at all costs.,百姓卫士，民为其足,MappedByPattern,,,百姓卫士，民为其足,False,False,百姓衛士，民爲其足,MappedByPattern,,,百姓衛士，民爲其足,3k_main_skill_special_ability_wood_guardian_description
+Tempest’s Roar,恶浪,Procrastinator,,,恶浪,False,False,惡浪,Procrastinator,,,惡浪,3k_main_skill_special_ability_wood_goddess_of_battle_name
+Lady Trieu leaves a path of destruction in her wake.,赵妪所经之处无所不催。,Procrastinator,,,赵妪所经之处无所不催。,False,False,趙嫗所經之處無所不催。,Procrastinator,,,趙嫗所經之處無所不催。,3k_main_skill_special_ability_wood_goddess_of_battle_description
+Flower on the Battlefield,龙女,Procrastinator,,,龙女,False,False,龍女,Procrastinator,,,龍女,3k_main_skill_special_ability_wood_flower_on_the_battlefield_name
+"Beneath the beauty, there lives a beast.",美貌之下，藏着一头桀骜不驯的猛兽。,Procrastinator,,,美貌之下，藏着一头桀骜不驯的猛兽。,False,False,美貌之下，藏着一頭桀驁不馴的猛獸。,Procrastinator,,,美貌之下，藏着一頭桀驁不馴的猛獸。,3k_main_skill_special_ability_wood_flower_on_the_battlefield_description
+Distrust of Power,藏刀,Procrastinator,,,藏刀,False,False,藏刀,Procrastinator,,,藏刀,3k_main_skill_special_ability_wood_distrust_power_name
+Zhu Tu and Zhu Beng have witnessed first-hand how power steadily corrupted their former friend Zheng Jiang.,不臣之士，话里藏刀。,Procrastinator,,,不臣之士，话里藏刀。,False,False,不臣之士，話裏藏刀。,Procrastinator,,,不臣之士，話裏藏刀。,3k_main_skill_special_ability_wood_distrust_power_description
+Successor of the War God,箕裘,Procrastinator,,,箕裘,False,False,箕裘,Procrastinator,,,箕裘,3k_main_skill_special_ability_wood_demigod_of_war_name
+The martial prowess of Guan Yu has been passed on to his child.,一脉相承，不愧为武圣之女！,Procrastinator,,,一脉相承，不愧为武圣之女！,False,False,一脈相承，不愧爲武聖之女！,Procrastinator,,,一脈相承，不愧爲武聖之女！,3k_main_skill_special_ability_wood_demigod_of_war_description
+Coffin March,死战,Procrastinator,,,死战,False,False,死戰,Procrastinator,,,死戰,3k_main_skill_special_ability_wood_coffin_march_name
+Pang De marches to battle with an empty coffin in his vanguard. It will not remain empty.,庞德要么会取得胜利，要么就是死战入土。,Procrastinator,,,庞德要么会取得胜利，要么就是死战入土。,False,False,龐德要麼會取得勝利，要麼就是死戰入土。,Procrastinator,,,龐德要麼會取得勝利，要麼就是死戰入土。,3k_main_skill_special_ability_wood_coffin_march_description
+Champion of Xiliang,断蛟,Procrastinator,,,断蛟,False,False,斷蛟,Procrastinator,,,斷蛟,3k_main_skill_special_ability_wood_champion_of_xiliang_name
+"Fierce as a lion and as unrelenting as the wind, Pang De may be the finest warrior Xiliang ever produced.",庞德既能与关公死战，那也必能匹敌马超。,Procrastinator,,,庞德既能与关公死战，那也必能匹敌马超。,False,False,龐德既能與關公死戰，那也必能匹敵馬超。,Procrastinator,,,龐德既能與關公死戰，那也必能匹敵馬超。,3k_main_skill_special_ability_wood_champion_of_xiliang_description
+Brawn of Yangan,斗牛,Procrastinator,,,斗牛,False,False,鬥牛,Procrastinator,,,鬥牛,3k_main_skill_special_ability_wood_brawn_of_yangan_name
+Rumors speak of a man in Yangan who can wrestle an ox,有传言说有一人可以徒手驯服一头暴怒的公牛。,Procrastinator,,,有传言说有一人可以徒手驯服一头暴怒的公牛。,False,False,有傳言說有一人可以徒手馴服一頭暴怒的公牛。,Procrastinator,,,有傳言說有一人可以徒手馴服一頭暴怒的公牛。,3k_main_skill_special_ability_wood_brawn_of_yangan_description
+Avenge,逐北,Procrastinator,,,逐北,False,False,逐北,Procrastinator,,,逐北,3k_main_skill_special_ability_wood_avenge_name
+"Revenge is the act of passion, vengeance is an act of justice. For Zhang Bao, both are one and the same.",敌军势穷，怎可不乘胜追击？,Procrastinator,,,敌军势穷，怎可不乘胜追击？,False,False,敵軍勢窮，怎可不乘勝追擊？,Procrastinator,,,敵軍勢窮，怎可不乘勝追擊？,3k_main_skill_special_ability_wood_avenge_description
+Unbreakable Faith,铁壁,Procrastinator,,,铁壁,False,False,鐵壁,Procrastinator,,,鐵壁,3k_main_skill_special_ability_water_unbreakable_faith_name
+Xun Yu’s firm and unbroken will is an example to all soldiers.,荀彧坚定不移的意志是将士之范。,Procrastinator,,,荀彧坚定不移的意志是将士之范。,False,False,荀彧堅定不移的意志是將士之範。,Procrastinator,,,荀彧堅定不移的意志是將士之範。,3k_main_skill_special_ability_water_unbreakable_faith_description
+Tyrant's Gaze,狼视,Procrastinator,,,狼视,False,False,狼視,Procrastinator,,,狼視,3k_main_skill_special_ability_water_tyrants_gaze_name
+Dong Bai's infernal grandfather always keeps an eye on her.,栖身与暴君鹯狼身旁，董白已练就金刚不坏之身。,Procrastinator,,,栖身与暴君鹯狼身旁，董白已练就金刚不坏之身。,False,False,棲身與暴君鸇狼身旁，董白已練就金剛不壞之身。,Procrastinator,,,棲身與暴君鸇狼身旁，董白已練就金剛不壞之身。,3k_main_skill_special_ability_water_tyrants_gaze_description
+Unfortunate Foresight,止战,Procrastinator,,,止战,False,False,止戰,Procrastinator,,,止戰,3k_main_skill_special_ability_water_tragic_foresight_name
+One cannot save one’s friends from impending disaster if they do not listen.,为国者以民为基，民以衣食为本。,Procrastinator,,,为国者以民为基，民以衣食为本。,False,False,爲國者以民爲基，民以衣食爲本。,Procrastinator,,,爲國者以民爲基，民以衣食爲本。,3k_main_skill_special_ability_water_tragic_foresight_description
+Tantrum,痛斥,Procrastinator,,,痛斥,False,False,痛斥,Procrastinator,,,痛斥,3k_main_skill_special_ability_water_tantrum_name
+"Most men would voluntarily take on an entire army alone, if it means escaping the tantrum of this insufferable child.",将士宁可上阵出生入死，也不肯在营中被将军责骂。,Procrastinator,,,将士宁可上阵出生入死，也不肯在营中被将军责骂。,False,False,將士寧可上陣出生入死，也不肯在營中被將軍責罵。,Procrastinator,,,將士寧可上陣出生入死，也不肯在營中被將軍責罵。,3k_main_skill_special_ability_water_tantrum_description
+Quick Preparation,旋踵,Procrastinator,,,旋踵,False,False,旋踵,Procrastinator,,,旋踵,3k_main_skill_special_ability_water_quick_preparation_name
+Lu Zheng’s steady and skilled hands know how to strike quickly.,陆政使用长弓手到擒来，总能先人一步拉弓搭箭。,Procrastinator,,,陆政使用长弓手到擒来，总能先人一步拉弓搭箭。,False,False,陸政使用長弓手到擒來，總能先人一步拉弓搭箭。,Procrastinator,,,陸政使用長弓手到擒來，總能先人一步拉弓搭箭。,3k_main_skill_special_ability_water_quick_preparation_description
+Poisoned Chalice,分坐,Procrastinator,,,分坐,False,False,分坐,Procrastinator,,,分坐,3k_main_skill_special_ability_water_poison_name
+"“Hurry, drink this panacea and all your troubles will slip away.”",我视你为友，你竟然因一片黄金而与我割席而坐。,Procrastinator,,,我视你为友，你竟然因一片黄金而与我割席而坐。,False,False,我視你爲友，你竟然因一片黃金而與我割席而坐。,Procrastinator,,,我視你爲友，你竟然因一片黃金而與我割席而坐。,3k_main_skill_special_ability_water_poison_description
+Marksman of Taiyuan,神射,Procrastinator,,,神射,False,False,神射,Procrastinator,,,神射,3k_main_skill_special_ability_water_marksman_of_taiyuan_name
+Lu Zheng never misses the prey.,陆政的猎物对她来说犹如瓮中捉鳖。,Procrastinator,,,陆政的猎物对她来说犹如瓮中捉鳖。,False,False,陸政的獵物對她來說猶如甕中捉鱉。,Procrastinator,,,陸政的獵物對她來說猶如甕中捉鱉。,3k_main_skill_special_ability_water_marksman_of_taiyuan_description
+Sound Advice,劝谏,Procrastinator,,,劝谏,False,False,勸諫,Procrastinator,,,勸諫,3k_main_skill_special_ability_water_loyal_advice_name
+Yan Xiang’s calculated and prudent counsel prevails again and again.,「昔周自后稷至于文王，积德累功，三分天下有其二，犹服事殷。明公虽奕世克昌，未若有周之盛，汉室虽微，未若殷纣之暴也。」,Procrastinator,,,「昔周自后稷至于文王，积德累功，三分天下有其二，犹服事殷。明公虽奕世克昌，未若有周之盛，汉室虽微，未若殷纣之暴也。」,False,False,「昔周自後稷至於文王，積德累功，三分天下有其二，猶服事殷。明公雖奕世克昌，未若有周之盛，漢室雖微，未若殷紂之暴也。」,Procrastinator,,,「昔周自後稷至於文王，積德累功，三分天下有其二，猶服事殷。明公雖奕世克昌，未若有周之盛，漢室雖微，未若殷紂之暴也。」,3k_main_skill_special_ability_water_loyal_advice_description
+Lament,恸哭,Procrastinator,,,恸哭,False,False,慟哭,Procrastinator,,,慟哭,3k_main_skill_special_ability_water_lament_name
+How did the state of affairs end up so dire...,梨花带雨，我见犹怜。,Procrastinator,,,梨花带雨，我见犹怜。,False,False,梨花帶雨，我見猶憐。,Procrastinator,,,梨花帶雨，我見猶憐。,3k_main_skill_special_ability_water_lament_description
+Foul Wits,远瞩,Procrastinator,,,远瞩,False,False,遠矚,Procrastinator,,,遠矚,3k_main_skill_special_ability_water_foul_wits_name
+Hua Xin knows and accepts that terrible acts must be committed to preserve his status within the hierarchy.,高瞻之论还需配上愿听忠言之明主。,Procrastinator,,,高瞻之论还需配上愿听忠言之明主。,False,False,高瞻之論還需配上願聽忠言之明主。,Procrastinator,,,高瞻之論還需配上願聽忠言之明主。,3k_main_skill_special_ability_water_foul_wits_description
+Fatal Attraction,妩媚,Procrastinator,,,妩媚,False,False,嫵媚,Procrastinator,,,嫵媚,3k_main_skill_special_ability_water_fatal_attraction_name
+Those attracted to the charms of Lady Zhu... beware.,「不知夫人今宵愿与我同席共枕否？」,Procrastinator,,,「不知夫人今宵愿与我同席共枕否？」,False,False,「不知夫人今宵願與我同席共枕否？」,Procrastinator,,,「不知夫人今宵願與我同席共枕否？」,3k_main_skill_special_ability_water_fatal_attraction_description
+Eloquent Speaker,铁舌,Procrastinator,,,铁舌,False,False,鐵舌,Procrastinator,,,鐵舌,3k_main_skill_special_ability_water_eloquent_speaker_name
+"Cai Yan’s word inspired emotion in the arts and, now, that language gives life to the battlefield.",能言雄辩之人有时甚于一员猛将。,Procrastinator,,,能言雄辩之人有时甚于一员猛将。,False,False,能言雄辯之人有時甚於一員猛將。,Procrastinator,,,能言雄辯之人有時甚於一員猛將。,3k_main_skill_special_ability_water_eloquent_speaker_description
+Deft Touch,龙韬,Procrastinator,,,龙韬,False,False,龍韜,Procrastinator,,,龍韜,3k_main_skill_special_ability_water_elegant_and_cultured_name
+Her cultured and considerate approach boosts the army’s fighting skill and spirit.,熟读兵书，精通兵法之将领可令千人有万人之威。,Procrastinator,,,熟读兵书，精通兵法之将领可令千人有万人之威。,False,False,熟讀兵書，精通兵法之將領可令千人有萬人之威。,Procrastinator,,,熟讀兵書，精通兵法之將領可令千人有萬人之威。,3k_main_skill_special_ability_water_elegant_and_cultured_description
+Words of Encouragement,振奋,Procrastinator,,,振奋,False,False,振奮,Procrastinator,,,振奮,3k_main_skill_special_ability_water_console_name
+"With her behind them, Hou Jinting’s troops battle on with renewed vigor.",主之贤明，将愿捐躯。,Procrastinator,,,主之贤明，将愿捐躯。,False,False,主之賢明，將願捐軀。,Procrastinator,,,主之賢明，將願捐軀。,3k_main_skill_special_ability_water_console_description
+Cautious Approach,匿形,Procrastinator,,,匿形,False,False,匿形,Procrastinator,,,匿形,3k_main_skill_special_ability_water_cautious_approach_name
+The bandits’ covert movements and attacks are as swift as they are deadly.,匿影藏形于林宇之间，狠下毒手，攻其敌于不备。,Procrastinator,,,匿影藏形于林宇之间，狠下毒手，攻其敌于不备。,False,False,匿影藏形於林宇之間，狠下毒手，攻其敵於不備。,Procrastinator,,,匿影藏形於林宇之間，狠下毒手，攻其敵於不備。,3k_main_skill_special_ability_water_cautious_approach_description
+Element of Surprise,奇袭,Procrastinator,,,奇袭,False,False,奇襲,Procrastinator,,,奇襲,3k_main_skill_special_ability_water_calculated_judgment_name
+"By anticipating the enemy’s movement, Yan Xiang is able to outmaneuver and catch them off-guard.",出其不意，瓮中捉鳖。,Procrastinator,,,出其不意，瓮中捉鳖。,False,False,出其不意，甕中捉鱉。,Procrastinator,,,出其不意，甕中捉鱉。,3k_main_skill_special_ability_water_calculated_judgment_description
+Broad Knowledge,渊博,Procrastinator,,,渊博,False,False,淵博,Procrastinator,,,淵博,3k_main_skill_special_ability_water_broad_Knowledge_name
+Her knowledge spreads to fellow generals around her like the veins of a stream.,没人能不被蔡文姬浑身上下都散发着的学识所影响。,Procrastinator,,,没人能不被蔡文姬浑身上下都散发着的学识所影响。,False,False,沒人能不被蔡文姬渾身上下都散發着的學識所影響。,Procrastinator,,,沒人能不被蔡文姬渾身上下都散發着的學識所影響。,3k_main_skill_special_ability_water_broad_Knowledge_description
+Blossoming Beauty,天仙,Procrastinator,,,天仙,False,False,天仙,Procrastinator,,,天仙,3k_main_skill_special_ability_water_blossoming_beauty_name
+Diaochan knows how to encourage frightened warriors and lead them to battle.,美人一笑，士愿捐躯。,Procrastinator,,,美人一笑，士愿捐躯。,False,False,美人一笑，士願捐軀。,Procrastinator,,,美人一笑，士願捐軀。,3k_main_skill_special_ability_water_blossoming_beauty_description
+Vigor of a Warrior,热血,Procrastinator,,,热血,False,False,熱血,Procrastinator,,,熱血,3k_main_skill_special_ability_metal_vigor_of_a_warrior_name
+Ma Yunlu disregards fatigue as she fights and rages in combat.,马云禄战起来称其为废寝忘食也不为过。,Procrastinator,,,马云禄战起来称其为废寝忘食也不为过。,False,False,馬雲祿戰起來稱其爲廢寢忘食也不爲過。,Procrastinator,,,馬雲祿戰起來稱其爲廢寢忘食也不爲過。,3k_main_skill_special_ability_metal_vigor_of_a_warrior_description
+Suppressive Fire,冷箭,Procrastinator,,,冷箭,False,False,冷箭,Procrastinator,,,冷箭,3k_main_skill_special_ability_metal_suppressive_fire_name
+Relentless fire from Hua Lanli pins the enemy back.,明枪好躲，暗箭难防。,Procrastinator,,,明枪好躲，暗箭难防。,False,False,明槍好躲，暗箭難防。,Procrastinator,,,明槍好躲，暗箭難防。,3k_main_skill_special_ability_metal_suppressive_fire_description
+Storytelling,妙语,Procrastinator,,,妙语,False,False,妙語,Procrastinator,,,妙語,3k_main_skill_special_ability_metal_story_telling_name
+"Even on the battlefield, witty talk boosts your energy.",能言之人在就算战场上也能用唇舌鼓舞三军。,Procrastinator,,,能言之人在就算战场上也能用唇舌鼓舞三军。,False,False,能言之人在就算戰場上也能用脣舌鼓舞三軍。,Procrastinator,,,能言之人在就算戰場上也能用脣舌鼓舞三軍。,3k_main_skill_special_ability_metal_story_telling_description
+Rain of Fire,飞蝗,Procrastinator,,,飞蝗,False,False,飛蝗,Procrastinator,,,飛蝗,3k_main_skill_special_ability_metal_shower_of_arrows_name
+Hua Lanli’s pinpoint accuracy strikes fear in the enemy.,华氏射出的飞箭如漫天蝗虫一般袭向敌手，令人变貌失色。,Procrastinator,,,华氏射出的飞箭如漫天蝗虫一般袭向敌手，令人变貌失色。,False,False,華氏射出的飛箭如漫天蝗蟲一般襲向敵手，令人變貌失色。,Procrastinator,,,華氏射出的飛箭如漫天蝗蟲一般襲向敵手，令人變貌失色。,3k_main_skill_special_ability_metal_shower_of_arrows_description
+Shadow of the Black Mountain,黑影,Procrastinator,,,黑影,False,False,黑影,Procrastinator,,,黑影,3k_main_skill_special_ability_metal_shadow_of_the_black_mountain_name
+Legends speak of a woman who slips in and out of the shadows of Heishan...,传黑山有一女，能如遁迹匿影，来去自如。,Procrastinator,,,传黑山有一女，能如遁迹匿影，来去自如。,False,False,傳黑山有一女，能如遁跡匿影，來去自如。,Procrastinator,,,傳黑山有一女，能如遁跡匿影，來去自如。,3k_main_skill_special_ability_metal_shadow_of_the_black_mountain_description
+Pursuit,饿虎,Procrastinator,,,饿虎,False,False,餓虎,Procrastinator,,,餓虎,3k_main_skill_special_ability_metal_pursuit_name
+"Once targeted, the enemy cannot escape from Yijian Liting.",猎人猎物，瓮中捉鳖。,Procrastinator,,,猎人猎物，瓮中捉鳖。,False,False,獵人獵物，甕中捉鱉。,Procrastinator,,,獵人獵物，甕中捉鱉。,3k_main_skill_special_ability_metal_pursuit_description
+Provocation,挑衅,Procrastinator,,,挑衅,False,False,挑釁,Procrastinator,,,挑釁,3k_main_skill_special_ability_metal_provocation_name
+"“Come on, come on! You’ll have to deal with Liu Bei, Guan Yu, and Zhang Fei first! Haha!”",你难道想在沙场上于刘关张相会？,Procrastinator,,,你难道想在沙场上于刘关张相会？,False,False,你難道想在沙場上於劉關張相會？,Procrastinator,,,你難道想在沙場上於劉關張相會？,3k_main_skill_special_ability_metal_provocation_description
+Persistent Attack,不衰,Procrastinator,,,不衰,False,False,不衰,Procrastinator,,,不衰,3k_main_skill_special_ability_metal_persistent_attack_name
+Yijian Liting is both relentless and persistent in her approach.,持久且不衰，伊健丽婷永不放弃。,Procrastinator,,,持久且不衰，伊健丽婷永不放弃。,False,False,持久且不衰，伊健麗婷永不放棄。,Procrastinator,,,持久且不衰，伊健麗婷永不放棄。,3k_main_skill_special_ability_metal_persistent_attack_description
+Lucky Pearl,松柏,Procrastinator,,,松柏,False,False,松柏,Procrastinator,,,松柏,3k_main_skill_special_ability_metal_lucky_pearl_name
+"This special pearl, gifted by Zhang Fei, has protected Guan Yinping from all kinds of danger","「漫道无华争俏丽,长青更胜一时芳。」",Procrastinator,,,"「漫道无华争俏丽,长青更胜一时芳。」",False,False,"「漫道無華爭俏麗,長青更勝一時芳。」",Procrastinator,,,"「漫道無華爭俏麗,長青更勝一時芳。」",3k_main_skill_special_ability_metal_lucky_pearl_description
+Heavenly Color,国色,Procrastinator,,,国色,False,False,國色,Procrastinator,,,國色,3k_main_skill_special_ability_metal_heavenly_color_name
+"The beauty of bridge and bridge is widely known in Gangdong. \\n For them, there is even a line of soldiers who want to protect their country at the risk of their lives.",二乔的美貌名扬江东。为了她们，士卒们愿意出生入死，保家卫国。,Procrastinator,,,二乔的美貌名扬江东。为了她们，士卒们愿意出生入死，保家卫国。,False,False,二喬的美貌名揚江東。爲了她們，士卒們願意出生入死，保家衛國。,Procrastinator,,,二喬的美貌名揚江東。爲了她們，士卒們願意出生入死，保家衛國。,3k_main_skill_special_ability_metal_heavenly_color_description
+People of the Horse,骐骥,Procrastinator,,,骐骥,False,False,騏驥,Procrastinator,,,騏驥,3k_main_skill_special_ability_metal_experienced_rider_name
+The Qiang are on horseback before they can walk; their horsemanship is second nature.,羌人自小学习骑术，骑术十分了得。,Procrastinator,,,羌人自小学习骑术，骑术十分了得。,False,False,羌人自小學習騎術，騎術十分了得。,Procrastinator,,,羌人自小學習騎術，騎術十分了得。,3k_main_skill_special_ability_metal_experienced_rider_description
+Double Sword Dance,剑舞,Procrastinator,,,剑舞,False,False,劍舞,Procrastinator,,,劍舞,3k_main_skill_special_ability_metal_double_sword_dance_name
+Ma Yunlu’s double sword dance is beautiful as it is lethal.,舞剑操刀于敌众之间。,Procrastinator,,,舞剑操刀于敌众之间。,False,False,舞劍操刀於敵衆之間。,Procrastinator,,,舞劍操刀於敵衆之間。,3k_main_skill_special_ability_metal_double_sword_dance_description
+Crippling Strike,摧心,Procrastinator,,,摧心,False,False,摧心,Procrastinator,,,摧心,3k_main_skill_special_ability_metal_critical strike_name
+Even the strongest of warriors are temporarily immobilized when a pressure point is struck.,摧心剖肝，直中要害。,Procrastinator,,,摧心剖肝，直中要害。,False,False,摧心剖肝，直中要害。,Procrastinator,,,摧心剖肝，直中要害。,3k_main_skill_special_ability_metal_critical strike_description
+Safe Haven,回春,Procrastinator,,,回春,False,False,回春,Procrastinator,,,回春,3k_main_skill_special_ability_metal_cosy_haven_name
+Yuan Anyang’s grace and personality exude warmth.,冬去春来，生机勃发。,Procrastinator,,,冬去春来，生机勃发。,False,False,冬去春來，生機勃發。,Procrastinator,,,冬去春來，生機勃發。,3k_main_skill_special_ability_metal_cosy_haven_description
+Call of Courage,摆宴,Procrastinator,,,摆宴,False,False,擺宴,Procrastinator,,,擺宴,3k_main_skill_special_ability_metal_call_of_courage_name
+"If you survive the battle, I'll treat you to dinner!",设下酒宴，待将军得胜归来！,Procrastinator,,,设下酒宴，待将军得胜归来！,False,False,設下酒宴，待將軍得勝歸來！,Procrastinator,,,設下酒宴，待將軍得勝歸來！,3k_main_skill_special_ability_metal_call_of_courage_description
+Blooming Beauty,芳香,Procrastinator,,,芳香,False,False,芳香,Procrastinator,,,芳香,3k_main_skill_special_ability_metal_blooming_beauty_xiao_name
+Yuan Anyang’s unabating beauty encourages the soldiers and drives them to fight more passionately.,美妙的芬芳在前线总能鼓舞将士们勇猛杀敌。,Procrastinator,,,美妙的芬芳在前线总能鼓舞将士们勇猛杀敌。,False,False,美妙的芬芳在前線總能鼓舞將士們勇猛殺敵。,Procrastinator,,,美妙的芬芳在前線總能鼓舞將士們勇猛殺敵。,3k_main_skill_special_ability_metal_blooming_beauty_xiao_description
+Charge Forward,马首,Procrastinator,,,马首,False,False,馬首,Procrastinator,,,馬首,3k_main_skill_special_ability_fire_xianchenying_name
+"Under Zhang Xun’s leadership, his army is truly invincible.",张勋领军，当世无双。,Procrastinator,,,张勋领军，当世无双。,False,False,張勳領軍，當世無雙。,Procrastinator,,,張勳領軍，當世無雙。,3k_main_skill_special_ability_fire_xianchenying_description
+Blood Rush,虎翼,MappedByPattern,血冲,,虎翼,False,False,虎翼,MappedByPattern,熱血湧現,,虎翼,3k_main_skill_special_ability_fire_tiger_son_name
+"Zhang Bao charges mightily into the enemy, heedless of any dangers.",「亮以张苞为虎翼将军，杖前右护卫使。」,MappedByPattern,,,「亮以张苞为虎翼将军，杖前右护卫使。」,False,False,「亮以張苞爲虎翼將軍，杖前右護衛使。」,MappedByPattern,,,「亮以張苞爲虎翼將軍，杖前右護衛使。」,3k_main_skill_special_ability_fire_tiger_son_description
+Thunderous Blow,霆击,Procrastinator,,,霆击,False,False,霆擊,Procrastinator,,,霆擊,3k_main_skill_special_ability_fire_thunderous_blow_name
+"A blow with all of Chunyu’s strength, mighty as a thunderstrike.",竭尽全力，致命一击。,Procrastinator,,,竭尽全力，致命一击。,False,False,竭盡全力，致命一擊。,Procrastinator,,,竭盡全力，致命一擊。,3k_main_skill_special_ability_fire_thunderous_blow_description
+Wild Cry,断喝,Procrastinator,,,断喝,False,False,斷喝,Procrastinator,,,斷喝,3k_main_skill_special_ability_fire_thunderous_bellow_name
+"So terrifying is Zhang Bao’s booming howl, it has unhorsed enemy generals.",犹如其父亲张飞，张苞的怒吼同样也是响彻云霄。,Procrastinator,,,犹如其父亲张飞，张苞的怒吼同样也是响彻云霄。,False,False,猶如其父親張飛，張苞的怒吼同樣也是響徹雲霄。,Procrastinator,,,猶如其父親張飛，張苞的怒吼同樣也是響徹雲霄。,3k_main_skill_special_ability_fire_thunderous_bellow_description
+Last Stand,熊罴,Procrastinator,,,熊罴,False,False,熊羆,Procrastinator,,,熊羆,3k_main_skill_special_ability_fire_reckless_warrior_name
+"Heaven decides the victor, but Chunyu Qiong will not surrender. As death approaches, he redoubles his efforts in a desperate last stand.",奋不顾身，得失难记。,Procrastinator,,,奋不顾身，得失难记。,False,False,奮不顧身，得失難記。,Procrastinator,,,奮不顧身，得失難記。,3k_main_skill_special_ability_fire_reckless_warrior_description
+Bullheaded Wrath,浴血,Procrastinator,,,浴血,False,False,浴血,Procrastinator,,,浴血,3k_main_skill_special_ability_fire_ferocious_rush_name
+"As the fight goes on, Chunyu Qiong’s rage and stubbornness will turn him into a reckless, but powerful fighter, rushing in the thick of battle over and over.",怒火中烧，浴血奋战。,Procrastinator,,,怒火中烧，浴血奋战。,False,False,怒火中燒，浴血奮戰。,Procrastinator,,,怒火中燒，浴血奮戰。,3k_main_skill_special_ability_fire_ferocious_rush_description
+Two-Headed Dragon,龙虎,Procrastinator,,,龙虎,False,False,龍虎,Procrastinator,,,龍虎,3k_main_skill_special_ability_fire_father_daughter_name
+"Father and daughter, together in battle, is an ill omen for their rivals as was the mythical Hong.",父女同心，无往不利。,Procrastinator,,,父女同心，无往不利。,False,False,父女同心，無往不利。,Procrastinator,,,父女同心，無往不利。,3k_main_skill_special_ability_fire_father_daughter_description
+People of the Horse,骐骥,Procrastinator,,,骐骥,False,False,騏驥,Procrastinator,,,騏驥,3k_main_skill_special_ability_fire_experienced_rider_name
+The Qiang are on horseback before they can walk; their horsemanship is second nature.,羌人自小学习骑术，骑术十分了得。,Procrastinator,,,羌人自小学习骑术，骑术十分了得。,False,False,羌人自小學習騎術，騎術十分了得。,Procrastinator,,,羌人自小學習騎術，騎術十分了得。,3k_main_skill_special_ability_fire_experienced_rider_description
+Fanged Flurry,猛蛇,Procrastinator,,,猛蛇,False,False,猛蛇,Procrastinator,,,猛蛇,3k_main_skill_special_ability_fire_concentrated_strikes_name
+"Like a coiled viper, Zhang Xueer strikes so rapidly that it’s virtually unavoidable.",毒蛇出击，一击致命。,Procrastinator,,,毒蛇出击，一击致命。,False,False,毒蛇出擊，一擊致命。,Procrastinator,,,毒蛇出擊，一擊致命。,3k_main_skill_special_ability_fire_concentrated_strikes_description
+Frenzy,狂暴,Procrastinator,,,狂暴,False,False,狂暴,Procrastinator,,,狂暴,3k_main_skill_special_ability_fire_chunyu_qiong_frenzy_name
+"Once Yan Liang angers, he can quite literally crush his opponent.",被激怒了的淳于琼，将全力以赴，力战身死。,Procrastinator,,,被激怒了的淳于琼，将全力以赴，力战身死。,False,False,被激怒了的淳于瓊，將全力以赴，力戰身死。,Procrastinator,,,被激怒了的淳于瓊，將全力以赴，力戰身死。,3k_main_skill_special_ability_fire_chunyu_qiong_frenzy_description
+Exemplary Strike,捣穴,Procrastinator,,,捣穴,False,False,搗穴,Procrastinator,,,搗穴,3k_main_skill_special_ability_fire_camp_crushing_name
+The crushing blow is delivered by Zhang Xun’s own hand.,犁庭扫穴，无坚不摧。,Procrastinator,,,犁庭扫穴，无坚不摧。,False,False,犁庭掃穴，無堅不摧。,Procrastinator,,,犁庭掃穴，無堅不摧。,3k_main_skill_special_ability_fire_camp_crushing_description
+Spearhead,讨贼先锋,Vanilla,讨贼先锋,,破茧,True,True,突擊先鋒,Vanilla,突擊先鋒,,破繭,3k_main_skill_special_ability_fire_breakthrough_in_concentration_name
+ Zhang Xun leads the point of the attack and his men rally around him.,号令三军攻其一处！,Procrastinator,,,号令三军攻其一处！,False,False,號令三軍攻其一處！,Procrastinator,,,號令三軍攻其一處！,3k_main_skill_special_ability_fire_breakthrough_in_concentration_description
+Vermilion Comet,流星,Procrastinator,,,流星,False,False,流星,Procrastinator,,,流星,3k_main_skill_special_ability_fire_blood_flower_name
+"Named after the beauty of the shining stars, Zhang Xueer does her namesake justice in battle, becoming a swift rush of death and elegance.",张氏在战场上由于天上流星一般，美丽绝伦却又危险。,Procrastinator,,,张氏在战场上由于天上流星一般，美丽绝伦却又危险。,False,False,張氏在戰場上由於天上流星一般，美麗絕倫卻又危險。,Procrastinator,,,張氏在戰場上由於天上流星一般，美麗絕倫卻又危險。,3k_main_skill_special_ability_fire_blood_flower_description
+Angry Scolding,懿旨,Procrastinator,,,懿旨,False,False,懿旨,Procrastinator,,,懿旨,3k_main_skill_special_ability_earth_shout_name
+Stop! How dare you!,诏令在此，不得抗命！,Procrastinator,,,诏令在此，不得抗命！,False,False,詔令在此，不得抗命！,Procrastinator,,,詔令在此，不得抗命！,3k_main_skill_special_ability_earth_shout_description
+Order of the Tyrant,遮天,Procrastinator,,,遮天,False,False,遮天,Procrastinator,,,遮天,3k_main_skill_special_ability_earth_order_of_tyrant_name
+The roar of the tyrant hardens even the most cowardly soldier.,暴君的怒吼能让最懦弱的士兵也士气高昂，坚如磐石。,Procrastinator,,,暴君的怒吼能让最懦弱的士兵也士气高昂，坚如磐石。,False,False,暴君的怒吼能讓最懦弱的士兵也士氣高昂，堅如磐石。,Procrastinator,,,暴君的怒吼能讓最懦弱的士兵也士氣高昂，堅如磐石。,3k_main_skill_special_ability_earth_order_of_tyrant_description
+Cruel Command,强令,MappedByPattern,,,强令,False,False,強令,MappedByPattern,,,強令,3k_main_skill_special_ability_earth_lady_dong_cruel_command_name
+“Protect me! Sacrifice your life if you must!”,宁舍尔命，也得保障夫人毫发无伤。,Procrastinator,,,宁舍尔命，也得保障夫人毫发无伤。,False,False,寧舍爾命，也得保障夫人毫髮無傷。,Procrastinator,,,寧舍爾命，也得保障夫人毫髮無傷。,3k_main_skill_special_ability_earth_lady_dong_cruel_command_description
+Cao Cao's presence unnerves the enemy general!,曹操在场，敌将备受压制！,MappedByPattern,,曹操在场，敌将备受压制！,曹操的威势会激励周围所有部队，从而增强其战斗效率。,True,True,曹操在場，敵將備受壓制！,MappedByPattern,,曹操在場，敵將備受壓制！,曹操的威勢會激勵周圍所有部隊，從而增強其戰鬥效率。,3k_main_skill_special_ability_earth_imperious_presence_description
+Heavenly Color,国色,Procrastinator,,,国色,False,False,國色,Procrastinator,,,國色,3k_main_skill_special_ability_earth_heavenly_color_name
+"The beauty of bridge and bridge is widely known in Gangdong. \\n For them, there is even a line of soldiers who want to protect their country at the risk of their lives.",二乔的美貌名扬江东。为了她们，士卒们愿意出生入死，保家卫国。,Procrastinator,,,二乔的美貌名扬江东。为了她们，士卒们愿意出生入死，保家卫国。,False,False,二喬的美貌名揚江東。爲了她們，士卒們願意出生入死，保家衛國。,Procrastinator,,,二喬的美貌名揚江東。爲了她們，士卒們願意出生入死，保家衛國。,3k_main_skill_special_ability_earth_heavenly_color_description
+Greedy Tyrant,贪饕,Procrastinator,,,贪饕,False,False,貪饕,Procrastinator,,,貪饕,3k_main_skill_special_ability_earth_greedy_tyrant_name
+Collect more taxes!,贪如狼恶，好自积财。,Procrastinator,,,贪如狼恶，好自积财。,False,False,貪如狼惡，好自積財。,Procrastinator,,,貪如狼惡，好自積財。,3k_main_skill_special_ability_earth_greedy_tyrant_description
+Forced March,兴师,Procrastinator,,,兴师,False,False,興師,Procrastinator,,,興師,3k_main_skill_special_ability_earth_forced_march_name
+Lazy bastard! Move it!,你这厮，还不快接着走！,Procrastinator,,,你这厮，还不快接着走！,False,False,你這廝，還不快接着走！,Procrastinator,,,你這廝，還不快接着走！,3k_main_skill_special_ability_earth_forced_march_description
+Encouragement,金鼓,Procrastinator,,,金鼓,False,False,金鼓,Procrastinator,,,金鼓,3k_main_skill_special_ability_earth_encouragement_name
+Your spirit will be remembered forever.,将士们的所做所为将流芳百世！,Procrastinator,,,将士们的所做所为将流芳百世！,False,False,將士們的所做所爲將流芳百世！,Procrastinator,,,將士們的所做所爲將流芳百世！,3k_main_skill_special_ability_earth_encouragement_description
+Empress Wuxuan,母仪,Procrastinator,,,母仪,False,False,母儀,Procrastinator,,,母儀,3k_main_skill_special_ability_earth_empress_wuxuan_name
+There aren't many women who can handle the monarch of the century.,魏国之母，母仪天下。,Procrastinator,,,魏国之母，母仪天下。,False,False,魏國之母，母儀天下。,Procrastinator,,,魏國之母，母儀天下。,3k_main_skill_special_ability_earth_empress_wuxuan_description
+Empress Wulie,刚正,Procrastinator,,,刚正,False,False,剛正,Procrastinator,,,剛正,3k_main_skill_special_ability_earth_empress_wulie_name
+Her dignity and wisdom are already renown near and far.,孙吴国太为人刚强正直，德才兼备。,Procrastinator,,,孙吴国太为人刚强正直，德才兼备。,False,False,孫吳國太爲人剛強正直，德才兼備。,Procrastinator,,,孫吳國太爲人剛強正直，德才兼備。,3k_main_skill_special_ability_earth_empress_wulie_description
+Empress Dong,无餍,Procrastinator,,,无餍,False,False,無饜,Procrastinator,,,無饜,3k_main_skill_special_ability_earth_empress_dong_name
+Is that all you have for me?,如此寥寥无几，也敢奉上？,Procrastinator,,,如此寥寥无几，也敢奉上？,False,False,如此寥寥無幾，也敢奉上？,Procrastinator,,,如此寥寥無幾，也敢奉上？,3k_main_skill_special_ability_earth_empress_dong_description
+Dignity,自重,Vanilla,自重,,庄严,True,True,氣度不凡,Vanilla,氣度不凡,,莊嚴,3k_main_skill_special_ability_earth_dignity_of_the_empress_name
+"“Tell me your opinion, but do be courteous about it.”",如有要事禀告，务必以礼相待。,Procrastinator,,,如有要事禀告，务必以礼相待。,False,False,如有要事稟告，務必以禮相待。,Procrastinator,,,如有要事稟告，務必以禮相待。,3k_main_skill_special_ability_earth_dignity_of_the_empress_description
+Coward,懦夫,Procrastinator,,,懦夫,False,False,懦夫,Procrastinator,,,懦夫,3k_main_skill_special_ability_earth_coward_name
+"When possessing power or authority, he behaves superciliously.",董旻只敢仗势欺人。,Procrastinator,,,董旻只敢仗势欺人。,False,False,董旻只敢仗勢欺人。,Procrastinator,,,董旻只敢仗勢欺人。,3k_main_skill_special_ability_earth_coward_description
+Commanding Presence,凤髓,Procrastinator,,,凤髓,False,False,鳳髓,Procrastinator,,,鳳髓,3k_main_skill_special_ability_earth_commanding_presence_name
+Be courteous!,不可无礼！,Procrastinator,,,不可无礼！,False,False,不可無禮！,Procrastinator,,,不可無禮！,3k_main_skill_special_ability_earth_commanding_presence_description
+Personal Bodyguard,保帅,Procrastinator,,,保帅,False,False,保帥,Procrastinator,,,保帥,3k_main_skill_special_ability_earth_cheers_of_encouragement_name
+Protect me!,将帅之安危岂可不保乎？,Procrastinator,,,将帅之安危岂可不保乎？,False,False,將帥之安危豈可不保乎？,Procrastinator,,,將帥之安危豈可不保乎？,3k_main_skill_special_ability_earth_cheers_of_encouragement_description
+Battle Stance,厉兵,Procrastinator,,,厉兵,False,False,厲兵,Procrastinator,,,厲兵,3k_main_skill_special_ability_earth_battle_stance_name
+"If you know the enemy and know yourself, you will be formidable in battle.",知己知彼，百战不殆。,Procrastinator,,,知己知彼，百战不殆。,False,False,知己知彼，百戰不殆。,Procrastinator,,,知己知彼，百戰不殆。,3k_main_skill_special_ability_earth_battle_stance_description
+Order to Advance,军令,Procrastinator,,,军令,False,False,軍令,Procrastinator,,,軍令,3k_main_skill_special_ability_earth_advance_name
+"“Do not fear, men! You are the great warriors of the Jingdong!”",军令如山，不听约束者皆斩之。,Procrastinator,,,军令如山，不听约束者皆斩之。,False,False,軍令如山，不聽約束者皆斬之。,Procrastinator,,,軍令如山，不聽約束者皆斬之。,3k_main_skill_special_ability_earth_advance_description
+You are royal. Act like it.,九五之尊，当彰显帝王气度。,Vanilla,九五之尊，当彰显帝王气度。,九五之尊，当彰显帝王气度。,九五之尊，当彰显帝王气度。,False,True,您是皇帝，就該有皇帝的樣子。,Vanilla,您是皇帝，就該有皇帝的樣子。,您是皇帝，就該有皇帝的樣子。,九五之尊，當彰顯帝王氣度。,3k_dlc07_skill_emperor_earth_imperious_description

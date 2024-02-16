@@ -1,0 +1,11 @@
+key	text	tooltip
+#Loc;1;text/[03]__MTU_skills___Effect.loc		
+unit_ability_types_localised_description_3k_main_formation_wedge_wen_chu	楔形陣	true
+unit_abilities_onscreen_name_3k_main_formation_wedge_wen_chu	楔形陣	true
+special_ability_phases_onscreen_name_3k_main_formation_wedge_wen_chu	楔形陣	true
+effects_description_3k_main_skill_wedge_formation_wen_chu	啟用陣型：楔形陣	true
+effects_value_format_3k_main_skill_wedge_formation_wen_chu		true
+unit_ability_types_onscreen_name_3k_main_formation_wedge_wen_chu	機動步兵陣型	true
+unit_abilities_tooltip_text_3k_main_formation_wedge_wen_chu	部隊結成矛尖陣型，可以迅速殺透敵軍戰線	true
+effects_description_3k_main_effect_unit_stats_ammunition_cavalry_missile	遠程騎兵箭矢增加[[b]]%+n%[[/b]]	true
+effects_description_3k_main_effect_character_stat_mod_missile_damage_cavalry_missile	遠程騎兵殺傷[[b]]%+n%[[/b]]	true

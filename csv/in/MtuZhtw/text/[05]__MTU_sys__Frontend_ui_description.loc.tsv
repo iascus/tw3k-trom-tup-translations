@@ -1,0 +1,78 @@
+key	text	tooltip
+#Loc;1;text/[05]__MTU_sys__Frontend_ui_description.loc		
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_lu_zheng_hero_water_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_lu_zheng_hero_water_190	[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_lu_zheng_hero_water_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_lu_zheng_hero_water_194	[[b]]陸政[[/b]]\\n晉陽女賊\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虛發，乃魁首之腕。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_dong_min_hero_earth_182		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_dong_min_hero_earth_182	[[b]]董旻[[/b]]\\n無魘暴君\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]貪暴成性，荼毒關中。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_dong_peishan_hero_earth_182		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_dong_peishan_hero_earth_182	[[b]]董氏[[/b]]\\n郿侯夫人\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]董卓髮妻，卓封郿侯。不僅生性貪婪，且行事作風十分謹慎狡猾。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_wu_minyu_hero_earth_182		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_wu_minyu_hero_earth_182	[[b]]吳氏[[/b]]\\n武烈皇后\\n\\n將領類：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]氣質高雅，心胸寬廣。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_yan_xiang_hero_water_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_yan_xiang_hero_water_190	[[b]]閻象[[/b]]\\n賢達哲士\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]閻象深圖遠慮，總是危機到來之前就做好了準備。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_ma_yunlu_hero_metal_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_ma_yunlu_hero_metal_190	[[b]]馬雲祿[[/b]]\\n敦煌公主\\n\\n將領類型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]馬雲祿深知兵在精而不在多，為了部隊執銳披堅她總是不惜血本。[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_ma_yunlu_hero_metal_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_ma_yunlu_hero_metal_194	[[b]]馬雲祿[[/b]]\\n敦煌公主\\n\\n將領類型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]馬雲祿深知兵在精而不在多，為了部隊執銳披堅她總是不惜血本。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_ma_lanli_hero_metal_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_ma_lanli_hero_metal_190	[[b]]華氏[[/b]]\\n西羌女傑\\n\\n將領類型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]羌族女傑華氏精於騎射，武藝不在其夫之下。[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_ma_lanli_hero_metal_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_ma_lanli_hero_metal_194	[[b]]華氏[[/b]]\\n西羌女傑\\n\\n將領類型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]羌族女傑華氏精於騎射，武藝不在其夫之下。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_feng_hero_earth_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_feng_hero_earth_190	[[b]]馮氏[[/b]]\\n涕泣美人\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]馮氏不僅天姿國色，還因胸懷大志而深受袁術寵愛。[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_feng_hero_earth_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_feng_hero_earth_194	[[b]]馮氏[[/b]]\\n涕泣美人\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]馮氏不僅天姿國色，還因胸懷大志而深受袁術寵愛。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_yuan_anyang_hero_water_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_yuan_anyang_hero_water_190	[[b]]袁氏[[/b]]\\n仲氏公主\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]仲氏公主袁氏的美貌與賢良人盡皆知。[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_yuan_anyang_hero_water_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_yuan_anyang_hero_water_194	[[b]]袁氏[[/b]]\\n仲氏公主\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]仲氏公主袁氏的美貌與賢良人盡皆知。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_zhang_xun_hero_earth_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_zhang_xun_hero_earth_190	[[b]]張勳[[/b]]\\n開國將軍\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]仲氏大將軍張勳號令三軍誰敢不從？[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_zhang_xun_hero_earth_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_zhang_xun_hero_earth_194	[[b]]張勳[[/b]]\\n開國將軍\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]仲氏大將軍張勳號令三軍誰敢不從？[[/col]][[/i]]	true
+		true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_gongsun_jinting_hero_water_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_gongsun_jinting_hero_water_190	[[b]]侯氏[[/b]]\\n賢明母主\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]公孫瓚常年征戰在外，侯氏依靠著她的賢明與機警守護著家族的未來。[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_gongsun_jinting_hero_water_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_gongsun_jinting_hero_water_194	[[b]]侯氏[[/b]]\\n賢明母主\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]公孫瓚常年征戰在外，侯氏依靠著她的賢明與機警守護著家族的未來。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_lu_ji_hero_wood_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_lu_ji_hero_wood_190	[[b]]呂姬[[/b]]\\n飛將之女\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]虎父無犬女，呂布之女不僅美豔，也是戰場豪傑。[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_lu_ji_hero_wood_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_lu_ji_hero_wood_194	[[b]]呂姬[[/b]]\\n飛將之女\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]虎父無犬女，呂布之女不僅美豔，也是戰場豪傑。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_trieu_hero_wood_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_trieu_hero_wood_190	[[b]]趙嫗[[/b]]\\n駱越之光\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]「橫戈當虎易，對面婆王難。」[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_trieu_hero_wood_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_trieu_hero_wood_194	[[b]]趙嫗[[/b]]\\n駱越之光\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]「橫戈當虎易，對面婆王難。」[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_jian_yong_hero_metal_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_jian_yong_hero_metal_190	[[b]]簡雍[[/b]]\\n優遊風議\\n\\n將領類型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]簡雍擅於辯論、議事，但也閒暇自得，行為不檢。[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_jian_yong_hero_metal_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_dlc05_template_historical_jian_yong_hero_metal_194	[[b]]簡雍[[/b]]\\n優遊風議\\n\\n將領類型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]簡雍擅於辯論、議事，但也閒暇自得，行為不檢。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_qu_gong_hero_wood_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_qu_gong_hero_wood_190	[[b]]瞿恭[[/b]]\\n獨眼山賊\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]只有一隻眼睛都可以如此為非作歹，難道還需要另外一隻不成？[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_qu_gong_hero_wood_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_qu_gong_hero_wood_194	[[b]]瞿恭[[/b]]\\n獨眼山賊\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]只有一隻眼睛都可以如此為非作歹，難道還需要另外一隻不成？[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_chen_jiu_hero_wood_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_chen_jiu_hero_wood_190	[[b]]龐德[[/b]]\\n白馬將軍\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]龐德戒昭果毅，敵者必討[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_chen_jiu_hero_wood_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_chen_jiu_hero_wood_194	[[b]]龐德[[/b]]\\n白馬將軍\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]龐德戒昭果毅，敵者必討[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_dlc04_template_historical_empress_he_fire_182		true
+frontend_faction_leader_unique_characters_localised_description_3k_dlc04_template_historical_empress_he_fire_182	[[b]]何皇后[[/b]]\\n精操妙手\\n\\n將領類型：{{tr:3k_general_type_fire}}\\n\\n[[col:flavour]][[i]]一向能某巧算，一向詭計多端，表面平靜之下，向來波詭雲譎。向來如此。[[/col]][[/i]]	true
+		true
