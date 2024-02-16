@@ -1,7 +1,7 @@
 eng,zh-cn,zh-tw,File
 %-n black mountain decay,黑山衰退%-n,黑山衰退%-n,hv_TEXT_effects_pooled_resource.loc.tsv
 %-n horse breeding decay,养马衰退%-n,養馬衰退%-n,hv_TEXT_effects_pooled_resource.loc.tsv
-%-n resurrection decay,重生衰退%-n,重生衰退%-n,hv_TEXT_effects_pooled_resource.loc.tsv
+%-n resurrection decay,复苏衰退%-n,復甦衰退%-n,hv_TEXT_effects_pooled_resource.loc.tsv
 %-n stratocracy decay,军政衰退%-n,軍政衰退%-n,hv_TEXT_effects_pooled_resource.loc.tsv
 "A New Era, A New Ruler.",新时代，新主公。,新時代，新主公。,hv_TEXT_events_rules.loc.tsv
 A Secret Plan,一条密计,一條密計,hv_TEXT_effects_skills.loc.tsv
@@ -12,7 +12,7 @@ A charge from a squadron of Spear cavalry is a daunting sight for any soldier. B
 "A cowardly conspiracy! There was a failed attempt to assassinate you during the banquet. Unfortunately, the assaliant was slain by the guards before he could be made to reveal the conspirator's identity.",阴谋！有人于宴会中欲加害于你。事虽未成，但刺客已被护卫弑杀，无法得知是谁在背后主谋。 ,陰謀！有人於宴會中欲加害於你。事雖未成，但刺客已被护卫弑杀，無法得知是誰在背後主謀。,ifo_text_TWEAK.loc.tsv
 A few of your officers have gained additional experience.,您的一些官员获得额外经验。,您的一些官員獲得額外經驗。,hv_TEXT_events.loc.tsv
 A fierce wind blows.,狂风大作。,狂風大作。,hv_TEXT_unit_abilities.loc.tsv
-"A group of beggars appears before you. Among them, a girl dressed nicely comes forward and bows. The girl identifies herself as Dong Bai, the last kin of the tyrant Dong Zhuo, and begs you to take her.",前面来了一群乞丐，其中有一名衣冠楚楚的少女上前行礼。女孩自称董白，是暴君董卓最后的亲人。她求你带她走。,前面來了一群乞丐，其中有一名衣冠楚楚的少女上前行禮。女孩自稱董白，是暴君董卓最後的親人。她求你帶她走。,hv_TE_events.loc.tsv
+"A group of beggars appears before you. Among them, a girl dressed nicely comes forward and bows. The girl identifies herself as Dong Bai, the last kin of the tyrant Dong Zhuo, and begs you to take her.",前面来了一群乞丐，其中有一名衣冠楚楚的少女上前行礼。女孩自称董白，是暴君董卓最后的亲人。她求你带她走。,前面來了一群乞丐，其中有一名衣冠楚楚的少女上前行禮。女孩自稱董白，是暴君董卓最後的親人。她求你帶她走。,hv_TEXT_events.loc.tsv
 A group of unusual men sporting shaved heads disembark from a ship.  They claim to have journeyed from distant lands to spread the teachings of Buddha. Perhaps it will be worth supporting them?,从船上下来一群剃光头的异人。他们自称从遥远地方来此传播佛道。也许值得支持他们？,從船上下來一群剃光頭的異人。他們自稱從遙遠地方來此傳播佛道。也許值得支持他們？,hv_TEXT_events.loc.tsv
 A mysterious sword from the West. ,西域而来的神秘宝剑。,西域而來的神秘寶劍。,hv_TEXT_ceo_weapon.loc.tsv
 A new regime is coming into power.,新政权开始建立。,新政權開始建立。,hv_TEXT_effects_pooled_resource.loc.tsv
@@ -20,7 +20,7 @@ A place to trade with the natives.,与土著交易之处。,與土著交易之�
 A place where great teachers and passionate students gather.,贤师高徒汇聚之所。,賢師高徒匯聚之所。,hv_TEXT_building.loc.tsv
 A quiet but enthusiastic supporter.,安静但热情的支持者。,安靜但熱情的支持者。,z_dummy_hv_TEXT_non_deployable.loc.tsv
 A regiment of the Northern Army will join your faction.,一个北军兵团会加入您的派系。,一個北軍兵團會加入您的勢力。,hv_TEXT_events.loc.tsv
-A second wind has come.,,,hv_TEXT_effects_pooled_resource.loc.tsv
+A second wind has come.,焚风再起，野火重来,梵風再起，野火重來。,hv_TEXT_effects_pooled_resource.loc.tsv
 "A shabby warband requests to join your faction. After Lu Bu's defeat, his daughter Lu Ji seems to have been leading the survivors. However, granting them sanctuary may cause their enemies to come after us.",一只残军请求加入您的派系。吕布战败后，其女吕姬收拢溃卒。然而，接纳他们可能会惹恼吕布之敌。,一隻殘軍請求加入您的勢力。呂布戰敗後，其女呂姬收攏潰卒。然而，接納他們可能會惹惱呂布之敵。,hv_TEXT_events.loc.tsv
 "A shabby warband requests to join your faction. After Yuan Shu's defeat, his generals Zhang Xun, Ji Ling and Yan Xiang to have been leading the survivors. However, granting them sanctuary may cause their enemies to come after us.",一只残军请求加入您的派系。袁术战败后，其部将张勋，纪灵及阎象收拢溃卒。然而，接纳他们可能会惹恼袁术之敌。,一隻殘軍請求加入您的勢力。袁術戰敗後，其部將張勳，紀靈及閻象收攏潰卒。然而，接納他們可能會惹惱袁術之敵。,hv_TEXT_events.loc.tsv
 A successful hunt,狩猎成功,狩獵成功,hv_TEXT_events.loc.tsv
@@ -117,7 +117,6 @@ Confucius Institute,孔子学院,孔子學院,hv_TEXT_building.loc.tsv
 Congestion,拥堵,擁堵,hv_TEXT_effect_faction.loc.tsv
 Conquest Yellow Turbans,剿灭黄巾,剿滅黃巾,hv_TEXT_etc.loc.tsv
 Council Proctor,县丞,縣丞,z_dummy_hv_TEXT_non_deployable.loc.tsv
-Counter Strike,,,hv_TEXT_unit_abilities.loc.tsv
 Courage and energy are rising.,勇气与精力皆以重振。,勇氣與精力皆以重振。,hv_TEXT_unit_abilities.loc.tsv
 Court Management,宫廷管理,宮廷管理,hv_TEXT_skills_additional.loc.tsv
 Covers ally troops to retreat safely.,掩护友军安全撤离。,掩護友軍安全撤離。,hv_TEXT_unit_abilities.loc.tsv
@@ -237,7 +236,7 @@ Ironfist Cavalry can be recruited when occupied,占据时可获得铁拳骑兵,�
 It causes fear.,引发恐慌。,引發恐慌。,hv_TEXT_unit_abilities_hit_effects.loc.tsv
 It must be bullshit.,无稽之谈。,無稽之談。,hv_TEXT_events.loc.tsv
 It seems you've offended the imperial court...,看来你得罪了朝廷……,看來你得罪了朝廷…… ,ifo_text_TWEAK.loc.tsv
-It will be different this time. Obviously...,,,hv_TEXT_effects_pooled_resource.loc.tsv
+It will be different this time. Obviously...,苍天已死，黄天再立！,蒼天已死，黃天再立！,hv_TEXT_effects_pooled_resource.loc.tsv
 It's best to ignore these annoying preachers.,不应理睬这些烦人的布道僧侣。,不應理睬這些煩人的佈道僧侶。,hv_TEXT_events.loc.tsv
 It's getting harder to find anyone who isn't a Black Mountain bandit.,四海之内，莫非黑山。,四海之内，莫非黑山。,hv_TEXT_effects_pooled_resource.loc.tsv
 "It's hard to believe, but it might be worth investigating personally.",难以置信，但不妨亲自调查一番。,難以置信，但不妨親自調查一番。,hv_TEXT_events.loc.tsv
@@ -347,17 +346,17 @@ Raining arrows.,,,hv_TEXT_unit_abilities.loc.tsv
 "Raining death from afar, the archers of Jingchu have learned well the advantage that the bow brings in hilly terrain.",荆楚弓手早已领悟到了弓箭在丘陵地带的优势。 ,荊楚弓手早已領悟到了弓箭在丘陵地帶的優勢。 ,hv_TEXT_unit_desc.loc.tsv
 Raise your reputation! ,您需要提高您的声望！,您需要提高您的聲望！,hv_TEXT_events.loc.tsv
 Rapid Fire,速射,速射,hv_TEXT_etc.loc.tsv
-Ready to colour the world once again.,,,hv_TEXT_effects_pooled_resource.loc.tsv
+Ready to colour the world once again.,野火燎原，不可向迩。,野火燎原，不可向邇。,hv_TEXT_effects_pooled_resource.loc.tsv
 "Recruited by Liu Bei during his time as ""General of the Left"", these soldiers now are loyal to their general and will fight to see his vision fulfilled. The Han shall be restored, and they will unleash a barrage of arrows upon any rebel who would see the Han extinguished. And And if their foes would close the distance, they shall find that they are equally skilled in melee combat, unless they fight cavalry.  ",,,hv_TEXT_unit_long_desc.loc.tsv
 Ren Xia,任侠,任俠,hv_TEXT_unit_text_replacements.loc.tsv
 Replaces unit: {{tr:hv_unit_destroyer_of_traitors}} ({{tr:hv_unit_elite_2h_spear_cavalry}}),,,hv_TEXT_skills_additional.loc.tsv
-Resurrection,重生,重生,hv_TEXT_pooled_resource.loc.tsv
-Resurrection: Ash,重生：灰烬已冷,重生：灰燼已冷,hv_TEXT_effects_pooled_resource.loc.tsv
-Resurrection: Ember,重生：余焰未尽,重生：余焰未盡,hv_TEXT_effects_pooled_resource.loc.tsv
-Resurrection: Great Fire,重生：烈火熊熊,重生：烈火熊熊,hv_TEXT_effects_pooled_resource.loc.tsv
-Resurrection: Great Fire (Complelete),重生：烈火熊熊（已完成）,重生：烈火熊熊（已完成）,hv_TEXT_effects_pooled_resource.loc.tsv
-Resurrection: Reignite,重生：死灰复燃,重生：死灰復燃,hv_TEXT_effects_pooled_resource.loc.tsv
-Resurrection: Wild Fire,重生：野火燎原,重生：野火燎原,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection,复苏,復甦,hv_TEXT_pooled_resource.loc.tsv
+Resurrection: Ash,复苏：灰烬,復甦：灰燼,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection: Ember,复苏：余焰,復甦：余焰,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection: Great Fire,复苏：烈火,復甦：烈火,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection: Great Fire (Complelete),复苏：烈火（已完成）,復甦：烈火（已完成）,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection: Reignite,复苏：复燃,復甦：復燃,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection: Wild Fire,复苏：野火,復甦：野火,hv_TEXT_effects_pooled_resource.loc.tsv
 Retreat Cover,掩护撤退,掩護撤退,hv_TEXT_unit_abilities.loc.tsv
 "Ride, ride to ruin and the world's ending!",冲啊！冲啊！为了捍卫天下！勇往直前！,冲啊！ 冲啊！ 为了捍卫天下！勇往直前！,hv_TEXT_unit_abilities.loc.tsv
 Rumors about a monster,怪兽传言,怪獸傳言,hv_TEXT_events.loc.tsv
@@ -384,7 +383,7 @@ Siege Attacker,,,hv_TEXT_unit_ui_bullet.loc.tsv
 "Skirmish, Chase",散兵，追击,散兵，追擊,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 Skirmishing Shot,,,hv_TEXT_unit_abilities.loc.tsv
 "Slander! A rival warlord is spreading malicious rumours at the imperial court, causing Emperor Xian to doubt our loyalty to the Han.",诽谤！一个敌对的军阀在朝廷散布恶意的谣言，使献帝怀疑我们对大汉的忠诚。,誹謗！一個敵對的軍閥在朝廷散佈惡意的謠言，使獻帝懷疑我們對大漢的忠誠。,ifo_text_TWEAK.loc.tsv
-Small but clear.,,,hv_TEXT_effects_pooled_resource.loc.tsv
+Small but clear.,小火虽微，而不可轻。,小火雖微，而不可輕。,hv_TEXT_effects_pooled_resource.loc.tsv
 Sniper Position,狙击位置,狙擊位置,hv_TEXT_unit_abilities.loc.tsv
 Social Turmoil,社会动荡,社會動盪,hv_TEXT_events.loc.tsv
 Sogdian Merchants,粟特商人,粟特商人,hv_TEXT_events.loc.tsv
@@ -431,7 +430,7 @@ The New Coin Causes Confusion!,新币引起了混乱！,新幣引起了混亂！
 The Wandering Survivors,寄人篱下,寄人籬下,hv_TEXT_events.loc.tsv
 "The Xiliang Army is yours to command! Each colonel is loyal to whom they have been assigned, vowing never to leave their side!",西凉军为您效命！每一位校尉都忠于自己所属之人，誓死不离其侧！,西涼軍爲您效命！每一位校尉都忠於自己所屬之人，誓死不離其側！,hv_TEXT_effects_ceo.loc.tsv
 The Yan frontier offers no shortage of good horses. The constant warfare provides these steeds with expert riders.,燕疆不乏良马。连绵的战事为这些战马提供了老练的骑手。,燕疆不乏良馬。連綿的戰事為這些戰馬提供了老練的騎手。  ,hv_TEXT_unit_desc.loc.tsv
-The Yellow Turban Rises Again,,,hv_TEXT_events.loc.tsv
+The Yellow Turban Rises Again,黄巾再起,黃巾再起,hv_TEXT_events.loc.tsv
 The Yellow Turban is ready to color the world once again.,,,hv_TEXT_pooled_resource.loc.tsv
 The Yellow Warlord,黄巾军将领,黃巾軍將領,hv_TEXT_cb_loadout.loc.tsv
 "The Yuan clan's fame brings many benefits, one of which the number of men willing to lay down their lives in their service. \\n\\n Wielding the noble Jian blade, and protected by stout shields and good armour, these swordsmen will defend their masters with zeal. They form the frontline of the Yuan battleline, chopping and slashing at their foe until either they or themselves are slain.",,,hv_TEXT_unit_long_desc.loc.tsv
@@ -444,7 +443,7 @@ The battlefield is your stage.,战场即是您的舞台。,戰場即是您的舞
 "The captain of the centre, inspector of the professional Northern Army, has pledged his allegiance to Yuan Shu. He now has a formidable force at his disposal.",领军的校尉掌管北军世兵，现已效忠于袁术。这是支不可小觑的部队。,領軍的校尉掌管北軍世兵，現已效忠于袁術。這是支不可小觑的部隊。,hv_TEXT_events.loc.tsv
 The emperor thinks highly of you. His majesty has decided to gift you a small fortune in honour of your contributions to the state.,天子对你甚有好感，决定给你一些赏赐，来表彰你对朝廷的贡献。,天子對你甚有好感，决定給你一些賞賜，來表彰你對朝廷的貢獻。 ,ifo_text_TWEAK.loc.tsv
 The estates of powerful and wealthy families.,地方豪强的地产。,地方豪强的地產。,hv_TEXT_building.loc.tsv
-The fervour is now only left in the white ashes.,,,hv_TEXT_effects_pooled_resource.loc.tsv
+The fervour is now only left in the white ashes.,当日热情，只剩余烬。,當日熱情，只剩餘燼。,hv_TEXT_effects_pooled_resource.loc.tsv
 "The finer your horses, the more powerful your cavalry will be. ",有良马才能有精骑。,有良馬才能有精騎。,hv_TEXT_frontend_features.loc.tsv
 The first three warlords to be named king will proclaim themselves emperor.,,,!hv_TEXT_system.loc.tsv
 The flame of hope shines bright in the darkest hour.,希望之火在最黯时刻光芒闪耀。,希望之火在最黯時刻光芒閃耀。,hv_TEXT_unit_abilities.loc.tsv
@@ -509,8 +508,6 @@ Unit List,部队列表,單位清單,!hv_TEXT_system.loc.tsv
 Unknown result,结果不明,結果不明 ,ifo_text_TWEAK.loc.tsv
 "Unlocked in 195 CE. Once this is unlocked, you can use imperial favour to preform [[b]]imperial decrees[[/b]]",在公元195年解锁。解锁后，可以使用天子宠信来颁布[[b]]圣旨[[/b]]。,於公元195年解鎖。一旦解除此鎖定，您便可以運用皇帝寵信度發佈[[b]]皇帝詔書[[/b]],ifo_text_TWEAK.loc.tsv
 Unlocked when Emperor Xian comes of age in 195 CE,公元195年献帝加元服后解锁,公元195年獻帝成年時解除鎖定,ifo_text_TWEAK.loc.tsv
-Unlocks Northern Army Elite units [[col:scope_description]](own retinue)[[/col]],,,hv_TEXT_effects_ceo.loc.tsv
-Unlocks Xiliang Army Elite units [[col:scope_description]](own retinue)[[/col]],,,hv_TEXT_effects_ceo.loc.tsv
 Unlocks a special ability for cavalry units,解锁骑兵部队一个特殊能力,解鎖騎兵單位一個特殊能力,hv_TEXT_effects_pooled_resource.loc.tsv
 Unlocks elite Northern Army Captain Retinues,解锁精锐北军校尉随从,解鎖精銳北軍校尉隨從,hv_TEXT_events.loc.tsv
 Unlocks special abilities for black mountain bandit units,解锁黑山匪徒部队特殊能力,解鎖黑山匪徒單位特殊能力,hv_TEXT_effects_pooled_resource.loc.tsv
@@ -605,9 +602,6 @@ Zhang Xun,张勋,張勳,hv_TEXT_cb_loadout.loc.tsv
 "Zheng Jiang has selected her most ferocious bandits to act as her ‘Fists of the Bandit Queen’; their role is to act as shock-troops, sneaking behind enemy lines to terrify foes with surprise attacks early in the battle. \\n\\n Each carries a heavy fu axe in each hand, and the wounds dealt by them can be catastrophic. Striking terror requires these troops to be without fear themselves, but also means they can tend to be undisciplined and difficult to control once their blood is hot with battle",,,hv_TEXT_unit_long_desc.loc.tsv
 Zhong Royal Guard Cavalry,仲氏羽林骑,仲氏羽林騎,hv_TEXT_unit_text_replacements.loc.tsv
 Zhuge Liang has brilliantly engineered a new weapon. It is a crossbow that fires several bolts simultaneously to overwhelm the enemy.,诸葛亮精心设计出一种新武器。这是一种能够同时射出多枚箭矢的弩弓，可以压制敌人。 ,諸葛亮精心設計出一種新武器。這是一種能夠同時射出多枚箭矢的弩弓，可以壓制敵人。,hv_TEXT_events.loc.tsv
-[[b]]%+n%[[/b]] charge bonus for Mounted Archer units,,,hv_TEXT_effects_technology.loc.tsv
-[[b]]%+n%[[/b]] recruitment cost for Mounted Archer units,,,hv_TEXT_effects_technology.loc.tsv
-[[b]]%+n[[/b]] resurrection,,,hv_TEXT_effects_pooled_resource.loc.tsv
 "[[b]]ARMOUR[[/b]]\\n\\n Decreases standard melee, ranged and explosion damages. Doesn't help against armour-piercing damage.",[[b]]护甲[[/b]]\\n\\n减少部队受到的标准近战伤害、远程伤害以及爆炸伤害。无法防御穿甲伤害。,[[b]]護甲[[/b]]\\n\\n 減少單位受到的標準近戰傷害、遠程傷害以及爆炸傷害。無法防禦穿甲傷害。,hv_TEXT_etc.loc.tsv
 [[b]]BONUS VS. CAVALRY[[/b]]\\n\\n Increases melee damage against cavalry.,[[b]]对抗骑兵加成[[/b]]\\n\\n提高对骑兵的近战伤害。,[[b]]對抗騎兵加成[[/b]]\\n\\n 提高對騎兵的近戰傷害。,hv_TEXT_etc.loc.tsv
 [[b]]BONUS VS. INFANTRY[[/b]]\\n\\n Increases melee damage against infantry.,[[b]]对抗步兵加成[[/b]]\\n\\n提高对步兵的近战伤害。,[[b]]對抗步兵加成[[/b]]\\n\\n 提高對步兵的近戰傷害。,hv_TEXT_etc.loc.tsv

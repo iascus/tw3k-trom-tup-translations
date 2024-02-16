@@ -94,6 +94,7 @@ class InputTsvFiles(Step):
                 df['File'] = os.path.basename(filepath)
                 dfs.append(df)
         data = pd.concat(dfs).dropna(subset='Key').drop_duplicates(subset='Key').sort_values('Key')
+        data = data[~data['Key'].str.endswith('----')]
         return data
 
 

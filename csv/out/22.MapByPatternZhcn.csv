@@ -1,8 +1,7 @@
 Text,Count,MappedByText,MappedByPattern,File
-,2,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 %-n black mountain decay,1,黑山衰退%-n,,hv_TEXT_effects_pooled_resource.loc.tsv
 %-n horse breeding decay,1,养马衰退%-n,,hv_TEXT_effects_pooled_resource.loc.tsv
-%-n resurrection decay,1,重生衰退%-n,,hv_TEXT_effects_pooled_resource.loc.tsv
+%-n resurrection decay,1,复苏衰退%-n,,hv_TEXT_effects_pooled_resource.loc.tsv
 %-n stratocracy decay,1,军政衰退%-n,,hv_TEXT_effects_pooled_resource.loc.tsv
 %n Siege Towers per item (at siege escalation),1,,,hv_TEXT_etc.loc.tsv
 "...dividing up the empire, parcelling it out in fiefs to the various kings and marquises, he was hailed as the mighty conqueror...",1,,,hv_TEXT_events_rules.loc.tsv
@@ -50,7 +49,7 @@ A quiet but enthusiastic supporter.,1,安静但热情的支持者。,,z_dummy_hv
 "A reckless charge, inspiring but exhausting!",3,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 A regiment of the Northern Army will join your faction.,1,一个北军兵团会加入您的派系。,,hv_TEXT_events.loc.tsv
 A remarkable talent.,135,,才华横溢,hv_TEXT_skills_additional.loc.tsv
-A second wind has come.,1,,,hv_TEXT_effects_pooled_resource.loc.tsv
+A second wind has come.,1,焚风再起，野火重来,,hv_TEXT_effects_pooled_resource.loc.tsv
 "A shabby warband requests to join your faction. After Lu Bu's defeat, his daughter Lu Ji seems to have been leading the survivors. However, granting them sanctuary may cause their enemies to come after us.",1,一只残军请求加入您的派系。吕布战败后，其女吕姬收拢溃卒。然而，接纳他们可能会惹恼吕布之敌。,,hv_TEXT_events.loc.tsv
 "A shabby warband requests to join your faction. After Yuan Shu's defeat, his generals Zhang Xun, Ji Ling and Yan Xiang to have been leading the survivors. However, granting them sanctuary may cause their enemies to come after us.",1,一只残军请求加入您的派系。袁术战败后，其部将张勋，纪灵及阎象收拢溃卒。然而，接纳他们可能会惹恼袁术之敌。,,hv_TEXT_events.loc.tsv
 "A shining, typical, and above all appropriate model of how one should be.",4,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -414,7 +413,7 @@ Confucius Institute,4,孔子学院,,hv_TEXT_building.loc.tsv
 Congestion,1,拥堵,,hv_TEXT_effect_faction.loc.tsv
 Conquest Yellow Turbans,1,剿灭黄巾,,hv_TEXT_etc.loc.tsv
 Council Proctor,1,县丞,,z_dummy_hv_TEXT_non_deployable.loc.tsv
-Counter Strike,3,,,hv_TEXT_unit_abilities.loc.tsv
+Counter Strike,3,,反击,hv_TEXT_unit_abilities.loc.tsv
 Courage and energy are rising.,1,勇气与精力皆以重振。,,hv_TEXT_unit_abilities.loc.tsv
 Courage of Eastern Wu,4,,英武,hv_TEXT_skills_skill_ability_wu_brave.loc.tsv
 Court Management,1,宫廷管理,,hv_TEXT_skills_additional.loc.tsv
@@ -557,7 +556,7 @@ Fan the flames of war with inextinguishable anger.,3,,以不灭的怒气煽动�
 Fanatics,1,狂信徒,,hv_TEXT_unit_text_replacements.loc.tsv
 Favourable Skies,4,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Fear of Gunpowder,3,惧怕火器,,hv_TEXT_unit_abilities_hit_effects.loc.tsv
-"Fearing retribution, enemies hesitate to fire upon a scion of the Han.",6,,敌人亦不敢伤害汉室宗亲。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"Fearing retribution, enemies hesitate to fire upon a scion of the Han.",6,,敌人并不敢伤害汉室宗亲。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Fearless Charge,3,无畏冲锋,,hv_TEXT_unit_abilities.loc.tsv
 Fearsome Cavalry,1,骇人铁骑,,hv_TEXT_events.loc.tsv
 Ferghana horses are bred to equip cavalry forces.,2,养育大宛马来装备骑兵部队。,,hv_TEXT_pooled_resource.loc.tsv
@@ -781,7 +780,7 @@ It causes fear.,1,引发恐慌。,,hv_TEXT_unit_abilities_hit_effects.loc.tsv
 It is the bear's teeth that the salmon faces at the end of the falls.,4,,鲑鱼游至瀑底，等待的却是熊的牙齿。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 It must be bullshit.,1,无稽之谈。,,hv_TEXT_events.loc.tsv
 It seems you've offended the imperial court...,2,看来你得罪了朝廷……,,ifo_text_TWEAK.loc.tsv
-It will be different this time. Obviously...,2,,,hv_TEXT_effects_pooled_resource.loc.tsv
+It will be different this time. Obviously...,2,苍天已死，黄天再立！,,hv_TEXT_effects_pooled_resource.loc.tsv
 It's best to ignore these annoying preachers.,1,不应理睬这些烦人的布道僧侣。,,hv_TEXT_events.loc.tsv
 It's getting harder to find anyone who isn't a Black Mountain bandit.,1,四海之内，莫非黑山。,,hv_TEXT_effects_pooled_resource.loc.tsv
 "It's hard to believe, but it might be worth investigating personally.",1,难以置信，但不妨亲自调查一番。,,hv_TEXT_events.loc.tsv
@@ -1111,7 +1110,7 @@ Rapid Fire,1,速射,,hv_TEXT_etc.loc.tsv
 Rapid Tiger Infantry,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Ravine Warriors: for recruitment: %+n,1,,可招募的八纳洞兵：%+n,hv_TEXT_effects_unit_cap.loc.tsv
 Reach,1,,,hv_TEXT_skills_basic.loc.tsv
-Ready to colour the world once again.,1,,,hv_TEXT_effects_pooled_resource.loc.tsv
+Ready to colour the world once again.,1,野火燎原，不可向迩。,,hv_TEXT_effects_pooled_resource.loc.tsv
 Reassuring words prevent soldiers from wavering on a chaotic battlefield.,5,,安慰之言以防士卒于乱战中摇摆不定。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "Recalling their training, these generals reload with startling quickness.",2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Reckless Strike,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -1132,13 +1131,13 @@ Replaces unit: {{tr:hv_unit_swallow_cavalry}} ({{tr:hv_unit_bandits_2h_spear_cav
 Resolve,2,,决心,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Resolve of the Righteous,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Restore,5,,回春,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Resurrection,1,重生,,hv_TEXT_pooled_resource.loc.tsv
-Resurrection: Ash,1,重生：灰烬已冷,,hv_TEXT_effects_pooled_resource.loc.tsv
-Resurrection: Ember,1,重生：余焰未尽,,hv_TEXT_effects_pooled_resource.loc.tsv
-Resurrection: Great Fire,1,重生：烈火熊熊,,hv_TEXT_effects_pooled_resource.loc.tsv
-Resurrection: Great Fire (Complelete),1,重生：烈火熊熊（已完成）,,hv_TEXT_effects_pooled_resource.loc.tsv
-Resurrection: Reignite,1,重生：死灰复燃,,hv_TEXT_effects_pooled_resource.loc.tsv
-Resurrection: Wild Fire,1,重生：野火燎原,,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection,1,复苏,,hv_TEXT_pooled_resource.loc.tsv
+Resurrection: Ash,1,复苏：灰烬,,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection: Ember,1,复苏：余焰,,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection: Great Fire,1,复苏：烈火,,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection: Great Fire (Complelete),1,复苏：烈火（已完成）,,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection: Reignite,1,复苏：复燃,,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection: Wild Fire,1,复苏：野火,,hv_TEXT_effects_pooled_resource.loc.tsv
 Retreat Cover,3,掩护撤退,,hv_TEXT_unit_abilities.loc.tsv
 "Ride, ride to ruin and the world's ending!",1,冲啊！冲啊！为了捍卫天下！勇往直前！,,hv_TEXT_unit_abilities.loc.tsv
 Righteous Vanguards,1,,,hv_TEXT_unit_text_replacements.loc.tsv
@@ -1203,7 +1202,7 @@ Slayer of Heroes,3,,,hv_TEXT_unit_abilities.loc.tsv
 Slingers (Buqu),2,,投石兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
 Slingers (Elite),2,,投石兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
 Slingers (Militia),2,,投石兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
-Small but clear.,1,,,hv_TEXT_effects_pooled_resource.loc.tsv
+Small but clear.,1,小火虽微，而不可轻。,,hv_TEXT_effects_pooled_resource.loc.tsv
 Smoke Screen,3,,,hv_TEXT_unit_abilities.loc.tsv
 Smouldering Fury,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Sniped,3,,,hv_TEXT_unit_abilities_hit_effects.loc.tsv
@@ -1325,7 +1324,7 @@ The White Tiger,1,,,hv_TEXT_cb_loadout.loc.tsv
 "The Xiliang Army is yours to command! Each colonel is loyal to whom they have been assigned, vowing never to leave their side!",1,西凉军为您效命！每一位校尉都忠于自己所属之人，誓死不离其侧！,,hv_TEXT_effects_ceo.loc.tsv
 The Xiliang army is experienced.,2,,,hv_TEXT_unit_abilities.loc.tsv
 The Yan frontier offers no shortage of good horses. The constant warfare provides these steeds with expert riders.,1,燕疆不乏良马。连绵的战事为这些战马提供了老练的骑手。,,hv_TEXT_unit_desc.loc.tsv
-The Yellow Turban Rises Again,1,,,hv_TEXT_events.loc.tsv
+The Yellow Turban Rises Again,1,黄巾再起,,hv_TEXT_events.loc.tsv
 The Yellow Turban is ready to color the world once again.,2,,,hv_TEXT_pooled_resource.loc.tsv
 "The Yellow Turban rebellion and the rapidly collapsing Han dynasty has left many people without homes or livelihoods. The most desperate or least scrupulous of these turn to banditry. These men flock to the bandit of the king of Black Mountain, hoping to remake their fortunes through plunder and bloody battle. Despite their hopes, their poor equipment usually has them end up as fodder, while others reap the rewards for their sacrifices.",1,,,hv_TEXT_unit_long_desc.loc.tsv
 "The Yellow Turban rebellion and the rapidly collapsing Han dynasty has left many people without homes or livelihoods. The most desperate or least scrupulous of these turn to banditry. These men flock to the self-proclaimed bandit queen, hoping to remake their fortunes through plunder and bloody battle. Despite their hopes, their poor equipment usually has them end up as fodder, while others reap the rewards for their sacrifices.",1,,,hv_TEXT_unit_long_desc.loc.tsv
@@ -1354,7 +1353,7 @@ The enemy knows the next shot will not miss.,2,,,hv_TEXT_skills_skill_skill_name
 The estates of powerful and wealthy families.,1,地方豪强的地产。,,hv_TEXT_building.loc.tsv
 "The fame of these horsemen reaches far. To fight the northern tribes, Gongsun Zan has created a skilled cavalry force of his own to match. These warriors follow their leader into battle, against the tribes or any other foe of the Han… \\n\\n Wielding a long spear and shield, these armored warriors charge into battle, skewering the foe with their lances. They only need to be wary of enemy spearmen and sustained archer fire.",1,,,hv_TEXT_unit_long_desc.loc.tsv
 "The fame of these horsemen reaches far. To fight the northern tribes, Gongsun Zan has created a skilled cavalry force of his own to match. These warriors follow their leader into battle, against the tribes or any other foe of the Han… \\n\\n Wielding sword and shield and clad in heavy armor, they can easily weather a barrage of arrows, before charging into melee and remaining there to hold the line as the rest of the army finishes the enemy.",1,,,hv_TEXT_unit_long_desc.loc.tsv
-The fervour is now only left in the white ashes.,1,,,hv_TEXT_effects_pooled_resource.loc.tsv
+The fervour is now only left in the white ashes.,1,当日热情，只剩余烬。,,hv_TEXT_effects_pooled_resource.loc.tsv
 "The finer your horses, the more powerful your cavalry will be. ",1,有良马才能有精骑。,,hv_TEXT_frontend_features.loc.tsv
 The first three warlords to be named king will proclaim themselves emperor.,1,,,!hv_TEXT_system.loc.tsv
 The flame of hope shines bright in the darkest hour.,1,希望之火在最黯时刻光芒闪耀。,,hv_TEXT_unit_abilities.loc.tsv
@@ -1467,7 +1466,7 @@ This legendary presence gives enemies pause.,1,,,hv_TEXT_skills_skill_skill_name
 This man has learnt to overcome defeat.,3,,屡败屡战，无所畏惧。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 This man knows how to frighten enemies in the woods.,1,,神鬼莫测于树林间震摄敌军。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "This metropolis is marvellous to behold, a dense and vibrant collection of interesting people and wondrous places.",6,,,hv_TEXT_effects_pooled_resource.loc.tsv
-"This shooter fires and fires, faster and faster, never relenting.",2,,一箭紧接一箭，一箭快过一箭。一箭緊接一箭，一箭快過一箭。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"This shooter fires and fires, faster and faster, never relenting.",2,,此人一箭紧接一箭，一箭快过一箭。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 This town hums with an energy befitting a small yet well-established settlement.,6,,,hv_TEXT_effects_pooled_resource.loc.tsv
 "This town is busy with the comings and goings of merchants, artisans and nobles alike.",6,,,hv_TEXT_effects_pooled_resource.loc.tsv
 "This unit can attack city gates, allowing you to instantly launch a siege battle without having to wait for towers or battering rams to be built.",1,,,hv_TEXT_unit_ui_bullet.loc.tsv
@@ -1918,7 +1917,7 @@ Zong Bu,1,,,hv_TEXT_building.loc.tsv
 [[b]]%+n[[/b]] morale for Yue units,1,,山越部队士气[[b]]%+n[[/b]],hv_TEXT_effects_technology.loc.tsv
 [[b]]%+n[[/b]] morale for black mountain bandit units,1,,黑山匪徒部队士气[[b]]%+n[[/b]],hv_TEXT_effects_pooled_resource.loc.tsv
 [[b]]%+n[[/b]] reserves ,1,,,hv_TEXT_etc.loc.tsv
-[[b]]%+n[[/b]] resurrection,1,,重生[[b]]%+n[[/b]],hv_TEXT_effects_pooled_resource.loc.tsv
+[[b]]%+n[[/b]] resurrection,1,,复苏[[b]]%+n[[/b]],hv_TEXT_effects_pooled_resource.loc.tsv
 [[b]]%+n[[/b]] satisfaction for all characters,1,,,hv_TEXT_skills_attributes.loc.tsv
 [[b]]%+n[[/b]] starting rank for Buqu units,1,,部曲部队起始等级[[b]]%+n[[/b]],hv_TEXT_effects_technology.loc.tsv
 [[b]]%+n[[/b]] starting rank for Elite units,1,,精锐部队起始等级[[b]]%+n[[/b]],hv_TEXT_effects_technology.loc.tsv

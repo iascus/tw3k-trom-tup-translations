@@ -1,6 +1,4 @@
 Key,Text,Tooltip,File
-----ability name----,,False,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
-----skill name----,,False,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 building_chains_chain_tooltip_hv_subtown_confucius,Confucius Institute,True,hv_TEXT_building.loc.tsv
 building_chains_chain_tooltip_hv_subtown_danyang,Danyang Troop Post,True,hv_TEXT_building.loc.tsv
 building_chains_chain_tooltip_hv_subtown_garrison,Vigilante ,True,hv_TEXT_building.loc.tsv

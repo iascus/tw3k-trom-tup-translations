@@ -1,8 +1,4 @@
 Key,Text,Tooltip,File
-----ability name----,,False,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
-----skill name----,,False,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-LADY TRIEU EVENT------------------------------------------------------------------------------------------,,True,[04]__MTU_events__Common.loc.tsv
-LU BU EVENT------------------------------------------------------------------------------------------,,True,[04]__MTU_events__Common.loc.tsv
 MTU Characters,,False,[06]__By_procrastinator.loc.tsv
 Vanilla Characters,,False,[06]__By_procrastinator.loc.tsv
 building_chains_chain_tooltip_hv_subtown_confucius,孔子學院序列,True,hv_TEXT_building.loc.tsv

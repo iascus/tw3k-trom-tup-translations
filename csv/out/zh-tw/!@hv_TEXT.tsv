@@ -1,7 +1,5 @@
 key	text	tooltip
 #Loc;1;text/!@hv_TEXT.tsv
-----ability name----		false
-----skill name----		false
 building_chains_chain_tooltip_hv_subtown_confucius	孔子學院	true
 building_chains_chain_tooltip_hv_subtown_danyang	丹陽部隊據點	true
 building_chains_chain_tooltip_hv_subtown_garrison	地方巡衛軍序列	true
@@ -471,7 +469,7 @@ character_skills_localised_description_hv_skill_ability_overwhelm_instinct	展�
 character_skills_localised_description_hv_skill_ability_overwhelm_resolve	展現出勢不可擋的憤怒。	true
 character_skills_localised_description_hv_skill_ability_poisioned_blade_resolve	箭矢本身倒不可怕，令人膽寒的是上頭沾染的黑毒膏。	true
 character_skills_localised_description_hv_skill_ability_preach	這樣的話語能強化心靈。	true
-character_skills_localised_description_hv_skill_ability_quickfire_expertise	nan	true
+character_skills_localised_description_hv_skill_ability_quickfire_expertise	此人不斷引弓放箭，越放越快，毫不留手。	true
 character_skills_localised_description_hv_skill_ability_rage_of_lu_bu_instinct	呂布猛力一擊，徹底掃平周遭一眾敵軍。	true
 character_skills_localised_description_hv_skill_ability_rally_the_troops_cunning	此將召集兵士奮勇作戰，鼓勵他們作最後一搏。	false
 character_skills_localised_description_hv_skill_ability_reckless_strike_instinct	如果這一擊命中，戰鬥便會結束。如果沒有命中，那麼…戰鬥仍然可能結束。	true
@@ -482,11 +480,11 @@ character_skills_localised_description_hv_skill_ability_resolve_of_the_righteous
 character_skills_localised_description_hv_skill_ability_restore_authority	從戰場上喘息片刻，為我軍療傷。	true
 character_skills_localised_description_hv_skill_ability_restore_cunning	從戰場上喘息片刻，為我軍療傷。	true
 character_skills_localised_description_hv_skill_ability_roar_of_the_beast_instinct	常勝戰士的氣焰熾熱得令人不敢直視！	true
-character_skills_localised_description_hv_skill_ability_royal_blood_authority	敵人亦不敢傷害漢室宗親。	true
-character_skills_localised_description_hv_skill_ability_royal_blood_cunning	敵人亦不敢傷害漢室宗親。	true
-character_skills_localised_description_hv_skill_ability_royal_blood_expertise	敵人亦不敢傷害漢室宗親。	true
-character_skills_localised_description_hv_skill_ability_royal_blood_instinct	敵人亦不敢傷害漢室宗親。	true
-character_skills_localised_description_hv_skill_ability_royal_blood_resolve	敵人亦不敢傷害漢室宗親。	true
+character_skills_localised_description_hv_skill_ability_royal_blood_authority	敵人並不敢傷害漢室宗親。	true
+character_skills_localised_description_hv_skill_ability_royal_blood_cunning	敵人並不敢傷害漢室宗親。	true
+character_skills_localised_description_hv_skill_ability_royal_blood_expertise	敵人並不敢傷害漢室宗親。	true
+character_skills_localised_description_hv_skill_ability_royal_blood_instinct	敵人並不敢傷害漢室宗親。	true
+character_skills_localised_description_hv_skill_ability_royal_blood_resolve	敵人並不敢傷害漢室宗親。	true
 character_skills_localised_description_hv_skill_ability_scattering_blows_instinct	猶如驟雨般的連綿攻勢，一次次地衝擊對手。	true
 character_skills_localised_description_hv_skill_ability_scattering_blows_resolve	猶如驟雨般的連綿攻勢，一次次地衝擊對手。	true
 character_skills_localised_description_hv_skill_ability_show_of_force_authority	扔擲爆裂彈來打擊敵軍士氣。	true
@@ -1938,12 +1936,12 @@ effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ma_teng_1
 effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ma_teng_2	有足夠多的馬匹。	true
 effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ma_teng_3	不缺好马。	true
 effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ma_teng_4	戰馬的數量與質量皆無與倫比！	true
-effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ytr_0	The fervour is now only left in the white ashes.	true
-effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ytr_1	Small but clear.	true
-effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ytr_2	A second wind has come.	true
-effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ytr_3	Ready to colour the world once again.	true
-effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ytr_4	It will be different this time. Obviously...	true
-effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ytr_5	It will be different this time. Obviously...	true
+effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ytr_0	當日熱情，只剩餘燼。	true
+effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ytr_1	小火雖微，而不可輕。	true
+effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ytr_2	梵風再起，野火重來。	true
+effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ytr_3	野火燎原，不可向邇。	true
+effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ytr_4	蒼天已死，黃天再立！	true
+effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ytr_5	蒼天已死，黃天再立！	true
 effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_zhang_yan_0	黑山匪徒已作鳥獸散。	true
 effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_zhang_yan_1	跟隨您的人寥寥無幾。	true
 effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_zhang_yan_2	起家微薄亦可立業有成。	true
@@ -2038,12 +2036,12 @@ effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ma_teng_1	養�
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ma_teng_2	養馬：有餘	true
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ma_teng_3	養馬：充裕	true
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ma_teng_4	養馬：天助	true
-effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_0	重生：灰燼已冷	true
-effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_1	重生：余焰未盡	true
-effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_2	重生：死灰復燃	true
-effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_3	重生：野火燎原	true
-effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_4	重生：烈火熊熊	true
-effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_5	重生：烈火熊熊（已完成）	true
+effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_0	復甦：灰燼	true
+effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_1	復甦：余焰	true
+effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_2	復甦：復燃	true
+effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_3	復甦：野火	true
+effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_4	復甦：烈火	true
+effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_5	復甦：烈火（已完成）	true
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_zhang_yan_0	黑山：四散而逃	true
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_zhang_yan_1	黑山：量小力微	true
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_zhang_yan_2	黑山：同心協力	true
@@ -2238,8 +2236,8 @@ effects_description_hv_effect_pooled_resource_gongsun_zan_decay_rate_1	軍政衰
 effects_description_hv_effect_pooled_resource_gongsun_zan_garrison	每回合軍政[[b]]%+n[[/b]]	false
 effects_description_hv_effect_pooled_resource_ma_teng_buildings	養馬[[b]]%+n[[/b]]	true
 effects_description_hv_effect_pooled_resource_ma_teng_decay_rate_1	養馬衰退%-n	true
-effects_description_hv_effect_pooled_resource_ytr_decay_rate_1	重生衰退%-n	true
-effects_description_hv_effect_pooled_resource_ytr_population	重生[[b]]%+n[[/b]]	true
+effects_description_hv_effect_pooled_resource_ytr_decay_rate_1	復甦衰退%-n	true
+effects_description_hv_effect_pooled_resource_ytr_population	復甦[[b]]%+n[[/b]]	true
 effects_description_hv_effect_pooled_resource_zhang_yan_buildings	黑山[[b]]%+n[[/b]]	true
 effects_description_hv_effect_pooled_resource_zhang_yan_decay_rate_1	黑山衰退%-n	true
 effects_description_hv_effect_pooled_resource_zhang_yan_from_battles	黑山[[b]]%+n[[/b]]	true
@@ -2888,7 +2886,7 @@ incidents_localised_title_hv_incident_ironfist_army	駭人鐵騎	false
 incidents_localised_title_hv_incident_jingchou_army	荊楚戰士	false
 incidents_localised_title_hv_incident_sogd	粟特商人來訪	false
 incidents_localised_title_hv_incident_xiliang_army	西涼戰士	false
-incidents_localised_title_hv_incident_ytr_resurrection	The Yellow Turban Rises Again	true
+incidents_localised_title_hv_incident_ytr_resurrection	黃巾再起	true
 incidents_localised_title_hv_northern_army_unlocked_cao_cao_last	北軍	false
 incidents_localised_title_hv_northern_army_unlocked_cao_cao_mid	北軍	false
 incidents_localised_title_hv_northern_army_unlocked_dong_zhuo	北軍	false
@@ -3245,7 +3243,7 @@ pooled_resources_description_hv_pooled_resource_ytr	The Yellow Turban is ready t
 pooled_resources_description_hv_pooled_resource_zhang_yan	黑山贼乘乱以增其之数。	false
 pooled_resources_display_name_hv_pooled_resource_gongsun_zan	軍政	false
 pooled_resources_display_name_hv_pooled_resource_ma_teng	養馬	false
-pooled_resources_display_name_hv_pooled_resource_ytr	重生	false
+pooled_resources_display_name_hv_pooled_resource_ytr	復甦	false
 pooled_resources_display_name_hv_pooled_resource_zhang_yan	黑山	false
 pooled_resources_foreign_diplomacy_view_tooltip_hv_pooled_resource_gongsun_zan	嚴政方能定亂。	false
 pooled_resources_foreign_diplomacy_view_tooltip_hv_pooled_resource_ma_teng	養育大宛馬來裝備騎兵部隊。	false
@@ -3303,7 +3301,7 @@ special_ability_phases_onscreen_name_hv_ability_captain_active	號令吶喊	true
 special_ability_phases_onscreen_name_hv_ability_captain_passive	一條密計	true
 special_ability_phases_onscreen_name_hv_ability_commanding_shout	號令吶喊	true
 special_ability_phases_onscreen_name_hv_ability_condemn	天譴之嘯	true
-special_ability_phases_onscreen_name_hv_ability_counter_strike	Counter Strike	true
+special_ability_phases_onscreen_name_hv_ability_counter_strike	反擊	true
 special_ability_phases_onscreen_name_hv_ability_crash	天崩地裂	true
 special_ability_phases_onscreen_name_hv_ability_cruel_lord_1	強令	true
 special_ability_phases_onscreen_name_hv_ability_cruel_lord_2	強令	true
@@ -4892,7 +4890,7 @@ unit_abilities_onscreen_name_hv_ability_captain_active	號令吶喊	true
 unit_abilities_onscreen_name_hv_ability_captain_passive	一條密計	true
 unit_abilities_onscreen_name_hv_ability_commanding_shout	號令吶喊	true
 unit_abilities_onscreen_name_hv_ability_condemn	譴責	true
-unit_abilities_onscreen_name_hv_ability_counter_strike	Counter Strike	true
+unit_abilities_onscreen_name_hv_ability_counter_strike	反擊	true
 unit_abilities_onscreen_name_hv_ability_crash	天崩地裂	true
 unit_abilities_onscreen_name_hv_ability_crossing_of_the_styx	黃泉之路	true
 unit_abilities_onscreen_name_hv_ability_cruel_lord	強令	true
@@ -5059,7 +5057,7 @@ unit_abilities_tooltip_text_3k_main_ability_distant_courage	這名英雄指揮�
 unit_abilities_tooltip_text_3k_main_ability_fleet_footed	此人相信，要將敵人除之而後快，就必須先追得上敵人。	false
 unit_abilities_tooltip_text_3k_main_ability_heart_seeker	此射手只消一擊便能取人性命。	true
 unit_abilities_tooltip_text_3k_main_ability_imperious_presence	曹操在場，敵將備受壓制！	false
-unit_abilities_tooltip_text_3k_main_ability_quickfire	nan	true
+unit_abilities_tooltip_text_3k_main_ability_quickfire	此人不斷引弓放箭，越放越快，毫不留手。	true
 unit_abilities_tooltip_text_3k_main_ability_stalwart_defender	此人是天生的護衛將才，所有攻擊對他來說都不痛不癢！	true
 unit_abilities_tooltip_text_hv_ability_aggressive_anger	以不滅的怒氣煽動戰火。	true
 unit_abilities_tooltip_text_hv_ability_anti_cavalry	將士兵組成人墻來抵禦馬匹。此戰術簡單有效。	true
@@ -5165,7 +5163,7 @@ unit_abilities_tooltip_text_hv_ability_rage_of_blackmountain	黑山匪徒怒不�
 unit_abilities_tooltip_text_hv_ability_rage_of_hooves	解決掉他們的弓手，我們到中間會合。	true
 unit_abilities_tooltip_text_hv_ability_restore	從戰場上喘息片刻，為我軍療傷。	true
 unit_abilities_tooltip_text_hv_ability_retreat_cover	掩護友軍安全撤離。	false
-unit_abilities_tooltip_text_hv_ability_royal_blood	敵人亦不敢傷害漢室宗親。	true
+unit_abilities_tooltip_text_hv_ability_royal_blood	敵人並不敢傷害漢室宗親。	true
 unit_abilities_tooltip_text_hv_ability_second_chance	不是所有人都有機會重來。	true
 unit_abilities_tooltip_text_hv_ability_skirmishing_shot	Shoot and run.	true
 unit_abilities_tooltip_text_hv_ability_sniper_position	匿影潛形，尋找機會行致命一擊。	true
@@ -5274,7 +5272,7 @@ unit_ability_types_localised_description_hv_ability_captain_active	號令吶喊	
 unit_ability_types_localised_description_hv_ability_captain_passive	一條密計	true
 unit_ability_types_localised_description_hv_ability_commanding_shout	號令吶喊	true
 unit_ability_types_localised_description_hv_ability_condemn	譴責	true
-unit_ability_types_localised_description_hv_ability_counter_strike	Counter Strike	true
+unit_ability_types_localised_description_hv_ability_counter_strike	反擊	true
 unit_ability_types_localised_description_hv_ability_crash	天崩地裂	true
 unit_ability_types_localised_description_hv_ability_crossing_of_the_styx	黃泉之路	true
 unit_ability_types_localised_description_hv_ability_cruel_lord	強令	true
