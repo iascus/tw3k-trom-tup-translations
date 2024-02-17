@@ -449,11 +449,15 @@ class MissingZhcn(Step):
 
     def _run(self):
         data = self.map_by_key_zh.data
-        data = data.loc[(data['Source'].isin([
-            'Missing',
-            # 'PikaManShortenedKey',
-            # 'PikaMan',
-        ])) & (data['Text'] != '')]
+        data = data.loc[
+            (data['Source'].isin([
+                'Missing',
+                # 'PikaManShortenedKey',
+                # 'PikaMan',
+            ]))
+            & (data['Text'] != '')
+            & (~data['File'].str.contains('MTU'))
+        ]
         return data
 
 
