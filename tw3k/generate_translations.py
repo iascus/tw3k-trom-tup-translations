@@ -504,14 +504,15 @@ class Comparison(Step):
             ]
         ], axis=1).loc[self.trom_eng.data['Key'].drop_duplicates()].reset_index()
 
-        cmp = cmp[
-            cmp['Key'].str.startswith('character_skills_localised_')
-        ]
+        # cmp = cmp[
+        #     cmp['Key'].str.startswith('character_skills_localised_')
+        # ]
         cmp.insert(7, 'DiffZhcn', cmp['ProcrastinatorZhcn'] != cmp['MappedZhcn'])
         cmp.insert(8, 'DiffZhtw', cmp['ProcrastinatorZhtw'] != cmp['MappedZhtw'])
         cmp['SkillKey'] = cmp['Key'].str.replace(
             re.compile('character_skills_localised_([a-z]+)_(.*)'), r'\2_\1', regex=True
         )
+        cmp = cmp.loc[cmp['ProcrastinatorZhcn'] != cmp['MappedZhcn']]
         cmp = cmp.drop('Key', axis=1).sort_values('SkillKey', ascending=False).drop_duplicates()
         cmp = cmp.loc[~cmp['English'].isin([
             'First Characteristic',

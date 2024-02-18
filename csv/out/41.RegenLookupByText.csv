@@ -92,7 +92,7 @@ Bomb Slingers,爆弹兵,爆彈兵,hv_TEXT_unit_text_replacements.loc.tsv
 "Born from refugees and those peoples who would not submit to the Han empire, these White Tiger Strays have thrown their lot with Yan Baihu, hoping to safeguard their independance. Wearing bad equipment, the most valuable thing they offer to their commanders is their lives; to sell dearly as better men win the battle for them.",,,hv_TEXT_unit_long_desc.loc.tsv
 "Brandishing their Ji expertly, these men will uphold the fearsome reputation of the Xiliang army.",这些人熟练地挥舞着战戟，他们会维护西凉军可怕的声誉。,這些人熟練地揮舞著戰戟，他們會維護西涼軍可怕的聲譽。,hv_TEXT_unit_desc.loc.tsv
 Bravery drives a warrior to battle more effectively than any general; a great axe keeps them there.,勇气是最好的将领，能带领士兵踏上沙场。良斧在手，则能让士兵在沙场存活。,勇氣是最好的將領，能帶領士兵踏上沙場。良斧在手，則能讓士兵在沙場存活。,hv_TEXT_unit_desc.loc.tsv
-Breakthrough,,,hv_TEXT_unit_abilities.loc.tsv
+Bring the fight to them and they will hold their ground.,一旦交锋，他们能坚守阵地。,一旦交鋒，他們能堅守陣地。,hv_TEXT_unit_abilities.loc.tsv
 Buddhism,佛教,佛教,hv_TEXT_etc.loc.tsv
 Bulldoze,横冲直撞,橫衝直撞,hv_TEXT_unit_abilities.loc.tsv
 Buqu of the Left General,左将军部曲,左將軍部曲,hv_TEXT_unit_text_replacements.loc.tsv
@@ -139,7 +139,7 @@ Devoted Mother,躬亲主母,躬親主母,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Diao Chan's Silk Raiment,,,[dummy]__MTU_dummy.loc.tsv
 Diao Chan's beauty is enough to destroy a country in a moment.,,,[dummy]__MTU_dummy.loc.tsv
 Disturbance,扰乱,擾亂,hv_TEXT_skills_additional.loc.tsv
-Dong Bai,,,[01]__MTU_generals__Water_strategist.loc.tsv
+Dong Bai,董白,董白,[01]__MTU_generals__Water_strategist.loc.tsv
 Dong Min,董旻,董旻,hv_TEXT_cb_loadout.loc.tsv
 Dragon Rising,觉醒之龙,覺醒之龍,hv_TEXT_unit_abilities.loc.tsv
 Dragonlings,少龙兵,少龍兵,hv_TEXT_unit_text_replacements.loc.tsv
@@ -313,13 +313,13 @@ Martial Prowess,精通武艺,精通武藝,hv_TEXT_unit_abilities.loc.tsv
 "Medium Range, Low Armour-Piercing Damage, Fast Reload",中距，穿甲伤害低，射击速率快,中距，穿甲傷害低，射擊速率快,hv_TEXT_unit_ui_group_t1.loc.tsv
 Melee Attack (Auto),近战攻击（自动）,近戰攻擊（自動）,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 Men of Thunder,雷霆军,雷霆軍,hv_TEXT_unit_text_replacements.loc.tsv
-"Mighty, gnarled monoliths, the imposing peaks of China's south stand like sentinels against the unrelenting waters beyond. Amongst these hills and peaks, the Yue tribes eke out their continued existence; brought low from the once-proud past, they stand now against the threat of Han invasion from the north. Although they wield sword and shield, they are nothing like the professional warriors coming to face them. \\n\\n Yet, united behind one who purports to fight for their ideals, the Yue are able to summon themselves into something resembling their own strength – their legacy demands it!",,,hv_TEXT_unit_long_desc.loc.tsv
+"Mighty, gnarled monoliths, the imposing peaks of China's south stand like sentinels against the unrelenting waters beyond. Amongst these hills and peaks, the Yue tribes eke out their continued existence; brought low from the once-proud past, they stand now against the threat of Han invasion from the north. Although they wield sword and shield, they are nothing like the professional warriors coming to face them. \\n\\n Yet, united behind one who purports to fight for their ideals, the Yue are able to summon themselves into something resembling their own strength – their legacy demands it!",江南一带危峰兀立，怪石嶙峋。它们就如同铁卫一般静静镇守着奔流不息的江水。越人便藏身于这山岭之中，顽强地生活下来。尽管他们光辉的历史已经归于沉寂，但此刻他们再次挺身而出，顽强抵抗北方汉人的侵略。尽管他们持有剑盾，但还远不是精兵的敌手。\\n\\n 他们如今团结在一位愿意为他们而战的人麾下，决定复兴古老的传统，让世人见识他们的力量！,高聳險奇的群山立於中原南方，與波濤洶湧的海洋相抗衡。在崇山峻嶺之間，越人仍世世代代勉力維生。他們曾有著輝煌的過往，如今則得力抗北方漢人入侵。儘管他們持有劍盾，但還遠不是精兵的敵手。\\n\\n然而在一名立志守護他們理念的奇人率領之下，越民團結一心，喚起自身的古老力量，為傳承而戰！,hv_TEXT_unit_long_desc.loc.tsv
 Military Talent,军事才能,軍事才能,hv_TEXT_events.loc.tsv
 Moment of Courage,一时之勇,一時之勇,hv_TEXT_unit_abilities.loc.tsv
 Morale Shock Projectile,箭矢打击士气,箭矢打擊士氣,hv_TEXT_unit_ui_group_t1.loc.tsv
 "Move swift as the Wind and closely-formed as the Wood. Attack like the Fire and be still as the Mountain. \\n\\n These elite soldiers hail from Danyang province and are rapidly gaining renown with commanders in the crumbling Han empire. Armed with a glaive and heavy armor, they have gathered a reputation assaulting enemy strongpoints succesfully and routing their defenders. \\n\\n Already, enemies have learned to fear their expertise, as well as the gunpowder bombs they carry with them. When the Blue Turbans have been spotted on the field, the foe knows their days are numbered.",,,hv_TEXT_unit_long_desc.loc.tsv
-Mud,,,!hv_TEXT_system.loc.tsv
-Mud makes the movement and combat of all units inefficient.,,,!hv_TEXT_system.loc.tsv
+Mud,泥地,泥地,!hv_TEXT_system.loc.tsv
+Mud makes the movement and combat of all units inefficient.,泥地会使所有部队的移动与战斗效率低下。,泥地會使所有部隊的移動與戰鬥效率低下。,!hv_TEXT_system.loc.tsv
 Nanman Infill Development ,南蛮填地开发,南蠻填地開發,hv_TEXT_building.loc.tsv
 Nanman-Han Trading Post,南蛮交易所,南蠻交易所,hv_TEXT_building.loc.tsv
 No horseman shall pass these spearmen from the famed Xiliang army.,没有任何骑兵能冲破赫赫有名的西凉军枪阵。 ,沒有任何騎兵能衝破赫赫有名的西涼軍槍陣。,hv_TEXT_unit_desc.loc.tsv
@@ -395,7 +395,6 @@ Send civil officials,派文官前去,派文官前去,ifo_text_TWEAK.loc.tsv
 Send military officers,派武官前去,派武官前去,ifo_text_TWEAK.loc.tsv
 Set your heart ablaze!,将你的心点燃！,將你的心點燃！,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 Shen Pei,审配,審配,hv_TEXT_cb_loadout.loc.tsv
-Shield Wall (Mobile),,,hv_TEXT_unit_abilities.loc.tsv
 Shoot and run.,,,hv_TEXT_unit_abilities.loc.tsv
 Shoot some crossbow-bombs for reducing morale of hostile units.,射出一些弩弹，用于降低敌军士气。,射出一些弩彈，用於降低敵軍士氣。,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 "Short Range, High Armour-Piercing Damage, Average Reload",近距，穿甲伤害高，射击速率一般,近距，穿甲傷害高，射擊速率一般,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
@@ -427,7 +426,6 @@ Stratocracy: Modest,军政：初试锋芒,軍政：初試鋒芒,hv_TEXT_effects_
 Stratocracy: Substantial,军政：不可小觑,軍政：不可小覷,hv_TEXT_effects_pooled_resource.loc.tsv
 Strength of Black Mountain,黑山之力,黑山之力,hv_TEXT_unit_abilities.loc.tsv
 Striking Tide,刀浪澎湃,刀浪澎湃,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
-"Sun Tzu said that one should always give an enemy room to escape, so that they do not fight with the fervour of the doomed. Yet for Gao Shun's elite force, Xian Chen Ying, being entirely surrounded is nothing but another dimension to slaughter. \\n\\n Renowned for their abilitiy to smash through enemy formations, Xian Chen Ying excel even when surrounded. The bodies will pile high, but Xian Chen Ying will still emerge from the pile victorious.",,,hv_TEXT_unit_long_desc.loc.tsv
 Supply Management,补给管理,補給管理,hv_TEXT_building.loc.tsv
 Support them,支持他们,支持他們,hv_TEXT_events.loc.tsv
 Survival Instinct ,生存本能,生存本能,hv_TEXT_region_army.loc.tsv
@@ -437,7 +435,7 @@ Taishan Phantoms,泰山魅影兵,泰山魅影兵,hv_TEXT_unit_text_replacements.
 Taishan Poison Wind Archers,泰山毒风弓兵,泰山毒風弓兵,hv_TEXT_unit_text_replacements.loc.tsv
 Take her,收留她,予以接納,hv_TEXT_events.loc.tsv
 Take out their archers. I'll meet you in the middle.,解决掉他们的弓手，我们到中间会合。,解決掉他們的弓手，我們到中間會合。,hv_TEXT_unit_abilities.loc.tsv
-"Thanks to your patronage of scholars and men of talent, your officers have made progress on the path to enlightenment.",由于您对学者和人才的赞助，您的官员在启蒙的道路上取得了进步。,由於您對學者和人才的贊助，您的官員在啓蒙的道路上取得了進步。,hv_TEXT_events.loc.tsv
+"Thanks to your patronage of scholars and men of talent, your officers have made progress on the path to enlightenment.",由于您对学者和人才的赞助，您的官员在启蒙的道路上取得了进步。,由於您對學者和人才的贊助，您的官員在修爲的道路上取得了進步。,hv_TEXT_events.loc.tsv
 The Black Mountain bandits are scattered. ,黑山匪徒已作鸟兽散。,黑山匪徒已作鳥獸散。,hv_TEXT_effects_pooled_resource.loc.tsv
 The Black Mountain bandits make their advance.,黑山匪徒开始进军。,黑山匪徒開始進軍。,hv_TEXT_unit_abilities.loc.tsv
 The Black Mountain bandits make their move.,黑山匪徒开始出动。,黑山匪徒開始出動。,hv_TEXT_unit_abilities.loc.tsv
@@ -454,6 +452,7 @@ The Legacy of Yuan Shu,袁术残党,袁術殘黨,hv_TEXT_effects_events.loc.tsv
 The New Coin Causes Confusion!,新币引起了混乱！,新幣引起了混亂！,hv_TEXT_events.loc.tsv
 The Wandering Survivors,寄人篱下,寄人籬下,hv_TEXT_events.loc.tsv
 "The Xiliang Army is yours to command! Each colonel is loyal to whom they have been assigned, vowing never to leave their side!",西凉军为您效命！每一位校尉都忠于自己所属之人，誓死不离其侧！,西涼軍爲您效命！每一位校尉都忠於自己所屬之人，誓死不離其側！,hv_TEXT_effects_ceo.loc.tsv
+The Xiliang army is experienced.,西凉军经验丰富。,西涼軍經驗豐富。,hv_TEXT_unit_abilities.loc.tsv
 The Yan frontier offers no shortage of good horses. The constant warfare provides these steeds with expert riders.,燕疆不乏良马。连绵的战事为这些战马提供了老练的骑手。,燕疆不乏良馬。連綿的戰事為這些戰馬提供了老練的騎手。  ,hv_TEXT_unit_desc.loc.tsv
 The Yellow Turban Rises Again,黄巾再起,黃巾再起,hv_TEXT_events.loc.tsv
 The Yellow Turban is ready to color the world once again.,,,hv_TEXT_pooled_resource.loc.tsv
@@ -565,9 +564,8 @@ We've run into problems paying the troops with the new coin. We have no choice b
 We've run into problems purchasing grain with the new coin. We have no choice but to wait for farmers to adjust to the new standard.,由于新币发行，买粮时出现问题。我们别无选择，只能等到农民们适应新的标准。,由於新幣發行，買糧時出現問題。我們別無選擇，只能等到農民們適應新的標準。,hv_TEXT_events.loc.tsv
 Wen Chou,文丑,文醜,hv_TEXT_cb_loadout.loc.tsv
 "What kind of men are these, who are not soldiers, yet wear elite armour? Bloody men, who have earned their weaponry through victory and pillaging.",这些人并非军士，却穿着精良的铠甲。他们的装备来自于血腥的胜利和洗劫。,這些人并非軍士，卻穿著精良的鎧甲。他們的裝備來自於血腥的勝利和洗劫。,hv_TEXT_unit_desc.loc.tsv
-"When they face Xianchenying, they lose confidence.",,,hv_TEXT_unit_abilities.loc.tsv
 "When unequipped, the upkeep cost of the units unlocked by this follower will increase.",未装备时，该随从解锁的部队的维护费用会增加。,未裝備時，該隨從解鎖的單位的維護費用會增加。,hv_TEXT_effects_ceo.loc.tsv
-"When your faction reached Enlightened, there will be Yellow Turban rebellion across China.",,,hv_TEXT_effects_pooled_resource.loc.tsv
+"When your faction reached Enlightened, there will be Yellow Turban rebellion across China.",当您的派系达成启蒙，天下各方黄巾教徒便会起事。,儅您的勢力修爲達成，天下各方黃巾教徒便會起事。,hv_TEXT_effects_pooled_resource.loc.tsv
 "Where the militia of the Han are pressed into service out of obligation, the Yellow Turban zealots rise to fight because it is the only way to carve a better future for the people. \\n\\n Their fierce determination makes them more effective than standard militia. They charge into battle, lightly-armoured and equipped with explosive materials, ready to rend asunder any who doubt or question the Way.",汉代的民兵往往是被迫服役的，但黄巾战士们确实真心实意为天下苍生而战。\\n\\n 这种坚决的意志使他们比一般的民兵更为勇猛。他们身着轻甲，手持炸裂物，毫不留情地斩杀一切与黄天为敌之人。,漢軍民兵是被迫服役效勞朝廷，黃巾信眾則是為了扶助天下萬民而挺身奮戰。\\n\\n他們堅守職志，比起一般民兵更加善戰。這些信眾執爆裂物著輕甲趕赴沙場，欲將質疑太平道的敵人全數斬除。,hv_TEXT_unit_desc.loc.tsv
 "Whereas some cavalry bring a primal, instantly shattering force to the battlefield, other mounted warriors are suited to the slower burn, embroiling themselves in the melee and staying to continue inflicting casualties. \\n\\n Whilst they get less power on the charge, their destructive capability increases dramatically once they begin hacking away at foes.",有的骑兵擅于冲锋，以蛮横的力量来击垮敌人；有的骑兵则相较之下更擅于慢火细炖，故意让自身卷入近战，以持续对敌人造成杀伤。\\n\\n这些近战骑兵虽然冲击力较差，但与敌人接触进入混战后却能造成相当大的杀伤。,有些騎兵以迅猛破陣之力見長，有些則善於近身纏鬥，持續殺傷敵人。\\n\\n這些掠奪者殺入戰場，儘管衝鋒的威力較一般騎兵略遜一籌，但在接敵後便能大幅發揮摧枯拉朽的能力，將敵兵一一劈裂。,hv_TEXT_unit_long_desc.loc.tsv
 "Whether near or from afar, these soldiers shall bring justice to any who would threaten their prince.",无论远近，这些士卒都要为任何威胁他们主公的人讨回公道。,無論遠近，這些士卒都要為任何威脅他們主公的人討回公道。 ,hv_TEXT_unit_desc.loc.tsv
@@ -641,7 +639,6 @@ Zhang Bang's Armour,张方的护甲,張方的護甲,hv_TEXT_ceo_career.loc.tsv
 Zhang Fang,张方,張方,hv_TEXT_cb_loadout.loc.tsv
 Zhang Xueer,,,[01]__MTU_generals__Fire_vanguard.loc.tsv
 Zhang Xun,张勋,張勳,hv_TEXT_cb_loadout.loc.tsv
-"Zheng Jiang has selected her most ferocious bandits to act as her ‘Fists of the Bandit Queen’; their role is to act as shock-troops, sneaking behind enemy lines to terrify foes with surprise attacks early in the battle. \\n\\n Each carries a heavy fu axe in each hand, and the wounds dealt by them can be catastrophic. Striking terror requires these troops to be without fear themselves, but also means they can tend to be undisciplined and difficult to control once their blood is hot with battle",,,hv_TEXT_unit_long_desc.loc.tsv
 Zheng Lan,,,[01]__MTU_generals__Metal_sentienl.loc.tsv
 Zhong Royal Guard Cavalry,仲氏羽林骑,仲氏羽林騎,hv_TEXT_unit_text_replacements.loc.tsv
 Zhuge Liang has brilliantly engineered a new weapon. It is a crossbow that fires several bolts simultaneously to overwhelm the enemy.,诸葛亮精心设计出一种新武器。这是一种能够同时射出多枚箭矢的弩弓，可以压制敌人。 ,諸葛亮精心設計出一種新武器。這是一種能夠同時射出多枚箭矢的弩弓，可以壓制敵人。,hv_TEXT_events.loc.tsv

@@ -2919,7 +2919,7 @@ effects_description_hv_dummy_effect_enforcer_mounted_archers_unlock,解除單位
 effects_description_hv_dummy_effect_hidden_snakes_unlock,解除單位鎖定：{{tr:hv_unit_hidden_snakes}},False
 effects_description_hv_dummy_effect_rapid_tigers_unlock,解除單位鎖定：{{tr:hv_unit_rapid_tigers}},False
 effects_description_hv_dummy_effect_white_tiger_warriors_unlock,為嚴白虎解鎖單位：{{tr:hv_unit_white_tiger_warriors}},False
-effects_description_hv_dummy_effect_ytr_resurrection,"When your faction reached Enlightened, there will be Yellow Turban rebellion across China.",True
+effects_description_hv_dummy_effect_ytr_resurrection,儅您的勢力修爲達成，天下各方黃巾教徒便會起事。,True
 effects_description_hv_effect_army_stockpiles,存糧[[b]]%+n[[/b]] ,True
 effects_description_hv_effect_assignment_military_disturbance,解鎖任務：軍事支援,True
 effects_description_hv_effect_assignment_more_build_slot,解鎖任務：擴展城市,True
@@ -3606,8 +3606,8 @@ ground_type_stat_effect_groups_onscreen_name_hv_ground_effect_half_cavalry,重�
 ground_type_stat_effect_groups_onscreen_name_hv_ground_effect_heavy_infantry,重型步兵,True
 ground_type_stat_effect_groups_onscreen_name_hv_ground_effect_light_infantry,輕型步兵,True
 ground_type_stat_effect_groups_onscreen_name_hv_ground_effect_medium_infantry,中型步兵,True
-ground_types_description_mud,Mud makes the movement and combat of all units inefficient.,True
-ground_types_onscreen_name_mud,Mud,True
+ground_types_description_mud,泥地會使所有部隊的移動與戰鬥效率低下。,True
+ground_types_onscreen_name_mud,泥地,True
 incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_civil,皇家祭祀儀式圓滿完成，天子對到場的貴族示恩。 ,False
 incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_military,皇家祭祀儀式圓滿完成，天子對到場的貴族示恩。 ,False
 incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_nothing,皇家祭祀儀式順利完成，但天子一言不發便回宮了。 ,False
@@ -3647,7 +3647,7 @@ incidents_localised_description_hv_incident_cai_yan_dlc05,"Your messengers repor
 incidents_localised_description_hv_incident_cai_yan_dlc07,"Your messengers report a remarkable story. A trader spotted a Han woman living amongst the Xiongnu and identified her as Cai Yan, the daughter of the grand scholar Cai Yong. It seems she was forced to marry a chieftain of the Xiongnu. Perhaps someone could convince this chieftain to free Cai Yan. One of your scouts has already left to investigate...",False
 incidents_localised_description_hv_incident_chunyu_qiong,曾比肩袁曹，現卻成日飲酒作樂，荒廢才能。不料淳于瓊在危難之際卻懸崖勒馬，重振其西園校尉之威。,False
 incidents_localised_description_hv_incident_danyang_army,您獲得一張可指揮丹陽部隊的兵符。,False
-incidents_localised_description_hv_incident_education,由於您對學者和人才的贊助，您的官員在啓蒙的道路上取得了進步。,False
+incidents_localised_description_hv_incident_education,由於您對學者和人才的贊助，您的官員在修爲的道路上取得了進步。,False
 incidents_localised_description_hv_incident_ironfist_army,我們從附近游牧民族召集戰士，組成了一支强健騎兵。這些令人可畏的鐵甲騎兵將衝垮你的敵人。,False
 incidents_localised_description_hv_incident_jingchou_army,您獲得一張可指揮荊楚部隊的兵符。,False
 incidents_localised_description_hv_incident_sogd,自西域而來的粟特商人出現在我方境内。我們很快就能買到精美商品，或者雇傭粟特傭兵。,False
@@ -3791,7 +3791,7 @@ land_units_onscreen_name_3k_mtu_general_metal_lady_xiao_qiao,Yuan Anyang,False
 land_units_onscreen_name_3k_mtu_general_metal_lady_zhang_jinglan,Zheng Lan,False
 land_units_onscreen_name_3k_mtu_general_water_cai_yan,Cai Yan,False
 land_units_onscreen_name_3k_mtu_general_water_hua_xin,華歆,False
-land_units_onscreen_name_3k_mtu_general_water_lady_dong_bai,Dong Bai,False
+land_units_onscreen_name_3k_mtu_general_water_lady_dong_bai,董白,False
 land_units_onscreen_name_3k_mtu_general_water_lady_gongsun_jinting,Hou Jinting,False
 land_units_onscreen_name_3k_mtu_general_water_lady_lu_zheng,陸政,False
 land_units_onscreen_name_3k_mtu_general_water_lady_zou_yuan,Zou Yuan,False
@@ -4441,9 +4441,9 @@ special_ability_phases_onscreen_name_hv_ability_wolf,惡狼,True
 special_ability_phases_onscreen_name_hv_ability_words_of_the_way,神詠,True
 special_ability_phases_onscreen_name_hv_ability_wu_brave,東吳之勇,True
 special_ability_phases_onscreen_name_hv_ability_wuhuan_riding,烏桓騎術,True
-special_ability_phases_onscreen_name_hv_ability_xianchenying,Breakthrough,True
-special_ability_phases_onscreen_name_hv_ability_xiliang_army,反騎兵專家,True
-special_ability_phases_onscreen_name_hv_ability_xiliang_army_ranged,反騎兵專家,True
+special_ability_phases_onscreen_name_hv_ability_xianchenying,突破,True
+special_ability_phases_onscreen_name_hv_ability_xiliang_army,西涼老兵 - 近戰,True
+special_ability_phases_onscreen_name_hv_ability_xiliang_army_ranged,西涼老兵 - 遠程,True
 special_ability_phases_onscreen_name_hv_ability_young_blood,血氣方剛,True
 special_ability_phases_onscreen_name_hv_ability_yuan_officer_passive,支持,True
 special_ability_phases_onscreen_name_hv_ability_zhou_the_youth_1,美周郎,True
@@ -4455,7 +4455,7 @@ special_ability_phases_onscreen_name_hv_formation_pike_wall_eight_talents,八才
 special_ability_phases_onscreen_name_hv_formation_pike_wall_white_feather,白毦兵戟墻,True
 special_ability_phases_onscreen_name_hv_formation_ranged_hollowed_square,中空方陣（遠程）,True
 special_ability_phases_onscreen_name_hv_formation_shield_wall_danyang,丹陽盾牆陣,True
-special_ability_phases_onscreen_name_hv_formation_shield_wall_move,Shield Wall (Mobile),True
+special_ability_phases_onscreen_name_hv_formation_shield_wall_move,盾陣（可機動）,True
 special_ability_phases_onscreen_name_hv_formation_shock_loose,疏陣衝鋒,True
 special_ability_phases_onscreen_name_hv_formation_shock_loose_cavalry,騎兵疏陣衝鋒,True
 special_ability_phases_onscreen_name_hv_formation_shock_loose_cavalry_no_requirement,騎兵疏陣衝鋒,True
@@ -6114,9 +6114,9 @@ unit_abilities_onscreen_name_hv_ability_wolf,惡狼,True
 unit_abilities_onscreen_name_hv_ability_words_of_the_way,神詠,True
 unit_abilities_onscreen_name_hv_ability_wu_brave,東吳之勇,True
 unit_abilities_onscreen_name_hv_ability_wuhuan_riding,烏桓騎術,True
-unit_abilities_onscreen_name_hv_ability_xianchenying,Breakthrough,True
-unit_abilities_onscreen_name_hv_ability_xiliang_army,反騎兵專家,True
-unit_abilities_onscreen_name_hv_ability_xiliang_army_ranged,反騎兵專家,True
+unit_abilities_onscreen_name_hv_ability_xianchenying,突破,True
+unit_abilities_onscreen_name_hv_ability_xiliang_army,西涼老兵 - 近戰,True
+unit_abilities_onscreen_name_hv_ability_xiliang_army_ranged,西涼老兵 - 遠程,True
 unit_abilities_onscreen_name_hv_ability_young_blood,血氣方剛,True
 unit_abilities_onscreen_name_hv_ability_youzansen,橫掃千軍,True
 unit_abilities_onscreen_name_hv_ability_yuan_officer_passive,支持,True
@@ -6127,7 +6127,7 @@ unit_abilities_onscreen_name_hv_formation_pike_wall_eight_talents,八才戟衛�
 unit_abilities_onscreen_name_hv_formation_pike_wall_white_feather,白毦兵戟墻,True
 unit_abilities_onscreen_name_hv_formation_ranged_hollowed_square,中空方陣（遠程）,True
 unit_abilities_onscreen_name_hv_formation_shield_wall_danyang,丹陽盾牆陣,True
-unit_abilities_onscreen_name_hv_formation_shield_wall_move,Shield Wall (Mobile),True
+unit_abilities_onscreen_name_hv_formation_shield_wall_move,盾陣（可機動）,True
 unit_abilities_onscreen_name_hv_formation_shock_loose,疏陣衝鋒,True
 unit_abilities_onscreen_name_hv_formation_shock_loose_cavalry,騎兵疏陣衝鋒,True
 unit_abilities_onscreen_name_hv_formation_shock_loose_cavalry_no_requirement,騎兵疏陣衝鋒,True
@@ -6308,10 +6308,10 @@ unit_abilities_tooltip_text_hv_ability_crossing_of_the_styx,奈何橋前可奈�
 unit_abilities_tooltip_text_hv_ability_cruel_lord,命令不易實行但卻不可不從。,True
 unit_abilities_tooltip_text_hv_ability_dead_or_alive,生死存亡，轉瞬即逝。,True
 unit_abilities_tooltip_text_hv_ability_defence_mastery,組成無隙可乘的防禦陣型。,True
-unit_abilities_tooltip_text_hv_ability_defense_mastery_melee,在有援兵可倚之時，本方將士必當更加胸有成竹。,True
-unit_abilities_tooltip_text_hv_ability_defense_mastery_melee_custom,當面臨戰鬥時，他們將越戰越勇。,True
-unit_abilities_tooltip_text_hv_ability_defense_mastery_ranged,在有援兵可倚之時，本方將士必當更加胸有成竹。,True
-unit_abilities_tooltip_text_hv_ability_defense_mastery_ranged_custom,被動增強效果,True
+unit_abilities_tooltip_text_hv_ability_defense_mastery_melee,一旦交鋒，他們能堅守陣地。,True
+unit_abilities_tooltip_text_hv_ability_defense_mastery_melee_custom,一旦交鋒，他們能堅守陣地。,True
+unit_abilities_tooltip_text_hv_ability_defense_mastery_ranged,一旦交鋒，他們能堅守陣地。,True
+unit_abilities_tooltip_text_hv_ability_defense_mastery_ranged_custom,一旦交鋒，他們能堅守陣地。,True
 unit_abilities_tooltip_text_hv_ability_desperate_cry,能激勵人的不見得是命令的內容，也可能是發號施令的方法。,True
 unit_abilities_tooltip_text_hv_ability_desperate_resistance,我别无选择，只能假装自己是一個無畏战士,False
 unit_abilities_tooltip_text_hv_ability_desperate_savior,希望之火在最黯時刻光芒閃耀。,True
@@ -6401,9 +6401,9 @@ unit_abilities_tooltip_text_hv_ability_wolf,惡狼謹慎出擊，直奔咽喉。
 unit_abilities_tooltip_text_hv_ability_words_of_the_way,一首古老的歌謠，提醒人們上天會庇佑有德之人。,True
 unit_abilities_tooltip_text_hv_ability_wu_brave,今日之戰將流芳百世。,True
 unit_abilities_tooltip_text_hv_ability_wuhuan_riding,烏桓馬術天下無雙。,True
-unit_abilities_tooltip_text_hv_ability_xianchenying,"When they face Xianchenying, they lose confidence.",True
-unit_abilities_tooltip_text_hv_ability_xiliang_army,此部隊擅長對抗騎兵。,True
-unit_abilities_tooltip_text_hv_ability_xiliang_army_ranged,此部隊擅長對抗騎兵。,True
+unit_abilities_tooltip_text_hv_ability_xianchenying,陷陣營前人人膽怯。,True
+unit_abilities_tooltip_text_hv_ability_xiliang_army,西涼軍經驗豐富。,True
+unit_abilities_tooltip_text_hv_ability_xiliang_army_ranged,西涼軍經驗豐富。,True
 unit_abilities_tooltip_text_hv_ability_young_blood,不經世故但鬥志昂揚。,True
 unit_abilities_tooltip_text_hv_ability_youzansen,使出一記弧形揮砍殺傷敵人,True
 unit_abilities_tooltip_text_hv_ability_yuan_officer_passive,強強聯手，鼎力相助。,True
@@ -6674,9 +6674,9 @@ unit_ability_types_localised_description_hv_ability_wolf,惡狼,True
 unit_ability_types_localised_description_hv_ability_words_of_the_way,神詠,True
 unit_ability_types_localised_description_hv_ability_wu_brave,東吳之勇,True
 unit_ability_types_localised_description_hv_ability_wuhuan_riding,烏桓騎術,True
-unit_ability_types_localised_description_hv_ability_xianchenying,Breakthrough,True
-unit_ability_types_localised_description_hv_ability_xiliang_army,反騎兵專家,True
-unit_ability_types_localised_description_hv_ability_xiliang_army_ranged,反騎兵專家,True
+unit_ability_types_localised_description_hv_ability_xianchenying,突破,True
+unit_ability_types_localised_description_hv_ability_xiliang_army,西涼老兵 - 近戰,True
+unit_ability_types_localised_description_hv_ability_xiliang_army_ranged,西涼老兵 - 遠程,True
 unit_ability_types_localised_description_hv_ability_young_blood,血氣方剛,True
 unit_ability_types_localised_description_hv_ability_youzansen,橫掃千軍,True
 unit_ability_types_localised_description_hv_ability_yuan_officer_passive,支持,True
@@ -6687,7 +6687,7 @@ unit_ability_types_localised_description_hv_formation_pike_wall_eight_talents,�
 unit_ability_types_localised_description_hv_formation_pike_wall_white_feather,白毦兵戟墻,True
 unit_ability_types_localised_description_hv_formation_ranged_hollowed_square,中空方陣（遠程）,True
 unit_ability_types_localised_description_hv_formation_shield_wall_danyang,丹陽盾牆陣,True
-unit_ability_types_localised_description_hv_formation_shield_wall_move,Shield Wall (Mobile),True
+unit_ability_types_localised_description_hv_formation_shield_wall_move,盾陣（可機動）,True
 unit_ability_types_localised_description_hv_formation_shock_loose,疏陣衝鋒,True
 unit_ability_types_localised_description_hv_formation_shock_loose_cavalry,騎兵疏陣衝鋒,True
 unit_ability_types_localised_description_hv_formation_shock_loose_cavalry_no_requirement,騎兵疏陣衝鋒,True
@@ -7166,7 +7166,7 @@ unit_description_historical_texts_text_hv_unit_hidden_2h_spearmen,未完成\\n\\
 unit_description_historical_texts_text_hv_unit_hidden_assault_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_hidden_snakes,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_imperial_guards,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_iron_fists_of_the_bandit_queen,"Zheng Jiang has selected her most ferocious bandits to act as her ‘Fists of the Bandit Queen’; their role is to act as shock-troops, sneaking behind enemy lines to terrify foes with surprise attacks early in the battle. \\n\\n Each carries a heavy fu axe in each hand, and the wounds dealt by them can be catastrophic. Striking terror requires these troops to be without fear themselves, but also means they can tend to be undisciplined and difficult to control once their blood is hot with battle",True
+unit_description_historical_texts_text_hv_unit_iron_fists_of_the_bandit_queen,鄭姜親自挑選最兇悍的盜賊組成她的「盜賊女王拳勇團」。他們擔任突襲隊，在戰鬥開始時悄悄繞到敵方戰線後方進行突襲。 \\n\\n 拳勇團個個雙手持斧，能將敵人砍成重傷。要令敵人驚懼，自己需先無畏，不過這也代表一旦戰至鬥志沸騰，他們將無視紀律，難以控制。,True
 unit_description_historical_texts_text_hv_unit_jade_dragons,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_jei_fan_infantry,"Treat your men as you would your own beloved sons. And they will follow you into the deepest valley. \\n\\n Serving the heirs of Sun Tzu, these men would willingly follow them into heirs and certain death. Armed with a light glaive and medium armor, these men can hold their own in a variety of situations, facing down cavalry or infantry with equal skill. Their versatility has caused them to be fondly called “problem solvers” by their commanders and are given great respect, which they repay with loyalty.",True
 unit_description_historical_texts_text_hv_unit_jianan_archers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
@@ -7242,7 +7242,7 @@ unit_description_historical_texts_text_hv_unit_white_tiger_guardsmen,未完成\\
 unit_description_historical_texts_text_hv_unit_white_tiger_warriors,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_wuhuan_barded_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_wuhuan_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_xian_chen_ying,"Sun Tzu said that one should always give an enemy room to escape, so that they do not fight with the fervour of the doomed. Yet for Gao Shun's elite force, Xian Chen Ying, being entirely surrounded is nothing but another dimension to slaughter. \\n\\n Renowned for their abilitiy to smash through enemy formations, Xian Chen Ying excel even when surrounded. The bodies will pile high, but Xian Chen Ying will still emerge from the pile victorious.",True
+unit_description_historical_texts_text_hv_unit_xian_chen_ying,孫子曾言圍師必闕，以免敵軍臨危拚命。然而高順的精兵破寨軍卻認為身陷重圍也無妨，只管開殺便是。\\n\\n破寨軍以搗破敵陣的本事聞名，他們遭圍時反而更能發揮實力。哪怕沙場上屍首交疊成山，破寨軍總是能殺出重圍。 ,True
 unit_description_historical_texts_text_hv_unit_xianbei_archer_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_xiliang_buqu_archer_cavalry,一邊是長城的陰影，另一邊是草原各部落，西涼民族必須紀律嚴明，艱苦奮鬥。而西涼士兵則必須加倍做到。\\n\\n勇敢而老練的西涼軍是大多數軍閥羡慕的對象，也是西涼軍將領的驕傲。\\n\\n這些馬弓手會模仿他們經常面對的草原部落的戰術，可以熟練地邊射邊跑。他們將攻擊敵人最薄弱的地方，同時會保持距離，沒有弓弩便無法傷害他們。,True
 unit_description_historical_texts_text_hv_unit_xiliang_buqu_crossbowmen,一邊是長城的陰影，另一邊是草原各部落，西涼民族必須紀律嚴明，艱苦奮鬥。而西涼士兵則必須加倍做到。\\n\\n勇敢而老練的西涼軍是大多數軍閥羡慕的對象，也是西涼軍將領的驕傲。\\n\\n這些士兵手持弓弩，向敵人發射大量穿甲箭矢。聰明的將軍會用矛兵支援他們，因為他們是敵人騎兵的主要目標。,True
@@ -7270,7 +7270,7 @@ unit_description_historical_texts_text_hv_unit_ytr_virtuous_noblemen,黃巾軍�
 unit_description_historical_texts_text_hv_unit_ytr_zealots_of_the_way,漢軍民兵是被迫服役效勞朝廷，黃巾信眾則是為了扶助天下萬民而挺身奮戰。\\n\\n他們堅守職志，比起一般民兵更加善戰。這些信眾執爆裂物著輕甲趕赴沙場，欲將質疑太平道的敵人全數斬除。,False
 unit_description_historical_texts_text_hv_unit_yuan_rong_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_yuan_sword_infantry,"The Yuan clan's fame brings many benefits, one of which the number of men willing to lay down their lives in their service. \\n\\n Wielding the noble Jian blade, and protected by stout shields and good armour, these swordsmen will defend their masters with zeal. They form the frontline of the Yuan battleline, chopping and slashing at their foe until either they or themselves are slain.",True
-unit_description_historical_texts_text_hv_unit_yue_freemen,"Mighty, gnarled monoliths, the imposing peaks of China's south stand like sentinels against the unrelenting waters beyond. Amongst these hills and peaks, the Yue tribes eke out their continued existence; brought low from the once-proud past, they stand now against the threat of Han invasion from the north. Although they wield sword and shield, they are nothing like the professional warriors coming to face them. \\n\\n Yet, united behind one who purports to fight for their ideals, the Yue are able to summon themselves into something resembling their own strength – their legacy demands it!",True
+unit_description_historical_texts_text_hv_unit_yue_freemen,高聳險奇的群山立於中原南方，與波濤洶湧的海洋相抗衡。在崇山峻嶺之間，越人仍世世代代勉力維生。他們曾有著輝煌的過往，如今則得力抗北方漢人入侵。儘管他們持有劍盾，但還遠不是精兵的敵手。\\n\\n然而在一名立志守護他們理念的奇人率領之下，越民團結一心，喚起自身的古老力量，為傳承而戰！,True
 unit_description_historical_texts_text_hv_unit_zhong_royal_guard,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_short_texts_text_hv_unit_azure_dragons,未完成,True
 unit_description_short_texts_text_hv_unit_bandits_2h_spear_cavalry,未完成,True
