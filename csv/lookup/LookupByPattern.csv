@@ -19,9 +19,12 @@ KeyPattern,TextPattern,zh-tw,zh-cn
 ,^\[\[b\]\]%\+n\[\[/b\]\] (?P<text_fragment>[a-zA-Z ]+)$,{text_fragment}[[b]]%+n[[/b]],{text_fragment}[[b]]%+n[[/b]]
 ^ceo_nodes_description_.*,^Proof that the bearer has the authority to command (?P<unit_type>[a-zA-Z ]+).,此令牌可指揮{unit_type}。,此令牌可指挥{unit_type}。
 ^ceo_nodes_description_.*,^Proof that the bearer has the authority to command (?P<unit_type>[a-zA-Z]+) troops.,此令牌可指揮{unit_type}單位。,此令牌可指挥{unit_type}部队。
-^(character_skills_localised_|unit_abilities_onscreen_name_|unit_abilities_tooltip_text_|unit_ability_types_localised_description_|special_ability_phases_onscreen_name_).*,"^(?P<skill>[-a-zA-Z ',\.\?!\(\)]+)$",{skill},{skill}
+^(character_skills_localised_|unit_abilities_onscreen_name_|unit_abilities_tooltip_text_|unit_ability_types_localised_description_|special_ability_phases_onscreen_name_).*,"^(?P<skill>[-a-zA-Z ',\.\?!\(\):]+)$",{skill},{skill}
 ^effects_description_.*,^Ability: (?P<skill>[-a-zA-Z ']+)$,技能：{skill},技能：{skill}
-^ui_text_replacements_localised_text_,^(?P<repl>\[\[.*\]\]) (?P<text_fragment>[a-zA-Z]+),{repl} {text_fragment},{repl} {text_fragment}
+^land_units_onscreen_name_3k_.*,^(?P<character>[a-zA-Z ü]+)$,{character},{character}
+^custom_battle_loadouts_name_hv_.*,^(?P<character>[a-zA-Z :_/\[\]]+)$,{character},{character}
+^ceo_nodes_.*_armour_unique$,^(?P<character>[a-zA-Z ]+)'s (?P<text_fragment>[a-zA-Z ]+)$,{character}的{text_fragment},{character}的{text_fragment}
+^ui_text_replacements_localised_text_.*,^(?P<repl>\[\[.*\]\]) (?P<text_fragment>[a-zA-Z]+),{repl} {text_fragment},{repl} {text_fragment}
 ^ui_text_replacements_localised_text_.*,^(?P<unit_type>Black Mountain Bandits|Enforcer Troop|Fury of Beihai|Han Provincial|House Servant|Jianan Vigilante|Local Noble|Southern Foreign|Tiger & Leopard|White Tiger|Yellow Turbans|Yuan Rong) (?P<unit_name>[-a-zA-Z ]+),{unit_type}{unit_name},{unit_type}{unit_name}
 ^ui_text_replacements_localised_text_.*,^(?P<unit_type>[a-zA-Z]+) (?P<unit_name>[-a-zA-Z ]+),{unit_type}{unit_name},{unit_type}{unit_name}
 ^ui_text_replacements_localised_text_.*,^(?P<unit_type>[a-zA-Z]+) (?P<unit_tier>[a-zA-Z]+) (?P<unit_name>[-a-zA-Z ]+),{unit_type}{unit_tier}{unit_name},{unit_type}{unit_tier}{unit_name}

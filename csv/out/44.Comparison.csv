@@ -324,13 +324,15 @@ Fear of Gunpowder,惧怕火器,MappedByText,,惧怕火器,惧火,True,True,懼�
 Commanding Shout,训令,Vanilla,训令,训令,战嚎,True,True,號令吶喊,Vanilla,號令吶喊,號令吶喊,戰嚎,unit_ability_types_localised_description_hv_historical_ability_metal_01
 Into the Breach,突围,Vanilla,突围,突围,背水,True,True,乘隙而入,Vanilla,乘隙而入,乘隙而入,背水,unit_ability_types_localised_description_hv_historical_ability_healer_02
 Into the Breach,突围,Vanilla,突围,突围,背水,True,True,乘隙而入,Vanilla,乘隙而入,乘隙而入,背水,unit_ability_types_localised_description_hv_historical_ability_fire_01
-Loose and Charge (Cavalry),骑兵疏阵冲锋,MappedByText,,骑兵疏阵冲锋,骑兵散阵,True,True,騎兵疏陣衝鋒,MappedByText,,騎兵疏陣衝鋒,騎兵散陣,unit_ability_types_localised_description_hv_formation_shock_loose_cavalry_no_requirement
-Loose and Charge (Cavalry),骑兵疏阵冲锋,MappedByText,,骑兵疏阵冲锋,骑兵散阵,True,True,騎兵疏陣衝鋒,MappedByText,,騎兵疏陣衝鋒,騎兵散陣,unit_ability_types_localised_description_hv_formation_shock_loose_cavalry
-Loose and Charge,疏阵冲锋,MappedByText,,疏阵冲锋,散阵,True,True,疏陣衝鋒,MappedByText,,疏陣衝鋒,散陣,unit_ability_types_localised_description_hv_formation_shock_loose
+Shield Wall (Mobile) (Spear) - Danyang,丹阳矛盾墙阵（可机动）,MappedByPattern,,丹阳枪盾阵,丹阳枪盾墙阵,True,True,丹陽槍盾陣（可機動）,MappedByPattern,,丹陽槍盾陣,丹陽槍盾牆陣,unit_ability_types_localised_description_hv_formation_spear_wall_danyang
+Loose and Charge (Cavalry),骑兵疏阵冲锋,MappedByPattern,,骑兵疏阵冲锋,骑兵散阵,True,True,騎兵疏陣衝鋒,MappedByPattern,,騎兵疏陣衝鋒,騎兵散陣,unit_ability_types_localised_description_hv_formation_shock_loose_cavalry_no_requirement
+Loose and Charge (Cavalry),骑兵疏阵冲锋,MappedByPattern,,骑兵疏阵冲锋,骑兵散阵,True,True,騎兵疏陣衝鋒,MappedByPattern,,騎兵疏陣衝鋒,騎兵散陣,unit_ability_types_localised_description_hv_formation_shock_loose_cavalry
+Loose and Charge,疏阵冲锋,MappedByPattern,,疏阵冲锋,散阵,True,True,疏陣衝鋒,MappedByPattern,,疏陣衝鋒,散陣,unit_ability_types_localised_description_hv_formation_shock_loose
 Shield Wall (Mobile),盾墙阵（可机动）,MappedByPattern,,,,True,True,盾陣（可機動）,MappedByPattern,,,,unit_ability_types_localised_description_hv_formation_shield_wall_move
-Pike Wall - White Feathers,白毦兵戟墙,MappedByText,,白毦兵戟墙,白毦枪阵,True,True,白毦兵戟墻,MappedByText,,白毦兵戟墻,白毦槍陣,unit_ability_types_localised_description_hv_formation_pike_wall_white_feather
-Pike Wall - Ji Guards of the Eight Talents,八才戟卫戟墙,MappedByText,,八才戟卫戟墙,八才戟阵,True,True,八才戟衛戟墻,MappedByText,,八才戟衛戟墻,八才戟陣,unit_ability_types_localised_description_hv_formation_pike_wall_eight_talents
-Mixed Missile (Shield),混合远程,PikaMan,,,,True,True,混和遠程,PikaMan,,,,unit_ability_types_localised_description_hv_formation_mixed_ranged_spear
+Shield Wall (Mobile) - Danyang,丹阳盾墙阵（可机动）,MappedByPattern,,丹阳盾阵,丹阳盾墙阵,True,True,丹陽盾陣（可機動）,MappedByPattern,,丹陽盾陣,丹陽盾牆陣,unit_ability_types_localised_description_hv_formation_shield_wall_danyang
+Pike Wall - White Feathers,白毦兵戟墙,MappedByPattern,,白毦兵戟墙,白毦枪阵,True,True,白毦兵戟墻,MappedByPattern,,白毦兵戟墻,白毦槍陣,unit_ability_types_localised_description_hv_formation_pike_wall_white_feather
+Pike Wall - Ji Guards of the Eight Talents,八才戟卫戟墙,MappedByPattern,,八才戟卫戟墙,八才戟阵,True,True,八才戟衛戟墻,MappedByPattern,,八才戟衛戟墻,八才戟陣,unit_ability_types_localised_description_hv_formation_pike_wall_eight_talents
+Mixed Missile (Shield),混合远程（持盾）,MappedByPattern,,,,True,True,混合遠程（持盾）,MappedByPattern,,,,unit_ability_types_localised_description_hv_formation_mixed_ranged_spear
 Zhou the Youth,美周郎,MappedByPattern,,美周郎,周郎,True,True,美周郎,MappedByPattern,,美周郎,周郎,unit_ability_types_localised_description_hv_ability_zhou_the_youth
 Bolster,支持,MappedByText,,支持,联手,True,True,支持,MappedByText,,支持,聯手,unit_ability_types_localised_description_hv_ability_yuan_officer_passive
 Sweeping Arc,弧光斩,MappedByPattern,弧光斩,,,True,True,橫掃千軍,MappedByPattern,橫掃千軍,,,unit_ability_types_localised_description_hv_ability_youzansen
@@ -350,23 +352,23 @@ Striking Tide,刀浪澎湃,MappedByText,,刀浪澎湃,刀浪,True,True,刀浪澎
 Strength of the Land,地力,Vanilla,地力,地力,地动,True,True,大地之力,Vanilla,大地之力,大地之力,地動,unit_ability_types_localised_description_hv_ability_strength_of_the_land
 Strength of Black Mountain,黑山之力,MappedByText,,黑山之力,移山,True,True,黑山之力,MappedByText,,黑山之力,移山,unit_ability_types_localised_description_hv_ability_strength_of_blackmountain
 Sniper Position,狙击位置,MappedByText,,狙击位置,狙击,True,True,狙擊位置,MappedByText,,狙擊位置,狙擊,unit_ability_types_localised_description_hv_ability_sniper_position
-Skirmishing Shot,,Missing,,,,True,True,,Missing,,,,unit_ability_types_localised_description_hv_ability_skirmishing_shot
+Skirmishing Shot,游击,MappedByPattern,,,,True,True,游擊,MappedByPattern,,,,unit_ability_types_localised_description_hv_ability_skirmishing_shot
 Second Chance,余烬复燃,MappedByText,,余烬复燃,复燃,True,True,餘燼復燃,MappedByText,,餘燼復燃,復燃,unit_ability_types_localised_description_hv_ability_second_chance
 Retreat Cover,掩护撤退,MappedByText,,掩护撤退,守望,True,True,掩護撤退,MappedByText,,掩護撤退,守望,unit_ability_types_localised_description_hv_ability_retreat_cover
 Hooves of Rage,怒蹄,MappedByText,,怒蹄,良驹,True,True,怒蹄,MappedByText,,怒蹄,良駒,unit_ability_types_localised_description_hv_ability_rage_of_hooves
 Rage of Black Mountain,黑山之怒,MappedByText,,黑山之怒,渴骥,True,True,黑山之怒,MappedByText,,黑山之怒,渴驥,unit_ability_types_localised_description_hv_ability_rage_of_blackmountain
 Pulverize,粉碎一击,MappedByText,,粉碎一击,碎骨,True,True,粉碎一擊,MappedByText,,粉碎一擊,碎骨,unit_ability_types_localised_description_hv_ability_pulverize
 Protection of Black Mountain,黑山之佑,MappedByText,,黑山之佑,拜鬼,True,True,黑山之佑,MappedByText,,黑山之佑,拜鬼,unit_ability_types_localised_description_hv_ability_protection_of_blackmountain
-Pounce,,Missing,,,,True,True,,Missing,,,,unit_ability_types_localised_description_hv_ability_pounce
+Pounce,猛扑,MappedByPattern,,,,True,True,猛撲,MappedByPattern,,,,unit_ability_types_localised_description_hv_ability_pounce
 Mortal Strike,致命一击,MappedByPattern,,致命一击,浴血,True,True,致命一擊,MappedByPattern,,致命一擊,浴血,unit_ability_types_localised_description_hv_ability_mortal_strike
 Moment of Courage,一时之勇,MappedByText,,一时之勇,敢勇,True,True,一時之勇,MappedByText,,一時之勇,敢勇,unit_ability_types_localised_description_hv_ability_moment_of_courage
 Faith of the Messengers,使者信念,MappedByText,,使者信念,信念,True,True,使者信念,MappedByText,,使者信念,信念,unit_ability_types_localised_description_hv_ability_messenger_recovery
 Lucky Shot,幸运一击,MappedByText,,幸运一击,丰筋,True,True,幸運一擊,MappedByText,,幸運一擊,豐筋,unit_ability_types_localised_description_hv_ability_lucky_shot
-Joint Shot,,Missing,,,,True,True,,Missing,,,,unit_ability_types_localised_description_hv_ability_joint_shot
+Joint Shot,齐射,MappedByPattern,,,,True,True,齊射,MappedByPattern,,,,unit_ability_types_localised_description_hv_ability_joint_shot
 Importunity,坚韧不屈,MappedByText,,坚韧不屈,坚韧,True,True,堅韌不屈,MappedByText,,堅韌不屈,堅韌,unit_ability_types_localised_description_hv_ability_importunity
 Guardian,卫足,MappedByPattern,卫御甲,卫御甲,金鼓,True,True,衛足,MappedByPattern,護衛,護衛,金鼓,unit_ability_types_localised_description_hv_ability_guardian
 Bulldoze,横冲直撞,MappedByText,,横冲直撞,豨勇,True,True,橫衝直撞,MappedByText,,橫衝直撞,豨勇,unit_ability_types_localised_description_hv_ability_furious_charge
-Forest Strategy,,Missing,,,,True,True,,Missing,,,,unit_ability_types_localised_description_hv_ability_forest_strategy
+Forest Strategy,林战,MappedByPattern,,,,True,True,森林戰略,MappedByPattern,,,,unit_ability_types_localised_description_hv_ability_forest_strategy
 Ferocity,凶猛残暴,MappedByText,,凶猛残暴,誓死,True,True,凶猛殘暴,MappedByText,,凶猛殘暴,誓死,unit_ability_types_localised_description_hv_ability_ferocity
 Fearless Charge,无畏冲锋,MappedByText,,无畏冲锋,奋勇,True,True,無畏衝鋒,MappedByText,,無畏衝鋒,奮勇,unit_ability_types_localised_description_hv_ability_fearless_charge
 Enlightenment,开化,Vanilla,开化,开化,保佑,True,True,得道,Vanilla,得道,得道,保佑,unit_ability_types_localised_description_hv_ability_enlightenment
@@ -388,17 +390,17 @@ Make Calm Down,镇静,MappedByPattern,,镇静,将才,True,True,鎮靜,MappedByPa
 Burning Soul,炎魂,MappedByPattern,炎魂,炎魂,热血,True,True,燃燒元神,MappedByPattern,燃燒元神,燃燒元神,熱血,unit_ability_types_localised_description_hv_ability_burning
 Blood Thirst,嗜血成性,MappedByText,,嗜血成性,嗜血,True,True,嗜血成性,MappedByText,,嗜血成性,嗜血,unit_ability_types_localised_description_hv_ability_blood_thirst
 Sinister Strike,影袭,MappedByPattern,,险恶一击,霆击,True,True,險惡一擊,MappedByPattern,,險惡一擊,霆擊,unit_ability_types_localised_description_hv_ability_bleed
-Calm Reload,平心静气装填弹药,PikaMan,,,,True,True,平心靜氣裝填彈藥,PikaMan,,,,unit_ability_types_localised_description_hv_ability_beihai_reload
+Calm Reload,冷静装填,MappedByPattern,,,,True,True,冷靜裝填,MappedByPattern,,,,unit_ability_types_localised_description_hv_ability_beihai_reload
 Battle Trance,乱战,MappedByText,,乱战,魂荡,True,True,亂戰,MappedByText,,亂戰,魂蕩,unit_ability_types_localised_description_hv_ability_battle_trance
 Battle Hardened (Spear),久经沙场（矛兵）,MappedByText,,,,True,True,久經沙場（槍兵）,MappedByText,,,,unit_ability_types_localised_description_hv_ability_battle_hardened_spear
 Battle Hardened (Ranged),久经沙场（远程）,MappedByText,,,,True,True,久經沙場（遠程）,MappedByText,,,,unit_ability_types_localised_description_hv_ability_battle_hardened_ranged
 Battle Hardened (Melee),久经沙场（近战）,MappedByText,,,,True,True,久經沙場（近戰）,MappedByText,,,,unit_ability_types_localised_description_hv_ability_battle_hardened_melee
 Battle Hardened (Cavalry),久经沙场（骑兵）,MappedByText,,,,True,True,久經沙場（騎兵）,MappedByText,,,,unit_ability_types_localised_description_hv_ability_battle_hardened_cavalry
-Bandit: Deeply-Rooted,,Missing,,,,True,True,,Missing,,,,unit_ability_types_localised_description_hv_ability_bandit_unlock_wood
-Bandit: Improvisation,,Missing,,,,True,True,,Missing,,,,unit_ability_types_localised_description_hv_ability_bandit_unlock_water
-Bandit: Grievous Bite,,Missing,,,,True,True,,Missing,,,,unit_ability_types_localised_description_hv_ability_bandit_unlock_metal
-Bandit: Strike First,,Missing,,,,True,True,,Missing,,,,unit_ability_types_localised_description_hv_ability_bandit_unlock_fire
-Bandit: Dead or Alive,,Missing,,,,True,True,,Missing,,,,unit_ability_types_localised_description_hv_ability_bandit_unlock_earth
+Bandit: Deeply-Rooted,匪徒：根深蒂固,MappedByPattern,,,,True,True,匪徒：根深蒂固,MappedByPattern,,,,unit_ability_types_localised_description_hv_ability_bandit_unlock_wood
+Bandit: Improvisation,匪徒：见机行事,MappedByPattern,,,,True,True,匪徒：見機行事,MappedByPattern,,,,unit_ability_types_localised_description_hv_ability_bandit_unlock_water
+Bandit: Grievous Bite,匪徒：凶残撕咬,MappedByPattern,,,,True,True,匪徒：重創撕咬,MappedByPattern,,,,unit_ability_types_localised_description_hv_ability_bandit_unlock_metal
+Bandit: Strike First,匪徒：先发制人,MappedByPattern,,,,True,True,匪徒：先發制人,MappedByPattern,,,,unit_ability_types_localised_description_hv_ability_bandit_unlock_fire
+Bandit: Dead or Alive,匪徒：你死我活,MappedByPattern,,,,True,True,匪徒：你死我活,MappedByPattern,,,,unit_ability_types_localised_description_hv_ability_bandit_unlock_earth
 Cruel Command,强令,MappedByPattern,,,宁舍尔命，也得保障夫人毫发无伤。,True,True,強令,MappedByPattern,,,寧舍爾命，也得保障夫人毫髮無傷。,unit_ability_types_localised_description_3k_main_ability_lady_dong_cruel_command
 Dignity,自重,Vanilla,自重,,庄严,True,True,氣度不凡,Vanilla,氣度不凡,,莊嚴,unit_ability_types_localised_description_3k_main_ability_dignity_of_the_empress
 Spearhead,讨贼先锋,Vanilla,讨贼先锋,,破茧,True,True,突擊先鋒,Vanilla,突擊先鋒,,破繭,unit_ability_types_localised_description_3k_main_ability_breakthrough_in_concentration
@@ -438,7 +440,7 @@ Speed is the essence of war.,兵贵神速。,MappedByText,,兵贵神速。,快�
 The wave of the blade push the enemy away.,一道道刀浪将敌人推走。,MappedByText,,一道道刀浪将敌人推走。,一道道如浪潮一般的攻击使敌人无法接近。,True,True,一道道刀浪將敵人推走。,MappedByText,,一道道刀浪將敵人推走。,一道道如浪潮一般的攻擊使敵人無法接近。,unit_abilities_tooltip_text_hv_ability_striking_tide
 "The land is not just the earth, but the forests and mountains, and all the hidden, ancient places.",千林万山皆地也，上古遗宫莫不如是,Vanilla,千林万山皆地也，上古遗宫莫不如是,千林万山皆地也，上古遗宫莫不如是,千林万山皆地也，上古遗宫莫不如是。,True,True,大地並非只有土，還有上面的森林與山脈，以及各種神秘的古老地點。,Vanilla,大地並非只有土，還有上面的森林與山脈，以及各種神秘的古老地點。,大地並非只有土，還有上面的森林與山脈，以及各種神秘的古老地點。,千林萬山皆地也，上古遺宮莫不如是。,unit_abilities_tooltip_text_hv_ability_strength_of_the_land
 The Black Mountain bandits make their advance.,黑山匪徒开始进军。,MappedByText,,黑山匪徒开始进军。,黑山匪徒进军时排山倒海，地动山摇。,True,True,黑山匪徒開始進軍。,MappedByText,,黑山匪徒開始進軍。,黑山匪徒進軍時排山倒海，地動山搖。,unit_abilities_tooltip_text_hv_ability_strength_of_blackmountain
-Shoot and run.,,Missing,,,,True,True,,Missing,,,,unit_abilities_tooltip_text_hv_ability_skirmishing_shot
+Shoot and run.,放一箭换一个地方。,MappedByPattern,,,,True,True,放一箭換一個地方。,MappedByPattern,,,,unit_abilities_tooltip_text_hv_ability_skirmishing_shot
 Not all of us get a second chance.,不是所有人都有机会重来。,MappedByText,,不是所有人都有机会重来。,余烬复燃，背水一战。,True,True,不是所有人都有機會重來。,MappedByText,,不是所有人都有機會重來。,餘燼復燃，背水一戰。,unit_abilities_tooltip_text_hv_ability_second_chance
 "Fearing retribution, enemies hesitate to fire upon a scion of the Han.",敌人并不敢伤害汉室宗亲。,MappedByPattern,,如果以弓箭射伤此人，弓箭手将遭受全中国的谴责。,龙袍加身，气吞山河。,True,True,敵人並不敢傷害漢室宗親。,MappedByPattern,,如果以弓箭射傷此人，弓箭手將受到天下的責難。,龍袍加身，氣吞山河。,unit_abilities_tooltip_text_hv_ability_royal_blood
 Covers ally troops to retreat safely.,掩护友军安全撤离。,MappedByText,,掩护友军安全撤离。,万箭齐发，掩护友军。,True,True,掩護友軍安全撤離。,MappedByText,,掩護友軍安全撤離。,萬箭齊發，掩護友軍。,unit_abilities_tooltip_text_hv_ability_retreat_cover
@@ -446,7 +448,7 @@ A moment's respite from battlefield to heal our troops.,从战场上喘息片刻
 Take out their archers. I'll meet you in the middle.,解决掉他们的弓手，我们到中间会合。,MappedByText,,解决掉他们的弓手，我们到中间会合。,快马加鞭，蜂合豕突。,True,True,解決掉他們的弓手，我們到中間會合。,MappedByText,,解決掉他們的弓手，我們到中間會合。,快馬加鞭，蜂合豕突。,unit_abilities_tooltip_text_hv_ability_rage_of_hooves
 The Black Mountain bandits make their stand.,黑山匪徒摆开阵势。,MappedByText,,黑山匪徒摆开阵势。,黑山匪徒若是吉人则自有天相。,True,True,黑山匪徒擺開陣勢。,MappedByText,,黑山匪徒擺開陣勢。,黑山匪徒若是吉人則自有天相。,unit_abilities_tooltip_text_hv_ability_protection_of_blackmountain
 These words will fortify the spirit.,斯言聚神,Vanilla,斯言聚神,斯言聚神,斯言聚神。,True,True,這樣的話語能強化心靈。,Vanilla,這樣的話語能強化心靈。,這樣的話語能強化心靈。,斯言聚神。,unit_abilities_tooltip_text_hv_ability_preach
-They rush like wolves.,,Missing,,,,True,True,,Missing,,,,unit_abilities_tooltip_text_hv_ability_pounce
+They rush like wolves.,像狼一样冲刺。,MappedByPattern,,,,True,True,像狼一樣衝刺。,MappedByPattern,,,,unit_abilities_tooltip_text_hv_ability_pounce
 Pride and confidence go hand in hand.,傲慢即信心所在。,MappedByPattern,,傲慢即信心所在。,犁庭扫穴，无坚不摧。,True,True,傲慢即信心所在。,MappedByPattern,,傲慢即信心所在。,犁庭掃穴，無堅不摧。,unit_abilities_tooltip_text_hv_ability_order_of_tyrant
 Knowledge that your comrades will never abandon you brings tremendous comfort.,兄弟不弃，可谓安心,Vanilla,兄弟不弃，可谓安心,兄弟不弃，可谓安心,兄弟不弃，可谓安心。,True,True,知道同胞絕不會捨自己而去，能讓人大感安心。,Vanilla,知道同胞絕不會捨自己而去，能讓人大感安心。,知道同胞絕不會捨自己而去，能讓人大感安心。,兄弟不棄，可謂安心。,unit_abilities_tooltip_text_hv_ability_one_with_the_people
 Generations working the land will breed a kinship with it.,劳于地者必亲之,Vanilla,劳于地者必亲之,劳于地者必亲之,劳于地者必亲之。,True,True,世世代代在土地上生息能使人培養出與土地的密切情誼。,Vanilla,世世代代在土地上生息能使人培養出與土地的密切情誼。,世世代代在土地上生息能使人培養出與土地的密切情誼。,勞於地者必親之。,unit_abilities_tooltip_text_hv_ability_one_with_the_land
@@ -459,11 +461,11 @@ Fortune is with them.,正是鸿运当头之时。,MappedByText,,正是鸿运当�
 If you can conquer the mind of the enemy then half the battle is won.,用兵之道，攻心为上,Vanilla,用兵之道，攻心为上,用兵之道，攻心为上,用兵之道，攻心为上。,True,True,若能征服敵軍的軍心，戰鬥便贏了一半。,Vanilla,若能征服敵軍的軍心，戰鬥便贏了一半。,若能征服敵軍的軍心，戰鬥便贏了一半。,用兵之道，攻心爲上。,unit_abilities_tooltip_text_hv_ability_knowledge_of_the_mind
 "Sometimes it's not what you hit or how hard, but where.",力不在大，而在于准,Vanilla,力不在大，而在于准,力不在大，而在于准,力不在大，而在于准。,True,True,有時重點不在打中了什麼、打得多用力，而是打在哪裡。,Vanilla,有時重點不在打中了什麼、打得多用力，而是打在哪裡。,有時重點不在打中了什麼、打得多用力，而是打在哪裡。,力不在大，而在於準。,unit_abilities_tooltip_text_hv_ability_knowledge_of_the_body
 A warrior will only fight at their best when they are sure-footed.,根基固则力稳,Vanilla,根基固则力稳,根基固则力稳,根基固则力稳。,True,True,對自己有信心，戰士才能完全發揮實力。,Vanilla,對自己有信心，戰士才能完全發揮實力。,對自己有信心，戰士才能完全發揮實力。,根基固則力穩。,unit_abilities_tooltip_text_hv_ability_judgement
-Raining arrows.,,Missing,,,,True,True,,Missing,,,,unit_abilities_tooltip_text_hv_ability_joint_shot
+Raining arrows.,箭如雨下。,MappedByPattern,,,,True,True,箭如雨下。,MappedByPattern,,,,unit_abilities_tooltip_text_hv_ability_joint_shot
 "In the face of adversity, those left standing will close ranks and bolster their resolve.",面对逆境，所剩兵士只能集结起来坚定决心。,MappedByText,,面对逆境，所剩兵士只能集结起来坚定决心。,面对逆境，至死不屈。,True,True,面對逆境，所剩兵士只能集結起來坚定决心。,MappedByText,,面對逆境，所剩兵士只能集結起來坚定决心。,面對逆境，至死不屈。,unit_abilities_tooltip_text_hv_ability_importunity
 "In the midst of a bloodbath, it's nice to know that someone has your back.",在腥风血雨中你仍有所依靠。,MappedByText,,在腥风血雨中你仍有所依靠。,击鼓鸣金，为将军扬威！,True,True,在腥風血雨中你仍有所依靠。,MappedByText,,在腥風血雨中你仍有所依靠。,擊鼓鳴金，爲將軍揚威！,unit_abilities_tooltip_text_hv_ability_guardian
 A forest friendly man.,此人与林为友。,MappedByPattern,,此人与林为友。,都说即鹿无虞，而此人却与林为友。,True,True,此人與林爲友。,MappedByPattern,,此人與林爲友。,都說即鹿無虞，而此人卻與林爲友。,unit_abilities_tooltip_text_hv_ability_forest_strider
-The trees are their friends.,,Missing,,,,True,True,,Missing,,,,unit_abilities_tooltip_text_hv_ability_forest_strategy
+The trees are their friends.,树林是他们的朋友。,MappedByPattern,,,,True,True,樹林是他們的朋友。,MappedByPattern,,,,unit_abilities_tooltip_text_hv_ability_forest_strategy
 "This man can see all that was, and all that will be.",此人鬼才满腹经纶，足以推古衍今。,MappedByPattern,,此人能明鉴古今，洞察未来。,此人能明鉴古今，洞察未来。,True,False,此人能明鑑古今，洞察未來。,MappedByPattern,,此人能明鑑古今，洞察未來。,此人能明鑑古今，洞察未來。,unit_abilities_tooltip_text_hv_ability_foresight
 It's not a good place for a beautiful woman to stay.,此处不宜美人久留。,MappedByPattern,,此处不宜美人久留。,看似柳弱花娇，实有巾帼须眉之气。,True,True,此處不宜美人久留。,MappedByPattern,,此處不宜美人久留。,看似柳弱花嬌，實有巾幗鬚眉之氣。,unit_abilities_tooltip_text_hv_ability_flower_of_battlefield
 This hero believes you can only kill that which you can catch.,此人行动迅如狡兔，万军擒拿亦若无物。,MappedByPattern,,此人相信，要将敌人除之而后快，就必须先追得上敌人。,此人相信，要将敌人除之而后快，就必须先追得上敌人。,True,False,此人相信，要將敵人除之而後快，就必須先追得上敵人。,MappedByPattern,,此人相信，要將敵人除之而後快，就必須先追得上敵人。,此人相信，要將敵人除之而後快，就必須先追得上敵人。,unit_abilities_tooltip_text_hv_ability_fleet_footed
@@ -480,9 +482,10 @@ Bring the fight to them and they will hold their ground.,一旦交锋，他们�
 Bring the fight to them and they will hold their ground.,一旦交锋，他们能坚守阵地。,MappedByText,,被动增益,在有援兵可倚之时，本方将士必当更加胸有成竹。,True,True,一旦交鋒，他們能堅守陣地。,MappedByText,,被動增強效果,在有援兵可倚之時，本方將士必當更加胸有成竹。,unit_abilities_tooltip_text_hv_ability_defense_mastery_ranged
 Bring the fight to them and they will hold their ground.,一旦交锋，他们能坚守阵地。,MappedByText,,,,True,True,一旦交鋒，他們能堅守陣地。,MappedByText,,,,unit_abilities_tooltip_text_hv_ability_defense_mastery_melee_custom
 Bring the fight to them and they will hold their ground.,一旦交锋，他们能坚守阵地。,MappedByText,,当面临战斗时，他们将越战越勇。,在有援兵可倚之时，本方将士必当更加胸有成竹。,True,True,一旦交鋒，他們能堅守陣地。,MappedByText,,當面臨戰鬥時，他們將越戰越勇。,在有援兵可倚之時，本方將士必當更加胸有成竹。,unit_abilities_tooltip_text_hv_ability_defense_mastery_melee
+Desperation soon leads to violence.,万般无奈之下，唯有殊死一搏。,MappedByPattern,,绝望很快的导致乱暴。,生死存亡，转瞬即逝。,True,True,萬般無奈之下，唯有殊死一搏。,MappedByPattern,,絕望很快的導致亂暴。,生死存亡，轉瞬即逝。,unit_abilities_tooltip_text_hv_ability_dead_or_alive
 Did you get the boat fare? Heaven! Earth! Mankind!!,奈何桥前可奈何，三生石上写三生。,MappedByPattern,,,,True,True,奈何橋前可奈何，三生石上寫三生。,MappedByPattern,,,,unit_abilities_tooltip_text_hv_ability_crossing_of_the_styx
 A furious strike that sends anyone nearby reeling.,充满怒意的一击，周遭敌军尽受其害,Vanilla,充满怒意的一击，周遭敌军尽受其害,充满怒意的一击，周遭敌军尽受其害,兽困则噬，山崩地裂。,True,True,飽含怒火的一擊，令周遭敵人無不搖晃欲倒。,Vanilla,飽含怒火的一擊，令周遭敵人無不搖晃欲倒。,飽含怒火的一擊，令周遭敵人無不搖晃欲倒。,獸困則噬，山崩地裂。,unit_abilities_tooltip_text_hv_ability_crash
-Attack is the best defence.,,Missing,,,,True,True,,Missing,,,,unit_abilities_tooltip_text_hv_ability_counter_strike
+Attack is the best defence.,进攻就是最好的防守。,MappedByPattern,,,,True,True,進攻就是最好的防禦。,MappedByPattern,,,,unit_abilities_tooltip_text_hv_ability_counter_strike
 A war cry from one warrior to another.,同袍兄弟，狂呼迎战,Vanilla,同袍兄弟，狂呼迎战,同袍兄弟，狂呼迎战,同袍兄弟，狂呼迎战。,True,True,從一名戰士傳達到另一名戰士的戰鬥口號。,Vanilla,從一名戰士傳達到另一名戰士的戰鬥口號。,從一名戰士傳達到另一名戰士的戰鬥口號。,同袍兄弟，狂呼迎戰。,unit_abilities_tooltip_text_hv_ability_commanding_shout
 Reassuring words prevent soldiers from wavering on a chaotic battlefield.,安慰之言以防士卒于乱战中摇摆不定。,MappedByPattern,,安慰之言以防士卒于乱战中摇摆不定。,临危不惧，从容自若，真乃将才也！,True,True,安慰之言以防士卒于乱战中摇摆不定。,MappedByPattern,,安慰之言以防士卒于乱战中摇摆不定。,臨危不懼，從容自若，真乃將才也！,unit_abilities_tooltip_text_hv_ability_calm_down
 The light that burns twice as bright burns half as long.,火势越猛，持烧之时越短。,MappedByPattern,,火势越猛，持烧之时越短。,怒火中烧，浴血奋战。,True,True,火勢越猛，持燒之時越短。,MappedByPattern,,火勢越猛，持燒之時越短。,怒火中燒，浴血奮戰。,unit_abilities_tooltip_text_hv_ability_burning
@@ -490,17 +493,17 @@ Years of fighting have solidified the faith these soldiers have in each other.,�
 Send your warriors into the thick of battle and watch as they fight even more fiercely.,将你的勇士们送入战场，看着他们更加激烈的战斗。,MappedByPattern,,将你的勇士们送入战场，看着他们更加激烈的战斗。,奋不顾身，得失难记。,True,True,将你的勇士们送入战场，看着他们更加激烈的战斗。,MappedByPattern,,将你的勇士们送入战场，看着他们更加激烈的战斗。,奮不顧身，得失難記。,unit_abilities_tooltip_text_hv_ability_brawl
 They becomes frenzied when blood is spilled.,他们闻到血腥就会疯狂。,MappedByText,,他们闻到血腥就会疯狂。,嗜血成性，血溅五步。,True,True,他們聞到血腥就會瘋狂。,MappedByText,,他們聞到血腥就會瘋狂。,嗜血成性，血濺五步。,unit_abilities_tooltip_text_hv_ability_blood_thirst
 There's something about this strike that just feels off.,这种攻击似乎阴险歹毒。,MappedByPattern,,这种攻击让人觉得不太对劲。,竭尽全力，致命一击。,True,True,這種攻擊似乎陰險歹毒。,MappedByPattern,,這種攻擊讓人覺得不太對勁。,竭盡全力，致命一擊。,unit_abilities_tooltip_text_hv_ability_bleed
-Promptly and Accurately,心无旁骛，则业无不成。,PikaMan,,,,True,True,心無旁騖，則業無不成。,PikaMan,,,,unit_abilities_tooltip_text_hv_ability_beihai_reload
+Promptly and Accurately,既快又准,MappedByPattern,,,,True,True,既快又准,MappedByPattern,,,,unit_abilities_tooltip_text_hv_ability_beihai_reload
 Fighting revitalises them.,战斗使他们重焕活力。,MappedByText,,战斗使他们重焕活力。,长时间战斗会使人神魂颠倒，但晃过神来之后将重唤活力。,True,True,戰鬥使他們重煥活力。,MappedByText,,戰鬥使他們重煥活力。,長時間戰鬥會使人神魂顛倒，但晃過神來之後將重喚活力。,unit_abilities_tooltip_text_hv_ability_battle_trance
 Endless war has disciplined them.,身经百战，纪律严明。,MappedByText,,,,True,True,身經百戰，紀律嚴明。,MappedByText,,,,unit_abilities_tooltip_text_hv_ability_battle_hardened_spear
 Endless war has disciplined them.,身经百战，纪律严明。,MappedByText,,,,True,True,身經百戰，紀律嚴明。,MappedByText,,,,unit_abilities_tooltip_text_hv_ability_battle_hardened_ranged
 Endless war has disciplined them.,身经百战，纪律严明。,MappedByText,,,,True,True,身經百戰，紀律嚴明。,MappedByText,,,,unit_abilities_tooltip_text_hv_ability_battle_hardened_melee
 Endless war has disciplined them.,身经百战，纪律严明。,MappedByText,,,,True,True,身經百戰，紀律嚴明。,MappedByText,,,,unit_abilities_tooltip_text_hv_ability_battle_hardened_cavalry
-Tightly woven and does not fall off easily.,,Missing,,,,True,True,,Missing,,,,unit_abilities_tooltip_text_hv_ability_bandit_unlock_wood
-Adaptation is the only way to live.,,Missing,,,,True,True,,Missing,,,,unit_abilities_tooltip_text_hv_ability_bandit_unlock_water
-This is how animals fight.,,Missing,,,,True,True,,Missing,,,,unit_abilities_tooltip_text_hv_ability_bandit_unlock_metal
-"If you hit them first, they may not hit you.",,Missing,,,,True,True,,Missing,,,,unit_abilities_tooltip_text_hv_ability_bandit_unlock_fire
-Desperation soon leads to violence.,,Missing,,,,True,True,,Missing,,,,unit_abilities_tooltip_text_hv_ability_bandit_unlock_earth
+Tightly woven and does not fall off easily.,紧密结合，不易脱落。,MappedByPattern,,,,True,True,緊密結合，不易脫落。,MappedByPattern,,,,unit_abilities_tooltip_text_hv_ability_bandit_unlock_wood
+Adaptation is the only way to live.,视情况变化而采因应之道。,MappedByPattern,,,,True,True,視情況變化而採因應之道。,MappedByPattern,,,,unit_abilities_tooltip_text_hv_ability_bandit_unlock_water
+This is how animals fight.,此乃困兽之斗。,MappedByPattern,,,,True,True,此乃困獸之鬥。,MappedByPattern,,,,unit_abilities_tooltip_text_hv_ability_bandit_unlock_metal
+"If you hit them first, they may not hit you.",先下手为强。,MappedByPattern,,,,True,True,先下手爲强。,MappedByPattern,,,,unit_abilities_tooltip_text_hv_ability_bandit_unlock_fire
+Desperation soon leads to violence.,万般无奈之下，唯有殊死一搏。,MappedByPattern,,,,True,True,萬般無奈之下，唯有殊死一搏。,MappedByPattern,,,,unit_abilities_tooltip_text_hv_ability_bandit_unlock_earth
 Soldiers gather under the banner of this hero.,军士聚于此英雄之旗下。,MappedByPattern,,军士聚于此英雄之旗下。,英雄大志者必能凝聚人心。,True,True,军士聚于此英雄之旗下。,MappedByPattern,,军士聚于此英雄之旗下。,英雄大志者必能凝聚人心。,unit_abilities_tooltip_text_hv_ability_assemble
 Organise your troops into a solid wall to deter horses. It's a simple but effective tactic.,将士兵组成人墙来抵御马匹。此战术简单有效。,MappedByPattern,,将士兵组成人墙来抵御马匹。此战术简单有效。,以其人之道，还治其人之身。,True,True,將士兵組成人墻來抵禦馬匹。此戰術簡單有效。,MappedByPattern,,將士兵組成人墻來抵禦馬匹。此戰術簡單有效。,以其人之道，還治其人之身。,unit_abilities_tooltip_text_hv_ability_anti_cavalry
 "This shooter fires and fires, faster and faster, never relenting.",此人一箭紧接一箭，一箭快过一箭。,MappedByPattern,,此弓手不断引弓放箭，越放越快，毫不留手。,一箭紧接一箭，一箭快过一箭。,True,True,此人不斷引弓放箭，越放越快，毫不留手。,MappedByPattern,,此弓手不斷引弓放箭，越放越快，毫不留手。,一箭緊接一箭，一箭快過一箭。,unit_abilities_tooltip_text_3k_main_ability_quickfire
@@ -519,13 +522,15 @@ Fear of Gunpowder,惧怕火器,MappedByText,,惧怕火器,惧火,True,True,懼�
 Commanding Shout,训令,Vanilla,训令,训令,战嚎,True,True,號令吶喊,Vanilla,號令吶喊,號令吶喊,戰嚎,unit_abilities_onscreen_name_hv_historical_ability_metal_01
 Into the Breach,突围,Vanilla,突围,突围,背水,True,True,乘隙而入,Vanilla,乘隙而入,乘隙而入,背水,unit_abilities_onscreen_name_hv_historical_ability_healer_02
 Into the Breach,突围,Vanilla,突围,突围,背水,True,True,乘隙而入,Vanilla,乘隙而入,乘隙而入,背水,unit_abilities_onscreen_name_hv_historical_ability_fire_01
-Loose and Charge (Cavalry),骑兵疏阵冲锋,MappedByText,,骑兵疏阵冲锋,骑兵散阵,True,True,騎兵疏陣衝鋒,MappedByText,,騎兵疏陣衝鋒,騎兵散陣,unit_abilities_onscreen_name_hv_formation_shock_loose_cavalry_no_requirement
-Loose and Charge (Cavalry),骑兵疏阵冲锋,MappedByText,,骑兵疏阵冲锋,骑兵散阵,True,True,騎兵疏陣衝鋒,MappedByText,,騎兵疏陣衝鋒,騎兵散陣,unit_abilities_onscreen_name_hv_formation_shock_loose_cavalry
-Loose and Charge,疏阵冲锋,MappedByText,,疏阵冲锋,散阵,True,True,疏陣衝鋒,MappedByText,,疏陣衝鋒,散陣,unit_abilities_onscreen_name_hv_formation_shock_loose
+Shield Wall (Mobile) (Spear) - Danyang,丹阳矛盾墙阵（可机动）,MappedByPattern,,丹阳枪盾阵,丹阳枪盾墙阵,True,True,丹陽槍盾陣（可機動）,MappedByPattern,,丹陽槍盾陣,丹陽槍盾牆陣,unit_abilities_onscreen_name_hv_formation_spear_wall_danyang
+Loose and Charge (Cavalry),骑兵疏阵冲锋,MappedByPattern,,骑兵疏阵冲锋,骑兵散阵,True,True,騎兵疏陣衝鋒,MappedByPattern,,騎兵疏陣衝鋒,騎兵散陣,unit_abilities_onscreen_name_hv_formation_shock_loose_cavalry_no_requirement
+Loose and Charge (Cavalry),骑兵疏阵冲锋,MappedByPattern,,骑兵疏阵冲锋,骑兵散阵,True,True,騎兵疏陣衝鋒,MappedByPattern,,騎兵疏陣衝鋒,騎兵散陣,unit_abilities_onscreen_name_hv_formation_shock_loose_cavalry
+Loose and Charge,疏阵冲锋,MappedByPattern,,疏阵冲锋,散阵,True,True,疏陣衝鋒,MappedByPattern,,疏陣衝鋒,散陣,unit_abilities_onscreen_name_hv_formation_shock_loose
 Shield Wall (Mobile),盾墙阵（可机动）,MappedByPattern,,,,True,True,盾陣（可機動）,MappedByPattern,,,,unit_abilities_onscreen_name_hv_formation_shield_wall_move
-Pike Wall - White Feathers,白毦兵戟墙,MappedByText,,白毦兵戟墙,白毦枪阵,True,True,白毦兵戟墻,MappedByText,,白毦兵戟墻,白毦槍陣,unit_abilities_onscreen_name_hv_formation_pike_wall_white_feather
-Pike Wall - Ji Guards of the Eight Talents,八才戟卫戟墙,MappedByText,,八才戟卫戟墙,八才戟阵,True,True,八才戟衛戟墻,MappedByText,,八才戟衛戟墻,八才戟陣,unit_abilities_onscreen_name_hv_formation_pike_wall_eight_talents
-Mixed Missile (Shield),混合远程,PikaMan,,,,True,True,混和遠程,PikaMan,,,,unit_abilities_onscreen_name_hv_formation_mixed_ranged_spear
+Shield Wall (Mobile) - Danyang,丹阳盾墙阵（可机动）,MappedByPattern,,丹阳盾阵,丹阳盾墙阵,True,True,丹陽盾陣（可機動）,MappedByPattern,,丹陽盾陣,丹陽盾牆陣,unit_abilities_onscreen_name_hv_formation_shield_wall_danyang
+Pike Wall - White Feathers,白毦兵戟墙,MappedByPattern,,白毦兵戟墙,白毦枪阵,True,True,白毦兵戟墻,MappedByPattern,,白毦兵戟墻,白毦槍陣,unit_abilities_onscreen_name_hv_formation_pike_wall_white_feather
+Pike Wall - Ji Guards of the Eight Talents,八才戟卫戟墙,MappedByPattern,,八才戟卫戟墙,八才戟阵,True,True,八才戟衛戟墻,MappedByPattern,,八才戟衛戟墻,八才戟陣,unit_abilities_onscreen_name_hv_formation_pike_wall_eight_talents
+Mixed Missile (Shield),混合远程（持盾）,MappedByPattern,,,,True,True,混合遠程（持盾）,MappedByPattern,,,,unit_abilities_onscreen_name_hv_formation_mixed_ranged_spear
 Zhou the Youth,美周郎,MappedByPattern,,美周郎,周郎,True,True,美周郎,MappedByPattern,,美周郎,周郎,unit_abilities_onscreen_name_hv_ability_zhou_the_youth
 Bolster,支持,MappedByText,,支持,联手,True,True,支持,MappedByText,,支持,聯手,unit_abilities_onscreen_name_hv_ability_yuan_officer_passive
 Sweeping Arc,弧光斩,MappedByPattern,弧光斩,,,True,True,橫掃千軍,MappedByPattern,橫掃千軍,,,unit_abilities_onscreen_name_hv_ability_youzansen
@@ -545,23 +550,23 @@ Striking Tide,刀浪澎湃,MappedByText,,刀浪澎湃,刀浪,True,True,刀浪澎
 Strength of the Land,地力,Vanilla,地力,地力,地动,True,True,大地之力,Vanilla,大地之力,大地之力,地動,unit_abilities_onscreen_name_hv_ability_strength_of_the_land
 Strength of Black Mountain,黑山之力,MappedByText,,黑山之力,移山,True,True,黑山之力,MappedByText,,黑山之力,移山,unit_abilities_onscreen_name_hv_ability_strength_of_blackmountain
 Sniper Position,狙击位置,MappedByText,,狙击位置,狙击,True,True,狙擊位置,MappedByText,,狙擊位置,狙擊,unit_abilities_onscreen_name_hv_ability_sniper_position
-Skirmishing Shot,,Missing,,,,True,True,,Missing,,,,unit_abilities_onscreen_name_hv_ability_skirmishing_shot
+Skirmishing Shot,游击,MappedByPattern,,,,True,True,游擊,MappedByPattern,,,,unit_abilities_onscreen_name_hv_ability_skirmishing_shot
 Second Chance,余烬复燃,MappedByText,,余烬复燃,复燃,True,True,餘燼復燃,MappedByText,,餘燼復燃,復燃,unit_abilities_onscreen_name_hv_ability_second_chance
 Retreat Cover,掩护撤退,MappedByText,,掩护撤退,守望,True,True,掩護撤退,MappedByText,,掩護撤退,守望,unit_abilities_onscreen_name_hv_ability_retreat_cover
 Hooves of Rage,怒蹄,MappedByText,,怒蹄,良驹,True,True,怒蹄,MappedByText,,怒蹄,良駒,unit_abilities_onscreen_name_hv_ability_rage_of_hooves
 Rage of Black Mountain,黑山之怒,MappedByText,,黑山之怒,渴骥,True,True,黑山之怒,MappedByText,,黑山之怒,渴驥,unit_abilities_onscreen_name_hv_ability_rage_of_blackmountain
 Pulverize,粉碎一击,MappedByText,,粉碎一击,碎骨,True,True,粉碎一擊,MappedByText,,粉碎一擊,碎骨,unit_abilities_onscreen_name_hv_ability_pulverize
 Protection of Black Mountain,黑山之佑,MappedByText,,黑山之佑,拜鬼,True,True,黑山之佑,MappedByText,,黑山之佑,拜鬼,unit_abilities_onscreen_name_hv_ability_protection_of_blackmountain
-Pounce,,Missing,,,,True,True,,Missing,,,,unit_abilities_onscreen_name_hv_ability_pounce
+Pounce,猛扑,MappedByPattern,,,,True,True,猛撲,MappedByPattern,,,,unit_abilities_onscreen_name_hv_ability_pounce
 Mortal Strike,致命一击,MappedByPattern,,致命一击,浴血,True,True,致命一擊,MappedByPattern,,致命一擊,浴血,unit_abilities_onscreen_name_hv_ability_mortal_strike
 Moment of Courage,一时之勇,MappedByText,,一时之勇,敢勇,True,True,一時之勇,MappedByText,,一時之勇,敢勇,unit_abilities_onscreen_name_hv_ability_moment_of_courage
 Faith of the Messengers,使者信念,MappedByText,,使者信念,信念,True,True,使者信念,MappedByText,,使者信念,信念,unit_abilities_onscreen_name_hv_ability_messenger_recovery
 Lucky Shot,幸运一击,MappedByText,,幸运一击,丰筋,True,True,幸運一擊,MappedByText,,幸運一擊,豐筋,unit_abilities_onscreen_name_hv_ability_lucky_shot
-Joint Shot,,Missing,,,,True,True,,Missing,,,,unit_abilities_onscreen_name_hv_ability_joint_shot
+Joint Shot,齐射,MappedByPattern,,,,True,True,齊射,MappedByPattern,,,,unit_abilities_onscreen_name_hv_ability_joint_shot
 Importunity,坚韧不屈,MappedByText,,坚韧不屈,坚韧,True,True,堅韌不屈,MappedByText,,堅韌不屈,堅韌,unit_abilities_onscreen_name_hv_ability_importunity
 Guardian,卫足,MappedByPattern,卫御甲,卫御甲,金鼓,True,True,衛足,MappedByPattern,護衛,護衛,金鼓,unit_abilities_onscreen_name_hv_ability_guardian
 Bulldoze,横冲直撞,MappedByText,,横冲直撞,豨勇,True,True,橫衝直撞,MappedByText,,橫衝直撞,豨勇,unit_abilities_onscreen_name_hv_ability_furious_charge
-Forest Strategy,,Missing,,,,True,True,,Missing,,,,unit_abilities_onscreen_name_hv_ability_forest_strategy
+Forest Strategy,林战,MappedByPattern,,,,True,True,森林戰略,MappedByPattern,,,,unit_abilities_onscreen_name_hv_ability_forest_strategy
 Ferocity,凶猛残暴,MappedByText,,凶猛残暴,誓死,True,True,凶猛殘暴,MappedByText,,凶猛殘暴,誓死,unit_abilities_onscreen_name_hv_ability_ferocity
 Fearless Charge,无畏冲锋,MappedByText,,无畏冲锋,奋勇,True,True,無畏衝鋒,MappedByText,,無畏衝鋒,奮勇,unit_abilities_onscreen_name_hv_ability_fearless_charge
 Enlightenment,开化,Vanilla,开化,开化,保佑,True,True,得道,Vanilla,得道,得道,保佑,unit_abilities_onscreen_name_hv_ability_enlightenment
@@ -583,17 +588,17 @@ Calm Down,镇静,MappedByText,,镇静,将才,True,True,鎮靜,MappedByText,,鎮�
 Burning Soul,炎魂,MappedByPattern,炎魂,炎魂,热血,True,True,燃燒元神,MappedByPattern,燃燒元神,燃燒元神,熱血,unit_abilities_onscreen_name_hv_ability_burning
 Blood Thirst,嗜血成性,MappedByText,,嗜血成性,嗜血,True,True,嗜血成性,MappedByText,,嗜血成性,嗜血,unit_abilities_onscreen_name_hv_ability_blood_thirst
 Sinister Strike,影袭,MappedByPattern,,险恶一击,霆击,True,True,險惡一擊,MappedByPattern,,險惡一擊,霆擊,unit_abilities_onscreen_name_hv_ability_bleed
-Calm Reload,平心静气装填弹药,PikaMan,,,,True,True,平心靜氣裝填彈藥,PikaMan,,,,unit_abilities_onscreen_name_hv_ability_beihai_reload
+Calm Reload,冷静装填,MappedByPattern,,,,True,True,冷靜裝填,MappedByPattern,,,,unit_abilities_onscreen_name_hv_ability_beihai_reload
 Battle Trance,乱战,MappedByText,,乱战,魂荡,True,True,亂戰,MappedByText,,亂戰,魂蕩,unit_abilities_onscreen_name_hv_ability_battle_trance
 Battle Hardened (Spear),久经沙场（矛兵）,MappedByText,,,,True,True,久經沙場（槍兵）,MappedByText,,,,unit_abilities_onscreen_name_hv_ability_battle_hardened_spear
 Battle Hardened (Ranged),久经沙场（远程）,MappedByText,,,,True,True,久經沙場（遠程）,MappedByText,,,,unit_abilities_onscreen_name_hv_ability_battle_hardened_ranged
 Battle Hardened (Melee),久经沙场（近战）,MappedByText,,,,True,True,久經沙場（近戰）,MappedByText,,,,unit_abilities_onscreen_name_hv_ability_battle_hardened_melee
 Battle Hardened (Cavalry),久经沙场（骑兵）,MappedByText,,,,True,True,久經沙場（騎兵）,MappedByText,,,,unit_abilities_onscreen_name_hv_ability_battle_hardened_cavalry
-Bandit: Deeply-Rooted,,Missing,,,,True,True,,Missing,,,,unit_abilities_onscreen_name_hv_ability_bandit_unlock_wood
-Bandit: Improvisation,,Missing,,,,True,True,,Missing,,,,unit_abilities_onscreen_name_hv_ability_bandit_unlock_water
-Bandit: Grievous Bite,,Missing,,,,True,True,,Missing,,,,unit_abilities_onscreen_name_hv_ability_bandit_unlock_metal
-Bandit: Strike First,,Missing,,,,True,True,,Missing,,,,unit_abilities_onscreen_name_hv_ability_bandit_unlock_fire
-Bandit: Dead or Alive,,Missing,,,,True,True,,Missing,,,,unit_abilities_onscreen_name_hv_ability_bandit_unlock_earth
+Bandit: Deeply-Rooted,匪徒：根深蒂固,MappedByPattern,,,,True,True,匪徒：根深蒂固,MappedByPattern,,,,unit_abilities_onscreen_name_hv_ability_bandit_unlock_wood
+Bandit: Improvisation,匪徒：见机行事,MappedByPattern,,,,True,True,匪徒：見機行事,MappedByPattern,,,,unit_abilities_onscreen_name_hv_ability_bandit_unlock_water
+Bandit: Grievous Bite,匪徒：凶残撕咬,MappedByPattern,,,,True,True,匪徒：重創撕咬,MappedByPattern,,,,unit_abilities_onscreen_name_hv_ability_bandit_unlock_metal
+Bandit: Strike First,匪徒：先发制人,MappedByPattern,,,,True,True,匪徒：先發制人,MappedByPattern,,,,unit_abilities_onscreen_name_hv_ability_bandit_unlock_fire
+Bandit: Dead or Alive,匪徒：你死我活,MappedByPattern,,,,True,True,匪徒：你死我活,MappedByPattern,,,,unit_abilities_onscreen_name_hv_ability_bandit_unlock_earth
 Dignity,自重,Vanilla,自重,,庄严,True,True,氣度不凡,Vanilla,氣度不凡,,莊嚴,unit_abilities_onscreen_name_3k_main_ability_dignity_of_the_empress
 Spearhead,讨贼先锋,Vanilla,讨贼先锋,,破茧,True,True,突擊先鋒,Vanilla,突擊先鋒,,破繭,unit_abilities_onscreen_name_3k_main_ability_breakthrough_in_concentration
 Unit List,部队列表,MappedByText,,,,True,True,單位清單,MappedByText,,,,uied_component_texts_localised_string_button_replace_unit_Tooltip_1b8282
@@ -1045,11 +1050,12 @@ Animal Handlers (Buqu),驯兽师（部曲）,MappedByPattern,,驯兽师（部曲
 Animal Handlers (Buqu),驯兽师（部曲）,MappedByPattern,,驯兽师（部曲）,驯兽师（正卒）,True,True,馴獸師（部曲）,MappedByPattern,,馴獸師（部曲）,馴獸師（正卒）,ui_unit_groupings_onscreen_3k_dlc06_unit_animal_handlers_metalt2
 Crossbow Artillery (Buqu),弩炮（部曲）,MappedByPattern,,弩炮（部曲）,弩炮（正卒）,True,True,弩炮（部曲）,MappedByPattern,,弩炮（部曲）,弩炮（正卒）,ui_unit_groupings_onscreen_3k_dlc04_unit_machine_crossbow_watert2
 Common Polearm Infantry,普通持戟步兵,MappedByPattern,,普通持戟步兵,普通长柄步兵,True,True,普通持戟步兵,MappedByPattern,,普通持戟步兵,普通長柄步兵,ui_unit_group_parents_onscreen_name_hv_parent_group_spear_black
-This unit has a ranged weapon to light a fire from a distance.,,Missing,,,,True,True,,Missing,,,,ui_unit_bullet_point_enums_tooltip_strength_sling_fire
-"This unit can attack city gates, allowing you to instantly launch a siege battle without having to wait for towers or battering rams to be built.",,Missing,,,,True,True,,Missing,,,,ui_unit_bullet_point_enums_tooltip_strength_siege_attacker
+This unit can provoke enemies.,此部队可对敌人进行挑衅。,MappedByText,,他们可对敌人进行挑衅。,此单为可对敌人进行挑衅。,True,True,此單位可對敵人進行挑釁。,MappedByText,,他們可對敵人進行挑釁。,此單爲可對敵人進行挑釁。,ui_unit_bullet_point_enums_tooltip_strength_taunt
+This unit has a ranged weapon to light a fire from a distance.,该部队拥有远程武器，可以从远处造成火势。,MappedByText,,,,True,True,此單位配備遠程兵器，可以從遠處造成火勢。,MappedByText,,,,ui_unit_bullet_point_enums_tooltip_strength_sling_fire
+"This unit can attack city gates, allowing you to instantly launch a siege battle without having to wait for towers or battering rams to be built.",这支部队可以直接攻击城门，从而允许你无需等待攻城塔或攻城锤的建造，便可对城镇发动攻击。,MappedByText,,,,True,True,此單位可以直接攻擊城門，使您無需等待攻城塔或衝車的建造，便可發動攻城戰。,MappedByText,,,,ui_unit_bullet_point_enums_tooltip_strength_siege_attacker
 This unit's weapon allows it to pierce even the strongest enemy armour.,此部队的武器可以穿透最强的护甲。,MappedByText,,此单位的武器可以穿透最强的护甲。,此单位的武器可以穿透最强的护甲。,True,True,此單位的武器可以穿透最强的護甲。,MappedByText,,此單位的武器可以穿透最强的護甲。,此單位的武器可以穿透最強的護甲。,ui_unit_bullet_point_enums_tooltip_strength_armour_break
-Flame Sling,,Missing,,,,True,True,,Missing,,,,ui_unit_bullet_point_enums_onscreen_name_strength_sling_fire
-Siege Attacker,,Missing,,,,True,True,,Missing,,,,ui_unit_bullet_point_enums_onscreen_name_strength_siege_attacker
+Flame Sling,掷火,MappedByText,,,,True,True,擲火,MappedByText,,,,ui_unit_bullet_point_enums_onscreen_name_strength_sling_fire
+Siege Attacker,攻城,MappedByText,,,,True,True,攻城,MappedByText,,,,ui_unit_bullet_point_enums_onscreen_name_strength_siege_attacker
 Good against shields,破盾专家,Vanilla,破盾专家,破盾专家,擅长破盾,True,True,善於破盾,Vanilla,善於破盾,善於破盾,擅長破盾,ui_unit_bullet_point_enums_onscreen_name_strength_shield_break
 Yue Freemen,山越自由人,MappedByPattern,,越族自由人,越族漫游者,True,True,越族自由人,MappedByPattern,,越族自由人,越族漫遊者,ui_text_replacements_localised_text_hv_unit_yue_freemen
 Ye Shock Vanguards,邺城突击先锋,MappedByText,,邺城突击先锋,先登矛卫,True,True,鄴城突擊先鋒,MappedByText,,鄴城突擊先鋒,先登矛衛,ui_text_replacements_localised_text_hv_unit_yuan_vanguards
@@ -1203,13 +1209,15 @@ Fear of Gunpowder,惧怕火器,MappedByText,,惧怕火器,惧火,True,True,懼�
 Commanding Shout,训令,Vanilla,训令,训令,战嚎,True,True,號令吶喊,Vanilla,號令吶喊,號令吶喊,戰嚎,special_ability_phases_onscreen_name_hv_historical_ability_metal_01
 Into the Breach,突围,Vanilla,突围,突围,背水,True,True,乘隙而入,Vanilla,乘隙而入,乘隙而入,背水,special_ability_phases_onscreen_name_hv_historical_ability_healer_02
 Into the Breach,突围,Vanilla,突围,突围,背水,True,True,乘隙而入,Vanilla,乘隙而入,乘隙而入,背水,special_ability_phases_onscreen_name_hv_historical_ability_fire_01
-Loose and Charge (Cavalry),骑兵疏阵冲锋,MappedByText,,骑兵疏阵冲锋,骑兵散阵,True,True,騎兵疏陣衝鋒,MappedByText,,騎兵疏陣衝鋒,騎兵散陣,special_ability_phases_onscreen_name_hv_formation_shock_loose_cavalry_no_requirement
-Loose and Charge (Cavalry),骑兵疏阵冲锋,MappedByText,,骑兵疏阵冲锋,骑兵散阵,True,True,騎兵疏陣衝鋒,MappedByText,,騎兵疏陣衝鋒,騎兵散陣,special_ability_phases_onscreen_name_hv_formation_shock_loose_cavalry
-Loose and Charge,疏阵冲锋,MappedByText,,疏阵冲锋,散阵,True,True,疏陣衝鋒,MappedByText,,疏陣衝鋒,散陣,special_ability_phases_onscreen_name_hv_formation_shock_loose
+Shield Wall (Mobile) (Spear) - Danyang,丹阳矛盾墙阵（可机动）,MappedByPattern,,丹阳枪盾阵,丹阳枪盾墙阵,True,True,丹陽槍盾陣（可機動）,MappedByPattern,,丹陽槍盾陣,丹陽槍盾牆陣,special_ability_phases_onscreen_name_hv_formation_spear_wall_danyang
+Loose and Charge (Cavalry),骑兵疏阵冲锋,MappedByPattern,,骑兵疏阵冲锋,骑兵散阵,True,True,騎兵疏陣衝鋒,MappedByPattern,,騎兵疏陣衝鋒,騎兵散陣,special_ability_phases_onscreen_name_hv_formation_shock_loose_cavalry_no_requirement
+Loose and Charge (Cavalry),骑兵疏阵冲锋,MappedByPattern,,骑兵疏阵冲锋,骑兵散阵,True,True,騎兵疏陣衝鋒,MappedByPattern,,騎兵疏陣衝鋒,騎兵散陣,special_ability_phases_onscreen_name_hv_formation_shock_loose_cavalry
+Loose and Charge,疏阵冲锋,MappedByPattern,,疏阵冲锋,散阵,True,True,疏陣衝鋒,MappedByPattern,,疏陣衝鋒,散陣,special_ability_phases_onscreen_name_hv_formation_shock_loose
 Shield Wall (Mobile),盾墙阵（可机动）,MappedByPattern,,,,True,True,盾陣（可機動）,MappedByPattern,,,,special_ability_phases_onscreen_name_hv_formation_shield_wall_move
-Pike Wall - White Feathers,白毦兵戟墙,MappedByText,,白毦兵戟墙,白毦枪阵,True,True,白毦兵戟墻,MappedByText,,白毦兵戟墻,白毦槍陣,special_ability_phases_onscreen_name_hv_formation_pike_wall_white_feather
-Pike Wall - Ji Guards of the Eight Talents,八才戟卫戟墙,MappedByText,,八才戟卫戟墙,八才戟阵,True,True,八才戟衛戟墻,MappedByText,,八才戟衛戟墻,八才戟陣,special_ability_phases_onscreen_name_hv_formation_pike_wall_eight_talents
-Mixed Missile (Shield),混合远程,PikaMan,,,,True,True,混和遠程,PikaMan,,,,special_ability_phases_onscreen_name_hv_formation_mixed_ranged_spear
+Shield Wall (Mobile) - Danyang,丹阳盾墙阵（可机动）,MappedByPattern,,丹阳盾阵,丹阳盾墙阵,True,True,丹陽盾陣（可機動）,MappedByPattern,,丹陽盾陣,丹陽盾牆陣,special_ability_phases_onscreen_name_hv_formation_shield_wall_danyang
+Pike Wall - White Feathers,白毦兵戟墙,MappedByPattern,,白毦兵戟墙,白毦枪阵,True,True,白毦兵戟墻,MappedByPattern,,白毦兵戟墻,白毦槍陣,special_ability_phases_onscreen_name_hv_formation_pike_wall_white_feather
+Pike Wall - Ji Guards of the Eight Talents,八才戟卫戟墙,MappedByPattern,,八才戟卫戟墙,八才戟阵,True,True,八才戟衛戟墻,MappedByPattern,,八才戟衛戟墻,八才戟陣,special_ability_phases_onscreen_name_hv_formation_pike_wall_eight_talents
+Mixed Missile (Shield),混合远程（持盾）,MappedByPattern,,,,True,True,混合遠程（持盾）,MappedByPattern,,,,special_ability_phases_onscreen_name_hv_formation_mixed_ranged_spear
 Zhou the Youth,美周郎,MappedByPattern,,美周郎,周郎,True,True,美周郎,MappedByPattern,,美周郎,周郎,special_ability_phases_onscreen_name_hv_ability_zhou_the_youth_3
 Zhou the Youth,美周郎,MappedByPattern,,美周郎,周郎,True,True,美周郎,MappedByPattern,,美周郎,周郎,special_ability_phases_onscreen_name_hv_ability_zhou_the_youth_2
 Zhou the Youth,美周郎,MappedByPattern,,美周郎,周郎,True,True,美周郎,MappedByPattern,,美周郎,周郎,special_ability_phases_onscreen_name_hv_ability_zhou_the_youth_1
@@ -1229,24 +1237,24 @@ Striking Tide,刀浪澎湃,MappedByText,,刀浪澎湃,刀浪,True,True,刀浪澎
 Strength of the Land,地力,Vanilla,地力,地力,地动,True,True,大地之力,Vanilla,大地之力,大地之力,地動,special_ability_phases_onscreen_name_hv_ability_strength_of_the_land
 Strength of Black Mountain,黑山之力,MappedByText,,黑山之力,移山,True,True,黑山之力,MappedByText,,黑山之力,移山,special_ability_phases_onscreen_name_hv_ability_strength_of_blackmountain
 Sniper Position,狙击位置,MappedByText,,狙击位置,狙击,True,True,狙擊位置,MappedByText,,狙擊位置,狙擊,special_ability_phases_onscreen_name_hv_ability_sniper_position
-Skirmishing Shot,,Missing,,,,True,True,,Missing,,,,special_ability_phases_onscreen_name_hv_ability_skirmishing_shot
+Skirmishing Shot,游击,MappedByPattern,,,,True,True,游擊,MappedByPattern,,,,special_ability_phases_onscreen_name_hv_ability_skirmishing_shot
 Second Chance,余烬复燃,MappedByText,,余烬复燃,复燃,True,True,餘燼復燃,MappedByText,,餘燼復燃,復燃,special_ability_phases_onscreen_name_hv_ability_second_chance
 Retreat Cover,掩护撤退,MappedByText,,掩护撤退,守望,True,True,掩護撤退,MappedByText,,掩護撤退,守望,special_ability_phases_onscreen_name_hv_ability_retreat_cover
 Hooves of Rage,怒蹄,MappedByText,,怒蹄,良驹,True,True,怒蹄,MappedByText,,怒蹄,良駒,special_ability_phases_onscreen_name_hv_ability_rage_of_hooves
 Rage of Black Mountain,黑山之怒,MappedByText,,黑山之怒,渴骥,True,True,黑山之怒,MappedByText,,黑山之怒,渴驥,special_ability_phases_onscreen_name_hv_ability_rage_of_blackmountain
 Pulverize,粉碎一击,MappedByText,,粉碎一击,碎骨,True,True,粉碎一擊,MappedByText,,粉碎一擊,碎骨,special_ability_phases_onscreen_name_hv_ability_pulverize
 Protection of Black Mountain,黑山之佑,MappedByText,,黑山之佑,拜鬼,True,True,黑山之佑,MappedByText,,黑山之佑,拜鬼,special_ability_phases_onscreen_name_hv_ability_protection_of_blackmountain
-Pounce,,Missing,,,,True,True,,Missing,,,,special_ability_phases_onscreen_name_hv_ability_pounce
+Pounce,猛扑,MappedByPattern,,,,True,True,猛撲,MappedByPattern,,,,special_ability_phases_onscreen_name_hv_ability_pounce
 Mortal Strike,致命一击,MappedByPattern,,致命一击,浴血,True,True,致命一擊,MappedByPattern,,致命一擊,浴血,special_ability_phases_onscreen_name_hv_ability_mortal_strike
 Moment of Courage,一时之勇,MappedByText,,一时之勇,敢勇,True,True,一時之勇,MappedByText,,一時之勇,敢勇,special_ability_phases_onscreen_name_hv_ability_moment_of_courage
 Faith of the Messengers,使者信念,MappedByText,,使者信念,信念,True,True,使者信念,MappedByText,,使者信念,信念,special_ability_phases_onscreen_name_hv_ability_messenger_recovery
 Lucky Shot,幸运一击,MappedByText,,幸运一击,丰筋,True,True,幸運一擊,MappedByText,,幸運一擊,豐筋,special_ability_phases_onscreen_name_hv_ability_lucky_shot
-Joint Shot,,Missing,,,,True,True,,Missing,,,,special_ability_phases_onscreen_name_hv_ability_joint_shot
+Joint Shot,齐射,MappedByPattern,,,,True,True,齊射,MappedByPattern,,,,special_ability_phases_onscreen_name_hv_ability_joint_shot
 Importunity,坚韧不屈,MappedByText,,坚韧不屈,坚韧,True,True,堅韌不屈,MappedByText,,堅韌不屈,堅韌,special_ability_phases_onscreen_name_hv_ability_importunity
 Guardian,卫足,MappedByPattern,卫御甲,卫御甲,金鼓,True,True,衛足,MappedByPattern,護衛,護衛,金鼓,special_ability_phases_onscreen_name_hv_ability_guardian
 Bulldoze,横冲直撞,MappedByText,,横冲直撞,豨勇,True,True,橫衝直撞,MappedByText,,橫衝直撞,豨勇,special_ability_phases_onscreen_name_hv_ability_furious_charge_2
 Bulldoze,横冲直撞,MappedByText,,横冲直撞,豨勇,True,True,橫衝直撞,MappedByText,,橫衝直撞,豨勇,special_ability_phases_onscreen_name_hv_ability_furious_charge_1
-Forest Strategy,,Missing,,,,True,True,,Missing,,,,special_ability_phases_onscreen_name_hv_ability_forest_strategy
+Forest Strategy,林战,MappedByPattern,,,,True,True,森林戰略,MappedByPattern,,,,special_ability_phases_onscreen_name_hv_ability_forest_strategy
 Ferocity,凶猛残暴,MappedByText,,凶猛残暴,誓死,True,True,凶猛殘暴,MappedByText,,凶猛殘暴,誓死,special_ability_phases_onscreen_name_hv_ability_ferocity
 Fearless Charge,无畏冲锋,MappedByText,,无畏冲锋,奋勇,True,True,無畏衝鋒,MappedByText,,無畏衝鋒,奮勇,special_ability_phases_onscreen_name_hv_ability_fearless_charge
 Enlightenment,开化,Vanilla,开化,开化,保佑,True,True,得道,Vanilla,得道,得道,保佑,special_ability_phases_onscreen_name_hv_ability_enlightenment_3
@@ -1269,22 +1277,22 @@ Make Calm Down,镇静,MappedByPattern,,镇静,将才,True,True,鎮靜,MappedByPa
 Burning Soul,炎魂,MappedByPattern,炎魂,炎魂,热血,True,True,燃燒元神,MappedByPattern,燃燒元神,燃燒元神,熱血,special_ability_phases_onscreen_name_hv_ability_burning
 Blood Thirst,嗜血成性,MappedByText,,嗜血成性,嗜血,True,True,嗜血成性,MappedByText,,嗜血成性,嗜血,special_ability_phases_onscreen_name_hv_ability_blood_thirst
 Sinister Strike,影袭,MappedByPattern,,险恶一击,霆击,True,True,險惡一擊,MappedByPattern,,險惡一擊,霆擊,special_ability_phases_onscreen_name_hv_ability_bleed
-Calm Reload,平心静气装填弹药,PikaManShortenedKey,,,,True,True,平心靜氣裝填彈藥,PikaManShortenedKey,,,,special_ability_phases_onscreen_name_hv_ability_beihai_reload_3
-Calm Reload,平心静气装填弹药,PikaManShortenedKey,,,,True,True,平心靜氣裝填彈藥,PikaManShortenedKey,,,,special_ability_phases_onscreen_name_hv_ability_beihai_reload_2
-Calm Reload,平心静气装填弹药,PikaManShortenedKey,,,,True,True,平心靜氣裝填彈藥,PikaManShortenedKey,,,,special_ability_phases_onscreen_name_hv_ability_beihai_reload_1
+Calm Reload,冷静装填,MappedByPattern,,,,True,True,冷靜裝填,MappedByPattern,,,,special_ability_phases_onscreen_name_hv_ability_beihai_reload_3
+Calm Reload,冷静装填,MappedByPattern,,,,True,True,冷靜裝填,MappedByPattern,,,,special_ability_phases_onscreen_name_hv_ability_beihai_reload_2
+Calm Reload,冷静装填,MappedByPattern,,,,True,True,冷靜裝填,MappedByPattern,,,,special_ability_phases_onscreen_name_hv_ability_beihai_reload_1
 Battle Trance,乱战,MappedByText,,乱战,魂荡,True,True,亂戰,MappedByText,,亂戰,魂蕩,special_ability_phases_onscreen_name_hv_ability_battle_trance_2
 Battle Trance,乱战,MappedByText,,乱战,魂荡,True,True,亂戰,MappedByText,,亂戰,魂蕩,special_ability_phases_onscreen_name_hv_ability_battle_trance_1
 Battle Hardened (Spear),久经沙场（矛兵）,MappedByText,,,,True,True,久經沙場（槍兵）,MappedByText,,,,special_ability_phases_onscreen_name_hv_ability_battle_hardened_spear
 Battle Hardened (Ranged),久经沙场（远程）,MappedByText,,,,True,True,久經沙場（遠程）,MappedByText,,,,special_ability_phases_onscreen_name_hv_ability_battle_hardened_ranged
 Battle Hardened (Melee),久经沙场（近战）,MappedByText,,,,True,True,久經沙場（近戰）,MappedByText,,,,special_ability_phases_onscreen_name_hv_ability_battle_hardened_melee
 Battle Hardened (Cavalry),久经沙场（骑兵）,MappedByText,,,,True,True,久經沙場（騎兵）,MappedByText,,,,special_ability_phases_onscreen_name_hv_ability_battle_hardened_cavalry
-Bandit: Deeply-Rooted,,Missing,,,,True,True,,Missing,,,,special_ability_phases_onscreen_name_hv_ability_bandit_unlock_wood
-Bandit: Improvisation,,Missing,,,,True,True,,Missing,,,,special_ability_phases_onscreen_name_hv_ability_bandit_unlock_water_2
-Bandit: Improvisation,,Missing,,,,True,True,,Missing,,,,special_ability_phases_onscreen_name_hv_ability_bandit_unlock_water_1
-Bandit: Grievous Bite,,Missing,,,,True,True,,Missing,,,,special_ability_phases_onscreen_name_hv_ability_bandit_unlock_metal_2
-Bandit: Grievous Bite,,Missing,,,,True,True,,Missing,,,,special_ability_phases_onscreen_name_hv_ability_bandit_unlock_metal_1
-Bandit: Strike First,,Missing,,,,True,True,,Missing,,,,special_ability_phases_onscreen_name_hv_ability_bandit_unlock_fire
-Bandit: Dead or Alive,,Missing,,,,True,True,,Missing,,,,special_ability_phases_onscreen_name_hv_ability_bandit_unlock_earth
+Bandit: Deeply-Rooted,匪徒：根深蒂固,MappedByPattern,,,,True,True,匪徒：根深蒂固,MappedByPattern,,,,special_ability_phases_onscreen_name_hv_ability_bandit_unlock_wood
+Bandit: Improvisation,匪徒：见机行事,MappedByPattern,,,,True,True,匪徒：見機行事,MappedByPattern,,,,special_ability_phases_onscreen_name_hv_ability_bandit_unlock_water_2
+Bandit: Improvisation,匪徒：见机行事,MappedByPattern,,,,True,True,匪徒：見機行事,MappedByPattern,,,,special_ability_phases_onscreen_name_hv_ability_bandit_unlock_water_1
+Bandit: Grievous Bite,匪徒：凶残撕咬,MappedByPattern,,,,True,True,匪徒：重創撕咬,MappedByPattern,,,,special_ability_phases_onscreen_name_hv_ability_bandit_unlock_metal_2
+Bandit: Grievous Bite,匪徒：凶残撕咬,MappedByPattern,,,,True,True,匪徒：重創撕咬,MappedByPattern,,,,special_ability_phases_onscreen_name_hv_ability_bandit_unlock_metal_1
+Bandit: Strike First,匪徒：先发制人,MappedByPattern,,,,True,True,匪徒：先發制人,MappedByPattern,,,,special_ability_phases_onscreen_name_hv_ability_bandit_unlock_fire
+Bandit: Dead or Alive,匪徒：你死我活,MappedByPattern,,,,True,True,匪徒：你死我活,MappedByPattern,,,,special_ability_phases_onscreen_name_hv_ability_bandit_unlock_earth
 Dignity,自重,Vanilla,自重,,庄严,True,True,氣度不凡,Vanilla,氣度不凡,,莊嚴,special_ability_phases_onscreen_name_3k_main_ability_dignity_of_the_empress
 Spearhead,讨贼先锋,Vanilla,讨贼先锋,,破茧,True,True,突擊先鋒,Vanilla,突擊先鋒,,破繭,special_ability_phases_onscreen_name_3k_main_ability_breakthrough_in_concentration_3
 Spearhead,讨贼先锋,Vanilla,讨贼先锋,,破茧,True,True,突擊先鋒,Vanilla,突擊先鋒,,破繭,special_ability_phases_onscreen_name_3k_main_ability_breakthrough_in_concentration_2
@@ -1306,7 +1314,7 @@ Population,人口,Vanilla,人口,,,True,True,人口,Vanilla,人口,,,pooled_reso
 Decay,衰减,Vanilla,衰减,,,True,True,消退,Vanilla,消退,,,pooled_resource_factors_display_name_negative_hv_pooled_factor_ytr_decay
 Decrease,减少,Vanilla,减少,,,True,True,降低,Vanilla,降低,,,pooled_resource_factors_display_name_negative_hv_pooled_factor_ytr
 Anguo,安国,MappedByText,,,,True,True,安國,MappedByText,,,,names_name_962851362
-安國,,Missing,,,,True,True,,Missing,,,,names_alt_name_962851362
+安國,安国,MappedByText,,,,True,True,安國,MappedByText,,,,names_alt_name_962851362
 Military Talent,军事才能,MappedByText,,军事才能,奋武扬威,True,True,軍事才能,MappedByText,,軍事才能,奮武揚威,missions_localised_title_hv_mission_northern_yuan_shu_01
 Military Talent,军事才能,MappedByText,,军事才能,奋武扬威,True,True,軍事才能,MappedByText,,軍事才能,奮武揚威,missions_localised_title_hv_mission_northern_yuan_shao_01
 Military Talent,军事才能,MappedByText,,军事才能,奋武扬威,True,True,軍事才能,MappedByText,,軍事才能,奮武揚威,missions_localised_title_hv_mission_northern_liu_chong_01
@@ -1337,46 +1345,46 @@ The path to prominence in these turbulent times is by the sword! Win battles to 
 {{tr:hv_unit_beihai_fury_mace}},{{tr:hv_unit_beihai_fury_mace}},MappedByPattern,,,,True,True,{{tr:hv_unit_beihai_fury_mace}},MappedByPattern,,,,land_units_onscreen_name_hv_unit_beihai_fury_mace
 {{tr:hv_unit_beihai_fury_crossbowmen}},{{tr:hv_unit_beihai_fury_crossbowmen}},MappedByPattern,,,,True,True,{{tr:hv_unit_beihai_fury_crossbowmen}},MappedByPattern,,,,land_units_onscreen_name_hv_unit_beihai_fury_crossbowmen
 {{tr:hv_unit_bandits_men_of_thunder}},{{tr:hv_unit_bandits_men_of_thunder}},MappedByPattern,,,,True,True,{{tr:hv_unit_bandits_men_of_thunder}},MappedByPattern,,,,land_units_onscreen_name_hv_unit_bandits_men_of_thunder
-Ji Ling,纪灵,MappedByText,,,,True,True,纪灵,MappedByText,,,,land_units_onscreen_name_hv_hero_fire_ji_ling
-Ji Ling,纪灵,MappedByText,,,,True,True,纪灵,MappedByText,,,,land_units_onscreen_name_hv_general_fire_ji_ling
-Jiang Qin,蒋钦,MappedByText,,,,True,True,蔣欽,MappedByText,,,,land_units_onscreen_name_ep_hero_sima_wei
-Zhang Fang,张方,MappedByText,,,,True,True,張方,MappedByText,,,,land_units_onscreen_name_ep_hero_sima_jiong
-Jiang Qin,蒋钦,MappedByText,,,,True,True,蔣欽,MappedByText,,,,land_units_onscreen_name_ep_general_sima_wei
-Zhang Fang,张方,MappedByText,,,,True,True,張方,MappedByText,,,,land_units_onscreen_name_ep_general_sima_jiong
-Wu Anguo,武安国,MappedByText,,,,True,True,武安囯,MappedByText,,,,land_units_onscreen_name_3k_mtu_hero_wood_wu_anguo
-Hua Lanli,华兰丽,MappedByText,,,华氏,True,True,華蘭麗,MappedByText,,,華氏,land_units_onscreen_name_3k_mtu_hero_metal_lady_ma_lanli
-Zhang Xun,张勋,MappedByText,,,,True,True,張勳,MappedByText,,,,land_units_onscreen_name_3k_mtu_hero_earth_zhang_xun
-Wu Anguo,武安国,MappedByText,,,,True,True,武安囯,MappedByText,,,,land_units_onscreen_name_3k_mtu_general_wood_wu_anguo
-Shen Pei,审配,MappedByText,,,,True,True,審配,MappedByText,,,,land_units_onscreen_name_3k_mtu_general_wood_shen_pei
-Qu Gong,瞿恭,MappedByText,,,,True,True,瞿恭,MappedByText,,,,land_units_onscreen_name_3k_mtu_general_wood_qu_gong
-Luo Jun,骆俊,MappedByText,,,,True,True,駱俊,MappedByText,,,,land_units_onscreen_name_3k_mtu_general_wood_luo_jun
-Lady Trieu,赵妪,MappedByText,,,,True,True,趙嫗,MappedByText,,,,land_units_onscreen_name_3k_mtu_general_wood_lady_trieu
-Lü Ji,,Missing,,,,True,True,,Missing,,,,land_units_onscreen_name_3k_mtu_general_wood_lady_lu_ji
+Ji Ling,纪灵,MappedByPattern,,,,True,True,纪灵,MappedByPattern,,,,land_units_onscreen_name_hv_hero_fire_ji_ling
+Ji Ling,纪灵,MappedByPattern,,,,True,True,纪灵,MappedByPattern,,,,land_units_onscreen_name_hv_general_fire_ji_ling
+Jiang Qin,蒋钦,MappedByPattern,,,,True,True,蔣欽,MappedByPattern,,,,land_units_onscreen_name_ep_hero_sima_wei
+Zhang Fang,张方,MappedByPattern,,,,True,True,張方,MappedByPattern,,,,land_units_onscreen_name_ep_hero_sima_jiong
+Jiang Qin,蒋钦,MappedByPattern,,,,True,True,蔣欽,MappedByPattern,,,,land_units_onscreen_name_ep_general_sima_wei
+Zhang Fang,张方,MappedByPattern,,,,True,True,張方,MappedByPattern,,,,land_units_onscreen_name_ep_general_sima_jiong
+Wu Anguo,武安国,MappedByPattern,,,,True,True,武安囯,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_hero_wood_wu_anguo
+Zhang Xun,张勋,MappedByPattern,,,,True,True,張勳,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_hero_earth_zhang_xun
+Lady Du,杜氏,MappedByPattern,,刘氏,刘氏,True,True,杜氏,MappedByPattern,,劉氏,劉氏,land_units_onscreen_name_3k_mtu_hero_earth_lady_bian_huilan
+Wu Anguo,武安国,MappedByPattern,,,,True,True,武安囯,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_wood_wu_anguo
+Shen Pei,审配,MappedByPattern,,,,True,True,審配,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_wood_shen_pei
+Qu Gong,瞿恭,MappedByPattern,,,,True,True,瞿恭,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_wood_qu_gong
+Luo Jun,骆俊,MappedByPattern,,,,True,True,駱俊,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_wood_luo_jun
+Lady Trieu,赵妪,MappedByPattern,,,,True,True,趙嫗,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_wood_lady_trieu
+Lü Ji,吕姬,MappedByPattern,,,,True,True,呂姬,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_wood_lady_lu_ji
 Huang Zu,黄祖,Vanilla,黄祖,,,True,True,黃祖,Vanilla,黃祖,,,land_units_onscreen_name_3k_mtu_general_wood_huang_zu
-Pang De,,Missing,,,,True,True,,Missing,,,,land_units_onscreen_name_3k_mtu_general_wood_chen_jiu
-Yan Xiang,,Missing,,,,True,True,,Missing,,,,land_units_onscreen_name_3k_mtu_general_water_yan_xiang
-Zou Yuan,,Missing,,,,True,True,,Missing,,,,land_units_onscreen_name_3k_mtu_general_water_lady_zou_yuan
-Lu Zheng,陆政,MappedByText,,,,True,True,陸政,MappedByText,,,,land_units_onscreen_name_3k_mtu_general_water_lady_lu_zheng
-Hou Jinting,,Missing,,,,True,True,,Missing,,,,land_units_onscreen_name_3k_mtu_general_water_lady_gongsun_jinting
-Dong Bai,董白,MappedByText,,,,True,True,董白,MappedByText,,,,land_units_onscreen_name_3k_mtu_general_water_lady_dong_bai
-Hua Xin,华歆,Vanilla,华歆,,,True,True,華歆,Vanilla,華歆,,,land_units_onscreen_name_3k_mtu_general_water_hua_xin
-Cai Yan,,Missing,,,,True,True,,Missing,,,,land_units_onscreen_name_3k_mtu_general_water_cai_yan
-Zheng Lan,,Missing,,,,True,True,,Missing,,,,land_units_onscreen_name_3k_mtu_general_metal_lady_zhang_jinglan
-Yuan Anyang,,Missing,,,,True,True,,Missing,,,,land_units_onscreen_name_3k_mtu_general_metal_lady_xiao_qiao
-Yijian Liting,,Missing,,,,True,True,,Missing,,,,land_units_onscreen_name_3k_mtu_general_metal_lady_wang_liting
-Ma Yunlu,,Missing,,,,True,True,,Missing,,,,land_units_onscreen_name_3k_mtu_general_metal_lady_ma_yunlu
-Hua Lanli,华兰丽,MappedByText,,,,True,True,華蘭麗,MappedByText,,,,land_units_onscreen_name_3k_mtu_general_metal_lady_ma_lanli
-Jian Yong,,Missing,,,,True,True,,Missing,,,,land_units_onscreen_name_3k_mtu_general_metal_jian_yong
-Zhang Xueer,,Missing,,,,True,True,,Missing,,,,land_units_onscreen_name_3k_mtu_general_fire_lady_zhang_xingcai
-Chunyu Qiong,淳于琼,MappedByText,,,,True,True,淳于瓊,MappedByText,,,,land_units_onscreen_name_3k_mtu_general_fire_chunyu_qiong
-Zhang Xun,张勋,MappedByText,,,,True,True,張勳,MappedByText,,,,land_units_onscreen_name_3k_mtu_general_earth_zhang_xun
-Lady Wu,,Missing,,,,True,True,,Missing,,,,land_units_onscreen_name_3k_mtu_general_earth_lady_wu_minyu
-Lady Dong,,Missing,,,,True,True,,Missing,,,,land_units_onscreen_name_3k_mtu_general_earth_lady_dong_peishan
-Lady Feng,,Missing,,,,True,True,,Missing,,,,land_units_onscreen_name_3k_mtu_general_earth_lady_da_qiao
-Lady Du,,Missing,,,,True,True,,Missing,,,,land_units_onscreen_name_3k_mtu_general_earth_lady_bian_huilan
-Dong Min,董旻,MappedByText,,,,True,True,董旻,MappedByText,,,,land_units_onscreen_name_3k_mtu_general_earth_dong_min
-Diao Chan,貂蝉,Vanilla,貂蝉,,,True,True,貂蟬,Vanilla,貂蟬,,,land_units_onscreen_name_3k_main_hero_water_lady_diao_chan
-Lady Bian,,Missing,,,,True,True,,Missing,,,,land_units_onscreen_name_3k_main_hero_earth_lady_bian_huilan
+Pang De,庞德,MappedByPattern,,,,True,True,龐德,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_wood_chen_jiu
+Yan Xiang,阎象,MappedByPattern,,,,True,True,閻象,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_water_yan_xiang
+Zou Yuan,邹氏,MappedByPattern,,,,True,True,鄒氏,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_water_lady_zou_yuan
+Lu Zheng,陆政,MappedByPattern,,,,True,True,陸政,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_water_lady_lu_zheng
+Hou Jinting,侯氏,MappedByPattern,,,,True,True,侯氏,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_water_lady_gongsun_jinting
+Dong Bai,董白,MappedByPattern,,,,True,True,董白,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_water_lady_dong_bai
+Hua Xin,华歆,MappedByPattern,华歆,,,True,True,華歆,MappedByPattern,華歆,,,land_units_onscreen_name_3k_mtu_general_water_hua_xin
+Cai Yan,蔡琰,MappedByPattern,,,,True,True,蔡琰,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_water_cai_yan
+Zheng Lan,郑兰,MappedByPattern,,,,True,True,鄭蘭,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_metal_lady_zhang_jinglan
+Yuan Anyang,袁氏,MappedByPattern,,,,True,True,袁氏,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_metal_lady_xiao_qiao
+Yijian Liting,伊健丽婷,MappedByPattern,,,,True,True,伊健麗婷,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_metal_lady_wang_liting
+Ma Yunlu,马云禄,MappedByPattern,,,,True,True,馬雲騄,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_metal_lady_ma_yunlu
+Hua Lanli,华氏,MappedByPattern,,,,True,True,華氏,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_metal_lady_ma_lanli
+Jian Yong,简雍,MappedByPattern,,,,True,True,簡雍,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_metal_jian_yong
+Zhang Xueer,张氏,MappedByPattern,,,,True,True,張氏,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_fire_lady_zhang_xingcai
+Chunyu Qiong,淳于琼,MappedByPattern,,,,True,True,淳于瓊,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_fire_chunyu_qiong
+Zhang Xun,张勋,MappedByPattern,,,,True,True,張勳,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_earth_zhang_xun
+Lady Wu,吴氏,MappedByPattern,,,,True,True,吳氏,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_earth_lady_wu_minyu
+Lady Dong,董氏,MappedByPattern,,,,True,True,董氏,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_earth_lady_dong_peishan
+Lady Feng,冯氏,MappedByPattern,,,,True,True,馮氏,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_earth_lady_da_qiao
+Lady Du,杜氏,MappedByPattern,,,,True,True,杜氏,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_earth_lady_bian_huilan
+Dong Min,董旻,MappedByPattern,,,,True,True,董旻,MappedByPattern,,,,land_units_onscreen_name_3k_mtu_general_earth_dong_min
+Diao Chan,貂蝉,MappedByPattern,貂蝉,,,True,True,貂蟬,MappedByPattern,貂蟬,,,land_units_onscreen_name_3k_main_hero_water_lady_diao_chan
+Lady Bian,卞氏,MappedByPattern,,,,True,True,卞氏,MappedByPattern,,,,land_units_onscreen_name_3k_main_hero_earth_lady_bian_huilan
 The Two Qiaos,二乔,Vanilla,二乔,,江东二乔,True,True,二喬,Vanilla,二喬,,江東二喬,incidents_localised_title_mtu_two_qiao_marry_incident_npc
 The Northern Army,北军,Vanilla,北军,北军,北军归顺,True,True,北軍,Vanilla,北軍,北軍,北軍歸順,incidents_localised_title_hv_northern_army_unlocked_yuan_shu_mid
 The Northern Army,北军,Vanilla,北军,北军,北军归顺,True,True,北軍,Vanilla,北軍,北軍,北軍歸順,incidents_localised_title_hv_northern_army_unlocked_yuan_shu_last
@@ -2124,8 +2132,8 @@ Patience,耐心,Vanilla,耐心,,稳重,True,True,富有耐心,Vanilla,富有耐�
 Kindness,亲善,Vanilla,亲善,,仁德,True,True,慈悲為懷,Vanilla,慈悲為懷,,仁德,effect_bundles_localised_title_3k_mtu_effect_bundle_inc_public_order_5
 The Cataclysm,,Missing,,,,True,True,,Missing,,,,effect_bundles_localised_title_3k_main_effect_bundle_dong_zhou_event_public_order
 Powerful white tigers are with us. ,强大的白虎与我们同在。,MappedByText,,强大的白虎与我们同在。,强大的江东白虎与我们同在。,True,True,强大的白虎與我們同在。,MappedByText,,强大的白虎與我們同在。,強大的江東白虎與我們同在。,effect_bundles_localised_description_hv_script_effect_bundle_white_tiger_cap
-Lu Bu's retinues want to join us quickly. We may  focus on military redeployment.,,Missing,,,,True,True,,Missing,,,,effect_bundles_localised_description_hv_script_effect_bundle_exodus
-"No one welcomes them, and everyone cast doubt to your decision.",,Missing,,,,True,True,,Missing,,,,effect_bundles_localised_description_hv_script_effect_bundle_dong_bai
+Lu Bu's retinues want to join us quickly. We may  focus on military redeployment.,吕布的随从希望能迅速加入您麾下。我们可以考虑调兵的机会。,MappedByText,,,,True,True,呂布的隨從希望能迅速加入您麾下。我們可以考慮調兵的機會。,MappedByText,,,,effect_bundles_localised_description_hv_script_effect_bundle_exodus
+"No one welcomes them, and everyone cast doubt to your decision.",没人欢迎他们，所有人都反而质疑你的决定。,MappedByText,,,,True,True,沒人歡迎他們，所有人都反而質疑你的決定。,MappedByText,,,,effect_bundles_localised_description_hv_script_effect_bundle_dong_bai
 The emperor is proud of your achievements. He may choose to reward you.,天子对您的功绩甚是欣慰。或将给予您赏赐。,Vanilla,天子对您的功绩甚是欣慰。或将给予您赏赐。,,,True,True,皇帝滿意您的功績，可能會給予賞賜。,Vanilla,皇帝滿意您的功績，可能會給予賞賜。,,,effect_bundles_localised_description_hv_gov_3k_dlc07_effect_bundle_pooled_resource_imperial_favour_90
 The emperor is proud of your achievements. He may choose to reward you.,天子对您的功绩甚是欣慰。或将给予您赏赐。,Vanilla,天子对您的功绩甚是欣慰。或将给予您赏赐。,,,True,True,皇帝滿意您的功績，可能會給予賞賜。,Vanilla,皇帝滿意您的功績，可能會給予賞賜。,,,effect_bundles_localised_description_hv_gov_3k_dlc07_effect_bundle_pooled_resource_imperial_favour_80
 The emperor is indifferent towards you.,天子对您不置褒贬。,Vanilla,天子对您不置褒贬。,,,True,True,皇帝對您不置可否。,Vanilla,皇帝對您不置可否。,,,effect_bundles_localised_description_hv_gov_3k_dlc07_effect_bundle_pooled_resource_imperial_favour_70
@@ -2202,7 +2210,7 @@ Army of the Great Banner,集兵练卒,MappedByText,,集兵练卒,问鼎天下,Tr
 The Last Kin of the Dong Zhuo,董卓遗孤,MappedByText,,,,True,True,董卓遺孤,MappedByText,,,,dilemmas_localised_title_hv_dilemma_dong_bai_dlc07
 The Last Kin of the Dong Zhuo,董卓遗孤,MappedByText,,,,True,True,董卓遺孤,MappedByText,,,,dilemmas_localised_title_hv_dilemma_dong_bai_dlc05
 The Last Gift,,Missing,,,,True,True,,Missing,,,,dilemmas_localised_title_3k_main_historical_xun_yu_empty_lunchpail_dilemma
-Rebellion of Li Jue and Guo Si,,Missing,,,,True,True,,Missing,,,,dilemmas_localised_title_3k_main_historical_dong_li_guo_rebellion_dilemma
+Rebellion of Li Jue and Guo Si,李郭之乱,MappedByText,,,,True,True,李郭之亂,MappedByText,,,,dilemmas_localised_title_3k_main_historical_dong_li_guo_rebellion_dilemma
 "A few days after you and your men began searching the mountains, you come across an incredible sight. The den of a large white tiger and its family. The men are intimidated by its size and implore you to go back. You feel as if the massive tiger is staring at you.",在您与部下开始搜山几天后，您遇到了一个不可思议的景象：一只巨型白虎的巢穴。您的部下被老虎体型吓到，恳求您回去。您感觉好像那只巨大的老虎正在盯着你。,OverrideByKey,,在您与部下开始搜山几天后，您遇到了一个不可思议的景象：一只巨型白虎的巢穴。您的部下被老虎体型吓到，恳求您回去。您感觉好像那只巨大的老虎正在盯着你。,经过了几天的搜寻后，你偶然发现了一个不可思议的景象：一只巨型白虎与它的巢穴。你的部下被老虎的体型吓到，恳求你回去。你感觉那只巨大的老虎似乎正在盯着你。,True,True,在您與部下開始搜山幾天後，您遇到了一個不可思議的景象：一隻巨型白虎的巢穴。您的部下被老虎體型嚇到，懇求您回去。您感覺好像那隻巨大的老虎正在盯著你。,OverrideByKey,,在您與部下開始搜山幾天後，您遇到了一個不可思議的景象：一隻巨型白虎的巢穴。您的部下被老虎體型嚇到，懇求您回去。您感覺好像那隻巨大的老虎正在盯著你。,經過了幾天的搜尋後，你偶然發現了一個不可思議的景象：一隻巨型白虎與它的巢穴。你的部下被老虎的體型嚇到，懇求你回去。你感覺那隻巨大的老虎似乎正在盯着你。,dilemmas_localised_description_hv_dilemma_white_tiger_02
 "There's a rumor about a nearby village. Each night, a huge monster terrorises the peasants. The villagers seek a hero to comb the mountains and drive out the beast.",附近村庄有传闻说，每晚会有巨兽出没恐吓农民。村民们在找寻一位英雄来进山驱走怪兽。,OverrideByKey,,附近村庄有传闻说，每晚会有巨兽出没恐吓农民。村民们在找寻一位英雄来进山驱走怪兽。,附近村庄有传闻说每晚会有巨兽出没恐吓农民。村民们在找寻一位英雄进山驱走怪兽。,True,True,附近村莊有傳聞說，每晚會有巨獸出沒恐嚇農民。村民們在找尋一位英雄來進山驅走怪獸。,OverrideByKey,,附近村莊有傳聞說，每晚會有巨獸出沒恐嚇農民。村民們在找尋一位英雄來進山驅走怪獸。,附近村莊有傳聞說每晚會有巨獸出沒恐嚇農民。村民們在找尋一位英雄進山驅走怪獸。,dilemmas_localised_description_hv_dilemma_white_tiger_01
 "Indeed, the goods brought by the western merchants are diverse, with many rare and valuable items. Furthermore, the mercenaries escorting them look like natural warriors.",的确，西域商人带来的货物种类繁多，其中不乏珍惜名贵之物。而且，护送他们的佣兵看起来就像是天生的战士。,MappedByText,,的确，西域商人带来的货物种类繁多，其中不乏珍惜名贵之物。而且，护送他们的佣兵看起来就像是天生的战士。,果不其然，西域商人带来的货物种类繁多，其中不乏珍惜名贵之物。除此之外，护送他们的佣兵装备精良，一看便是天生不凡的战士。,True,True,的確，西域商人帶來的貨物種類繁多，其中不乏珍惜名貴之物。而且，護送他們的傭兵看起來就像是天生的戰士。,MappedByText,,的確，西域商人帶來的貨物種類繁多，其中不乏珍惜名貴之物。而且，護送他們的傭兵看起來就像是天生的戰士。,果不其然，西域商人帶來的貨物種類繁多，其中不乏珍惜名貴之物。除此之外，護送他們的傭兵裝備精良，一看便是天生不凡的戰士。,dilemmas_localised_description_hv_dilemma_sogd
@@ -2215,27 +2223,28 @@ A group of unusual men sporting shaved heads disembark from a ship.  They claim 
 "You are furious because you found out your old friend and trusted servant, Xun Yu, has turned his back against you. He does not oppose you publicly for the time being, but you are certain he will betray you the first chance he gets. \\n\\n It's time to choose. You can send him a ""gift."" when he receives your ""gift,"" he who shares a deep friendship with you will know the meaning of it...",,Missing,,,,True,True,,Missing,,,,dilemmas_localised_description_3k_main_historical_xun_yu_empty_lunchpail_dilemma
 Li Jue and Guo Si came to the capital with a huge army. They want avenge for their fallen master. The only thing they want is the neck of the killer.,,Missing,,,,True,True,,Missing,,,,dilemmas_localised_description_3k_main_historical_dong_li_guo_rebellion_dilemma
 Zhou Yu,英杰周瑜,Vanilla,英杰周瑜,英杰周瑜,周瑜,True,False,周瑜,Vanilla,周瑜,周瑜,周瑜,custom_battle_loadouts_name_hv_cb_loadout_zhou_yu_01
-Zhang Fang,张方,MappedByText,,,,True,True,張方,MappedByText,,,,custom_battle_loadouts_name_hv_cb_loadout_zhang_fang_01
-Wu Anguo,武安国,MappedByText,,,,True,True,武安囯,MappedByText,,,,custom_battle_loadouts_name_hv_cb_loadout_wu_anguo_01
+Zhang Fang,张方,MappedByPattern,,,,True,True,張方,MappedByPattern,,,,custom_battle_loadouts_name_hv_cb_loadout_zhang_fang_01
+Wu Anguo,武安国,MappedByPattern,,,,True,True,武安囯,MappedByPattern,,,,custom_battle_loadouts_name_hv_cb_loadout_wu_anguo_01
 Sima Yi,司马仲达,Vanilla,司马仲达,司马仲达,司马懿,True,False,司馬懿,Vanilla,司馬懿,司馬懿,司馬懿,custom_battle_loadouts_name_hv_cb_loadout_sima_yi_01
 Warlord,诸侯,MappedByText,白虎,,,True,True,諸侯,MappedByText,賊首,,,custom_battle_loadouts_name_hv_cb_loadout_shi_xie_02
 Shi Xie,士燮,Vanilla,士燮,,,True,True,士燮,Vanilla,士燮,,,custom_battle_loadouts_name_hv_cb_loadout_shi_xie_01
 Warlord,诸侯,MappedByText,白虎,诸侯,西凉伏波,True,True,諸侯,MappedByText,賊首,諸侯,西涼伏波,custom_battle_loadouts_name_hv_cb_loadout_ma_teng_02
+Hua Lanli,华氏,MappedByPattern,,华兰丽,华兰丽,True,True,華氏,MappedByPattern,,華蘭麗,華蘭麗,custom_battle_loadouts_name_hv_cb_loadout_ma_lanli_01
 Warrior Without Equal,无双猛士,MappedByText,无双飞将,无双猛士,飞将,True,True,無雙猛士,MappedByText,武藝無雙,無雙猛士,飛將,custom_battle_loadouts_name_hv_cb_loadout_lu_bu_02
 Warlord,诸侯,MappedByText,白虎,,,True,True,諸侯,MappedByText,賊首,,,custom_battle_loadouts_name_hv_cb_loadout_liu_zhang_02
 Liu Zhang,刘璋,Vanilla,刘璋,,,True,True,劉璋,Vanilla,劉璋,,,custom_battle_loadouts_name_hv_cb_loadout_liu_zhang_01
 Liu Bei,同窗玄德,Vanilla,同窗玄德,同窗玄德,刘备,True,False,劉備,Vanilla,劉備,劉備,劉備,custom_battle_loadouts_name_hv_cb_loadout_liu_bei_01
-Lady Trieu [[img:unit_elephant]][[/img]],赵妪[[img:unit_elephant]][[/img]],MappedByText,,,,True,True,趙嫗[[img:unit_elephant]][[/img]],MappedByText,,,,custom_battle_loadouts_name_hv_cb_loadout_lady_trieu_02
-Lady Trieu,赵妪,MappedByText,,,,True,True,趙嫗,MappedByText,,,,custom_battle_loadouts_name_hv_cb_loadout_lady_trieu_01
+Lady Trieu [[img:unit_elephant]][[/img]],赵妪[[img:unit_elephant]][[/img]],MappedByPattern,,,,True,True,趙嫗[[img:unit_elephant]][[/img]],MappedByPattern,,,,custom_battle_loadouts_name_hv_cb_loadout_lady_trieu_02
+Lady Trieu,赵妪,MappedByPattern,,,,True,True,趙嫗,MappedByPattern,,,,custom_battle_loadouts_name_hv_cb_loadout_lady_trieu_01
 Warlord,诸侯,MappedByText,白虎,,,True,True,諸侯,MappedByText,賊首,,,custom_battle_loadouts_name_hv_cb_loadout_kong_rong_02
 Kong Rong,孔融,Vanilla,孔融,,,True,True,孔融,Vanilla,孔融,,,custom_battle_loadouts_name_hv_cb_loadout_kong_rong_01
-Jiang Qin,蒋钦,MappedByText,,,,True,True,蔣欽,MappedByText,,,,custom_battle_loadouts_name_hv_cb_loadout_jiang_qin_01
-Ji Ling,纪灵,MappedByText,,,,True,True,纪灵,MappedByText,,,,custom_battle_loadouts_name_hv_cb_loadout_ji_ling_01
+Jiang Qin,蒋钦,MappedByPattern,,,,True,True,蔣欽,MappedByPattern,,,,custom_battle_loadouts_name_hv_cb_loadout_jiang_qin_01
+Ji Ling,纪灵,MappedByPattern,,,,True,True,纪灵,MappedByPattern,,,,custom_battle_loadouts_name_hv_cb_loadout_ji_ling_01
 The Yellow Warlord,黄巾军将领,MappedByText,,黄巾军将领,黄巾军首领,True,True,黃巾軍將領,MappedByText,,黃巾軍將領,黃巾軍首領,custom_battle_loadouts_name_hv_cb_loadout_huang_shao_02
 The Yellow Warlord,黄巾军将领,MappedByText,,黄巾军将领,黄巾军首领,True,True,黃巾軍將領,MappedByText,,黃巾軍將領,黃巾軍首領,custom_battle_loadouts_name_hv_cb_loadout_he_yi_02
 Warlord,诸侯,MappedByText,白虎,诸侯,白马将军,True,True,諸侯,MappedByText,賊首,諸侯,白馬將軍,custom_battle_loadouts_name_hv_cb_loadout_gongsun_zan_02
 The Yellow Warlord,黄巾军将领,MappedByText,,黄巾军将领,黄巾军首领,True,True,黃巾軍將領,MappedByText,,黃巾軍將領,黃巾軍首領,custom_battle_loadouts_name_hv_cb_loadout_gong_du_02
-Fa Zheng,法正,MappedByText,,,,True,True,法正,MappedByText,,,,custom_battle_loadouts_name_hv_cb_loadout_fa_zheng_01
+Fa Zheng,法正,MappedByPattern,,,,True,True,法正,MappedByPattern,,,,custom_battle_loadouts_name_hv_cb_loadout_fa_zheng_01
 General,将军,Vanilla,将军,,将领,True,True,將軍,Vanilla,將軍,,將領,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_zhang_xun_02
 Commandant,别部司马,Vanilla,别部司马,,都督,True,True,都尉,Vanilla,都尉,,都督,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_zhang_xun_01
 Elite General,五子良将,Vanilla,五子良将,,,True,True,五子良將,Vanilla,五子良將,,,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_wu_anguo_03
@@ -2250,7 +2259,9 @@ Commandant,别部司马,Vanilla,别部司马,,孺人,True,True,都尉,Vanilla,�
 Outlaw,凶犯,Vanilla,凶犯,,大将,True,True,法外之徒,Vanilla,法外之徒,,大將,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_jinglan_02
 Queen,女杰,Vanilla,女杰,,孺人,True,True,女王,Vanilla,女王,,孺人,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_xiao_qiao_02
 Queen,女杰,Vanilla,女杰,,夫人,True,True,女王,Vanilla,女王,,夫人,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_wu_minyu_02
+Lady,夫人,MappedByText,,,孺人,True,True,夫人,MappedByText,,,孺人,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_wu_minyu_01
 Queen,女杰,Vanilla,女杰,,大将,True,True,女王,Vanilla,女王,,大將,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_wang_liting_02
+Lady,夫人,MappedByText,,,勇士,True,True,夫人,MappedByText,,,勇士,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_wang_liting_01
 Commandant,别部司马,Vanilla,别部司马,,郡女,True,True,都尉,Vanilla,都尉,,郡女,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_trieu_01
 General,将军,Vanilla,将军,,大将,True,True,將軍,Vanilla,將軍,,大將,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_yunlu_02
 Commandant,别部司马,Vanilla,别部司马,,勇士,True,True,都尉,Vanilla,都尉,,勇士,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_yunlu_01
@@ -2260,9 +2271,11 @@ Warlord,诸侯,MappedByText,白虎,,大将,True,True,諸侯,MappedByText,賊首,
 Commandant,别部司马,Vanilla,别部司马,,都督,True,True,都尉,Vanilla,都尉,,都督,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_lu_ji_01
 Queen Mother of Prince Pei,沛王太妃,Mtu,,,,True,True,沛王太妃,Mtu,,,,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_du_03
 Queen,女杰,Vanilla,女杰,,,True,True,女王,Vanilla,女王,,,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_du_02
-Lady,孺人,Mtu,,,,True,True,孺人,Mtu,,,,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_du_01
+Lady,夫人,MappedByText,,,,True,True,夫人,MappedByText,,,,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_du_01
 Queen,女杰,Vanilla,女杰,,夫人,True,True,女王,Vanilla,女王,,夫人,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_dong_peishan_02
+Lady,夫人,MappedByText,,,孺人,True,True,夫人,MappedByText,,,孺人,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_dong_peishan_01
 Queen,女杰,Vanilla,女杰,,夫人,True,True,女王,Vanilla,女王,,夫人,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_da_qiao_02
+Lady,夫人,MappedByText,,,孺人,True,True,夫人,MappedByText,,,孺人,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_da_qiao_01
 Friend,好友,Vanilla,好友,,从事中郎,True,True,好友,Vanilla,好友,,從事中郎,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_jian_yong_02
 Chancellor,尚书令,Vanilla,尚书令,,谋士,True,True,尚書令,Vanilla,尚書令,,謀士,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_hua_xin_02
 Advisor,奇谋百出,Vanilla,奇谋百出,,夫人,True,True,謀士,Vanilla,謀士,,夫人,custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_gongsun_jinting_02
@@ -2274,7 +2287,7 @@ Commandant,别部司马,Vanilla,别部司马,,先锋,True,True,都尉,Vanilla,�
 DEBUG GUY,校尉,MappedByText,,校尉,TEST,True,True,校尉,MappedByText,,校尉,TEST,custom_battle_loadouts_name_3k_main_custom_battle_loadout_test
 Empress,皇后,Vanilla,皇后,,,True,True,皇帝,Vanilla,皇帝,,,custom_battle_loadouts_name_3k_main_custom_battle_loadout_lady_diao_chan_03
 Queen,女杰,Vanilla,女杰,,,True,True,女王,Vanilla,女王,,,custom_battle_loadouts_name_3k_main_custom_battle_loadout_lady_diao_chan_02
-Lady,,Missing,,,,True,True,,Missing,,,,custom_battle_loadouts_name_3k_main_custom_battle_loadout_lady_diao_chan_01
+Lady,夫人,MappedByText,,,,True,True,夫人,MappedByText,,,,custom_battle_loadouts_name_3k_main_custom_battle_loadout_lady_diao_chan_01
 Conquest Yellow Turbans,剿灭黄巾,MappedByText,,剿灭黄巾,收复黄巾,True,True,剿滅黃巾,MappedByText,,剿滅黃巾,收復黃巾,ceo_nodes_title_hv_ceo_node_faction_rank_unlock_qingzhou
 Legacy of Yuan Shu,袁术余部,MappedByText,,袁术余部,袁术残党,True,True,袁術餘部,MappedByText,,袁術餘部,袁術殘黨,ceo_nodes_title_hv_ceo_node_faction_rank_unlock_legacy_yuan_shu
 Legacy of Lu Bu,吕布余部,MappedByText,,吕布余部,吕布残党,True,True,呂布餘部,MappedByText,,呂布餘部,呂布殘黨,ceo_nodes_title_hv_ceo_node_faction_rank_unlock_legacy_lu_bu
@@ -2289,17 +2302,26 @@ Man For All Seasons,,Missing,,,,True,True,,Missing,,,,ceo_nodes_title_hv_ceo_nod
 House Yuan's Officer,袁氏士官,MappedByText,,袁氏士官,袁氏校尉,True,True,袁氏士官,MappedByText,,袁氏士官,袁氏校尉,ceo_nodes_title_hv_ancillary_yuan_officer
 White Horse Fellows Officer,白马义从士官,MappedByText,,白马义从士官,白马校尉,True,True,白馬義從士官,MappedByText,,白馬義從士官,白馬校尉,ceo_nodes_title_hv_ancillary_white_horse_fellows_officer
 Sogdian Officer,粟特士官,MappedByText,,粟特士官,粟特校尉,True,True,粟特士官,MappedByText,,粟特士官,粟特校尉,ceo_nodes_title_hv_ancillary_sogd_officer
-Lady Liu's Robes,刘夫人的长袍,MappedByText,,刘夫人的长袍,刘氏的护甲,True,True,劉夫人的長袍 ,MappedByText,,劉夫人的長袍 ,劉氏的護甲,ceo_nodes_title_hv_ancillary_liu_limin_huilans_armour_unique
+Lady Liu's Robes,刘氏的长袍,MappedByPattern,,刘夫人的长袍,刘氏的护甲,True,True,劉氏的長袍,MappedByPattern,,劉夫人的長袍 ,劉氏的護甲,ceo_nodes_title_hv_ancillary_liu_limin_huilans_armour_unique
 Sogdian Officer,粟特士官,MappedByText,,粟特士官,粟特校尉,True,True,粟特士官,MappedByText,,粟特士官,粟特校尉,ceo_nodes_title_hv_ancillary_follower_sogd_army_captain
 Danyang Troops Officer,丹阳部队士官,MappedByText,,丹阳部队士官,丹阳校尉,True,True,丹陽部隊士官,MappedByText,,丹陽部隊士官,丹陽校尉,ceo_nodes_title_hv_ancillary_danyang_officer
 Hidden Snakes and Rapid Tigers Tally,隐蛇兵与虎捷军虎符,MappedByText,,隐蛇兵与虎捷军虎符,蛇虎兵符,True,True,隱蛇兵與虎賁軍虎符,MappedByText,,隱蛇兵與虎賁軍虎符,蛇虎兵符,ceo_nodes_title_hv_ancillary_accessory_yuan_shu_legacy_military_talisman
+Chen Deng's Armour,陈登的护甲,MappedByPattern,,曹植的护甲,曹植的护甲,True,True,陳登的護甲,MappedByPattern,,曹植的護甲,曹植的護甲,ceo_nodes_title_ep_ancillary_sima_ying_armour_unique
 Tiger General,五虎上将,Vanilla,五虎上将,,虎威将军,True,True,五虎將,Vanilla,五虎將,,虎威將軍,ceo_nodes_title_3k_mtu_ceo_node_career_historical_zhao_yun_01
 One Armed Bear,,Missing,,,,True,True,,Missing,,,,ceo_nodes_title_3k_mtu_ceo_node_career_historical_wu_anguo_01
-Wu Anguo's Armour,,Missing,,,,True,True,,Missing,,,,ceo_nodes_title_3k_mtu_ancillary_wu_anguos_armour_unique
-Big Mace,,Missing,,,,True,True,,Missing,,,,ceo_nodes_title_3k_mtu_ancillary_weapon_dachui
-Femme Fatale,,Missing,,,,True,True,,Missing,,,,ceo_nodes_title_3k_main_ceo_node_career_historical_lady_diao_chan_01
-Diao Chan's Silk Raiment,,Missing,,,,True,True,,Missing,,,,ceo_nodes_title_3k_main_ancillary_lady_diao_chans_armour_unique
-Lady Liu always cares about her family.,刘夫人总是关心她的家人。,MappedByText,,刘夫人总是关心她的家人。,「袁尚母刘氏之妒，其酷烈也甚矣。乃城破之后，不能死节，而献甄氏于曹丕，以图苟全，又何其无烈性至此乎！可见妇之贞者必不妒，妇之妒者必不贞。」,True,True,劉夫人總是關心他的家人。,MappedByText,,劉夫人總是關心他的家人。,「袁尚母劉氏之妒，其酷烈也甚矣。乃城破之後，不能死節，而獻甄氏於曹丕，以圖苟全，又何其無烈性至此乎！可見婦之貞者必不妒，婦之妒者必不貞。」,ceo_nodes_description_hv_ceo_node_career_non_deployable_liu_limin
+Yan Xiang's Embroidered Garment,阎象的綉服,MappedByPattern,,,阎象的护甲,True,True,閻象的绣服,MappedByPattern,,,閻象的護甲,ceo_nodes_title_3k_mtu_ancillary_yan_xiangs_armour_unique
+Wu Anguo's Armour,武安国的护甲,MappedByPattern,,,,True,True,武安囯的護甲,MappedByPattern,,,,ceo_nodes_title_3k_mtu_ancillary_wu_anguos_armour_unique
+Big Mace,巨锤,MappedByText,,,,True,True,巨錘,MappedByText,,,,ceo_nodes_title_3k_mtu_ancillary_weapon_dachui
+Yuan Anyang's Silver Embroidered Garments,袁氏的銀色綉服,MappedByPattern,,,袁氏的护甲,True,True,袁氏的银色绣服,MappedByPattern,,,袁氏的護甲,ceo_nodes_title_3k_mtu_ancillary_lady_xiao_qiaos_armour_unique
+Ma Yunlu's Leather Armour,马云禄的皮甲,MappedByPattern,,,马云禄的护甲,True,True,馬雲騄的皮甲,MappedByPattern,,,馬雲祿的護甲,ceo_nodes_title_3k_mtu_ancillary_lady_ma_yunlus_armour_unique
+Hua Lanli's Leather Armour,华氏的皮甲,MappedByPattern,,,华氏的护甲,True,True,華氏的皮甲,MappedByPattern,,,華氏的護甲,ceo_nodes_title_3k_mtu_ancillary_lady_ma_lanlis_armour_unique
+Lu Zheng's Leather Armour,陆政的皮甲,MappedByPattern,,,陆政的护甲,True,True,陸政的皮甲,MappedByPattern,,,陸政的護甲,ceo_nodes_title_3k_mtu_ancillary_lady_lu_zhengs_armour_unique
+Hou Jinting's Embroidered Garment,侯氏的綉服,MappedByPattern,,,侯氏的护甲,True,True,侯氏的绣服,MappedByPattern,,,侯氏的護甲,ceo_nodes_title_3k_mtu_ancillary_lady_gongsun_jintings_armour_unique
+Dong Bai's Onyx Emroidered Garment,董白的黑色綉服,MappedByPattern,,,董白的护甲,True,True,董白的黑色绣服,MappedByPattern,,,董白的護甲,ceo_nodes_title_3k_mtu_ancillary_lady_dong_bais_armour_unique
+Lady Feng's Gold Embroidered Garments,冯氏的金色綉服,MappedByPattern,,,冯氏的护甲,True,True,馮氏的金色绣服,MappedByPattern,,,馮氏的護甲,ceo_nodes_title_3k_mtu_ancillary_lady_da_qiaos_armour_unique
+Femme Fatale,倾国美人,MappedByText,,,,True,True,傾國美人,MappedByText,,,,ceo_nodes_title_3k_main_ceo_node_career_historical_lady_diao_chan_01
+Diao Chan's Silk Raiment,貂蝉的絲服,MappedByPattern,,,,True,True,貂蟬的丝服,MappedByPattern,,,,ceo_nodes_title_3k_main_ancillary_lady_diao_chans_armour_unique
+Lady Liu always cares about her family.,刘氏总是关心她的家人。,MappedByText,,刘夫人总是关心她的家人。,「袁尚母刘氏之妒，其酷烈也甚矣。乃城破之后，不能死节，而献甄氏于曹丕，以图苟全，又何其无烈性至此乎！可见妇之贞者必不妒，妇之妒者必不贞。」,True,True,劉氏總是關心他的家人。,MappedByText,,劉夫人總是關心他的家人。,「袁尚母劉氏之妒，其酷烈也甚矣。乃城破之後，不能死節，而獻甄氏於曹丕，以圖苟全，又何其無烈性至此乎！可見婦之貞者必不妒，婦之妒者必不貞。」,ceo_nodes_description_hv_ceo_node_career_non_deployable_liu_limin
 He was loved by everyone.,受衆人喜愛。,MappedByText,,受衆人喜愛。,饱读诗书，人见人爱。,True,True,受众人喜爱。,MappedByText,,受众人喜爱。,飽讀詩書，人見人愛。,ceo_nodes_description_hv_ceo_node_career_historical_yuan_yao_01
 He was also a bandit once.,平定江东之功臣。,MappedByText,,平定江东之功臣。,「钦折节好学，以公灭私。」,True,True,平定江東之功臣。,MappedByText,,平定江東之功臣。,「欽折節好學，以公滅私。」,ceo_nodes_description_hv_ceo_node_career_historical_jiang_qin_01
 "Sometimes, just sometimes, power fails to corrupt, and instead leads to altruism and charity.",偶尔，仅仅是偶尔，权力并未堕落至腐败，而是结出了有利他人和普罗慈善的果实。,Vanilla,偶尔，仅仅是偶尔，权力并未堕落至腐败，而是结出了有利他人和普罗慈善的果实。,,,True,True,有時候…真的只是有時候，權力不會使人腐敗，反而使人兼善天下。,Vanilla,有時候…真的只是有時候，權力不會使人腐敗，反而使人兼善天下。,,,ceo_nodes_description_hv_ceo_node_career_historical_chen_deng_01
@@ -2317,7 +2339,7 @@ Proof that the bearer has the authority to command Danyang troops.,此令牌可�
 "The perfect weight and fit, tailored for this warrior of class and distinction.",此甲轻重得当，宽紧合身，非名将不可披戴。,Vanilla,此甲轻重得当，宽紧合身，非名将不可披戴。,,,True,True,重量適中且恰好合身，專為這名有頭有臉的戰士量身打造。,Vanilla,重量適中且恰好合身，專為這名有頭有臉的戰士量身打造。,,,ceo_nodes_description_3k_mtu_ancillary_wu_anguos_armour_unique
 "As big as it is, heavy but strong",,Missing,,,,True,True,,Missing,,,,ceo_nodes_description_3k_mtu_ancillary_weapon_dachui
 "The perfect weight and fit, tailored for this warrior of class and distinction.",此甲轻重得当，宽紧合身，非名将不可披戴。,Vanilla,此甲轻重得当，宽紧合身，非名将不可披戴。,,此袍用料上乘，宽紧合身，非名士不可披戴。,True,True,重量適中且恰好合身，專為這名有頭有臉的戰士量身打造。,Vanilla,重量適中且恰好合身，專為這名有頭有臉的戰士量身打造。,,此袍用料上乘，寬緊合身，非名士不可披戴。,ceo_nodes_description_3k_mtu_ancillary_eminent_calligrapher_armour_water_unique
-Diao Chan's beauty is enough to destroy a country in a moment.,,Missing,,,,True,True,,Missing,,,,ceo_nodes_description_3k_main_ceo_node_career_historical_lady_diao_chan_01
+Diao Chan's beauty is enough to destroy a country in a moment.,貂蝉之美足以覆国。,MappedByText,,,,True,True,貂蟬之美足以覆國。,MappedByText,,,,ceo_nodes_description_3k_main_ceo_node_career_historical_lady_diao_chan_01
 "The perfect weight and fit, tailored for this warrior of class and distinction.",此甲轻重得当，宽紧合身，非名将不可披戴。,Vanilla,此甲轻重得当，宽紧合身，非名将不可披戴。,,,True,True,重量適中且恰好合身，專為這名有頭有臉的戰士量身打造。,Vanilla,重量適中且恰好合身，專為這名有頭有臉的戰士量身打造。,,,ceo_nodes_description_3k_main_ancillary_lady_diao_chans_armour_unique
 "A blade that is a beauty to behold. Inlaid with gold and embellished with shark skin, this blade is fit for a royal family.",一柄精美绝伦的宝剑，错以黄金，饰以鲛皮，与皇室之尊位相称。,MappedByText,,一柄精美绝伦的宝剑，错以黄金，饰以鲛皮，与天子之尊位相称。,一柄精美绝伦的宝剑，错以黄金，饰以鲛皮，与天子之尊位相称。,True,True,一柄精美絕倫的寶劍。這把飾有鯊皮的鑲金寶劍正好匹配皇室。,MappedByText,,一柄精美絕倫的寶劍。這把飾有鯊皮的鑲金寶劍正好匹配天子。,一柄精美絕倫的寶劍，錯以黃金，飾以鮫皮，與天子之尊位相稱。,ceo_nodes_description_3k_dlc07_ancillary_weapon_emperor_xian_weapon_unique
 Win a battle where one of your generals personally kills 300 or more soldiers,赢得一场您的一名将领亲自杀敌三百人的战斗,MappedByText,,赢得一场您的一名将领亲自杀敌三百人的战斗,赢得一场你的一名将领亲自杀敌三百人的战斗,True,True,贏得一場您的一名將領親自殺敵三百人的戰鬥,MappedByText,,贏得一場您的一名將領親自殺敵三百人的戰鬥,贏得一場你的一名將領親自殺敵三百人的戰鬥,ceo_nodes_description_3k_dlc05_ancillary_title_blood_dragon_locked_00

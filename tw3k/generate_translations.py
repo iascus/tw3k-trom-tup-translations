@@ -211,8 +211,12 @@ class LookupBySkill(LookupFile):
     step_no = 27
 
 
-class LookupByTextFragment(LookupFile):
+class LookupByCharacter(LookupFile):
     step_no = 28
+
+
+class LookupByTextFragment(LookupFile):
+    step_no = 29
 
 
 class VanillaTranslations(Step):
@@ -254,6 +258,7 @@ class MapByPatternZhcn(Step):
         'lookup_by_unit_name': LookupByUnitName,
         'lookup_by_unit_type': LookupByUnitType,
         'lookup_by_skill': LookupBySkill,
+        'lookup_by_character': LookupByCharacter,
         'lookup_by_text_fragment': LookupByTextFragment,
     }
 
@@ -279,6 +284,7 @@ class MapByPatternZhcn(Step):
         lookup_by_unit_type = self.lookup_by_unit_type.data.set_index('Text')[self.lang_col].to_dict()
         lookup_by_unit_name = self.lookup_by_unit_name.data.set_index('Text')[self.lang_col].to_dict()
         lookup_by_skill = self.lookup_by_skill.data.set_index('Text')[self.lang_col].to_dict()
+        lookup_by_character = self.lookup_by_character.data.set_index('Text')[self.lang_col].to_dict()
         lookup_by_text_vanilla = self.vanilla_translations.data[['Text', self.lang_col]].dropna().set_index('Text')[self.lang_col].to_dict()
         lookup_by_text_vanilla.update(lookup_by_text.to_dict()['MappedByText'])
         lookup_by_text = lookup_by_text_vanilla
@@ -305,6 +311,7 @@ class MapByPatternZhcn(Step):
                     found = self._lookup(found, matched, 'unit_tier', lookup_by_unit_type)
                     found = self._lookup(found, matched, 'unit_name', lookup_by_unit_name)
                     found = self._lookup(found, matched, 'skill', lookup_by_skill)
+                    found = self._lookup(found, matched, 'character', lookup_by_character)
                     if found.keys() == matched.keys():
                         data.loc[text, 'MappedByPattern'] = replacement.format(**found)
 
@@ -452,11 +459,11 @@ class MissingZhcn(Step):
         data = data.loc[
             (data['Source'].isin([
                 'Missing',
-                # 'PikaManShortenedKey',
-                # 'PikaMan',
+                'PikaManShortenedKey',
+                'PikaMan',
             ]))
-            & (data['Text'] != '')
-            & (~data['File'].str.contains('MTU'))
+            & (data['English'].fillna('') != '')
+            # (~data['File'].str.contains('MTU'))
         ]
         return data
 
@@ -550,6 +557,7 @@ def main():
             LookupByUnitName,
             LookupByUnitType,
             LookupBySkill,
+            LookupByCharacter,
             LookupByTextFragment,
             MapByPatternZhcn,
             MapByPatternZhtw,
