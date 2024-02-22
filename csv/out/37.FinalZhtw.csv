@@ -4,25 +4,25 @@ building_chains_chain_tooltip_hv_subtown_danyang,丹陽部隊據點,True
 building_chains_chain_tooltip_hv_subtown_garrison,地方巡衛軍序列,True
 building_chains_chain_tooltip_hv_subtown_garrison_sun_jian,[[col:flavour]]地方豪强莊園[[/col]],True
 building_chains_chain_tooltip_hv_subtown_han_small_farm,補給管理,True
-building_chains_chain_tooltip_hv_subtown_nanman,狩獵區,True
-building_chains_chain_tooltip_hv_subtown_nanman_outpost,南蠻交易所,True
+building_chains_chain_tooltip_hv_subtown_nanman,狩獵區序列,True
+building_chains_chain_tooltip_hv_subtown_nanman_outpost,南蠻市肆,True
 building_chains_chain_tooltip_hv_subtown_qiang,羌人部落序列,True
 building_chains_chain_tooltip_hv_subtown_shanyue,山越部落序列,True
 building_chains_chain_tooltip_hv_subtown_wuhuan,東胡部落序列,True
 building_chains_chain_tooltip_hv_subtown_xiongnu,匈奴部落序列,True
-building_chains_chain_tooltip_hv_subtown_ytr,黃巾教派,False
+building_chains_chain_tooltip_hv_subtown_ytr,太平道序列,False
 building_chains_encyclopedia_name_hv_subtown_confucius,孔子學院,True
 building_chains_encyclopedia_name_hv_subtown_danyang,丹陽部隊據點,True
 building_chains_encyclopedia_name_hv_subtown_garrison,地方巡衛軍序列,True
 building_chains_encyclopedia_name_hv_subtown_garrison_sun_jian,地方豪强莊園,True
 building_chains_encyclopedia_name_hv_subtown_han_small_farm,補給管理,True
-building_chains_encyclopedia_name_hv_subtown_nanman,狩獵區,True
-building_chains_encyclopedia_name_hv_subtown_nanman_outpost,南蠻交易所,True
+building_chains_encyclopedia_name_hv_subtown_nanman,狩獵區序列,True
+building_chains_encyclopedia_name_hv_subtown_nanman_outpost,南蠻市肆,True
 building_chains_encyclopedia_name_hv_subtown_qiang,羌人部落序列,True
 building_chains_encyclopedia_name_hv_subtown_shanyue,山越部落序列,True
 building_chains_encyclopedia_name_hv_subtown_wuhuan,東胡部落序列,True
 building_chains_encyclopedia_name_hv_subtown_xiongnu,匈奴部落序列,True
-building_chains_encyclopedia_name_hv_subtown_ytr,黃巾教派,False
+building_chains_encyclopedia_name_hv_subtown_ytr,太平道序列,False
 building_chains_override_description_hv_subtown_confucius,賢師高徒匯聚之所。,True
 building_chains_override_description_hv_subtown_danyang,丹陽人以奮勇著稱。陶謙整備軍隊，訓練有素。,True
 building_chains_override_description_hv_subtown_garrison,巡守衛隊在此地域巡邏，騷擾敵軍。,True
@@ -42,8 +42,8 @@ building_culture_variants_name_hv_subtown_garrison_01,重門軍哨站,True
 building_culture_variants_name_hv_subtown_garrison_02,重門軍營地,True
 building_culture_variants_name_hv_subtown_garrison_sun_jian_01,士族庭院,True
 building_culture_variants_name_hv_subtown_garrison_sun_jian_02,士族田莊,True
-building_culture_variants_name_hv_subtown_nanman_outpost_01,南蠻交易所,True
-building_culture_variants_name_hv_subtown_nanman_shikar_01,狩獵區,True
+building_culture_variants_name_hv_subtown_nanman_outpost_01,南蠻市肆,True
+building_culture_variants_name_hv_subtown_nanman_shikar_01,狩獵區序列,True
 building_culture_variants_name_hv_subtown_qiang_00,羌人散戶,True
 building_culture_variants_name_hv_subtown_qiang_01,羌人聚落,True
 building_culture_variants_name_hv_subtown_qiang_02,羌人村莊,True
@@ -59,9 +59,9 @@ building_culture_variants_name_hv_subtown_wuhuan_02,東胡村莊,True
 building_culture_variants_name_hv_subtown_xiongnu_00,匈奴散戶,True
 building_culture_variants_name_hv_subtown_xiongnu_01,匈奴聚落,True
 building_culture_variants_name_hv_subtown_xiongnu_02,匈奴村莊,True
-building_culture_variants_name_hv_subtown_yellow_turban_synad_01,黃巾旅站,False
-building_culture_variants_name_hv_subtown_yellow_turban_synad_02,黃巾朝堂,False
-building_culture_variants_name_hv_subtown_yellow_turban_synad_03,黃巾教殿,False
+building_culture_variants_name_hv_subtown_yellow_turban_synad_01,太平小廟,False
+building_culture_variants_name_hv_subtown_yellow_turban_synad_02,太平朝堂,False
+building_culture_variants_name_hv_subtown_yellow_turban_synad_03,太平聖殿,False
 building_description_texts_long_description_hv_subtown_confucius_01,長描述,True
 building_description_texts_long_description_hv_subtown_danyang_01,長描述,True
 building_description_texts_long_description_hv_subtown_danyang_02,長描述,True
@@ -117,12 +117,12 @@ building_short_description_texts_short_description_hv_subtown_xiongnu_02,短描�
 building_short_description_texts_short_description_hv_subtown_yellow_turban_synad_01,短描述,False
 building_short_description_texts_short_description_hv_subtown_yellow_turban_synad_02,短描述,False
 building_short_description_texts_short_description_hv_subtown_yellow_turban_synad_03,短描述,False
-building_ui_groups_onscreen_name_hv_ui_building_group_nanman,南蠻填地開發,False
+building_ui_groups_onscreen_name_hv_ui_building_group_nanman,南蠻填地序列,False
 building_ui_groups_onscreen_name_hv_ui_building_group_qiang,遊牧民族序列,True
 building_ui_groups_onscreen_name_hv_ui_building_group_shanyue,宗布,True
 building_ui_groups_onscreen_name_hv_ui_building_group_subtown_bandit,劫盜,True
 building_ui_groups_onscreen_name_hv_ui_building_group_subtown_confucius,孔子學院,True
-building_ui_groups_onscreen_name_hv_ui_building_group_subtown_han,填地開發,True
+building_ui_groups_onscreen_name_hv_ui_building_group_subtown_han,填地開發序列,True
 building_ui_groups_onscreen_name_hv_ui_building_group_wuhuan,遊牧民族序列,True
 building_ui_groups_onscreen_name_hv_ui_building_group_xiongnu,遊牧民族序列,True
 campaign_effect_scopes_localised_text_character_to_force_own_when_commanding,[[col:scope_description]]（指揮時自軍隊）[[/col]],True
@@ -386,7 +386,7 @@ cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_white_tiger
 cdir_events_dilemma_choice_details_localised_choice_title_mtu_dilemma_suggestion_of_rebel_sistersFIRST,得人錢財，與人消災，有錢能使鬼都推磨！,True
 cdir_events_dilemma_choice_details_localised_choice_title_mtu_dilemma_suggestion_of_rebel_sistersSECOND,你堅定的拒絕了與她們妥協。,True
 ceo_equipped_set_bonuses_description_3k_main_item_set_celestial_fury2,不義者天自罰之,True
-ceo_equipped_set_bonuses_description_3k_main_item_set_lord_of_fire,戰場即是您的舞臺。,False
+ceo_equipped_set_bonuses_description_3k_main_item_set_lord_of_fire,戰場即是你的舞臺。,False
 ceo_equipped_set_bonuses_description_3k_main_item_set_tacticians_design2,千百韜略盡見矣,True
 ceo_equipped_set_bonuses_description_3k_mtu_item_set_changshan_zhaozilong,「阿斗有命矣。」,True
 ceo_equipped_set_bonuses_description_3k_mtu_item_set_eight_principle_of_yong,似鳥頭燕尾，又似鳥頭鳳尾，橫豎筆畫絲絲露白，飛筆斷白，燥潤相宜，似枯筆做成。,True
@@ -633,10 +633,10 @@ ceo_nodes_title_hv_ceo_node_career_non_deployable_type_3,地主,True
 ceo_nodes_title_hv_ceo_node_career_non_deployable_type_4,縣丞,True
 ceo_nodes_title_hv_ceo_node_career_non_deployable_type_5,名士,True
 ceo_nodes_title_hv_ceo_node_career_non_deployable_type_6,主簿,True
-ceo_nodes_title_hv_ceo_node_faction_rank_unlock_advanced,勢力級別達到侯,False
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_advanced,伯或者太師,False
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_basic,伯爵,False
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_dan_yang,陶謙餘部,False
-ceo_nodes_title_hv_ceo_node_faction_rank_unlock_elite,勢力級別達到公,False
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_elite,公或者相國,False
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_legacy_lu_bu,呂布餘部,False
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_legacy_yuan_shu,袁術餘部,False
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_monk,佛教,False
@@ -903,7 +903,7 @@ character_skills_localised_description_hv_skill_ability_overwhelm_instinct,展�
 character_skills_localised_description_hv_skill_ability_overwhelm_resolve,展現出勢不可擋的憤怒。,True
 character_skills_localised_description_hv_skill_ability_poisioned_blade_resolve,箭矢本身倒不可怕，令人膽寒的是上頭沾染的黑毒膏。,True
 character_skills_localised_description_hv_skill_ability_preach,這樣的話語能強化心靈。,True
-character_skills_localised_description_hv_skill_ability_quickfire_expertise,此人不斷引弓放箭，越放越快，毫不留手。,True
+character_skills_localised_description_hv_skill_ability_quickfire_expertise,此弓手不斷引弓放箭，越放越快，毫不留手。,True
 character_skills_localised_description_hv_skill_ability_rage_of_lu_bu_instinct,呂布猛力一擊，徹底掃平周遭一眾敵軍。,True
 character_skills_localised_description_hv_skill_ability_rally_the_troops_cunning,此將召集兵士奮勇作戰，鼓勵他們作最後一搏。,False
 character_skills_localised_description_hv_skill_ability_reckless_strike_instinct,如果這一擊命中，戰鬥便會結束。如果沒有命中，那麼…戰鬥仍然可能結束。,True
@@ -1602,8 +1602,8 @@ character_skills_localised_name_hv_skill_ability_binding_fury_instinct,怒不可
 character_skills_localised_name_hv_skill_ability_binding_fury_resolve,怒不可抑,True
 character_skills_localised_name_hv_skill_ability_binding_fury_scholar,怒不可抑,True
 character_skills_localised_name_hv_skill_ability_blade_breaker_instinct,堅甲破刃,True
-character_skills_localised_name_hv_skill_ability_blade_mastery_expertise,舞爪,True
-character_skills_localised_name_hv_skill_ability_blade_mastery_resolve,舞爪,True
+character_skills_localised_name_hv_skill_ability_blade_mastery_expertise,劍術專精,True
+character_skills_localised_name_hv_skill_ability_blade_mastery_resolve,劍術專精,True
 character_skills_localised_name_hv_skill_ability_blazing_roar_instinct,燃燒之吼,True
 character_skills_localised_name_hv_skill_ability_blazing_saddles_instinct,炙熱馬鞍,True
 character_skills_localised_name_hv_skill_ability_bleed_expertise,險惡一擊,True
@@ -2438,7 +2438,7 @@ custom_battle_loadouts_name_hv_cb_loadout_liu_chong_02,陳王,False
 custom_battle_loadouts_name_hv_cb_loadout_liu_zhang_01,劉璋,False
 custom_battle_loadouts_name_hv_cb_loadout_liu_zhang_02,諸侯,False
 custom_battle_loadouts_name_hv_cb_loadout_lu_bu_01,呂布,False
-custom_battle_loadouts_name_hv_cb_loadout_lu_bu_02,無雙猛士,False
+custom_battle_loadouts_name_hv_cb_loadout_lu_bu_02,武藝無雙,False
 custom_battle_loadouts_name_hv_cb_loadout_lu_zheng_01,陸政,False
 custom_battle_loadouts_name_hv_cb_loadout_luo_jun_01,駱俊,False
 custom_battle_loadouts_name_hv_cb_loadout_ma_chao_01,馬超,False
@@ -3263,7 +3263,7 @@ effects_description_hv_effect_unlock_anti_cavalry,技能：反騎兵戰術,True
 effects_description_hv_effect_unlock_assemble,技能：集結,True
 effects_description_hv_effect_unlock_binding_fury,技能：怒不可抑,True
 effects_description_hv_effect_unlock_blade_breaker,技能：堅甲破刃,True
-effects_description_hv_effect_unlock_blade_mastery,技能：舞爪,True
+effects_description_hv_effect_unlock_blade_mastery,技能：劍術專精,True
 effects_description_hv_effect_unlock_blazing_roar,技能：燃燒之吼,True
 effects_description_hv_effect_unlock_blazing_saddles,技能：炙熱馬鞍,True
 effects_description_hv_effect_unlock_bleed,技能：險惡一擊,True
@@ -3629,12 +3629,12 @@ incidents_localised_description_hv_event_cao_cao_qingzhou,黃巾匪徒已被擊�
 incidents_localised_description_hv_event_coin_confuse_1,所有的經濟活動都因爲新幣的鑄造而受到阻礙。我們別無選擇，只能等待商人們適應新的標準。,False
 incidents_localised_description_hv_event_coin_confuse_2,由於新幣發行，買糧時出現問題。我們別無選擇，只能等到農民們適應新的標準。,False
 incidents_localised_description_hv_event_coin_confuse_3,由於新幣發行，分發軍餉時出現問題。我們別無選擇，只能等到士兵們適應新的標準。,False
-incidents_localised_description_hv_event_follower_officer,亂世出豪傑。新進的一名隨從可管理一隻特殊軍隊。,False
-incidents_localised_description_hv_event_follower_officer_white_horse,亂世出豪傑。新進的一名隨從可管理一隻特殊軍隊。,False
-incidents_localised_description_hv_event_follower_officer_white_horse_forced,亂世出豪傑。新進的一名隨從可管理一隻特殊軍隊。,False
-incidents_localised_description_hv_event_follower_officer_yuan,亂世出豪傑。新進的一名隨從可管理一隻特殊軍隊。,False
-incidents_localised_description_hv_event_follower_officer_yuan_1_forced,亂世出豪傑。新進的一名隨從可管理一隻特殊軍隊。,False
-incidents_localised_description_hv_event_follower_officer_yuan_2_forced,亂世出豪傑。新進的一名隨從可管理一隻特殊軍隊。,False
+incidents_localised_description_hv_event_follower_officer,亂世出豪傑。新進的一名隨從可使你執掌一隻特殊軍隊。,False
+incidents_localised_description_hv_event_follower_officer_white_horse,亂世出豪傑。新進的一名隨從可使你執掌一隻特殊軍隊。,False
+incidents_localised_description_hv_event_follower_officer_white_horse_forced,亂世出豪傑。新進的一名隨從可使你執掌一隻特殊軍隊。,False
+incidents_localised_description_hv_event_follower_officer_yuan,亂世出豪傑。新進的一名隨從可使你執掌一隻特殊軍隊。,False
+incidents_localised_description_hv_event_follower_officer_yuan_1_forced,亂世出豪傑。新進的一名隨從可使你執掌一隻特殊軍隊。,False
+incidents_localised_description_hv_event_follower_officer_yuan_2_forced,亂世出豪傑。新進的一名隨從可使你執掌一隻特殊軍隊。,False
 incidents_localised_description_hv_event_qiang_penalty,與漢人的文化衝突導致了羌人部落的失控。百姓不安，質疑你的治理，爭相離去。,True
 incidents_localised_description_hv_event_shanyue_penalty,與漢人的文化衝突導致了烏桓部落的失控。百姓不安，質疑你的治理，爭相離去。,True
 incidents_localised_description_hv_event_white_tiger_1,酣戰之後，您殺死了巨型白虎。然而出乎意料的是，其它老虎俯伏在您身前，好像屈服於您的力量！這些白虎似乎不是普通的野獸。 ,False
@@ -3642,7 +3642,7 @@ incidents_localised_description_hv_event_white_tiger_2,您放棄了狩獵，回�
 incidents_localised_description_hv_event_wuhuan_penalty,與漢人的文化衝突導致了烏桓部落的失控。百姓不安，質疑你的治理，爭相離去。,True
 incidents_localised_description_hv_event_xiongnu_penalty,與漢人的文化衝突導致了匈奴部落的失控。百姓不安，質疑你的治理，爭相離去。,True
 incidents_localised_description_hv_event_zhuge_liang_yuanrong,諸葛亮精心設計出一種新武器。這是一種能夠同時射出多枚箭矢的弩弓，可以壓制敵人。,True
-incidents_localised_description_hv_incident_cai_yan,信使來報，有商販在匈奴營中發現一位中土女眷，正是名士蔡邕之女蔡琰，已沦为匈奴左賢王女奴。匈奴王或許願意放了蔡琰，你的一個探子已經前去調查……,False
+incidents_localised_description_hv_incident_cai_yan,匈奴入侵，凡經過之處皆寸草不生。亂軍之中當代大儒蔡邕之女蔡文姬，被匈奴人俘走了。如不在下個季度之前交付贖金，蔡文姬將被左賢王帶回北方。,False
 incidents_localised_description_hv_incident_cai_yan_dlc05,"Your messengers report a remarkable story. A trader spotted a Han woman living amongst the Xiongnu and identified her as Cai Yan, the daughter of the grand scholar Cai Yong. It seems she was forced to marry a chieftain of the Xiongnu. Perhaps someone could convince this chieftain to free Cai Yan. One of your scouts has already left to investigate...",False
 incidents_localised_description_hv_incident_cai_yan_dlc07,"Your messengers report a remarkable story. A trader spotted a Han woman living amongst the Xiongnu and identified her as Cai Yan, the daughter of the grand scholar Cai Yong. It seems she was forced to marry a chieftain of the Xiongnu. Perhaps someone could convince this chieftain to free Cai Yan. One of your scouts has already left to investigate...",False
 incidents_localised_description_hv_incident_chunyu_qiong,曾比肩袁曹，現卻成日飲酒作樂，荒廢才能。不料淳于瓊在危難之際卻懸崖勒馬，重振其西園校尉之威。,False
@@ -3650,17 +3650,17 @@ incidents_localised_description_hv_incident_danyang_army,您獲得一張可指�
 incidents_localised_description_hv_incident_education,由於您對學者和人才的贊助，您的官員在修爲的道路上取得了進步。,False
 incidents_localised_description_hv_incident_ironfist_army,我們從附近游牧民族召集戰士，組成了一支强健騎兵。這些令人可畏的鐵甲騎兵將衝垮你的敵人。,False
 incidents_localised_description_hv_incident_jingchou_army,您獲得一張可指揮荊楚部隊的兵符。,False
-incidents_localised_description_hv_incident_sogd,自西域而來的粟特商人出現在我方境内。我們很快就能買到精美商品，或者雇傭粟特傭兵。,False
+incidents_localised_description_hv_incident_sogd,自西域而來的粟特商人出現在我方境內。隨之而來的不僅僅有異域商品，還有僱傭粟特傭兵的機會。,False
 incidents_localised_description_hv_incident_xiliang_army,一名西涼校尉加入您的勢力。,False
 incidents_localised_description_hv_incident_ytr_resurrection,"Once again the flames begin to burn. Now we are ready to destroy the Han dynasty. Our forces are strong, and the old comrades who had to live in hiding will also appear and respond to us. Let's make sure that Zhang Jue's unfulfilled dream come true.",True
 incidents_localised_description_hv_northern_army_unlocked_cao_cao_last,鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。,False
 incidents_localised_description_hv_northern_army_unlocked_cao_cao_mid,鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。,False
 incidents_localised_description_hv_northern_army_unlocked_dong_zhuo,鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。,False
-incidents_localised_description_hv_northern_army_unlocked_dong_zhuo_ai,領軍的校尉掌管北軍世兵，現已效忠于董卓。這是支不可小觑的部隊。,False
+incidents_localised_description_hv_northern_army_unlocked_dong_zhuo_ai,掌管北軍世兵的領軍校尉現已效忠于董卓。這是支不可小觑的部隊。,False
 incidents_localised_description_hv_northern_army_unlocked_dong_zhuo_last,鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。,False
 incidents_localised_description_hv_northern_army_unlocked_dong_zhuo_mid,鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。,False
 incidents_localised_description_hv_northern_army_unlocked_gongsun_zan,鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。,False
-incidents_localised_description_hv_northern_army_unlocked_gongsun_zan_ai,領軍的校尉掌管北軍世兵，現已效忠于公孫瓚。這是支不可小觑的部隊。,False
+incidents_localised_description_hv_northern_army_unlocked_gongsun_zan_ai,掌管北軍世兵的領軍校尉現已效忠于公孫瓚。這是支不可小觑的部隊。,False
 incidents_localised_description_hv_northern_army_unlocked_gongsun_zan_last,鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。,False
 incidents_localised_description_hv_northern_army_unlocked_gongsun_zan_mid,鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。,False
 incidents_localised_description_hv_northern_army_unlocked_liu_chong,鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。,False
@@ -3669,7 +3669,7 @@ incidents_localised_description_hv_northern_army_unlocked_liu_chong_mid,鑒於�
 incidents_localised_description_hv_northern_army_unlocked_yuan_shao_last,鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。,False
 incidents_localised_description_hv_northern_army_unlocked_yuan_shao_mid,鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。,False
 incidents_localised_description_hv_northern_army_unlocked_yuan_shu,鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。,False
-incidents_localised_description_hv_northern_army_unlocked_yuan_shu_ai,領軍的校尉掌管北軍世兵，現已效忠于袁術。這是支不可小觑的部隊。,False
+incidents_localised_description_hv_northern_army_unlocked_yuan_shu_ai,掌管北軍世兵的領軍校尉現已效忠于袁術。這是支不可小觑的部隊。,False
 incidents_localised_description_hv_northern_army_unlocked_yuan_shu_last,鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。,False
 incidents_localised_description_hv_northern_army_unlocked_yuan_shu_mid,鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。,False
 incidents_localised_description_mtu_historical_female_born_incident,喜報！宗族已喜得千金，此女將正式成爲主公宗親，但同儕兄弟的勾心鬥角，怕是在所難免…,False
@@ -4079,24 +4079,24 @@ land_units_onscreen_name_hv_unit_yuan_vanguards,{{tr:hv_unit_yuan_vanguards}},Tr
 land_units_onscreen_name_hv_unit_yue_freemen,{{tr:hv_unit_yue_freemen}},True
 land_units_onscreen_name_hv_unit_zhong_royal_guard,{{tr:hv_unit_zhong_royal_guard}},True
 missions_localised_description_hv_mission_cao_cao_gains_qingzhoubing,有黃巾軍侵入主公領地，須從速討敵。,True
-missions_localised_description_hv_mission_northern_cao_cao_01,在此動蕩之秋，要想出人頭地就只有靠刀劍！贏得戰鬥便能展示您的能力。,False
+missions_localised_description_hv_mission_northern_cao_cao_01,在此動蕩之秋，要想出人頭地就只有刀兵相見！贏得戰鬥便能向世人展現您的能力。,False
 missions_localised_description_hv_mission_northern_cao_cao_02,興師十萬，日费千金。國用不足則不能平亂。掌控舉國之財，而後昭示天下。,False
-missions_localised_description_hv_mission_northern_cao_cao_03,要稱霸就要有正統的名義。若能建造一座萬人敬仰的皇城，便可彰顯實力，天下人必當歸順。,False
-missions_localised_description_hv_mission_northern_dong_zhuo_01,在此動蕩之秋，要想出人頭地就只有靠刀劍！贏得戰鬥便能展示您的能力。,False
+missions_localised_description_hv_mission_northern_cao_cao_03,要稱霸一方就要有正統的名義。若能建造一座萬人敬仰的皇城，便可彰顯實力，天下人必當歸順。,False
+missions_localised_description_hv_mission_northern_dong_zhuo_01,在此動蕩之秋，要想出人頭地就只有刀兵相見！贏得戰鬥便能向世人展現您的能力。,False
 missions_localised_description_hv_mission_northern_dong_zhuo_02,興師十萬，日费千金。國用不足則不能平亂。掌控舉國之財，而後昭示天下。,False
-missions_localised_description_hv_mission_northern_dong_zhuo_03,要稱霸就要有正統的名義。若能建造一座萬人敬仰的皇城，便可彰顯實力，天下人必當歸順。,False
-missions_localised_description_hv_mission_northern_gongsun_zan_01,在此動蕩之秋，要想出人頭地就只有靠刀劍！贏得戰鬥便能展示您的能力。,False
+missions_localised_description_hv_mission_northern_dong_zhuo_03,要稱霸一方就要有正統的名義。若能建造一座萬人敬仰的皇城，便可彰顯實力，天下人必當歸順。,False
+missions_localised_description_hv_mission_northern_gongsun_zan_01,在此動蕩之秋，要想出人頭地就只有刀兵相見！贏得戰鬥便能向世人展現您的能力。,False
 missions_localised_description_hv_mission_northern_gongsun_zan_02,興師十萬，日费千金。國用不足則不能平亂。掌控舉國之財，而後昭示天下。,False
-missions_localised_description_hv_mission_northern_gongsun_zan_03,要稱霸就要有正統的名義。若能建造一座萬人敬仰的皇城，便可彰顯實力，天下人必當歸順。,False
-missions_localised_description_hv_mission_northern_liu_chong_01,在此動蕩之秋，要想出人頭地就只有靠刀劍！贏得戰鬥便能展示您的能力。,False
+missions_localised_description_hv_mission_northern_gongsun_zan_03,要稱霸一方就要有正統的名義。若能建造一座萬人敬仰的皇城，便可彰顯實力，天下人必當歸順。,False
+missions_localised_description_hv_mission_northern_liu_chong_01,在此動蕩之秋，要想出人頭地就只有刀兵相見！贏得戰鬥便能向世人展現您的能力。,False
 missions_localised_description_hv_mission_northern_liu_chong_02,興師十萬，日费千金。國用不足則不能平亂。掌控舉國之財，而後昭示天下。,False
-missions_localised_description_hv_mission_northern_liu_chong_03,要稱霸就要有正統的名義。若能建造一座萬人敬仰的皇城，便可彰顯實力，天下人必當歸順。,False
-missions_localised_description_hv_mission_northern_yuan_shao_01,在此動蕩之秋，要想出人頭地就只有靠刀劍！贏得戰鬥便能展示您的能力。,False
+missions_localised_description_hv_mission_northern_liu_chong_03,要稱霸一方就要有正統的名義。若能建造一座萬人敬仰的皇城，便可彰顯實力，天下人必當歸順。,False
+missions_localised_description_hv_mission_northern_yuan_shao_01,在此動蕩之秋，要想出人頭地就只有刀兵相見！贏得戰鬥便能向世人展現您的能力。,False
 missions_localised_description_hv_mission_northern_yuan_shao_02,興師十萬，日费千金。國用不足則不能平亂。掌控舉國之財，而後昭示天下。,False
-missions_localised_description_hv_mission_northern_yuan_shao_03,要稱霸就要有正統的名義。若能建造一座萬人敬仰的皇城，便可彰顯實力，天下人必當歸順。,False
-missions_localised_description_hv_mission_northern_yuan_shu_01,在此動蕩之秋，要想出人頭地就只有靠刀劍！贏得戰鬥便能展示您的能力。,False
+missions_localised_description_hv_mission_northern_yuan_shao_03,要稱霸一方就要有正統的名義。若能建造一座萬人敬仰的皇城，便可彰顯實力，天下人必當歸順。,False
+missions_localised_description_hv_mission_northern_yuan_shu_01,在此動蕩之秋，要想出人頭地就只有刀兵相見！贏得戰鬥便能向世人展現您的能力。,False
 missions_localised_description_hv_mission_northern_yuan_shu_02,興師十萬，日费千金。國用不足則不能平亂。掌控舉國之財，而後昭示天下。,False
-missions_localised_description_hv_mission_northern_yuan_shu_03,要稱霸就要有正統的名義。若能建造一座萬人敬仰的皇城，便可彰顯實力，天下人必當歸順。,False
+missions_localised_description_hv_mission_northern_yuan_shu_03,要稱霸一方就要有正統的名義。若能建造一座萬人敬仰的皇城，便可彰顯實力，天下人必當歸順。,False
 missions_localised_title_hv_mission_cao_cao_gains_qingzhoubing,黃巾軍,True
 missions_localised_title_hv_mission_northern_cao_cao_01,軍事才能,False
 missions_localised_title_hv_mission_northern_cao_cao_02,累積財富,False
@@ -4323,9 +4323,9 @@ special_ability_phases_onscreen_name_hv_ability_beihai_reload_1,冷靜裝填,Tru
 special_ability_phases_onscreen_name_hv_ability_beihai_reload_2,冷靜裝填,True
 special_ability_phases_onscreen_name_hv_ability_beihai_reload_3,冷靜裝填,True
 special_ability_phases_onscreen_name_hv_ability_black_mountain_brotherhood,手足,True
-special_ability_phases_onscreen_name_hv_ability_blade_mastery_1,舞爪,True
-special_ability_phases_onscreen_name_hv_ability_blade_mastery_2,舞爪,True
-special_ability_phases_onscreen_name_hv_ability_blade_mastery_3,舞爪,True
+special_ability_phases_onscreen_name_hv_ability_blade_mastery_1,劍術專精,True
+special_ability_phases_onscreen_name_hv_ability_blade_mastery_2,劍術專精,True
+special_ability_phases_onscreen_name_hv_ability_blade_mastery_3,劍術專精,True
 special_ability_phases_onscreen_name_hv_ability_bleed,險惡一擊,True
 special_ability_phases_onscreen_name_hv_ability_blood_thirst,嗜血成性,True
 special_ability_phases_onscreen_name_hv_ability_brawl,毆打,True
@@ -6003,7 +6003,7 @@ unit_abilities_onscreen_name_hv_ability_battle_trance,亂戰,True
 unit_abilities_onscreen_name_hv_ability_beihai_accuracy,精瞄,True
 unit_abilities_onscreen_name_hv_ability_beihai_reload,冷靜裝填,True
 unit_abilities_onscreen_name_hv_ability_black_mountain_brotherhood,手足,True
-unit_abilities_onscreen_name_hv_ability_blade_mastery,舞爪,True
+unit_abilities_onscreen_name_hv_ability_blade_mastery,劍術專精,True
 unit_abilities_onscreen_name_hv_ability_bleed,險惡一擊,True
 unit_abilities_onscreen_name_hv_ability_blood_thirst,嗜血成性,True
 unit_abilities_onscreen_name_hv_ability_brawl,毆打,True
@@ -6246,7 +6246,7 @@ unit_abilities_tooltip_text_3k_main_ability_prevent_assassination2,遭擾攘之�
 unit_abilities_tooltip_text_3k_main_ability_provocation,你難道想在沙場上於劉關張相會？,True
 unit_abilities_tooltip_text_3k_main_ability_pursuit,獵人獵物，甕中捉鱉。,True
 unit_abilities_tooltip_text_3k_main_ability_quick_preparation,陸政使用長弓手到擒來，總能先人一步拉弓搭箭。,True
-unit_abilities_tooltip_text_3k_main_ability_quickfire,此人不斷引弓放箭，越放越快，毫不留手。,True
+unit_abilities_tooltip_text_3k_main_ability_quickfire,此弓手不斷引弓放箭，越放越快，毫不留手。,True
 unit_abilities_tooltip_text_3k_main_ability_rage_of_lu_ji,愈戰愈勇，佛擋殺佛。,True
 unit_abilities_tooltip_text_3k_main_ability_reckless_warrior,奮不顧身，得失難記。,True
 unit_abilities_tooltip_text_3k_main_ability_shadow_of_the_black_mountain,傳黑山有一女，能如遁跡匿影，來去自如。,False
@@ -6563,7 +6563,7 @@ unit_ability_types_localised_description_hv_ability_battle_trance,亂戰,True
 unit_ability_types_localised_description_hv_ability_beihai_accuracy,精瞄,True
 unit_ability_types_localised_description_hv_ability_beihai_reload,冷靜裝填,True
 unit_ability_types_localised_description_hv_ability_black_mountain_brotherhood,手足,True
-unit_ability_types_localised_description_hv_ability_blade_mastery,舞爪,True
+unit_ability_types_localised_description_hv_ability_blade_mastery,劍術專精,True
 unit_ability_types_localised_description_hv_ability_bleed,險惡一擊,True
 unit_ability_types_localised_description_hv_ability_blood_thirst,嗜血成性,True
 unit_ability_types_localised_description_hv_ability_brawl,毆打,True
@@ -7349,8 +7349,8 @@ unit_description_short_texts_text_hv_unit_jianan_crossbowmen_cavalry,未完成,T
 unit_description_short_texts_text_hv_unit_jianan_hand_ji_infantry,未完成,True
 unit_description_short_texts_text_hv_unit_jianan_rep_crossbowmen,未完成,True
 unit_description_short_texts_text_hv_unit_jingchou_buqu_2h_axemen,這些人所揮的大斧是楚國的榮耀，即使是持盾的敵人亦命不久矣。,True
-unit_description_short_texts_text_hv_unit_jingchou_buqu_2h_spearmen,這些楚國的矛兵與山丘一樣堅韌，對任何一個軍閥來說都是一筆財富。 ,True
-unit_description_short_texts_text_hv_unit_jingchou_buqu_archers,荊楚弓手早已領悟到了弓箭在丘陵地帶的優勢。 ,True
+unit_description_short_texts_text_hv_unit_jingchou_buqu_2h_spearmen,荊楚矛兵的忠勇對任何軍閥來說都是一筆巨大的財產。,True
+unit_description_short_texts_text_hv_unit_jingchou_buqu_archers,在崎嶇的荊楚山丘中，荊州弓手的箭雨堪比天降死神。,True
 unit_description_short_texts_text_hv_unit_jingchou_buqu_caltrop_infantry,在荊楚的山中，粗心的人可能會被一把蒺藜絆倒，然後被放它的人殺死。,True
 unit_description_short_texts_text_hv_unit_juggernaut,未完成,True
 unit_description_short_texts_text_hv_unit_local_noble_buqu_archers,未完成,True
@@ -7367,7 +7367,7 @@ unit_description_short_texts_text_hv_unit_militia_archers,未完成,True
 unit_description_short_texts_text_hv_unit_militia_black_mountain_outlaws,惡狼齊聚，黑山匪幫已經準備好去打下屬於自己的江山了。,True
 unit_description_short_texts_text_hv_unit_militia_ji_infantry,未完成,True
 unit_description_short_texts_text_hv_unit_militia_sabre_infantry,未完成,True
-unit_description_short_texts_text_hv_unit_militia_scout_cavalry,長久保衛家園之後，即使是民兵也可能成長為職業士兵的對手。,True
+unit_description_short_texts_text_hv_unit_militia_scout_cavalry,民兵在百戰後其技藝已經可以匹敵朝廷士兵。,True
 unit_description_short_texts_text_hv_unit_militia_taishan_outlaws,狼牙棒在手，江山我有！,True
 unit_description_short_texts_text_hv_unit_militia_white_tiger_outlaws,在江東山林中，藏匿着與大漢不共戴天的亡命之徒。,True
 unit_description_short_texts_text_hv_unit_multiple_bolt_crossbow,未完成,True
@@ -7429,7 +7429,7 @@ unit_description_short_texts_text_hv_unit_xiliang_elite_2h_swordsmen,就算在�
 unit_description_short_texts_text_hv_unit_xiliang_elite_barded_2h_spear_cavalry,作爲西涼軍的驕傲，這些重甲騎兵將教導他們的敵人“精銳騎兵”的含義。 ,True
 unit_description_short_texts_text_hv_unit_xiliang_elite_crossbowmen,即使在沙塵中，他們也總能準確命中。,True
 unit_description_short_texts_text_hv_unit_xiliang_elite_enforcers,佩戴劍弓，這些硬朗的士兵執行他們主公的意志。,True
-unit_description_short_texts_text_hv_unit_xiliang_elite_spearmen,這些精銳矛兵是百經錘煉的西涼戰士，會堅守陣地對抗所有來敵。 ,True
+unit_description_short_texts_text_hv_unit_xiliang_elite_spearmen,這些精銳矛兵是百經錘煉的西涼戰士，會堅守陣地對抗所有來敵。,True
 unit_description_short_texts_text_hv_unit_xiongnu_archer_cavalry,未完成,True
 unit_description_short_texts_text_hv_unit_xiongnu_barded_cavalry,未完成,True
 unit_description_short_texts_text_hv_unit_xiongnu_javelineer,未完成,True

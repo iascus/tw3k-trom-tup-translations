@@ -5,25 +5,25 @@ building_chains_chain_tooltip_hv_subtown_danyang	丹阳部队据点	true
 building_chains_chain_tooltip_hv_subtown_garrison	地方巡卫军序列	true
 building_chains_chain_tooltip_hv_subtown_garrison_sun_jian	[[col:flavour]]地方豪强庄园[[/col]]	true
 building_chains_chain_tooltip_hv_subtown_han_small_farm	补给管理	true
-building_chains_chain_tooltip_hv_subtown_nanman	狩猎区	true
-building_chains_chain_tooltip_hv_subtown_nanman_outpost	南蛮交易所	true
+building_chains_chain_tooltip_hv_subtown_nanman	狩猎区序列	true
+building_chains_chain_tooltip_hv_subtown_nanman_outpost	南蛮市肆	true
 building_chains_chain_tooltip_hv_subtown_qiang	羌人部落序列	true
 building_chains_chain_tooltip_hv_subtown_shanyue	山越部落序列	true
 building_chains_chain_tooltip_hv_subtown_wuhuan	东胡部落序列	true
 building_chains_chain_tooltip_hv_subtown_xiongnu	匈奴部落序列	true
-building_chains_chain_tooltip_hv_subtown_ytr	黄巾教派	false
+building_chains_chain_tooltip_hv_subtown_ytr	太平道序列	false
 building_chains_encyclopedia_name_hv_subtown_confucius	孔子学院	true
 building_chains_encyclopedia_name_hv_subtown_danyang	丹阳部队据点	true
 building_chains_encyclopedia_name_hv_subtown_garrison	地方巡卫军序列	true
 building_chains_encyclopedia_name_hv_subtown_garrison_sun_jian	地方豪强庄园	true
 building_chains_encyclopedia_name_hv_subtown_han_small_farm	补给管理	true
-building_chains_encyclopedia_name_hv_subtown_nanman	狩猎区	true
-building_chains_encyclopedia_name_hv_subtown_nanman_outpost	南蛮交易所	true
+building_chains_encyclopedia_name_hv_subtown_nanman	狩猎区序列	true
+building_chains_encyclopedia_name_hv_subtown_nanman_outpost	南蛮市肆	true
 building_chains_encyclopedia_name_hv_subtown_qiang	羌人部落序列	true
 building_chains_encyclopedia_name_hv_subtown_shanyue	山越部落序列	true
 building_chains_encyclopedia_name_hv_subtown_wuhuan	东胡部落序列	true
 building_chains_encyclopedia_name_hv_subtown_xiongnu	匈奴部落序列	true
-building_chains_encyclopedia_name_hv_subtown_ytr	黄巾教派	false
+building_chains_encyclopedia_name_hv_subtown_ytr	太平道序列	false
 building_chains_override_description_hv_subtown_confucius	贤师高徒汇聚之所。	true
 building_chains_override_description_hv_subtown_danyang	丹阳人以奋勇著称。陶谦整备军队，训练有素。	true
 building_chains_override_description_hv_subtown_garrison	巡守卫队在此地域巡逻，骚扰敌军。	true
@@ -43,8 +43,8 @@ building_culture_variants_name_hv_subtown_garrison_01	重门军哨站	true
 building_culture_variants_name_hv_subtown_garrison_02	重门军营地	true
 building_culture_variants_name_hv_subtown_garrison_sun_jian_01	士族庭院	true
 building_culture_variants_name_hv_subtown_garrison_sun_jian_02	士族田庄	true
-building_culture_variants_name_hv_subtown_nanman_outpost_01	南蛮交易所	true
-building_culture_variants_name_hv_subtown_nanman_shikar_01	狩猎区	true
+building_culture_variants_name_hv_subtown_nanman_outpost_01	南蛮市肆	true
+building_culture_variants_name_hv_subtown_nanman_shikar_01	狩猎区序列	true
 building_culture_variants_name_hv_subtown_qiang_00	羌人散户	true
 building_culture_variants_name_hv_subtown_qiang_01	羌人聚落	true
 building_culture_variants_name_hv_subtown_qiang_02	羌人村庄	true
@@ -60,9 +60,9 @@ building_culture_variants_name_hv_subtown_wuhuan_02	东胡村庄	true
 building_culture_variants_name_hv_subtown_xiongnu_00	匈奴散户	true
 building_culture_variants_name_hv_subtown_xiongnu_01	匈奴聚落	true
 building_culture_variants_name_hv_subtown_xiongnu_02	匈奴村庄	true
-building_culture_variants_name_hv_subtown_yellow_turban_synad_01	黄巾旅站	false
-building_culture_variants_name_hv_subtown_yellow_turban_synad_02	黄巾朝堂	false
-building_culture_variants_name_hv_subtown_yellow_turban_synad_03	黄巾教殿	false
+building_culture_variants_name_hv_subtown_yellow_turban_synad_01	太平小庙	false
+building_culture_variants_name_hv_subtown_yellow_turban_synad_02	太平朝堂	false
+building_culture_variants_name_hv_subtown_yellow_turban_synad_03	太平圣殿	false
 building_description_texts_long_description_hv_subtown_confucius_01	长描述	true
 building_description_texts_long_description_hv_subtown_danyang_01	长描述	true
 building_description_texts_long_description_hv_subtown_danyang_02	长描述	true
@@ -118,12 +118,12 @@ building_short_description_texts_short_description_hv_subtown_xiongnu_02	短描�
 building_short_description_texts_short_description_hv_subtown_yellow_turban_synad_01	短描述	false
 building_short_description_texts_short_description_hv_subtown_yellow_turban_synad_02	短描述	false
 building_short_description_texts_short_description_hv_subtown_yellow_turban_synad_03	短描述	false
-building_ui_groups_onscreen_name_hv_ui_building_group_nanman	南蛮填地开发	false
+building_ui_groups_onscreen_name_hv_ui_building_group_nanman	南蛮填地序列	false
 building_ui_groups_onscreen_name_hv_ui_building_group_qiang	游牧民族序列	true
 building_ui_groups_onscreen_name_hv_ui_building_group_shanyue	宗布	true
 building_ui_groups_onscreen_name_hv_ui_building_group_subtown_bandit	匪患	true
 building_ui_groups_onscreen_name_hv_ui_building_group_subtown_confucius	孔子学院	true
-building_ui_groups_onscreen_name_hv_ui_building_group_subtown_han	填地开发	true
+building_ui_groups_onscreen_name_hv_ui_building_group_subtown_han	填地开发序列	true
 building_ui_groups_onscreen_name_hv_ui_building_group_wuhuan	游牧民族序列	true
 building_ui_groups_onscreen_name_hv_ui_building_group_xiongnu	游牧民族序列	true
 campaign_effect_scopes_localised_text_character_to_force_own_when_commanding	[[col:scope_description]]（指挥时自军队）[[/col]]	true
@@ -140,28 +140,28 @@ campaign_localised_strings_string_3k_dlc07_captains_armoury_whitewater_title	一
 campaign_localised_strings_string_3k_dlc07_tutorial_mode_imperial_hud_description	选择此项将打开朝廷权谋面板，该面板统管着公元195年献帝加元服后开启的所有机制，代表着皇权所面临的政治角力。	false
 campaign_localised_strings_string_dlc07_imperial_intrigue_panel_invalid_self_target	不能指向自己。	false
 campaign_localised_strings_string_military_force_morale_effect_bonus_value_animosity	拥堵	false
-campaign_localised_strings_string_unit_locked_ceo	您没有所需的：%S。	false
+campaign_localised_strings_string_unit_locked_ceo	你没有所需的：%S。	false
 campaign_payload_ui_details_description_3k_dlc_07_child_emperor_banquet_dilemma_text	结果不明	false
 campaign_payload_ui_details_description_3k_dlc_07_child_emperor_rites_dilemma_text	结果不明	false
 campaign_payload_ui_details_description_dummy_hv_cao_cao_qingzhoubing	或许可以招揽……	true
-campaign_payload_ui_details_description_dummy_hv_mission_northern_mission	一个北军兵团会加入您的派系。	false
+campaign_payload_ui_details_description_dummy_hv_mission_northern_mission	一个北军兵团会加入你的派系。	false
 campaign_payload_ui_details_description_dummy_mtu_lady_trieu_historic	赵妪将遵循历史自成一派	false
 campaign_payload_ui_details_description_dummy_mtu_lady_trieu_rumor	赵妪将现身于一个南方国度	false
 campaign_payload_ui_details_description_dummy_mtu_lu_bu_interpose	吕布介入了袁术与刘备的争斗之中，并尝试促使双方讲和。	true
 campaign_payload_ui_details_description_hv_dilemma_dongbai	人物加入：董白	false
 campaign_payload_ui_details_description_hv_dilemma_kill_dong_bai	董卓全族已被诛灭	false
-campaign_payload_ui_details_description_hv_dilemma_lu_bu_legacy	吕布之兵将追随于您。	false
-campaign_payload_ui_details_description_hv_dilemma_northern_army_intro	完成任务可以增强您的势力！	false
-campaign_payload_ui_details_description_hv_dilemma_yuan_shu_legacy	袁术之兵将追随于您。	false
+campaign_payload_ui_details_description_hv_dilemma_lu_bu_legacy	吕布之兵将追随于你。	false
+campaign_payload_ui_details_description_hv_dilemma_northern_army_intro	完成任务可以增强你的派系！	false
+campaign_payload_ui_details_description_hv_dilemma_yuan_shu_legacy	袁术之兵将追随于你。	false
 campaign_payload_ui_details_description_hv_event_budda_unlock	您现在可以招募：{{tr:hv_unit_warrior_monks}}	false
-campaign_payload_ui_details_description_hv_event_cao_cao_qingzhou	您现在可以招募：{{tr:hv_unit_qingzhou_hand_ji_infantry}}，{{tr:hv_unit_qingzhou_2h_axe_infantry}}，{{tr:hv_unit_qingzhou_raider_cavalry}}。	true
+campaign_payload_ui_details_description_hv_event_cao_cao_qingzhou	你现在可以招募：{{tr:hv_unit_qingzhou_hand_ji_infantry}}，{{tr:hv_unit_qingzhou_2h_axe_infantry}}，{{tr:hv_unit_qingzhou_raider_cavalry}}。	true
 campaign_payload_ui_details_description_hv_event_tiger_hunt_white_tiger_cap	可招募的{{tr:hv_unit_white_tiger_warriors}}：+1	false
 campaign_payload_ui_details_description_hv_event_tiger_hunt_white_tiger_unlock	您现在可以招募：{{tr:hv_unit_white_tiger_warriors}}	false
 campaign_payload_ui_details_description_hv_event_tiger_tracking	寻觅怪兽……	false
 campaign_payload_ui_details_description_hv_event_white_tiger	严白虎现可招募{{tr:hv_unit_white_tiger_warriors}}。	true
 campaign_payload_ui_details_description_hv_event_zhuge_liang_yuanrong	您现在可以招募：{{tr:hv_unit_yuan_rong_crossbowmen}}。	true
 campaign_payload_ui_details_description_hv_incident_danyang_army	您现在可以招募：丹阳部队	false
-campaign_payload_ui_details_description_hv_incident_education	您的一些官员获得额外经验。	false
+campaign_payload_ui_details_description_hv_incident_education	你的一些官员获得额外经验。	false
 campaign_payload_ui_details_description_hv_incident_ironfist_army	您现在可以招募：铁拳骑兵	false
 campaign_payload_ui_details_description_hv_incident_jingchou_army	您现在可以招募：荆楚部队	false
 campaign_payload_ui_details_description_hv_incident_xiliang_army	您现在可以招募：西凉部队	false
@@ -271,7 +271,7 @@ cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_ji_ling_zha
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_ji_ling_zhang_xun_dlc07SECOND	拒绝	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_lu_ji_dlc07FIRST	接受	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_lu_ji_dlc07SECOND	拒绝	false
-cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_northern_army_introFIRST	您需要提高您的声望！	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_northern_army_introFIRST	你需要提高你的声望！	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_sogdFIRST	雇佣粟特佣兵	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_sogdFOURTH	买剑	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_sogdSECOND	买马	false
@@ -375,10 +375,10 @@ cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_ji_ling_zha
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_ji_ling_zhang_xun_dlc07SECOND	莫要引禍上身。	false
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_lu_ji_dlc07FIRST	收纳他们加入旗下。	false
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_lu_ji_dlc07SECOND	莫要引禍上身。	false
-cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_northern_army_introFIRST	完成这些任务，北军校尉就会为您效力。	false
-cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_sogdFIRST	您雇佣了一队粟特佣兵。	false
-cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_sogdFOURTH	您被一柄怪剑吸引住了。	false
-cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_sogdSECOND	您被一匹好马吸引住了。	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_northern_army_introFIRST	完成这些任务，北军伯长就会为你效力。	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_sogdFIRST	你雇佣了一队粟特佣兵。	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_sogdFOURTH	你被一柄怪剑吸引住了。	false
+cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_sogdSECOND	你被一匹好马吸引住了。	false
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_sogdTHIRD	你决定不买他们的货品。	false
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_white_tiger_01FIRST	难以置信，但不妨亲自调查一番。	false
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_white_tiger_01SECOND	无稽之谈。	false
@@ -387,7 +387,7 @@ cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_white_tiger
 cdir_events_dilemma_choice_details_localised_choice_title_mtu_dilemma_suggestion_of_rebel_sistersFIRST	得人钱财，与人消灾，有钱能使鬼都推磨！	true
 cdir_events_dilemma_choice_details_localised_choice_title_mtu_dilemma_suggestion_of_rebel_sistersSECOND	你坚定的拒绝了与她们妥协。	true
 ceo_equipped_set_bonuses_description_3k_main_item_set_celestial_fury2	不义者天自罚之	true
-ceo_equipped_set_bonuses_description_3k_main_item_set_lord_of_fire	战场即是您的舞台。	false
+ceo_equipped_set_bonuses_description_3k_main_item_set_lord_of_fire	战场即是你的舞台。	false
 ceo_equipped_set_bonuses_description_3k_main_item_set_tacticians_design2	千百韬略尽见矣	true
 ceo_equipped_set_bonuses_description_3k_mtu_item_set_changshan_zhaozilong	「阿斗有命矣。」	true
 ceo_equipped_set_bonuses_description_3k_mtu_item_set_eight_principle_of_yong	似鸟头燕尾，又似鸟头凤尾，横竖笔画丝丝露白，飞笔断白，燥润相宜，似枯笔做成。	true
@@ -401,8 +401,8 @@ ceo_equipped_set_bonuses_title_3k_mtu_item_set_eight_principle_of_yong	飞白书
 ceo_equipped_set_bonuses_title_3k_mtu_item_set_invincible	虎威	true
 ceo_equipped_set_bonuses_title_3k_mtu_item_set_sorrow_and_anger	怀古伤今	true
 ceo_nodes_description_3k_dlc04_ceo_node_career_historical_lady_cai_yan_wenji_01	「婉娩淑女，与士并列。至柔动刚，彤管炜节。」	false
-ceo_nodes_description_3k_dlc05_ancillary_title_blood_dragon_01	赢得一场您的一名将领亲自杀敌三百人的战斗	false
-ceo_nodes_description_3k_dlc05_ancillary_title_blood_dragon_locked_00	赢得一场您的一名将领亲自杀敌三百人的战斗	false
+ceo_nodes_description_3k_dlc05_ancillary_title_blood_dragon_01	赢得一场你的一名将领亲自杀敌三百人的战斗	false
+ceo_nodes_description_3k_dlc05_ancillary_title_blood_dragon_locked_00	赢得一场你的一名将领亲自杀敌三百人的战斗	false
 ceo_nodes_description_3k_dlc07_ancillary_weapon_emperor_xian_weapon_unique	一柄精美绝伦的宝剑，错以黄金，饰以鲛皮，与皇室之尊位相称。	false
 ceo_nodes_description_3k_main_ancillary_lady_diao_chans_armour_unique	此甲轻重得当，宽紧合身，非名将不可披戴。	true
 ceo_nodes_description_3k_main_ceo_node_career_historical_lady_diao_chan_01	貂蝉之美足以覆国。	false
@@ -498,7 +498,7 @@ ceo_nodes_description_hv_ancillary_accessory_lu_bu_legacy_military_talisman	此�
 ceo_nodes_description_hv_ancillary_accessory_yuan_shu_legacy_military_talisman	此令牌可指挥隐蛇兵与虎捷军。	false
 ceo_nodes_description_hv_ancillary_danyang_officer	指挥丹阳部队的士官。	true
 ceo_nodes_description_hv_ancillary_follower_sogd_army_captain	指挥粟特部队的士官。	true
-ceo_nodes_description_hv_ancillary_follower_xiliang_army_captain	西凉军为您效命！每一位校尉都忠于自己所属之人，誓死不离其侧！	true
+ceo_nodes_description_hv_ancillary_follower_xiliang_army_captain	西凉军为你效命！每一位伯长都忠于自己所属之人，誓死不离其侧！	true
 ceo_nodes_description_hv_ancillary_liu_limin_huilans_armour_unique	这身华服适合那些无需在疆场厮杀的人。	true
 ceo_nodes_description_hv_ancillary_sogd_officer	指挥粟特部队的士官。	true
 ceo_nodes_description_hv_ancillary_weapon_khanda	西域而来的神秘宝剑。	true
@@ -618,7 +618,7 @@ ceo_nodes_title_hv_ancillary_accessory_lu_bu_legacy_military_talisman	捕掾队�
 ceo_nodes_title_hv_ancillary_accessory_yuan_shu_legacy_military_talisman	隐蛇兵与虎捷军虎符	false
 ceo_nodes_title_hv_ancillary_danyang_officer	丹阳部队士官	true
 ceo_nodes_title_hv_ancillary_follower_sogd_army_captain	粟特士官	true
-ceo_nodes_title_hv_ancillary_follower_xiliang_army_captain	西凉军校尉	true
+ceo_nodes_title_hv_ancillary_follower_xiliang_army_captain	西凉军伯长	true
 ceo_nodes_title_hv_ancillary_liu_limin_huilans_armour_unique	刘氏的长袍	true
 ceo_nodes_title_hv_ancillary_sogd_officer	粟特士官	true
 ceo_nodes_title_hv_ancillary_weapon_khanda	坎达直剑	true
@@ -634,10 +634,10 @@ ceo_nodes_title_hv_ceo_node_career_non_deployable_type_3	地主	true
 ceo_nodes_title_hv_ceo_node_career_non_deployable_type_4	县丞	true
 ceo_nodes_title_hv_ceo_node_career_non_deployable_type_5	名士	true
 ceo_nodes_title_hv_ceo_node_career_non_deployable_type_6	主簿	true
-ceo_nodes_title_hv_ceo_node_faction_rank_unlock_advanced	派系级别达到侯	false
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_advanced	伯或者太师	false
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_basic	伯	false
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_dan_yang	陶谦余部	false
-ceo_nodes_title_hv_ceo_node_faction_rank_unlock_elite	派系级别达到公	false
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_elite	公或者相国	false
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_legacy_lu_bu	吕布余部	false
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_legacy_yuan_shu	袁术余部	false
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_monk	佛教	false
@@ -732,7 +732,7 @@ character_skills_localised_description_3k_main_skill_special_ability_wood_unwed_
 character_skills_localised_description_3k_main_skill_special_ability_wood_victory_or_death	庞德冲锋时不顾自身死活，总是捷足先登。	true
 character_skills_localised_description_3k_main_skill_special_ability_wood_youthful_vigor	关兴对他的手下也从不手下留情，这令他的部曲令人生畏。	true
 character_skills_localised_description_hv_historical_skill_ability_earth_01	冲突无法避免。	true
-character_skills_localised_description_hv_historical_skill_ability_earth_02	凭地利，如披坚甲，箭若无物	true
+character_skills_localised_description_hv_historical_skill_ability_earth_02	凭地利，如披坚甲，箭若无物。	true
 character_skills_localised_description_hv_historical_skill_ability_earth_03	军士聚于此英雄之旗下。	true
 character_skills_localised_description_hv_historical_skill_ability_fire_01	坚定之心，锋利宝刃，足以撕破敌阵	true
 character_skills_localised_description_hv_historical_skill_ability_fire_02	凤怒炎涛，摧枯拉朽！	true
@@ -744,7 +744,7 @@ character_skills_localised_description_hv_historical_skill_ability_metal_01	同�
 character_skills_localised_description_hv_historical_skill_ability_metal_02	此人行动迅如狡兔，万军擒拿亦若无物。	true
 character_skills_localised_description_hv_historical_skill_ability_metal_03	森林为懂得尊重的人提供了通行路径和更稳固的立足之地。	true
 character_skills_localised_description_hv_historical_skill_ability_scholar_01	上观则为天，深察则为妙	true
-character_skills_localised_description_hv_historical_skill_ability_scholar_02	凭地利，如披坚甲，箭若无物	true
+character_skills_localised_description_hv_historical_skill_ability_scholar_02	凭地利，如披坚甲，箭若无物。	true
 character_skills_localised_description_hv_historical_skill_ability_scholar_03	精妙一击，宁缺毋滥	true
 character_skills_localised_description_hv_historical_skill_ability_veteran_01	森林为懂得尊重的人提供了通行路径和更稳固的立足之地。	true
 character_skills_localised_description_hv_historical_skill_ability_veteran_02	劳于地者必亲之	true
@@ -904,9 +904,9 @@ character_skills_localised_description_hv_skill_ability_overwhelm_instinct	展�
 character_skills_localised_description_hv_skill_ability_overwhelm_resolve	展现出势不可挡的愤怒。	true
 character_skills_localised_description_hv_skill_ability_poisioned_blade_resolve	敌非惧锋利，乃是怕毒厉	true
 character_skills_localised_description_hv_skill_ability_preach	斯言聚神	true
-character_skills_localised_description_hv_skill_ability_quickfire_expertise	此人一箭紧接一箭，一箭快过一箭。	true
+character_skills_localised_description_hv_skill_ability_quickfire_expertise	此弓手一箭紧接一箭，一箭快过一箭。	true
 character_skills_localised_description_hv_skill_ability_rage_of_lu_bu_instinct	画戟猛烈地横扫，打击吕布周围的所有敌人	true
-character_skills_localised_description_hv_skill_ability_rally_the_troops_cunning	此将召集兵士奋勇作战，鼓励他们作最后一搏。	false
+character_skills_localised_description_hv_skill_ability_rally_the_troops_cunning	此将集结军队，激励众将士发起最后的冲锋，建不世之功业。	false
 character_skills_localised_description_hv_skill_ability_reckless_strike_instinct	此乃绝死一击，若中，则战局可定；若不中……亦可定。	true
 character_skills_localised_description_hv_skill_ability_reckless_strike_resolve	此乃绝死一击，若中，则战局可定；若不中……亦可定。	true
 character_skills_localised_description_hv_skill_ability_reign_of_terror_instinct	暴君震怒，属下瑟瑟发抖	true
@@ -928,8 +928,8 @@ character_skills_localised_description_hv_skill_ability_smouldering_fury_instinc
 character_skills_localised_description_hv_skill_ability_sparrow_resolve	飞燕之快，无人能及。	true
 character_skills_localised_description_hv_skill_ability_stalwart_defender_expertise	此人真乃守御惊世之才，敌众猛攻视若无物！	true
 character_skills_localised_description_hv_skill_ability_stalwart_defender_resolve	此人真乃守御惊世之才，敌众猛攻视若无物！	true
-character_skills_localised_description_hv_skill_ability_stone_bulwark_authority	凭地利，如披坚甲，箭若无物	true
-character_skills_localised_description_hv_skill_ability_stone_bulwark_cunning	凭地利，如披坚甲，箭若无物	true
+character_skills_localised_description_hv_skill_ability_stone_bulwark_authority	凭地利，如披坚甲，箭若无物。	true
+character_skills_localised_description_hv_skill_ability_stone_bulwark_cunning	凭地利，如披坚甲，箭若无物。	true
 character_skills_localised_description_hv_skill_ability_storm_of_swords_authority	冲突无法避免。	true
 character_skills_localised_description_hv_skill_ability_storm_of_swords_expertise	冲突无法避免。	true
 character_skills_localised_description_hv_skill_ability_storm_of_swords_instinct	冲突无法避免。	true
@@ -1560,7 +1560,7 @@ character_skills_localised_name_3k_main_skill_special_ability_wood_unexpected_st
 character_skills_localised_name_3k_main_skill_special_ability_wood_unwed_warrior	处子	true
 character_skills_localised_name_3k_main_skill_special_ability_wood_victory_or_death	破甑	true
 character_skills_localised_name_3k_main_skill_special_ability_wood_youthful_vigor	稚虎	true
-character_skills_localised_name_hv_historical_skill_ability_earth_01	舞爪	true
+character_skills_localised_name_hv_historical_skill_ability_earth_01	剑刃风暴	true
 character_skills_localised_name_hv_historical_skill_ability_earth_02	磐石	true
 character_skills_localised_name_hv_historical_skill_ability_earth_03	齐心	true
 character_skills_localised_name_hv_historical_skill_ability_fire_01	突围	true
@@ -1586,8 +1586,8 @@ character_skills_localised_name_hv_historical_skill_ability_wood_02	刚韧	true
 character_skills_localised_name_hv_historical_skill_ability_wood_03	内力	true
 character_skills_localised_name_hv_skill_ability_adamant_resolve_expertise	不屈	true
 character_skills_localised_name_hv_skill_ability_adamant_resolve_resolve	不屈	true
-character_skills_localised_name_hv_skill_ability_aggressive_anger_expertise	怒猊	true
-character_skills_localised_name_hv_skill_ability_aggressive_anger_instinct	怒猊	true
+character_skills_localised_name_hv_skill_ability_aggressive_anger_expertise	蛮力	true
+character_skills_localised_name_hv_skill_ability_aggressive_anger_instinct	蛮力	true
 character_skills_localised_name_hv_skill_ability_analyse_weakness_cunning	看破	true
 character_skills_localised_name_hv_skill_ability_anti_cavalry_authority	反制	true
 character_skills_localised_name_hv_skill_ability_anti_cavalry_cunning	反制	true
@@ -1603,8 +1603,8 @@ character_skills_localised_name_hv_skill_ability_binding_fury_instinct	聚怒	tr
 character_skills_localised_name_hv_skill_ability_binding_fury_resolve	聚怒	true
 character_skills_localised_name_hv_skill_ability_binding_fury_scholar	聚怒	true
 character_skills_localised_name_hv_skill_ability_blade_breaker_instinct	断刃	true
-character_skills_localised_name_hv_skill_ability_blade_mastery_expertise	盖世	true
-character_skills_localised_name_hv_skill_ability_blade_mastery_resolve	盖世	true
+character_skills_localised_name_hv_skill_ability_blade_mastery_expertise	剑术专精	true
+character_skills_localised_name_hv_skill_ability_blade_mastery_resolve	剑术专精	true
 character_skills_localised_name_hv_skill_ability_blazing_roar_instinct	怒吼	true
 character_skills_localised_name_hv_skill_ability_blazing_saddles_instinct	绝尘	true
 character_skills_localised_name_hv_skill_ability_bleed_expertise	影袭	true
@@ -1759,9 +1759,9 @@ character_skills_localised_name_hv_skill_ability_stalwart_defender_expertise	坚
 character_skills_localised_name_hv_skill_ability_stalwart_defender_resolve	坚防	true
 character_skills_localised_name_hv_skill_ability_stone_bulwark_authority	磐石	true
 character_skills_localised_name_hv_skill_ability_stone_bulwark_cunning	磐石	true
-character_skills_localised_name_hv_skill_ability_storm_of_swords_authority	舞爪	true
-character_skills_localised_name_hv_skill_ability_storm_of_swords_expertise	舞爪	true
-character_skills_localised_name_hv_skill_ability_storm_of_swords_instinct	舞爪	true
+character_skills_localised_name_hv_skill_ability_storm_of_swords_authority	剑刃风暴	true
+character_skills_localised_name_hv_skill_ability_storm_of_swords_expertise	剑刃风暴	true
+character_skills_localised_name_hv_skill_ability_storm_of_swords_instinct	剑刃风暴	true
 character_skills_localised_name_hv_skill_ability_strength_of_the_land	地力	true
 character_skills_localised_name_hv_skill_ability_sundering_strike_instinct	裂斩	true
 character_skills_localised_name_hv_skill_ability_swift_fingers_expertise	妙手	true
@@ -2305,7 +2305,7 @@ character_skills_localised_name_hv_skill_wood_mobilization	动员	true
 custom_battle_loadouts_name_3k_main_custom_battle_loadout_lady_diao_chan_01	夫人	true
 custom_battle_loadouts_name_3k_main_custom_battle_loadout_lady_diao_chan_02	女杰	true
 custom_battle_loadouts_name_3k_main_custom_battle_loadout_lady_diao_chan_03	皇后	true
-custom_battle_loadouts_name_3k_main_custom_battle_loadout_test	校尉	false
+custom_battle_loadouts_name_3k_main_custom_battle_loadout_test	伯长	false
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_chunyu_qiong_01	别部司马	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_chunyu_qiong_02	都尉	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_chunyu_qiong_03	西园校尉	true
@@ -2439,7 +2439,7 @@ custom_battle_loadouts_name_hv_cb_loadout_liu_chong_02	陈王	false
 custom_battle_loadouts_name_hv_cb_loadout_liu_zhang_01	刘璋	false
 custom_battle_loadouts_name_hv_cb_loadout_liu_zhang_02	诸侯	false
 custom_battle_loadouts_name_hv_cb_loadout_lu_bu_01	吕布	false
-custom_battle_loadouts_name_hv_cb_loadout_lu_bu_02	无双猛士	false
+custom_battle_loadouts_name_hv_cb_loadout_lu_bu_02	无双飞将	false
 custom_battle_loadouts_name_hv_cb_loadout_lu_zheng_01	陆政	false
 custom_battle_loadouts_name_hv_cb_loadout_luo_jun_01	骆俊	false
 custom_battle_loadouts_name_hv_cb_loadout_ma_chao_01	马超	false
@@ -2496,7 +2496,7 @@ custom_battle_loadouts_name_hv_cb_loadout_zhou_tai_01	周泰	false
 custom_battle_loadouts_name_hv_cb_loadout_zhou_yu_01	英杰周瑜	false
 custom_battle_loadouts_name_hv_cb_loadout_zhuge_liang_01	诸葛亮	false
 dilemmas_localised_description_3k_dlc07_child_emperor_dilemma_imperial_ancestral_rites	即将举行的皇家祭祀仪式是朝中的一项重大活动。诏书要求您派文官去协助行政事务，或派武官去协助禁卫。如果您尽忠职守，朝廷会给予赏赐。拒不执行，则可能招致天子的不满。	false
-dilemmas_localised_description_3k_dlc07_child_emperor_dilemma_imperial_banquet	朝廷下达了一道诏书，将在皇宫设宴邀请天下有影响力的贵族。这恐怕是辅政大臣因为担心我们的影响力设下的计谋，但违背诏书可能会有严重后果…… 	false
+dilemmas_localised_description_3k_dlc07_child_emperor_dilemma_imperial_banquet	朝廷下达了一道诏书，将在皇宫设宴邀请天下有影响力的贵族。这恐怕是辅政大臣因为担心我们的影响力设下的计谋，但违背诏书可能会有严重后果……	false
 dilemmas_localised_description_3k_main_historical_dong_li_guo_rebellion_dilemma	Li Jue and Guo Si came to the capital with a huge army. They want avenge for their fallen master. The only thing they want is the neck of the killer.	false
 dilemmas_localised_description_3k_main_historical_xun_yu_empty_lunchpail_dilemma	"You are furious because you found out your old friend and trusted servant, Xun Yu, has turned his back against you. He does not oppose you publicly for the time being, but you are certain he will betray you the first chance he gets. \\n\\n It's time to choose. You can send him a ""gift."" when he receives your ""gift,"" he who shares a deep friendship with you will know the meaning of it..."	false
 dilemmas_localised_description_3k_mtu_global_event_bring_cai_yan_dilemma_pc	蔡邕身为当代大儒，却无男性继承人，唯育一女蔡文姬却为匈奴左贤王所掳。\\n\\n 今蔡氏血脉能否延续，由你决定。	true
@@ -2540,8 +2540,8 @@ dilemmas_localised_description_hv_dilemma_dong_bai_dlc05	前面来了一群乞�
 dilemmas_localised_description_hv_dilemma_dong_bai_dlc07	前面来了一群乞丐，其中有一名衣冠楚楚的少女上前行礼。女孩自称董白，是暴君董卓最后的亲人。她求你带她走。	true
 dilemmas_localised_description_hv_dilemma_empire_rules	经过数个世代，汉王朝失其天命。然而，天下黎民仍饱受各地宣称带有天命的军阀，所带来的战乱之苦。主公，你必须终结乱世。天下正等待新的治理规则引导新的团结繁荣与太平盛​​世。你将如何选择，治里天下众生？	true
 dilemmas_localised_description_hv_dilemma_guan_ping	刘备一行人途经冀州关家庄，庄主关定见刘关张英雄盖世而关羽又为其同宗兄弟，欲使其次子关平与三人一同匡扶汉室，于是刘备主张关羽与关平为义父子。	false
-dilemmas_localised_description_hv_dilemma_ji_ling_zhang_xun_dlc07	一只残军请求加入您的派系。袁术战败后，其部将张勋，纪灵及阎象收拢溃卒。然而，接纳他们可能会惹恼袁术之敌。	false
-dilemmas_localised_description_hv_dilemma_lu_ji_dlc07	一只残军请求加入您的派系。吕布战败后，其女吕姬收拢溃卒。然而，接纳他们可能会惹恼吕布之敌。	false
+dilemmas_localised_description_hv_dilemma_ji_ling_zhang_xun_dlc07	一只残军请求加入你的派系。袁术战败后，其部将张勋，纪灵及阎象收拢溃卒。然而，接纳他们可能会惹恼袁术之敌。	false
+dilemmas_localised_description_hv_dilemma_lu_ji_dlc07	一只残军请求加入你的派系。吕布战败后，其女吕姬收拢溃卒。然而，接纳他们可能会惹恼吕布之敌。	false
 dilemmas_localised_description_hv_dilemma_northern_army_intro	天下大乱，雄豪并起。主公若能运筹演谋，鞭挞宇内，忠于汉室之能人必来投效。以公之神武明哲而辅以大顺，何向而不济！	false
 dilemmas_localised_description_hv_dilemma_sogd	的确，西域商人带来的货物种类繁多，其中不乏珍惜名贵之物。而且，护送他们的佣兵看起来就像是天生的战士。	false
 dilemmas_localised_description_hv_dilemma_white_tiger_01	附近村庄有传闻说，每晚会有巨兽出没恐吓农民。村民们在找寻一位英雄来进山驱走怪兽。	false
@@ -2626,7 +2626,7 @@ effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ytr_3	野
 effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ytr_4	苍天已死，黄天再立！	true
 effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_ytr_5	苍天已死，黄天再立！	true
 effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_zhang_yan_0	黑山匪徒已作鸟兽散。	true
-effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_zhang_yan_1	跟随您的人寥寥无几。	true
+effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_zhang_yan_1	跟随你的人寥寥无几。	true
 effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_zhang_yan_2	起家微薄亦可立业有成。	true
 effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_zhang_yan_3	兵多将广，可成大事。	true
 effect_bundles_localised_description_hv_effect_bundle_pooled_reosource_zhang_yan_4	四海之内，莫非黑山。	true
@@ -2689,7 +2689,7 @@ effect_bundles_localised_description_hv_gov_3k_dlc07_effect_bundle_pooled_resour
 effect_bundles_localised_description_hv_pacify_penalty	消耗军事物资以稳定占领的据点。	true
 effect_bundles_localised_description_hv_pacify_penalty_yuan_shao	这批军队补给在城镇陷落后被抢走了	true
 effect_bundles_localised_description_hv_script_effect_bundle_dong_bai	没人欢迎他们，所有人都反而质疑你的决定。	true
-effect_bundles_localised_description_hv_script_effect_bundle_exodus	吕布的随从希望能迅速加入您麾下。我们可以考虑调兵的机会。	true
+effect_bundles_localised_description_hv_script_effect_bundle_exodus	吕布的随从希望能迅速加入你麾下。我们可以考虑调兵的机会。	true
 effect_bundles_localised_description_hv_script_effect_bundle_lu_bu_legacy	吕布派系的余党加入了我方。	true
 effect_bundles_localised_description_hv_script_effect_bundle_qiang_penalty	与汉人的文化冲突导致了羌人部落的失控。百姓不安，质疑你的治理，争相离去。	true
 effect_bundles_localised_description_hv_script_effect_bundle_rule_of_might	分解帝国，以封地的形式分给各地诸侯，以霸治国。	true
@@ -2699,7 +2699,7 @@ effect_bundles_localised_description_hv_script_effect_bundle_shanyue_penalty	与
 effect_bundles_localised_description_hv_script_effect_bundle_white_tiger_cap	强大的白虎与我们同在。	true
 effect_bundles_localised_description_hv_script_effect_bundle_wuhuan_penalty	与汉人的文化冲突导致了乌桓部落的失控。百姓不安，质疑你的治理，争相离去。	true
 effect_bundles_localised_description_hv_script_effect_bundle_xiongnu_penalty	与汉人的文化冲突导致了匈奴部落的失控。百姓不安，质疑你的治理，争相离去。	true
-effect_bundles_localised_description_hv_script_effect_bundle_yuan_northern	解锁精锐北军校尉随从	false
+effect_bundles_localised_description_hv_script_effect_bundle_yuan_northern	解锁精锐北军伯长随从	false
 effect_bundles_localised_description_hv_script_effect_bundle_yuan_shu_legacy	袁术派系的余党加入了我方。	true
 effect_bundles_localised_title_3k_main_effect_bundle_dong_zhou_event_public_order	The Cataclysm	false
 effect_bundles_localised_title_3k_mtu_effect_bundle_dec_public_order_5	残忍	true
@@ -2913,14 +2913,14 @@ effects_description_hv_building_effect_dummy_garrison_sun_jian	[[i]]支援驻军
 effects_description_hv_building_effect_dummy_immigrant_subtown	[[i]]异族关系[[/ i]]	true
 effects_description_hv_building_effect_dummy_scattered_immigrants	{{tr:map_region}}正被零散蛮人所据。此况可解，垦地拓荒，善用此地资源。	true
 effects_description_hv_building_effect_liu_bei_unity	齐心[[b]]%+n[[/b]]	true
-effects_description_hv_building_effect_province_mercenary_access	提供[[b]]丹阳部队校尉[[/b]]招募次数	true
+effects_description_hv_building_effect_province_mercenary_access	提供[[b]]丹阳部队伯长[[/b]]招募次数	true
 effects_description_hv_building_effect_replenishment_danyang	丹阳部队补员速率[[b]]%+n%[[/b]]	true
 effects_description_hv_dummy_effect_enforcer_archers_unlock	解锁部队：{{tr:hv_unit_xiliang_elite_enforcers}}	false
 effects_description_hv_dummy_effect_enforcer_mounted_archers_unlock	解锁部队：{{tr:hv_unit_enforcer_archer_cavalry}}	false
 effects_description_hv_dummy_effect_hidden_snakes_unlock	解锁部队：{{tr:hv_unit_hidden_snakes}}	false
 effects_description_hv_dummy_effect_rapid_tigers_unlock	解锁部队：{{tr:hv_unit_rapid_tigers}}	false
 effects_description_hv_dummy_effect_white_tiger_warriors_unlock	为严白虎解锁部队：{{tr:hv_unit_white_tiger_warriors}}	false
-effects_description_hv_dummy_effect_ytr_resurrection	当您的派系达成启蒙，天下各方黄巾教徒便会起事。	true
+effects_description_hv_dummy_effect_ytr_resurrection	当你的派系达成启蒙，天下各方黄巾教徒便会起事。	true
 effects_description_hv_effect_army_stockpiles	储备[[b]]%+n[[/b]] 	true
 effects_description_hv_effect_assignment_military_disturbance	解锁任务：军事支持	true
 effects_description_hv_effect_assignment_more_build_slot	解锁任务：扩展城市	true
@@ -2984,7 +2984,7 @@ effects_description_hv_effect_dummy_unlock_unit_xian_chen_ying_2h	解锁部队�
 effects_description_hv_effect_dummy_unlock_unit_yuan_ji_guards	解锁部队：{{tr:hv_unit_yuan_ji_guards}}	true
 effects_description_hv_effect_dummy_unlock_unit_yuan_rong_crossbowmen	解锁部队：{{tr:hv_unit_bomb_thrower}}	true
 effects_description_hv_effect_dummy_unlock_unit_yuan_swordsmen	解锁部队：{{tr:hv_unit_yuan_sword_infantry}}	true
-effects_description_hv_effect_dummy_xiliang_army_region	占据时可获得西凉军校尉	true
+effects_description_hv_effect_dummy_xiliang_army_region	占据时可获得西凉军伯长	true
 effects_description_hv_effect_dummy_xiliang_army_unlock	解锁西凉军部队 [[col:scope_description]]（本部曲）[[/col]]	true
 effects_description_hv_effect_dummy_xiliang_army_unlock_elite	解锁西凉军精锐单位[[col:scope_description]]（我方部曲）[[/col]]	true
 effects_description_hv_effect_dummy_yuan_shu_legacy_unlock	解锁隐蛇兵与虎捷军[[col:scope_description]]（我方部曲）[[/col]]	true
@@ -3258,13 +3258,13 @@ effects_description_hv_effect_unit_stat_movement_speed_earth	近战骑兵速度[
 effects_description_hv_effect_unit_stat_movement_speed_water	远程部队速度[[b]]%+n%[[/b]]	true
 effects_description_hv_effect_unit_upkeep_local_noble_units	仆从与豪强部队维持费[[b]]%+n%[[/b]]	true
 effects_description_hv_effect_unlock_adamant_resolve	技能：不屈	true
-effects_description_hv_effect_unlock_aggressive_anger	技能：怒猊	true
+effects_description_hv_effect_unlock_aggressive_anger	技能：蛮力	true
 effects_description_hv_effect_unlock_analyse_weakness	技能：看破	true
 effects_description_hv_effect_unlock_anti_cavalry	技能：反制	true
 effects_description_hv_effect_unlock_assemble	技能：齐心	true
 effects_description_hv_effect_unlock_binding_fury	技能：聚怒	true
 effects_description_hv_effect_unlock_blade_breaker	技能：断刃	true
-effects_description_hv_effect_unlock_blade_mastery	技能：盖世	true
+effects_description_hv_effect_unlock_blade_mastery	技能：剑术专精	true
 effects_description_hv_effect_unlock_blazing_roar	技能：怒吼	true
 effects_description_hv_effect_unlock_blazing_saddles	技能：绝尘	true
 effects_description_hv_effect_unlock_bleed	技能：影袭	true
@@ -3354,7 +3354,7 @@ effects_description_hv_effect_unlock_sogd_remove_penalty	装备此随从后，�
 effects_description_hv_effect_unlock_sparrow	技能：燕翔	true
 effects_description_hv_effect_unlock_stalwart_defender	技能：坚防	true
 effects_description_hv_effect_unlock_stone_bulwark	技能：磐石	true
-effects_description_hv_effect_unlock_storm_of_swords	技能：舞爪	true
+effects_description_hv_effect_unlock_storm_of_swords	技能：剑刃风暴	true
 effects_description_hv_effect_unlock_strength_of_the_land	技能：地动	true
 effects_description_hv_effect_unlock_striking_tide	技能：刀浪	true
 effects_description_hv_effect_unlock_sundering_strike	技能：裂斩	true
@@ -3395,7 +3395,7 @@ effects_description_hv_effects_skill_add_unlock_fire	解锁部队：{{tr:hv_tr_f
 effects_description_hv_effects_skill_add_unlock_metal	解锁部队：{{tr:hv_tr_metal}}部队	true
 effects_description_hv_effects_skill_add_unlock_water	解锁部队：{{tr:hv_tr_water}}部队	true
 effects_description_hv_effects_skill_add_unlock_wood	解锁部队：{{tr:hv_tr_wood}}部队	true
-effects_description_hv_effects_unlock_historical_ability_earth_01	技能：舞爪	true
+effects_description_hv_effects_unlock_historical_ability_earth_01	技能：剑刃风暴	true
 effects_description_hv_effects_unlock_historical_ability_earth_02	技能：磐石	true
 effects_description_hv_effects_unlock_historical_ability_earth_03	技能：齐心	true
 effects_description_hv_effects_unlock_historical_ability_fire_01	技能：突围	true
@@ -3616,7 +3616,7 @@ incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_banquet
 incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_banquet_result_nothing	幸运的是，宴会中没发生什么大事。	false
 incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_grace	天子对你甚有好感，决定给你一些赏赐，来表彰你对朝廷的贡献。	false
 incidents_localised_description_3k_dlc07_child_emperor_scripted_incident_political_scheme_bad	诽谤！一个敌对的军阀在朝廷散布恶意的谣言，使献帝怀疑我们对大汉的忠诚。	false
-incidents_localised_description_3k_dlc07_child_emperor_scripted_incident_political_scheme_good	也许是出于钦佩，也许是向您示好，有一派系在皇帝面前为你多加褒词。最近在宫中人人都在谈论您的功绩。 	false
+incidents_localised_description_3k_dlc07_child_emperor_scripted_incident_political_scheme_good	也许是出于钦佩，也许是向你示好，有一派系在皇帝面前为你多加褒词。最近在宫中人人都在谈论你的功绩。 	false
 incidents_localised_description_3k_main_char_historical_xun_yu_disappointed_cao_cao	Xun Yu openly criticized you for seeking power, saying you should be focusing on the restoration of Han dynasty. He even had the gall to say that because of your pursuit of power, you will never see a good end. \\n\\n You were furious, but you could not openly express it, since he was an old friend and a loyal servant.	false
 incidents_localised_description_3k_main_char_historical_xun_yu_join_cao_cao	Xun Yu, a renowned strategist, has come to you to offer you his service. Many lords have offered him to join their side, but he rejected all the offers and decided to be a part of your ambition. You were thrilled to accept that someone so talented had come to you.	true
 incidents_localised_description_3k_mtu_global_event_cai_yong_death_incident_npc	董卓被杀，蔡邕伤感其遇，被王允知悉，而出兵捉拿蔡邕并下令处死。\\n\\n 王允曰：「昔武帝不杀司马迁，使作谤书，流于后世。方今国祚中衰，戎马在郊，不可令佞臣执笔在幼主左右，后令吾徒并受谤议。」	true
@@ -3630,49 +3630,49 @@ incidents_localised_description_hv_event_cao_cao_qingzhou	黄巾匪徒已被击�
 incidents_localised_description_hv_event_coin_confuse_1	所有的经济活动都因为新币的铸造而受到阻碍。我们别无选择，只能等待商人们适应新的标准。	false
 incidents_localised_description_hv_event_coin_confuse_2	由于新币发行，买粮时出现问题。我们别无选择，只能等到农民们适应新的标准。	false
 incidents_localised_description_hv_event_coin_confuse_3	由于新币发行，分发军饷时出现问题。我们别无选择，只能等到士兵们适应新的标准。	false
-incidents_localised_description_hv_event_follower_officer	乱世出豪杰。新进的一名随从可管理一只特殊军队。	false
-incidents_localised_description_hv_event_follower_officer_white_horse	乱世出豪杰。新进的一名随从可管理一只特殊军队。	false
-incidents_localised_description_hv_event_follower_officer_white_horse_forced	乱世出豪杰。新进的一名随从可管理一只特殊军队。	false
-incidents_localised_description_hv_event_follower_officer_yuan	乱世出豪杰。新进的一名随从可管理一只特殊军队。	false
-incidents_localised_description_hv_event_follower_officer_yuan_1_forced	乱世出豪杰。新进的一名随从可管理一只特殊军队。	false
-incidents_localised_description_hv_event_follower_officer_yuan_2_forced	乱世出豪杰。新进的一名随从可管理一只特殊军队。	false
+incidents_localised_description_hv_event_follower_officer	乱世出豪杰。新进的一名随从可使你执掌一只特殊军队。	false
+incidents_localised_description_hv_event_follower_officer_white_horse	乱世出豪杰。新进的一名随从可使你执掌一只特殊军队。	false
+incidents_localised_description_hv_event_follower_officer_white_horse_forced	乱世出豪杰。新进的一名随从可使你执掌一只特殊军队。	false
+incidents_localised_description_hv_event_follower_officer_yuan	乱世出豪杰。新进的一名随从可使你执掌一只特殊军队。	false
+incidents_localised_description_hv_event_follower_officer_yuan_1_forced	乱世出豪杰。新进的一名随从可使你执掌一只特殊军队。	false
+incidents_localised_description_hv_event_follower_officer_yuan_2_forced	乱世出豪杰。新进的一名随从可使你执掌一只特殊军队。	false
 incidents_localised_description_hv_event_qiang_penalty	与汉人的文化冲突导致了羌人部落的失控。百姓不安，质疑你的治理，争相离去。	true
 incidents_localised_description_hv_event_shanyue_penalty	与汉人的文化冲突导致了乌桓部落的失控。百姓不安，质疑你的治理，争相离去。	true
 incidents_localised_description_hv_event_white_tiger_1	酣战之后，您杀死了巨型白虎。然而出乎意料的是，其它老虎俯伏在您身前，好像屈服于您的力量！这些白虎似乎不是普通的野兽。	false
-incidents_localised_description_hv_event_white_tiger_2	您放弃了狩猎，回去了。然而不知为何，怪兽从此不再攻击。	false
+incidents_localised_description_hv_event_white_tiger_2	你放弃了狩猎，回去了。然而不知为何，怪兽从此不再攻击。	false
 incidents_localised_description_hv_event_wuhuan_penalty	与汉人的文化冲突导致了乌桓部落的失控。百姓不安，质疑你的治理，争相离去。	true
 incidents_localised_description_hv_event_xiongnu_penalty	与汉人的文化冲突导致了匈奴部落的失控。百姓不安，质疑你的治理，争相离去。	true
 incidents_localised_description_hv_event_zhuge_liang_yuanrong	诸葛亮精心设计出一种新武器。这是一种能够同时射出多枚箭矢的弩弓，可以压制敌人。 	true
-incidents_localised_description_hv_incident_cai_yan	信使来报，有商贩在匈奴营中发现一位中土女眷，正是名士蔡邕之女蔡琰，已沦为匈奴左贤王女奴。匈奴王或许愿意放了蔡琰，你的一个探子已经前去调查……	false
+incidents_localised_description_hv_incident_cai_yan	匈奴入侵，凡经过之处皆寸草不生。乱军之中当代大儒蔡邕之女蔡文姬，被匈奴人俘走了。如不在下个季度之前交付赎金，蔡文姬将被左贤王带回北方。	false
 incidents_localised_description_hv_incident_cai_yan_dlc05	Your messengers report a remarkable story. A trader spotted a Han woman living amongst the Xiongnu and identified her as Cai Yan, the daughter of the grand scholar Cai Yong. It seems she was forced to marry a chieftain of the Xiongnu. Perhaps someone could convince this chieftain to free Cai Yan. One of your scouts has already left to investigate...	false
 incidents_localised_description_hv_incident_cai_yan_dlc07	Your messengers report a remarkable story. A trader spotted a Han woman living amongst the Xiongnu and identified her as Cai Yan, the daughter of the grand scholar Cai Yong. It seems she was forced to marry a chieftain of the Xiongnu. Perhaps someone could convince this chieftain to free Cai Yan. One of your scouts has already left to investigate...	false
 incidents_localised_description_hv_incident_chunyu_qiong	曾比肩袁曹，现却成日饮酒作乐，荒废才能。不料淳于琼在危难之际却悬崖勒马，重振其西园校尉之威。	false
-incidents_localised_description_hv_incident_danyang_army	您获得一张可指挥丹阳部队的兵符。	false
-incidents_localised_description_hv_incident_education	由于您对学者和人才的赞助，您的官员在启蒙的道路上取得了进步。	false
+incidents_localised_description_hv_incident_danyang_army	你获得一张可指挥丹阳部队的兵符。	false
+incidents_localised_description_hv_incident_education	由于你对学者和人才的赞助，你的官员在启蒙的道路上取得了进步。	false
 incidents_localised_description_hv_incident_ironfist_army	我们从附近游牧民族召集战士，组成了一支强健骑兵。这些令人可畏的铁甲骑兵将冲垮你的敌人。	false
-incidents_localised_description_hv_incident_jingchou_army	您获得一张可指挥荆楚部队的兵符。	false
-incidents_localised_description_hv_incident_sogd	自西域而来的粟特商人出现在我方境内。我们很快就能买到精美商品，或者雇佣粟特佣兵。	false
-incidents_localised_description_hv_incident_xiliang_army	一名西凉校尉加入您的派系。	false
+incidents_localised_description_hv_incident_jingchou_army	你获得一张可指挥荆楚部队的兵符。	false
+incidents_localised_description_hv_incident_sogd	自西域而来的粟特商人出现在我方境内。随之而来的不仅仅有异域商品，还有雇佣粟特佣兵的机会。	false
+incidents_localised_description_hv_incident_xiliang_army	一名西凉伯长加入你的派系。	false
 incidents_localised_description_hv_incident_ytr_resurrection	Once again the flames begin to burn. Now we are ready to destroy the Han dynasty. Our forces are strong, and the old comrades who had to live in hiding will also appear and respond to us. Let's make sure that Zhang Jue's unfulfilled dream come true.	true
-incidents_localised_description_hv_northern_army_unlocked_cao_cao_last	随着您近期的丰功伟业，督掌北军的中尉前来宣誓效忠于您，他所指挥的整支精良军队也一同前来，加入您的麾下。	false
-incidents_localised_description_hv_northern_army_unlocked_cao_cao_mid	随着您近期的丰功伟业，督掌北军的中尉前来宣誓效忠于您，他所指挥的整支精良军队也一同前来，加入您的麾下。	false
-incidents_localised_description_hv_northern_army_unlocked_dong_zhuo	随着您近期的丰功伟业，督掌北军的中尉前来宣誓效忠于您，他所指挥的整支精良军队也一同前来，加入您的麾下。	false
-incidents_localised_description_hv_northern_army_unlocked_dong_zhuo_ai	领军的校尉掌管北军世兵，现已效忠于董卓。这是支不可小觑的部队。	false
-incidents_localised_description_hv_northern_army_unlocked_dong_zhuo_last	随着您近期的丰功伟业，督掌北军的中尉前来宣誓效忠于您，他所指挥的整支精良军队也一同前来，加入您的麾下。	false
-incidents_localised_description_hv_northern_army_unlocked_dong_zhuo_mid	随着您近期的丰功伟业，督掌北军的中尉前来宣誓效忠于您，他所指挥的整支精良军队也一同前来，加入您的麾下。	false
-incidents_localised_description_hv_northern_army_unlocked_gongsun_zan	随着您近期的丰功伟业，督掌北军的中尉前来宣誓效忠于您，他所指挥的整支精良军队也一同前来，加入您的麾下。	false
-incidents_localised_description_hv_northern_army_unlocked_gongsun_zan_ai	领军的校尉掌管北军世兵，现已效忠于公孙瓒。这是支不可小觑的部队。	false
-incidents_localised_description_hv_northern_army_unlocked_gongsun_zan_last	随着您近期的丰功伟业，督掌北军的中尉前来宣誓效忠于您，他所指挥的整支精良军队也一同前来，加入您的麾下。	false
-incidents_localised_description_hv_northern_army_unlocked_gongsun_zan_mid	随着您近期的丰功伟业，督掌北军的中尉前来宣誓效忠于您，他所指挥的整支精良军队也一同前来，加入您的麾下。	false
-incidents_localised_description_hv_northern_army_unlocked_liu_chong	随着您近期的丰功伟业，督掌北军的中尉前来宣誓效忠于您，他所指挥的整支精良军队也一同前来，加入您的麾下。	false
-incidents_localised_description_hv_northern_army_unlocked_liu_chong_last	随着您近期的丰功伟业，督掌北军的中尉前来宣誓效忠于您，他所指挥的整支精良军队也一同前来，加入您的麾下。	false
-incidents_localised_description_hv_northern_army_unlocked_liu_chong_mid	随着您近期的丰功伟业，督掌北军的中尉前来宣誓效忠于您，他所指挥的整支精良军队也一同前来，加入您的麾下。	false
-incidents_localised_description_hv_northern_army_unlocked_yuan_shao_last	随着您近期的丰功伟业，督掌北军的中尉前来宣誓效忠于您，他所指挥的整支精良军队也一同前来，加入您的麾下。	false
-incidents_localised_description_hv_northern_army_unlocked_yuan_shao_mid	随着您近期的丰功伟业，督掌北军的中尉前来宣誓效忠于您，他所指挥的整支精良军队也一同前来，加入您的麾下。	false
-incidents_localised_description_hv_northern_army_unlocked_yuan_shu	随着您近期的丰功伟业，督掌北军的中尉前来宣誓效忠于您，他所指挥的整支精良军队也一同前来，加入您的麾下。	false
-incidents_localised_description_hv_northern_army_unlocked_yuan_shu_ai	领军的校尉掌管北军世兵，现已效忠于袁术。这是支不可小觑的部队。	false
-incidents_localised_description_hv_northern_army_unlocked_yuan_shu_last	随着您近期的丰功伟业，督掌北军的中尉前来宣誓效忠于您，他所指挥的整支精良军队也一同前来，加入您的麾下。	false
-incidents_localised_description_hv_northern_army_unlocked_yuan_shu_mid	随着您近期的丰功伟业，督掌北军的中尉前来宣誓效忠于您，他所指挥的整支精良军队也一同前来，加入您的麾下。	false
+incidents_localised_description_hv_northern_army_unlocked_cao_cao_last	随着你近期的丰功伟业，督掌北军的中尉前来宣誓效忠于你，他所指挥的整支精良军队也一同前来，加入你的麾下。	false
+incidents_localised_description_hv_northern_army_unlocked_cao_cao_mid	随着你近期的丰功伟业，督掌北军的中尉前来宣誓效忠于你，他所指挥的整支精良军队也一同前来，加入你的麾下。	false
+incidents_localised_description_hv_northern_army_unlocked_dong_zhuo	随着你近期的丰功伟业，督掌北军的中尉前来宣誓效忠于你，他所指挥的整支精良军队也一同前来，加入你的麾下。	false
+incidents_localised_description_hv_northern_army_unlocked_dong_zhuo_ai	掌管北军世兵的领军伯长现已效忠于董卓。这是支不可小觑的部队。	false
+incidents_localised_description_hv_northern_army_unlocked_dong_zhuo_last	随着你近期的丰功伟业，督掌北军的中尉前来宣誓效忠于你，他所指挥的整支精良军队也一同前来，加入你的麾下。	false
+incidents_localised_description_hv_northern_army_unlocked_dong_zhuo_mid	随着你近期的丰功伟业，督掌北军的中尉前来宣誓效忠于你，他所指挥的整支精良军队也一同前来，加入你的麾下。	false
+incidents_localised_description_hv_northern_army_unlocked_gongsun_zan	随着你近期的丰功伟业，督掌北军的中尉前来宣誓效忠于你，他所指挥的整支精良军队也一同前来，加入你的麾下。	false
+incidents_localised_description_hv_northern_army_unlocked_gongsun_zan_ai	掌管北军世兵的领军伯长现已效忠于公孙瓒。这是支不可小觑的部队。	false
+incidents_localised_description_hv_northern_army_unlocked_gongsun_zan_last	随着你近期的丰功伟业，督掌北军的中尉前来宣誓效忠于你，他所指挥的整支精良军队也一同前来，加入你的麾下。	false
+incidents_localised_description_hv_northern_army_unlocked_gongsun_zan_mid	随着你近期的丰功伟业，督掌北军的中尉前来宣誓效忠于你，他所指挥的整支精良军队也一同前来，加入你的麾下。	false
+incidents_localised_description_hv_northern_army_unlocked_liu_chong	随着你近期的丰功伟业，督掌北军的中尉前来宣誓效忠于你，他所指挥的整支精良军队也一同前来，加入你的麾下。	false
+incidents_localised_description_hv_northern_army_unlocked_liu_chong_last	随着你近期的丰功伟业，督掌北军的中尉前来宣誓效忠于你，他所指挥的整支精良军队也一同前来，加入你的麾下。	false
+incidents_localised_description_hv_northern_army_unlocked_liu_chong_mid	随着你近期的丰功伟业，督掌北军的中尉前来宣誓效忠于你，他所指挥的整支精良军队也一同前来，加入你的麾下。	false
+incidents_localised_description_hv_northern_army_unlocked_yuan_shao_last	随着你近期的丰功伟业，督掌北军的中尉前来宣誓效忠于你，他所指挥的整支精良军队也一同前来，加入你的麾下。	false
+incidents_localised_description_hv_northern_army_unlocked_yuan_shao_mid	随着你近期的丰功伟业，督掌北军的中尉前来宣誓效忠于你，他所指挥的整支精良军队也一同前来，加入你的麾下。	false
+incidents_localised_description_hv_northern_army_unlocked_yuan_shu	随着你近期的丰功伟业，督掌北军的中尉前来宣誓效忠于你，他所指挥的整支精良军队也一同前来，加入你的麾下。	false
+incidents_localised_description_hv_northern_army_unlocked_yuan_shu_ai	掌管北军世兵的领军伯长现已效忠于袁术。这是支不可小觑的部队。	false
+incidents_localised_description_hv_northern_army_unlocked_yuan_shu_last	随着你近期的丰功伟业，督掌北军的中尉前来宣誓效忠于你，他所指挥的整支精良军队也一同前来，加入你的麾下。	false
+incidents_localised_description_hv_northern_army_unlocked_yuan_shu_mid	随着你近期的丰功伟业，督掌北军的中尉前来宣誓效忠于你，他所指挥的整支精良军队也一同前来，加入你的麾下。	false
 incidents_localised_description_mtu_historical_female_born_incident	喜报！宗族已喜得千金，此女将正式成为主公宗亲，但同侪兄弟的勾心斗角，怕是在所难免…	false
 incidents_localised_description_mtu_historical_guan_xing_born_incident	恭贺关将军麟儿入拿，喜得贵子！此孩儿蕴藏的勇武英气与其关将军相比也不遑多让。关将军真有福气！	false
 incidents_localised_description_mtu_historical_guan_yinping_born_incident	恭贺关将军明珠入拿，喜得千金！此孩儿虽为女儿身，其蕴藏的勇武英气与其兄相比却也不遑多让。关将军真有福气！	false
@@ -4080,24 +4080,24 @@ land_units_onscreen_name_hv_unit_yuan_vanguards	{{tr:hv_unit_yuan_vanguards}}	tr
 land_units_onscreen_name_hv_unit_yue_freemen	{{tr:hv_unit_yue_freemen}}	true
 land_units_onscreen_name_hv_unit_zhong_royal_guard	{{tr:hv_unit_zhong_royal_guard}}	true
 missions_localised_description_hv_mission_cao_cao_gains_qingzhoubing	有黄巾军侵入主公领地，须从速讨敌。	true
-missions_localised_description_hv_mission_northern_cao_cao_01	在此动荡之秋，要想出人头地就只有靠刀剑！赢得战斗便能展示您的能力。	false
+missions_localised_description_hv_mission_northern_cao_cao_01	在此动荡之秋，要想出人头地就只有刀兵相见！赢得战斗便能向世人展现你的能力。	false
 missions_localised_description_hv_mission_northern_cao_cao_02	兴师十万，日费千金。国用不足则不能平乱。掌控举国之财，而后昭示天下。 	false
-missions_localised_description_hv_mission_northern_cao_cao_03	要称霸就要有正统的名义。若能建造一座万人敬仰的都城，便可彰显实力，天下人必当归顺。	false
-missions_localised_description_hv_mission_northern_dong_zhuo_01	在此动荡之秋，要想出人头地就只有靠刀剑！赢得战斗便能展示您的能力。	false
+missions_localised_description_hv_mission_northern_cao_cao_03	要称霸一方就需有正统之名。若能建造一座万人敬仰的都城，便可彰显实力，天下众人必当归顺。	false
+missions_localised_description_hv_mission_northern_dong_zhuo_01	在此动荡之秋，要想出人头地就只有刀兵相见！赢得战斗便能向世人展现你的能力。	false
 missions_localised_description_hv_mission_northern_dong_zhuo_02	兴师十万，日费千金。国用不足则不能平乱。掌控举国之财，而后昭示天下。 	false
-missions_localised_description_hv_mission_northern_dong_zhuo_03	要称霸就要有正统的名义。若能建造一座万人敬仰的都城，便可彰显实力，天下人必当归顺。	false
-missions_localised_description_hv_mission_northern_gongsun_zan_01	在此动荡之秋，要想出人头地就只有靠刀剑！赢得战斗便能展示您的能力。	false
+missions_localised_description_hv_mission_northern_dong_zhuo_03	要称霸一方就需有正统之名。若能建造一座万人敬仰的都城，便可彰显实力，天下众人必当归顺。	false
+missions_localised_description_hv_mission_northern_gongsun_zan_01	在此动荡之秋，要想出人头地就只有刀兵相见！赢得战斗便能向世人展现你的能力。	false
 missions_localised_description_hv_mission_northern_gongsun_zan_02	兴师十万，日费千金。国用不足则不能平乱。掌控举国之财，而后昭示天下。 	false
-missions_localised_description_hv_mission_northern_gongsun_zan_03	要称霸就要有正统的名义。若能建造一座万人敬仰的都城，便可彰显实力，天下人必当归顺。	false
-missions_localised_description_hv_mission_northern_liu_chong_01	在此动荡之秋，要想出人头地就只有靠刀剑！赢得战斗便能展示您的能力。	false
+missions_localised_description_hv_mission_northern_gongsun_zan_03	要称霸一方就需有正统之名。若能建造一座万人敬仰的都城，便可彰显实力，天下众人必当归顺。	false
+missions_localised_description_hv_mission_northern_liu_chong_01	在此动荡之秋，要想出人头地就只有刀兵相见！赢得战斗便能向世人展现你的能力。	false
 missions_localised_description_hv_mission_northern_liu_chong_02	兴师十万，日费千金。国用不足则不能平乱。掌控举国之财，而后昭示天下。 	false
-missions_localised_description_hv_mission_northern_liu_chong_03	要称霸就要有正统的名义。若能建造一座万人敬仰的都城，便可彰显实力，天下人必当归顺。	false
-missions_localised_description_hv_mission_northern_yuan_shao_01	在此动荡之秋，要想出人头地就只有靠刀剑！赢得战斗便能展示您的能力。	false
+missions_localised_description_hv_mission_northern_liu_chong_03	要称霸一方就需有正统之名。若能建造一座万人敬仰的都城，便可彰显实力，天下众人必当归顺。	false
+missions_localised_description_hv_mission_northern_yuan_shao_01	在此动荡之秋，要想出人头地就只有刀兵相见！赢得战斗便能向世人展现你的能力。	false
 missions_localised_description_hv_mission_northern_yuan_shao_02	兴师十万，日费千金。国用不足则不能平乱。掌控举国之财，而后昭示天下。 	false
-missions_localised_description_hv_mission_northern_yuan_shao_03	要称霸就要有正统的名义。若能建造一座万人敬仰的都城，便可彰显实力，天下人必当归顺。	false
-missions_localised_description_hv_mission_northern_yuan_shu_01	在此动荡之秋，要想出人头地就只有靠刀剑！赢得战斗便能展示您的能力。	false
+missions_localised_description_hv_mission_northern_yuan_shao_03	要称霸一方就需有正统之名。若能建造一座万人敬仰的都城，便可彰显实力，天下众人必当归顺。	false
+missions_localised_description_hv_mission_northern_yuan_shu_01	在此动荡之秋，要想出人头地就只有刀兵相见！赢得战斗便能向世人展现你的能力。	false
 missions_localised_description_hv_mission_northern_yuan_shu_02	兴师十万，日费千金。国用不足则不能平乱。掌控举国之财，而后昭示天下。 	false
-missions_localised_description_hv_mission_northern_yuan_shu_03	要称霸就要有正统的名义。若能建造一座万人敬仰的都城，便可彰显实力，天下人必当归顺。	false
+missions_localised_description_hv_mission_northern_yuan_shu_03	要称霸一方就需有正统之名。若能建造一座万人敬仰的都城，便可彰显实力，天下众人必当归顺。	false
 missions_localised_title_hv_mission_cao_cao_gains_qingzhoubing	黄巾军	true
 missions_localised_title_hv_mission_northern_cao_cao_01	军事才能	false
 missions_localised_title_hv_mission_northern_cao_cao_02	积聚财富	false
@@ -4296,11 +4296,11 @@ special_ability_phases_onscreen_name_3k_main_ability_vigor_of_a_warrior_5	热血
 special_ability_phases_onscreen_name_3k_main_ability_xianchenying	马首	true
 special_ability_phases_onscreen_name_3k_main_ability_youthful_vigor	稚虎	true
 special_ability_phases_onscreen_name_3k_main_formation_wedge_wen_chu	楔形阵	true
-special_ability_phases_onscreen_name_hv_ability_aggressive_anger_1	怒猊	true
-special_ability_phases_onscreen_name_hv_ability_aggressive_anger_2	怒猊	true
-special_ability_phases_onscreen_name_hv_ability_aggressive_anger_3	怒猊	true
-special_ability_phases_onscreen_name_hv_ability_aggressive_anger_4	怒猊	true
-special_ability_phases_onscreen_name_hv_ability_aggressive_anger_5	怒猊	true
+special_ability_phases_onscreen_name_hv_ability_aggressive_anger_1	蛮力	true
+special_ability_phases_onscreen_name_hv_ability_aggressive_anger_2	蛮力	true
+special_ability_phases_onscreen_name_hv_ability_aggressive_anger_3	蛮力	true
+special_ability_phases_onscreen_name_hv_ability_aggressive_anger_4	蛮力	true
+special_ability_phases_onscreen_name_hv_ability_aggressive_anger_5	蛮力	true
 special_ability_phases_onscreen_name_hv_ability_anti_cavalry	反制	true
 special_ability_phases_onscreen_name_hv_ability_assemble	齐心	true
 special_ability_phases_onscreen_name_hv_ability_bandit_unlock_earth	匪徒：你死我活	true
@@ -4324,9 +4324,9 @@ special_ability_phases_onscreen_name_hv_ability_beihai_reload_1	冷静装填	tru
 special_ability_phases_onscreen_name_hv_ability_beihai_reload_2	冷静装填	true
 special_ability_phases_onscreen_name_hv_ability_beihai_reload_3	冷静装填	true
 special_ability_phases_onscreen_name_hv_ability_black_mountain_brotherhood	手足	true
-special_ability_phases_onscreen_name_hv_ability_blade_mastery_1	盖世	true
-special_ability_phases_onscreen_name_hv_ability_blade_mastery_2	盖世	true
-special_ability_phases_onscreen_name_hv_ability_blade_mastery_3	盖世	true
+special_ability_phases_onscreen_name_hv_ability_blade_mastery_1	剑术专精	true
+special_ability_phases_onscreen_name_hv_ability_blade_mastery_2	剑术专精	true
+special_ability_phases_onscreen_name_hv_ability_blade_mastery_3	剑术专精	true
 special_ability_phases_onscreen_name_hv_ability_bleed	影袭	true
 special_ability_phases_onscreen_name_hv_ability_blood_thirst	嗜血成性	true
 special_ability_phases_onscreen_name_hv_ability_brawl	熊罴	true
@@ -4423,8 +4423,8 @@ special_ability_phases_onscreen_name_hv_ability_second_chance	余烬复燃	true
 special_ability_phases_onscreen_name_hv_ability_skirmishing_shot	游击	true
 special_ability_phases_onscreen_name_hv_ability_sniper_position	狙击位置	true
 special_ability_phases_onscreen_name_hv_ability_sparrow	燕翔	true
-special_ability_phases_onscreen_name_hv_ability_storm_of_swords_1	舞爪	true
-special_ability_phases_onscreen_name_hv_ability_storm_of_swords_2	舞爪	true
+special_ability_phases_onscreen_name_hv_ability_storm_of_swords_1	剑刃风暴	true
+special_ability_phases_onscreen_name_hv_ability_storm_of_swords_2	剑刃风暴	true
 special_ability_phases_onscreen_name_hv_ability_strength_of_blackmountain	黑山之力	true
 special_ability_phases_onscreen_name_hv_ability_strength_of_the_land	地力	true
 special_ability_phases_onscreen_name_hv_ability_striking_tide	刀浪澎湃	true
@@ -4461,7 +4461,7 @@ special_ability_phases_onscreen_name_hv_formation_shock_loose	疏阵冲锋	true
 special_ability_phases_onscreen_name_hv_formation_shock_loose_cavalry	骑兵疏阵冲锋	true
 special_ability_phases_onscreen_name_hv_formation_shock_loose_cavalry_no_requirement	骑兵疏阵冲锋	true
 special_ability_phases_onscreen_name_hv_formation_spear_wall_danyang	丹阳矛盾墙阵（可机动）	true
-special_ability_phases_onscreen_name_hv_historical_ability_earth_01	舞爪	true
+special_ability_phases_onscreen_name_hv_historical_ability_earth_01	剑刃风暴	true
 special_ability_phases_onscreen_name_hv_historical_ability_earth_02	磐石	true
 special_ability_phases_onscreen_name_hv_historical_ability_earth_03	齐心	true
 special_ability_phases_onscreen_name_hv_historical_ability_fire_01	突围	true
@@ -4501,12 +4501,12 @@ special_ability_phases_onscreen_name_hv_hit_effect_whistle	搅乱	true
 special_ability_phases_onscreen_name_hv_hit_effect_white_horse	白马	true
 special_ability_phases_onscreen_name_hv_yuan_caltrops	蒺藜	false
 special_ability_phases_onscreen_name_hv_yuan_smokescreen	烟幕	false
-ui_character_assignments_localised_description_hv_ui_info_assignment_ma_teng_sell_horses	您的随从会将您所养的马匹以高价卖出。	true
-ui_character_assignments_localised_description_hv_ui_info_assignment_military_disturbance	您的随从将在敌方领土支持您的军队。	true
-ui_character_assignments_localised_description_hv_ui_info_assignment_more_build_slot	您的随从将协助扩张此城镇。	true
-ui_character_assignments_localised_description_hv_ui_info_assignment_replenishment_garrison	您的随从将为此地驻军寻找新兵。	true
-ui_character_assignments_localised_description_hv_ui_info_assignment_reserve_replenishment	您的随从将去募集兵员。	true
-ui_character_assignments_localised_description_hv_ui_info_assignment_satisfaction_and_gdp	您的随从将管理宫廷事务，精简政务。	true
+ui_character_assignments_localised_description_hv_ui_info_assignment_ma_teng_sell_horses	你的随从会将你所养的马匹以高价卖出。	true
+ui_character_assignments_localised_description_hv_ui_info_assignment_military_disturbance	你的随从将在敌方领土支持你的军队。	true
+ui_character_assignments_localised_description_hv_ui_info_assignment_more_build_slot	你的随从将协助扩张此城镇。	true
+ui_character_assignments_localised_description_hv_ui_info_assignment_replenishment_garrison	你的随从将为此地驻军寻找新兵。	true
+ui_character_assignments_localised_description_hv_ui_info_assignment_reserve_replenishment	你的随从将去募集兵员。	true
+ui_character_assignments_localised_description_hv_ui_info_assignment_satisfaction_and_gdp	你的随从将管理宫廷事务，精简政务。	true
 ui_character_assignments_localised_description_hv_ui_info_assignment_supervise_construction	你的下属将掌管郡国领地内的大小营造计划，确保所有建筑都能尽快落成	true
 ui_character_assignments_localised_description_ui_character_assignments_localised_description_hv_ui_info_assignment_surplus_markets	你的下属将售卖余粮以盘活市场	true
 ui_character_assignments_localised_title_hv_ui_info_assignment_ma_teng_sell_horses	卖马	true
@@ -4611,7 +4611,7 @@ ui_text_replacements_localised_text_hv_unit_fellows_of_the_oath	结义弟兄	tru
 ui_text_replacements_localised_text_hv_unit_goshawk_cavalry	苍鹰突骑	true
 ui_text_replacements_localised_text_hv_unit_guanxibing_spearmen	关西矛兵	true
 ui_text_replacements_localised_text_hv_unit_guanxibing_swordsmen	关西剑兵	true
-ui_text_replacements_localised_text_hv_unit_han_captain	校尉	true
+ui_text_replacements_localised_text_hv_unit_han_captain	伯长	true
 ui_text_replacements_localised_text_hv_unit_han_volunteer_rep_crossbowmen	州属连弩手	true
 ui_text_replacements_localised_text_hv_unit_han_volunteer_spearmen	州属矛兵	true
 ui_text_replacements_localised_text_hv_unit_handmaid_guard	护卫侍女	true
@@ -4772,7 +4772,7 @@ ui_text_replacements_localised_text_hv_unit_ytr_yellow_turban_spearmen	黄巾矛
 ui_text_replacements_localised_text_hv_unit_ytr_yellow_turban_warriors	黄巾战士	true
 ui_text_replacements_localised_text_hv_unit_ytr_youxia	游侠	true
 ui_text_replacements_localised_text_hv_unit_ytr_zealots_of_the_way	崇道狂士	true
-ui_text_replacements_localised_text_hv_unit_yuan_captain	袁氏校尉	true
+ui_text_replacements_localised_text_hv_unit_yuan_captain	袁氏伯长	true
 ui_text_replacements_localised_text_hv_unit_yuan_ji_guards	袁氏家族戟卫	true
 ui_text_replacements_localised_text_hv_unit_yuan_rearguards	邺城守望先锋	true
 ui_text_replacements_localised_text_hv_unit_yuan_rong_crossbowmen	元戎弩兵	true
@@ -5987,7 +5987,7 @@ unit_abilities_onscreen_name_3k_main_ability_vigor_of_a_warrior	热血	true
 unit_abilities_onscreen_name_3k_main_ability_xianchenying	马首	true
 unit_abilities_onscreen_name_3k_main_ability_youthful_vigor	稚虎	true
 unit_abilities_onscreen_name_3k_main_formation_wedge_wen_chu	楔形阵	true
-unit_abilities_onscreen_name_hv_ability_aggressive_anger	怒猊	true
+unit_abilities_onscreen_name_hv_ability_aggressive_anger	蛮力	true
 unit_abilities_onscreen_name_hv_ability_anti_cavalry	反制	true
 unit_abilities_onscreen_name_hv_ability_assemble	齐心	true
 unit_abilities_onscreen_name_hv_ability_bandit_unlock_earth	匪徒：你死我活	true
@@ -6004,7 +6004,7 @@ unit_abilities_onscreen_name_hv_ability_battle_trance	乱战	true
 unit_abilities_onscreen_name_hv_ability_beihai_accuracy	精瞄	true
 unit_abilities_onscreen_name_hv_ability_beihai_reload	冷静装填	true
 unit_abilities_onscreen_name_hv_ability_black_mountain_brotherhood	手足	true
-unit_abilities_onscreen_name_hv_ability_blade_mastery	盖世	true
+unit_abilities_onscreen_name_hv_ability_blade_mastery	剑术专精	true
 unit_abilities_onscreen_name_hv_ability_bleed	影袭	true
 unit_abilities_onscreen_name_hv_ability_blood_thirst	嗜血成性	true
 unit_abilities_onscreen_name_hv_ability_brawl	熊罴	true
@@ -6096,7 +6096,7 @@ unit_abilities_onscreen_name_hv_ability_second_chance	余烬复燃	true
 unit_abilities_onscreen_name_hv_ability_skirmishing_shot	游击	true
 unit_abilities_onscreen_name_hv_ability_sniper_position	狙击位置	true
 unit_abilities_onscreen_name_hv_ability_sparrow	燕翔	true
-unit_abilities_onscreen_name_hv_ability_storm_of_swords	舞爪	true
+unit_abilities_onscreen_name_hv_ability_storm_of_swords	剑刃风暴	true
 unit_abilities_onscreen_name_hv_ability_strength_of_blackmountain	黑山之力	true
 unit_abilities_onscreen_name_hv_ability_strength_of_the_land	地力	true
 unit_abilities_onscreen_name_hv_ability_striking_tide	刀浪澎湃	true
@@ -6133,7 +6133,7 @@ unit_abilities_onscreen_name_hv_formation_shock_loose	疏阵冲锋	true
 unit_abilities_onscreen_name_hv_formation_shock_loose_cavalry	骑兵疏阵冲锋	true
 unit_abilities_onscreen_name_hv_formation_shock_loose_cavalry_no_requirement	骑兵疏阵冲锋	true
 unit_abilities_onscreen_name_hv_formation_spear_wall_danyang	丹阳矛盾墙阵（可机动）	true
-unit_abilities_onscreen_name_hv_historical_ability_earth_01	舞爪	true
+unit_abilities_onscreen_name_hv_historical_ability_earth_01	剑刃风暴	true
 unit_abilities_onscreen_name_hv_historical_ability_earth_02	磐石	true
 unit_abilities_onscreen_name_hv_historical_ability_earth_03	齐心	true
 unit_abilities_onscreen_name_hv_historical_ability_fire_01	突围	true
@@ -6177,7 +6177,7 @@ unit_abilities_tooltip_text_3k_dlc07_ability_heavenly_presence	局势危急之�
 unit_abilities_tooltip_text_3k_dlc07_ability_impenetrable_redoubt	此将有如一道铜墙铁壁，鼓舞着麾下兵士在逆境中不动如山。	false
 unit_abilities_tooltip_text_3k_dlc07_ability_mighty_thrust	此人大吼一声，纵马冲入敌阵，犹如一把利刃，杀得敌人血肉横飞。	false
 unit_abilities_tooltip_text_3k_dlc07_ability_mock	此英雄面对敌将，一番滔滔雄辩，令其心智动摇。	false
-unit_abilities_tooltip_text_3k_dlc07_ability_rally_the_troops	此将召集兵士奋勇作战，鼓励他们作最后一搏。	false
+unit_abilities_tooltip_text_3k_dlc07_ability_rally_the_troops	此将集结军队，激励众将士发起最后的冲锋，建不世之功业。	false
 unit_abilities_tooltip_text_3k_dlc07_ability_xiezhi_roar	勇士怒发冲冠，若獬豸附身，勇不可当。	false
 unit_abilities_tooltip_text_3k_elephant_ability_trample	战象的猛然一跺，足以碾碎脚下的一切。	true
 unit_abilities_tooltip_text_3k_main_ability_advance	军令如山，不听约束者皆斩之。	true
@@ -6247,7 +6247,7 @@ unit_abilities_tooltip_text_3k_main_ability_prevent_assassination2	遭扰攘之�
 unit_abilities_tooltip_text_3k_main_ability_provocation	你难道想在沙场上于刘关张相会？	true
 unit_abilities_tooltip_text_3k_main_ability_pursuit	猎人猎物，瓮中捉鳖。	true
 unit_abilities_tooltip_text_3k_main_ability_quick_preparation	陆政使用长弓手到擒来，总能先人一步拉弓搭箭。	true
-unit_abilities_tooltip_text_3k_main_ability_quickfire	此人一箭紧接一箭，一箭快过一箭。	true
+unit_abilities_tooltip_text_3k_main_ability_quickfire	此弓手一箭紧接一箭，一箭快过一箭。	true
 unit_abilities_tooltip_text_3k_main_ability_rage_of_lu_ji	愈战愈勇，佛挡杀佛。	true
 unit_abilities_tooltip_text_3k_main_ability_reckless_warrior	奋不顾身，得失难记。	true
 unit_abilities_tooltip_text_3k_main_ability_shadow_of_the_black_mountain	传黑山有一女，能如遁迹匿影，来去自如。	false
@@ -6421,7 +6421,7 @@ unit_abilities_tooltip_text_hv_formation_shock_loose_cavalry	部队排成松散�
 unit_abilities_tooltip_text_hv_formation_shock_loose_cavalry_no_requirement	部队排成松散阵型，令敌方箭矢难以射中他们	true
 unit_abilities_tooltip_text_hv_formation_spear_wall_danyang	部队面向敌军结成一道盾墙。这种进攻性阵型适合冒着箭雨向前冲锋	true
 unit_abilities_tooltip_text_hv_historical_ability_earth_01	冲突无法避免。	true
-unit_abilities_tooltip_text_hv_historical_ability_earth_02	凭地利，如披坚甲，箭若无物	true
+unit_abilities_tooltip_text_hv_historical_ability_earth_02	凭地利，如披坚甲，箭若无物。	true
 unit_abilities_tooltip_text_hv_historical_ability_earth_03	军士聚于此英雄之旗下。	true
 unit_abilities_tooltip_text_hv_historical_ability_fire_01	坚定之心，锋利宝刃，足以撕破敌阵	true
 unit_abilities_tooltip_text_hv_historical_ability_fire_02	凤怒炎涛，摧枯拉朽！	true
@@ -6433,7 +6433,7 @@ unit_abilities_tooltip_text_hv_historical_ability_metal_01	同袍兄弟，狂呼
 unit_abilities_tooltip_text_hv_historical_ability_metal_02	此人行动迅如狡兔，万军擒拿亦若无物。	true
 unit_abilities_tooltip_text_hv_historical_ability_metal_03	森林为懂得尊重的人提供了通行路径和更稳固的立足之地。	true
 unit_abilities_tooltip_text_hv_historical_ability_scholar_01	上观则为天，深察则为妙	true
-unit_abilities_tooltip_text_hv_historical_ability_scholar_02	凭地利，如披坚甲，箭若无物	true
+unit_abilities_tooltip_text_hv_historical_ability_scholar_02	凭地利，如披坚甲，箭若无物。	true
 unit_abilities_tooltip_text_hv_historical_ability_scholar_03	精妙一击，宁缺毋滥	true
 unit_abilities_tooltip_text_hv_historical_ability_veteran_01	森林为懂得尊重的人提供了通行路径和更稳固的立足之地。	true
 unit_abilities_tooltip_text_hv_historical_ability_veteran_02	劳于地者必亲之	true
@@ -6547,7 +6547,7 @@ unit_ability_types_localised_description_3k_main_ability_vigor_of_a_warrior	热�
 unit_ability_types_localised_description_3k_main_ability_xianchenying	马首	true
 unit_ability_types_localised_description_3k_main_ability_youthful_vigor	稚虎	true
 unit_ability_types_localised_description_3k_main_formation_wedge_wen_chu	楔形阵	true
-unit_ability_types_localised_description_hv_ability_aggressive_anger	怒猊	true
+unit_ability_types_localised_description_hv_ability_aggressive_anger	蛮力	true
 unit_ability_types_localised_description_hv_ability_anti_cavalry	反制	true
 unit_ability_types_localised_description_hv_ability_assemble	齐心	true
 unit_ability_types_localised_description_hv_ability_bandit_unlock_earth	匪徒：你死我活	true
@@ -6564,7 +6564,7 @@ unit_ability_types_localised_description_hv_ability_battle_trance	乱战	true
 unit_ability_types_localised_description_hv_ability_beihai_accuracy	精瞄	true
 unit_ability_types_localised_description_hv_ability_beihai_reload	冷静装填	true
 unit_ability_types_localised_description_hv_ability_black_mountain_brotherhood	手足	true
-unit_ability_types_localised_description_hv_ability_blade_mastery	盖世	true
+unit_ability_types_localised_description_hv_ability_blade_mastery	剑术专精	true
 unit_ability_types_localised_description_hv_ability_bleed	影袭	true
 unit_ability_types_localised_description_hv_ability_blood_thirst	嗜血成性	true
 unit_ability_types_localised_description_hv_ability_brawl	熊罴	true
@@ -6656,7 +6656,7 @@ unit_ability_types_localised_description_hv_ability_second_chance	余烬复燃	t
 unit_ability_types_localised_description_hv_ability_skirmishing_shot	游击	true
 unit_ability_types_localised_description_hv_ability_sniper_position	狙击位置	true
 unit_ability_types_localised_description_hv_ability_sparrow	燕翔	true
-unit_ability_types_localised_description_hv_ability_storm_of_swords	舞爪	true
+unit_ability_types_localised_description_hv_ability_storm_of_swords	剑刃风暴	true
 unit_ability_types_localised_description_hv_ability_strength_of_blackmountain	黑山之力	true
 unit_ability_types_localised_description_hv_ability_strength_of_the_land	地力	true
 unit_ability_types_localised_description_hv_ability_striking_tide	刀浪澎湃	true
@@ -6693,7 +6693,7 @@ unit_ability_types_localised_description_hv_formation_shock_loose	疏阵冲锋	t
 unit_ability_types_localised_description_hv_formation_shock_loose_cavalry	骑兵疏阵冲锋	true
 unit_ability_types_localised_description_hv_formation_shock_loose_cavalry_no_requirement	骑兵疏阵冲锋	true
 unit_ability_types_localised_description_hv_formation_spear_wall_danyang	丹阳矛盾墙阵（可机动）	true
-unit_ability_types_localised_description_hv_historical_ability_earth_01	舞爪	true
+unit_ability_types_localised_description_hv_historical_ability_earth_01	剑刃风暴	true
 unit_ability_types_localised_description_hv_historical_ability_earth_02	磐石	true
 unit_ability_types_localised_description_hv_historical_ability_earth_03	齐心	true
 unit_ability_types_localised_description_hv_historical_ability_fire_01	突围	true
@@ -7134,8 +7134,8 @@ unit_description_historical_texts_text_hv_unit_buqu_rep_crossbowmen	未完成\\n
 unit_description_historical_texts_text_hv_unit_buqu_sabre_cavalry	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
 unit_description_historical_texts_text_hv_unit_buqu_sabre_infantry	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
 unit_description_historical_texts_text_hv_unit_buqu_spearmen	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
-unit_description_historical_texts_text_hv_unit_chen_peacekeepers_crossbowmen	汉德虽衰，余威犹存。这些战士为陈王刘宠效劳。他们身穿金漆铠甲，在战场上形成一道璀璨的风景，提醒世人，只要他们还站着，汉室就还没有消亡。\\n\\n这些特殊的士兵装备着弩箭，可以用穿甲弩矢无情地对汉室的敌人进行猛烈的炮击。如果敌人的骑兵想冲锋，他们会有一个不愉快的惊喜：这些战士还装备着长矛和盾牌，会毫不犹豫地击倒任何靠近的骑兵！ 	true
-unit_description_historical_texts_text_hv_unit_chen_peacekeepers_halberd_infantry	汉德虽衰，余威犹存。这些战士为陈王刘宠效劳。他们身穿金漆铠甲，在战场上形成一道璀璨的风景，提醒世人，只要他们还站着，汉室就还没有消亡。\\n\\n这些士兵从陈王那里得到了精美的盔甲，他们熟练地挥舞着他们的长戟来保卫汉室。作为一支纪律严明的部队，他们向敌人挺进，来见证汉室的辉煌。 	true
+unit_description_historical_texts_text_hv_unit_chen_peacekeepers_crossbowmen	汉德虽衰，余威犹存。这些战士为陈王刘宠效劳。他们身穿金漆铠甲，在战场上形成一道璀璨的风景，提醒世人，只要他们还站着，汉室就还没有消亡。\\n\\n这些特殊的士兵装备着弩箭，可以用穿甲弩矢无情地对汉室的敌人进行猛烈的炮击。如果敌人的骑兵想冲锋，他们会有一个不愉快的惊喜：这些战士还装备着长矛和盾牌，会毫不犹豫地击倒任何靠近的骑兵！	true
+unit_description_historical_texts_text_hv_unit_chen_peacekeepers_halberd_infantry	汉德虽衰，余威犹存。这些战士为陈王刘宠效劳。他们身穿金漆铠甲，在战场上形成一道璀璨的风景，提醒世人，只要他们还站着，汉室就还没有消亡。\\n\\n这些士兵从陈王那里得到了精美的盔甲，他们熟练地挥舞着他们的长戟来保卫汉室。作为一支纪律严明的部队，他们向敌人挺进，来见证汉室的辉煌。	true
 unit_description_historical_texts_text_hv_unit_chen_royal_guard_cavalry	汉德虽衰，余威犹存。这些战士为陈王刘宠效劳。他们身穿金漆铠甲，在战场上形成一道璀璨的风景，提醒世人，只要他们还站着，汉室就还没有消亡。\\n\\n这些禁卫军是他们盟友的希望。每人都被赐予良马重甲，受过各种武器的训练，从弓弩到剑盾，也都是经过许多战斗的老兵。	true
 unit_description_historical_texts_text_hv_unit_dan_yang_archers	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
 unit_description_historical_texts_text_hv_unit_dan_yang_infantry	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
@@ -7176,9 +7176,9 @@ unit_description_historical_texts_text_hv_unit_jianan_crossbowmen_cavalry	未完
 unit_description_historical_texts_text_hv_unit_jianan_hand_ji_infantry	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
 unit_description_historical_texts_text_hv_unit_jianan_rep_crossbowmen	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
 unit_description_historical_texts_text_hv_unit_jingchou_buqu_2h_axemen	在这片土地上培养出来的士兵是楚国旧王朝的继承人，他们有着共同的气质：斗志昂扬，忠贞不渝。他们是使任何军阀或皇帝适意的战斗力量。\\n\\n长斧令人望而生畏，尤其是在这样一个好战的民族手中。他们被认为是优秀的突击步兵，轻易砍裂盾牌和盔甲，重振他们的古代王朝的荣耀。	true
-unit_description_historical_texts_text_hv_unit_jingchou_buqu_2h_spearmen	在这片土地上培养出来的士兵是楚国旧王朝的继承人，他们有着共同的气质：斗志昂扬，忠贞不渝。他们是使任何军阀或皇帝适意的战斗力量。\\n\\n这些士兵使用长矛和盾牌，为他们的军队形成一道防御屏障，抵御骑兵冲锋。他们的盔甲比其他大多数军队都轻，但这使他们更加机动：许多骑兵被突如其来的荆楚矛兵打了个措手不及！ 	true
-unit_description_historical_texts_text_hv_unit_jingchou_buqu_archers	在这片土地上培养出来的士兵是楚国旧王朝的继承人，他们有着共同的气质：斗志昂扬，忠贞不渝。他们是使任何军阀或皇帝适意的战斗力量。\\n\\n这些人是熟练的弓箭手，可以灵活地移动到最有利的位置为他们的军队提供掩护火力。然而他们需要保护免受骑兵攻击，因为他们只有轻护甲。 	true
-unit_description_historical_texts_text_hv_unit_jingchou_buqu_caltrop_infantry	在这片土地上培养出来的士兵是楚国旧王朝的继承人，他们有着共同的气质：斗志昂扬，忠贞不渝。他们是使任何军阀或皇帝适意的战斗力量。\\n\\n这些战士携带蒺藜，设下看不见的陷井来阻碍敌人前进。任何幸存者都会很快被这些战士的利刃处理掉。一个熟练的将军会小心防备弓箭手：他们的盔甲很轻，没有盾牌。 	true
+unit_description_historical_texts_text_hv_unit_jingchou_buqu_2h_spearmen	在这片土地上培养出来的士兵是楚国旧王朝的继承人，他们有着共同的气质：斗志昂扬，忠贞不渝。他们是使任何军阀或皇帝适意的战斗力量。\\n\\n这些士兵使用长矛和盾牌，为他们的军队形成一道防御屏障，抵御骑兵冲锋。他们的盔甲比其他大多数军队都轻，但这使他们更加机动：许多骑兵被突如其来的荆楚矛兵打了个措手不及！	true
+unit_description_historical_texts_text_hv_unit_jingchou_buqu_archers	在这片土地上培养出来的士兵是楚国旧王朝的继承人，他们有着共同的气质：斗志昂扬，忠贞不渝。他们是使任何军阀或皇帝适意的战斗力量。\\n\\n这些人是熟练的弓箭手，可以灵活地移动到最有利的位置为他们的军队提供掩护火力。然而他们需要保护免受骑兵攻击，因为他们只有轻护甲。	true
+unit_description_historical_texts_text_hv_unit_jingchou_buqu_caltrop_infantry	在这片土地上培养出来的士兵是楚国旧王朝的继承人，他们有着共同的气质：斗志昂扬，忠贞不渝。他们是使任何军阀或皇帝适意的战斗力量。\\n\\n这些战士携带蒺藜，设下看不见的陷井来阻碍敌人前进。任何幸存者都会很快被这些战士的利刃处理掉。一个熟练的将军会小心防备弓箭手：他们的盔甲很轻，没有盾牌。	true
 unit_description_historical_texts_text_hv_unit_juggernaut	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
 unit_description_historical_texts_text_hv_unit_local_noble_buqu_archers	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
 unit_description_historical_texts_text_hv_unit_local_noble_buqu_infantry	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
@@ -7206,7 +7206,7 @@ unit_description_historical_texts_text_hv_unit_nanman_southern_foreign_warriors	
 unit_description_historical_texts_text_hv_unit_nanman_southern_shield_bearers	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
 unit_description_historical_texts_text_hv_unit_nanman_spear_defectors	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
 unit_description_historical_texts_text_hv_unit_nomad_gang_cavalry	The nomads of the steppes have a reputation for fine horsemanship. These particular horse archers have turned to banditry and pillaging to fill their coffers. They will allign themselves to bandit chiefs of note, who can afford their services by giving them a proportional share of the loot. In battle, they harass the enemy from afar, using their horses to quickly wheel about when the counter-attack comes.	true
-unit_description_historical_texts_text_hv_unit_northern_mace_cavalry	这些骑手名声远扬。为了与北方部落作战，公孙瓒打造了一支自己的骑兵部队。这些战士跟随他们的领军作战，对抗部落或其他汉室之敌……\\n\\n他们使用剑和盾牌，身穿重甲，能够承受连续的箭雨，然后冲入近战，留在那里守住阵线，等待其他军队消灭敌人。 	true
+unit_description_historical_texts_text_hv_unit_northern_mace_cavalry	这些骑手名声远扬。为了与北方部落作战，公孙瓒打造了一支自己的骑兵部队。这些战士跟随他们的领军作战，对抗部落或其他汉室之敌……\\n\\n他们使用剑和盾牌，身穿重甲，能够承受连续的箭雨，然后冲入近战，留在那里守住阵线，等待其他军队消灭敌人。	true
 unit_description_historical_texts_text_hv_unit_northern_spear_cavalry	这些骑手名声远扬。为了与北方部落作战，公孙瓒打造了一支自己的骑兵部队。这些战士跟随他们的领军作战，对抗部落或其他汉室之敌……\\n\\n这些装甲战士手持长矛和盾牌，冲向战场，用他们的长矛刺穿敌人。他们只需要提防敌人的矛兵和弓弩手。	true
 unit_description_historical_texts_text_hv_unit_onyx_dragons	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
 unit_description_historical_texts_text_hv_unit_palace_guards	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
@@ -7245,24 +7245,24 @@ unit_description_historical_texts_text_hv_unit_wuhuan_barded_cavalry	未完成\\
 unit_description_historical_texts_text_hv_unit_wuhuan_cavalry	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
 unit_description_historical_texts_text_hv_unit_xian_chen_ying	孙子有云：“围师遗阙，穷寇勿迫“，说的是一旦敌人被完全包围，就会因绝望而作困兽之斗。但对于高顺和他手下的陷阵死士来说，即便被敌人四面包围，他们也不会感到绝望，而是会继续厮杀不休。\\n\\n陷阵死士们不但长于撕碎敌人的阵型，也能做到在被敌人包围时顽强奋战。就算尸骸满地，陷阵营也能杀出重围，胜利而归。 	true
 unit_description_historical_texts_text_hv_unit_xianbei_archer_cavalry	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
-unit_description_historical_texts_text_hv_unit_xiliang_buqu_archer_cavalry	一边是长城的阴影，另一边是草原各部落，西凉民族必须纪律严明，艰苦奋斗。而西凉士兵则必须加倍做到。\\n\\n勇敢而老练的西凉军是大多数军阀羡慕的对象，也是西凉军将领的骄傲。\\n\\n这些马弓手会模仿他们经常面对的草原部落的战术，可以熟练地边射边跑。他们将攻击敌人最薄弱的地方，同时会保持距离，没有弓弩便无法伤害他们。 	true
+unit_description_historical_texts_text_hv_unit_xiliang_buqu_archer_cavalry	一边是长城的阴影，另一边是草原各部落，西凉民族必须纪律严明，艰苦奋斗。而西凉士兵则必须加倍做到。\\n\\n勇敢而老练的西凉军是大多数军阀羡慕的对象，也是西凉军将领的骄傲。\\n\\n这些马弓手会模仿他们经常面对的草原部落的战术，可以熟练地边射边跑。他们将攻击敌人最薄弱的地方，同时会保持距离，没有弓弩便无法伤害他们。	true
 unit_description_historical_texts_text_hv_unit_xiliang_buqu_crossbowmen	一边是长城的阴影，另一边是草原各部落，西凉民族必须纪律严明，艰苦奋斗。而西凉士兵则必须加倍做到。\\n\\n勇敢而老练的西凉军是大多数军阀羡慕的对象，也是西凉军将领的骄傲。\\n\\n这些士兵手持弓弩，向敌人发射大量穿甲箭矢。聪明的将军会用矛兵支持他们，因为他们是敌人骑兵的主要目标。	true
 unit_description_historical_texts_text_hv_unit_xiliang_buqu_hand_ji_infantry	一边是长城的阴影，另一边是草原各部落，西凉民族必须纪律严明，艰苦奋斗。而西凉士兵则必须加倍做到。\\n\\n勇敢而老练的西凉军是大多数军阀羡慕的对象，也是西凉军将领的骄傲。\\n\\n这些士兵会先投掷一只备用的手戟，然后冲向敌人的防线，一只手挥舞着他们的匕首斧，另一只手拿着盾牌来招架敌人的回击。	true
 unit_description_historical_texts_text_hv_unit_xiliang_buqu_ji_infantry	一边是长城的阴影，另一边是草原各部落，西凉民族必须纪律严明，艰苦奋斗。而西凉士兵则必须加倍做到。\\n\\n勇敢而老练的西凉军是大多数军阀羡慕的对象，也是西凉军将领的骄傲。\\n\\n这些士兵，装备了长戟，将在骑兵冲锋时严阵以待，让马自己冲到他们的刀刃上。他们身穿铁甲，可以自如地加入混战，迎击所有来犯。	true
-unit_description_historical_texts_text_hv_unit_xiliang_buqu_sabre_cavalry	一边是长城的阴影，另一边是草原各部落，西凉民族必须纪律严明，艰苦奋斗。而西凉士兵则必须加倍做到。\\n\\n勇敢而老练的西凉军是大多数军阀羡慕的对象，也是西凉军将领的骄傲。\\n\\n作为敏捷的骑兵，他们可以很容易地抓住任何走散的敌人。他们的剑和盾牌将允许他们进行短暂的近战，但之后就需要撤退。 	true
-unit_description_historical_texts_text_hv_unit_xiliang_buqu_spear_cavalry	一边是长城的阴影，另一边是草原各部落，西凉民族必须纪律严明，艰苦奋斗。而西凉士兵则必须加倍做到。\\n\\n勇敢而老练的西凉军是大多数军阀羡慕的对象，也是西凉军将领的骄傲。\\n\\n像这样的老练骑兵会以毁灭性的冲锋打散敌人，而在敌人发动反击或放箭射他们之前他们已经撤走。 	true
+unit_description_historical_texts_text_hv_unit_xiliang_buqu_sabre_cavalry	一边是长城的阴影，另一边是草原各部落，西凉民族必须纪律严明，艰苦奋斗。而西凉士兵则必须加倍做到。\\n\\n勇敢而老练的西凉军是大多数军阀羡慕的对象，也是西凉军将领的骄傲。\\n\\n作为敏捷的骑兵，他们可以很容易地抓住任何走散的敌人。他们的剑和盾牌将允许他们进行短暂的近战，但之后就需要撤退。	true
+unit_description_historical_texts_text_hv_unit_xiliang_buqu_spear_cavalry	一边是长城的阴影，另一边是草原各部落，西凉民族必须纪律严明，艰苦奋斗。而西凉士兵则必须加倍做到。\\n\\n勇敢而老练的西凉军是大多数军阀羡慕的对象，也是西凉军将领的骄傲。\\n\\n像这样的老练骑兵会以毁灭性的冲锋打散敌人，而在敌人发动反击或放箭射他们之前他们已经撤走。	true
 unit_description_historical_texts_text_hv_unit_xiliang_buqu_spearmen	一边是长城的阴影，另一边是草原各部落，西凉民族必须纪律严明，艰苦奋斗。而西凉士兵则必须加倍做到。\\n\\n勇敢而老练的西凉军是大多数军阀羡慕的对象，也是西凉军将领的骄傲。\\n\\n这些矛兵通过先发制人的冲锋来保护侧翼，并以一定角度支起他们的羌族长矛，只有最愚蠢或最勇敢的骑兵才敢向其冲锋。但这使他们成为远程攻击的目标，因此他们装备了皮甲，并携带大型盾牌，以保护自己免受箭雨伤害。	true
 unit_description_historical_texts_text_hv_unit_xiliang_elite_2h_swordsmen	一边是长城的阴影，另一边是草原各部落，西凉民族必须纪律严明，艰苦奋斗。而西凉士兵则必须加倍做到。\\n\\n每一支军队都有自己的精锐，西凉精锐则尤其出色。\\n\\n这些战士装备双手斩马刀，可以让任何骑兵的冲锋陷入死战，然后轻易地解决掉敌人。	true
 unit_description_historical_texts_text_hv_unit_xiliang_elite_barded_2h_spear_cavalry	一边是长城的阴影，另一边是草原各部落，西凉民族必须纪律严明，艰苦奋斗。而西凉士兵则必须加倍做到。\\n\\n每一支军队都有自己的精锐，西凉精锐则尤其出色。\\n\\n这些士兵身着重甲，战马同样披着马甲，他们是西凉最强的战士。虽然行动缓慢，但当他们冲进敌人阵型，践踏和刺杀敌人时，几乎没有人能抵抗他们。	true
 unit_description_historical_texts_text_hv_unit_xiliang_elite_crossbowmen	一边是长城的阴影，另一边是草原各部落，西凉民族必须纪律严明，艰苦奋斗。而西凉士兵则必须加倍做到。\\n\\n每一支军队都有自己的精锐，西凉精锐则尤其出色。\\n\\n这些弩手是反骑兵专家。即使是强大的游牧铁骑也会避开他们。	true
-unit_description_historical_texts_text_hv_unit_xiliang_elite_enforcers	如果只有力量才能统治，那么就必须经常充分地展现这样的力量。必须用那些不信的傻瓜们来罚一儆百。\\n\\n这些经过西凉训练的战士，是董卓与吕布强加于汉朝的铁腕统治的中坚力量。\\n\\n他们弓剑娴熟，经常上街巡逻，平息骚乱。 	true
+unit_description_historical_texts_text_hv_unit_xiliang_elite_enforcers	如果只有力量才能统治，那么就必须经常充分地展现这样的力量。必须用那些不信的傻瓜们来罚一儆百。\\n\\n这些经过西凉训练的战士，是董卓与吕布强加于汉朝的铁腕统治的中坚力量。\\n\\n他们弓剑娴熟，经常上街巡逻，平息骚乱。	true
 unit_description_historical_texts_text_hv_unit_xiliang_elite_spearmen	一边是长城的阴影，另一边是草原各部落，西凉民族必须纪律严明，艰苦奋斗。而西凉士兵则必须加倍做到。\\n\\n每一支军队都有自己的精锐，西凉精锐则尤其出色。\\n\\n这些矛兵身穿铁甲，手持巨盾，将守住任何军队的前线并击退敌兵。	true
 unit_description_historical_texts_text_hv_unit_xiongnu_archer_cavalry	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
 unit_description_historical_texts_text_hv_unit_xiongnu_barded_cavalry	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
 unit_description_historical_texts_text_hv_unit_xiongnu_javelineer	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
 unit_description_historical_texts_text_hv_unit_yellow_dragons	未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）	true
 unit_description_historical_texts_text_hv_unit_ytr_bringers_of_righteousness	这些百姓自称布义军，他们自费购进装甲与武器。他们饱经训练，能熟练地使用戟，也在传统的射术比试中习得了弓术。\\n\\n虽然他们衣着光鲜，但志向却绝非虚荣卖弄，他们灵活矫健，使弓和戟的本事不容小觑，此等义士若能加入太平大业，定是再好不过。	false
-unit_description_historical_texts_text_hv_unit_ytr_captain	由校尉和卫官来指挥军队。	false
+unit_description_historical_texts_text_hv_unit_ytr_captain	由伯长和卫官来指挥军队。	false
 unit_description_historical_texts_text_hv_unit_ytr_gallants_of_the_people	黄巾军志士个个不怕冲锋陷阵，但是护民勇士尤其适合固守阵线，要是挪作他用可就浪费了他们一身的本领和热忱。\\n\\n他们身披重甲，也许不若其他铁甲兵士防御周全，但可仰赖手中大斧抵挡敌军、化解攻势。正所谓甲胄可破，斗志不渝。	false
 unit_description_historical_texts_text_hv_unit_ytr_reclaimers	从这些部队的外观就不难推测他们是干什么的，他们的盔甲要么是从战场上拾捡拼凑而来，要么是从周围村落里搞来的。\\n\\n他们最重要的作用是在战后搜集战利品、武器以及盔甲，从而推进太平大业。他们不善于近战，所以只用一些捡来的连弩支援前线部队。	false
 unit_description_historical_texts_text_hv_unit_ytr_righteous_vanguards	这些勇士的使命便是替天行道，为苍生而战，给与敌人致命一击。\\n\\n 这些骑兵是黄巾军中仅有的突击骑兵。他们不但能手持长枪，用冲锋撕裂敌人的阵型，还身披重甲，能够在近战中坚持奋战，用正义的怒火刺穿敌人的铠甲。	false
@@ -7350,8 +7350,8 @@ unit_description_short_texts_text_hv_unit_jianan_crossbowmen_cavalry	未完成	t
 unit_description_short_texts_text_hv_unit_jianan_hand_ji_infantry	未完成	true
 unit_description_short_texts_text_hv_unit_jianan_rep_crossbowmen	未完成	true
 unit_description_short_texts_text_hv_unit_jingchou_buqu_2h_axemen	这些人所挥的大斧是楚国的荣耀，即使是持盾的敌人亦命不久矣。 	true
-unit_description_short_texts_text_hv_unit_jingchou_buqu_2h_spearmen	这些楚国的矛兵与山丘一样坚韧，对任何一个军阀来说都是一笔财富。 	true
-unit_description_short_texts_text_hv_unit_jingchou_buqu_archers	荆楚弓手早已领悟到了弓箭在丘陵地带的优势。 	true
+unit_description_short_texts_text_hv_unit_jingchou_buqu_2h_spearmen	荆楚矛兵的忠勇对任何军阀来说都是一笔巨大的财产。	true
+unit_description_short_texts_text_hv_unit_jingchou_buqu_archers	在崎岖的荆楚山丘中，荆州弓手的箭雨堪比天降死神。	true
 unit_description_short_texts_text_hv_unit_jingchou_buqu_caltrop_infantry	在荆楚的山中，粗心的人可能会被一把蒺藜绊倒，然后被放它的人杀死。 	true
 unit_description_short_texts_text_hv_unit_juggernaut	未完成	true
 unit_description_short_texts_text_hv_unit_local_noble_buqu_archers	未完成	true
@@ -7368,7 +7368,7 @@ unit_description_short_texts_text_hv_unit_militia_archers	未完成	true
 unit_description_short_texts_text_hv_unit_militia_black_mountain_outlaws	恶狼齐聚，黑山匪帮已经准备好去打下属于自己的江山了。	true
 unit_description_short_texts_text_hv_unit_militia_ji_infantry	未完成	true
 unit_description_short_texts_text_hv_unit_militia_sabre_infantry	未完成	true
-unit_description_short_texts_text_hv_unit_militia_scout_cavalry	长久保卫家园之后，即使是民兵也可能成长为职业士兵的对手。 	true
+unit_description_short_texts_text_hv_unit_militia_scout_cavalry	民兵在百战后其技艺已经可以匹敌朝廷士兵。	true
 unit_description_short_texts_text_hv_unit_militia_taishan_outlaws	狼牙棒在手，江山我有！	true
 unit_description_short_texts_text_hv_unit_militia_white_tiger_outlaws	在江东山林中，藏匿着与大汉不共戴天的亡命之徒。	true
 unit_description_short_texts_text_hv_unit_multiple_bolt_crossbow	未完成	true
@@ -7430,7 +7430,7 @@ unit_description_short_texts_text_hv_unit_xiliang_elite_2h_swordsmen	就算在�
 unit_description_short_texts_text_hv_unit_xiliang_elite_barded_2h_spear_cavalry	作为西凉军的骄傲，这些重甲骑兵将教导他们的敌人“精锐骑兵”的含义。 	true
 unit_description_short_texts_text_hv_unit_xiliang_elite_crossbowmen	即使在沙尘中，他们也总能准确命中。 	true
 unit_description_short_texts_text_hv_unit_xiliang_elite_enforcers	佩戴剑弓，这些硬朗的士兵执行他们主公的意志。	true
-unit_description_short_texts_text_hv_unit_xiliang_elite_spearmen	这些精锐矛兵是百经锤炼的西凉战士，会坚守阵地对抗所有来敌。 	true
+unit_description_short_texts_text_hv_unit_xiliang_elite_spearmen	这些精锐矛兵是百经锤炼的西凉战士，会坚守阵地对抗所有来敌。	true
 unit_description_short_texts_text_hv_unit_xiongnu_archer_cavalry	未完成	true
 unit_description_short_texts_text_hv_unit_xiongnu_barded_cavalry	未完成	true
 unit_description_short_texts_text_hv_unit_xiongnu_javelineer	未完成	true

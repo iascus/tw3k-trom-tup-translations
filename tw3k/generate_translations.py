@@ -50,7 +50,7 @@ class Step:
         return f'csv/diff/{self.filename}.diff'
 
     def save(self):
-        self.data.to_csv(self.out_filepath, index=False)
+        self.data.to_csv(self.out_filepath, index=False, lineterminator='\n')
         logger.info(f'Saved to {self.out_filepath}')
 
     @abstractmethod
