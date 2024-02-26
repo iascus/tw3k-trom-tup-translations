@@ -1,83 +1,83 @@
-Text,zh-tw,zh-cn
-Archers,弓兵,弓手
-Assault Cavalry,突擊騎兵,突击骑兵
-Assaults,衝鋒兵,冲锋手
-Axe Defectors,叛逃斧兵,变节斧手
-Axemen,斧兵,斧手
-Bandits,盗贼,山贼
-Caltrop Throwers,蒺藜兵,蒺藜手
-Captain,校尉,伯长
-Cataphracts,鐵甲騎兵,铁骑
-Cavalry Defectors,叛逃騎兵,变节骑兵
-Cavalry,騎兵,骑兵
-Crossbow Defectors,叛逃弩兵,变节弩手
-Crossbow Defenders,弩衛,弩卫
-Crossbow Peacekeepers,衛平弩兵,泰平弩卫
+eng,zh-cn,zh-tw
+Archers,弓手,弓兵
+Assault Cavalry,突击骑兵,突擊騎兵
+Assaults,冲锋手,衝鋒兵
+Axe Defectors,变节斧手,叛逃斧兵
+Axemen,斧手,斧兵
+Bandits,山贼,盗贼
+Caltrop Throwers,蒺藜手,蒺藜兵
+Captain,伯长,校尉
+Cataphracts,铁骑,鐵甲騎兵
+Cavalry Defectors,变节骑兵,叛逃騎兵
+Cavalry,骑兵,騎兵
+Crossbow Defectors,变节弩手,叛逃弩兵
+Crossbow Defenders,弩卫,弩衛
+Crossbow Peacekeepers,泰平弩卫,衛平弩兵
 Crossbow,弩,弩
-Crossbowmen Cavalry,弩騎兵,弩骑兵
+Crossbowmen Cavalry,弩骑兵,弩騎兵
 Crossbowmen,弩兵,弩兵
-Fellows Officer,義從官,义从士官
-Fellows Shot,義從射擊,义从射击
-Fellows,義從,义从
+Fellows Officer,义从士官,義從官
+Fellows Shot,义从射击,義從射擊
+Fellows,义从,義從
 Freemen,自由人,自由人
-Guardsmen,衛兵,卫士
-Halberd Peacekeepers,衛平戟兵,泰平戟卫
+Guardsmen,卫士,衛兵
+Halberd Peacekeepers,泰平戟卫,衛平戟兵
 Hand-Ji Infantry,手戟兵,手戟兵
-Heavy Bow Archers,重型弓兵,重弓手
-Horsemen,騎兵,骑兵
-Hunters,獵人,猎手
-Javelineer,擲鋋兵,投枪手
-Javelineers,擲鋋兵,投枪手
-Ji Cavalry,戟騎兵,戟骑兵
-Ji Infantry,戟兵,戟步兵
-Lancer Cataphracts,長槍鐵甲騎兵,长枪铁骑
-Lancer Cavalry,槍騎,戟骑兵
-Long Axe Infantry,長斧步兵,长斧步兵
-Long Axemen,長斧兵,长斧手
-Long Spear Defectors,叛逃長槍兵,变节长枪兵
-Long Spearmen,長槍兵,长枪兵
-Marauders,掠奪者,劫匪
-Marksmen,射手,射声士
-Melee Infantry,近戰步兵,近战步兵
-Mounted Archers,弓騎兵,骑射手
-Mounted Rangers,游騎兵,游骑兵
-Mounted Warriors,騎馬戰士,骑乘勇士
+Heavy Bow Archers,重弓手,重型弓兵
+Horsemen,骑兵,騎兵
+Hunters,猎手,獵人
+Javelineer,投枪手,擲鋋兵
+Javelineers,投枪手,擲鋋兵
+Ji Cavalry,戟骑兵,戟騎兵
+Ji Infantry,戟步兵,戟兵
+Lancer Cataphracts,长枪铁骑,長槍鐵甲騎兵
+Lancer Cavalry,戟骑兵,槍騎
+Long Axe Infantry,长斧步兵,長斧步兵
+Long Axemen,长斧手,長斧兵
+Long Spear Defectors,变节长枪兵,叛逃長槍兵
+Long Spearmen,长枪兵,長槍兵
+Marauders,劫匪,掠奪者
+Marksmen,射声士,射手
+Melee Infantry,近战步兵,近戰步兵
+Mounted Archers,骑射手,弓騎兵
+Mounted Rangers,游骑兵,游騎兵
+Mounted Warriors,骑乘勇士,騎馬戰士
 Polearm Infantry,持戟步兵,持戟步兵
-Queen,女王,魁首
-Raid Cavalry,突襲騎兵,游骑
-Raider Cavalry,突襲騎兵,游骑
+Queen,魁首,女王
+Raid Cavalry,游骑,突襲騎兵
+Raider Cavalry,游骑,突襲騎兵
 Raiders,劫匪,劫匪
-Ranged Infantry,遠程步兵,远程步兵
-Rangers,游擊兵,游击兵
-Remnants,殘黨,余党
-Repeating Crossbow Defenders,連弩衛,连弩卫
-Repeating Crossbowmen,連弩兵,连弩手
-Riders,騎手,掠骑兵
-Royal Guard Cavalry,羽林騎,羽林骑
-Sabre Cavalry,刀騎兵,刀骑兵
+Ranged Infantry,远程步兵,遠程步兵
+Rangers,游击兵,游擊兵
+Remnants,余党,殘黨
+Repeating Crossbow Defenders,连弩卫,連弩衛
+Repeating Crossbowmen,连弩手,連弩兵
+Riders,掠骑兵,騎手
+Royal Guard Cavalry,羽林骑,羽林騎
+Sabre Cavalry,刀骑兵,刀騎兵
 Sabre Infantry,持刀步兵,持刀步兵
 Shield Bearers,持盾者,持盾者
 Slingers,投石兵,投石兵
-Spear Defenders,槍衛,持矛卫士
-Spear Gang,槍兵團,矛兵团
-Spearmen,長槍兵,矛兵
-Spears,槍兵,矛兵
+Spear Defenders,持矛卫士,槍衛
+Spear Gang,矛兵团,槍兵團
+Spearmen,矛兵,長槍兵
+Spears,矛兵,槍兵
 Strays,流浪兵,流浪兵
-Sword Cavalry,劍騎兵,剑骑兵
-Swordsmen of Yuan,袁氏劍兵,袁氏剑兵
-Swordsmen,劍兵,剑兵
-Tamers,馴獸師,驯兽师
+Sword Cavalry,剑骑兵,劍騎兵
+Swordsmen of Yuan,袁氏剑兵,袁氏劍兵
+Swordsmen,剑兵,劍兵
+Tamers,驯兽师,馴獸師
 Troops,兵,兵
-Vanguards,先鋒,先锋
-Veterans,老兵,宿卫
-Warband,兵團,兵团
-Warriors,戰士,勇士
-Zhanmajian Infantry,斬馬劍兵,斩马劲卒
-Fire Archers,火矢弓兵,火箭手
+Vanguards,先锋,先鋒
+Veterans,宿卫,老兵
+Warband,兵团,兵團
+Warriors,勇士,戰士
+Zhanmajian Infantry,斩马劲卒,斬馬劍兵
+Fire Archers,火箭手,火矢弓兵
 Followers of the Flame,火神信徒,火神信徒
-Might of the Valley,五谿豪傑,五溪蛮兵
-Ravine Warriors,洞兵,八纳洞兵
-Sanjiang Poison Darts,三江毒鏢兵,三江毒箭手
-Wolf Pack,群狼兵,群狼
-Wuguo Axe Throwers,烏戈飛斧手,乌戈飞斧兵
-Wuling Fighters,武陵鬥士,武陵战士
+Might of the Valley,五溪蛮兵,五谿豪傑
+Ravine Warriors,八纳洞兵,洞兵
+Sanjiang Poison Darts,三江毒箭手,三江毒鏢兵
+Wolf Pack,群狼,群狼兵
+Wuguo Axe Throwers,乌戈飞斧兵,烏戈飛斧手
+Wuling Fighters,武陵战士,武陵鬥士

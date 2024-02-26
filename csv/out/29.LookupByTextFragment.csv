@@ -1,58 +1,58 @@
-eng,zh-tw,zh-cn
-Armour,護甲,护甲
-Army Reinforcement,軍隊補員,军队补员
-City Expansion,擴展城市,扩展城市
-Court Management,宮廷管理,宫廷管理
-Disturbance,擾亂,扰乱
+eng,zh-cn,zh-tw
+Armour,护甲,護甲
+Army Reinforcement,军队补员,軍隊補員
+City Expansion,扩展城市,擴展城市
+Court Management,宫廷管理,宮廷管理
+Disturbance,扰乱,擾亂
 Earth,土,土
-Embroidered Garment,绣服,綉服
-Embroidered Suit,华服,華服
+Embroidered Garment,綉服,绣服
+Embroidered Suit,華服,华服
 Fire,火,火
-Garrison Reinforcement,駐軍補員,驻军补员
-Gathering Volunteers,召集義勇,召集义勇
-Gold Embroidered Garments,金色绣服,金色綉服
+Garrison Reinforcement,驻军补员,駐軍補員
+Gathering Volunteers,召集义勇,召集義勇
+Gold Embroidered Garments,金色綉服,金色绣服
 Leather Armour,皮甲,皮甲
 Metal,金,金
-Military Support,軍事支援,军事支持
-Onyx Emroidered Garment,黑色绣服,黑色綉服
-Robes,長袍,长袍
-Silk Raiment,丝服,絲服
-Silver Embroidered Garments,银色绣服,銀色綉服
+Military Support,军事支持,軍事支援
+Onyx Emroidered Garment,黑色綉服,黑色绣服
+Robes,长袍,長袍
+Silk Raiment,絲服,丝服
+Silver Embroidered Garments,銀色綉服,银色绣服
 Water,水,水
 Wood,木,木
-additional melee hit bonus in enemy territory,敵方領土内近戰命中加成,敌方领土内近战命中加成
-additional melee hit bonus in own territory,我方領土内近戰命中加成,我方领土内近战命中加成
-additional melee hit bonus,近戰命中加成,近战命中加成
-armour cost,護甲費用,铠甲费用
-armour,護甲,铠甲
-battle running speed,戰場奔跑速度,战场奔跑速度
+additional melee hit bonus in enemy territory,敌方领土内近战命中加成,敵方領土内近戰命中加成
+additional melee hit bonus in own territory,我方领土内近战命中加成,我方領土内近戰命中加成
+additional melee hit bonus,近战命中加成,近戰命中加成
+armour cost,铠甲费用,護甲費用
+armour,铠甲,護甲
+battle running speed,战场奔跑速度,戰場奔跑速度
 black mountain,黑山,黑山
-charge bonus,衝鋒加成,冲锋加成
-charge speed,衝鋒速度,冲锋速度
-damage resistance,傷害抵抗力,伤害抵抗力
-health recovery,生命值回復,生命值回复
+charge bonus,冲锋加成,衝鋒加成
+charge speed,冲锋速度,衝鋒速度
+damage resistance,伤害抵抗力,傷害抵抗力
+health recovery,生命值回复,生命值回復
 hit bonus,命中率加成,命中率加成
-horse breeding per turn,每回合養馬,每回合养马
-horse breeding,養馬,养马
-mass for cavalry units,騎兵單位質量,骑兵单位质量
-melee attack rate,近戰攻擊速率,近战攻击速率
-melee evasion in enemy territory,敵方領土内近戰迴避,敌方领土内近战闪避
-melee evasion in own territory,我方領土内近戰迴避,我方领土内近战闪避
-melee evasion,近戰迴避,近战闪避
-melee hit bonus,近戰命中率加成,近战命中率加成
-missile block chance,遠程格擋機率,远程格挡概率
+horse breeding per turn,每回合养马,每回合養馬
+horse breeding,养马,養馬
+mass for cavalry units,骑兵单位质量,騎兵單位質量
+melee attack rate,近战攻击速率,近戰攻擊速率
+melee evasion in enemy territory,敌方领土内近战闪避,敵方領土内近戰迴避
+melee evasion in own territory,我方领土内近战闪避,我方領土内近戰迴避
+melee evasion,近战闪避,近戰迴避
+melee hit bonus,近战命中率加成,近戰命中率加成
+missile block chance,远程格挡概率,遠程格擋機率
 missile range,射程,射程
-missile resistance,遠程阻擋,远程抗性
-morale,士氣,士气
-move speed,移動速度,移动速度
-ranged block chance,遠程格擋機率,远程格挡概率
-recruitment cost,招募費用,招募费用
-replenishment,補員速率,补员速率
-resurrection,復甦,复苏
+missile resistance,远程抗性,遠程阻擋
+morale,士气,士氣
+move speed,移动速度,移動速度
+ranged block chance,远程格挡概率,遠程格擋機率
+recruitment cost,招募费用,招募費用
+replenishment,补员速率,補員速率
+resurrection,复苏,復甦
 speed,速度,速度
-starting rank,起始等級,起始等级
-stratocracy per turn,每回合軍政,每回合军政
-stratocracy,軍政,军政
-upkeep cost,維持費,维持费
-upkeep,維持費,维持费
-weapon damage,武器傷害,武器伤害
+starting rank,起始等级,起始等級
+stratocracy per turn,每回合军政,每回合軍政
+stratocracy,军政,軍政
+upkeep cost,维持费,維持費
+upkeep,维持费,維持費
+weapon damage,武器伤害,武器傷害

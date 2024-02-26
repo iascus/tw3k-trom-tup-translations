@@ -281,10 +281,10 @@ class MapByPatternZhcn(Step):
 
         lookup_by_text_fragment = self.lookup_by_text_fragment.data.set_index('eng')[self.lang_col].to_dict()
         lookup_by_pattern = self.lookup_by_pattern.data.set_index(['KeyPattern', 'TextPattern'])[[self.lang_col]]
-        lookup_by_unit_type = self.lookup_by_unit_type.data.set_index('Text')[self.lang_col].to_dict()
-        lookup_by_unit_name = self.lookup_by_unit_name.data.set_index('Text')[self.lang_col].to_dict()
-        lookup_by_skill = self.lookup_by_skill.data.set_index('Text')[self.lang_col].to_dict()
-        lookup_by_character = self.lookup_by_character.data.set_index('Text')[self.lang_col].to_dict()
+        lookup_by_unit_type = self.lookup_by_unit_type.data.set_index('eng')[self.lang_col].to_dict()
+        lookup_by_unit_name = self.lookup_by_unit_name.data.set_index('eng')[self.lang_col].to_dict()
+        lookup_by_skill = self.lookup_by_skill.data.set_index('eng')[self.lang_col].to_dict()
+        lookup_by_character = self.lookup_by_character.data.set_index('eng')[self.lang_col].to_dict()
         lookup_by_text_vanilla = self.vanilla_translations.data[['Text', self.lang_col]].dropna().set_index('Text')[self.lang_col].to_dict()
         lookup_by_text_vanilla.update(lookup_by_text.to_dict()['MappedByText'])
         lookup_by_text = lookup_by_text_vanilla
@@ -352,15 +352,12 @@ class MapByKeyZhcn(Step):
         data = data.merge(vanilla, on='Key', how='left')
         data = data.merge(mtu_zh.rename({'Text': 'Mtu'}, axis=1), on='Key', how='left')
         data = data.merge(pikaman_zh.rename({'Text': 'PikaMan'}, axis=1), on='Key', how='left')
-        data['Short Key'] = data['Key'].str.rsplit('_', n=1).str[0]
-        data = data.merge(pikaman_zh.rename({'Text': 'PikaManShortenedKey', 'Key': 'Short Key'}, axis=1), on='Short Key', how='left')
         data = data.merge(procrastinator_zh.rename({'Text': 'Procrastinator'}, axis=1), on='Key', how='left')
         data['Text'] = pd.NA
         data['Source'] = 'Missing'
         data = data.merge(map_by_pattern_zh, on='English', how='left')
         for col in [
             'Mtu',
-            'PikaManShortenedKey',
             'PikaMan',
             'Procrastinator',
             'Vanilla',
@@ -368,16 +365,21 @@ class MapByKeyZhcn(Step):
             'MappedByPattern',
             'OverrideByKey',
         ]:
-            to_update = (~pd.isna(data[col]) & (data[col] != ''))
+            to_update = (
+                ~pd.isna(data[col]) & (data[col] != '')
+                & (
+                    (data[col] != data['Text'])
+                    | (col in ['Vanilla', 'MappedByText', 'MappedByPattern', 'OverrideByKey'])
+                )
+            )
             data.loc[to_update, ['Source']] = col
             data.loc[to_update, ['Text']] = data[col]
 
         data['File'] = data['File'].str.replace('text/_hvo/', '')
         data = data.reset_index()[[
             'Key', 'Text', 'Tooltip', 'English', 'OverrideByKey',
-            'MappedByText', 'MappedByPattern', 'Vanilla',
-            'PikaMan', 'PikaManShortenedKey',
-            'Source', 'Short Key', 'File',
+            'MappedByText', 'MappedByPattern', 'Vanilla', 'PikaMan',
+            'Source', 'File',
         ]]
         return data
 
@@ -442,7 +444,7 @@ class RegenLookupByText(Step):
                 (self.map_by_key_zhtw.data, 'Text', 'zh-tw'),
                 (self.map_by_key_zhtw.data, 'File', 'File'),
             ]
-        ], axis=1).sort_index().reset_index()
+        ], axis=1).reset_index().set_index(['File', 'eng']).sort_index().reset_index()
         new_lookup = new_lookup.loc[new_lookup['eng'] != '']
         return new_lookup
 
@@ -459,8 +461,6 @@ class MissingZhcn(Step):
         data = data.loc[
             (data['Source'].isin([
                 'Missing',
-                'PikaManShortenedKey',
-                'PikaMan',
             ]))
             & (data['English'].fillna('') != '')
             # (~data['File'].str.contains('MTU'))

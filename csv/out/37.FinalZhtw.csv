@@ -137,11 +137,11 @@ campaign_effect_scopes_localised_text_hv_scope_dummy_character_unlock_units_rank
 campaign_effect_scopes_localised_text_region_to_force_own_in_adjacent_regions,[[col:scope_description]]（相鄰各{{tr:map_regions}}）[[/col]],True
 campaign_localised_strings_string_3k_dlc07_captains_armoury_whitewater_title,一條密計,True
 campaign_localised_strings_string_3k_dlc07_tutorial_mode_imperial_hud_description,選取之後將會打開朝廷權謀面板，統管獻帝於公元195年成年後開放使用的所有機制，代表著新任皇權所面臨的政治角力。,False
-campaign_localised_strings_string_dlc07_imperial_intrigue_panel_invalid_self_target,不能指向自己。 ,False
+campaign_localised_strings_string_dlc07_imperial_intrigue_panel_invalid_self_target,不能指向自己。,False
 campaign_localised_strings_string_military_force_morale_effect_bonus_value_animosity,過剩,False
 campaign_localised_strings_string_unit_locked_ceo,您沒有所需的：%S。,False
-campaign_payload_ui_details_description_3k_dlc_07_child_emperor_banquet_dilemma_text,結果不明 ,False
-campaign_payload_ui_details_description_3k_dlc_07_child_emperor_rites_dilemma_text,結果不明 ,False
+campaign_payload_ui_details_description_3k_dlc_07_child_emperor_banquet_dilemma_text,結果不明,False
+campaign_payload_ui_details_description_3k_dlc_07_child_emperor_rites_dilemma_text,結果不明,False
 campaign_payload_ui_details_description_dummy_hv_cao_cao_qingzhoubing,或許可以招攬……,True
 campaign_payload_ui_details_description_dummy_hv_mission_northern_mission,一個北軍兵團會加入您的勢力。,False
 campaign_payload_ui_details_description_dummy_mtu_lady_trieu_historic,趙嫗將遵循歷史自成一派,False
@@ -281,11 +281,11 @@ cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_white_tiger
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_white_tiger_02SECOND,回去,False
 cdir_events_dilemma_choice_details_localised_choice_label_mtu_dilemma_suggestion_of_rebel_sistersFIRST,接受,True
 cdir_events_dilemma_choice_details_localised_choice_label_mtu_dilemma_suggestion_of_rebel_sistersSECOND,拒絕,True
-cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesFIRST,正在舉行皇家祭祀儀式…… ,True
-cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesSECOND,正在舉行皇家祭祀儀式…… ,True
-cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesTHIRD,看來你得罪了朝廷…… ,True
+cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesFIRST,正在舉行皇家祭祀儀式……,True
+cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesSECOND,正在舉行皇家祭祀儀式……,True
+cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesTHIRD,看來你得罪了朝廷……,True
 cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor_dilemma_imperial_banquetFIRST,宴會繼續進行……,True
-cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor_dilemma_imperial_banquetSECOND,看來你得罪了朝廷…… ,True
+cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor_dilemma_imperial_banquetSECOND,看來你得罪了朝廷……,True
 cdir_events_dilemma_choice_details_localised_choice_title_3k_main_historical_dong_li_guo_rebellion_dilemmaFIRST,你拒絕交出王允。反賊大怒，縱兵四處劫掠。,False
 cdir_events_dilemma_choice_details_localised_choice_title_3k_main_historical_dong_li_guo_rebellion_dilemmaSECOND,王允自行降於李郭。\\n\\n王允奏曰：“臣本為社稷計。事至此，陛下不惜已臣，以誤國家。臣請下見二賊。”,False
 cdir_events_dilemma_choice_details_localised_choice_title_3k_main_historical_xun_yu_empty_lunchpail_dilemmaFIRST,你聽從荀彧的諫言，立志輔佐漢室。,False
@@ -2494,7 +2494,7 @@ custom_battle_loadouts_name_hv_cb_loadout_zheng_jiang_02,盜賊女王,False
 custom_battle_loadouts_name_hv_cb_loadout_zhou_tai_01,周泰,False
 custom_battle_loadouts_name_hv_cb_loadout_zhou_yu_01,周瑜,False
 custom_battle_loadouts_name_hv_cb_loadout_zhuge_liang_01,諸葛亮,False
-dilemmas_localised_description_3k_dlc07_child_emperor_dilemma_imperial_ancestral_rites,即將舉行的皇家祭祀儀式是朝中的一項重大活動。詔書要求您派文官去協助行政事務，或派武官去協助禁衛。如果您盡忠職守，朝廷會給予賞賜。拒不執行，則可能招致天子的不滿。 ,False
+dilemmas_localised_description_3k_dlc07_child_emperor_dilemma_imperial_ancestral_rites,即將舉行的皇家祭祀儀式是朝中的一項重大活動。詔書要求您派文官去協助行政事務，或派武官去協助禁衛。如果您盡忠職守，朝廷會給予賞賜。拒不執行，則可能招致天子的不滿。,False
 dilemmas_localised_description_3k_dlc07_child_emperor_dilemma_imperial_banquet,朝廷下達了一道詔書，將在皇宮設宴邀請天下有影響力的貴族。这恐怕是輔政大臣因爲擔心我們的影響力設下的计谋，但违背诏书可能會有嚴重後果……,False
 dilemmas_localised_description_3k_main_historical_dong_li_guo_rebellion_dilemma,李傕、郭汜帶著大軍殺到長安，要為死去的主公報仇，不取仇家的首級誓言不罷休。,False
 dilemmas_localised_description_3k_main_historical_xun_yu_empty_lunchpail_dilemma,您之所以憤怒，是因為您發現您的心腹荀彧有了異心。雖然他沒有公開反對您，您相信他一有機會便会反叛。\\n\\n您可以送他一個空食盒。他看到後就會明白您的意思。,False
@@ -2546,8 +2546,8 @@ dilemmas_localised_description_hv_dilemma_sogd,的確，西域商人帶來的貨
 dilemmas_localised_description_hv_dilemma_white_tiger_01,附近村莊有傳聞說，每晚會有巨獸出沒恐嚇農民。村民們在找尋一位英雄來進山驅走怪獸。,False
 dilemmas_localised_description_hv_dilemma_white_tiger_02,在您與部下開始搜山幾天後，您遇到了一個不可思議的景象：一隻巨型白虎的巢穴。您的部下被老虎體型嚇到，懇求您回去。您感覺好像那隻巨大的老虎正在盯著你。,False
 dilemmas_localised_description_mtu_dilemma_suggestion_of_rebel_sisters,隨着匪幫的擴張，衆將中難免會有人持不臣之心。其中朱土，朱崩二人野心勃勃，勢力日益壯大，準備推翻你。 \\n\\n 想要收復她們的忠誠，恐怕得花費不少金銀俸祿。,True
-dilemmas_localised_title_3k_dlc07_child_emperor_dilemma_imperial_ancestral_rites,皇帝寵信：祭祀儀式 ,False
-dilemmas_localised_title_3k_dlc07_child_emperor_dilemma_imperial_banquet,皇帝寵信：皇家宴會 ,False
+dilemmas_localised_title_3k_dlc07_child_emperor_dilemma_imperial_ancestral_rites,皇帝寵信：祭祀儀式,False
+dilemmas_localised_title_3k_dlc07_child_emperor_dilemma_imperial_banquet,皇帝寵信：皇家宴會,False
 dilemmas_localised_title_3k_main_historical_dong_li_guo_rebellion_dilemma,李郭之亂,False
 dilemmas_localised_title_3k_main_historical_xun_yu_empty_lunchpail_dilemma,最後的禮物,False
 dilemmas_localised_title_3k_mtu_global_event_bring_cai_yan_dilemma_pc,文姬歸漢,True
@@ -3608,12 +3608,12 @@ ground_type_stat_effect_groups_onscreen_name_hv_ground_effect_light_infantry,輕
 ground_type_stat_effect_groups_onscreen_name_hv_ground_effect_medium_infantry,中型步兵,True
 ground_types_description_mud,泥地會使所有部隊的移動與戰鬥效率低下。,True
 ground_types_onscreen_name_mud,泥地,True
-incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_civil,皇家祭祀儀式圓滿完成，天子對到場的貴族示恩。 ,False
-incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_military,皇家祭祀儀式圓滿完成，天子對到場的貴族示恩。 ,False
-incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_nothing,皇家祭祀儀式順利完成，但天子一言不發便回宮了。 ,False
+incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_civil,皇家祭祀儀式圓滿完成，天子對到場的貴族示恩。,False
+incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_military,皇家祭祀儀式圓滿完成，天子對到場的貴族示恩。,False
+incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_nothing,皇家祭祀儀式順利完成，但天子一言不發便回宮了。,False
 incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_banquet_result_assassinate,陰謀！有人於宴會中欲加害於你。事雖未成，但刺客已被护卫弑杀，無法得知是誰在背後主謀。,False
-incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_banquet_result_nothing,幸運的是，宴會中沒發生什麼大事。 ,False
-incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_grace,天子對你甚有好感，决定給你一些賞賜，來表彰你對朝廷的貢獻。 ,False
+incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_banquet_result_nothing,幸運的是，宴會中沒發生什麼大事。,False
+incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_grace,天子對你甚有好感，决定給你一些賞賜，來表彰你對朝廷的貢獻。,False
 incidents_localised_description_3k_dlc07_child_emperor_scripted_incident_political_scheme_bad,誹謗！一個敵對的軍閥在朝廷散佈惡意的謠言，使獻帝懷疑我們對大漢的忠誠。,False
 incidents_localised_description_3k_dlc07_child_emperor_scripted_incident_political_scheme_good,也許是出於欽佩，也許是向您示好，有一勢力在皇帝面前爲你多加褒詞。最近在宮中人人都在談論您的功績。,False
 incidents_localised_description_3k_main_char_historical_xun_yu_disappointed_cao_cao,荀彧進言，指責你專權跋扈，不以輔佐漢室為重。\n\n您很憤怒，但又不能公開表達，因為你們結交已久，他是你一位心腹。,False
@@ -3637,7 +3637,7 @@ incidents_localised_description_hv_event_follower_officer_yuan_1_forced,亂世�
 incidents_localised_description_hv_event_follower_officer_yuan_2_forced,亂世出豪傑。新進的一名隨從可使你執掌一隻特殊軍隊。,False
 incidents_localised_description_hv_event_qiang_penalty,與漢人的文化衝突導致了羌人部落的失控。百姓不安，質疑你的治理，爭相離去。,True
 incidents_localised_description_hv_event_shanyue_penalty,與漢人的文化衝突導致了烏桓部落的失控。百姓不安，質疑你的治理，爭相離去。,True
-incidents_localised_description_hv_event_white_tiger_1,酣戰之後，您殺死了巨型白虎。然而出乎意料的是，其它老虎俯伏在您身前，好像屈服於您的力量！這些白虎似乎不是普通的野獸。 ,False
+incidents_localised_description_hv_event_white_tiger_1,酣戰之後，您殺死了巨型白虎。然而出乎意料的是，其它老虎俯伏在您身前，好像屈服於您的力量！這些白虎似乎不是普通的野獸。,False
 incidents_localised_description_hv_event_white_tiger_2,您放棄了狩獵，回去了。然而不知爲何，怪獸從此不再攻擊。,False
 incidents_localised_description_hv_event_wuhuan_penalty,與漢人的文化衝突導致了烏桓部落的失控。百姓不安，質疑你的治理，爭相離去。,True
 incidents_localised_description_hv_event_xiongnu_penalty,與漢人的文化衝突導致了匈奴部落的失控。百姓不安，質疑你的治理，爭相離去。,True
@@ -3687,7 +3687,7 @@ incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_ancestral_rit
 incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_military,皇家祭祀儀式結束,False
 incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_nothing,皇家祭祀儀式結束,False
 incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_banquet_result_assassinate,嘗試行刺！,False
-incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_banquet_result_nothing,皇家宴會結束，並無意外發生 ,False
+incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_banquet_result_nothing,皇家宴會結束，並無意外發生,False
 incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_grace,皇帝寵信：皇帝賜禮,False
 incidents_localised_title_3k_dlc07_child_emperor_scripted_incident_political_scheme_bad,政治斡旋,False
 incidents_localised_title_3k_dlc07_child_emperor_scripted_incident_political_scheme_good,政治斡旋,False
@@ -7307,7 +7307,7 @@ unit_description_short_texts_text_hv_unit_buqu_rep_crossbowmen,未完成,True
 unit_description_short_texts_text_hv_unit_buqu_sabre_cavalry,未完成,True
 unit_description_short_texts_text_hv_unit_buqu_sabre_infantry,未完成,True
 unit_description_short_texts_text_hv_unit_buqu_spearmen,未完成,True
-unit_description_short_texts_text_hv_unit_chen_peacekeepers_crossbowmen,無論遠近，這些士卒都要為任何威脅他們主公的人討回公道。 ,True
+unit_description_short_texts_text_hv_unit_chen_peacekeepers_crossbowmen,無論遠近，這些士卒都要為任何威脅他們主公的人討回公道。,True
 unit_description_short_texts_text_hv_unit_chen_peacekeepers_halberd_infantry,只要這些人有力量揮舞他們的戰戟，漢室的榮耀就將延續。,True
 unit_description_short_texts_text_hv_unit_chen_royal_guard_cavalry,身披金甲，這些英勇的騎兵在戰力也如他們的戰甲一般閃耀。,True
 unit_description_short_texts_text_hv_unit_dan_yang_archers,未完成,True
@@ -7378,8 +7378,8 @@ unit_description_short_texts_text_hv_unit_nanman_southern_foreign_rangers,未完
 unit_description_short_texts_text_hv_unit_nanman_southern_foreign_warriors,未完成,True
 unit_description_short_texts_text_hv_unit_nanman_southern_shield_bearers,未完成,True
 unit_description_short_texts_text_hv_unit_nanman_spear_defectors,未完成,True
-unit_description_short_texts_text_hv_unit_nomad_gang_cavalry,很多軍閥都想要有草原騎射手。但與其為人效命，有時候不如自己單幹。 ,True
-unit_description_short_texts_text_hv_unit_northern_mace_cavalry,燕疆不乏良馬。連綿的戰事為這些戰馬提供了老練的騎手。  ,True
+unit_description_short_texts_text_hv_unit_nomad_gang_cavalry,很多軍閥都想要有草原騎射手。但與其為人效命，有時候不如自己單幹。,True
+unit_description_short_texts_text_hv_unit_northern_mace_cavalry,燕疆不乏良馬。連綿的戰事為這些戰馬提供了老練的騎手。,True
 unit_description_short_texts_text_hv_unit_northern_spear_cavalry,對任何一個士兵來説，一隊持槍騎兵的衝鋒都會令人生畏。但如果殺來的是燕國戰士，則是一種全新的恐怖。,True
 unit_description_short_texts_text_hv_unit_onyx_dragons,未完成,True
 unit_description_short_texts_text_hv_unit_palace_guards,未完成,True
@@ -7426,7 +7426,7 @@ unit_description_short_texts_text_hv_unit_xiliang_buqu_rep_crossbowmen,草原部
 unit_description_short_texts_text_hv_unit_xiliang_buqu_sabre_cavalry,佩戴劍盾，這些西涼騎兵令敵軍不寒而慄。,True
 unit_description_short_texts_text_hv_unit_xiliang_buqu_spearmen,沒有任何騎兵能衝破赫赫有名的西涼軍槍陣。,True
 unit_description_short_texts_text_hv_unit_xiliang_elite_2h_swordsmen,就算在精銳的西涼軍裏，一把大刀對於將領來説也頗有好處。,True
-unit_description_short_texts_text_hv_unit_xiliang_elite_barded_2h_spear_cavalry,作爲西涼軍的驕傲，這些重甲騎兵將教導他們的敵人“精銳騎兵”的含義。 ,True
+unit_description_short_texts_text_hv_unit_xiliang_elite_barded_2h_spear_cavalry,作爲西涼軍的驕傲，這些重甲騎兵將教導他們的敵人“精銳騎兵”的含義。,True
 unit_description_short_texts_text_hv_unit_xiliang_elite_crossbowmen,即使在沙塵中，他們也總能準確命中。,True
 unit_description_short_texts_text_hv_unit_xiliang_elite_enforcers,佩戴劍弓，這些硬朗的士兵執行他們主公的意志。,True
 unit_description_short_texts_text_hv_unit_xiliang_elite_spearmen,這些精銳矛兵是百經錘煉的西涼戰士，會堅守陣地對抗所有來敵。,True
