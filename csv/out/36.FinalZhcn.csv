@@ -1,23 +1,23 @@
 Key,Text,Tooltip
-building_chains_chain_tooltip_hv_subtown_confucius,孔子学院,True
-building_chains_chain_tooltip_hv_subtown_danyang,丹阳部队据点,True
+building_chains_chain_tooltip_hv_subtown_confucius,孔子学院序列,True
+building_chains_chain_tooltip_hv_subtown_danyang,丹阳军序列,True
 building_chains_chain_tooltip_hv_subtown_garrison,地方巡卫军序列,True
-building_chains_chain_tooltip_hv_subtown_garrison_sun_jian,[[col:flavour]]地方豪强庄园[[/col]],True
-building_chains_chain_tooltip_hv_subtown_han_small_farm,补给管理,True
+building_chains_chain_tooltip_hv_subtown_garrison_sun_jian,[[col:flavour]]士族庄园序列[[/col]],True
+building_chains_chain_tooltip_hv_subtown_han_small_farm,补给管理序列,True
 building_chains_chain_tooltip_hv_subtown_nanman,狩猎区序列,True
-building_chains_chain_tooltip_hv_subtown_nanman_outpost,南蛮市肆,True
+building_chains_chain_tooltip_hv_subtown_nanman_outpost,南境市肆序列,True
 building_chains_chain_tooltip_hv_subtown_qiang,羌人部落序列,True
 building_chains_chain_tooltip_hv_subtown_shanyue,山越部落序列,True
 building_chains_chain_tooltip_hv_subtown_wuhuan,东胡部落序列,True
 building_chains_chain_tooltip_hv_subtown_xiongnu,匈奴部落序列,True
 building_chains_chain_tooltip_hv_subtown_ytr,太平道序列,False
-building_chains_encyclopedia_name_hv_subtown_confucius,孔子学院,True
-building_chains_encyclopedia_name_hv_subtown_danyang,丹阳部队据点,True
+building_chains_encyclopedia_name_hv_subtown_confucius,孔子学院序列,True
+building_chains_encyclopedia_name_hv_subtown_danyang,丹阳军序列,True
 building_chains_encyclopedia_name_hv_subtown_garrison,地方巡卫军序列,True
-building_chains_encyclopedia_name_hv_subtown_garrison_sun_jian,地方豪强庄园,True
-building_chains_encyclopedia_name_hv_subtown_han_small_farm,补给管理,True
+building_chains_encyclopedia_name_hv_subtown_garrison_sun_jian,士族庄园序列,True
+building_chains_encyclopedia_name_hv_subtown_han_small_farm,补给管理序列,True
 building_chains_encyclopedia_name_hv_subtown_nanman,狩猎区序列,True
-building_chains_encyclopedia_name_hv_subtown_nanman_outpost,南蛮市肆,True
+building_chains_encyclopedia_name_hv_subtown_nanman_outpost,南境市肆序列,True
 building_chains_encyclopedia_name_hv_subtown_qiang,羌人部落序列,True
 building_chains_encyclopedia_name_hv_subtown_shanyue,山越部落序列,True
 building_chains_encyclopedia_name_hv_subtown_wuhuan,东胡部落序列,True
@@ -26,10 +26,10 @@ building_chains_encyclopedia_name_hv_subtown_ytr,太平道序列,False
 building_chains_override_description_hv_subtown_confucius,贤师高徒汇聚之所。,True
 building_chains_override_description_hv_subtown_danyang,丹阳人以奋勇著称。陶谦整备军队，训练有素。,True
 building_chains_override_description_hv_subtown_garrison,巡守卫队在此地域巡逻，骚扰敌军。,True
-building_chains_override_description_hv_subtown_garrison_sun_jian,地方豪强的地产。,True
+building_chains_override_description_hv_subtown_garrison_sun_jian,名门大家所拥有的庄园。,True
 building_chains_override_description_hv_subtown_han_small_farm,完善管理本地货物，回收废弃物品。,True
 building_chains_override_description_hv_subtown_nanman,部落猎人可为我们提供额外的食物。,True
-building_chains_override_description_hv_subtown_nanman_outpost,与土著交易之处。,True
+building_chains_override_description_hv_subtown_nanman_outpost,与南境蛮人交易的场所。,True
 building_chains_override_description_hv_subtown_qiang,这些部落不愿归顺朝廷，但却愿意提供军事援助。,True
 building_chains_override_description_hv_subtown_shanyue,这些部落不愿归顺朝廷，但却愿意提供军事援助。,True
 building_chains_override_description_hv_subtown_wuhuan,这些部落不愿归顺朝廷，但却愿意提供军事援助。,True
@@ -43,7 +43,7 @@ building_culture_variants_name_hv_subtown_garrison_02,重门军营地,True
 building_culture_variants_name_hv_subtown_garrison_sun_jian_01,士族庭院,True
 building_culture_variants_name_hv_subtown_garrison_sun_jian_02,士族田庄,True
 building_culture_variants_name_hv_subtown_nanman_outpost_01,南蛮市肆,True
-building_culture_variants_name_hv_subtown_nanman_shikar_01,狩猎区序列,True
+building_culture_variants_name_hv_subtown_nanman_shikar_01,狩猎区,True
 building_culture_variants_name_hv_subtown_qiang_00,羌人散户,True
 building_culture_variants_name_hv_subtown_qiang_01,羌人聚落,True
 building_culture_variants_name_hv_subtown_qiang_02,羌人村庄,True
@@ -119,16 +119,16 @@ building_short_description_texts_short_description_hv_subtown_yellow_turban_syna
 building_short_description_texts_short_description_hv_subtown_yellow_turban_synad_03,短描述,False
 building_ui_groups_onscreen_name_hv_ui_building_group_nanman,南蛮填地序列,False
 building_ui_groups_onscreen_name_hv_ui_building_group_qiang,游牧民族序列,True
-building_ui_groups_onscreen_name_hv_ui_building_group_shanyue,宗布,True
-building_ui_groups_onscreen_name_hv_ui_building_group_subtown_bandit,匪患,True
-building_ui_groups_onscreen_name_hv_ui_building_group_subtown_confucius,孔子学院,True
+building_ui_groups_onscreen_name_hv_ui_building_group_shanyue,宗部序列,True
+building_ui_groups_onscreen_name_hv_ui_building_group_subtown_bandit,匪患序列,True
+building_ui_groups_onscreen_name_hv_ui_building_group_subtown_confucius,孔子学院序列,True
 building_ui_groups_onscreen_name_hv_ui_building_group_subtown_han,填地开发序列,True
 building_ui_groups_onscreen_name_hv_ui_building_group_wuhuan,游牧民族序列,True
 building_ui_groups_onscreen_name_hv_ui_building_group_xiongnu,游牧民族序列,True
 campaign_effect_scopes_localised_text_character_to_force_own_when_commanding,[[col:scope_description]]（指挥时自军队）[[/col]],True
 campaign_effect_scopes_localised_text_hv_effect_scope_character_to_character_enemy_regionwide,[[col:scope_description]]（本{{tr:map_region}}内的敌军）[[/col]],True
 campaign_effect_scopes_localised_text_hv_effect_scope_character_to_character_own_forcewide_when_commanding,[[col:scope_description]]（指挥时自军队）[[/col]],True
-campaign_effect_scopes_localised_text_hv_effect_scope_character_to_faction_leader,[[col:scope_description]]（势力领袖）[[/col]],True
+campaign_effect_scopes_localised_text_hv_effect_scope_character_to_faction_leader,[[col:scope_description]]（派系领袖）[[/col]],True
 campaign_effect_scopes_localised_text_hv_effect_scope_region_to_character_own_in_adjacent_regions_all_owners,[[col:scope_description]]（临近{{tr:map_provinces}}）[[/col]],True
 campaign_effect_scopes_localised_text_hv_scope_dummy_character_unlock_units_rank_buqu,[[col:scope_description]]（此人等级1以上时）[[/col]],True
 campaign_effect_scopes_localised_text_hv_scope_dummy_character_unlock_units_rank_elite,[[col:scope_description]]（此人等级7以上时）[[/col]],True
@@ -138,7 +138,7 @@ campaign_effect_scopes_localised_text_region_to_force_own_in_adjacent_regions,[[
 campaign_localised_strings_string_3k_dlc07_captains_armoury_whitewater_title,一条密计,True
 campaign_localised_strings_string_3k_dlc07_tutorial_mode_imperial_hud_description,选择此项将打开朝廷权谋面板，该面板统管着公元195年献帝加元服后开启的所有机制，代表着皇权所面临的政治角力。,False
 campaign_localised_strings_string_dlc07_imperial_intrigue_panel_invalid_self_target,不能指向自己。,False
-campaign_localised_strings_string_military_force_morale_effect_bonus_value_animosity,拥堵,False
+campaign_localised_strings_string_military_force_morale_effect_bonus_value_animosity,过剩,False
 campaign_localised_strings_string_unit_locked_ceo,你没有所需的：%S。,False
 campaign_payload_ui_details_description_3k_dlc_07_child_emperor_banquet_dilemma_text,结果不明,False
 campaign_payload_ui_details_description_3k_dlc_07_child_emperor_rites_dilemma_text,结果不明,False
@@ -148,22 +148,22 @@ campaign_payload_ui_details_description_dummy_mtu_lady_trieu_historic,赵妪将�
 campaign_payload_ui_details_description_dummy_mtu_lady_trieu_rumor,赵妪将现身于一个南方国度,False
 campaign_payload_ui_details_description_dummy_mtu_lu_bu_interpose,吕布介入了袁术与刘备的争斗之中，并尝试促使双方讲和。,True
 campaign_payload_ui_details_description_hv_dilemma_dongbai,人物加入：董白,False
-campaign_payload_ui_details_description_hv_dilemma_kill_dong_bai,董卓全族已被诛灭,False
+campaign_payload_ui_details_description_hv_dilemma_kill_dong_bai,董卓全族已被诛灭。,False
 campaign_payload_ui_details_description_hv_dilemma_lu_bu_legacy,吕布之兵将追随于你。,False
 campaign_payload_ui_details_description_hv_dilemma_northern_army_intro,完成任务可以增强你的派系！,False
 campaign_payload_ui_details_description_hv_dilemma_yuan_shu_legacy,袁术之兵将追随于你。,False
-campaign_payload_ui_details_description_hv_event_budda_unlock,您现在可以招募：{{tr:hv_unit_warrior_monks}},False
+campaign_payload_ui_details_description_hv_event_budda_unlock,你现在可以招募：{{tr:hv_unit_warrior_monks}},False
 campaign_payload_ui_details_description_hv_event_cao_cao_qingzhou,你现在可以招募：{{tr:hv_unit_qingzhou_hand_ji_infantry}}，{{tr:hv_unit_qingzhou_2h_axe_infantry}}，{{tr:hv_unit_qingzhou_raider_cavalry}}。,True
 campaign_payload_ui_details_description_hv_event_tiger_hunt_white_tiger_cap,可招募的{{tr:hv_unit_white_tiger_warriors}}：+1,False
-campaign_payload_ui_details_description_hv_event_tiger_hunt_white_tiger_unlock,您现在可以招募：{{tr:hv_unit_white_tiger_warriors}},False
+campaign_payload_ui_details_description_hv_event_tiger_hunt_white_tiger_unlock,你现在可以招募：{{tr:hv_unit_white_tiger_warriors}},False
 campaign_payload_ui_details_description_hv_event_tiger_tracking,寻觅怪兽……,False
 campaign_payload_ui_details_description_hv_event_white_tiger,严白虎现可招募{{tr:hv_unit_white_tiger_warriors}}。,True
-campaign_payload_ui_details_description_hv_event_zhuge_liang_yuanrong,您现在可以招募：{{tr:hv_unit_yuan_rong_crossbowmen}}。,True
-campaign_payload_ui_details_description_hv_incident_danyang_army,您现在可以招募：丹阳部队,False
+campaign_payload_ui_details_description_hv_event_zhuge_liang_yuanrong,你现在可以招募：{{tr:hv_unit_yuan_rong_crossbowmen}}。,True
+campaign_payload_ui_details_description_hv_incident_danyang_army,你现在可以招募：丹阳部队,False
 campaign_payload_ui_details_description_hv_incident_education,你的一些官员获得额外经验。,False
-campaign_payload_ui_details_description_hv_incident_ironfist_army,您现在可以招募：铁拳骑兵,False
-campaign_payload_ui_details_description_hv_incident_jingchou_army,您现在可以招募：荆楚部队,False
-campaign_payload_ui_details_description_hv_incident_xiliang_army,您现在可以招募：西凉部队,False
+campaign_payload_ui_details_description_hv_incident_ironfist_army,你现在可以招募：铁拳骑兵,False
+campaign_payload_ui_details_description_hv_incident_jingchou_army,你现在可以招募：荆楚部队,False
+campaign_payload_ui_details_description_hv_incident_xiliang_army,你现在可以招募：西凉部队,False
 campaign_payload_ui_details_description_hv_incident_ytr_resurrection,黄天之下千万教友将纷纷揭竿而起。,True
 campaign_payload_ui_details_description_mtu_born_dummy_guan_xing,人物出生：关兴,False
 campaign_payload_ui_details_description_mtu_born_dummy_guan_yinping,人物出生：关嫣,False
@@ -180,10 +180,10 @@ cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor
 cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesTHIRD,隔岸观火,True
 cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor_dilemma_imperial_banquetFIRST,出席,True
 cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor_dilemma_imperial_banquetSECOND,缺席,True
-cdir_events_dilemma_choice_details_localised_choice_label_3k_main_historical_dong_li_guo_rebellion_dilemmaFIRST,Refuse their demands,False
-cdir_events_dilemma_choice_details_localised_choice_label_3k_main_historical_dong_li_guo_rebellion_dilemmaSECOND,Send Wang Yun to them,False
-cdir_events_dilemma_choice_details_localised_choice_label_3k_main_historical_xun_yu_empty_lunchpail_dilemmaFIRST,Forgive him,False
-cdir_events_dilemma_choice_details_localised_choice_label_3k_main_historical_xun_yu_empty_lunchpail_dilemmaSECOND,"Send The ""Gift""",False
+cdir_events_dilemma_choice_details_localised_choice_label_3k_main_historical_dong_li_guo_rebellion_dilemmaFIRST,拒不交人,False
+cdir_events_dilemma_choice_details_localised_choice_label_3k_main_historical_dong_li_guo_rebellion_dilemmaSECOND,交出王允,False
+cdir_events_dilemma_choice_details_localised_choice_label_3k_main_historical_xun_yu_empty_lunchpail_dilemmaFIRST,不計前嫌,False
+cdir_events_dilemma_choice_details_localised_choice_label_3k_main_historical_xun_yu_empty_lunchpail_dilemmaSECOND,送他一个空食盒,False
 cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_bring_cai_yan_dilemma_pcFIRST,派特使将她赎回,True
 cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_bring_cai_yan_dilemma_pcSECOND,不可滥用公款！,True
 cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_global_event_cai_yong_death_dilemma_pcFIRST,支持王允,True
@@ -286,10 +286,10 @@ cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor
 cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesTHIRD,看来你得罪了朝廷……,True
 cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor_dilemma_imperial_banquetFIRST,宴会继续进行……,True
 cdir_events_dilemma_choice_details_localised_choice_title_3k_dlc07_child_emperor_dilemma_imperial_banquetSECOND,看来你得罪了朝廷……,True
-cdir_events_dilemma_choice_details_localised_choice_title_3k_main_historical_dong_li_guo_rebellion_dilemmaFIRST,"You refused to hand over Wang Yun and his family to them. Then the rebels are furious, and they're going through the whole country!",False
-cdir_events_dilemma_choice_details_localised_choice_title_3k_main_historical_dong_li_guo_rebellion_dilemmaSECOND,"Wang Yun went to them obediently and left these words.\\n\\n ""It was my wish to make the country peaceful. I didn't, so I sacrifice myself. The litte emperor has shown kindness to me, and I can't stand to live a miserable life.""",False
-cdir_events_dilemma_choice_details_localised_choice_title_3k_main_historical_xun_yu_empty_lunchpail_dilemmaFIRST,"Instead of sending Xun Yu the ""gift"", you chose to admit your wrong. With him, you swore to take the right path.",False
-cdir_events_dilemma_choice_details_localised_choice_title_3k_main_historical_xun_yu_empty_lunchpail_dilemmaSECOND,"Xun Yu recognized the meaning of your ""gift"" and made the last choice. You regretted your choice when you heard that he was dead, but it was too late.",False
+cdir_events_dilemma_choice_details_localised_choice_title_3k_main_historical_dong_li_guo_rebellion_dilemmaFIRST,你拒绝交出王允。反贼大怒，纵兵四处劫掠。,False
+cdir_events_dilemma_choice_details_localised_choice_title_3k_main_historical_dong_li_guo_rebellion_dilemmaSECOND,王允自行降于李郭。\\n\\n王允奏曰：“臣本为社稷计。事已至此，陛下不可惜臣，以误国家。臣请下见二贼。”,False
+cdir_events_dilemma_choice_details_localised_choice_title_3k_main_historical_xun_yu_empty_lunchpail_dilemmaFIRST,你听从荀彧的谏言，立志辅佐汉室。,False
+cdir_events_dilemma_choice_details_localised_choice_title_3k_main_historical_xun_yu_empty_lunchpail_dilemmaSECOND,荀彧见到了空食盒，明白了你的意思，于是服毒自尽。你听到消息，懊悔不已，但为时已晚。,False
 cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_bring_cai_yan_dilemma_pcFIRST,你派出特使重金将蔡琰赎回，但当她离开她的孩子们时，面容全无光彩。,True
 cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_bring_cai_yan_dilemma_pcSECOND,你决定将国库的资金用于更有用的地方，但却愧对了蔡氏家族。,True
 cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_cai_yong_death_dilemma_pcFIRST,当世大儒蔡邕死于了王允的令下,True
@@ -443,7 +443,7 @@ ceo_nodes_description_3k_mtu_ancillary_phoenix_beak,这把武器犹如凤喙一�
 ceo_nodes_description_3k_mtu_ancillary_qu_gongs_armour_unique,此甲轻重得当，宽紧合身，非名将不可披戴。,True
 ceo_nodes_description_3k_mtu_ancillary_shen_peis_armour_unique,此甲轻重得当，宽紧合身，非名将不可披戴。,True
 ceo_nodes_description_3k_mtu_ancillary_weapon_comet_spear,此矛锐不可挡，如彗星划过星空一般刺穿敌腹。,True
-ceo_nodes_description_3k_mtu_ancillary_weapon_dachui,"As big as it is, heavy but strong",True
+ceo_nodes_description_3k_mtu_ancillary_weapon_dachui,巨大沉重，坚固有力,True
 ceo_nodes_description_3k_mtu_ancillary_weapon_diplomat,就算是说客也需要防身之物。,True
 ceo_nodes_description_3k_mtu_ancillary_weapon_goshawk,此弓仅配鹰觑鹘望之人。,True
 ceo_nodes_description_3k_mtu_ancillary_weapon_hawk,此弓就如飞隼一般，看似小巧，实则力大无穷。,True
@@ -491,10 +491,10 @@ ceo_nodes_description_3k_mtu_ceo_node_career_historical_wu_anguo_01,"Although he
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_yan_xiang_01,阎象深图远虑，总是危机到来之前就做好了准备。,True
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_zhang_bao_01,「虎父无犬子也！」,True
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_zhu_beng_01,「二逆不诛，乱臣贼子，行将接踵于天下矣！」,True
-ceo_nodes_description_hv_ancillary_accessory_danyang_military_talisman,此令牌可指挥丹阳部队。,True
-ceo_nodes_description_hv_ancillary_accessory_jingchou_military_talisman,此令牌可指挥荆楚部队。,True
-ceo_nodes_description_hv_ancillary_accessory_lu_bu_legacy_military_talisman,此令牌可指挥捕掾队部队。,False
-ceo_nodes_description_hv_ancillary_accessory_yuan_shu_legacy_military_talisman,此令牌可指挥隐蛇兵与虎捷军。,False
+ceo_nodes_description_hv_ancillary_accessory_danyang_military_talisman,持此令牌者可以指挥丹阳部队。,True
+ceo_nodes_description_hv_ancillary_accessory_jingchou_military_talisman,持此令牌者可以指挥荆楚部队。,True
+ceo_nodes_description_hv_ancillary_accessory_lu_bu_legacy_military_talisman,持此令牌者可以指挥捕掾队部队。,False
+ceo_nodes_description_hv_ancillary_accessory_yuan_shu_legacy_military_talisman,持此令牌者可以指挥隐蛇兵与虎捷军。,False
 ceo_nodes_description_hv_ancillary_danyang_officer,指挥丹阳部队的士官。,True
 ceo_nodes_description_hv_ancillary_follower_sogd_army_captain,指挥粟特部队的士官。,True
 ceo_nodes_description_hv_ancillary_follower_xiliang_army_captain,西凉军为你效命！每一位伯长都忠于自己所属之人，誓死不离其侧！,True
@@ -504,9 +504,9 @@ ceo_nodes_description_hv_ancillary_weapon_khanda,西域而来的神秘宝剑。,
 ceo_nodes_description_hv_ancillary_white_horse_fellows_officer,指挥白马部队的士官。,True
 ceo_nodes_description_hv_ancillary_yuan_officer,指挥袁氏部队的士官。,True
 ceo_nodes_description_hv_ceo_node_career_historical_chen_deng_01,偶尔，仅仅是偶尔，权力并未堕落至腐败，而是结出了有利他人和普罗慈善的果实。,True
-ceo_nodes_description_hv_ceo_node_career_historical_jiang_qin_01,平定江东之功臣。,True
-ceo_nodes_description_hv_ceo_node_career_historical_yuan_yao_01,受衆人喜愛。,True
-ceo_nodes_description_hv_ceo_node_career_non_deployable_liu_limin,刘氏总是关心她的家人。,True
+ceo_nodes_description_hv_ceo_node_career_historical_jiang_qin_01,「钦折节好学，以公灭私。」,True
+ceo_nodes_description_hv_ceo_node_career_historical_yuan_yao_01,饱读诗书，人见人爱。,True
+ceo_nodes_description_hv_ceo_node_career_non_deployable_liu_limin,「袁尚母刘氏之妒，其酷烈也甚矣。乃城破之后，不能死节，而献甄氏于曹丕，以图苟全，又何其无烈性至此乎！可见妇之贞者必不妒，妇之妒者必不贞。」,True
 ceo_nodes_description_hv_ceo_node_career_non_deployable_type_1,安静但热情的支持者。,True
 ceo_nodes_description_hv_ceo_node_career_non_deployable_type_2,好辩又烦人的学者。,True
 ceo_nodes_description_hv_ceo_node_career_non_deployable_type_3,对佃户来说，他们的地位比皇帝还高。,True
@@ -2496,8 +2496,8 @@ custom_battle_loadouts_name_hv_cb_loadout_zhou_yu_01,英杰周瑜,False
 custom_battle_loadouts_name_hv_cb_loadout_zhuge_liang_01,诸葛亮,False
 dilemmas_localised_description_3k_dlc07_child_emperor_dilemma_imperial_ancestral_rites,即将举行的皇家祭祀仪式是朝中的一项重大活动。诏书要求您派文官去协助行政事务，或派武官去协助禁卫。如果您尽忠职守，朝廷会给予赏赐。拒不执行，则可能招致天子的不满。,False
 dilemmas_localised_description_3k_dlc07_child_emperor_dilemma_imperial_banquet,朝廷下达了一道诏书，将在皇宫设宴邀请天下有影响力的贵族。这恐怕是辅政大臣因为担心我们的影响力设下的计谋，但违背诏书可能会有严重后果……,False
-dilemmas_localised_description_3k_main_historical_dong_li_guo_rebellion_dilemma,Li Jue and Guo Si came to the capital with a huge army. They want avenge for their fallen master. The only thing they want is the neck of the killer.,False
-dilemmas_localised_description_3k_main_historical_xun_yu_empty_lunchpail_dilemma,"You are furious because you found out your old friend and trusted servant, Xun Yu, has turned his back against you. He does not oppose you publicly for the time being, but you are certain he will betray you the first chance he gets. \\n\\n It's time to choose. You can send him a ""gift."" when he receives your ""gift,"" he who shares a deep friendship with you will know the meaning of it...",False
+dilemmas_localised_description_3k_main_historical_dong_li_guo_rebellion_dilemma,李傕、郭汜带着大军杀到长安，要为死去的主公报仇，不取仇家的首级誓不罢休。,False
+dilemmas_localised_description_3k_main_historical_xun_yu_empty_lunchpail_dilemma,你之所以愤怒，是因为你发现你的心腹荀彧有了异心。虽然他没有公开反对你，你相信他一有机会便会反叛。\\n\\n你可以送他一个空食盒。他看到后就会明白你的意思。,False
 dilemmas_localised_description_3k_mtu_global_event_bring_cai_yan_dilemma_pc,蔡邕身为当代大儒，却无男性继承人，唯育一女蔡文姬却为匈奴左贤王所掳。\\n\\n 今蔡氏血脉能否延续，由你决定。,True
 dilemmas_localised_description_3k_mtu_global_event_cai_yong_death_dilemma_pc,董卓被杀，蔡邕伤感其遇，被王允知悉，而出兵捉拿蔡邕并下令处死。\\n\\n 王允曰：「昔武帝不杀司马迁，使作谤书，流于后世。方今国祚中衰，戎马在郊，不可令佞臣执笔在幼主左右，后令吾徒并受谤议。」,True
 dilemmas_localised_description_3k_mtu_global_event_daughter_guan_trait_dilemma_1,关嫣在倦与诗书之时拾起其父亲的青龙偃月刀，想效仿其父过五关斩六将之勇，不料却不小心砍坏了关羽的书橱。关羽闻声赶来，见此狼藉心中顾虑重重。,False
@@ -2549,7 +2549,7 @@ dilemmas_localised_description_mtu_dilemma_suggestion_of_rebel_sisters,随着匪
 dilemmas_localised_title_3k_dlc07_child_emperor_dilemma_imperial_ancestral_rites,天子宠信：祭祀仪式,False
 dilemmas_localised_title_3k_dlc07_child_emperor_dilemma_imperial_banquet,天子宠信：皇家宴会,False
 dilemmas_localised_title_3k_main_historical_dong_li_guo_rebellion_dilemma,李郭之乱,False
-dilemmas_localised_title_3k_main_historical_xun_yu_empty_lunchpail_dilemma,The Last Gift,False
+dilemmas_localised_title_3k_main_historical_xun_yu_empty_lunchpail_dilemma,最后的礼物,False
 dilemmas_localised_title_3k_mtu_global_event_bring_cai_yan_dilemma_pc,文姬归汉,True
 dilemmas_localised_title_3k_mtu_global_event_cai_yong_death_dilemma_pc,一代大儒的叹息,True
 dilemmas_localised_title_3k_mtu_global_event_daughter_guan_trait_dilemma_1,无心之过,False
@@ -2598,7 +2598,7 @@ dilemmas_localised_title_hv_dilemma_sogd,粟特商人,False
 dilemmas_localised_title_hv_dilemma_white_tiger_01,怪兽传言,False
 dilemmas_localised_title_hv_dilemma_white_tiger_02,遭遇虎袭,False
 dilemmas_localised_title_mtu_dilemma_suggestion_of_rebel_sisters,不臣之心,True
-effect_bundles_localised_description_3k_main_effect_bundle_dong_zhou_event_public_order,The chaos caused by Li Jue and Guo Si is devastating the whole country.,False
+effect_bundles_localised_description_3k_main_effect_bundle_dong_zhou_event_public_order,李傕与郭汜把持朝政，天下大乱。,False
 effect_bundles_localised_description_3k_mtu_effect_bundle_dec_public_order_5,"恶有恶报。种其因者,须食其果。",True
 effect_bundles_localised_description_3k_mtu_effect_bundle_dec_public_order_5_for_cai,钱财不拿来造福人民，却用于赎买美色。此举会使百姓不满。,True
 effect_bundles_localised_description_3k_mtu_effect_bundle_inc_public_order_5,有仁有德之君必得人心。,True
@@ -2700,7 +2700,7 @@ effect_bundles_localised_description_hv_script_effect_bundle_wuhuan_penalty,与�
 effect_bundles_localised_description_hv_script_effect_bundle_xiongnu_penalty,与汉人的文化冲突导致了匈奴部落的失控。百姓不安，质疑你的治理，争相离去。,True
 effect_bundles_localised_description_hv_script_effect_bundle_yuan_northern,解锁精锐北军伯长随从,False
 effect_bundles_localised_description_hv_script_effect_bundle_yuan_shu_legacy,袁术派系的余党加入了我方。,True
-effect_bundles_localised_title_3k_main_effect_bundle_dong_zhou_event_public_order,The Cataclysm,False
+effect_bundles_localised_title_3k_main_effect_bundle_dong_zhou_event_public_order,朝政混乱,False
 effect_bundles_localised_title_3k_mtu_effect_bundle_dec_public_order_5,残忍,True
 effect_bundles_localised_title_3k_mtu_effect_bundle_dec_public_order_5_for_cai,昏君,True
 effect_bundles_localised_title_3k_mtu_effect_bundle_inc_public_order_5,亲善,True
@@ -3418,7 +3418,7 @@ effects_description_hv_effects_unlock_historical_ability_water_03,技能：反�
 effects_description_hv_effects_unlock_historical_ability_wood_01,技能：壁垒,True
 effects_description_hv_effects_unlock_historical_ability_wood_02,技能：刚韧,True
 effects_description_hv_effects_unlock_historical_ability_wood_03,技能：内力,True
-effects_description_hv_frontend_description_specialisation_gongsun_zan_1,获得军事增益，但也会恶化与其他势力的关系。 ,False
+effects_description_hv_frontend_description_specialisation_gongsun_zan_1,获得军事增益，但也会恶化与其他派系的关系。 ,False
 effects_description_hv_frontend_description_specialisation_gongsun_zan_2,[[b]]宫府[[/b]]中的人物在官府中身居要职，会对派系产生重要影响,False
 effects_description_hv_frontend_description_specialisation_gongsun_zan_3,[[b]]太守[[/b]]是官府中的职位。太守负责管理地方郡国，会为当地提供增益效果,False
 effects_description_hv_frontend_description_specialisation_gongsun_zan_4,[[b]]驻防军队[[/b]]是驻扎在城镇内的军队。在遭到攻击时，他们将加入当地驻军一起保卫城镇。,False
@@ -3616,8 +3616,8 @@ incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_banquet
 incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_grace,天子对你甚有好感，决定给你一些赏赐，来表彰你对朝廷的贡献。,False
 incidents_localised_description_3k_dlc07_child_emperor_scripted_incident_political_scheme_bad,诽谤！一个敌对的军阀在朝廷散布恶意的谣言，使献帝怀疑我们对大汉的忠诚。,False
 incidents_localised_description_3k_dlc07_child_emperor_scripted_incident_political_scheme_good,也许是出于钦佩，也许是向你示好，有一派系在皇帝面前为你多加褒词。最近在宫中人人都在谈论你的功绩。 ,False
-incidents_localised_description_3k_main_char_historical_xun_yu_disappointed_cao_cao,"Xun Yu openly criticized you for seeking power, saying you should be focusing on the restoration of Han dynasty. He even had the gall to say that because of your pursuit of power, you will never see a good end. \\n\\n You were furious, but you could not openly express it, since he was an old friend and a loyal servant.",False
-incidents_localised_description_3k_main_char_historical_xun_yu_join_cao_cao,"Xun Yu, a renowned strategist, has come to you to offer you his service. Many lords have offered him to join their side, but he rejected all the offers and decided to be a part of your ambition. You were thrilled to accept that someone so talented had come to you.",True
+incidents_localised_description_3k_main_char_historical_xun_yu_disappointed_cao_cao,荀彧进言，指责你专权跋扈，不以辅佐汉室为重。\n\n你很愤怒，但又不能公开表达，因为你们结交已久，他是你一位心腹。,False
+incidents_localised_description_3k_main_char_historical_xun_yu_join_cao_cao,荀彧年少即以王佐之才闻名。他曾从事于袁绍，但觉得袁绍不能成大事，于是投奔于你。你与他交谈后非常高兴，说他是你的子房。,True
 incidents_localised_description_3k_mtu_global_event_cai_yong_death_incident_npc,董卓被杀，蔡邕伤感其遇，被王允知悉，而出兵捉拿蔡邕并下令处死。\\n\\n 王允曰：「昔武帝不杀司马迁，使作谤书，流于后世。方今国祚中衰，戎马在郊，不可令佞臣执笔在幼主左右，后令吾徒并受谤议。」,True
 incidents_localised_description_3k_mtu_global_event_lady_trieu_rise_incident,我方活跃于交州的细作禀报最近一位赵姓妇人以人民的名义率兵起义对抗交州军队，并将其击败。据说此人夺取了城池并自成一派。时间会告诉你是否得到一个盟友，还是一个敌人。,False
 incidents_localised_description_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_incident,袁刘两家开战，吕布为了自己的利益决定尝试促使双方讲和。于是吕布设下酒席并邀请双方赴宴。吕布告诉双方的将领他厌恶争斗。交战的双方一方是他的亲家，一方他的贤弟，如果双方要争斗那不如依照天意，如果他能射中营中一百五十步外戟上的小支，那双方就立马停战。袁刘双方出于对吕布的尊重接受了提议，并在惊叹中目睹了箭矢穿过了一百五十步外戟上的小支。,True
@@ -3652,7 +3652,7 @@ incidents_localised_description_hv_incident_ironfist_army,我们从附近游牧�
 incidents_localised_description_hv_incident_jingchou_army,你获得一张可指挥荆楚部队的兵符。,False
 incidents_localised_description_hv_incident_sogd,自西域而来的粟特商人出现在我方境内。随之而来的不仅仅有异域商品，还有雇佣粟特佣兵的机会。,False
 incidents_localised_description_hv_incident_xiliang_army,一名西凉伯长加入你的派系。,False
-incidents_localised_description_hv_incident_ytr_resurrection,"Once again the flames begin to burn. Now we are ready to destroy the Han dynasty. Our forces are strong, and the old comrades who had to live in hiding will also appear and respond to us. Let's make sure that Zhang Jue's unfulfilled dream come true.",True
+incidents_localised_description_hv_incident_ytr_resurrection,黄巾烈火再次熊熊燃烧。汉朝覆灭之日不远。我军势不可挡，昔日隐匿的教友也将再次加入我们。天下大吉的梦想定会实现。,True
 incidents_localised_description_hv_northern_army_unlocked_cao_cao_last,随着你近期的丰功伟业，督掌北军的中尉前来宣誓效忠于你，他所指挥的整支精良军队也一同前来，加入你的麾下。,False
 incidents_localised_description_hv_northern_army_unlocked_cao_cao_mid,随着你近期的丰功伟业，督掌北军的中尉前来宣誓效忠于你，他所指挥的整支精良军队也一同前来，加入你的麾下。,False
 incidents_localised_description_hv_northern_army_unlocked_dong_zhuo,随着你近期的丰功伟业，督掌北军的中尉前来宣誓效忠于你，他所指挥的整支精良军队也一同前来，加入你的麾下。,False
@@ -3691,7 +3691,7 @@ incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_banquet_resul
 incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_grace,天子宠信：天子恩赐,False
 incidents_localised_title_3k_dlc07_child_emperor_scripted_incident_political_scheme_bad,政治斡旋,False
 incidents_localised_title_3k_dlc07_child_emperor_scripted_incident_political_scheme_good,政治斡旋,False
-incidents_localised_title_3k_main_char_historical_xun_yu_disappointed_cao_cao,Xun Yu's Opposition,False
+incidents_localised_title_3k_main_char_historical_xun_yu_disappointed_cao_cao,荀彧诤谏,False
 incidents_localised_title_3k_main_char_historical_xun_yu_join_cao_cao,王佐之才,True
 incidents_localised_title_3k_mtu_global_event_cai_yong_death_incident_npc,一代大儒的叹息,True
 incidents_localised_title_3k_mtu_global_event_lady_trieu_rise_incident,交部骚动,False
@@ -4167,7 +4167,7 @@ pooled_resource_factors_display_name_positive_hv_pooled_factor_zhang_yan_buildin
 pooled_resource_factors_display_name_positive_hv_pooled_factor_zhang_yan_decay,衰减,False
 pooled_resources_description_hv_pooled_resource_gongsun_zan,严政方能定乱。,False
 pooled_resources_description_hv_pooled_resource_ma_teng,养育大宛马来装备骑兵部队。,False
-pooled_resources_description_hv_pooled_resource_ytr,The Yellow Turban is ready to color the world once again.,False
+pooled_resources_description_hv_pooled_resource_ytr,黄巾之势必将再次席卷天下。,False
 pooled_resources_description_hv_pooled_resource_zhang_yan,黑山贼乘乱以增其之数。,False
 pooled_resources_display_name_hv_pooled_resource_gongsun_zan,军政,False
 pooled_resources_display_name_hv_pooled_resource_ma_teng,养马,False
@@ -4175,7 +4175,7 @@ pooled_resources_display_name_hv_pooled_resource_ytr,复苏,False
 pooled_resources_display_name_hv_pooled_resource_zhang_yan,黑山,False
 pooled_resources_foreign_diplomacy_view_tooltip_hv_pooled_resource_gongsun_zan,严政方能定乱。,False
 pooled_resources_foreign_diplomacy_view_tooltip_hv_pooled_resource_ma_teng,养育大宛马来装备骑兵部队。,False
-pooled_resources_foreign_diplomacy_view_tooltip_hv_pooled_resource_ytr,The Yellow Turban is ready to color the world once again.,False
+pooled_resources_foreign_diplomacy_view_tooltip_hv_pooled_resource_ytr,黄巾之势必将再次席卷天下。,False
 pooled_resources_foreign_diplomacy_view_tooltip_hv_pooled_resource_zhang_yan,黑山贼乘乱以增其之数。,False
 pooled_resources_negative_factors_display_name_hv_pooled_resource_ma_teng,减少,False
 pooled_resources_negative_factors_display_name_hv_pooled_resource_ytr,减少,False
@@ -4644,7 +4644,7 @@ ui_text_replacements_localised_text_hv_unit_local_noble_buqu_archers,家仆弓�
 ui_text_replacements_localised_text_hv_unit_local_noble_buqu_infantry,家仆斧手,True
 ui_text_replacements_localised_text_hv_unit_local_noble_buqu_raider_cavalry,家仆掠骑兵,True
 ui_text_replacements_localised_text_hv_unit_local_noble_buqu_spearmen,家仆长枪兵,True
-ui_text_replacements_localised_text_hv_unit_local_noble_elite_archers,地方豪强弓手,True
+ui_text_replacements_localised_text_hv_unit_local_noble_elite_archers,士族弓手,True
 ui_text_replacements_localised_text_hv_unit_mercenary_archers,雇佣弓手,True
 ui_text_replacements_localised_text_hv_unit_mercenary_captain,雇佣伯长,True
 ui_text_replacements_localised_text_hv_unit_mercenary_cavalry,雇佣骑兵,True

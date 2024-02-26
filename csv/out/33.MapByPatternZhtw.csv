@@ -71,7 +71,7 @@ A mysterious sword from the West. ,1,西域而來的神秘寶劍。,,hv_TEXT_ceo
 A new regime is coming into power.,1,新政權開始建立。,,hv_TEXT_effects_pooled_resource.loc.tsv
 A noble guardian protects his people at all costs.,2,,百姓衛士，民爲其足,[03]__MTU_skills__Active_buff.loc.tsv
 A noble messenger.,1,,,z_dummy_hv_TEXT_non_deployable.loc.tsv
-A place to trade with the natives.,1,與土著交易之處。,,hv_TEXT_building.loc.tsv
+A place to trade with the natives.,1,與南境蠻人交易的場所。,,hv_TEXT_building.loc.tsv
 A place where great teachers and passionate students gather.,1,賢師高徒匯聚之所。,,hv_TEXT_building.loc.tsv
 A prince's retinue reflects their glory in splendour. These brave cavalrymen match their splendour with equal prowress in battle.,1,,,hv_TEXT_unit_desc.loc.tsv
 A prominent bowyer from your hometown crafted this masterpiece.,1,,,[02]__MTU_items__Bow.loc.tsv
@@ -377,7 +377,7 @@ Artillery (Elite),1,,遠程砲兵（精銳）,hv_TEXT_unit_ui_group_t3_VM.loc.ts
 Artillery (Militia),1,,遠程砲兵（義勇）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 "As Sun Ce's strength rises, his grip on rationality weakens…",1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 As accurate and deadly as a viper’s strike.,1,,,[02]__MTU_items__Weapons.loc.tsv
-"As big as it is, heavy but strong",1,,,[02]__MTU_items__Weapons.loc.tsv
+"As big as it is, heavy but strong",1,巨大沉重，堅固有力,,[02]__MTU_items__Weapons.loc.tsv
 "As the Black Mountain bandits increase in number, the more brazen they become.",1,黑山匪徒之數與日俱增，其行為亦更加肆無忌憚。,,hv_TEXT_frontend_features.loc.tsv
 "As the enemy spots the blue turbans on the field, they know the hardest fighting is about to begin.",1,當敵人在戰場上看到藍色頭巾時，他們就知道最艱苦的戰鬥即將開始。,,hv_TEXT_unit_desc.loc.tsv
 "As the fight goes on, Chunyu Qiong’s rage and stubbornness will turn him into a reckless, but powerful fighter, rushing in the thick of battle over and over.",2,,,[03]__MTU_skills__Passive_buff.loc.tsv
@@ -413,7 +413,7 @@ Bandit: Deeply-Rooted,3,,匪徒：根深蒂固,hv_TEXT_unit_abilities.loc.tsv
 Bandit: Grievous Bite,4,,匪徒：重創撕咬,hv_TEXT_unit_abilities.loc.tsv
 Bandit: Improvisation,4,,匪徒：見機行事,hv_TEXT_unit_abilities.loc.tsv
 Bandit: Strike First,3,,匪徒：先發制人,hv_TEXT_unit_abilities.loc.tsv
-Banditry,1,,,hv_TEXT_building.loc.tsv
+Banditry,1,劫盜序列,,hv_TEXT_building.loc.tsv
 Bandits Captain,1,,盜賊校尉,hv_TEXT_unit_text_replacements.loc.tsv
 Barded,3,,,hv_TEXT_unit_abilities.loc.tsv
 Barn Swallows,1,燕子兵,,hv_TEXT_unit_text_replacements.loc.tsv
@@ -596,8 +596,8 @@ Condemned Howl,2,,天譴之嘯,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Confidence and pride go hand in hand.,1,,傲慢即信心所在。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Confront the large white tiger,1,與巨型白虎對峙,,hv_TEXT_events.loc.tsv
 Confucianist,1,儒生,,z_dummy_hv_TEXT_non_deployable.loc.tsv
-Confucius Institute,4,孔子學院,,hv_TEXT_building.loc.tsv
-Congestion,1,擁堵,,hv_TEXT_effect_faction.loc.tsv
+Confucius Institute,4,孔子學院序列,,hv_TEXT_building.loc.tsv
+Congestion,1,過剩,,hv_TEXT_effect_faction.loc.tsv
 Conquest Yellow Turbans,1,剿滅黃巾,,hv_TEXT_etc.loc.tsv
 Council Proctor,1,縣丞,,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Counter Strike,3,,反擊,hv_TEXT_unit_abilities.loc.tsv
@@ -634,8 +634,8 @@ DEBUG GUY,1,校尉,,hv_TEXT_cb_loadout.loc.tsv
 Danyang Archers,1,,丹陽弓兵,hv_TEXT_unit_text_replacements.loc.tsv
 Danyang Spearmen,1,,丹陽長槍兵,hv_TEXT_unit_text_replacements.loc.tsv
 Danyang Troop Barrack,1,丹陽部隊軍營,,hv_TEXT_building.loc.tsv
-Danyang Troop Encampment,1,丹陽部隊營寨,,hv_TEXT_building.loc.tsv
-Danyang Troop Post,2,丹陽部隊據點,,hv_TEXT_building.loc.tsv
+Danyang Troop Encampment,1,,,hv_TEXT_building.loc.tsv
+Danyang Troop Post,2,丹陽軍序列,,hv_TEXT_building.loc.tsv
 Danyang Troop Tally,1,丹陽虎符,,hv_TEXT_effects_ceo.loc.tsv
 Danyang Troops Officer,1,丹陽部隊士官,,hv_TEXT_effects_ceo.loc.tsv
 Danyang Veterans,1,,丹陽老兵,hv_TEXT_unit_text_replacements.loc.tsv
@@ -843,7 +843,7 @@ Forced March,4,,,[03]__MTU_skills__Passive_buff.loc.tsv
 Foresight,4,,縱觀全局,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Forest Strategy,3,,森林戰略,hv_TEXT_unit_abilities.loc.tsv
 Forest Strider,3,,森林適性,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Forgive him,1,,,[dummy]__MTU_dummy.loc.tsv
+Forgive him,1,不计前嫌,,[dummy]__MTU_dummy.loc.tsv
 Form an air-tight defence.,3,,組成無隙可乘的防禦陣型。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Fortitude / Trophy Cabinet,1,堅韌度 / 戰利品櫃,,hv_TEXT_frontend_features.loc.tsv
 "Fortunately, nothing of note happened during the banquet.",1,幸運的是，宴會中沒發生什麼大事。 ,,ifo_text_TWEAK.loc.tsv
@@ -936,8 +936,8 @@ Handmaid Guards,1,護衛侍女,,hv_TEXT_unit_text_replacements.loc.tsv
 "Having fled from their homes, these craftsmen and artisans turn their skills to the defence of their new home and master. \\n\\n Having been selected as the brightest from the many refugees flooding his lands, these engineers serve Tao Qian to the best of their ability. Wielding crossbows, they provide support from afar and will deploy smoke bombs and caltrops when an enemy strays too close. However, these men are not proper soldiers and should not be relied upon to hold the line in melee.",1,,,hv_TEXT_unit_long_desc.loc.tsv
 He Man,1,,,hv_TEXT_cb_loadout.loc.tsv
 He Yi,1,,,hv_TEXT_cb_loadout.loc.tsv
-He was also a bandit once.,1,平定江東之功臣。,,hv_TEXT_ceo_career.loc.tsv
-He was loved by everyone.,1,受众人喜爱。,,hv_TEXT_ceo_career.loc.tsv
+He was also a bandit once.,1,「欽折節好學，以公滅私。」,,hv_TEXT_ceo_career.loc.tsv
+He was loved by everyone.,1,飽讀詩書，人見人愛。,,hv_TEXT_ceo_career.loc.tsv
 Heart Seeker,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "Heaven decides the victor, but Chunyu Qiong will not surrender. As death approaches, he redoubles his efforts in a desperate last stand.",2,,,[03]__MTU_skills__Passive_buff.loc.tsv
 Heavenly Color,2,,,[03]__MTU_skills___Court.loc.tsv
@@ -1076,7 +1076,7 @@ Inspection,1,,審查,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Inspirational deeds spur forces to swifter action!,2,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
 Inspiring Surge,4,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
 Inspiring Words,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-"Instead of sending Xun Yu the ""gift"", you chose to admit your wrong. With him, you swore to take the right path.",1,,,[dummy]__MTU_dummy.loc.tsv
+"Instead of sending Xun Yu the ""gift"", you chose to admit your wrong. With him, you swore to take the right path.",1,你聽從荀彧的諫言，立志輔佐漢室。,,[dummy]__MTU_dummy.loc.tsv
 Instinct,2,,本能,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Internal Blaze,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Into the Breach,10,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
@@ -1185,7 +1185,7 @@ Lady Du,3,,杜氏,[01]__MTU_generals__Earth_commander.loc.tsv
 Lady Du’s Embroidered Garment,1,,,[02]__MTU_items__Armour.loc.tsv
 Lady Feng,2,,馮氏,[01]__MTU_generals__Earth_commander.loc.tsv
 Lady Feng's Gold Embroidered Garments,1,,馮氏的金色绣服,[02]__MTU_items__Armour.loc.tsv
-Lady Liu always cares about her family.,1,劉氏總是關心他的家人。,,z_dummy_hv_TEXT_non_deployable.loc.tsv
+Lady Liu always cares about her family.,1,「袁尚母劉氏之妒，其酷烈也甚矣。乃城破之後，不能死節，而獻甄氏於曹丕，以圖苟全，又何其無烈性至此乎！可見婦之貞者必不妒，婦之妒者必不貞。」,,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Lady Liu's Robes,1,,劉氏的長袍,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Lady Trieu,4,,趙嫗,hv_TEXT_cb_loadout.loc.tsv
 Lady Trieu [[img:unit_elephant]][[/img]],1,,趙嫗[[img:unit_elephant]][[/img]],hv_TEXT_cb_loadout.loc.tsv
@@ -1210,7 +1210,7 @@ Legacy of Yuan Shu,1,袁術餘部,,hv_TEXT_etc.loc.tsv
 Legend has it that the great swords forged by Ou Yezi protect the sword-handler.,1,,,[02]__MTU_items__Weapons.loc.tsv
 Legends speak of a woman who slips in and out of the shadows of Heishan...,2,,,[03]__MTU_skills__Active_buff.loc.tsv
 Let Them Fight,1,,,[04]__MTU_events__Common.loc.tsv
-Li Jue and Guo Si came to the capital with a huge army. They want avenge for their fallen master. The only thing they want is the neck of the killer.,1,,,[dummy]__MTU_dummy.loc.tsv
+Li Jue and Guo Si came to the capital with a huge army. They want avenge for their fallen master. The only thing they want is the neck of the killer.,1,李傕、郭汜帶著大軍殺到長安，要為死去的主公報仇，不取仇家的首級誓言不罷休。,,[dummy]__MTU_dummy.loc.tsv
 Li Ru,1,,,hv_TEXT_cb_loadout.loc.tsv
 Library Destroyer,1,,,[04]__MTU_events___daughter.loc.tsv
 Light Infantry,1,,,hv_TEXT_unit_ground_type.loc.tsv
@@ -1228,8 +1228,8 @@ Liu Chong,1,,,hv_TEXT_cb_loadout.loc.tsv
 Liu Zhang,1,,,hv_TEXT_cb_loadout.loc.tsv
 "Liu Zhang calls a ceasefire for all nearby units, delaying the enemy while his allies work on a counter-attack.",1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Local Celebrity,1,名士,,z_dummy_hv_TEXT_non_deployable.loc.tsv
-Local Noble Archers,1,,地方豪强弓兵,hv_TEXT_unit_text_replacements.loc.tsv
-Local Noble's Estate,1,地方豪强莊園,,hv_TEXT_building.loc.tsv
+Local Noble Archers,1,,士族弓兵,hv_TEXT_unit_text_replacements.loc.tsv
+Local Noble's Estate,1,士族莊園序列,,hv_TEXT_building.loc.tsv
 Local Noble's Household,1,,,hv_TEXT_building.loc.tsv
 Local Noble's Manor,1,,,hv_TEXT_building.loc.tsv
 Locks Might Royal Guard units,1,,,hv_TEXT_events_rules.loc.tsv
@@ -1386,7 +1386,7 @@ Nanman Cavalry Defectors,1,,南蠻叛逃騎兵,hv_TEXT_unit_text_replacements.lo
 Nanman Crossbow Defectors,1,,南蠻叛逃弩兵,hv_TEXT_unit_text_replacements.loc.tsv
 Nanman Infill Development ,1,南蠻填地序列,,hv_TEXT_building.loc.tsv
 Nanman Long Spear Defectors,1,,南蠻叛逃長槍兵,hv_TEXT_unit_text_replacements.loc.tsv
-Nanman-Han Trading Post,3,南蠻市肆,,hv_TEXT_building.loc.tsv
+Nanman-Han Trading Post,3,南境市肆序列,,hv_TEXT_building.loc.tsv
 Nature itself provides a shield for its warriors.,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Nature must be preserved and the world saved. These warriors will see it done.,1,,,hv_TEXT_unit_desc.loc.tsv
 Nature's Ally,11,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
@@ -1427,7 +1427,7 @@ Oil Pot,4,,油罐,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "Once Yan Liang angers, he can quite literally crush his opponent.",2,,,[03]__MTU_skills__Passive_buff.loc.tsv
 "Once a governor faction leader has earned enough prestige to be named king, the three strongest warlords will proclaim themselves emperor, which will make their capitals seats of great power.\\n\\n[[b]]Victory Condition[[/b]]\\nUnite China by bringing all emperor seats under your control.\\n\\n[[b]]Victory Types[[/b]]\\nStandard: become emperor and eliminate all other emperors by taking their seats of power.\\n\\nCo-operative: combine your strength by signing a shared mandate diplomatic deal.\\n\\nHead-to-Head: destroy the other player, or compete with one another to be the first to meet the victory conditions.",3,一旦有一支太守勢力的領袖獲得足以稱王的威望，群雄中最強的三家便會稱帝，使其都城成為握有龐大權力的皇城。\\n\\n[[b]]勝利條件[[/b]]\\n奪佔所有皇城，即能一統天下。\\n\\n[[b]]勝利類型：[[/b]]\\n標準：稱帝，並透過奪取其他稱帝者的皇城，消滅其他所有稱帝者。\\n\\n合作：可以簽訂同享天命的外交條約來集結力量。\\n\\n對決戰役：消滅對方玩家，或是與其他玩家角逐，成為第一位達成勝利條件的玩家。,,!hv_TEXT_system.loc.tsv
 "Once a governor faction leader has earned enough prestige to be named king, the three strongest warlords will proclaim themselves emperor, which will make their capitals seats of great power.\\n\\n[[b]]Victory condition[[/b]]: Unite China by bringing all emperor seats under your control and by owning {{tr:victory_condition_regions_count}} {{tr:map_regions}}.",3,一旦有一支太守勢力的領袖獲得足以稱王的威望，群雄中最強的三家便會稱帝，使其都城成為握有龐大權力的皇城。太守勢力無法自行稱帝，但可以透過佔領這些皇城來證明自己的影響力，進而登基為帝。\\n\\n[[b]]勝利條件[[/b]]：奪佔所有皇城並擁有{{tr:victory_condition_regions_count}}個{{tr:map_regions}}，即能一統天下。,,!hv_TEXT_system.loc.tsv
-"Once again the flames begin to burn. Now we are ready to destroy the Han dynasty. Our forces are strong, and the old comrades who had to live in hiding will also appear and respond to us. Let's make sure that Zhang Jue's unfulfilled dream come true.",1,,,hv_TEXT_events.loc.tsv
+"Once again the flames begin to burn. Now we are ready to destroy the Han dynasty. Our forces are strong, and the old comrades who had to live in hiding will also appear and respond to us. Let's make sure that Zhang Jue's unfulfilled dream come true.",1,黃巾烈火再次熊熊燃燒。漢朝覆滅之日不遠。我軍勢不可擋，昔日隱匿的教友也會再加入我們。天下大吉的夢想定會實現。,,hv_TEXT_events.loc.tsv
 "Once equipped, this follower can't be unequipped until it is destroyed in 10 turns!",3,裝備此隨從後，須等到10回合後才能解除。之後此隨從即會消失。,,hv_TEXT_effects_ceo.loc.tsv
 "Once equipped, this item can't be unequipped",1,此飾物一旦裝備便無法解除,,hv_TEXT_effects_ceo.loc.tsv
 "Once equipped, this item can't be unequipped until it is destroyed in 20 turns!",2,裝備此飾物後，須等到20回合後才能解除。之後此飾物即會消失。,,hv_TEXT_effects_ceo.loc.tsv
@@ -1523,10 +1523,10 @@ Princess Dun Huang,2,,,[01]__MTU_generals__Metal_sentienl.loc.tsv
 Princess Zhong,2,,,[01]__MTU_generals__Water_strategist.loc.tsv
 "Princess Zhong, Yuan Anyang",1,,,[04]__MTU_events___Concubine.loc.tsv
 Promptly and Accurately,1,,既快又准,hv_TEXT_unit_abilities.loc.tsv
-Proof that the bearer has the authority to command Danyang troops.,1,,此令牌可指揮丹陽單位。,hv_TEXT_effects_ceo.loc.tsv
-Proof that the bearer has the authority to command Enforcer troops.,1,,此令牌可指揮捕掾隊單位。,hv_TEXT_effects_ceo.loc.tsv
-Proof that the bearer has the authority to command Hidden Snakes and Rapid Tigers.,1,,此令牌可指揮隱蛇兵與虎賁軍。,hv_TEXT_effects_ceo.loc.tsv
-Proof that the bearer has the authority to command Jingchu troops.,1,,此令牌可指揮荊楚單位。,hv_TEXT_effects_ceo.loc.tsv
+Proof that the bearer has the authority to command Danyang troops.,1,,持此令牌者可以指揮丹陽單位。,hv_TEXT_effects_ceo.loc.tsv
+Proof that the bearer has the authority to command Enforcer troops.,1,,持此令牌者可以指揮捕掾隊單位。,hv_TEXT_effects_ceo.loc.tsv
+Proof that the bearer has the authority to command Hidden Snakes and Rapid Tigers.,1,,持此令牌者可以指揮隱蛇兵與虎賁軍。,hv_TEXT_effects_ceo.loc.tsv
+Proof that the bearer has the authority to command Jingchu troops.,1,,持此令牌者可以指揮荊楚單位。,hv_TEXT_effects_ceo.loc.tsv
 Protect me!,2,,,[03]__MTU_skills__Passive_buff.loc.tsv
 Protection of Black Mountain,3,黑山之佑,,hv_TEXT_unit_abilities.loc.tsv
 Protectors of Heaven,2,,,hv_TEXT_unit_text_replacements.loc.tsv
@@ -1587,7 +1587,7 @@ Recruit,1,,,hv_TEXT_pooled_resource.loc.tsv
 Redeemed Outlaws,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Reduces the negative influence of the other ethnic groups,1,,,hv_TEXT_effects_technology.loc.tsv
 Refuse,2,,,hv_TEXT_events.loc.tsv
-Refuse their demands,1,,,[dummy]__MTU_dummy.loc.tsv
+Refuse their demands,1,拒不交人,,[dummy]__MTU_dummy.loc.tsv
 Registrar,1,,,[01]__MTU_generals__Water_strategist.loc.tsv
 Reign of Terror,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Reject,2,,,[04]__MTU_events__Common.loc.tsv
@@ -1648,8 +1648,8 @@ Secretary,1,,,[01]__MTU_generals__Water_strategist.loc.tsv
 "Selecting this will open the Imperial Intrigue panel, which governs all the mechanics which become active once Emperor Xian comes of age in 195 CE, introducing a struggle over the influence of the new imperial power.",1,選取之後將會打開朝廷權謀面板，統管獻帝於公元195年成年後開放使用的所有機制，代表著新任皇權所面臨的政治角力。,,ifo_text_TWEAK.loc.tsv
 Sell Horses,1,賣馬,,hv_TEXT_pooled_resource.loc.tsv
 Send Her Away,26,,,[04]__MTU_events___Concubine.loc.tsv
-"Send The ""Gift""",1,,,[dummy]__MTU_dummy.loc.tsv
-Send Wang Yun to them,1,,,[dummy]__MTU_dummy.loc.tsv
+"Send The ""Gift""",1,送他一個空食盒,,[dummy]__MTU_dummy.loc.tsv
+Send Wang Yun to them,1,交出王允,,[dummy]__MTU_dummy.loc.tsv
 Send civil officials,1,派文官前去,,ifo_text_TWEAK.loc.tsv
 Send military officers,1,派武官前去,,ifo_text_TWEAK.loc.tsv
 Send your warriors into the thick of battle and watch as they fight even more fiercely.,3,,将你的勇士们送入战场，看着他们更加激烈的战斗。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -1777,7 +1777,7 @@ Sun Ren,1,,,hv_TEXT_cb_loadout.loc.tsv
 "Sun Tzu said that one should always give an enemy room to escape, so that they do not fight with the fervour of the doomed. Yet for Gao Shun's elite force, Xian Chen Ying, being entirely surrounded is nothing but another dimension to slaughter. \\n\\n Renowned for their abilitiy to smash through enemy formations, Xian Chen Ying excel even when surrounded. The bodies will pile high, but Xian Chen Ying will still emerge from the pile victorious.",1,,,hv_TEXT_unit_long_desc.loc.tsv
 Sundering Strike,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Supervise Construction,1,,,hv_TEXT_skills_additional.loc.tsv
-Supply Management,2,補給管理,,hv_TEXT_building.loc.tsv
+Supply Management,2,補給管理序列,,hv_TEXT_building.loc.tsv
 Support Wang Yun's Order,1,,,[04]__MTU_events___Cai_family.loc.tsv
 Support them,1,支持他們,,hv_TEXT_events.loc.tsv
 Suppressive Fire,4,,,[03]__MTU_skills___Projectile.loc.tsv
@@ -1825,7 +1825,7 @@ The Black Mountain bandits make their stand.,1,黑山匪徒擺開陣勢。,,hv_T
 The Black Mountain bandits unleash their fury.,1,黑山匪徒怒不可遏。,,hv_TEXT_unit_abilities.loc.tsv
 "The Blue Blade, capable of cutting through enemies and their weapons alike, saved Liu Bei’s baby son with Zilong’s expert wielding.",1,,,[02]__MTU_items__Weapons.loc.tsv
 "The Brilliant Rogue, Lu Zheng",1,,,[04]__MTU_events___Concubine.loc.tsv
-The Cataclysm,1,,,[dummy]__MTU_dummy.loc.tsv
+The Cataclysm,1,朝政混亂,,[dummy]__MTU_dummy.loc.tsv
 "The Deadly Beauty, Diaochan",1,,,[04]__MTU_events___Concubine.loc.tsv
 "The Delicate Flower, Lady Feng",1,,,[04]__MTU_events___Concubine.loc.tsv
 The Dragon's Gaze,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -1839,7 +1839,7 @@ The Han must be restored. These men shall follow their righteous general to the 
 The Kidnapped Girl,2,文姬歸漢,,hv_TEXT_events.loc.tsv
 The Lady Trieu will appear according to the flow of history.,1,,,[04]__MTU_events__Common.loc.tsv
 The Land's Chosen,1,,,hv_TEXT_unit_text_replacements.loc.tsv
-The Last Gift,1,,,[dummy]__MTU_dummy.loc.tsv
+The Last Gift,1,最後的禮物,,[dummy]__MTU_dummy.loc.tsv
 The Last Kin of the Dong Zhuo,3,董卓遺孤,,hv_TEXT_events.loc.tsv
 The Legacy of Lu Bu,1,呂布殘黨,,hv_TEXT_effects_events.loc.tsv
 The Legacy of Yuan Shu,1,袁術殘黨,,hv_TEXT_effects_events.loc.tsv
@@ -1865,7 +1865,7 @@ The White Tiger,1,,,hv_TEXT_cb_loadout.loc.tsv
 The Xiliang army is experienced.,2,西涼軍經驗豐富。,,hv_TEXT_unit_abilities.loc.tsv
 The Yan frontier offers no shortage of good horses. The constant warfare provides these steeds with expert riders.,1,燕疆不乏良馬。連綿的戰事為這些戰馬提供了老練的騎手。  ,,hv_TEXT_unit_desc.loc.tsv
 The Yellow Turban Rises Again,1,黃巾再起,,hv_TEXT_events.loc.tsv
-The Yellow Turban is ready to color the world once again.,2,,,hv_TEXT_pooled_resource.loc.tsv
+The Yellow Turban is ready to color the world once again.,2,黃巾之勢必將再次席捲天下。,,hv_TEXT_pooled_resource.loc.tsv
 "The Yellow Turban rebellion and the rapidly collapsing Han dynasty has left many people without homes or livelihoods. The most desperate or least scrupulous of these turn to banditry. These men flock to the bandit of the king of Black Mountain, hoping to remake their fortunes through plunder and bloody battle. Despite their hopes, their poor equipment usually has them end up as fodder, while others reap the rewards for their sacrifices.",1,,,hv_TEXT_unit_long_desc.loc.tsv
 "The Yellow Turban rebellion and the rapidly collapsing Han dynasty has left many people without homes or livelihoods. The most desperate or least scrupulous of these turn to banditry. These men flock to the self-proclaimed bandit queen, hoping to remake their fortunes through plunder and bloody battle. Despite their hopes, their poor equipment usually has them end up as fodder, while others reap the rewards for their sacrifices.",1,,,hv_TEXT_unit_long_desc.loc.tsv
 "The Yellow Turban rebellion challenges the corruption that poisons China and has made many question old loyalties. \\n\\n These noblemen have renounced their former warlords to seek justice and redemption. Their previous life of privilege has trained and equipped them well, and they ride into battle clad in ornate armour and helmets upon impressive mounts of the finest stock. \\n\\n With sharp spears, the impact of their charge is merely a way to break the enemy’s lines for deadly close combat.",1,黃巾軍起義，劍指危害天下的腐敗，並讓許多人對心中舊有的忠誠觀念產生疑問。 \\n\\n 這些名門賢士拋棄了原先效忠的諸侯，轉而尋求公義，彌補自己的罪過。他們因先前的優渥生活而受過紮實的訓練，並擁有精良的裝備。賢士穿戴華美的護甲與頭盔，騎著威風凜凜的良駒駿馬踏上戰場。 \\n\\n 他們手持鋒利的長槍向前衝鋒，只為突破陣線，與敵軍來場你死我活的近戰廝殺。,,hv_TEXT_unit_desc.loc.tsv
@@ -1886,7 +1886,7 @@ The battlefield is your stage.,1,戰場即是你的舞臺。,,hv_TEXT_etc.loc.ts
 "The captain of the centre, inspector of the professional Northern Army, has pledged his allegiance to Dong Zhuo. He now has a formidable force at his disposal.",1,掌管北軍世兵的領軍校尉現已效忠于董卓。這是支不可小觑的部隊。,,hv_TEXT_events.loc.tsv
 "The captain of the centre, inspector of the professional Northern Army, has pledged his allegiance to Gongsun Zan. He now has a formidable force at his disposal.",1,掌管北軍世兵的領軍校尉現已效忠于公孫瓚。這是支不可小觑的部隊。,,hv_TEXT_events.loc.tsv
 "The captain of the centre, inspector of the professional Northern Army, has pledged his allegiance to Yuan Shu. He now has a formidable force at his disposal.",1,掌管北軍世兵的領軍校尉現已效忠于袁術。這是支不可小觑的部隊。,,hv_TEXT_events.loc.tsv
-The chaos caused by Li Jue and Guo Si is devastating the whole country.,1,,,[dummy]__MTU_dummy.loc.tsv
+The chaos caused by Li Jue and Guo Si is devastating the whole country.,1,李傕與郭汜把持朝政，天下大亂。,,[dummy]__MTU_dummy.loc.tsv
 "The cragged edges of the southern mountains fashion peasants into warriors, flint-eyed and sharp.",1,,,hv_TEXT_unit_desc.loc.tsv
 "The crossbow is a very effective weapon for a surprise attack. The shooter just have to load a bolt, lower their body, and wait for the prey to come. \\n\\n This unit is adept at the tactics of smashing careless enemies with ambush shots.",1,,,hv_TEXT_unit_long_desc.loc.tsv
 The crushing blow is delivered by Zhang Xun’s own hand.,2,,,[03]__MTU_skills___Splash_attack.loc.tsv
@@ -1898,7 +1898,7 @@ The emperor is proud of your achievements. He may choose to reward you.,3,,,hv_T
 The emperor thinks highly of you. His majesty has decided to gift you a small fortune in honour of your contributions to the state.,1,天子對你甚有好感，决定給你一些賞賜，來表彰你對朝廷的貢獻。 ,,ifo_text_TWEAK.loc.tsv
 The enemy is located; the earth reveals them.,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 The enemy knows the next shot will not miss.,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-The estates of powerful and wealthy families.,1,地方豪强的地產。,,hv_TEXT_building.loc.tsv
+The estates of powerful and wealthy families.,1,名門大家所擁有的莊園。,,hv_TEXT_building.loc.tsv
 "The fame of these horsemen reaches far. To fight the northern tribes, Gongsun Zan has created a skilled cavalry force of his own to match. These warriors follow their leader into battle, against the tribes or any other foe of the Han… \\n\\n Wielding a long spear and shield, these armored warriors charge into battle, skewering the foe with their lances. They only need to be wary of enemy spearmen and sustained archer fire.",1,,,hv_TEXT_unit_long_desc.loc.tsv
 "The fame of these horsemen reaches far. To fight the northern tribes, Gongsun Zan has created a skilled cavalry force of his own to match. These warriors follow their leader into battle, against the tribes or any other foe of the Han… \\n\\n Wielding sword and shield and clad in heavy armor, they can easily weather a barrage of arrows, before charging into melee and remaining there to hold the line as the rest of the army finishes the enemy.",1,,,hv_TEXT_unit_long_desc.loc.tsv
 "The favor of nature, though bountiful, does not come often.",2,,,[03]__MTU_skills__Active_buff.loc.tsv
@@ -1912,7 +1912,7 @@ The frigid North Wind brings with it the cold grip of death.,1,,,[02]__MTU_items
 The fury of the victorious warrior is fearful to behold!,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 The heavens themselves will punish the unjust.,1,,,[02]__MTU_items__Accessory.loc.tsv
 The hopes of her people rest squarely on her shoulders; Lady Trieu will not fail them.,2,,,[03]__MTU_skills__Active_buff.loc.tsv
-The house of Dong is destroyed.,1,董卓全族已被誅滅,,hv_TEXT_events.loc.tsv
+The house of Dong is destroyed.,1,董卓全族已被誅滅。,,hv_TEXT_events.loc.tsv
 "The imperial ancestral rite ended without incident. Unfortunately, the emperor returned to the place without acknowledging your contribution.",1,皇家祭祀儀式順利完成，但天子一言不發便回宮了。 ,,ifo_text_TWEAK.loc.tsv
 "The imperial ancestral rite was completed successfully, and the emperor shows favour to the attending nobles. ",2,皇家祭祀儀式圓滿完成，天子對到場的貴族示恩。 ,,ifo_text_TWEAK.loc.tsv
 "The imperial ancestral rite, a significant event in China, will be held soon. An imperial decree demands that you send civil officials to assist in administrative affairs or military officers for the imperial guard detail. If you fulfill your duties as a faithful servant, the imperial court will grant you grace. If you refuse, you may incurr the emperor's disfavour...",1,,,ifo_text_TWEAK.loc.tsv
@@ -2195,7 +2195,7 @@ Virtous Noblemen,1,名門賢士,,hv_TEXT_unit_text_replacements.loc.tsv
 Wall of Steel,7,,,hv_TEXT_unit_abilities.loc.tsv
 Wandering Artisans,1,游方藝匠,,hv_TEXT_unit_text_replacements.loc.tsv
 "Wang Kuang’s spouse, Yijian Liting, has found her way to us. She’s as renowned for her courage in combat as she is her perseverance. As you share private moments with her, you find her desire to excel in all aspects of life to be admirable. Women, true of heart and ambitious, must be appreciated. Perhaps, she would be a fine concubine - making capable sons and daughters.",1,,,[04]__MTU_events___Concubine.loc.tsv
-"Wang Yun went to them obediently and left these words.\\n\\n ""It was my wish to make the country peaceful. I didn't, so I sacrifice myself. The litte emperor has shown kindness to me, and I can't stand to live a miserable life.""",1,,,[dummy]__MTU_dummy.loc.tsv
+"Wang Yun went to them obediently and left these words.\\n\\n ""It was my wish to make the country peaceful. I didn't, so I sacrifice myself. The litte emperor has shown kindness to me, and I can't stand to live a miserable life.""",1,王允自行降於李郭。\\n\\n王允奏曰：“臣本為社稷計。事至此，陛下不惜已臣，以誤國家。臣請下見二賊。”,,[dummy]__MTU_dummy.loc.tsv
 Wang Yun's order was stayed. The renowned scholar would record the history of the Han as recompense for his wrongdoing.,1,,,[04]__MTU_events___Cai_family.loc.tsv
 Warehouse,1,,,hv_TEXT_building.loc.tsv
 Warlord,8,諸侯,,[01]__MTU_generals__Water_strategist.loc.tsv
@@ -2334,10 +2334,10 @@ Xueer,1,,,[05]__MTU_sys__Names.loc.tsv
 Xun You,1,,,hv_TEXT_cb_loadout.loc.tsv
 Xun Yu,1,,,hv_TEXT_cb_loadout.loc.tsv
 Xun Yu has the power to influence the emperor. No one doubts his reputation.,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-"Xun Yu openly criticized you for seeking power, saying you should be focusing on the restoration of Han dynasty. He even had the gall to say that because of your pursuit of power, you will never see a good end. \\n\\n You were furious, but you could not openly express it, since he was an old friend and a loyal servant.",1,,,[dummy]__MTU_dummy.loc.tsv
-"Xun Yu recognized the meaning of your ""gift"" and made the last choice. You regretted your choice when you heard that he was dead, but it was too late.",1,,,[dummy]__MTU_dummy.loc.tsv
-Xun Yu's Opposition,1,,,[dummy]__MTU_dummy.loc.tsv
-"Xun Yu, a renowned strategist, has come to you to offer you his service. Many lords have offered him to join their side, but he rejected all the offers and decided to be a part of your ambition. You were thrilled to accept that someone so talented had come to you.",1,,,[dummy]__MTU_dummy.loc.tsv
+"Xun Yu openly criticized you for seeking power, saying you should be focusing on the restoration of Han dynasty. He even had the gall to say that because of your pursuit of power, you will never see a good end. \\n\\n You were furious, but you could not openly express it, since he was an old friend and a loyal servant.",1,荀彧進言，指責你專權跋扈，不以輔佐漢室為重。\n\n您很憤怒，但又不能公開表達，因為你們結交已久，他是你一位心腹。,,[dummy]__MTU_dummy.loc.tsv
+"Xun Yu recognized the meaning of your ""gift"" and made the last choice. You regretted your choice when you heard that he was dead, but it was too late.",1,荀彧見到了空食盒，明白了你的意思，於是服毒自盡。你聽到消息，懊悔不已，但爲時已晚。,,[dummy]__MTU_dummy.loc.tsv
+Xun Yu's Opposition,1,荀彧諍諫,,[dummy]__MTU_dummy.loc.tsv
+"Xun Yu, a renowned strategist, has come to you to offer you his service. Many lords have offered him to join their side, but he rejected all the offers and decided to be a part of your ambition. You were thrilled to accept that someone so talented had come to you.",1,荀彧年少即以王佐之才出名。他曾從事於袁紹，但覺得袁紹不能成大事，於是投奔於你。你和他交談後非常高興，說他是你的子房。,,[dummy]__MTU_dummy.loc.tsv
 Xun Yu’s firm and unbroken will is an example to all soldiers.,2,,,[03]__MTU_skills__Passive_buff.loc.tsv
 Yan Baihu,1,,,hv_TEXT_cb_loadout.loc.tsv
 Yan Baihu can recruit generic [[b]]Han units[[/b]] with Bandit Network.,1,嚴白虎可通過盜賊人脈招募普通 [[b]]漢軍單位[[/b]]。,,hv_TEXT_frontend_features.loc.tsv
@@ -2371,7 +2371,7 @@ Yijian Liting’s eyes never rest. She is always aware of her enemy’s movement
 You Shi,1,游師騎兵,,hv_TEXT_unit_text_replacements.loc.tsv
 You agree with your men and prepare to descend.,1,你同意下人的意見，準備下山。,,hv_TEXT_events.loc.tsv
 You allow them to join your cause. ,2,收納他們加入旗下。,,hv_TEXT_events.loc.tsv
-"You are furious because you found out your old friend and trusted servant, Xun Yu, has turned his back against you. He does not oppose you publicly for the time being, but you are certain he will betray you the first chance he gets. \\n\\n It's time to choose. You can send him a ""gift."" when he receives your ""gift,"" he who shares a deep friendship with you will know the meaning of it...",1,,,[dummy]__MTU_dummy.loc.tsv
+"You are furious because you found out your old friend and trusted servant, Xun Yu, has turned his back against you. He does not oppose you publicly for the time being, but you are certain he will betray you the first chance he gets. \\n\\n It's time to choose. You can send him a ""gift."" when he receives your ""gift,"" he who shares a deep friendship with you will know the meaning of it...",1,您之所以憤怒，是因為您發現您的心腹荀彧有了異心。雖然他沒有公開反對您，您相信他一有機會便会反叛。\\n\\n您可以送他一個空食盒。他看到後就會明白您的意思。,,[dummy]__MTU_dummy.loc.tsv
 You are rather taken with a fine steed.,1,您被一匹好馬吸引住了。,,hv_TEXT_events.loc.tsv
 You are rather taken with a peculiar sword.,1,您被一柄怪劍吸引住了。,,hv_TEXT_events.loc.tsv
 You are royal. Act like it.,1,,,hv_TEXT_skills_basic.loc.tsv
@@ -2422,7 +2422,7 @@ You may now recruit Xiliang units,1,,您現在可以招募：西涼單位,hv_TEX
 You may now recruit {{tr:hv_unit_warrior_monks}},1,,您現在可以招募：{{tr:hv_unit_warrior_monks}},hv_TEXT_events.loc.tsv
 You may now recruit {{tr:hv_unit_white_tiger_warriors}},1,,您現在可以招募：{{tr:hv_unit_white_tiger_warriors}},hv_TEXT_events.loc.tsv
 You may now recruit {{tr:hv_unit_yuan_rong_crossbowmen}}.,1,,您現在可以招募：{{tr:hv_unit_yuan_rong_crossbowmen}}。,hv_TEXT_events.loc.tsv
-"You refused to hand over Wang Yun and his family to them. Then the rebels are furious, and they're going through the whole country!",1,,,[dummy]__MTU_dummy.loc.tsv
+"You refused to hand over Wang Yun and his family to them. Then the rebels are furious, and they're going through the whole country!",1,你拒絕交出王允。反賊大怒，縱兵四處劫掠。,,[dummy]__MTU_dummy.loc.tsv
 You refused to pay the barbarian for his atrocities against you and your people. Many were captured - how could you put her above them all?,1,,,[04]__MTU_events___Cai_family.loc.tsv
 You reject their offer and send them away.,1,,,[04]__MTU_events__Common.loc.tsv
 You rule your domain with military efficiency.,1,以軍隊的效率治理領地。,,hv_TEXT_effects_pooled_resource.loc.tsv
@@ -2494,7 +2494,7 @@ Zhu Tu and Zhu Beng have witnessed first-hand how power steadily corrupted their
 Zhuge Liang,1,,,hv_TEXT_cb_loadout.loc.tsv
 Zhuge Liang has brilliantly engineered a new weapon. It is a crossbow that fires several bolts simultaneously to overwhelm the enemy.,1,諸葛亮精心設計出一種新武器。這是一種能夠同時射出多枚箭矢的弩弓，可以壓制敵人。,,hv_TEXT_events.loc.tsv
 Zhuge Liang predicts the wind through study of the world.,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Zong Bu,1,,,hv_TEXT_building.loc.tsv
+Zong Bu,1,宗部序列,,hv_TEXT_building.loc.tsv
 Zou Yuan,2,,鄒氏,[01]__MTU_generals__Water_strategist.loc.tsv
 Zou Yuan's Embroidered Garments,1,,,[02]__MTU_items__Armour.loc.tsv
 Zou Yuan's clothes are thin but soft and sturdy.,1,,,[02]__MTU_items__Armour.loc.tsv
@@ -2691,7 +2691,7 @@ Zou Yuan's clothes are thin but soft and sturdy.,1,,,[02]__MTU_items__Armour.loc
 "[[b]]Yuan Anyang[[/b]]\\nPrincess Zhong\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]The beauty and qualities of Yuan Anyang, a princess of the Zhong Kingdom, were known throughout the land.[[/col]][[/i]]",2,,,[05]__MTU_sys__Frontend_ui_description.loc.tsv
 "[[b]]Zhang Xun[[/b]]\\nGeneral-in-Chief of Zhong\\n\\nGeneral type: {{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]As the lead general in the Zhong Kingdom, Zhang Xun commanded the formidable army of the Yuan family.[[/col]][[/i]]",2,,,[05]__MTU_sys__Frontend_ui_description.loc.tsv
 "[[b]]Zheng Lan[[/b]]\\nQueen of Black Mountain\\n\\nGeneral type: {{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]An ambitious woman, whose reasons to marry Zhang Yan are as mysterious as herself.[[/col]][[/i]]",3,,,hv_TEXT_frontend_features.loc.tsv
-[[col:flavour]]Local Noble's Estate[[/col]],1,[[col:flavour]]地方豪强莊園[[/col]],,hv_TEXT_building.loc.tsv
+[[col:flavour]]Local Noble's Estate[[/col]],1,[[col:flavour]]士族莊園序列[[/col]],,hv_TEXT_building.loc.tsv
 [[col:green]]Immune to Fear and Terror[[/col]],1,[[col:green]]驚嚇和驚駭免疫[[/col]],,!hv_TEXT_system.loc.tsv
 [[col:scope_description]](adjacent all {{tr:map_regions}})[[/col]],1,[[col:scope_description]]（相鄰各{{tr:map_regions}}）[[/col]],,hv_TEXT_effects_building.loc.tsv
 [[col:scope_description]](adjacent {{tr:map_provinces}})[[/col]],1,,,hv_TEXT_effect_scope.loc.tsv
