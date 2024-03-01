@@ -216,7 +216,7 @@ cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubin
 cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_cai_yan_dilemmaSECOND,不能讓美色誤了大事,True
 cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_dong_dilemmaFIRST,將董氏納入後宮,True
 cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_dong_dilemmaSECOND,不能讓美色誤了大事,True
-cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_du_dilemmaFIRST,將劉氏入後宮,True
+cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_du_dilemmaFIRST,將杜氏入後宮,True
 cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_du_dilemmaSECOND,不能讓美色誤了大事,False
 cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_feng_dilemmaFIRST,將馮氏納入後宮,True
 cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_lady_feng_dilemmaSECOND,不能讓美色誤了大事,False
@@ -294,7 +294,7 @@ cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_br
 cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_bring_cai_yan_dilemma_pcSECOND,你決定將國庫的資金用於更有用的地方，但卻愧對了蔡氏家族。,True
 cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_cai_yong_death_dilemma_pcFIRST,當世大儒蔡邕死於了王允的令下,True
 cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_cai_yong_death_dilemma_pcSECOND,你改變了王允的主意,True
-cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_daughter_guan_trait_dilemma_1FIRST,關羽雖怒，卻不怒不變容，他令其女兒自行打掃狼藉，讓她自己反思。,False
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_daughter_guan_trait_dilemma_1FIRST,關羽雖怒，卻怒不變容，他令其女兒自行打掃狼藉，讓她自己反思。,False
 cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_daughter_guan_trait_dilemma_1SECOND,關羽見一片狼藉，喚來其女，與她一同修復書櫥，並對其悉心教導。,False
 cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_daughter_zhang_trait_dilemma_1FIRST,心愛的酒水被奪走了，銘心張飛大怒，欲讓其女對此事刻骨銘心。於是對張氏大聲斥罵，罵聲震耳欲聾，如同雷鳴。不料張氏卻頂撞其父，斥其父成日醉酒，總有一日會壞大事。,False
 cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_global_event_daughter_zhang_trait_dilemma_1SECOND,儘管心愛的酒水被女兒喝得一乾二淨，張飛忍住了心中的不甘以及怒火，對張氏警告了私自觸碰他人物品的品行，以及對她說以後應當邀請他一起飲酒。,False
@@ -322,8 +322,8 @@ cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubin
 cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_cai_yan_dilemmaSECOND,你遣人把蔡琰從府中送了出去,True
 cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_dong_dilemmaFIRST,你將董氏納爲妾室，爲了保證你能坐上皇位她將傾其所有。,True
 cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_dong_dilemmaSECOND,你遣人把董氏從府中送了出去,True
-cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_du_dilemmaFIRST,你將劉氏納爲妾室，她的美貌激動人心。,False
-cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_du_dilemmaSECOND,你遣人把劉氏從府中送了出去,False
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_du_dilemmaFIRST,你將杜氏納爲妾室，她的美貌激動人心。,False
+cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_du_dilemmaSECOND,你遣人把杜氏從府中送了出去,False
 cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_feng_dilemmaFIRST,你將馮氏納爲妾室，在你的羽翼之下她將不再哭泣。 ,False
 cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_lady_feng_dilemmaSECOND,你遣人把馮氏從府中送了出去,False
 cdir_events_dilemma_choice_details_localised_choice_title_3k_mtu_leader_concubine_lady_lady_mi_dilemmaFIRST,你將糜氏納爲妾室，得此賢惠美貌之妻真是三生有幸。,False
@@ -443,7 +443,7 @@ ceo_nodes_description_3k_mtu_ancillary_phoenix_beak,這把武器猶如鳳喙一�
 ceo_nodes_description_3k_mtu_ancillary_qu_gongs_armour_unique,重量適中且恰好合身，專為這名有頭有臉的戰士量身打造。,True
 ceo_nodes_description_3k_mtu_ancillary_shen_peis_armour_unique,重量適中且恰好合身，專為這名有頭有臉的戰士量身打造。,True
 ceo_nodes_description_3k_mtu_ancillary_weapon_comet_spear,此矛銳不可擋，如彗星劃過星空一般刺穿敵腹。,True
-ceo_nodes_description_3k_mtu_ancillary_weapon_dachui,巨大沉重，堅固有力,True
+ceo_nodes_description_3k_mtu_ancillary_weapon_dachui,重達五十斤的巨椎，據說一擊可讓人筋骨盡裂。,True
 ceo_nodes_description_3k_mtu_ancillary_weapon_diplomat,就算是說客也需要防身之物。,True
 ceo_nodes_description_3k_mtu_ancillary_weapon_goshawk,此弓僅配鷹覷鶻望之人。,True
 ceo_nodes_description_3k_mtu_ancillary_weapon_hawk,此弓就如飛隼一般，看似小巧，實則力大無窮。,True
@@ -467,7 +467,7 @@ ceo_nodes_description_3k_mtu_ceo_node_career_historical_gao_shun_01,仲氏大將
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_hua_xin_01,「華歆清純德素，誠一時之俊偉也。」,True
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_huang_zu_01,「祖宿狡猾，爲表腹心，出作爪牙，表之鴟張，以祖氣息。」,True
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_jian_yong_01,簡雍擅於辯論、議事，但也閒暇自得，行爲不檢。,True
-ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_bian_huilan_01,她的優雅、决心和美貌使她受到當時所有英雄的垂涎。,True
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_bian_huilan_01,「妻無子，下城，乞納宜祿妻。」,True
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_cai_yan_01,「婉娩淑女，與士並列。至柔動剛，彤管煒節。」,True
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_da_qiao_01,馮氏不僅天姿國色，還因胸懷大志而深受袁術寵愛。,True
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_dong_bai_01,董卓遍封其宗族，董白尚未及笄，便被封爲渭陽君，在郿城東起壇。,True
@@ -487,7 +487,7 @@ ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_zhang_xingcai_01,�
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_zou_yuan_01,「吾爲夫人故，特納張繡之降；不然滅族矣。」,False
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_luo_jun_01,「施壓於民，絕無益處。水能載舟，亦能覆舟。」,True
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_qu_gong_01,只有一隻眼睛都可以如此爲非作歹，難道還需要另外一隻不成？,True
-ceo_nodes_description_3k_mtu_ceo_node_career_historical_wu_anguo_01,"Although he lost one hand, he was one of the few who survived from duel with Lubu.",True
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_wu_anguo_01,雖然武安國痛失一臂，但卻是少數幾個與呂布決鬥後倖存下來的人之一。,True
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_yan_xiang_01,閻象深圖遠慮，總是危機到來之前就做好了準備。,True
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_zhang_bao_01,「虎父無犬子也！」,True
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_zhu_beng_01,「二逆不誅，亂臣賊子，行將接踵於天下矣！」,True
@@ -530,7 +530,7 @@ ceo_nodes_title_3k_mtu_ancillary_gao_shuns_armour_unique,張勳的護甲,True
 ceo_nodes_title_3k_mtu_ancillary_hidden_flow,伏波劍,True
 ceo_nodes_title_3k_mtu_ancillary_hua_xins_armour_unique,華歆的護甲,True
 ceo_nodes_title_3k_mtu_ancillary_huang_zus_armour_unique,黃祖的護甲,True
-ceo_nodes_title_3k_mtu_ancillary_lady_bian_huilans_armour_unique,劉氏的護甲,True
+ceo_nodes_title_3k_mtu_ancillary_lady_bian_huilans_armour_unique,杜氏的護甲,True
 ceo_nodes_title_3k_mtu_ancillary_lady_da_qiaos_armour_unique,馮氏的金色绣服,True
 ceo_nodes_title_3k_mtu_ancillary_lady_dong_bais_armour_unique,董白的黑色绣服,True
 ceo_nodes_title_3k_mtu_ancillary_lady_dong_peishans_armour_unique,董氏的護甲,True
@@ -554,7 +554,7 @@ ceo_nodes_title_3k_mtu_ancillary_phoenix_beak,鳳喙刀,True
 ceo_nodes_title_3k_mtu_ancillary_qu_gongs_armour_unique,瞿恭的護甲,True
 ceo_nodes_title_3k_mtu_ancillary_shen_peis_armour_unique,審配的護甲,True
 ceo_nodes_title_3k_mtu_ancillary_weapon_comet_spear,長星槍,True
-ceo_nodes_title_3k_mtu_ancillary_weapon_dachui,巨錘,True
+ceo_nodes_title_3k_mtu_ancillary_weapon_dachui,巨椎,True
 ceo_nodes_title_3k_mtu_ancillary_weapon_diplomat,使節劍,True
 ceo_nodes_title_3k_mtu_ancillary_weapon_goshawk,蒼鷹弓,True
 ceo_nodes_title_3k_mtu_ancillary_weapon_hawk,飛隼弓,True
@@ -578,7 +578,7 @@ ceo_nodes_title_3k_mtu_ceo_node_career_historical_gao_shun_01,開國將軍,True
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_hua_xin_01,名士高風,True
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_huang_zu_01,遠射伏虎,True
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_jian_yong_01,優遊風議,True
-ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_bian_huilan_01,忌害美婦,True
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_bian_huilan_01,沛王太妃,True
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_cai_yan_01,悲憤才女,True
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_da_qiao_01,涕泣美人,True
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_dong_bai_01,董氏明珠,True
@@ -598,7 +598,7 @@ ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_zhang_xingcai_01,敬哀�
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_zou_yuan_01,妖嬈禍水,False
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_luo_jun_01,百姓衛士,True
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_qu_gong_01,獨眼山賊,True
-ceo_nodes_title_3k_mtu_ceo_node_career_historical_wu_anguo_01,One Armed Bear,True
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_wu_anguo_01,獨臂虎熊,True
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_yan_xiang_01,賢達哲士,True
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_zhang_bao_01,虎將之子,True
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_zhao_yun_01,五虎將,True
@@ -717,7 +717,7 @@ character_skills_localised_description_3k_main_skill_special_ability_wood_goddes
 character_skills_localised_description_3k_main_skill_special_ability_wood_guardian,百姓衛士，民爲其足,True
 character_skills_localised_description_3k_main_skill_special_ability_wood_hope_of_nam_viet,身背駱越人民的希望，趙貞娘絕不會退縮。,True
 character_skills_localised_description_3k_main_skill_special_ability_wood_indiscriminate_charge,獨擁殘兵守鄴城，審配慷慨壯烈。,True
-character_skills_localised_description_3k_main_skill_special_ability_wood_last_resist,就算被圍，審配也拒不投降，背水一戰。,True
+character_skills_localised_description_3k_main_skill_special_ability_wood_last_resist,就算被圍，也拒不投降，背水一戰。,True
 character_skills_localised_description_3k_main_skill_special_ability_wood_martial_prodigy,父爲呂奉先，呂姬天賦異稟。,True
 character_skills_localised_description_3k_main_skill_special_ability_wood_mercy_of_the_forest,來自於自然的恩惠，可是不可多得的。,True
 character_skills_localised_description_3k_main_skill_special_ability_wood_persistent_combat,即使是逆境之下，黃祖也不會退縮。,True
@@ -2373,10 +2373,10 @@ custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_luo_jun_02,將領,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_luo_jun_03,陳郡守衛,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_shen_pei_01,都尉,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_shen_pei_02,將軍,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_shen_pei_03,五子良將,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_shen_pei_03,良將,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_wu_anguo_01,都尉,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_wu_anguo_02,將軍,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_wu_anguo_03,五子良將,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_wu_anguo_03,良將,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_yan_xiang_01,謀士,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_yan_xiang_02,主簿,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_yan_xiang_03,賢達哲士,True
@@ -2514,7 +2514,7 @@ dilemmas_localised_description_3k_mtu_leader_concubine_guan_yinping_dilemma,都�
 dilemmas_localised_description_3k_mtu_leader_concubine_lady_bian_dilemma,怒不變容，喜不失節，故是最爲難。卞氏的氣概令你折服，你與卞氏長談後苦思是否納她爲妾之事。,False
 dilemmas_localised_description_3k_mtu_leader_concubine_lady_cai_yan_dilemma,蔡琰的才華可謂千古難逢，此女不僅有才，且還美豔動人。你在府中吟誦蔡妍所著的詩詞，其意深遠脫俗，你也陷入了苦思之中。,True
 dilemmas_localised_description_3k_mtu_leader_concubine_lady_dong_dilemma,董賊原配，沒想到如此足智多謀。你在見過董氏之後考慮將她納爲妾室。,True
-dilemmas_localised_description_3k_mtu_leader_concubine_lady_du_dilemma,劉氏猶如明珠一般美麗動人，如此美貌怎可錯過？你有意將劉氏納爲妾室。,False
+dilemmas_localised_description_3k_mtu_leader_concubine_lady_du_dilemma,杜氏猶如明珠一般美麗動人，如此美貌怎可錯過？你有意將杜氏納爲妾室。,False
 dilemmas_localised_description_3k_mtu_leader_concubine_lady_feng_dilemma,如此美人，怎可讓其日夜哭泣？你考慮將馮氏納爲妾室。,False
 dilemmas_localised_description_3k_mtu_leader_concubine_lady_lu_zheng_dilemma,你夜訪陸政，作爲魁首的左膀右臂陸鄭同樣見多識廣，且深藏不露。你細思是否將她納爲妾室。,True
 dilemmas_localised_description_3k_mtu_leader_concubine_lady_ma_dilemma,聽聞華氏武藝高強，常年征戰西羌。此次相會，你見華氏雖然歷經風霜但卻美麗動人。你立馬開始思考是否納她爲妾。,True
@@ -2566,7 +2566,7 @@ dilemmas_localised_title_3k_mtu_leader_concubine_guan_yinping_dilemma,花顏虎�
 dilemmas_localised_title_3k_mtu_leader_concubine_lady_bian_dilemma,"溫厚母主, 卞氏",False
 dilemmas_localised_title_3k_mtu_leader_concubine_lady_cai_yan_dilemma,悲憤才女，蔡琰,True
 dilemmas_localised_title_3k_mtu_leader_concubine_lady_dong_dilemma,郿侯夫人，董氏,True
-dilemmas_localised_title_3k_mtu_leader_concubine_lady_du_dilemma,忌害美婦\\n，劉氏,False
+dilemmas_localised_title_3k_mtu_leader_concubine_lady_du_dilemma,沛王太妃，杜氏,False
 dilemmas_localised_title_3k_mtu_leader_concubine_lady_feng_dilemma,涕泣美人，馮氏,False
 dilemmas_localised_title_3k_mtu_leader_concubine_lady_lu_zheng_dilemma,晉陽女賊，陸政,True
 dilemmas_localised_title_3k_mtu_leader_concubine_lady_ma_dilemma,西羌女傑，華氏,True
@@ -3519,8 +3519,8 @@ frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_jian_yong_hero_metal_190,[[b]]簡雍[[/b]]\\n優遊風議\\n\\n將領類型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]簡雍擅於辯論、議事，但也閒暇自得，行爲不檢。[[/col]][[/i]],False
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_jian_yong_hero_metal_194,[[b]]簡雍[[/b]]\\n優遊風議\\n\\n將領類型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]簡雍擅於辯論、議事，但也閒暇自得，行爲不檢。[[/col]][[/i]],False
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_jian_yong_hero_metal_200,[[b]]簡雍[[/b]]\\n優遊風議\\n\\n將領類型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]簡雍擅於辯論、議事，但也閒暇自得，行爲不檢。[[/col]][[/i]],False
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_kong_rong_hero_water_190,"[[b]]Wu Anguo[[/b]]\\nOne Armed Bear\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]Although he lost one hand, he was one of the few who survived from duel with Lubu.[[/col]][[/i]]",False
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_kong_rong_hero_water_194,"[[b]]Wu Anguo[[/b]]\\nOne Armed Bear\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]Although he lost one hand, he was one of the few who survived from duel with Lubu.[[/col]][[/i]]",False
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_kong_rong_hero_water_190,[[b]]武安国[[/b]]\\n独臂虎熊\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]雖然武安國痛失一臂，但卻是少數幾個與呂布決鬥後倖存下來的人之一。[[/col]][[/i]],False
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_kong_rong_hero_water_194,[[b]]武安国[[/b]]\\n独臂虎熊\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]雖然武安國痛失一臂，但卻是少數幾個與呂布決鬥後倖存下來的人之一。[[/col]][[/i]],False
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_dong_peishan_hero_earth_182,[[b]]董氏[[/b]]\\n郿侯夫人\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]董卓髮妻，卓封郿侯。不僅生性貪婪，且行事作風十分謹慎狡猾。[[/col]][[/i]],False
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_feng_hero_earth_190,[[b]]馮氏[[/b]]\\n涕泣美人\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]馮氏不僅天姿國色，還因胸懷大志而深受袁術寵愛。[[/col]][[/i]],False
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_feng_hero_earth_194,[[b]]馮氏[[/b]]\\n涕泣美人\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]馮氏不僅天姿國色，還因胸懷大志而深受袁術寵愛。[[/col]][[/i]],False
@@ -3553,8 +3553,8 @@ frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_qu_gong_hero_wood_190,[[b]]瞿恭[[/b]]\\n獨眼山賊\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]只有一隻眼睛都可以如此爲非作歹，難道還需要另外一隻不成？[[/col]][[/i]],False
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_qu_gong_hero_wood_194,[[b]]瞿恭[[/b]]\\n獨眼山賊\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]只有一隻眼睛都可以如此爲非作歹，難道還需要另外一隻不成？[[/col]][[/i]],False
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_qu_gong_hero_wood_200,[[b]]瞿恭[[/b]]\\n獨眼山賊\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]只有一隻眼睛都可以如此爲非作歹，難道還需要另外一隻不成？[[/col]][[/i]],False
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_wu_anguo_wood_190,"[[b]]Wu Anguo[[/b]]\\nOne Armed Bear\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]Although he lost one hand, he was one of the few who survived from duel with Lubu.[[/col]][[/i]]",True
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_wu_anguo_wood_194,"[[b]]Wu Anguo[[/b]]\\nOne Armed Bear\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]Although he lost one hand, he was one of the few who survived from duel with Lubu.[[/col]][[/i]]",True
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_wu_anguo_wood_190,[[b]]武安国[[/b]]\\n独臂虎熊\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]雖然武安國痛失一臂，但卻是少數幾個與呂布決鬥後倖存下來的人之一。[[/col]][[/i]],True
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_wu_anguo_wood_194,[[b]]武安国[[/b]]\\n独臂虎熊\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]雖然武安國痛失一臂，但卻是少數幾個與呂布決鬥後倖存下來的人之一。[[/col]][[/i]],True
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_yan_xiang_hero_water_190,[[b]]閻象[[/b]]\\n賢達哲士\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]閻象深圖遠慮，總是危機到來之前就做好了準備。[[/col]][[/i]],False
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_zhang_xun_hero_earth_190,[[b]]張勳[[/b]]\\n開國將軍\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]仲氏大將軍張勳號令三軍誰敢不從？[[/col]][[/i]],True
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_zhang_xun_hero_earth_194,[[b]]張勳[[/b]]\\n開國將軍\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]仲氏大將軍張勳號令三軍誰敢不從？[[/col]][[/i]],True
@@ -3699,7 +3699,7 @@ incidents_localised_title_3k_mtu_global_event_lu_bu_interposes_yuan_and_liu_inci
 incidents_localised_title_3k_mtu_global_event_moh_cai_family_move_190_incident,蔡氏家族,True
 incidents_localised_title_3k_mtu_global_event_precognitive_dream_incident,胎夢,True
 incidents_localised_title_3k_mtu_global_event_xiong_nu_kidnaps_cai_yan_incident_pc,匈奴入侵,True
-incidents_localised_title_3k_mtu_global_event_zhao_yun_becomes_zhenjun_general,五虎將,True
+incidents_localised_title_3k_mtu_global_event_zhao_yun_becomes_zhenjun_general,虎威將軍,True
 incidents_localised_title_hv_event_cao_cao_qingzhou,青州軍,True
 incidents_localised_title_hv_event_coin_confuse_1,新幣引起了混亂！,False
 incidents_localised_title_hv_event_coin_confuse_2,新幣引起了混亂！,False
@@ -6231,7 +6231,7 @@ unit_abilities_tooltip_text_3k_main_ability_imperious_presence,曹操在場，�
 unit_abilities_tooltip_text_3k_main_ability_indiscriminate_charge,獨擁殘兵守鄴城，審配慷慨壯烈。,True
 unit_abilities_tooltip_text_3k_main_ability_lady_dong_cruel_command,寧舍爾命，也得保障夫人毫髮無傷。,True
 unit_abilities_tooltip_text_3k_main_ability_lament,梨花帶雨，我見猶憐。,True
-unit_abilities_tooltip_text_3k_main_ability_last_resist,就算被圍，審配也拒不投降，背水一戰。,True
+unit_abilities_tooltip_text_3k_main_ability_last_resist,就算被圍，也拒不投降，背水一戰。,True
 unit_abilities_tooltip_text_3k_main_ability_loyal_advice,「昔周自後稷至於文王，積德累功，三分天下有其二，猶服事殷。明公雖奕世克昌，未若有周之盛，漢室雖微，未若殷紂之暴也。」,True
 unit_abilities_tooltip_text_3k_main_ability_lucky_pearl,"「漫道無華爭俏麗,長青更勝一時芳。」",True
 unit_abilities_tooltip_text_3k_main_ability_marksman_of_taiyuan,陸政的獵物對她來說猶如甕中捉鱉。,True

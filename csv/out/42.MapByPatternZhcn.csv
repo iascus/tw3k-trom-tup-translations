@@ -318,7 +318,7 @@ Active Debuff Enemy (Auto),1,敌方主动减益（自动）,,hv_TEXT_unit_abilit
 Adamant Resolve,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Adaptation is the only way to live.,1,,视情况变化而采因应之道。,hv_TEXT_unit_abilities.loc.tsv
 Adoption Proposal to Guan Yu,1,,,[04]__MTU_events__Common.loc.tsv
-Advisor,1,,,[01]__MTU_generals__Water_strategist.loc.tsv
+Advisor,1,军师,,[01]__MTU_generals__Water_strategist.loc.tsv
 "After Dong Zhou's death at the hands of his adopted son Lu Bu, it was observed that the notable scholar Cai Yong mourned his passing. Upon hearing this, Wang Yun ordered troops to capture him and for his execution. ""Cai Yong mourned as the tyrant lie dead! It's clear his loyalty lied with Dong Zhou! Treason!"" exclaimed Wang Yun, madness in his eyes.\\n",1,,,[04]__MTU_events___Cai_family.loc.tsv
 "After Dong Zhou's death, it was observed that the noted scholar Cai Yong mourned his passing. Upon hearing this, Wang Yun immediately sent troops to capture Cai Yong and ordered for his execution.\\n\\n ""Cai Yong mourned as the tyrant lie dead! It's clear that his loyalty lied with Dong Zhou! Treason!"" exclaimed Wang Yun, madness in his eyes.",1,,,[04]__MTU_events___Cai_family.loc.tsv
 "After a surprise raid on Luoyang by the Xiongnu, Cai Yong’s only daughter, Cai Yan, was captured and taken back to their camp. At last, the Xiongnu chanyu revealed his demands for her release. The ransom is considerable and the window of opportunity is short. If the price isn’t paid in the next season, she will be taken North, and the bright Cai Yan may be lost forever.",1,,,[04]__MTU_events___Cai_family.loc.tsv
@@ -377,7 +377,7 @@ Artillery (Elite),1,,远程砲兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.ts
 Artillery (Militia),1,,远程砲兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 "As Sun Ce's strength rises, his grip on rationality weakens…",1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 As accurate and deadly as a viper’s strike.,1,,,[02]__MTU_items__Weapons.loc.tsv
-"As big as it is, heavy but strong",1,巨大沉重，坚固有力,,[02]__MTU_items__Weapons.loc.tsv
+"As big as it is, heavy but strong",1,,,[02]__MTU_items__Weapons.loc.tsv
 "As the Black Mountain bandits increase in number, the more brazen they become.",1,黑山匪徒之数与日俱增，其行为亦更加肆无忌惮。,,hv_TEXT_frontend_features.loc.tsv
 "As the enemy spots the blue turbans on the field, they know the hardest fighting is about to begin.",1,当敌人在战场上看到蓝色头巾时，他们就知道最艰苦的战斗即将开始。,,hv_TEXT_unit_desc.loc.tsv
 "As the fight goes on, Chunyu Qiong’s rage and stubbornness will turn him into a reckless, but powerful fighter, rushing in the thick of battle over and over.",2,,,[03]__MTU_skills__Passive_buff.loc.tsv
@@ -431,7 +431,7 @@ Be cunning and full of tricks and your people shall never be destroyed.,2,,,z_du
 "Beneath the beauty, there lives a beast.",2,,,[03]__MTU_skills__Passive_buff.loc.tsv
 "Benevolent Beauty, Lady Zhen",1,,,[04]__MTU_events___Concubine.loc.tsv
 Beng,1,,,[05]__MTU_sys__Names.loc.tsv
-Big Mace,1,巨锤,,[02]__MTU_items__Weapons.loc.tsv
+Big Mace,1,,,[02]__MTU_items__Weapons.loc.tsv
 Binding Fury,3,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Black Mountain,1,黑山,,hv_TEXT_pooled_resource.loc.tsv
 Black Mountain / Opportunistic Alignment,1,黑山/趋利之盟,,hv_TEXT_frontend_features.loc.tsv
@@ -580,7 +580,7 @@ Combined Weapons Infantry (Elite),14,,复合武器步兵（精锐）,hv_TEXT_uni
 Combined Weapons Infantry (Militia),10,,复合武器步兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 Comet Spear,1,,,[02]__MTU_items__Weapons.loc.tsv
 Comic Storyteller,1,,,[01]__MTU_generals__Metal_sentienl.loc.tsv
-Commandant,10,,,[01]__MTU_generals__Fire_vanguard.loc.tsv
+Commandant,10,别部司马,,[01]__MTU_generals__Fire_vanguard.loc.tsv
 Commanding Presence,7,,,[03]__MTU_skills__Passive_debuff.loc.tsv
 Commanding Shout,11,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
 Commission,6,委任,,hv_TEXT_events.loc.tsv
@@ -731,7 +731,7 @@ Elephants (Buqu),3,,象兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
 Elephants (Elite),3,,象兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
 Elephants (Militia),3,,象兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 Elite Crossbowmen,1,,精锐弩兵,hv_TEXT_unit_text_replacements.loc.tsv
-Elite General,2,,,[01]__MTU_generals__Wood_champion.loc.tsv
+Elite General,2,良将,,[01]__MTU_generals__Wood_champion.loc.tsv
 Elite Guards of the Eight Talents,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Elite Heavy Bow Archers,1,,精锐重弓手,hv_TEXT_unit_text_replacements.loc.tsv
 Elite Ji Infantry,1,,精锐戟步兵,hv_TEXT_unit_text_replacements.loc.tsv
@@ -957,7 +957,7 @@ Hegemon's Aide,1,,,[dummy]__MTU_dummy.loc.tsv
 Her beauty and extraordinary taste put a thousand men on their knee.,1,,,[02]__MTU_items__Armour.loc.tsv
 Her cultured and considerate approach boosts the army’s fighting skill and spirit.,2,,,[03]__MTU_skills__Active_buff.loc.tsv
 Her dignity and wisdom are already renown near and far.,1,,,[03]__MTU_skills___Court.loc.tsv
-"Her elegance, determination, and beauty made her coveted by all the heroes of the age.",1,她的优雅、决心和美貌使她受到当时所有英雄的垂涎。,,[01]__MTU_generals__Earth_commander.loc.tsv
+"Her elegance, determination, and beauty made her coveted by all the heroes of the age.",1,,,[01]__MTU_generals__Earth_commander.loc.tsv
 Her knowledge spreads to fellow generals around her like the veins of a stream.,2,,,[03]__MTU_skills__Passive_buff.loc.tsv
 Her swords are fast and unpredictable like two rogue waves sweeping across the ocean.,1,,,[02]__MTU_items__Weapons.loc.tsv
 Herald,1,,先驱,z_dummy_hv_TEXT_non_deployable.loc.tsv
@@ -1553,7 +1553,7 @@ Qingzhou Raider Cavalry,1,,青州游骑,hv_TEXT_unit_text_replacements.loc.tsv
 Qingzhou Troops,1,青州军,,hv_TEXT_events.loc.tsv
 Qu Gong,3,,瞿恭,hv_TEXT_cb_loadout.loc.tsv
 Qu Gong's Armour,1,,瞿恭的护甲,[02]__MTU_items__Armour.loc.tsv
-Queen,7,,,[dummy]__MTU_dummy.loc.tsv
+Queen,7,女杰,,[dummy]__MTU_dummy.loc.tsv
 Queen Mother of Prince Pei,2,,,[01]__MTU_generals__Earth_commander.loc.tsv
 Queen of Black Mountain,2,,,[01]__MTU_generals__Metal_sentienl.loc.tsv
 "Queen of Black Mountain, Zheng Lan",1,,,[04]__MTU_events___Concubine.loc.tsv
@@ -2681,7 +2681,7 @@ Zou Yuan's clothes are thin but soft and sturdy.,1,,,[02]__MTU_items__Armour.loc
 "[[b]]Sell Horses[[/b]]\\n[[col:scope_description]]Economic assignment[[/col]]\\n\\n[[col:green]]+[[/col]] Income from commerce\\n\\n[[col:flavour]][[i]]Your attendant will sell the horses you've bred, for a fine sum.[[/col]][[/i]]",1,,,hv_TEXT_frontend_features.loc.tsv
 [[b]]Stratocracy[[/b]] is this faction's unique resource.\\n\\n[[i]][[col:flavour]] An inevitable rule to stabilize the turmoil. [[/col]],1,,,hv_TEXT_frontend_features.loc.tsv
 [[b]]Trophies[[/b]] can be displayed in the [[b]]trophy cabinet[[/b]]. Each [[b]]trophy[[/b]] provides a bonus whilst it is on display.,1,,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Wu Anguo[[/b]]\\nOne Armed Bear\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]Although he lost one hand, he was one of the few who survived from duel with Lubu.[[/col]][[/i]]",4,,,[05]__MTU_sys__Frontend_ui_description.loc.tsv
+"[[b]]Wu Anguo[[/b]]\\nOne Armed Bear\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]Although he lost one hand, he was one of the few who survived from duel with Lubu.[[/col]][[/i]]",4,[[b]]武安国[[/b]]\\n独臂虎熊\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]虽然武安国痛失一臂，但却是少数几个与吕布决斗后幸存下来的人之一。[[/col]][[/i]],,[05]__MTU_sys__Frontend_ui_description.loc.tsv
 "[[b]]Yan Xiang[[/b]]\\nSagacious Seer\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]Blessed with prodigious foresight, Yan Xiang sees and reacts to the perils and pitfalls long before they arise.[[/col]][[/i]]",1,,,[05]__MTU_sys__Frontend_ui_description.loc.tsv
 [[b]]Yellow Turban[[/b]] factions are seen as outlaws and diplomacy with them is normally [[b]]restricted[[/b]]. Zhang Yan can [[b]]improve relations[[/b]] with Yellow Turbans and can align himself with them.,1,,,hv_TEXT_frontend_features.loc.tsv
 [[b]]Yellow Turbans[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Initial unit available[[/col]]\\n• {{tr:hv_unit_ytr_archery_masters}}\\n\\n[[col:flavour]][[i]]The wind of change that will transform China![[/col]][[/i]],1,,,hv_TEXT_frontend_features.loc.tsv

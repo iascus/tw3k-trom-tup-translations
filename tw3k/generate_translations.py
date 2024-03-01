@@ -141,18 +141,38 @@ class MtuZhtw(InputTsvFiles):
     dir_path = 'MtuZhtw'
 
 
-class PikaManZhcn(InputTsvFiles):
+class LeiwaiZhcn(InputTsvFiles):
     step_no = 13
+    dir_path = 'LeiwaiZhcn'
+
+
+class LeiwaiZhtw(Step):
+    step_no = 14
+    dir_path = 'LeiwaiZhcn'
+
+    dependencies = {
+        'leiwai_zhcn': LeiwaiZhcn,
+    }
+
+    def _run(self):
+        data = self.leiwai_zhcn.data.copy()
+        cc = OpenCC('s2t')
+        data['Text'] = data['Text'].apply(lambda string: cc.convert(string) if not pd.isna(string) else string)
+        return data
+
+
+class PikaManZhcn(InputTsvFiles):
+    step_no = 21
     dir_path = 'PikaManZhcn'
 
 
 class PikaManZhtw(InputTsvFiles):
-    step_no = 14
+    step_no = 22
     dir_path = 'PikaManZhtw'
 
 
 class ProcrastinatorZhcn(InputTsvFiles):
-    step_no = 15
+    step_no = 23
     dir_path = 'ProcrastinatorZhcn'
 
     def _run(self):
@@ -162,7 +182,7 @@ class ProcrastinatorZhcn(InputTsvFiles):
 
 
 class ProcrastinatorZhtw(Step):
-    step_no = 16
+    step_no = 24
 
     dependencies = {
         'procrastinator_zhcn': ProcrastinatorZhcn,
@@ -176,51 +196,51 @@ class ProcrastinatorZhtw(Step):
 
 
 class IascusZhcn(InputCsvFile):
-    step_no = 17
-
-
-class IascusZhtw(InputCsvFile):
-    step_no = 18
-
-
-class TromVanillaKeyOverride(LookupFile):
-    step_no = 21
-
-
-class LookupByText(LookupFile):
-    step_no = 22
-
-
-class LookupByKey(LookupFile):
-    step_no = 23
-
-
-class LookupByPattern(LookupFile):
-    step_no = 24
-
-
-class LookupByUnitName(LookupFile):
     step_no = 25
 
 
-class LookupByUnitType(LookupFile):
+class IascusZhtw(InputCsvFile):
     step_no = 26
 
 
+class TromVanillaKeyOverride(LookupFile):
+    step_no = 31
+
+
+class LookupByText(LookupFile):
+    step_no = 32
+
+
+class LookupByKey(LookupFile):
+    step_no = 33
+
+
+class LookupByPattern(LookupFile):
+    step_no = 34
+
+
+class LookupByUnitName(LookupFile):
+    step_no = 35
+
+
+class LookupByUnitType(LookupFile):
+    step_no = 36
+
+
 class LookupBySkill(LookupFile):
-    step_no = 27
+    step_no = 37
 
 
 class LookupByCharacter(LookupFile):
-    step_no = 28
+    step_no = 38
 
 
 class LookupByTextFragment(LookupFile):
-    step_no = 29
+    step_no = 39
 
 
 class VanillaTranslations(Step):
-    step_no = 31
+    step_no = 41
 
     dependencies = {
         'trom_eng': TromEng,
@@ -247,7 +267,7 @@ class VanillaTranslations(Step):
 
 
 class MapByPatternZhcn(Step):
-    step_no = 32
+    step_no = 42
     lang_col = 'zh-cn'
 
     dependencies = {
@@ -320,18 +340,19 @@ class MapByPatternZhcn(Step):
 
 
 class MapByPatternZhtw(MapByPatternZhcn):
-    step_no = 33
+    step_no = 43
     lang_col = 'zh-tw'
 
 
 class MapByKeyZhcn(Step):
-    step_no = 34
+    step_no = 44
     lang_col = 'zh-cn'
 
     dependencies = {
         'trom_eng': TromEng,
         'vanilla_translations': VanillaTranslations,
         'mtu_zh': MtuZhcn,
+        'leiwai_zh': LeiwaiZhcn,
         'pikaman_zh': PikaManZhcn,
         'procrastinator_zh': ProcrastinatorZhcn,
         'lookup_by_key': LookupByKey,
@@ -343,6 +364,7 @@ class MapByKeyZhcn(Step):
         vanilla = self.vanilla_translations.data.drop_duplicates(subset=['Key'])
         vanilla = vanilla[['Key', self.lang_col]].rename({self.lang_col: 'Vanilla'}, axis=1)
         mtu_zh = self.mtu_zh.data.drop_duplicates(subset=['Key'])[['Key', 'Text']]
+        leiwai_zh = self.leiwai_zh.data.drop_duplicates(subset=['Key'])[['Key', 'Text']]
         pikaman_zh = self.pikaman_zh.data.drop_duplicates(subset=['Key'])[['Key', 'Text']]
         procrastinator_zh = self.procrastinator_zh.data.drop_duplicates(subset=['Key'])[['Key', 'Text']]
         lookup_by_key = self.lookup_by_key.data[['Key', self.lang_col]].rename({self.lang_col: 'OverrideByKey'}, axis=1)
@@ -351,6 +373,7 @@ class MapByKeyZhcn(Step):
         data = data.merge(lookup_by_key, on='Key', how='left')
         data = data.merge(vanilla, on='Key', how='left')
         data = data.merge(mtu_zh.rename({'Text': 'Mtu'}, axis=1), on='Key', how='left')
+        data = data.merge(leiwai_zh.rename({'Text': 'Leiwai'}, axis=1), on='Key', how='left')
         data = data.merge(pikaman_zh.rename({'Text': 'PikaMan'}, axis=1), on='Key', how='left')
         data = data.merge(procrastinator_zh.rename({'Text': 'Procrastinator'}, axis=1), on='Key', how='left')
         data['Text'] = pd.NA
@@ -360,6 +383,7 @@ class MapByKeyZhcn(Step):
             'Mtu',
             'PikaMan',
             'Procrastinator',
+            'Leiwai',
             'Vanilla',
             'MappedByText',
             'MappedByPattern',
@@ -377,21 +401,23 @@ class MapByKeyZhcn(Step):
 
         data['File'] = data['File'].str.replace('text/_hvo/', '')
         data = data.reset_index()[[
-            'Key', 'Text', 'Tooltip', 'English', 'OverrideByKey',
-            'MappedByText', 'MappedByPattern', 'Vanilla', 'PikaMan',
-            'Source', 'File',
+            'Key', 'Text', 'Tooltip', 'English', 'Source',
+            'OverrideByKey', 'MappedByPattern', 'MappedByText',
+            'Vanilla', 'Leiwai', 'Procrastinator', 'PikaMan', 'Mtu',
+            'File',
         ]]
         return data
 
 
 class MapByKeyZhtw(MapByKeyZhcn):
-    step_no = 35
+    step_no = 45
     lang_col = 'zh-tw'
 
     dependencies = {
         'trom_eng': TromEng,
         'vanilla_translations': VanillaTranslations,
         'mtu_zh': MtuZhtw,
+        'leiwai_zh': LeiwaiZhtw,
         'pikaman_zh': PikaManZhtw,
         'procrastinator_zh': ProcrastinatorZhtw,
         'lookup_by_key': LookupByKey,
@@ -400,7 +426,7 @@ class MapByKeyZhtw(MapByKeyZhcn):
 
 
 class FinalZhcn(LocOutput):
-    step_no = 36
+    step_no = 46
     lang_col = 'zh-cn'
 
     dependencies = {
@@ -415,7 +441,7 @@ class FinalZhcn(LocOutput):
 
 
 class FinalZhtw(FinalZhcn):
-    step_no = 37
+    step_no = 47
     lang_col = 'zh-tw'
 
     dependencies = {
@@ -424,7 +450,7 @@ class FinalZhtw(FinalZhcn):
 
 
 class RegenLookupByText(Step):
-    step_no = 41
+    step_no = 51
 
     dependencies = {
         'map_by_key_zhcn': MapByKeyZhcn,
@@ -450,7 +476,7 @@ class RegenLookupByText(Step):
 
 
 class MissingZhcn(Step):
-    step_no = 42
+    step_no = 52
 
     dependencies = {
         'map_by_key_zh': MapByKeyZhcn,
@@ -469,7 +495,7 @@ class MissingZhcn(Step):
 
 
 class MissingZhtw(MissingZhcn):
-    step_no = 43
+    step_no = 53
 
     dependencies = {
         'map_by_key_zh': MapByKeyZhtw,
@@ -477,7 +503,7 @@ class MissingZhtw(MissingZhcn):
 
 
 class Comparison(Step):
-    step_no = 44
+    step_no = 54
 
     dependencies = {
         'trom_eng': TromEng,
@@ -489,6 +515,8 @@ class Comparison(Step):
         'pikaman_zhtw': PikaManZhtw,
         'procrastinator_zhcn': ProcrastinatorZhcn,
         'procrastinator_zhtw': ProcrastinatorZhtw,
+        'leiwai_zhcn': LeiwaiZhcn,
+        'leiwai_zhtw': LeiwaiZhtw,
         'iascus_zhcn': IascusZhcn,
         'iascus_zhtw': IascusZhtw,
     }
@@ -516,19 +544,19 @@ class Comparison(Step):
         # ]
         cmp.insert(7, 'DiffZhcn', cmp['ProcrastinatorZhcn'] != cmp['MappedZhcn'])
         cmp.insert(8, 'DiffZhtw', cmp['ProcrastinatorZhtw'] != cmp['MappedZhtw'])
-        cmp['SkillKey'] = cmp['Key'].str.replace(
-            re.compile('character_skills_localised_([a-z]+)_(.*)'), r'\2_\1', regex=True
-        )
-        cmp = cmp.loc[cmp['ProcrastinatorZhcn'] != cmp['MappedZhcn']]
-        cmp = cmp.drop('Key', axis=1).sort_values('SkillKey', ascending=False).drop_duplicates()
-        cmp = cmp.loc[~cmp['English'].isin([
-            'First Characteristic',
-            'Someone who stands out among the people.',
-            'Second Characteristic',
-            'A remarkable talent.',
-            'Third Characteristic',
-            'Every person has their own path.',
-        ])]
+        # cmp['SkillKey'] = cmp['Key'].str.replace(
+        #     re.compile('character_skills_localised_([a-z]+)_(.*)'), r'\2_\1', regex=True
+        # )
+        cmp = cmp.loc[cmp['ProcrastinatorZhcn'] != cmp['MappedZhcn']].dropna(subset='ProcrastinatorZhcn')
+        # cmp = cmp.drop('Key', axis=1).sort_values('SkillKey', ascending=False).drop_duplicates()
+        # cmp = cmp.loc[~cmp['English'].isin([
+        #     'First Characteristic',
+        #     'Someone who stands out among the people.',
+        #     'Second Characteristic',
+        #     'A remarkable talent.',
+        #     'Third Characteristic',
+        #     'Every person has their own path.',
+        # ])]
         # cmp = cmp[~cmp['SourceZhtw'].isin(['Vanilla', 'MappedByPattern'])]
         return cmp
 
@@ -542,6 +570,8 @@ def main():
             VanillaEng,
             MtuZhcn,
             MtuZhtw,
+            LeiwaiZhcn,
+            LeiwaiZhtw,
             PikaManZhcn,
             PikaManZhtw,
             TromEng,

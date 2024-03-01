@@ -1,0 +1,82 @@
+key	text	tooltip
+#Loc;1;text/[05]__MTU_sys__Frontend_ui_description.loc		
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_lu_zheng_hero_water_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_lu_zheng_hero_water_190	[[b]]陆政[[/b]]\\n晋阳女贼\\n\\n将领类型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虚发，乃魁首之腕。[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_lu_zheng_hero_water_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_lu_zheng_hero_water_194	[[b]]陆政[[/b]]\\n晋阳女贼\\n\\n将领类型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]狡黠之徒，矢不虚发，乃魁首之腕。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_dong_min_hero_earth_182		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_dong_min_hero_earth_182	[[b]]董旻[[/b]]\\n无魇暴君\\n\\n将领类型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]贪暴成性，荼毒关中。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_dong_peishan_hero_earth_182		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_dong_peishan_hero_earth_182	[[b]]董氏[[/b]]\\n郿侯夫人\\n\\n将领类型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]董卓发妻，卓封郿侯。不仅生性贪婪，且行事作风十分谨慎狡猾。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_wu_minyu_hero_earth_182		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_wu_minyu_hero_earth_182	[[b]]吴氏[[/b]]\\n武烈皇后\\n\\n将领类：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]气质高雅，心胸宽广。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_yan_xiang_hero_water_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_yan_xiang_hero_water_190	[[b]]阎象[[/b]]\\n贤达哲士\\n\\n将领类型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]阎象深图远虑，总是危机到来之前就做好了准备。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_ma_yunlu_hero_metal_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_ma_yunlu_hero_metal_190	[[b]]马云禄[[/b]]\\n敦煌公主\\n\\n将领类型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]马云禄深知兵在精而不在多，为了部队执锐披坚她总是不惜血本。[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_ma_yunlu_hero_metal_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_ma_yunlu_hero_metal_194	[[b]]马云禄[[/b]]\\n敦煌公主\\n\\n将领类型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]马云禄深知兵在精而不在多，为了部队执锐披坚她总是不惜血本。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_ma_lanli_hero_metal_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_ma_lanli_hero_metal_190	[[b]]华氏[[/b]]\\n西羌女杰\\n\\n将领类型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]羌族女杰华氏精于骑射，武艺不在其夫之下。[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_ma_lanli_hero_metal_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_ma_lanli_hero_metal_194	[[b]]华氏[[/b]]\\n西羌女杰\\n\\n将领类型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]羌族女杰华氏精于骑射，武艺不在其夫之下。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_feng_hero_earth_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_feng_hero_earth_190	[[b]]冯氏[[/b]]\\n涕泣美人\\n\\n将领类型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]冯氏不仅天姿国色，还因胸怀大志而深受袁术宠爱。[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_feng_hero_earth_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_feng_hero_earth_194	[[b]]冯氏[[/b]]\\n涕泣美人\\n\\n将领类型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]冯氏不仅天姿国色，还因胸怀大志而深受袁术宠爱。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_yuan_anyang_hero_water_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_yuan_anyang_hero_water_190	[[b]]袁氏[[/b]]\\n仲氏公主\\n\\n将领类型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]仲氏公主袁氏的美貌与贤良人尽皆知。[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_yuan_anyang_hero_water_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_yuan_anyang_hero_water_194	[[b]]袁氏[[/b]]\\n仲氏公主\\n\\n将领类型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]仲氏公主袁氏的美貌与贤良人尽皆知。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_zhang_xun_hero_earth_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_zhang_xun_hero_earth_190	[[b]]张勋[[/b]]\\n开国将军\\n\\n将领类型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]仲氏大将军张勋号令三军谁敢不从？[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_zhang_xun_hero_earth_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_zhang_xun_hero_earth_194	[[b]]张勋[[/b]]\\n开国将军\\n\\n将领类型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]仲氏大将军张勋号令三军谁敢不从？[[/col]][[/i]]	true
+		true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_gongsun_jinting_hero_water_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_gongsun_jinting_hero_water_190	[[b]]侯氏[[/b]]\\n贤明母主\\n\\n将领类型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]公孙瓒常年征战在外，侯夫人依靠着她的贤明与机警守护着家族的未来。[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_gongsun_jinting_hero_water_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_gongsun_jinting_hero_water_194	[[b]]侯氏[[/b]]\\n贤明母主\\n\\n将领类型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]公孙瓒常年征战在外，侯夫人依靠着她的贤明与机警守护着家族的未来。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_lu_ji_hero_wood_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_lu_ji_hero_wood_190	[[b]]吕姬[[/b]]\\n飞将之女\\n\\n将领类型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]虎父无犬女，吕布之女不仅美艳，也是战场豪杰。[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_lu_ji_hero_wood_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_lu_ji_hero_wood_194	[[b]]吕姬[[/b]]\\n飞将之女\\n\\n将领类型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]虎父无犬女，吕布之女不仅美艳，也是战场豪杰。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_trieu_hero_wood_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_trieu_hero_wood_190	[[b]]赵妪[[/b]]\\n骆越之光\\n\\n将领类型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]「横戈当虎易，对面婆王难。」[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_lady_trieu_hero_wood_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_trieu_hero_wood_194	[[b]]赵妪[[/b]]\\n骆越之光\\n\\n将领类型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]「横戈当虎易，对面婆王难。」[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_jian_yong_hero_metal_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_jian_yong_hero_metal_190	[[b]]简雍[[/b]]\\n优游风议\\n\\n将领类型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]简雍擅于辩论、议事，但也闲暇自得，行为不检。[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_jian_yong_hero_metal_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_dlc05_template_historical_jian_yong_hero_metal_194	[[b]]简雍[[/b]]\\n优游风议\\n\\n将领类型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]简雍擅于辩论、议事，但也闲暇自得，行为不检。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_qu_gong_hero_wood_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_qu_gong_hero_wood_190	[[b]]瞿恭[[/b]]\\n独眼山贼\\n\\n将领类型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]只有一只眼睛都可以如此为非作歹，难道还需要另外一只不成？[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_qu_gong_hero_wood_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_qu_gong_hero_wood_194	[[b]]瞿恭[[/b]]\\n独眼山贼\\n\\n将领类型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]只有一只眼睛都可以如此为非作歹，难道还需要另外一只不成？[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_chen_jiu_hero_wood_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_chen_jiu_hero_wood_190	[[b]]庞德[[/b]]\\n白马将军\\n\\n将领类型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]庞德戒昭果毅，敌者必讨[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_chen_jiu_hero_wood_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_chen_jiu_hero_wood_194	[[b]]庞德[[/b]]\\n白马将军\\n\\n将领类型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]庞德戒昭果毅，敌者必讨[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_dlc04_template_historical_empress_he_fire_182		true
+frontend_faction_leader_unique_characters_localised_description_3k_dlc04_template_historical_empress_he_fire_182	[[b]]何皇后[[/b]]\\n精操妙手\\n\\n将领类型：{{tr:3k_general_type_fire}}\\n\\n[[col:flavour]][[i]]一向能某巧算，一向诡计多端，表面平静之下，向来波诡云谲。向来如此。[[/col]][[/i]]	true
+		true
+frontend_characters_optional_name_override_3k_mtu_template_historical_wu_anguo_wood_190		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_wu_anguo_wood_190	[[b]]武安国[[/b]]\\n独臂虎熊\\n\\n将领类型: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]虽然武安国痛失一臂，但却是少数几个与吕布决斗后幸存下来的人之一。[[/col]][[/i]]	true
+frontend_characters_optional_name_override_3k_mtu_template_historical_wu_anguo_wood_194		true
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_wu_anguo_wood_194	[[b]]武安国[[/b]]\\n独臂虎熊\\n\\n将领类型: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]虽然武安国痛失一臂，但却是少数几个与吕布决斗后幸存下来的人之一。[[/col]][[/i]]	true
