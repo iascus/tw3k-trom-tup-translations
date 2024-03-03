@@ -4327,7 +4327,7 @@ special_ability_phases_onscreen_name_hv_ability_double_blades_ecstasy_1,Ecstasy,
 special_ability_phases_onscreen_name_hv_ability_double_blades_ecstasy_2,Ecstasy,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_double_blades_ecstasy_3,Ecstasy,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_dragon_rising,Dragon Rising,True,,,,,hv_TEXT_unit_abilities.loc.tsv
-special_ability_phases_onscreen_name_hv_ability_eight_talent_defence,Martial Prowess,False,,,,,hv_TEXT_unit_abilities.loc.tsv
+special_ability_phases_onscreen_name_hv_ability_eight_talent_defence,Guardians of Jing,False,,,,,hv_TEXT_unit_abilities.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_energy_of_blackmountain,Energy of Black Mountain,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_enlightenment_1,Enlightenment,True,ui_text_replacements_localised_text_3k_dlc04_text_replacement_tech_yellow_turban_characters_5_3_title,,得道,开化,hv_TEXT_unit_abilities.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_enlightenment_2,Enlightenment,True,ui_text_replacements_localised_text_3k_dlc04_text_replacement_tech_yellow_turban_characters_5_3_title,,得道,开化,hv_TEXT_unit_abilities.loc.tsv
@@ -4340,6 +4340,11 @@ special_ability_phases_onscreen_name_hv_ability_flame_breathing,Flame Breathing,
 special_ability_phases_onscreen_name_hv_ability_flower_of_battlefield,Flower of the Battlefield,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_foresight,Foresight,True,character_skills_localised_name_3k_dlc04_skill_special_ability_water_foresight,,縱觀全局,远见,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_forest_strategy,Forest Strategy,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+special_ability_phases_onscreen_name_hv_ability_fortification_tactics_1,Fortification Tactics,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+special_ability_phases_onscreen_name_hv_ability_fortification_tactics_2,Fortification Tactics,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+special_ability_phases_onscreen_name_hv_ability_fortification_tactics_3,Fortification Tactics,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+special_ability_phases_onscreen_name_hv_ability_fortification_tactics_4,Fortification Tactics,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+special_ability_phases_onscreen_name_hv_ability_fortification_tactics_5,Fortification Tactics,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_frenzy,Frenzy,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_furious_charge_1,Bulldoze,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_furious_charge_2,Bulldoze,True,,,,,hv_TEXT_unit_abilities.loc.tsv
@@ -4385,6 +4390,7 @@ special_ability_phases_onscreen_name_hv_ability_pulverize,Pulverize,True,,,,,hv_
 special_ability_phases_onscreen_name_hv_ability_qiang_fatigue,Tempered,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_rage_of_blackmountain,Rage of Black Mountain,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_rage_of_hooves,Hooves of Rage,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+special_ability_phases_onscreen_name_hv_ability_reckless_onslaught,Reckless Onslaught,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_restore,Restore,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_retreat_cover,Retreat Cover,False,,,,,hv_TEXT_unit_abilities.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_royal_blood,Royal Blood,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
@@ -4400,9 +4406,14 @@ special_ability_phases_onscreen_name_hv_ability_striking_tide,Striking Tide,True
 special_ability_phases_onscreen_name_hv_ability_stubborn,Stubborn,True,ceo_nodes_title_3k_main_ceo_node_trait_personality_stubborn_01,,頑固執拗,冥顽不灵,hv_TEXT_unit_abilities.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_tactical_stance_defensive,Defensive Stance,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_tactical_stance_offensive,Offensive Stance,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+special_ability_phases_onscreen_name_hv_ability_the_armies_of_the_north_melee,The Armies of the North,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+special_ability_phases_onscreen_name_hv_ability_the_armies_of_the_north_ranged,The Armies of the West ,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+special_ability_phases_onscreen_name_hv_ability_the_armies_of_the_west_melee,The Armies of the West ,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+special_ability_phases_onscreen_name_hv_ability_the_armies_of_the_west_ranged,The Armies of the West ,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_the_weight_on_the_shoulders,The Weight on the Shoulders,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_tiger,White Tiger,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_tiger_skin,Tiger Hides,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+special_ability_phases_onscreen_name_hv_ability_transition,Transition,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_veil_of_darkness,Veil of Darkness,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_whitewater,Whitewater,True,campaign_localised_strings_string_3k_dlc07_captains_armoury_whitewater_title,,激流湧升,习谋,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_wind_of_north,Wind of the North,True,,,,,hv_TEXT_unit_abilities.loc.tsv
@@ -4419,7 +4430,12 @@ special_ability_phases_onscreen_name_hv_ability_yuan_officer_passive,Bolster,Tru
 special_ability_phases_onscreen_name_hv_ability_zhou_the_youth_1,Zhou the Youth,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_zhou_the_youth_2,Zhou the Youth,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 special_ability_phases_onscreen_name_hv_ability_zhou_the_youth_3,Zhou the Youth,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+special_ability_phases_onscreen_name_hv_abillity_a_rush_of_tigers_and_leopards,A Rush of Tigers and Leopards,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 special_ability_phases_onscreen_name_hv_abillity_danyang_tradition,Against all odds,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+special_ability_phases_onscreen_name_hv_abillity_danyang_turning_tide_melee,Turning Tide,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+special_ability_phases_onscreen_name_hv_abillity_danyang_turning_tide_ranged,Turning Tide,False,,,,,hv_TEXT_unit_abilities.loc.tsv
+special_ability_phases_onscreen_name_hv_abillity_dongzhou_overcoming,Overcoming ,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+special_ability_phases_onscreen_name_hv_abillity_guanxi_confident_rush,Confident Rush,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 special_ability_phases_onscreen_name_hv_formation_mixed_ranged_spear,Mixed Missile (Shield),True,,,,,hv_TEXT_unit_abilities.loc.tsv
 special_ability_phases_onscreen_name_hv_formation_pike_wall_eight_talents,Pike Wall - Ji Guards of the Eight Talents,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 special_ability_phases_onscreen_name_hv_formation_pike_wall_white_feather,Pike Wall - White Feathers,True,,,,,hv_TEXT_unit_abilities.loc.tsv
@@ -4569,7 +4585,7 @@ ui_text_replacements_localised_text_hv_unit_elite_2h_spearmen,Elite Long Spearme
 ui_text_replacements_localised_text_hv_unit_elite_2h_swordsmen,Elite Zhanmajian Infantry,True,,,,,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_hv_unit_elite_barded_2h_spear_cavalry,Elite Lancer Cataphracts,True,,,,,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_hv_unit_elite_crossbowmen,Elite Crossbowmen,True,,,,,hv_TEXT_unit_text_replacements.loc.tsv
-ui_text_replacements_localised_text_hv_unit_elite_heavy_bow_archers,Elite Heavy Bow Archers,True,,,,,hv_TEXT_unit_text_replacements.loc.tsv
+ui_text_replacements_localised_text_hv_unit_elite_heavy_bow_archers,Elite Archers,True,,,,,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_hv_unit_elite_ji_infantry,Elite Ji Infantry,True,,,,,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_hv_unit_elite_rep_crossbowmen,Elite Repeating Crossbowmen,True,,,,,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_hv_unit_elite_spearmen,Elite Spearmen,True,,,,,hv_TEXT_unit_text_replacements.loc.tsv
@@ -6002,7 +6018,7 @@ unit_abilities_onscreen_name_hv_ability_disorientate,Disorientate,True,character
 unit_abilities_onscreen_name_hv_ability_dong_command,Dong Zhuo's Command,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_abilities_onscreen_name_hv_ability_double_blades_ecstasy,Ecstasy,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_onscreen_name_hv_ability_dragon_rising,Dragon Rising,True,,,,,hv_TEXT_unit_abilities.loc.tsv
-unit_abilities_onscreen_name_hv_ability_eight_talent_defence,Martial Prowess,False,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_abilities_onscreen_name_hv_ability_eight_talent_defence,Guardians of Jing,False,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_onscreen_name_hv_ability_energy_of_blackmountain,Energy of Black Mountain,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_onscreen_name_hv_ability_enlightenment,Enlightenment,True,ui_text_replacements_localised_text_3k_dlc04_text_replacement_tech_yellow_turban_characters_5_3_title,,得道,开化,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_onscreen_name_hv_ability_eviscerate,Eviscerate,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
@@ -6016,6 +6032,7 @@ unit_abilities_onscreen_name_hv_ability_flower_of_battlefield,Flower of the Batt
 unit_abilities_onscreen_name_hv_ability_foresight,Foresight,True,character_skills_localised_name_3k_dlc04_skill_special_ability_water_foresight,,縱觀全局,远见,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_abilities_onscreen_name_hv_ability_forest_strategy,Forest Strategy,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_onscreen_name_hv_ability_forest_strider,Forest Strider,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+unit_abilities_onscreen_name_hv_ability_fortification_tactics,Fortification Tactics,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_onscreen_name_hv_ability_frenzy,Frenzy,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_onscreen_name_hv_ability_furious_charge,Bulldoze,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_onscreen_name_hv_ability_gas_bomb,Toxic Gas Bomb,True,,,,,hv_TEXT_unit_abilities.loc.tsv
@@ -6058,6 +6075,7 @@ unit_abilities_onscreen_name_hv_ability_pulverize,Pulverize,True,,,,,hv_TEXT_uni
 unit_abilities_onscreen_name_hv_ability_qiang_fatigue,Tempered,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_onscreen_name_hv_ability_rage_of_blackmountain,Rage of Black Mountain,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_onscreen_name_hv_ability_rage_of_hooves,Hooves of Rage,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_abilities_onscreen_name_hv_ability_reckless_onslaught,Reckless Onslaught,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_onscreen_name_hv_ability_restore,Restore,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_abilities_onscreen_name_hv_ability_retreat_cover,Retreat Cover,False,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_onscreen_name_hv_ability_royal_blood,Royal Blood,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
@@ -6073,9 +6091,14 @@ unit_abilities_onscreen_name_hv_ability_stubborn,Stubborn,True,ceo_nodes_title_3
 unit_abilities_onscreen_name_hv_ability_tactical_move,Tactical Advance,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_onscreen_name_hv_ability_tactical_stance_defensive,Defensive Stance,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_onscreen_name_hv_ability_tactical_stance_offensive,Offensive Stance,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_abilities_onscreen_name_hv_ability_the_armies_of_the_north_melee,The Armies of the North,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_abilities_onscreen_name_hv_ability_the_armies_of_the_north_ranged,The Armies of the North,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_abilities_onscreen_name_hv_ability_the_armies_of_the_west_melee,The Armies of the West ,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_abilities_onscreen_name_hv_ability_the_armies_of_the_west_ranged,The Armies of the West ,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_onscreen_name_hv_ability_the_weight_on_the_shoulders,The Weight on the Shoulders,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_abilities_onscreen_name_hv_ability_tiger,White Tiger,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_abilities_onscreen_name_hv_ability_tiger_skin,Tiger Hides,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_abilities_onscreen_name_hv_ability_transition,Transition,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_onscreen_name_hv_ability_veil_of_darkness,Veil of Darkness,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_abilities_onscreen_name_hv_ability_whitewater,Whitewater,True,campaign_localised_strings_string_3k_dlc07_captains_armoury_whitewater_title,,激流湧升,习谋,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_abilities_onscreen_name_hv_ability_wind_of_north,Wind of the North,True,,,,,hv_TEXT_unit_abilities.loc.tsv
@@ -6091,7 +6114,12 @@ unit_abilities_onscreen_name_hv_ability_young_blood,Young Blood,True,,,,,hv_TEXT
 unit_abilities_onscreen_name_hv_ability_youzansen,Sweeping Arc,True,character_skills_localised_name_ep_dyn_special_ability_sweeping_arc,,橫掃千軍,弧光斩,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_abilities_onscreen_name_hv_ability_yuan_officer_passive,Bolster,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_onscreen_name_hv_ability_zhou_the_youth,Zhou the Youth,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+unit_abilities_onscreen_name_hv_abillity_a_rush_of_tigers_and_leopards,A Rush of Tigers and Leopards,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_onscreen_name_hv_abillity_danyang_tradition,Against all odds,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_abilities_onscreen_name_hv_abillity_danyang_turning_tide_melee,Turning Tide,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_abilities_onscreen_name_hv_abillity_danyang_turning_tide_ranged,Turning Tide,False,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_abilities_onscreen_name_hv_abillity_dongzhou_overcoming,Overcoming ,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_abilities_onscreen_name_hv_abillity_guanxi_confident_rush,Confident Rush,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_onscreen_name_hv_formation_mixed_ranged_spear,Mixed Missile (Shield),True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_onscreen_name_hv_formation_pike_wall_eight_talents,Pike Wall - Ji Guards of the Eight Talents,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_onscreen_name_hv_formation_pike_wall_white_feather,Pike Wall - White Feathers,True,,,,,hv_TEXT_unit_abilities.loc.tsv
@@ -6285,7 +6313,7 @@ unit_abilities_tooltip_text_hv_ability_disorientate,A master of the battlefield 
 unit_abilities_tooltip_text_hv_ability_dong_command,"A merciless order, for Dong Zhuo's men and his enemies.",True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_abilities_tooltip_text_hv_ability_double_blades_ecstasy,Their thirst for battle goes beyond physical limits.,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_tooltip_text_hv_ability_dragon_rising,Their energy is like a dragon.,True,,,,,hv_TEXT_unit_abilities.loc.tsv
-unit_abilities_tooltip_text_hv_ability_eight_talent_defence,They excel as warriors having trained in martial disciplines.,False,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_abilities_tooltip_text_hv_ability_eight_talent_defence,"Instilled with the resolve of Jing's finest soldiers stand unyielding, their defense bolstered by a legacy of loyalty and skill, making them an immovable force against adversity.",False,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_tooltip_text_hv_ability_energy_of_blackmountain,The Black Mountain bandits make their move.,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_tooltip_text_hv_ability_enlightenment,The Force will be with you... always.,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_tooltip_text_hv_ability_eviscerate,"By the time the victim is aware of what has happened, it is already too late.",True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
@@ -6299,6 +6327,7 @@ unit_abilities_tooltip_text_hv_ability_flower_of_battlefield,It's not a good pla
 unit_abilities_tooltip_text_hv_ability_foresight,"This man can see all that was, and all that will be.",True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_abilities_tooltip_text_hv_ability_forest_strategy,The trees are their friends.,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_tooltip_text_hv_ability_forest_strider,A forest friendly man.,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+unit_abilities_tooltip_text_hv_ability_fortification_tactics,Troops reinforce where they are and solidify their defenses.,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_tooltip_text_hv_ability_frenzy,Some care not for their own personal safety and so work themselves into a whirlwind of destruction and mindless violence!,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_tooltip_text_hv_ability_furious_charge,Charge like unstoppable bulls.,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_tooltip_text_hv_ability_gas_bomb,"The bandits of Taishan discovered how to create thick, rolling smoke by burning certain plants. It's also toxic.",True,,,,,hv_TEXT_unit_abilities.loc.tsv
@@ -6341,6 +6370,7 @@ unit_abilities_tooltip_text_hv_ability_pulverize,They'll smash anything in their
 unit_abilities_tooltip_text_hv_ability_qiang_fatigue,These warriors know how to control fatigue.,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_tooltip_text_hv_ability_rage_of_blackmountain,The Black Mountain bandits unleash their fury.,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_tooltip_text_hv_ability_rage_of_hooves,Take out their archers. I'll meet you in the middle.,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_abilities_tooltip_text_hv_ability_reckless_onslaught,"This fearless approach exemplifies their commitment to decisive action, willing to trade safety for the chance of a crushing blow.",True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_tooltip_text_hv_ability_restore,A moment's respite from battlefield to heal our troops.,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_abilities_tooltip_text_hv_ability_retreat_cover,Covers ally troops to retreat safely.,False,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_tooltip_text_hv_ability_royal_blood,"Fearing retribution, enemies hesitate to fire upon a scion of the Han.",True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
@@ -6356,9 +6386,14 @@ unit_abilities_tooltip_text_hv_ability_stubborn,Make the impossible possible!,Tr
 unit_abilities_tooltip_text_hv_ability_tactical_move,Speed is the essence of war.,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_tooltip_text_hv_ability_tactical_stance_defensive,The unit inspires nearby soldiers to fight more cautiously.,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_tooltip_text_hv_ability_tactical_stance_offensive,The unit inspires nearby soldiers to fight more aggressively.,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_abilities_tooltip_text_hv_ability_the_armies_of_the_north_melee,"High morale unlocks their true potential, enhancing their prowess in the heat of battle.",True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_abilities_tooltip_text_hv_ability_the_armies_of_the_north_ranged,"High morale unlocks their true potential, enhancing their prowess in the heat of battle.",True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_abilities_tooltip_text_hv_ability_the_armies_of_the_west_melee,"Forged in the crucible of conflict with the nomads, their discipline and courage bloom in battle.",True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_abilities_tooltip_text_hv_ability_the_armies_of_the_west_ranged,"Forged in the crucible of conflict with the nomads, their discipline and courage bloom in battle.",True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_tooltip_text_hv_ability_the_weight_on_the_shoulders,Someone has to take the first step even if no one wants it.,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_abilities_tooltip_text_hv_ability_tiger,His spirit is like a tiger. It takes great courage to face him.,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_abilities_tooltip_text_hv_ability_tiger_skin,Tiger furs provide protection against missile attacks.,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_abilities_tooltip_text_hv_ability_transition,These soldiers can quickly switch between offense and defense.,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_tooltip_text_hv_ability_veil_of_darkness,Unease spreads among the enemy ranks.,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_abilities_tooltip_text_hv_ability_whitewater,Is heaven helping him?,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_abilities_tooltip_text_hv_ability_wind_of_north,A fierce wind blows.,True,,,,,hv_TEXT_unit_abilities.loc.tsv
@@ -6374,7 +6409,12 @@ unit_abilities_tooltip_text_hv_ability_young_blood,Immature but passionate.,True
 unit_abilities_tooltip_text_hv_ability_youzansen,Cut down enemies by making an arc with a blade,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_abilities_tooltip_text_hv_ability_yuan_officer_passive,"Stop the horse, pull the rider down, and kill without mercy.",True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_tooltip_text_hv_ability_zhou_the_youth,Zhou Yu's zeal is enough to inspire others.,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+unit_abilities_tooltip_text_hv_abillity_a_rush_of_tigers_and_leopards,"On their first charge, the Tiger & Leopard Cavalry unleash their full might, embodying the overwhelming force of their namesakes. This devastating surge enhances their power, striking fear into the hearts of those who stand against them.",True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_tooltip_text_hv_abillity_danyang_tradition,They will fight hard to uphold the honour of their homeland.,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_abilities_tooltip_text_hv_abillity_danyang_turning_tide_melee,"As the enemy looms stronger, resolve deepens, granting boosts in morale and endurance, embodying the spirit of defiance and resilience.",True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_abilities_tooltip_text_hv_abillity_danyang_turning_tide_ranged,"As the enemy looms stronger, resolve deepens, granting boosts in morale and endurance, embodying the spirit of defiance and resilience.",False,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_abilities_tooltip_text_hv_abillity_dongzhou_overcoming,"In the thick of battle, soldiers call upon their deepest reserves of strength and skill, gaining an edge in combat at the expense of greater exhaustion, a testament to their determination and training",True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_abilities_tooltip_text_hv_abillity_guanxi_confident_rush,"Driven by unshakeable belief in victory, units surge forward with a spirited charge, their morale soaring as they close in on the enemy, embodying the fervor of a determined assault.",True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_tooltip_text_hv_formation_mixed_ranged_spear,"The unit splits into missiles at the back, in rows, with melee in front protecting them.",True,unit_abilities_tooltip_text_3k_dlc04_formation_mixed_ranged_imperial,,單位分成在後方排成數列的遠程士兵，以及在前方保護他們的近戰士兵。,该单位分成在后方排成数列的远程士兵，以及在前方保护他们的近战士兵,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_tooltip_text_hv_formation_pike_wall_eight_talents,The unit presents a wall of spear-points to the enemy - a strong formation that allows the unit to advance slowly but safely whilst defending against charges.,True,unit_abilities_tooltip_text_3k_dlc04_formation_pike_wall_imperial,,單位將槍頭指向敵人組成一堵牆，這個強固的陣形可讓單位緩慢但安全的推進，同時抵禦衝鋒攻擊。,部队面向敌军形成一道枪墙。这种强大的阵型可以缓慢向敌军推进，并且有效地抵御冲锋,hv_TEXT_unit_abilities.loc.tsv
 unit_abilities_tooltip_text_hv_formation_pike_wall_white_feather,The unit presents a wall of spear-points to the enemy - a strong formation that allows the unit to advance slowly but safely whilst defending against charges.,True,unit_abilities_tooltip_text_3k_dlc04_formation_pike_wall_imperial,,單位將槍頭指向敵人組成一堵牆，這個強固的陣形可讓單位緩慢但安全的推進，同時抵禦衝鋒攻擊。,部队面向敌军形成一道枪墙。这种强大的阵型可以缓慢向敌军推进，并且有效地抵御冲锋,hv_TEXT_unit_abilities.loc.tsv
@@ -6558,7 +6598,7 @@ unit_ability_types_localised_description_hv_ability_disorientate,Disorientate,Tr
 unit_ability_types_localised_description_hv_ability_dong_command,Dong Zhuo's Command,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_ability_types_localised_description_hv_ability_double_blades_ecstasy,Ecstasy,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_localised_description_hv_ability_dragon_rising,Dragon Rising,True,,,,,hv_TEXT_unit_abilities.loc.tsv
-unit_ability_types_localised_description_hv_ability_eight_talent_defence,Martial Prowess,False,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_ability_types_localised_description_hv_ability_eight_talent_defence,Guardians of Jing,False,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_localised_description_hv_ability_energy_of_blackmountain,Energy of Black Mountain,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_localised_description_hv_ability_enlightenment,Enlightenment,True,ui_text_replacements_localised_text_3k_dlc04_text_replacement_tech_yellow_turban_characters_5_3_title,,得道,开化,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_localised_description_hv_ability_eviscerate,Eviscerate,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
@@ -6572,6 +6612,7 @@ unit_ability_types_localised_description_hv_ability_flower_of_battlefield,Flower
 unit_ability_types_localised_description_hv_ability_foresight,Foresight,True,character_skills_localised_name_3k_dlc04_skill_special_ability_water_foresight,,縱觀全局,远见,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_ability_types_localised_description_hv_ability_forest_strategy,Forest Strategy,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_localised_description_hv_ability_forest_strider,Forest Strider,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+unit_ability_types_localised_description_hv_ability_fortification_tactics,Fortification Tactics,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_localised_description_hv_ability_frenzy,Frenzy,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_localised_description_hv_ability_furious_charge,Bulldoze,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_localised_description_hv_ability_gas_bomb,Toxic Gas Bomb,True,,,,,hv_TEXT_unit_abilities.loc.tsv
@@ -6614,6 +6655,7 @@ unit_ability_types_localised_description_hv_ability_pulverize,Pulverize,True,,,,
 unit_ability_types_localised_description_hv_ability_qiang_fatigue,Tempered,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_localised_description_hv_ability_rage_of_blackmountain,Rage of Black Mountain,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_localised_description_hv_ability_rage_of_hooves,Hooves of Rage,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_ability_types_localised_description_hv_ability_reckless_onslaught,Reckless Onslaught,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_localised_description_hv_ability_restore,Restore,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_ability_types_localised_description_hv_ability_retreat_cover,Retreat Cover,False,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_localised_description_hv_ability_royal_blood,Royal Blood,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
@@ -6629,9 +6671,14 @@ unit_ability_types_localised_description_hv_ability_stubborn,Stubborn,True,ceo_n
 unit_ability_types_localised_description_hv_ability_tactical_move,Tactical Advance,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_localised_description_hv_ability_tactical_stance_defensive,Defensive Stance,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_localised_description_hv_ability_tactical_stance_offensive,Offensive Stance,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_ability_types_localised_description_hv_ability_the_armies_of_the_north_melee,The Armies of the North,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_ability_types_localised_description_hv_ability_the_armies_of_the_north_ranged,The Armies of the North,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_ability_types_localised_description_hv_ability_the_armies_of_the_west_melee,The Armies of the West ,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_ability_types_localised_description_hv_ability_the_armies_of_the_west_ranged,The Armies of the West ,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_localised_description_hv_ability_the_weight_on_the_shoulders,The Weight on the Shoulders,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_ability_types_localised_description_hv_ability_tiger,White Tiger,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_ability_types_localised_description_hv_ability_tiger_skin,Tiger Hides,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_ability_types_localised_description_hv_ability_transition,Transition,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_localised_description_hv_ability_veil_of_darkness,Veil of Darkness,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_ability_types_localised_description_hv_ability_whitewater,Whitewater,True,campaign_localised_strings_string_3k_dlc07_captains_armoury_whitewater_title,,激流湧升,习谋,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_ability_types_localised_description_hv_ability_wind_of_north,Wind of the North,True,,,,,hv_TEXT_unit_abilities.loc.tsv
@@ -6647,7 +6694,12 @@ unit_ability_types_localised_description_hv_ability_young_blood,Young Blood,True
 unit_ability_types_localised_description_hv_ability_youzansen,Sweeping Arc,True,character_skills_localised_name_ep_dyn_special_ability_sweeping_arc,,橫掃千軍,弧光斩,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_ability_types_localised_description_hv_ability_yuan_officer_passive,Bolster,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_localised_description_hv_ability_zhou_the_youth,Zhou the Youth,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+unit_ability_types_localised_description_hv_abillity_a_rush_of_tigers_and_leopards,A Rush of Tigers and Leopards,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_localised_description_hv_abillity_danyang_tradition,Against all odds,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_ability_types_localised_description_hv_abillity_danyang_turning_tide_melee,Turning Tide,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_ability_types_localised_description_hv_abillity_danyang_turning_tide_ranged,Turning Tide,False,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_ability_types_localised_description_hv_abillity_dongzhou_overcoming,Overcoming ,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_ability_types_localised_description_hv_abillity_guanxi_confident_rush,Confident Rush,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_localised_description_hv_formation_mixed_ranged_spear,Mixed Missile (Shield),True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_localised_description_hv_formation_pike_wall_eight_talents,Pike Wall - Ji Guards of the Eight Talents,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_localised_description_hv_formation_pike_wall_white_feather,Pike Wall - White Feathers,True,,,,,hv_TEXT_unit_abilities.loc.tsv
@@ -6908,7 +6960,7 @@ unit_ability_types_onscreen_name_hv_ability_captain_active,Active Buff Ally,True
 unit_ability_types_onscreen_name_hv_ability_captain_passive,Passive Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_commanding_shout,Active Buff Ally,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_condemn,Melee Attack,True,random_localisation_strings_string_melee_attack,,近戰攻擊,近战攻击,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
-unit_ability_types_onscreen_name_hv_ability_counter_strike,Active Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_ability_types_onscreen_name_hv_ability_counter_strike,Passive Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_crash,Melee Attack,True,random_localisation_strings_string_melee_attack,,近戰攻擊,近战攻击,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_crossing_of_the_styx,Melee Attack,True,random_localisation_strings_string_melee_attack,,近戰攻擊,近战攻击,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_cruel_lord,Active Buff Ally,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
@@ -6939,6 +6991,7 @@ unit_ability_types_onscreen_name_hv_ability_flower_of_battlefield,Passive Debuff
 unit_ability_types_onscreen_name_hv_ability_foresight,Passive Buff Self,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_forest_strategy,Passive Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_forest_strider,Passive Buff Self,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+unit_ability_types_onscreen_name_hv_ability_fortification_tactics,Passive Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_frenzy,Passive Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_furious_charge,Passive Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_gas_bomb,Missile Attack,True,unit_ability_types_onscreen_name_3k_dlc04_show_of_force,,遠程攻擊,远程攻击,hv_TEXT_unit_abilities.loc.tsv
@@ -6981,6 +7034,7 @@ unit_ability_types_onscreen_name_hv_ability_pulverize,Active Buff Self,True,,,,,
 unit_ability_types_onscreen_name_hv_ability_qiang_fatigue,Passive Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_rage_of_blackmountain,Passive Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_rage_of_hooves,Passive Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_ability_types_onscreen_name_hv_ability_reckless_onslaught,Active Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_restore,Passive Buff Ally,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_retreat_cover,Passive Buff Ally,False,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_royal_blood,Passive Debuff Enemy,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
@@ -6996,9 +7050,14 @@ unit_ability_types_onscreen_name_hv_ability_stubborn,Passive Buff Self,True,,,,,
 unit_ability_types_onscreen_name_hv_ability_tactical_move,Active Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_tactical_stance_defensive,Active Buff Ally,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_tactical_stance_offensive,Active Buff Ally,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_ability_types_onscreen_name_hv_ability_the_armies_of_the_north_melee,Passive Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_ability_types_onscreen_name_hv_ability_the_armies_of_the_north_ranged,Passive Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_ability_types_onscreen_name_hv_ability_the_armies_of_the_west_melee,Passive Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_ability_types_onscreen_name_hv_ability_the_armies_of_the_west_ranged,Passive Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_the_weight_on_the_shoulders,Passive Buff Ally,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_tiger,Passive Debuff Enemy,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_tiger_skin,Passive Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_ability_types_onscreen_name_hv_ability_transition,Active Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_veil_of_darkness,Active Debuff Enemy,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_whitewater,Passive Buff Ally,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_wind_of_north,Active Buff Self (Auto),True,,,,,hv_TEXT_unit_abilities.loc.tsv
@@ -7014,7 +7073,12 @@ unit_ability_types_onscreen_name_hv_ability_young_blood,Passive Buff Self,True,,
 unit_ability_types_onscreen_name_hv_ability_youzansen,Melee Attack (Auto),True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_yuan_officer_passive,Passive Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_onscreen_name_hv_ability_zhou_the_youth,Passive Buff Self,True,,,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+unit_ability_types_onscreen_name_hv_abillity_a_rush_of_tigers_and_leopards,Active Buff Ally (Auto),True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_onscreen_name_hv_abillity_danyang_tradition,Passive Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_ability_types_onscreen_name_hv_abillity_danyang_turning_tide_melee,Passive Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_ability_types_onscreen_name_hv_abillity_danyang_turning_tide_ranged,Passive Buff Self,False,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_ability_types_onscreen_name_hv_abillity_dongzhou_overcoming,Active Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
+unit_ability_types_onscreen_name_hv_abillity_guanxi_confident_rush,Active Buff Self,True,,,,,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_onscreen_name_hv_formation_mixed_ranged_spear,Static Infantry Formation,True,unit_ability_types_onscreen_name_3k_main_formation_circle,,定點步兵陣形,固防步兵阵形,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_onscreen_name_hv_formation_pike_wall_eight_talents,Static Infantry Formation,True,unit_ability_types_onscreen_name_3k_main_formation_circle,,定點步兵陣形,固防步兵阵形,hv_TEXT_unit_abilities.loc.tsv
 unit_ability_types_onscreen_name_hv_formation_pike_wall_white_feather,Static Infantry Formation,True,unit_ability_types_onscreen_name_3k_main_formation_circle,,定點步兵陣形,固防步兵阵形,hv_TEXT_unit_abilities.loc.tsv
@@ -7120,7 +7184,7 @@ unit_description_historical_texts_text_hv_unit_elite_spearmen,work in process \\
 unit_description_historical_texts_text_hv_unit_elite_sword_cavalry,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_elite_swordsmen,"The jian is a straight, double-edged sword known as the 'Gentleman of Weapons', and considered to be one of the four major weapons alongside the gun, dao and qiang. It takes a year of training before one is considered competent enough to use it, and so only the most skilled swordsmen are equipped with it. \\n\\n The role of the Elite Swordsmen is to hold the line against enemy attacks, and their swordsmanship, heavy armour and gourd shields enable them to do this long after others have fallen to exhaustion.",True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_enforcer_archer_cavalry,"If only strength can rule, then strength must be displayed often and in great abundance. And it must be used to make example of fools who would believe otherwise. \\n\\n Trained in the Xiliang style of warfare, these disciplined warriors form the backbone of the ironfisted rule that Dong Zhuo and Lu Bu impose upon the Han. Atop their steeds, they patrol the countryside, putting down any opposition with bow and sword. ",True,,,,,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_fellows_of_the_oath,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_fellows_of_the_oath,"Bound by loyalty to Liu Bei, the Oath Fellows are a testament to the strength of unity over individual prowess. While not equipped with the finest weapons, their shared glaive and the collective spirit of their bond allow them to stand firm in defense and strike with coordinated precision in attack. This unit, mirroring the fraternal bond of Liu Bei, Guan Yu, and Zhang Fei, represents a blend of courage and tactical flexibility, growing more competent with each battle. Their adaptability on the field, capable of shifting seamlessly between offensive thrusts and defensive stands, reflects their deep commitment to their cause and to each other. In the Oath Fellows, the essence of their loyalty is not just a moral virtue but a tactical advantage, enabling them to overcome challenges that would daunt lesser units.",True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_goshawk_cavalry,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_han_captain,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_han_volunteer_rep_crossbowmen,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
@@ -7135,6 +7199,7 @@ unit_description_historical_texts_text_hv_unit_imperial_guards,work in process \
 unit_description_historical_texts_text_hv_unit_iron_fists_of_the_bandit_queen,"Zheng Jiang has selected her most ferocious bandits to act as her ‘Fists of the Bandit Queen’; their role is to act as shock-troops, sneaking behind enemy lines to terrify foes with surprise attacks early in the battle. \\n\\n Each carries a heavy fu axe in each hand, and the wounds dealt by them can be catastrophic. Striking terror requires these troops to be without fear themselves, but also means they can tend to be undisciplined and difficult to control once their blood is hot with battle",True,,unit_description_historical_texts_text_3k_main_unit_metal_fists_of_the_bandit_queen,鄭姜親自挑選最兇悍的盜賊組成她的「盜賊女王拳勇團」。他們擔任突襲隊，在戰鬥開始時悄悄繞到敵方戰線後方進行突襲。 \\n\\n 拳勇團個個雙手持斧，能將敵人砍成重傷。要令敵人驚懼，自己需先無畏，不過這也代表一旦戰至鬥志沸騰，他們將無視紀律，難以控制。,郑姜挑选出了最勇猛的匪盗作为她的魁首前军，这支部队以奇袭为己任，可以潜入敌阵后方发起突袭，令对手产生恐慌。\\n\\n他们的双手各执一柄巨斧，可造成致命伤害。在敌阵中冲杀自如需要有无所畏惧的勇气，同时却又意味着他们一旦在战场上杀红了眼，就会变得难以控制。,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_jade_dragons,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_jei_fan_infantry,"Treat your men as you would your own beloved sons. And they will follow you into the deepest valley. \\n\\n Serving the heirs of Sun Tzu, these men would willingly follow them into heirs and certain death. Armed with a light glaive and medium armor, these men can hold their own in a variety of situations, facing down cavalry or infantry with equal skill. Their versatility has caused them to be fondly called “problem solvers” by their commanders and are given great respect, which they repay with loyalty.",True,,,,,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_ji_guards_of_the_eight_talents,"The Ji Guards of the Eight Talents stand as paragons of martial prowess within Liu Bao's domain, wielding the Ji with unmatched skill. Selected for their loyalty and combat mastery, these guards are tasked with the defense of Jing province, utilizing their polearms to form an impregnable line against any who dare challenge their lord's authority. Their training emphasizes not just the art of the Ji but the values of courage and fidelity, making them a formidable force on the battlefield.",True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_jianan_archers,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_jianan_crossbowmen,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_jianan_crossbowmen_cavalry,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
@@ -7145,16 +7210,16 @@ unit_description_historical_texts_text_hv_unit_jingchou_buqu_2h_spearmen,"Heirs 
 unit_description_historical_texts_text_hv_unit_jingchou_buqu_archers,"Heirs of the old dynasty of Chu, the soldiers bred by this land share its temperament: fierce in battle and loyal to the end. They are a fitting fighting force for any warlord or would-be emperor. \\n\\n Skilled archers, these men provide covering fire for their army as they maneuver nimbly into the most advantageous positions. They should be protected from cavalry however, as they are lightly armoured.",True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_jingchou_buqu_caltrop_infantry,"Heirs of the old dynasty of Chu, the soldiers bred by this land share its temperament: fierce in battle and loyal to the end. They are a fitting fighting force for any warlord or would-be emperor. \\n\\n These warriors bring caltrops to battle, stunting any enemy advance as the foe perishes on the unseen traps. Any survivors are quickly dealt with by the blades these warriors wield. A skilled general would be wary of archers though: they are lightly armored and carry no shield.",True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_juggernaut,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_local_noble_buqu_archers,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_local_noble_buqu_infantry,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_local_noble_buqu_archers,"The House Servant Archers represent the utilitarian backbone of defense for the noble estates of Jing Province. Their proficiency with the bow is matched by their intimate knowledge of the land they patrol, allowing them to use the terrain to their advantage in warding off threats. These archers are valued not for martial prestige but for their logistical ease and strategic placement, making them an efficient choice for maintaining the security of their masters' territories. Their ability to operate effectively with minimal supply demands underscores their role as indispensable defenders, proficient in leveraging their understanding of local geography for optimal protection.",True,,,,,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_local_noble_buqu_infantry,"House Servant Axemen are pragmatic defenders within the service of Jing Province's noble families. Familiar with the surrounding lands and adept at utilizing their knowledge for strategic advantages, these axemen are not celebrated heroes but essential cogs in the defense of their lords' estates. Their one-handed axes, while simple, are effectively wielded to secure and protect territory. Their value lies in their efficiency and the ease with which they can be supplied, leveraging their intimate understanding of local geography to hold ground against intruders with minimal resources.",True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_local_noble_buqu_raider_cavalry,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_local_noble_buqu_spearmen,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_local_noble_elite_archers,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_local_noble_buqu_spearmen,"House Servant Long Spearmen stand as the bulwark of noble estates' defenses, utilizing their two-handed spears with proficiency to form impenetrable lines against enemy advances. Primarily tasked with the crucial roles of holding territory and repelling cavalry charges, their disciplined formations and effective reach make them a formidable force against mounted foes. Trained to maximize the advantages of their spears, these servants are essential for maintaining the strategic integrity of the territories they guard, ensuring that even the most audacious cavalry assault is met with steadfast resistance.",True,,,,,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_local_noble_elite_archers,"Local Noble Archers from Jing province are skilled from tradition, excelling in local conflicts thanks to their heritage of archery practice. Not formally trained but honed through generations, they offer effective archery support in skirmishes, adept at defending their domains. Their value lies in combining reliable archery with strategic efficiency, making them crucial in small-scale defenses. Their familiarity with local terrain and cost-effective deployment further enhances their utility, marking them as essential for maintaining control in their territories.",True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_mercenary_archers,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_mercenary_captain,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_mercenary_cavalry,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_mercenary_infantry,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_militia_2h_axemen,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_militia_2h_axemen,"In the heat of battle, the sight of Militia Long Axemen advancing can be as daunting as it is unexpected. These militia units, though lacking in formal combat training, wield two-handed axes that bring a raw, devastating force to the fray. Their axes, characterized by long handles and heavy heads, offer both reach and a lethal impact capable of breaking through armor and ranks alike. While their technique may not be refined, the sheer weight and momentum of their weapons allow them to cleave through enemy lines, causing chaos and fear. This makes them particularly effective against tightly packed infantry, where their sweeping blows can inflict maximum damage. However, their lack of skill and defensive equipment makes them vulnerable in prolonged engagements, positioning them as a high-risk, high-reward element within any militia force.",True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_militia_archers,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_militia_black_mountain_outlaws,"The Yellow Turban rebellion and the rapidly collapsing Han dynasty has left many people without homes or livelihoods. The most desperate or least scrupulous of these turn to banditry. These men flock to the bandit of the king of Black Mountain, hoping to remake their fortunes through plunder and bloody battle. Despite their hopes, their poor equipment usually has them end up as fodder, while others reap the rewards for their sacrifices.",True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_militia_ji_infantry,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
@@ -7195,12 +7260,13 @@ unit_description_historical_texts_text_hv_unit_sogd_warriors,work in process \\n
 unit_description_historical_texts_text_hv_unit_spice_guard,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_stray_artisans,"Having fled from their homes, these craftsmen and artisans turn their skills to the defence of their new home and master. \\n\\n Having been selected as the brightest from the many refugees flooding his lands, these engineers serve Tao Qian to the best of their ability. Wielding crossbows, they provide support from afar and will deploy smoke bombs and caltrops when an enemy strays too close. However, these men are not proper soldiers and should not be relied upon to hold the line in melee.",True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_swallow_cavalry,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_sword_guards_of_the_eight_talents,"The Sword Guards of the Eight Talents are the embodiment of elite swordsmanship, sworn to defend Liu Bao and the honor of Jing province. Handpicked for their exceptional skills and unwavering loyalty, these soldiers wield their swords with a precision and grace that belie their lethal efficiency. In the heat of battle, they are unflappable, their blades cutting through enemy ranks with ease, safeguarding their homeland and its ideals with every stroke.",True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_taishan_phantoms,"The bandit queen's forces are bolstered by the presence of these so-called ""phantoms"". Hailing from Taishan, these warriors have already gathered an ominous reputation for the poison bombs they carry with them. If the wind is right, these bombs will cause entire regiments to choke without even comitting to battle. They are furthermore armed with a light sword and cloth armor, so they should not be relied on to hold the line in melee.",True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_taishan_poison_wind,"Hailing from Taishan, these women have coated their arrow points in a special ointment, made from poisonous herbs native to the region. In battle, A volley from these archers will soon leave the enemy gasping for air as the poison very quickly spreads through their veins. A wise commander will use these soldiers to spread terror through the enemy ranks, yet keep them well-protected: they are vulnerable to cavalry, as their range is limited.",True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_tiger_and_leopard_barded_cavalry,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_tiger_and_leopard_cavalry,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_trebuchet,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
-unit_description_historical_texts_text_hv_unit_warrior_monks,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
+unit_description_historical_texts_text_hv_unit_warrior_monks,"Monk Warriors, a unique martial force raised by Shi Xie amidst the embrace of Buddhism in China, stand as paragons of endurance on the battlefield. Armed with nothing but their staffs, these warriors are not known for their offensive prowess but are unrivaled in their defensive capabilities. Their training, deeply rooted in Buddhist teachings, emphasizes patience, resilience, and the ability to absorb and deflect the energy of incoming attacks. This philosophy makes them exceptionally durable in combat, capable of withstanding assaults that would overwhelm lesser troops. While they may not lead the charge, their presence is a bulwark against aggression, turning the tide of battle not through force, but through steadfast endurance and the calm application of defensive tactics.",True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_white_feathers,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_white_horse_fellows,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
 unit_description_historical_texts_text_hv_unit_white_tiger_bandits,work in process \\n\\n (Please submit your ideas through the trom channel of MTU discord.),True,,,,,hv_TEXT_unit_long_desc.loc.tsv
@@ -7294,7 +7360,7 @@ unit_description_short_texts_text_hv_unit_elite_spearmen,work in process,True,,,
 unit_description_short_texts_text_hv_unit_elite_sword_cavalry,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_elite_swordsmen,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_enforcer_archer_cavalry,"Armed with bow and sword, these disciplined riders enforce the will of their warlord.",True,,,,,hv_TEXT_unit_desc.loc.tsv
-unit_description_short_texts_text_hv_unit_fellows_of_the_oath,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
+unit_description_short_texts_text_hv_unit_fellows_of_the_oath,"Liu Bei's loyal unit, the Oath Fellows wield glaives and share a strong bond, excelling in both offense and defense as they grow with their lord.",True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_goshawk_cavalry,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_han_captain,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_han_volunteer_rep_crossbowmen,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
@@ -7309,6 +7375,7 @@ unit_description_short_texts_text_hv_unit_imperial_guards,work in process,True,,
 unit_description_short_texts_text_hv_unit_iron_fists_of_the_bandit_queen,"These elite, battle-hardened bandits carry an axe in each hand, and advance ahead of the front lines to catch their foes unawares",True,unit_description_short_texts_text_3k_main_unit_metal_fists_of_the_bandit_queen,,這些身經百戰的精銳盜賊兩手各持一斧，率先出陣，攻敵不備。,这些身经百战的精英匪盗双手各执一斧，可在战线前方杀敌之出其不意,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_jade_dragons,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_jei_fan_infantry,These versatile infantry will solve nigh any problem their Wu commanders might face.,True,,,,,hv_TEXT_unit_desc.loc.tsv
+unit_description_short_texts_text_hv_unit_ji_guards_of_the_eight_talents,"Excellent Ji wielders, these soldiers are loyal to Liu Bao to protect the honor of Jing province.",True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_jianan_archers,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_jianan_crossbowmen,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_jianan_crossbowmen_cavalry,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
@@ -7319,16 +7386,16 @@ unit_description_short_texts_text_hv_unit_jingchou_buqu_2h_spearmen,"Stalwart as
 unit_description_short_texts_text_hv_unit_jingchou_buqu_archers,"Raining death from afar, the archers of Jingchu have learned well the advantage that the bow brings in hilly terrain.",True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_jingchou_buqu_caltrop_infantry,"Amongst the hills of Jingchu, the unwary may find themselves tripped upon a caltrop, and slain by the man who laid it.",True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_juggernaut,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
-unit_description_short_texts_text_hv_unit_local_noble_buqu_archers,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
-unit_description_short_texts_text_hv_unit_local_noble_buqu_infantry,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
+unit_description_short_texts_text_hv_unit_local_noble_buqu_archers,"House Servant Archers are key to efficient estate defense, using bows to effectively hold and secure territory.",True,,,,,hv_TEXT_unit_desc.loc.tsv
+unit_description_short_texts_text_hv_unit_local_noble_buqu_infantry,"House Servant Axemen provide cost-effective defense for noble estates, leveraging simple axes for territorial control.",True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_local_noble_buqu_raider_cavalry,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
-unit_description_short_texts_text_hv_unit_local_noble_buqu_spearmen,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
-unit_description_short_texts_text_hv_unit_local_noble_elite_archers,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
+unit_description_short_texts_text_hv_unit_local_noble_buqu_spearmen,"House Servant Long Spearmen excel in line defense and anti-cavalry roles, wielding two-handed spears to maintain order on the battlefield.",True,,,,,hv_TEXT_unit_desc.loc.tsv
+unit_description_short_texts_text_hv_unit_local_noble_elite_archers,"Local Noble Archers, adept from tradition, provide valuable, cost-efficient archery support in local skirmishes.",True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_mercenary_archers,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_mercenary_captain,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_mercenary_cavalry,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_mercenary_infantry,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
-unit_description_short_texts_text_hv_unit_militia_2h_axemen,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
+unit_description_short_texts_text_hv_unit_militia_2h_axemen,Militia armed with two-handed axes; a formidable but unskilled force capable of delivering powerful strikes.,True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_militia_archers,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_militia_black_mountain_outlaws,"The desperate and the disenfranchised gather at the base of Black Mountain, ready to expand their fortunes or die trying.",True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_militia_ji_infantry,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
@@ -7369,12 +7436,13 @@ unit_description_short_texts_text_hv_unit_sogd_warriors,work in process,True,,,,
 unit_description_short_texts_text_hv_unit_spice_guard,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_stray_artisans,Ingenuity and craftsmanship can turn even a lowly militiaman into a daunting foe.,True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_swallow_cavalry,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
+unit_description_short_texts_text_hv_unit_sword_guards_of_the_eight_talents,"Liu Bao's elite swordsmen, embodying Jing province's martial spirit with unmatched blade mastery.",True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_taishan_phantoms,"Great danger hides in the early mist of day. Phantoms that will maim their prey, or whose choking gass leaves them gasping for air.",True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_taishan_poison_wind,"The sting of an arrowshaft can be deadly, but with these archers, death may still find you long after the arrow pierced your flesh.",True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_tiger_and_leopard_barded_cavalry,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_tiger_and_leopard_cavalry,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_trebuchet,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
-unit_description_short_texts_text_hv_unit_warrior_monks,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
+unit_description_short_texts_text_hv_unit_warrior_monks,"Monk Warriors are durable defensive units trained by Shi Xie, wielding staffs and inspired by Buddhist principles. Their resilience allows them to withstand enemy blows effectively.",True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_white_feathers,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_white_horse_fellows,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv
 unit_description_short_texts_text_hv_unit_white_tiger_bandits,work in process,True,,,,,hv_TEXT_unit_desc.loc.tsv

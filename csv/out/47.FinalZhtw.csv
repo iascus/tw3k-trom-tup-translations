@@ -135,7 +135,7 @@ campaign_effect_scopes_localised_text_hv_scope_dummy_character_unlock_units_rank
 campaign_effect_scopes_localised_text_hv_scope_dummy_character_unlock_units_rank_militia,[[col:scope_description]]（此人等級1以上時）[[/col]],True
 campaign_effect_scopes_localised_text_hv_scope_dummy_character_unlock_units_rank_royal_guards,[[col:scope_description]]（此人等級11以上時）[[/col]],True
 campaign_effect_scopes_localised_text_region_to_force_own_in_adjacent_regions,[[col:scope_description]]（相鄰各{{tr:map_regions}}）[[/col]],True
-campaign_localised_strings_string_3k_dlc07_captains_armoury_whitewater_title,一條密計,True
+campaign_localised_strings_string_3k_dlc07_captains_armoury_whitewater_title,密計,True
 campaign_localised_strings_string_3k_dlc07_tutorial_mode_imperial_hud_description,選取之後將會打開朝廷權謀面板，統管獻帝於公元195年成年後開放使用的所有機制，代表著新任皇權所面臨的政治角力。,False
 campaign_localised_strings_string_dlc07_imperial_intrigue_panel_invalid_self_target,不能指向自己。,False
 campaign_localised_strings_string_military_force_morale_effect_bonus_value_animosity,過剩,False
@@ -741,11 +741,11 @@ character_skills_localised_description_hv_historical_skill_ability_healer_02,以
 character_skills_localised_description_hv_historical_skill_ability_healer_03,知道同胞絕不會捨自己而去，能讓人大感安心。,True
 character_skills_localised_description_hv_historical_skill_ability_metal_01,從一名戰士傳達到另一名戰士的戰鬥口號。,True
 character_skills_localised_description_hv_historical_skill_ability_metal_02,此人相信，要將敵人除之而後快，就必須先追得上敵人。,True
-character_skills_localised_description_hv_historical_skill_ability_metal_03,森林爲懂得尊重的人提供了通行路徑和更穩固的立足之地。,True
+character_skills_localised_description_hv_historical_skill_ability_metal_03,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。,True
 character_skills_localised_description_hv_historical_skill_ability_scholar_01,往頭上看，看到的是天空，往心裡看，看到的便是黃天。,True
 character_skills_localised_description_hv_historical_skill_ability_scholar_02,皮若堅石，箭矢觸及皆反彈無傷。,True
 character_skills_localised_description_hv_historical_skill_ability_scholar_03,一千發虛擲的矢石，比不上一記時機拿捏得恰到好處的精準射擊。,True
-character_skills_localised_description_hv_historical_skill_ability_veteran_01,森林爲懂得尊重的人提供了通行路徑和更穩固的立足之地。,True
+character_skills_localised_description_hv_historical_skill_ability_veteran_01,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。,True
 character_skills_localised_description_hv_historical_skill_ability_veteran_02,世世代代在土地上生息能使人培養出與土地的密切情誼。,True
 character_skills_localised_description_hv_historical_skill_ability_veteran_03,將士兵組成人墻來抵禦馬匹。此戰術簡單有效。,True
 character_skills_localised_description_hv_historical_skill_ability_water_01,激勵人心之舉可鼓舞部隊加速行動！,True
@@ -803,8 +803,8 @@ character_skills_localised_description_hv_skill_ability_defence_mastery_resolve,
 character_skills_localised_description_hv_skill_ability_desperate_cry,能激勵人的不見得是命令的內容，也可能是發號施令的方法。,True
 character_skills_localised_description_hv_skill_ability_devastating_roar_instinct,狂怒的吼聲擊潰敵軍士氣！,True
 character_skills_localised_description_hv_skill_ability_disorientate,熟知戰場的人即使面對最有把握的士兵，也能動搖他們的自信。,True
-character_skills_localised_description_hv_skill_ability_distant_courage_authority,這名將軍指揮若定，鼓舞盟友大顯身手…但他本人並不親赴前線。,True
-character_skills_localised_description_hv_skill_ability_distant_courage_instinct,這名將軍指揮若定，鼓舞盟友大顯身手…但他本人並不親赴前線。,True
+character_skills_localised_description_hv_skill_ability_distant_courage_authority,大將軍難道不應該在遠離紛爭的地方運籌帷幄？,True
+character_skills_localised_description_hv_skill_ability_distant_courage_instinct,大將軍難道不應該在遠離紛爭的地方運籌帷幄？,True
 character_skills_localised_description_hv_skill_ability_dong_command_instinct,來自相國嚴苛的命令。,True
 character_skills_localised_description_hv_skill_ability_elemental_vigour_expertise,此人會隨著戰鬥時間拉長而越戰越勇，激勵士氣的效果也隨之增強！,True
 character_skills_localised_description_hv_skill_ability_eviscerate_instinct,等到被害者明白過來，就已爲時已晚。,True
@@ -889,9 +889,9 @@ character_skills_localised_description_hv_skill_ability_mock_expertise,此英雄
 character_skills_localised_description_hv_skill_ability_mortal_strike_authority,可發出非常有力的一擊。,True
 character_skills_localised_description_hv_skill_ability_mortal_strike_expertise,可發出非常有力的一擊。,True
 character_skills_localised_description_hv_skill_ability_mortal_strike_instinct,可發出非常有力的一擊。,True
-character_skills_localised_description_hv_skill_ability_nature_s_ally_authority,敬愛山林，山亦敬之，穿林如行路。,True
-character_skills_localised_description_hv_skill_ability_nature_s_ally_cunning,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。 ,True
-character_skills_localised_description_hv_skill_ability_nature_s_ally_resolve,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。 ,True
+character_skills_localised_description_hv_skill_ability_nature_s_ally_authority,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。,True
+character_skills_localised_description_hv_skill_ability_nature_s_ally_cunning,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。,True
+character_skills_localised_description_hv_skill_ability_nature_s_ally_resolve,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。,True
 character_skills_localised_description_hv_skill_ability_oil_bomb_cunning,扔擲易燃油罐至目標敵人。,True
 character_skills_localised_description_hv_skill_ability_one_with_heaven,往頭上看，看到的是天空，往心裡看，看到的便是黃天。,True
 character_skills_localised_description_hv_skill_ability_one_with_the_land,世世代代在土地上生息能使人培養出與土地的密切情誼。,True
@@ -2813,14 +2813,14 @@ effects_description_3k_main_effect_enable_projectile_fire_artillery,可使用：
 effects_description_3k_main_effect_unit_stats_ammunition_cavalry_missile,遠程騎兵箭矢增加[[b]]%+n%[[/b]] ,True
 effects_description_3k_main_effect_unit_stats_unit_hit_chance,近戰命中加成[[b]]%+n%[[/b]],True
 effects_description_3k_main_skill_advance,技能：軍令,True
-effects_description_3k_main_skill_avenge,技能：夙仇,True
-effects_description_3k_main_skill_battle_stance,技能: 厲兵,True
+effects_description_3k_main_skill_avenge,技能：逐北,True
+effects_description_3k_main_skill_battle_stance,技能：厲兵,True
 effects_description_3k_main_skill_blood_flower,技能：流星,True
 effects_description_3k_main_skill_blooming_beauty_xiao_25,技能：芳香,True
 effects_description_3k_main_skill_blooming_beauty_xiao_50,技能：芳香,True
 effects_description_3k_main_skill_blossoming_beauty,技能：天仙,True
 effects_description_3k_main_skill_brawn_of_yangan,技能：鬥牛,True
-effects_description_3k_main_skill_breakthrough_in_concentration,技能：破繭,True
+effects_description_3k_main_skill_breakthrough_in_concentration,技能：突擊先鋒,True
 effects_description_3k_main_skill_broad_Knowledge_1,被動增益：淵博,True
 effects_description_3k_main_skill_broad_Knowledge_2,被動增益：淵博,True
 effects_description_3k_main_skill_calculated_judgment,技能：奇襲,True
@@ -2857,7 +2857,7 @@ effects_description_3k_main_skill_foul_wits,技能：遠矚,True
 effects_description_3k_main_skill_goddess_of_battle,技能：惡浪,True
 effects_description_3k_main_skill_guardian,技能：衛足,True
 effects_description_3k_main_skill_hope_of_nam_viet,技能：民意,True
-effects_description_3k_main_skill_indiscriminate_charge,被動增益,True
+effects_description_3k_main_skill_indiscriminate_charge,技能：困獸,True
 effects_description_3k_main_skill_lady_dong_cruel_command,技能：強令,True
 effects_description_3k_main_skill_lament,技能：慟哭,True
 effects_description_3k_main_skill_last_resist,技能：背水,True
@@ -3267,7 +3267,7 @@ effects_description_hv_effect_unlock_blade_mastery,技能：劍術專精,True
 effects_description_hv_effect_unlock_blazing_roar,技能：燃燒之吼,True
 effects_description_hv_effect_unlock_blazing_saddles,技能：炙熱馬鞍,True
 effects_description_hv_effect_unlock_bleed,技能：險惡一擊,True
-effects_description_hv_effect_unlock_blood_fury,技能：血怒,True
+effects_description_hv_effect_unlock_blood_fury,技能：鮮血之怒,True
 effects_description_hv_effect_unlock_brawl,技能：毆打,True
 effects_description_hv_effect_unlock_burning,技能：燃燒元神,True
 effects_description_hv_effect_unlock_calm_down,技能：鎮靜,True
@@ -3306,11 +3306,11 @@ effects_description_hv_effect_unlock_god_of_war,技能：武聖,True
 effects_description_hv_effect_unlock_hail_of_arrows,技能：箭如雨下,True
 effects_description_hv_effect_unlock_hamper,技能：攪擾,True
 effects_description_hv_effect_unlock_hamstring,技能：削斷腿筋,True
-effects_description_hv_effect_unlock_heart_seeker,技能：覓心,True
+effects_description_hv_effect_unlock_heart_seeker,技能：一箭穿心,True
 effects_description_hv_effect_unlock_heavenly_grace,技能：天仙氣質,True
 effects_description_hv_effect_unlock_hero_poisonwind_shot,技能：毒風,True
 effects_description_hv_effect_unlock_imperious_presence,技能：跋扈,True
-effects_description_hv_effect_unlock_impetuous_charge,技能：橫衝,True
+effects_description_hv_effect_unlock_impetuous_charge,技能：狂暴衝鋒,True
 effects_description_hv_effect_unlock_indomitable_warrior,技能：無畏之士,True
 effects_description_hv_effect_unlock_inner_fire,技能：心中真火,True
 effects_description_hv_effect_unlock_inner_vitality,技能：内在活力,True
@@ -3344,7 +3344,7 @@ effects_description_hv_effect_unlock_restore,技能：回復,True
 effects_description_hv_effect_unlock_roar_of_the_beast,技能：野獸咆哮,True
 effects_description_hv_effect_unlock_royal_blood,技能：皇室貴胄,True
 effects_description_hv_effect_unlock_scattering_blows,技能：潰散攻擊,True
-effects_description_hv_effect_unlock_second_chance,技能：餘燼,True
+effects_description_hv_effect_unlock_second_chance,技能：餘燼復燃,True
 effects_description_hv_effect_unlock_show_of_force,技能：揚威挫銳,True
 effects_description_hv_effect_unlock_sight_of_the_dragon,技能：龍之慧眼,True
 effects_description_hv_effect_unlock_smouldering_fury,技能：怒火中燒,True
@@ -3354,8 +3354,8 @@ effects_description_hv_effect_unlock_sparrow,技能：燕翔,True
 effects_description_hv_effect_unlock_stalwart_defender,技能：步步為營,True
 effects_description_hv_effect_unlock_stone_bulwark,技能：堅若磐石,True
 effects_description_hv_effect_unlock_storm_of_swords,技能：劍刃風暴,True
-effects_description_hv_effect_unlock_strength_of_the_land,技能：地動,True
-effects_description_hv_effect_unlock_striking_tide,技能：刀浪,True
+effects_description_hv_effect_unlock_strength_of_the_land,技能：大地之力,True
+effects_description_hv_effect_unlock_striking_tide,技能：刀浪澎湃,True
 effects_description_hv_effect_unlock_sundering_strike,技能：開山劈石,True
 effects_description_hv_effect_unlock_swift_fingers,技能：十指靈巧,True
 effects_description_hv_effect_unlock_swift_steps,技能：靈動步伐,True
@@ -3369,13 +3369,13 @@ effects_description_hv_effect_unlock_undying_vow,技能：誓死不屈,True
 effects_description_hv_effect_unlock_unstoppable,技能：無人可擋,True
 effects_description_hv_effect_unlock_unyielding_earth,技能：不屈之土,True
 effects_description_hv_effect_unlock_veil_of_darkness,技能：黑暗之幕,True
-effects_description_hv_effect_unlock_vengeance,技能：報仇雪恨,True
+effects_description_hv_effect_unlock_vengeance,技能：有仇必報,True
 effects_description_hv_effect_unlock_warning_shot,技能：警告射擊,True
 effects_description_hv_effect_unlock_way_of_the_wind,技能：預測風向,True
 effects_description_hv_effect_unlock_white_horse_fellows,解除單位鎖定：{{tr:hv_unit_white_horse_fellows}},True
 effects_description_hv_effect_unlock_white_horse_fellows_remove_penalty,裝備此隨從後，須等到10回合後才能解除。之後此隨從即會消失。,True
 effects_description_hv_effect_unlock_whitewater,技能：激流湧升,True
-effects_description_hv_effect_unlock_wildfire,技能：烈火,True
+effects_description_hv_effect_unlock_wildfire,技能：野火劫匪,True
 effects_description_hv_effect_unlock_wisdom_of_the_river,技能：河之智慧,True
 effects_description_hv_effect_unlock_wisdom_of_the_waterfall,技能：飛泉之智,True
 effects_description_hv_effect_unlock_wolf,技能：惡狼,True
@@ -3388,7 +3388,7 @@ effects_description_hv_effect_unlock_zhou_the_youth,技能：美周郎,True
 effects_description_hv_effect_xian_chen_ying_charge_bonus,陷陣營衝鋒加成[[b]]%+n[[/b]],True
 effects_description_hv_effect_xian_chen_ying_damange_resistance,陷陣營傷害抵抗力[[b]]%+n%[[/b]],True
 effects_description_hv_effect_xian_chen_ying_upkeep,陷陣營維持費[[b]]%+n%[[/b]],True
-effects_description_hv_effect_yuan_armoury_captain_ability_passive,技能：密計,True
+effects_description_hv_effect_yuan_armoury_captain_ability_passive,技能：一條密計,True
 effects_description_hv_effects_skill_add_unlock_earth,解除單位鎖定：{{tr:hv_tr_earth}}單位,True
 effects_description_hv_effects_skill_add_unlock_fire,解除單位鎖定：{{tr:hv_tr_fire}}單位,True
 effects_description_hv_effects_skill_add_unlock_metal,解除單位鎖定：{{tr:hv_tr_metal}}單位,True
@@ -3408,7 +3408,7 @@ effects_description_hv_effects_unlock_historical_ability_metal_02,技能：腳�
 effects_description_hv_effects_unlock_historical_ability_metal_03,技能：自然之友,True
 effects_description_hv_effects_unlock_historical_ability_scholar_01,技能：與天合一,True
 effects_description_hv_effects_unlock_historical_ability_scholar_02,技能：堅若磐石,True
-effects_description_hv_effects_unlock_historical_ability_scholar_03,技能：揚刃,True
+effects_description_hv_effects_unlock_historical_ability_scholar_03,技能：精準打擊,True
 effects_description_hv_effects_unlock_historical_ability_veteran_01,技能：自然之友,True
 effects_description_hv_effects_unlock_historical_ability_veteran_02,技能：與地合一,True
 effects_description_hv_effects_unlock_historical_ability_veteran_03,技能：反騎兵戰術,True
@@ -4186,7 +4186,7 @@ pooled_resources_positive_factors_display_name_hv_pooled_resource_zhang_yan,提�
 projectile_shot_type_enum_onscreen_name_small_arm_whistling,速射,False
 projectile_shot_type_enum_tooltip_text_small_arm_whistling,造成傷害較低，準確率也降低，但可壓制目標。,False
 random_localisation_strings_string_resistance_fire_tooltip,火焰抗性：％d %% ||降低火焰造成的傷害數值。,True
-special_ability_phases_onscreen_hv_ability_tactical_move,戰術前進,True
+special_ability_phases_onscreen_hv_ability_tactical_move,健步,True
 special_ability_phases_onscreen_name_3k_elephant_ability_trample,踐踏,True
 special_ability_phases_onscreen_name_3k_main_ability_advance,軍令,True
 special_ability_phases_onscreen_name_3k_main_ability_avenge,逐北,True
@@ -4334,7 +4334,7 @@ special_ability_phases_onscreen_name_hv_ability_bulwark,墨守,False
 special_ability_phases_onscreen_name_hv_ability_burning,燃燒元神,True
 special_ability_phases_onscreen_name_hv_ability_calm_down,鎮靜,True
 special_ability_phases_onscreen_name_hv_ability_captain_active,號令吶喊,True
-special_ability_phases_onscreen_name_hv_ability_captain_passive,一條密計,True
+special_ability_phases_onscreen_name_hv_ability_captain_passive,密計,True
 special_ability_phases_onscreen_name_hv_ability_commanding_shout,號令吶喊,True
 special_ability_phases_onscreen_name_hv_ability_condemn,天譴之嘯,True
 special_ability_phases_onscreen_name_hv_ability_counter_strike,反擊,True
@@ -4357,7 +4357,7 @@ special_ability_phases_onscreen_name_hv_ability_double_blades_ecstasy_1,好戰,T
 special_ability_phases_onscreen_name_hv_ability_double_blades_ecstasy_2,好戰,True
 special_ability_phases_onscreen_name_hv_ability_double_blades_ecstasy_3,好戰,True
 special_ability_phases_onscreen_name_hv_ability_dragon_rising,覺醒之龍,True
-special_ability_phases_onscreen_name_hv_ability_eight_talent_defence,精通武藝,False
+special_ability_phases_onscreen_name_hv_ability_eight_talent_defence,能武,False
 special_ability_phases_onscreen_name_hv_ability_energy_of_blackmountain,黑山之能,True
 special_ability_phases_onscreen_name_hv_ability_enlightenment_1,得道,True
 special_ability_phases_onscreen_name_hv_ability_enlightenment_2,得道,True
@@ -4370,7 +4370,12 @@ special_ability_phases_onscreen_name_hv_ability_flame_breathing,吐火,True
 special_ability_phases_onscreen_name_hv_ability_flower_of_battlefield,戰場之花,True
 special_ability_phases_onscreen_name_hv_ability_foresight,縱觀全局,True
 special_ability_phases_onscreen_name_hv_ability_forest_strategy,森林戰略,True
-special_ability_phases_onscreen_name_hv_ability_frenzy,及鋒,True
+special_ability_phases_onscreen_name_hv_ability_fortification_tactics_1,堅壁自守,True
+special_ability_phases_onscreen_name_hv_ability_fortification_tactics_2,堅壁自守,True
+special_ability_phases_onscreen_name_hv_ability_fortification_tactics_3,堅壁自守,True
+special_ability_phases_onscreen_name_hv_ability_fortification_tactics_4,堅壁自守,True
+special_ability_phases_onscreen_name_hv_ability_fortification_tactics_5,堅壁自守,True
+special_ability_phases_onscreen_name_hv_ability_frenzy,狂暴,True
 special_ability_phases_onscreen_name_hv_ability_furious_charge_1,橫衝直撞,True
 special_ability_phases_onscreen_name_hv_ability_furious_charge_2,橫衝直撞,True
 special_ability_phases_onscreen_name_hv_ability_gas_bomb_inside,毒氣,True
@@ -4415,6 +4420,7 @@ special_ability_phases_onscreen_name_hv_ability_pulverize,粉碎一擊,True
 special_ability_phases_onscreen_name_hv_ability_qiang_fatigue,抖擻,True
 special_ability_phases_onscreen_name_hv_ability_rage_of_blackmountain,黑山之怒,True
 special_ability_phases_onscreen_name_hv_ability_rage_of_hooves,怒蹄,True
+special_ability_phases_onscreen_name_hv_ability_reckless_onslaught,魯莽猛攻,True
 special_ability_phases_onscreen_name_hv_ability_restore,回復,True
 special_ability_phases_onscreen_name_hv_ability_retreat_cover,掩護撤退,False
 special_ability_phases_onscreen_name_hv_ability_royal_blood,皇室貴胄,True
@@ -4430,9 +4436,14 @@ special_ability_phases_onscreen_name_hv_ability_striking_tide,刀浪澎湃,True
 special_ability_phases_onscreen_name_hv_ability_stubborn,頑固執拗,True
 special_ability_phases_onscreen_name_hv_ability_tactical_stance_defensive,防禦姿態,True
 special_ability_phases_onscreen_name_hv_ability_tactical_stance_offensive,進攻姿態,True
+special_ability_phases_onscreen_name_hv_ability_the_armies_of_the_north_melee,nan,True
+special_ability_phases_onscreen_name_hv_ability_the_armies_of_the_north_ranged,nan,True
+special_ability_phases_onscreen_name_hv_ability_the_armies_of_the_west_melee,nan,True
+special_ability_phases_onscreen_name_hv_ability_the_armies_of_the_west_ranged,nan,True
 special_ability_phases_onscreen_name_hv_ability_the_weight_on_the_shoulders,砥柱,True
 special_ability_phases_onscreen_name_hv_ability_tiger,白虎之威,True
 special_ability_phases_onscreen_name_hv_ability_tiger_skin,虎皮,True
+special_ability_phases_onscreen_name_hv_ability_transition,nan,True
 special_ability_phases_onscreen_name_hv_ability_veil_of_darkness,黑暗之幕,True
 special_ability_phases_onscreen_name_hv_ability_whitewater,激流湧升,True
 special_ability_phases_onscreen_name_hv_ability_wind_of_north,北風,True
@@ -4449,7 +4460,12 @@ special_ability_phases_onscreen_name_hv_ability_yuan_officer_passive,支持,True
 special_ability_phases_onscreen_name_hv_ability_zhou_the_youth_1,美周郎,True
 special_ability_phases_onscreen_name_hv_ability_zhou_the_youth_2,美周郎,True
 special_ability_phases_onscreen_name_hv_ability_zhou_the_youth_3,美周郎,True
+special_ability_phases_onscreen_name_hv_abillity_a_rush_of_tigers_and_leopards,nan,True
 special_ability_phases_onscreen_name_hv_abillity_danyang_tradition,不撓,True
+special_ability_phases_onscreen_name_hv_abillity_danyang_turning_tide_melee,nan,True
+special_ability_phases_onscreen_name_hv_abillity_danyang_turning_tide_ranged,nan,False
+special_ability_phases_onscreen_name_hv_abillity_dongzhou_overcoming,nan,True
+special_ability_phases_onscreen_name_hv_abillity_guanxi_confident_rush,nan,True
 special_ability_phases_onscreen_name_hv_formation_mixed_ranged_spear,混合遠程（持盾）,True
 special_ability_phases_onscreen_name_hv_formation_pike_wall_eight_talents,八才戟衛戟墻,True
 special_ability_phases_onscreen_name_hv_formation_pike_wall_white_feather,白毦兵戟墻,True
@@ -4599,7 +4615,7 @@ ui_text_replacements_localised_text_hv_unit_elite_2h_spearmen,精銳長槍兵,Tr
 ui_text_replacements_localised_text_hv_unit_elite_2h_swordsmen,精銳斬馬劍兵,True
 ui_text_replacements_localised_text_hv_unit_elite_barded_2h_spear_cavalry,精銳長槍鐵甲騎兵,True
 ui_text_replacements_localised_text_hv_unit_elite_crossbowmen,精銳弩兵,True
-ui_text_replacements_localised_text_hv_unit_elite_heavy_bow_archers,精銳重型弓兵,True
+ui_text_replacements_localised_text_hv_unit_elite_heavy_bow_archers,精銳弓兵,True
 ui_text_replacements_localised_text_hv_unit_elite_ji_infantry,精銳戟兵,True
 ui_text_replacements_localised_text_hv_unit_elite_rep_crossbowmen,精銳連弩兵,True
 ui_text_replacements_localised_text_hv_unit_elite_spearmen,精銳長槍兵,True
@@ -6012,7 +6028,7 @@ unit_abilities_onscreen_name_hv_ability_bulwark,墨守,False
 unit_abilities_onscreen_name_hv_ability_burning,燃燒元神,True
 unit_abilities_onscreen_name_hv_ability_calm_down,鎮靜,True
 unit_abilities_onscreen_name_hv_ability_captain_active,號令吶喊,True
-unit_abilities_onscreen_name_hv_ability_captain_passive,一條密計,True
+unit_abilities_onscreen_name_hv_ability_captain_passive,密計,True
 unit_abilities_onscreen_name_hv_ability_commanding_shout,號令吶喊,True
 unit_abilities_onscreen_name_hv_ability_condemn,譴責,True
 unit_abilities_onscreen_name_hv_ability_counter_strike,反擊,True
@@ -6032,7 +6048,7 @@ unit_abilities_onscreen_name_hv_ability_disorientate,打亂方向,True
 unit_abilities_onscreen_name_hv_ability_dong_command,相令,True
 unit_abilities_onscreen_name_hv_ability_double_blades_ecstasy,好戰,True
 unit_abilities_onscreen_name_hv_ability_dragon_rising,覺醒之龍,True
-unit_abilities_onscreen_name_hv_ability_eight_talent_defence,精通武藝,False
+unit_abilities_onscreen_name_hv_ability_eight_talent_defence,能武,False
 unit_abilities_onscreen_name_hv_ability_energy_of_blackmountain,黑山之能,True
 unit_abilities_onscreen_name_hv_ability_enlightenment,得道,True
 unit_abilities_onscreen_name_hv_ability_eviscerate,剔骨,True
@@ -6046,7 +6062,8 @@ unit_abilities_onscreen_name_hv_ability_flower_of_battlefield,戰場之花,True
 unit_abilities_onscreen_name_hv_ability_foresight,縱觀全局,True
 unit_abilities_onscreen_name_hv_ability_forest_strategy,森林戰略,True
 unit_abilities_onscreen_name_hv_ability_forest_strider,森林適性,True
-unit_abilities_onscreen_name_hv_ability_frenzy,及鋒,True
+unit_abilities_onscreen_name_hv_ability_fortification_tactics,堅壁自守,True
+unit_abilities_onscreen_name_hv_ability_frenzy,狂暴,True
 unit_abilities_onscreen_name_hv_ability_furious_charge,橫衝直撞,True
 unit_abilities_onscreen_name_hv_ability_gas_bomb,毒氣彈,True
 unit_abilities_onscreen_name_hv_ability_ghost_of_forest,林中之鬼,True
@@ -6088,6 +6105,7 @@ unit_abilities_onscreen_name_hv_ability_pulverize,粉碎一擊,True
 unit_abilities_onscreen_name_hv_ability_qiang_fatigue,抖擻,True
 unit_abilities_onscreen_name_hv_ability_rage_of_blackmountain,黑山之怒,True
 unit_abilities_onscreen_name_hv_ability_rage_of_hooves,怒蹄,True
+unit_abilities_onscreen_name_hv_ability_reckless_onslaught,魯莽猛攻,True
 unit_abilities_onscreen_name_hv_ability_restore,回復,True
 unit_abilities_onscreen_name_hv_ability_retreat_cover,掩護撤退,False
 unit_abilities_onscreen_name_hv_ability_royal_blood,皇室貴胄,True
@@ -6100,12 +6118,17 @@ unit_abilities_onscreen_name_hv_ability_strength_of_blackmountain,黑山之力,T
 unit_abilities_onscreen_name_hv_ability_strength_of_the_land,大地之力,True
 unit_abilities_onscreen_name_hv_ability_striking_tide,刀浪澎湃,True
 unit_abilities_onscreen_name_hv_ability_stubborn,頑固執拗,True
-unit_abilities_onscreen_name_hv_ability_tactical_move,戰術前進,True
+unit_abilities_onscreen_name_hv_ability_tactical_move,健步,True
 unit_abilities_onscreen_name_hv_ability_tactical_stance_defensive,防禦姿態,True
 unit_abilities_onscreen_name_hv_ability_tactical_stance_offensive,進攻姿態,True
+unit_abilities_onscreen_name_hv_ability_the_armies_of_the_north_melee,nan,True
+unit_abilities_onscreen_name_hv_ability_the_armies_of_the_north_ranged,nan,True
+unit_abilities_onscreen_name_hv_ability_the_armies_of_the_west_melee,nan,True
+unit_abilities_onscreen_name_hv_ability_the_armies_of_the_west_ranged,nan,True
 unit_abilities_onscreen_name_hv_ability_the_weight_on_the_shoulders,砥柱,True
 unit_abilities_onscreen_name_hv_ability_tiger,白虎之威,True
 unit_abilities_onscreen_name_hv_ability_tiger_skin,虎皮,True
+unit_abilities_onscreen_name_hv_ability_transition,nan,True
 unit_abilities_onscreen_name_hv_ability_veil_of_darkness,黑暗之幕,True
 unit_abilities_onscreen_name_hv_ability_whitewater,激流湧升,True
 unit_abilities_onscreen_name_hv_ability_wind_of_north,北風,True
@@ -6121,7 +6144,12 @@ unit_abilities_onscreen_name_hv_ability_young_blood,血氣方剛,True
 unit_abilities_onscreen_name_hv_ability_youzansen,橫掃千軍,True
 unit_abilities_onscreen_name_hv_ability_yuan_officer_passive,支持,True
 unit_abilities_onscreen_name_hv_ability_zhou_the_youth,美周郎,True
+unit_abilities_onscreen_name_hv_abillity_a_rush_of_tigers_and_leopards,nan,True
 unit_abilities_onscreen_name_hv_abillity_danyang_tradition,不撓,True
+unit_abilities_onscreen_name_hv_abillity_danyang_turning_tide_melee,nan,True
+unit_abilities_onscreen_name_hv_abillity_danyang_turning_tide_ranged,nan,False
+unit_abilities_onscreen_name_hv_abillity_dongzhou_overcoming,nan,True
+unit_abilities_onscreen_name_hv_abillity_guanxi_confident_rush,nan,True
 unit_abilities_onscreen_name_hv_formation_mixed_ranged_spear,混合遠程（持盾）,True
 unit_abilities_onscreen_name_hv_formation_pike_wall_eight_talents,八才戟衛戟墻,True
 unit_abilities_onscreen_name_hv_formation_pike_wall_white_feather,白毦兵戟墻,True
@@ -6208,7 +6236,7 @@ unit_abilities_tooltip_text_3k_main_ability_coward_b50,董旻只敢仗勢欺人�
 unit_abilities_tooltip_text_3k_main_ability_critical_strike,摧心剖肝，直中要害。,True
 unit_abilities_tooltip_text_3k_main_ability_demigod_of_war,一脈相承，不愧爲武聖之女！,True
 unit_abilities_tooltip_text_3k_main_ability_dignity_of_the_empress,如有要事稟告，務必以禮相待。,True
-unit_abilities_tooltip_text_3k_main_ability_distant_courage,這名將軍指揮若定，鼓舞盟友大顯身手…但他本人並不親赴前線。,True
+unit_abilities_tooltip_text_3k_main_ability_distant_courage,大將軍難道不應該在遠離紛爭的地方運籌帷幄？,True
 unit_abilities_tooltip_text_3k_main_ability_distrust_power,不臣之士，話裏藏刀。,True
 unit_abilities_tooltip_text_3k_main_ability_double_sword_dance,舞劍操刀於敵衆之間。,True
 unit_abilities_tooltip_text_3k_main_ability_elegant_and_cultured,熟讀兵書，精通兵法之將領可令千人有萬人之威。,True
@@ -6319,7 +6347,7 @@ unit_abilities_tooltip_text_hv_ability_disorientate,熟知戰場的人即使面�
 unit_abilities_tooltip_text_hv_ability_dong_command,來自相國嚴苛的命令。,True
 unit_abilities_tooltip_text_hv_ability_double_blades_ecstasy,黷武窮兵，趕盡殺絕。,True
 unit_abilities_tooltip_text_hv_ability_dragon_rising,羽林精銳，內衛京師，外備征戰。,True
-unit_abilities_tooltip_text_hv_ability_eight_talent_defence,他們是受過武術訓練的優秀戰士。,False
+unit_abilities_tooltip_text_hv_ability_eight_talent_defence,武術訓練能使本就優秀的戰士更加善戰。,False
 unit_abilities_tooltip_text_hv_ability_energy_of_blackmountain,黑山匪徒開始出動。,True
 unit_abilities_tooltip_text_hv_ability_enlightenment,老天保佑！,True
 unit_abilities_tooltip_text_hv_ability_eviscerate,等到敵人發現之時就已爲時已晚。,True
@@ -6333,6 +6361,7 @@ unit_abilities_tooltip_text_hv_ability_flower_of_battlefield,此處不宜美人�
 unit_abilities_tooltip_text_hv_ability_foresight,此人能明鑑古今，洞察未來。,True
 unit_abilities_tooltip_text_hv_ability_forest_strategy,樹林是他們的朋友。,True
 unit_abilities_tooltip_text_hv_ability_forest_strider,此人與林爲友。,True
+unit_abilities_tooltip_text_hv_ability_fortification_tactics,nan,True
 unit_abilities_tooltip_text_hv_ability_frenzy,及鋒而試，乘勝重擊。,True
 unit_abilities_tooltip_text_hv_ability_furious_charge,登鋒履刃，先登陷銳。,True
 unit_abilities_tooltip_text_hv_ability_gas_bomb,泰山匪徒發現某些植物燃燒時所冒的煙霧對人體有害。,True
@@ -6375,6 +6404,7 @@ unit_abilities_tooltip_text_hv_ability_pulverize,他們將粉碎阻擋他們的�
 unit_abilities_tooltip_text_hv_ability_qiang_fatigue,生龍活虎，跋山涉水猶如股掌之上。,True
 unit_abilities_tooltip_text_hv_ability_rage_of_blackmountain,黑山匪徒怒不可遏。,True
 unit_abilities_tooltip_text_hv_ability_rage_of_hooves,解決掉他們的弓手，我們到中間會合。,True
+unit_abilities_tooltip_text_hv_ability_reckless_onslaught,nan,True
 unit_abilities_tooltip_text_hv_ability_restore,從戰場上喘息片刻，為我軍療傷。,True
 unit_abilities_tooltip_text_hv_ability_retreat_cover,掩護友軍安全撤離。,False
 unit_abilities_tooltip_text_hv_ability_royal_blood,敵人並不敢傷害漢室宗親。,True
@@ -6390,9 +6420,14 @@ unit_abilities_tooltip_text_hv_ability_stubborn,軍紀嚴明，死戰不退。,T
 unit_abilities_tooltip_text_hv_ability_tactical_move,兵貴神速。,True
 unit_abilities_tooltip_text_hv_ability_tactical_stance_defensive,此單位激勵附近士卒更謹慎地戰鬥。,True
 unit_abilities_tooltip_text_hv_ability_tactical_stance_offensive,此單位激勵附近士卒更粗莽地戰鬥。,True
+unit_abilities_tooltip_text_hv_ability_the_armies_of_the_north_melee,nan,True
+unit_abilities_tooltip_text_hv_ability_the_armies_of_the_north_ranged,nan,True
+unit_abilities_tooltip_text_hv_ability_the_armies_of_the_west_melee,nan,True
+unit_abilities_tooltip_text_hv_ability_the_armies_of_the_west_ranged,nan,True
 unit_abilities_tooltip_text_hv_ability_the_weight_on_the_shoulders,遭擾攘之時，值兵革之際。,True
 unit_abilities_tooltip_text_hv_ability_tiger,勇武如猛虎，膽敢與此人對峙之人可稱之爲有萬夫不當之勇。,True
 unit_abilities_tooltip_text_hv_ability_tiger_skin,虎皮可抵禦箭矢攻擊。,True
+unit_abilities_tooltip_text_hv_ability_transition,nan,True
 unit_abilities_tooltip_text_hv_ability_veil_of_darkness,詭祕莫測，令人膽寒。,True
 unit_abilities_tooltip_text_hv_ability_whitewater,如有神助。,True
 unit_abilities_tooltip_text_hv_ability_wind_of_north,狂風大作。,True
@@ -6408,7 +6443,12 @@ unit_abilities_tooltip_text_hv_ability_young_blood,不經世故但鬥志昂揚�
 unit_abilities_tooltip_text_hv_ability_youzansen,使出一記弧形揮砍殺傷敵人,True
 unit_abilities_tooltip_text_hv_ability_yuan_officer_passive,強強聯手，鼎力相助。,True
 unit_abilities_tooltip_text_hv_ability_zhou_the_youth,「性度恢廓，實奇才也。」,True
+unit_abilities_tooltip_text_hv_abillity_a_rush_of_tigers_and_leopards,nan,True
 unit_abilities_tooltip_text_hv_abillity_danyang_tradition,百折不屈，克服萬難。,True
+unit_abilities_tooltip_text_hv_abillity_danyang_turning_tide_melee,nan,True
+unit_abilities_tooltip_text_hv_abillity_danyang_turning_tide_ranged,nan,False
+unit_abilities_tooltip_text_hv_abillity_dongzhou_overcoming,nan,True
+unit_abilities_tooltip_text_hv_abillity_guanxi_confident_rush,nan,True
 unit_abilities_tooltip_text_hv_formation_mixed_ranged_spear,單位分成在後方排成數列的遠程士兵，以及在前方保護他們的近戰士兵。,True
 unit_abilities_tooltip_text_hv_formation_pike_wall_eight_talents,單位將槍頭指向敵人組成一堵牆，這個強固的陣形可讓單位緩慢但安全的推進，同時抵禦衝鋒攻擊。,True
 unit_abilities_tooltip_text_hv_formation_pike_wall_white_feather,單位將槍頭指向敵人組成一堵牆，這個強固的陣形可讓單位緩慢但安全的推進，同時抵禦衝鋒攻擊。,True
@@ -6430,11 +6470,11 @@ unit_abilities_tooltip_text_hv_historical_ability_healer_02,以堅定的心智�
 unit_abilities_tooltip_text_hv_historical_ability_healer_03,知道同胞絕不會捨自己而去，能讓人大感安心。,True
 unit_abilities_tooltip_text_hv_historical_ability_metal_01,從一名戰士傳達到另一名戰士的戰鬥口號。,True
 unit_abilities_tooltip_text_hv_historical_ability_metal_02,此人相信，要將敵人除之而後快，就必須先追得上敵人。,True
-unit_abilities_tooltip_text_hv_historical_ability_metal_03,森林爲懂得尊重的人提供了通行路徑和更穩固的立足之地。,True
+unit_abilities_tooltip_text_hv_historical_ability_metal_03,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。,True
 unit_abilities_tooltip_text_hv_historical_ability_scholar_01,往頭上看，看到的是天空，往心裡看，看到的便是黃天。,True
 unit_abilities_tooltip_text_hv_historical_ability_scholar_02,皮若堅石，箭矢觸及皆反彈無傷。,True
 unit_abilities_tooltip_text_hv_historical_ability_scholar_03,一千發虛擲的矢石，比不上一記時機拿捏得恰到好處的精準射擊。,True
-unit_abilities_tooltip_text_hv_historical_ability_veteran_01,森林爲懂得尊重的人提供了通行路徑和更穩固的立足之地。,True
+unit_abilities_tooltip_text_hv_historical_ability_veteran_01,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。,True
 unit_abilities_tooltip_text_hv_historical_ability_veteran_02,世世代代在土地上生息能使人培養出與土地的密切情誼。,True
 unit_abilities_tooltip_text_hv_historical_ability_veteran_03,將士兵組成人墻來抵禦馬匹。此戰術簡單有效。,True
 unit_abilities_tooltip_text_hv_historical_ability_water_01,激勵人心之舉可鼓舞部隊加速行動！,True
@@ -6572,7 +6612,7 @@ unit_ability_types_localised_description_hv_ability_bulwark,墨守,False
 unit_ability_types_localised_description_hv_ability_burning,燃燒元神,True
 unit_ability_types_localised_description_hv_ability_calm_down,鎮靜,True
 unit_ability_types_localised_description_hv_ability_captain_active,號令吶喊,True
-unit_ability_types_localised_description_hv_ability_captain_passive,一條密計,True
+unit_ability_types_localised_description_hv_ability_captain_passive,密計,True
 unit_ability_types_localised_description_hv_ability_commanding_shout,號令吶喊,True
 unit_ability_types_localised_description_hv_ability_condemn,譴責,True
 unit_ability_types_localised_description_hv_ability_counter_strike,反擊,True
@@ -6592,7 +6632,7 @@ unit_ability_types_localised_description_hv_ability_disorientate,打亂方向,Tr
 unit_ability_types_localised_description_hv_ability_dong_command,相令,True
 unit_ability_types_localised_description_hv_ability_double_blades_ecstasy,好戰,True
 unit_ability_types_localised_description_hv_ability_dragon_rising,覺醒之龍,True
-unit_ability_types_localised_description_hv_ability_eight_talent_defence,精通武藝,False
+unit_ability_types_localised_description_hv_ability_eight_talent_defence,能武,False
 unit_ability_types_localised_description_hv_ability_energy_of_blackmountain,黑山之能,True
 unit_ability_types_localised_description_hv_ability_enlightenment,得道,True
 unit_ability_types_localised_description_hv_ability_eviscerate,剔骨,True
@@ -6606,7 +6646,8 @@ unit_ability_types_localised_description_hv_ability_flower_of_battlefield,戰場
 unit_ability_types_localised_description_hv_ability_foresight,縱觀全局,True
 unit_ability_types_localised_description_hv_ability_forest_strategy,森林戰略,True
 unit_ability_types_localised_description_hv_ability_forest_strider,森林適性,True
-unit_ability_types_localised_description_hv_ability_frenzy,及鋒,True
+unit_ability_types_localised_description_hv_ability_fortification_tactics,堅壁自守,True
+unit_ability_types_localised_description_hv_ability_frenzy,狂暴,True
 unit_ability_types_localised_description_hv_ability_furious_charge,橫衝直撞,True
 unit_ability_types_localised_description_hv_ability_gas_bomb,毒氣彈,True
 unit_ability_types_localised_description_hv_ability_ghost_of_forest,林中之鬼,True
@@ -6648,6 +6689,7 @@ unit_ability_types_localised_description_hv_ability_pulverize,粉碎一擊,True
 unit_ability_types_localised_description_hv_ability_qiang_fatigue,抖擻,True
 unit_ability_types_localised_description_hv_ability_rage_of_blackmountain,黑山之怒,True
 unit_ability_types_localised_description_hv_ability_rage_of_hooves,怒蹄,True
+unit_ability_types_localised_description_hv_ability_reckless_onslaught,魯莽猛攻,True
 unit_ability_types_localised_description_hv_ability_restore,回復,True
 unit_ability_types_localised_description_hv_ability_retreat_cover,掩護撤退,False
 unit_ability_types_localised_description_hv_ability_royal_blood,皇室貴胄,True
@@ -6660,12 +6702,17 @@ unit_ability_types_localised_description_hv_ability_strength_of_blackmountain,�
 unit_ability_types_localised_description_hv_ability_strength_of_the_land,大地之力,True
 unit_ability_types_localised_description_hv_ability_striking_tide,刀浪澎湃,True
 unit_ability_types_localised_description_hv_ability_stubborn,頑固執拗,True
-unit_ability_types_localised_description_hv_ability_tactical_move,戰術前進,True
+unit_ability_types_localised_description_hv_ability_tactical_move,健步,True
 unit_ability_types_localised_description_hv_ability_tactical_stance_defensive,防禦姿態,True
 unit_ability_types_localised_description_hv_ability_tactical_stance_offensive,進攻姿態,True
+unit_ability_types_localised_description_hv_ability_the_armies_of_the_north_melee,nan,True
+unit_ability_types_localised_description_hv_ability_the_armies_of_the_north_ranged,nan,True
+unit_ability_types_localised_description_hv_ability_the_armies_of_the_west_melee,nan,True
+unit_ability_types_localised_description_hv_ability_the_armies_of_the_west_ranged,nan,True
 unit_ability_types_localised_description_hv_ability_the_weight_on_the_shoulders,砥柱,True
 unit_ability_types_localised_description_hv_ability_tiger,白虎之威,True
 unit_ability_types_localised_description_hv_ability_tiger_skin,虎皮,True
+unit_ability_types_localised_description_hv_ability_transition,nan,True
 unit_ability_types_localised_description_hv_ability_veil_of_darkness,黑暗之幕,True
 unit_ability_types_localised_description_hv_ability_whitewater,激流湧升,True
 unit_ability_types_localised_description_hv_ability_wind_of_north,北風,True
@@ -6681,7 +6728,12 @@ unit_ability_types_localised_description_hv_ability_young_blood,血氣方剛,Tru
 unit_ability_types_localised_description_hv_ability_youzansen,橫掃千軍,True
 unit_ability_types_localised_description_hv_ability_yuan_officer_passive,支持,True
 unit_ability_types_localised_description_hv_ability_zhou_the_youth,美周郎,True
+unit_ability_types_localised_description_hv_abillity_a_rush_of_tigers_and_leopards,nan,True
 unit_ability_types_localised_description_hv_abillity_danyang_tradition,不撓,True
+unit_ability_types_localised_description_hv_abillity_danyang_turning_tide_melee,nan,True
+unit_ability_types_localised_description_hv_abillity_danyang_turning_tide_ranged,nan,False
+unit_ability_types_localised_description_hv_abillity_dongzhou_overcoming,nan,True
+unit_ability_types_localised_description_hv_abillity_guanxi_confident_rush,nan,True
 unit_ability_types_localised_description_hv_formation_mixed_ranged_spear,混合遠程（持盾）,True
 unit_ability_types_localised_description_hv_formation_pike_wall_eight_talents,八才戟衛戟墻,True
 unit_ability_types_localised_description_hv_formation_pike_wall_white_feather,白毦兵戟墻,True
@@ -6942,7 +6994,7 @@ unit_ability_types_onscreen_name_hv_ability_captain_active,我方主動增益,Tr
 unit_ability_types_onscreen_name_hv_ability_captain_passive,自身被動增益,True
 unit_ability_types_onscreen_name_hv_ability_commanding_shout,我方主動增益,True
 unit_ability_types_onscreen_name_hv_ability_condemn,近戰攻擊,True
-unit_ability_types_onscreen_name_hv_ability_counter_strike,自身主動增益,True
+unit_ability_types_onscreen_name_hv_ability_counter_strike,自身被動增益,True
 unit_ability_types_onscreen_name_hv_ability_crash,近戰攻擊,True
 unit_ability_types_onscreen_name_hv_ability_crossing_of_the_styx,近戰攻擊,True
 unit_ability_types_onscreen_name_hv_ability_cruel_lord,我方主動增益,True
@@ -6973,6 +7025,7 @@ unit_ability_types_onscreen_name_hv_ability_flower_of_battlefield,敵方被動�
 unit_ability_types_onscreen_name_hv_ability_foresight,自身被動增益,True
 unit_ability_types_onscreen_name_hv_ability_forest_strategy,自身被動增益,True
 unit_ability_types_onscreen_name_hv_ability_forest_strider,自身被動增益,True
+unit_ability_types_onscreen_name_hv_ability_fortification_tactics,自身被動增益,True
 unit_ability_types_onscreen_name_hv_ability_frenzy,自身被動增益,True
 unit_ability_types_onscreen_name_hv_ability_furious_charge,自身被動增益,True
 unit_ability_types_onscreen_name_hv_ability_gas_bomb,遠程攻擊,True
@@ -7015,6 +7068,7 @@ unit_ability_types_onscreen_name_hv_ability_pulverize,自身主動增益,True
 unit_ability_types_onscreen_name_hv_ability_qiang_fatigue,自身被動增益,True
 unit_ability_types_onscreen_name_hv_ability_rage_of_blackmountain,自身被動增益,True
 unit_ability_types_onscreen_name_hv_ability_rage_of_hooves,自身被動增益,True
+unit_ability_types_onscreen_name_hv_ability_reckless_onslaught,自身主動增益,True
 unit_ability_types_onscreen_name_hv_ability_restore,我方被動增益,True
 unit_ability_types_onscreen_name_hv_ability_retreat_cover,我方被動增益,False
 unit_ability_types_onscreen_name_hv_ability_royal_blood,敵方被動減益,True
@@ -7030,9 +7084,14 @@ unit_ability_types_onscreen_name_hv_ability_stubborn,自身被動增益,True
 unit_ability_types_onscreen_name_hv_ability_tactical_move,自身主動增益,True
 unit_ability_types_onscreen_name_hv_ability_tactical_stance_defensive,我方主動增益,True
 unit_ability_types_onscreen_name_hv_ability_tactical_stance_offensive,我方主動增益,True
+unit_ability_types_onscreen_name_hv_ability_the_armies_of_the_north_melee,自身被動增益,True
+unit_ability_types_onscreen_name_hv_ability_the_armies_of_the_north_ranged,自身被動增益,True
+unit_ability_types_onscreen_name_hv_ability_the_armies_of_the_west_melee,自身被動增益,True
+unit_ability_types_onscreen_name_hv_ability_the_armies_of_the_west_ranged,自身被動增益,True
 unit_ability_types_onscreen_name_hv_ability_the_weight_on_the_shoulders,我方被動增益,True
 unit_ability_types_onscreen_name_hv_ability_tiger,敵方被動減益,True
 unit_ability_types_onscreen_name_hv_ability_tiger_skin,自身被動增益,True
+unit_ability_types_onscreen_name_hv_ability_transition,自身主動增益,True
 unit_ability_types_onscreen_name_hv_ability_veil_of_darkness,敵方主動減益,True
 unit_ability_types_onscreen_name_hv_ability_whitewater,我方被動增益,True
 unit_ability_types_onscreen_name_hv_ability_wind_of_north,自身主動增益（自動）,True
@@ -7048,7 +7107,12 @@ unit_ability_types_onscreen_name_hv_ability_young_blood,自身被動增益,True
 unit_ability_types_onscreen_name_hv_ability_youzansen,近戰攻擊（自動）,True
 unit_ability_types_onscreen_name_hv_ability_yuan_officer_passive,自身被動增益,True
 unit_ability_types_onscreen_name_hv_ability_zhou_the_youth,自身被動增益,True
+unit_ability_types_onscreen_name_hv_abillity_a_rush_of_tigers_and_leopards,我方主動增益（自動）,True
 unit_ability_types_onscreen_name_hv_abillity_danyang_tradition,自身被動增益,True
+unit_ability_types_onscreen_name_hv_abillity_danyang_turning_tide_melee,自身被動增益,True
+unit_ability_types_onscreen_name_hv_abillity_danyang_turning_tide_ranged,自身被動增益,False
+unit_ability_types_onscreen_name_hv_abillity_dongzhou_overcoming,自身主動增益,True
+unit_ability_types_onscreen_name_hv_abillity_guanxi_confident_rush,自身主動增益,True
 unit_ability_types_onscreen_name_hv_formation_mixed_ranged_spear,定點步兵陣形,True
 unit_ability_types_onscreen_name_hv_formation_pike_wall_eight_talents,定點步兵陣形,True
 unit_ability_types_onscreen_name_hv_formation_pike_wall_white_feather,定點步兵陣形,True
@@ -7169,6 +7233,7 @@ unit_description_historical_texts_text_hv_unit_imperial_guards,未完成\\n\\n�
 unit_description_historical_texts_text_hv_unit_iron_fists_of_the_bandit_queen,鄭姜親自挑選最兇悍的盜賊組成她的「盜賊女王拳勇團」。他們擔任突襲隊，在戰鬥開始時悄悄繞到敵方戰線後方進行突襲。 \\n\\n 拳勇團個個雙手持斧，能將敵人砍成重傷。要令敵人驚懼，自己需先無畏，不過這也代表一旦戰至鬥志沸騰，他們將無視紀律，難以控制。,True
 unit_description_historical_texts_text_hv_unit_jade_dragons,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_jei_fan_infantry,"Treat your men as you would your own beloved sons. And they will follow you into the deepest valley. \\n\\n Serving the heirs of Sun Tzu, these men would willingly follow them into heirs and certain death. Armed with a light glaive and medium armor, these men can hold their own in a variety of situations, facing down cavalry or infantry with equal skill. Their versatility has caused them to be fondly called “problem solvers” by their commanders and are given great respect, which they repay with loyalty.",True
+unit_description_historical_texts_text_hv_unit_ji_guards_of_the_eight_talents,"The Ji Guards of the Eight Talents stand as paragons of martial prowess within Liu Bao's domain, wielding the Ji with unmatched skill. Selected for their loyalty and combat mastery, these guards are tasked with the defense of Jing province, utilizing their polearms to form an impregnable line against any who dare challenge their lord's authority. Their training emphasizes not just the art of the Ji but the values of courage and fidelity, making them a formidable force on the battlefield.",True
 unit_description_historical_texts_text_hv_unit_jianan_archers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_jianan_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_jianan_crossbowmen_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
@@ -7229,6 +7294,7 @@ unit_description_historical_texts_text_hv_unit_sogd_warriors,未完成\\n\\n（�
 unit_description_historical_texts_text_hv_unit_spice_guard,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_stray_artisans,"Having fled from their homes, these craftsmen and artisans turn their skills to the defence of their new home and master. \\n\\n Having been selected as the brightest from the many refugees flooding his lands, these engineers serve Tao Qian to the best of their ability. Wielding crossbows, they provide support from afar and will deploy smoke bombs and caltrops when an enemy strays too close. However, these men are not proper soldiers and should not be relied upon to hold the line in melee.",True
 unit_description_historical_texts_text_hv_unit_swallow_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
+unit_description_historical_texts_text_hv_unit_sword_guards_of_the_eight_talents,"The Sword Guards of the Eight Talents are the embodiment of elite swordsmanship, sworn to defend Liu Bao and the honor of Jing province. Handpicked for their exceptional skills and unwavering loyalty, these soldiers wield their swords with a precision and grace that belie their lethal efficiency. In the heat of battle, they are unflappable, their blades cutting through enemy ranks with ease, safeguarding their homeland and its ideals with every stroke.",True
 unit_description_historical_texts_text_hv_unit_taishan_phantoms,"The bandit queen's forces are bolstered by the presence of these so-called ""phantoms"". Hailing from Taishan, these warriors have already gathered an ominous reputation for the poison bombs they carry with them. If the wind is right, these bombs will cause entire regiments to choke without even comitting to battle. They are furthermore armed with a light sword and cloth armor, so they should not be relied on to hold the line in melee.",True
 unit_description_historical_texts_text_hv_unit_taishan_poison_wind,"Hailing from Taishan, these women have coated their arrow points in a special ointment, made from poisonous herbs native to the region. In battle, A volley from these archers will soon leave the enemy gasping for air as the poison very quickly spreads through their veins. A wise commander will use these soldiers to spread terror through the enemy ranks, yet keep them well-protected: they are vulnerable to cavalry, as their range is limited.",True
 unit_description_historical_texts_text_hv_unit_tiger_and_leopard_barded_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
@@ -7343,6 +7409,7 @@ unit_description_short_texts_text_hv_unit_imperial_guards,未完成,True
 unit_description_short_texts_text_hv_unit_iron_fists_of_the_bandit_queen,這些身經百戰的精銳盜賊兩手各持一斧，率先出陣，攻敵不備。,True
 unit_description_short_texts_text_hv_unit_jade_dragons,未完成,True
 unit_description_short_texts_text_hv_unit_jei_fan_infantry,這些多能的步兵幾乎可以解决吳軍將領可能面臨的任何問題。,True
+unit_description_short_texts_text_hv_unit_ji_guards_of_the_eight_talents,"Excellent Ji wielders, these soldiers are loyal to Liu Bao to protect the honor of Jing province.",True
 unit_description_short_texts_text_hv_unit_jianan_archers,未完成,True
 unit_description_short_texts_text_hv_unit_jianan_crossbowmen,未完成,True
 unit_description_short_texts_text_hv_unit_jianan_crossbowmen_cavalry,未完成,True
@@ -7403,6 +7470,7 @@ unit_description_short_texts_text_hv_unit_sogd_warriors,未完成,True
 unit_description_short_texts_text_hv_unit_spice_guard,未完成,True
 unit_description_short_texts_text_hv_unit_stray_artisans,智慧以及巧藝能使最普通的民兵成爲令人生畏的殺手。,True
 unit_description_short_texts_text_hv_unit_swallow_cavalry,未完成,True
+unit_description_short_texts_text_hv_unit_sword_guards_of_the_eight_talents,"Liu Bao's elite swordsmen, embodying Jing province's martial spirit with unmatched blade mastery.",True
 unit_description_short_texts_text_hv_unit_taishan_phantoms,神出鬼沒於晨霧中，如黑影一般獵殺其獵物，令人窒息。,True
 unit_description_short_texts_text_hv_unit_taishan_poison_wind,箭上塗抹的劇毒能使死神在戰後依然找上門來。,True
 unit_description_short_texts_text_hv_unit_tiger_and_leopard_barded_cavalry,未完成,True

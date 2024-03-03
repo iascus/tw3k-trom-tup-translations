@@ -128,7 +128,7 @@ class VanillaEng(InputCsvFile):
 
 class TromEng(InputTsvFiles):
     step_no = 4
-    dir_path = 'Trom3.9e'
+    dir_path = 'Trom4.0'
 
 
 class MtuZhcn(InputTsvFiles):
@@ -475,8 +475,42 @@ class RegenLookupByText(Step):
         return new_lookup
 
 
-class MissingZhcn(Step):
+class RegenLookupBySkill(Step):
     step_no = 52
+
+    dependencies = {
+        'map_by_key_zhcn': MapByKeyZhcn,
+        'map_by_key_zhtw': MapByKeyZhtw,
+    }
+
+    def _run(self):
+        keys = self.map_by_key_zhcn.data[['Key']]
+
+        dfs = []
+        for prefix in ['character_skills_localised_description_', 'character_skills_localised_name_',
+                       'unit_abilities_onscreen_name_', 'unit_abilities_tooltip_text_',
+                       'unit_ability_types_localised_description_', 'special_ability_phases_onscreen_name_']:
+            skills = keys.loc[keys['Key'].str.startswith(prefix), ['Key']]
+            skills['Skill'] = skills['Key'].str.replace(prefix, '')
+            dfs.append(skills)
+        skills = pd.concat(dfs)
+        new_lookup = pd.concat([
+            zh.set_index('Key').loc[skills['Key'], [from_col]].rename({from_col: to_col,}, axis=1)
+            for zh, from_col, to_col in [
+                (self.map_by_key_zhcn.data, 'Text', 'zh-cn'),
+                (self.map_by_key_zhtw.data, 'Text', 'zh-tw'),
+                (self.map_by_key_zhtw.data, 'English', 'eng'),
+                (self.map_by_key_zhtw.data, 'File', 'File'),
+                (skills, 'Skill', 'Skill'),
+            ]
+        ], axis=1)
+        new_lookup = new_lookup.loc[new_lookup['eng'] != ''].sort_values(['File', 'Skill']).drop_duplicates(subset=['eng'])
+        new_lookup = new_lookup.reset_index()[['Skill', 'eng', 'zh-cn', 'zh-tw', 'Key', 'File']]
+        return new_lookup
+
+
+class MissingZhcn(Step):
+    step_no = 53
 
     dependencies = {
         'map_by_key_zh': MapByKeyZhcn,
@@ -495,7 +529,7 @@ class MissingZhcn(Step):
 
 
 class MissingZhtw(MissingZhcn):
-    step_no = 53
+    step_no = 54
 
     dependencies = {
         'map_by_key_zh': MapByKeyZhtw,
@@ -503,7 +537,7 @@ class MissingZhtw(MissingZhcn):
 
 
 class Comparison(Step):
-    step_no = 54
+    step_no = 55
 
     dependencies = {
         'trom_eng': TromEng,
@@ -596,6 +630,7 @@ def main():
             FinalZhcn,
             FinalZhtw,
             RegenLookupByText,
+            RegenLookupBySkill,
             MissingZhcn,
             MissingZhtw,
             Comparison,

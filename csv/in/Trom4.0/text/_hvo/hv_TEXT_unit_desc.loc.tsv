@@ -101,7 +101,7 @@ unit_description_short_texts_text_hv_unit_porcupine_crossbowmen	These are the cr
 unit_description_short_texts_text_hv_unit_jianan_hand_ji_infantry	work in process	true
 unit_description_short_texts_text_hv_unit_jianan_archers	work in process	true
 unit_description_short_texts_text_hv_unit_stray_artisans	Ingenuity and craftsmanship can turn even a lowly militiaman into a daunting foe.	true
-unit_description_short_texts_text_hv_unit_fellows_of_the_oath	work in process	true
+unit_description_short_texts_text_hv_unit_fellows_of_the_oath	Liu Bei's loyal unit, the Oath Fellows wield glaives and share a strong bond, excelling in both offense and defense as they grow with their lord.	true
 unit_description_short_texts_text_hv_unit_handmaid_guard	work in process	true
 unit_description_short_texts_text_hv_unit_xian_chen_ying	To break these warriors is the challenge of many an army. So far, very few have succeeded.	true
 unit_description_short_texts_text_hv_unit_han_volunteer_spearmen	work in process	true
@@ -134,11 +134,11 @@ unit_description_short_texts_text_hv_unit_sogd_warriors	work in process	true
 unit_description_short_texts_text_hv_unit_sogd_barded_cavalry	work in process	true
 unit_description_short_texts_text_hv_unit_shanyue_warriors	work in process	true
 unit_description_short_texts_text_hv_unit_shanyue_remnants	work in process	true
-unit_description_short_texts_text_hv_unit_local_noble_buqu_infantry	work in process	true
-unit_description_short_texts_text_hv_unit_local_noble_buqu_archers	work in process	true
-unit_description_short_texts_text_hv_unit_local_noble_buqu_spearmen	work in process	true
+unit_description_short_texts_text_hv_unit_local_noble_buqu_infantry	House Servant Axemen provide cost-effective defense for noble estates, leveraging simple axes for territorial control.	true
+unit_description_short_texts_text_hv_unit_local_noble_buqu_archers	House Servant Archers are key to efficient estate defense, using bows to effectively hold and secure territory.	true
+unit_description_short_texts_text_hv_unit_local_noble_buqu_spearmen	House Servant Long Spearmen excel in line defense and anti-cavalry roles, wielding two-handed spears to maintain order on the battlefield.	true
 unit_description_short_texts_text_hv_unit_local_noble_buqu_raider_cavalry	work in process	true
-unit_description_short_texts_text_hv_unit_local_noble_elite_archers	work in process	true
+unit_description_short_texts_text_hv_unit_local_noble_elite_archers	Local Noble Archers, adept from tradition, provide valuable, cost-efficient archery support in local skirmishes.	true
 unit_description_short_texts_text_hv_unit_trebuchet	work in process	true
 unit_description_short_texts_text_hv_unit_multiple_bolt_crossbow	work in process	true
 unit_description_short_texts_text_hv_unit_han_captain	work in process	true
@@ -157,7 +157,7 @@ unit_description_short_texts_text_hv_unit_xiongnu_javelineer	work in process	tru
 unit_description_short_texts_text_hv_unit_shanyue_javelineer	work in process	true
 unit_description_short_texts_text_hv_unit_bomb_thrower	work in process	true
 unit_description_short_texts_text_hv_unit_spice_guard	work in process	true
-unit_description_short_texts_text_hv_unit_warrior_monks	work in process	true
+unit_description_short_texts_text_hv_unit_warrior_monks	Monk Warriors are durable defensive units trained by Shi Xie, wielding staffs and inspired by Buddhist principles. Their resilience allows them to withstand enemy blows effectively.	true
 unit_description_short_texts_text_hv_unit_white_tiger_warriors	work in process	true
 unit_description_short_texts_text_hv_unit_mercenary_cavalry	work in process	true
 unit_description_short_texts_text_hv_unit_mercenary_infantry	work in process	true
@@ -168,7 +168,7 @@ unit_description_short_texts_text_hv_unit_rapid_tigers	work in process	true
 unit_description_short_texts_text_hv_unit_hebei_spearmen	work in process	true
 unit_description_short_texts_text_hv_unit_hebei_sword_cavalry	work in process	true
 unit_description_short_texts_text_hv_unit_xianbei_archer_cavalry	work in process	true
-unit_description_short_texts_text_hv_unit_militia_2h_axemen	work in process	true
+unit_description_short_texts_text_hv_unit_militia_2h_axemen	Militia armed with two-handed axes; a formidable but unskilled force capable of delivering powerful strikes.	true
 unit_description_short_texts_text_hv_unit_hidden_2h_spearmen	work in process	true
 unit_description_short_texts_text_hv_unit_nanman_axe_defectors	work in process	true
 unit_description_short_texts_text_hv_unit_nanman_spear_defectors	work in process	true
@@ -182,3 +182,5 @@ unit_description_short_texts_text_hv_unit_bandits_heroic_outlaws	work in process
 unit_description_short_texts_text_hv_unit_bandits_drifting_warmongers	work in process	true
 unit_description_short_texts_text_hv_unit_bandits_children_of_the_forest	work in process	true
 unit_description_short_texts_text_hv_unit_imperial_guards	work in process	true
+unit_description_short_texts_text_hv_unit_sword_guards_of_the_eight_talents	Liu Bao's elite swordsmen, embodying Jing province's martial spirit with unmatched blade mastery.	true
+unit_description_short_texts_text_hv_unit_ji_guards_of_the_eight_talents	Excellent Ji wielders, these soldiers are loyal to Liu Bao to protect the honor of Jing province.	true
