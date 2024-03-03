@@ -67,11 +67,14 @@ hv_TEXT_cb_loadout.loc.tsv,DEBUG GUY,伯长,校尉
 hv_TEXT_cb_loadout.loc.tsv,The Yellow Warlord,黄巾军将领,黃巾軍將領
 hv_TEXT_cb_loadout.loc.tsv,Tiger of Jiangdong,江东之虎,江東之虎
 hv_TEXT_ceo_career.loc.tsv,Bandit Slayer,荡寇将军,蕩寇將軍
+hv_TEXT_ceo_career.loc.tsv,Devoted Mother,躬亲主母,躬親主母
 hv_TEXT_ceo_career.loc.tsv,Guo Si's Armour,郭汜的护甲,郭汜的護甲
 hv_TEXT_ceo_career.loc.tsv,He was also a bandit once.,「钦折节好学，以公灭私。」,「欽折節好學，以公滅私。」
 hv_TEXT_ceo_career.loc.tsv,He was loved by everyone.,饱读诗书，人见人爱。,飽讀詩書，人見人愛。
-hv_TEXT_ceo_career.loc.tsv,Man For All Seasons,,
+hv_TEXT_ceo_career.loc.tsv,Man For All Seasons,日月精忠,日月精忠
 hv_TEXT_ceo_career.loc.tsv,Scion,袁术之子,袁術之子
+hv_TEXT_ceo_career.loc.tsv,The Lady of Jingzhou,荆州夫人,荊州夫人
+hv_TEXT_ceo_career.loc.tsv,The house of Cai is the most famous noble family in Jingzhou. Lady Cai is willing to use the power.,蔡氏乃是荆州名门望族。蔡夫人亦甚有权势。,蔡氏乃是荊州名門望族。蔡夫人亦甚有權勢。
 hv_TEXT_ceo_weapon.loc.tsv,A mysterious sword from the West. ,西域而来的神秘宝剑。,西域而來的神秘寶劍。
 hv_TEXT_ceo_weapon.loc.tsv,Khanda,坎达直剑,坎達直劍
 hv_TEXT_effect_faction.loc.tsv,Congestion,过剩,過剩
@@ -114,7 +117,7 @@ hv_TEXT_effects_events.loc.tsv,Training White Tigers,训练白虎,訓練白虎
 hv_TEXT_effects_events.loc.tsv,Unlocks unit for Yan Baihu: {{tr:hv_unit_white_tiger_warriors}},为严白虎解锁部队：{{tr:hv_unit_white_tiger_warriors}},為嚴白虎解鎖單位：{{tr:hv_unit_white_tiger_warriors}}
 hv_TEXT_effects_pooled_resource.loc.tsv,%-n black mountain decay,黑山衰退%-n,黑山衰退%-n
 hv_TEXT_effects_pooled_resource.loc.tsv,%-n horse breeding decay,养马衰退%-n,養馬衰退%-n
-hv_TEXT_effects_pooled_resource.loc.tsv,%-n resurrection decay,复苏衰退%-n,復甦衰退%-n
+hv_TEXT_effects_pooled_resource.loc.tsv,%-n resurrection decay,复起衰退%-n,復起衰退%-n
 hv_TEXT_effects_pooled_resource.loc.tsv,%-n stratocracy decay,军政衰退%-n,軍政衰退%-n
 hv_TEXT_effects_pooled_resource.loc.tsv,A new regime is coming into power.,新政权开始建立。,新政權開始建立。
 hv_TEXT_effects_pooled_resource.loc.tsv,A second wind has come.,焚风再起，野火重来,梵風再起，野火重來。
@@ -132,12 +135,12 @@ hv_TEXT_effects_pooled_resource.loc.tsv,Horse Breeding: Sufficient,养马：有�
 hv_TEXT_effects_pooled_resource.loc.tsv,It will be different this time. Obviously...,苍天已死，黄天再立！,蒼天已死，黃天再立！
 hv_TEXT_effects_pooled_resource.loc.tsv,It's getting harder to find anyone who isn't a Black Mountain bandit.,四海之内，莫非黑山。,四海之内，莫非黑山。
 hv_TEXT_effects_pooled_resource.loc.tsv,Ready to colour the world once again.,野火燎原，不可向迩。,野火燎原，不可向邇。
-hv_TEXT_effects_pooled_resource.loc.tsv,Resurrection: Ash,复苏：灰烬,復甦：灰燼
-hv_TEXT_effects_pooled_resource.loc.tsv,Resurrection: Ember,复苏：余焰,復甦：余焰
-hv_TEXT_effects_pooled_resource.loc.tsv,Resurrection: Great Fire,复苏：烈火,復甦：烈火
-hv_TEXT_effects_pooled_resource.loc.tsv,Resurrection: Great Fire (Complelete),复苏：烈火（已完成）,復甦：烈火（已完成）
-hv_TEXT_effects_pooled_resource.loc.tsv,Resurrection: Reignite,复苏：复燃,復甦：復燃
-hv_TEXT_effects_pooled_resource.loc.tsv,Resurrection: Wild Fire,复苏：野火,復甦：野火
+hv_TEXT_effects_pooled_resource.loc.tsv,Resurrection: Ash,复起：灰烬,復起：灰燼
+hv_TEXT_effects_pooled_resource.loc.tsv,Resurrection: Ember,复起：余焰,復起：余焰
+hv_TEXT_effects_pooled_resource.loc.tsv,Resurrection: Great Fire,复起：烈火,復起：烈火
+hv_TEXT_effects_pooled_resource.loc.tsv,Resurrection: Great Fire (Complelete),复起：烈火（已完成）,復起：烈火（已完成）
+hv_TEXT_effects_pooled_resource.loc.tsv,Resurrection: Reignite,复起：复燃,復起：復燃
+hv_TEXT_effects_pooled_resource.loc.tsv,Resurrection: Wild Fire,复起：野火,復起：野火
 hv_TEXT_effects_pooled_resource.loc.tsv,Small but clear.,小火虽微，而不可轻。,小火雖微，而不可輕。
 hv_TEXT_effects_pooled_resource.loc.tsv,Stratocracy: Empowered,军政：全权在握,軍政：全權在握
 hv_TEXT_effects_pooled_resource.loc.tsv,Stratocracy: Great,军政：卓有成效,軍政：卓有成效
@@ -278,7 +281,7 @@ hv_TEXT_events.loc.tsv,You have acquired a tally that grants its bearer the auth
 hv_TEXT_events.loc.tsv,You have acquired a tally that grants its bearer the authority to command Jingchu troops.,你获得一张可指挥荆楚部队的兵符。,您獲得一張可指揮荊楚部隊的兵符。
 hv_TEXT_events.loc.tsv,You hire a Sogdian mercenary group.,你雇佣了一队粟特佣兵。,您雇傭了一隊粟特傭兵。
 hv_TEXT_events.loc.tsv,"You may now recruit {{tr:hv_unit_qingzhou_hand_ji_infantry}}, {{tr:hv_unit_qingzhou_2h_axe_infantry}}, {{tr:hv_unit_qingzhou_raider_cavalry}}.",你现在可以招募：{{tr:hv_unit_qingzhou_hand_ji_infantry}}，{{tr:hv_unit_qingzhou_2h_axe_infantry}}，{{tr:hv_unit_qingzhou_raider_cavalry}}。,您現在可以招募：{{tr:hv_unit_qingzhou_hand_ji_infantry}}，{{tr:hv_unit_qingzhou_2h_axe_infantry}}，{{tr:hv_unit_qingzhou_raider_cavalry}}。
-hv_TEXT_events.loc.tsv,"Your messengers report a remarkable story. A trader spotted a Han woman living amongst the Xiongnu and identified her as Cai Yan, the daughter of the grand scholar Cai Yong. It seems she was forced to marry a chieftain of the Xiongnu. Perhaps someone could convince this chieftain to free Cai Yan. One of your scouts has already left to investigate...",,
+hv_TEXT_events.loc.tsv,"Your messengers report a remarkable story. A trader spotted a Han woman living amongst the Xiongnu and identified her as Cai Yan, the daughter of the grand scholar Cai Yong. It seems she was forced to marry a chieftain of the Xiongnu. Perhaps someone could convince this chieftain to free Cai Yan. One of your scouts has already left to investigate...",信使来报，有商贩在匈奴营中发现一位中土女眷，正是名士蔡邕之女蔡琰，已沦为匈奴左贤王女奴。匈奴王或许愿意放了蔡琰，你的一个探子已经前去调查……,信使來報，有商販在匈奴營中發現一位中土女眷，正是名士蔡邕之女蔡琰，已沦为匈奴左賢王女奴。匈奴王或許願意放了蔡琰，你的一個探子已經前去調查……
 hv_TEXT_events.loc.tsv,Yuan Rong Crossbow,元戎弩,元戎弩
 hv_TEXT_events.loc.tsv,Yuan Shu's army follows your faction.,袁术之兵将追随于你。,袁術之兵將追隨於您。
 hv_TEXT_events.loc.tsv,Zhuge Liang has brilliantly engineered a new weapon. It is a crossbow that fires several bolts simultaneously to overwhelm the enemy.,诸葛亮精心设计出一种新武器。这是一种能够同时射出多枚箭矢的弩弓，可以压制敌人。,諸葛亮精心設計出一種新武器。這是一種能夠同時射出多枚箭矢的弩弓，可以壓制敵人。
@@ -291,9 +294,9 @@ hv_TEXT_frontend_features.loc.tsv,Horse Breeding / Foraging & Supplies,养马 / 
 hv_TEXT_frontend_features.loc.tsv,Stratocracy / Military Government,军政/军事政府,軍政 / 軍事政府
 hv_TEXT_frontend_features.loc.tsv,"The finer your horses, the more powerful your cavalry will be. ",有良马才能有精骑。,有良馬才能有精騎。
 hv_TEXT_frontend_features.loc.tsv,Yan Baihu can recruit generic [[b]]Han units[[/b]] with Bandit Network.,严白虎可通过匪盗网招募普通[[b]]汉兵种部队[[/b]]。,嚴白虎可通過盜賊人脈招募普通 [[b]]漢軍單位[[/b]]。
-hv_TEXT_frontend_features.loc.tsv,"[[b]]Chen Deng[[/b]]\\nMan For All Seasons\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]Sometimes, just sometimes, power fails to corrupt, and instead leads to altruism and charity.[[/col]][[/i]]",,
+hv_TEXT_frontend_features.loc.tsv,"[[b]]Chen Deng[[/b]]\\nMan For All Seasons\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]Sometimes, just sometimes, power fails to corrupt, and instead leads to altruism and charity.[[/col]][[/i]]",[[b]]陈登[[/b]]\\n日月精忠\\n\\n将领类型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]时有奇士，得权不为腐化，反而致力仁政。[[/col]][[/i]],[[b]]陳登[[/b]]\\n日月精忠\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]時有奇士，得權不為腐化，反而致力仁政。[[/col]][[/i]]
 hv_TEXT_frontend_features.loc.tsv,"[[b]]Guerilla Warfare[[/b]]\\n[[col:scope_description]]Military building chain[[/col]]\\n\\n[[col:green]]+[[/col]] Post-battle loot income\\n[[col:green]]+[[/col]] Military supplies\\n[[col:green]]+[[/col]] Replenishment in foreign land\\n\\n[[col:flavour]][[i]]When fighting a greater opponent, remain flexible and use cunning and surprise.[[/col]][[/i]]",[[b]]游击序列[[/b]]\\n[[col:scope_description]]军事建筑序列[[/col]]\\n\\n[[col:green]]增加[[/col]]战后掳掠收入 \\n[[col:green]]增加[[/col]]军事补给\\n\\n[[col:flavour]]在外邦领土时部队补员\\n\\n[[col:flavour]][[i]]弱敌尚需谋略，强敌更得出奇制胜[[/col]][[/i]],[[b]]游擊戰[[/b]]\\n[[col:scope_description]]軍事建築系列[[/col]]\\n\\n[[col:green]]+[[/col]] 戰鬥後擄掠收入\\n[[col:green]]+[[/col]] 軍事物資補給\\n\\n[[col:flavour]]於外邦領土時的補員速率\\n\\n[[col:flavour]][[i]]敵強我弱時，務必保持靈活，利用計謀與奇襲致勝。[[/col]][[/i]]
-hv_TEXT_frontend_features.loc.tsv,[[b]]Lady Cai[[/b]]\\nThe Lady of Jingzhou\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]The house of Cai is the most famous noble family in Jingzhou. Lady Cai is willing to use the power.[[/col]][[/i]],,
+hv_TEXT_frontend_features.loc.tsv,[[b]]Lady Cai[[/b]]\\nThe Lady of Jingzhou\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]The house of Cai is the most famous noble family in Jingzhou. Lady Cai is willing to use the power.[[/col]][[/i]],[[b]]蔡氏[[/b]]\\n荆州夫人\\n\\n将领类型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]蔡氏乃是荆州名门望族。蔡夫人亦甚有权势。[[/col]][[/i]],[[b]]蔡氏[[/b]]\\n荊州夫人\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]蔡氏乃是荊州名門望族。蔡夫人亦甚有權勢。[[/col]][[/i]]
 hv_TEXT_frontend_features.loc.tsv,[[b]]Loyalty to the Han[[/b]]\\n[[col:scope_description]]Path to victory[[/col]]\\n\\n[[col:red]]Requires high prestige for creating an emperor seat[[/col]]\\nCan gain prestige with imperial favours\\n\\n[[col:flavour]][[i]]Ambition is tamed by respect and loyalty towards the Han and its emperors.[[/col]][[/i]],[[b]]忠于汉室[[/b]]\\n[[col:scope_description]]制胜之道[[/col]]\\n\\n[[col:red]]需要高威望来称帝[[/col]]\\n如获天子宠信则可获得威望\\n\\n[[col:flavour]][[i]]尽忠职守，效忠汉帝，不敢心怀异志[[/col]][[/i]],[[b]]忠於漢室[[/b]]\\n[[col:scope_description]]求勝之道[[/col]]\\n\\n[[col:red]]需要高威望來稱帝[[/col]]\\n如獲皇帝寵信則可獲得威望\\n\\n[[col:flavour]][[i]]對漢室和皇帝的尊重和忠誠，馴服了野心。[[/col]][[/i]]
 hv_TEXT_frontend_features.loc.tsv,• Can improve unique units,• 可以改善独特部队,• 可以改善獨特單位
 hv_TEXT_frontend_features.loc.tsv,• Can recruit generic Han units,• 可以招募大汉部队,• 可以招募大漢單位
@@ -306,7 +309,7 @@ hv_TEXT_pooled_resource.loc.tsv,Black Mountain,黑山,黑山
 hv_TEXT_pooled_resource.loc.tsv,Black Mountain bandits exploit the chaos to bolster their numbers.,黑山贼乘乱以增其之数。,黑山贼乘乱以增其之数。
 hv_TEXT_pooled_resource.loc.tsv,Ferghana horses are bred to equip cavalry forces.,养育大宛马来装备骑兵部队。,養育大宛馬來裝備騎兵部隊。
 hv_TEXT_pooled_resource.loc.tsv,Horse Breeding,养马,養馬
-hv_TEXT_pooled_resource.loc.tsv,Resurrection,复苏,復甦
+hv_TEXT_pooled_resource.loc.tsv,Resurrection,复起,復起
 hv_TEXT_pooled_resource.loc.tsv,Sell Horses,卖马,賣馬
 hv_TEXT_pooled_resource.loc.tsv,Stratocracy,军政,軍政
 hv_TEXT_pooled_resource.loc.tsv,The Yellow Turban is ready to color the world once again.,黄巾之势必将再次席卷天下。,黃巾之勢必將再次席捲天下。
@@ -322,8 +325,6 @@ hv_TEXT_region_army.loc.tsv,Jingchu troop tally can be earned when occupied,占�
 hv_TEXT_region_army.loc.tsv,Survival Instinct ,生存本能,生存本能
 hv_TEXT_skills_additional.loc.tsv,City Expansion,扩展城市,擴展城市
 hv_TEXT_skills_additional.loc.tsv,Court Management,宫廷管理,宮廷管理
-hv_TEXT_skills_additional.loc.tsv,Disturbance,扰乱,擾亂
-hv_TEXT_skills_additional.loc.tsv,Garrison Reinforcement,驻军补员,駐軍補員
 hv_TEXT_skills_additional.loc.tsv,Gathering Volunteers,召集义勇,召集義勇
 hv_TEXT_skills_additional.loc.tsv,Replaces unit: {{tr:hv_unit_destroyer_of_traitors}} ({{tr:hv_unit_elite_2h_spear_cavalry}}),替换部队：{{tr:hv_unit_destroyer_of_traitors}}（{{tr:hv_unit_elite_2h_spear_cavalry}}）,替換單位：{{tr:hv_unit_destroyer_of_traitors}}（{{tr:hv_unit_elite_2h_spear_cavalry}}）
 hv_TEXT_skills_additional.loc.tsv,This hero gets a bonus in duels. ,此英雄在单挑中有加成。,此英雄在單挑中有加成。
@@ -426,7 +427,6 @@ hv_TEXT_unit_abilities_hit_effects.loc.tsv,"Certain polearms, such as the Ji, ca
 hv_TEXT_unit_abilities_hit_effects.loc.tsv,Fear of Gunpowder,惧怕火器,懼怕火器
 hv_TEXT_unit_abilities_hit_effects.loc.tsv,It causes fear.,引发恐慌。,引發恐慌。
 hv_TEXT_unit_abilities_hit_effects.loc.tsv,The roar of gunpowder is more terrifying than any man or beast.,火药的轰鸣声比任何人兽都更可畏。,火藥的轟鳴聲比任何人獸都更可畏。
-hv_TEXT_unit_desc.loc.tsv,A captain and the guards commanding the army instead of the general.,由伯长和卫官来指挥军队。,由校尉和衛官來指揮軍隊。
 hv_TEXT_unit_desc.loc.tsv,A charge from a squadron of Spear cavalry is a daunting sight for any soldier. But to see the warriors of Yan descend upon them is a new brand of terror altogether.,对任何一个士兵来说，一队持矛骑兵的冲锋都会令人生畏。但如果杀来的是燕国战士，则是一种全新的恐怖。,對任何一個士兵來説，一隊持槍騎兵的衝鋒都會令人生畏。但如果殺來的是燕國戰士，則是一種全新的恐怖。
 hv_TEXT_unit_desc.loc.tsv,"Amongst the hills of Jingchu, the unwary may find themselves tripped upon a caltrop, and slain by the man who laid it.",在荆楚的山中，粗心的人可能会被一把蒺藜绊倒，然后被放它的人杀死。,在荊楚的山中，粗心的人可能會被一把蒺藜絆倒，然後被放它的人殺死。
 hv_TEXT_unit_desc.loc.tsv,"An illustrious lineage provides many swords, along with men willing to wield them.",显赫的血统可以使许多剑士愿意效命。,顯赫的血統可以使許多劍士願意效命。
@@ -620,7 +620,6 @@ z_dummy_hv_TEXT_non_deployable.loc.tsv,Always surrounded by people.,周围总是
 z_dummy_hv_TEXT_non_deployable.loc.tsv,Argumentative and annoying scholars.,好辩又烦人的学者。,好辯又煩人的學者。
 z_dummy_hv_TEXT_non_deployable.loc.tsv,Confucianist,儒生,儒生
 z_dummy_hv_TEXT_non_deployable.loc.tsv,Council Proctor,县丞,縣丞
-z_dummy_hv_TEXT_non_deployable.loc.tsv,Devoted Mother,躬亲主母,躬親主母
 z_dummy_hv_TEXT_non_deployable.loc.tsv,"For farmers, they are higher than the emperor.",对佃户来说，他们的地位比皇帝还高。,對佃戶來説，他們的地位比皇帝還高。
 z_dummy_hv_TEXT_non_deployable.loc.tsv,Hostess,女主人,女主人
 z_dummy_hv_TEXT_non_deployable.loc.tsv,Lady Liu always cares about her family.,「袁尚母刘氏之妒，其酷烈也甚矣。乃城破之后，不能死节，而献甄氏于曹丕，以图苟全，又何其无烈性至此乎！可见妇之贞者必不妒，妇之妒者必不贞。」,「袁尚母劉氏之妒，其酷烈也甚矣。乃城破之後，不能死節，而獻甄氏於曹丕，以圖苟全，又何其無烈性至此乎！可見婦之貞者必不妒，婦之妒者必不貞。」

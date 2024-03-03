@@ -257,8 +257,8 @@ cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubin
 cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubine_zheng_lan_dilemmaSECOND	不能讓美色誤了大事	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_buddaFIRST	支持他們	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_buddaSECOND	忽視他們	false
-cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_cai_yanFIRST	派特使將她贖回	false
-cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_cai_yanSECOND	不可濫用國庫！	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_cai_yanFIRST	接受	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_cai_yanSECOND	拒絕	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc05FIRST	予以接納	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc05SECOND	將她處死	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc07FIRST	予以接納	true
@@ -420,7 +420,7 @@ ceo_nodes_description_3k_mtu_ancillary_gao_shuns_armour_unique	重量適中且�
 ceo_nodes_description_3k_mtu_ancillary_hidden_flow	此劍寒氣逼人，可如兩股暗流般襲向敵手。	true
 ceo_nodes_description_3k_mtu_ancillary_hua_xins_armour_unique	重量適中且恰好合身，專為這名有頭有臉的戰士量身打造。	true
 ceo_nodes_description_3k_mtu_ancillary_huang_zus_armour_unique	重量適中且恰好合身，專為這名有頭有臉的戰士量身打造。	true
-ceo_nodes_description_3k_mtu_ancillary_lady_bian_huilans_armour_unique	此甲輕重得當，寬緊合身，非名將不可披戴。	true
+ceo_nodes_description_3k_mtu_ancillary_lady_bian_huilans_armour_unique	重量適中且恰好合身，專為這名有頭有臉的戰士量身打造。	true
 ceo_nodes_description_3k_mtu_ancillary_lady_da_qiaos_armour_unique	此甲輕重得當，寬緊合身，非名將不可披戴。	true
 ceo_nodes_description_3k_mtu_ancillary_lady_dong_bais_armour_unique	此甲輕重得當，寬緊合身，非名將不可披戴。	true
 ceo_nodes_description_3k_mtu_ancillary_lady_dong_peishans_armour_unique	此甲輕重得當，寬緊合身，非名將不可披戴。	true
@@ -485,7 +485,7 @@ ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_wu_minyu_01	氣質�
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_xiao_qiao_01	仲氏公主袁氏的美貌與賢良人盡皆知。	true
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_zhang_jinglan_01	雖爲女賊，其鴻鵠之志卻比肩世間梟雄。	true
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_zhang_xingcai_01	繼其父虎將之勇及其母之貌，唯有行帝王之道者方可駕馭此女。	true
-ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_zou_yuan_01	「吾爲夫人故，特納張繡之降；不然滅族矣。」	false
+ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_zou_yuan_01	蔡氏乃是荊州名門望族。蔡夫人亦甚有權勢。	false
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_luo_jun_01	「施壓於民，絕無益處。水能載舟，亦能覆舟。」	true
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_qu_gong_01	只有一隻眼睛都可以如此爲非作歹，難道還需要另外一隻不成？	true
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_wu_anguo_01	雖然武安國痛失一臂，但卻是少數幾個與呂布決鬥後倖存下來的人之一。	true
@@ -520,7 +520,7 @@ ceo_nodes_title_3k_main_ceo_node_career_historical_lady_diao_chan_01	傾國美�
 ceo_nodes_title_3k_mtu_ancillary_accessory_eight_principles_of_yong	《述行賦》	true
 ceo_nodes_title_3k_mtu_ancillary_accessory_poem_of_sorrow_and_anger	《悲憤詩》	true
 ceo_nodes_title_3k_mtu_ancillary_armour_jian_yongs_armour_unique	簡雍的護甲	true
-ceo_nodes_title_3k_mtu_ancillary_armour_lady_cai_yans_armour_unique	蔡琰的護甲	true
+ceo_nodes_title_3k_mtu_ancillary_armour_lady_cai_yans_armour_unique	蔡琰的绣服	true
 ceo_nodes_title_3k_mtu_ancillary_armour_zhao_yuns_armour_unique	虎威將軍的護甲	true
 ceo_nodes_title_3k_mtu_ancillary_chen_jius_armour_unique	龐德的護甲	true
 ceo_nodes_title_3k_mtu_ancillary_chunyu_qiongs_armour_unique	淳于瓊的護甲	true
@@ -529,9 +529,9 @@ ceo_nodes_title_3k_mtu_ancillary_eminent_calligrapher_armour_water_unique	靛藍
 ceo_nodes_title_3k_mtu_ancillary_empty_lunchpail	紫檀食盒	true
 ceo_nodes_title_3k_mtu_ancillary_gao_shuns_armour_unique	張勳的護甲	true
 ceo_nodes_title_3k_mtu_ancillary_hidden_flow	伏波劍	true
-ceo_nodes_title_3k_mtu_ancillary_hua_xins_armour_unique	華歆的護甲	true
+ceo_nodes_title_3k_mtu_ancillary_hua_xins_armour_unique	華歆的华服	true
 ceo_nodes_title_3k_mtu_ancillary_huang_zus_armour_unique	黃祖的護甲	true
-ceo_nodes_title_3k_mtu_ancillary_lady_bian_huilans_armour_unique	杜氏的護甲	true
+ceo_nodes_title_3k_mtu_ancillary_lady_bian_huilans_armour_unique	劉氏的绣服	true
 ceo_nodes_title_3k_mtu_ancillary_lady_da_qiaos_armour_unique	馮氏的金色绣服	true
 ceo_nodes_title_3k_mtu_ancillary_lady_dong_bais_armour_unique	董白的黑色绣服	true
 ceo_nodes_title_3k_mtu_ancillary_lady_dong_peishans_armour_unique	董氏的護甲	true
@@ -547,7 +547,7 @@ ceo_nodes_title_3k_mtu_ancillary_lady_wu_minyus_armour_unique	吳氏的護甲	tr
 ceo_nodes_title_3k_mtu_ancillary_lady_xiao_qiaos_armour_unique	袁氏的银色绣服	true
 ceo_nodes_title_3k_mtu_ancillary_lady_zhang_jinglans_armour_unique	鄭蘭的護甲	true
 ceo_nodes_title_3k_mtu_ancillary_lady_zhang_xingcais_armour_unique	張氏的護甲	true
-ceo_nodes_title_3k_mtu_ancillary_lady_zou_yuans_armour_unique	鄒氏的護甲	true
+ceo_nodes_title_3k_mtu_ancillary_lady_zou_yuans_armour_unique	蔡氏的绣服	true
 ceo_nodes_title_3k_mtu_ancillary_line_breaker	破陣戟	true
 ceo_nodes_title_3k_mtu_ancillary_luo_juns_armour_unique	駱俊的護甲	true
 ceo_nodes_title_3k_mtu_ancillary_mount_lady_trieus_elephant_unique	九真白象	true
@@ -579,7 +579,7 @@ ceo_nodes_title_3k_mtu_ceo_node_career_historical_gao_shun_01	開國將軍	true
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_hua_xin_01	名士高風	true
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_huang_zu_01	遠射伏虎	true
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_jian_yong_01	優遊風議	true
-ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_bian_huilan_01	沛王太妃	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_bian_huilan_01	躬親主母	true
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_cai_yan_01	悲憤才女	true
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_da_qiao_01	涕泣美人	true
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_dong_bai_01	董氏明珠	true
@@ -596,7 +596,7 @@ ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_wu_minyu_01	武烈皇后	
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_xiao_qiao_01	仲氏公主	true
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_zhang_jinglan_01	黑山母主	true
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_zhang_xingcai_01	敬哀皇后	true
-ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_zou_yuan_01	妖嬈禍水	false
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_zou_yuan_01	荊州夫人	false
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_luo_jun_01	百姓衛士	true
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_qu_gong_01	獨眼山賊	true
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_wu_anguo_01	獨臂虎熊	true
@@ -624,7 +624,7 @@ ceo_nodes_title_hv_ancillary_sogd_officer	粟特士官	true
 ceo_nodes_title_hv_ancillary_weapon_khanda	坎達直劍	true
 ceo_nodes_title_hv_ancillary_white_horse_fellows_officer	白馬義從士官	true
 ceo_nodes_title_hv_ancillary_yuan_officer	袁氏士官	true
-ceo_nodes_title_hv_ceo_node_career_historical_chen_deng_01	Man For All Seasons	true
+ceo_nodes_title_hv_ceo_node_career_historical_chen_deng_01	日月精忠	true
 ceo_nodes_title_hv_ceo_node_career_historical_jiang_qin_01	蕩寇將軍	true
 ceo_nodes_title_hv_ceo_node_career_historical_yuan_yao_01	袁術之子	true
 ceo_nodes_title_hv_ceo_node_career_non_deployable_liu_limin	躬親主母	true
@@ -2366,9 +2366,9 @@ custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_jinglan_03	�
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_xingcai_01	都尉	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_xingcai_02	將軍	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_xingcai_03	敬哀皇后	true
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zou_yuan_01	孺人	false
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zou_yuan_02	夫人	false
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zou_yuan_03	皇后	false
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zou_yuan_01	荊州夫人	false
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zou_yuan_02	荊州夫人	false
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zou_yuan_03	荊州夫人	false
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_luo_jun_01	將軍	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_luo_jun_02	將領	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_luo_jun_03	陳郡守衛	true
@@ -2724,12 +2724,12 @@ effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ma_teng_1	養�
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ma_teng_2	養馬：有餘	true
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ma_teng_3	養馬：充裕	true
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ma_teng_4	養馬：天助	true
-effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_0	復甦：灰燼	true
-effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_1	復甦：余焰	true
-effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_2	復甦：復燃	true
-effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_3	復甦：野火	true
-effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_4	復甦：烈火	true
-effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_5	復甦：烈火（已完成）	true
+effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_0	復起：灰燼	true
+effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_1	復起：余焰	true
+effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_2	復起：復燃	true
+effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_3	復起：野火	true
+effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_4	復起：烈火	true
+effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_ytr_5	復起：烈火（已完成）	true
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_zhang_yan_0	黑山：四散而逃	true
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_zhang_yan_1	黑山：量小力微	true
 effect_bundles_localised_title_hv_effect_bundle_pooled_reosource_zhang_yan_2	黑山：同心協力	true
@@ -3015,8 +3015,8 @@ effects_description_hv_effect_pooled_resource_gongsun_zan_decay_rate_1	軍政衰
 effects_description_hv_effect_pooled_resource_gongsun_zan_garrison	每回合軍政[[b]]%+n[[/b]]	false
 effects_description_hv_effect_pooled_resource_ma_teng_buildings	養馬[[b]]%+n[[/b]]	true
 effects_description_hv_effect_pooled_resource_ma_teng_decay_rate_1	養馬衰退%-n	true
-effects_description_hv_effect_pooled_resource_ytr_decay_rate_1	復甦衰退%-n	true
-effects_description_hv_effect_pooled_resource_ytr_population	復甦[[b]]%+n[[/b]]	true
+effects_description_hv_effect_pooled_resource_ytr_decay_rate_1	復起衰退%-n	true
+effects_description_hv_effect_pooled_resource_ytr_population	復起[[b]]%+n[[/b]]	true
 effects_description_hv_effect_pooled_resource_zhang_yan_buildings	黑山[[b]]%+n[[/b]]	true
 effects_description_hv_effect_pooled_resource_zhang_yan_decay_rate_1	黑山衰退%-n	true
 effects_description_hv_effect_pooled_resource_zhang_yan_from_battles	黑山[[b]]%+n[[/b]]	true
@@ -3559,10 +3559,10 @@ frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_yan_xiang_hero_water_190	[[b]]閻象[[/b]]\\n賢達哲士\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]閻象深圖遠慮，總是危機到來之前就做好了準備。[[/col]][[/i]]	false
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_zhang_xun_hero_earth_190	[[b]]張勳[[/b]]\\n開國將軍\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]仲氏大將軍張勳號令三軍誰敢不從？[[/col]][[/i]]	true
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_zhang_xun_hero_earth_194	[[b]]張勳[[/b]]\\n開國將軍\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]仲氏大將軍張勳號令三軍誰敢不從？[[/col]][[/i]]	true
-frontend_faction_leader_unique_characters_localised_description_hv_frontend_chen_deng	[[b]]Chen Deng[[/b]]\\nMan For All Seasons\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]Sometimes, just sometimes, power fails to corrupt, and instead leads to altruism and charity.[[/col]][[/i]]	true
-frontend_faction_leader_unique_characters_localised_description_hv_frontend_lady_cai_190	[[b]]Lady Cai[[/b]]\\nThe Lady of Jingzhou\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]The house of Cai is the most famous noble family in Jingzhou. Lady Cai is willing to use the power.[[/col]][[/i]]	false
-frontend_faction_leader_unique_characters_localised_description_hv_frontend_lady_cai_194	[[b]]Lady Cai[[/b]]\\nThe Lady of Jingzhou\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]The house of Cai is the most famous noble family in Jingzhou. Lady Cai is willing to use the power.[[/col]][[/i]]	false
-frontend_faction_leader_unique_characters_localised_description_hv_frontend_lady_cai_200	[[b]]Lady Cai[[/b]]\\nThe Lady of Jingzhou\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]The house of Cai is the most famous noble family in Jingzhou. Lady Cai is willing to use the power.[[/col]][[/i]]	false
+frontend_faction_leader_unique_characters_localised_description_hv_frontend_chen_deng	[[b]]陳登[[/b]]\\n日月精忠\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]時有奇士，得權不為腐化，反而致力仁政。[[/col]][[/i]]	true
+frontend_faction_leader_unique_characters_localised_description_hv_frontend_lady_cai_190	[[b]]蔡氏[[/b]]\\n荊州夫人\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]蔡氏乃是荊州名門望族。蔡夫人亦甚有權勢。[[/col]][[/i]]	false
+frontend_faction_leader_unique_characters_localised_description_hv_frontend_lady_cai_194	[[b]]蔡氏[[/b]]\\n荊州夫人\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]蔡氏乃是荊州名門望族。蔡夫人亦甚有權勢。[[/col]][[/i]]	false
+frontend_faction_leader_unique_characters_localised_description_hv_frontend_lady_cai_200	[[b]]蔡氏[[/b]]\\n荊州夫人\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]蔡氏乃是荊州名門望族。蔡夫人亦甚有權勢。[[/col]][[/i]]	false
 frontend_faction_leader_unique_characters_localised_description_hv_frontend_lady_liu_limin_190	[[b]]劉氏[[/b]]\\n忌害美婦\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]「袁尚母劉氏之妒，其酷烈也甚矣。乃城破之後，不能死節，而獻甄氏於曹丕，以圖苟全，又何其無烈性至此乎！可見婦之貞者必不妒，婦之妒者必不貞。」[[/col]][[/i]]	true
 frontend_faction_leader_unique_characters_localised_description_hv_frontend_lady_liu_limin_194	[[b]]劉氏[[/b]]\\n忌害美婦\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]「袁尚母劉氏之妒，其酷烈也甚矣。乃城破之後，不能死節，而獻甄氏於曹丕，以圖苟全，又何其無烈性至此乎！可見婦之貞者必不妒，婦之妒者必不貞。」[[/col]][[/i]]	true
 frontend_faction_leader_unique_features_localised_description_3k_main_unique_features_governors_proclamation	[[b]]忠於漢室[[/b]]\\n[[col:scope_description]]求勝之道[[/col]]\\n\\n[[col:red]]需要高威望來稱帝[[/col]]\\n如獲皇帝寵信則可獲得威望\\n\\n[[col:flavour]][[i]]對漢室和皇帝的尊重和忠誠，馴服了野心。[[/col]][[/i]]	false
@@ -3643,9 +3643,9 @@ incidents_localised_description_hv_event_white_tiger_2	您放棄了狩獵，回�
 incidents_localised_description_hv_event_wuhuan_penalty	與漢人的文化衝突導致了烏桓部落的失控。百姓不安，質疑你的治理，爭相離去。	true
 incidents_localised_description_hv_event_xiongnu_penalty	與漢人的文化衝突導致了匈奴部落的失控。百姓不安，質疑你的治理，爭相離去。	true
 incidents_localised_description_hv_event_zhuge_liang_yuanrong	諸葛亮精心設計出一種新武器。這是一種能夠同時射出多枚箭矢的弩弓，可以壓制敵人。	true
-incidents_localised_description_hv_incident_cai_yan	匈奴入侵，凡經過之處皆寸草不生。亂軍之中當代大儒蔡邕之女蔡文姬，被匈奴人俘走了。如不在下個季度之前交付贖金，蔡文姬將被左賢王帶回北方。	false
-incidents_localised_description_hv_incident_cai_yan_dlc05	Your messengers report a remarkable story. A trader spotted a Han woman living amongst the Xiongnu and identified her as Cai Yan, the daughter of the grand scholar Cai Yong. It seems she was forced to marry a chieftain of the Xiongnu. Perhaps someone could convince this chieftain to free Cai Yan. One of your scouts has already left to investigate...	false
-incidents_localised_description_hv_incident_cai_yan_dlc07	Your messengers report a remarkable story. A trader spotted a Han woman living amongst the Xiongnu and identified her as Cai Yan, the daughter of the grand scholar Cai Yong. It seems she was forced to marry a chieftain of the Xiongnu. Perhaps someone could convince this chieftain to free Cai Yan. One of your scouts has already left to investigate...	false
+incidents_localised_description_hv_incident_cai_yan	信使來報，有商販在匈奴營中發現一位中土女眷，正是名士蔡邕之女蔡琰，已沦为匈奴左賢王女奴。匈奴王或許願意放了蔡琰，你的一個探子已經前去調查……	false
+incidents_localised_description_hv_incident_cai_yan_dlc05	信使來報，有商販在匈奴營中發現一位中土女眷，正是名士蔡邕之女蔡琰，已沦为匈奴左賢王女奴。匈奴王或許願意放了蔡琰，你的一個探子已經前去調查……	false
+incidents_localised_description_hv_incident_cai_yan_dlc07	信使來報，有商販在匈奴營中發現一位中土女眷，正是名士蔡邕之女蔡琰，已沦为匈奴左賢王女奴。匈奴王或許願意放了蔡琰，你的一個探子已經前去調查……	false
 incidents_localised_description_hv_incident_chunyu_qiong	曾比肩袁曹，現卻成日飲酒作樂，荒廢才能。不料淳于瓊在危難之際卻懸崖勒馬，重振其西園校尉之威。	false
 incidents_localised_description_hv_incident_danyang_army	您獲得一張可指揮丹陽部隊的兵符。	false
 incidents_localised_description_hv_incident_education	由於您對學者和人才的贊助，您的官員在修爲的道路上取得了進步。	false
@@ -3718,7 +3718,7 @@ incidents_localised_title_hv_event_white_tiger_2	慎重決定	false
 incidents_localised_title_hv_event_wuhuan_penalty	社會動盪	true
 incidents_localised_title_hv_event_xiongnu_penalty	社會動盪	true
 incidents_localised_title_hv_event_zhuge_liang_yuanrong	元戎弩	true
-incidents_localised_title_hv_incident_cai_yan	文姬被擄	false
+incidents_localised_title_hv_incident_cai_yan	文姬歸漢	false
 incidents_localised_title_hv_incident_cai_yan_dlc05	文姬歸漢	false
 incidents_localised_title_hv_incident_cai_yan_dlc07	文姬歸漢	false
 incidents_localised_title_hv_incident_chunyu_qiong	臨崖勒馬	false
@@ -3806,7 +3806,7 @@ land_units_onscreen_name_3k_mtu_general_wood_qu_gong	瞿恭	false
 land_units_onscreen_name_3k_mtu_general_wood_shen_pei	審配	false
 land_units_onscreen_name_3k_mtu_general_wood_wu_anguo	武安囯	false
 land_units_onscreen_name_3k_mtu_hero_earth_dong_min	董旻	false
-land_units_onscreen_name_3k_mtu_hero_earth_lady_bian_huilan	杜氏	false
+land_units_onscreen_name_3k_mtu_hero_earth_lady_bian_huilan	劉氏	true
 land_units_onscreen_name_3k_mtu_hero_earth_lady_da_qiao	馮氏	false
 land_units_onscreen_name_3k_mtu_hero_earth_lady_dong_peishan	董氏	false
 land_units_onscreen_name_3k_mtu_hero_earth_lady_wu_minyu	吳氏	false
@@ -3824,7 +3824,7 @@ land_units_onscreen_name_3k_mtu_hero_water_hua_xin	華歆	false
 land_units_onscreen_name_3k_mtu_hero_water_lady_dong_bai	董白	false
 land_units_onscreen_name_3k_mtu_hero_water_lady_gongsun_jinting	侯氏	false
 land_units_onscreen_name_3k_mtu_hero_water_lady_lu_zheng	陸政	false
-land_units_onscreen_name_3k_mtu_hero_water_lady_zou_yuan	鄒氏	false
+land_units_onscreen_name_3k_mtu_hero_water_lady_zou_yuan	蔡氏	false
 land_units_onscreen_name_3k_mtu_hero_water_yan_xiang	閻象	false
 land_units_onscreen_name_3k_mtu_hero_wood_chen_jiu	龐德	false
 land_units_onscreen_name_3k_mtu_hero_wood_huang_zu	黃祖	false
@@ -4172,7 +4172,7 @@ pooled_resources_description_hv_pooled_resource_ytr	黃巾之勢必將再次席�
 pooled_resources_description_hv_pooled_resource_zhang_yan	黑山贼乘乱以增其之数。	false
 pooled_resources_display_name_hv_pooled_resource_gongsun_zan	軍政	false
 pooled_resources_display_name_hv_pooled_resource_ma_teng	養馬	false
-pooled_resources_display_name_hv_pooled_resource_ytr	復甦	false
+pooled_resources_display_name_hv_pooled_resource_ytr	復起	false
 pooled_resources_display_name_hv_pooled_resource_zhang_yan	黑山	false
 pooled_resources_foreign_diplomacy_view_tooltip_hv_pooled_resource_gongsun_zan	嚴政方能定亂。	false
 pooled_resources_foreign_diplomacy_view_tooltip_hv_pooled_resource_ma_teng	養育大宛馬來裝備騎兵部隊。	false
@@ -4510,7 +4510,7 @@ ui_character_assignments_localised_description_hv_ui_info_assignment_satisfactio
 ui_character_assignments_localised_description_hv_ui_info_assignment_supervise_construction	您的侍中會親自管理郡內所有土木興建，確保所有工程皆以最高效率進行。	true
 ui_character_assignments_localised_description_ui_character_assignments_localised_description_hv_ui_info_assignment_surplus_markets	您的侍中會販賣多餘存糧，以振興當地市場。	true
 ui_character_assignments_localised_title_hv_ui_info_assignment_ma_teng_sell_horses	賣馬	true
-ui_character_assignments_localised_title_hv_ui_info_assignment_military_disturbance	擾亂	true
+ui_character_assignments_localised_title_hv_ui_info_assignment_military_disturbance	助長騷亂	true
 ui_character_assignments_localised_title_hv_ui_info_assignment_more_build_slot	擴展城市	true
 ui_character_assignments_localised_title_hv_ui_info_assignment_replenishment_garrison	駐軍補員	true
 ui_character_assignments_localised_title_hv_ui_info_assignment_reserve_replenishment	召集義勇	true

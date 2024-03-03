@@ -9,7 +9,7 @@ Text,Count,MappedByText,MappedByPattern,File
  Zhang Xun leads the point of the attack and his men rally around him.,2,,,[03]__MTU_skills__Passive_buff.loc.tsv
 %-n black mountain decay,1,黑山衰退%-n,,hv_TEXT_effects_pooled_resource.loc.tsv
 %-n horse breeding decay,1,養馬衰退%-n,,hv_TEXT_effects_pooled_resource.loc.tsv
-%-n resurrection decay,1,復甦衰退%-n,,hv_TEXT_effects_pooled_resource.loc.tsv
+%-n resurrection decay,1,復起衰退%-n,,hv_TEXT_effects_pooled_resource.loc.tsv
 %-n stratocracy decay,1,軍政衰退%-n,,hv_TEXT_effects_pooled_resource.loc.tsv
 %n Siege Towers per item (at siege escalation),1,,,hv_TEXT_etc.loc.tsv
 "...dividing up the empire, parcelling it out in fiefs to the various kings and marquises, he was hailed as the mighty conqueror...",1,,,hv_TEXT_events_rules.loc.tsv
@@ -28,7 +28,7 @@ A Xiliang colonel has joined your faction.,1,一名西涼校尉加入您的勢�
 A beautifully embroidered dress in gold to accent Lady Feng’s overwhelming beauty.,1,,,[02]__MTU_items__Armour.loc.tsv
 "A blade that is a beauty to behold. Inlaid with gold and embellished with shark skin, this blade is fit for a royal family.",1,一柄精美絕倫的寶劍。這把飾有鯊皮的鑲金寶劍正好匹配皇室。,,hv_TEXT_skills_basic.loc.tsv
 "A blow with all of Chunyu’s strength, mighty as a thunderstrike.",2,,,[03]__MTU_skills___Splash_attack.loc.tsv
-A captain and the guards commanding the army instead of the general.,1,由校尉和衛官來指揮軍隊。,,hv_TEXT_unit_desc.loc.tsv
+A captain and the guards commanding the army instead of the general.,1,,,hv_TEXT_unit_desc.loc.tsv
 A careful decision,1,慎重決定,,hv_TEXT_events.loc.tsv
 A carefully-placed strike hobbles the unlucky enemy.,4,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 A charge from a squadron of Spear cavalry is a daunting sight for any soldier. But to see the warriors of Yan descend upon them is a new brand of terror altogether.,1,對任何一個士兵來説，一隊持槍騎兵的衝鋒都會令人生畏。但如果殺來的是燕國戰士，則是一種全新的恐怖。,,hv_TEXT_unit_desc.loc.tsv
@@ -299,7 +299,7 @@ Ability: Zhou the Youth,1,,技能：美周郎,hv_TEXT_skills_skill_enable_effect
 Absent,1,缺席,,ifo_text_TWEAK.loc.tsv
 Abundance,1,,,hv_TEXT_skills_basic.loc.tsv
 Academic Advancement,1,學術進步,,hv_TEXT_events.loc.tsv
-Accept,4,,,[04]__MTU_events__Common.loc.tsv
+Accept,5,,,hv_TEXT_events.loc.tsv
 Accept Jian Yong,1,,,[04]__MTU_events___Cai_family.loc.tsv
 Accumulating Wealth,6,,,hv_TEXT_events.loc.tsv
 Active Buff,34,,,[03]__MTU_skills__Active_buff.loc.tsv
@@ -321,7 +321,6 @@ Adoption Proposal to Guan Yu,1,,,[04]__MTU_events__Common.loc.tsv
 Advisor,1,謀士,,[01]__MTU_generals__Water_strategist.loc.tsv
 "After Dong Zhou's death at the hands of his adopted son Lu Bu, it was observed that the notable scholar Cai Yong mourned his passing. Upon hearing this, Wang Yun ordered troops to capture him and for his execution. ""Cai Yong mourned as the tyrant lie dead! It's clear his loyalty lied with Dong Zhou! Treason!"" exclaimed Wang Yun, madness in his eyes.\\n",1,,,[04]__MTU_events___Cai_family.loc.tsv
 "After Dong Zhou's death, it was observed that the noted scholar Cai Yong mourned his passing. Upon hearing this, Wang Yun immediately sent troops to capture Cai Yong and ordered for his execution.\\n\\n ""Cai Yong mourned as the tyrant lie dead! It's clear that his loyalty lied with Dong Zhou! Treason!"" exclaimed Wang Yun, madness in his eyes.",1,,,[04]__MTU_events___Cai_family.loc.tsv
-"After a surprise raid on Luoyang by the Xiongnu, Cai Yong’s only daughter, Cai Yan, was captured and taken back to their camp. At last, the Xiongnu chanyu revealed his demands for her release. The ransom is considerable and the window of opportunity is short. If the price isn’t paid in the next season, she will be taken North, and the bright Cai Yan may be lost forever.",1,,,[04]__MTU_events___Cai_family.loc.tsv
 "After an epic struggle, you slay the enormous white tiger. Then, unexpectedly, the other tigers prostrate themselves as if submitting to your might! These white tigers don't seem to be ordinary beasts.",1,酣戰之後，您殺死了巨型白虎。然而出乎意料的是，其它老虎俯伏在您身前，好像屈服於您的力量！這些白虎似乎不是普通的野獸。,,hv_TEXT_events.loc.tsv
 "After centuries, the old Han Dynasty has finally lost the Mandate of Heaven. Yet the people under heaven still suffer from the chaos of war brought by petty warlords and their false claims to the Mandate. My Lord, you must end this. China awaits a ruler who will bring unity and prosperity to the realm. How will you choose to rule the people of China?",1,,,hv_TEXT_events_rules.loc.tsv
 "After hearing of Liu Bei's departure and intent on fighting the Yellow Turban Rebellion, his close childhood friend Jian Yong arrived with intent to join him. A long conversation was had about life and the state of the country, but the time for talk is quickly coming to a close. War looms on the horizon and your friend desires to join you.",1,,,[04]__MTU_events___Cai_family.loc.tsv
@@ -513,11 +512,11 @@ Buy nothing,1,不買任何東西,,hv_TEXT_events.loc.tsv
 "By anticipating the enemy’s movement, Yan Xiang is able to outmaneuver and catch them off-guard.",2,,,[03]__MTU_skills__Active_debuff.loc.tsv
 "By the time the victim is aware of what has happened, it is already too late.",1,等到敵人發現之時就已爲時已晚。,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 Cai Yan,2,,蔡琰,[01]__MTU_generals__Water_strategist.loc.tsv
-Cai Yan's Embroidered Garments,1,,,[02]__MTU_items__Armour.loc.tsv
+Cai Yan is free once more.,1,,,hv_TEXT_events.loc.tsv
+Cai Yan's Embroidered Garments,1,,蔡琰的绣服,[02]__MTU_items__Armour.loc.tsv
 "Cai Yan, daughter of the famous calligraphist Cai Yong, has moved to your capital. The additional scholarly presence was warmly welcomed and, to express her gratitude for your hospitality, she composed a poem for you - a masterpiece of utmost eloquence. You, being so enamored by her written word, could not help, but want to join her lines with yours.",1,,,[04]__MTU_events___Concubine.loc.tsv
-Cai Yan’s Captivity,1,,,[04]__MTU_events___Cai_family.loc.tsv
 "Cai Yan’s word inspired emotion in the arts and, now, that language gives life to the battlefield.",2,,,[03]__MTU_skills__Passive_buff.loc.tsv
-"Cai Yong was a well-known scholar, but had no male heir. Cai Yan, his only daughter, has become a concubine of the Southern Xiongnu's Liu Bao. If the Cai lineage is to endure, she cannot remain there. Even though she has two children with Liu Bao, we can't afford to lose the last member of the Cai clan.\\n\\nThe price will be steep to purchase such a precious jewel ...",2,,,[04]__MTU_events___Cai_family.loc.tsv
+"Cai Yong was a well-known scholar, but had no male heir. Cai Yan, his only daughter, has become a concubine of the Southern Xiongnu's Liu Bao. If the Cai lineage is to endure, she cannot remain there. Even though she has two children with Liu Bao, we can't afford to lose the last member of the Cai clan.\\n\\nThe price will be steep to purchase such a precious jewel ...",1,,,[04]__MTU_events___Cai_family.loc.tsv
 Calculated Advisor,1,,,[01]__MTU_generals__Water_strategist.loc.tsv
 Call For The Feast,1,,,[04]__MTU_events__Common.loc.tsv
 Call of Courage,4,,,[03]__MTU_skills__Active_buff.loc.tsv
@@ -565,6 +564,8 @@ China will be ruled by virtue,1,,,hv_TEXT_events_rules.loc.tsv
 Choose the targets to focus fire.,6,,選定目標集中射擊。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Chosen of the Eight Immortals,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Chunyu Qiong,3,,淳于瓊,hv_TEXT_cb_loadout.loc.tsv
+Chunyu Qiong finally came to his senses! He is no longer a drunkard but a general who can lead an army.,1,,,hv_TEXT_events.loc.tsv
+Chunyu Qiong sobers up,1,,,hv_TEXT_events.loc.tsv
 Chunyu Qiong's Armour,1,,淳于瓊的護甲,[02]__MTU_items__Armour.loc.tsv
 City Expansion,1,擴展城市,,hv_TEXT_skills_additional.loc.tsv
 City Recovery,1,,城市復興,z_dummy_hv_TEXT_non_deployable.loc.tsv
@@ -662,7 +663,7 @@ Desperation soon leads to violence.,2,,萬般無奈之下，唯有殊死一搏�
 Destroyers of Treachery,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Determination and grit allow all attacks to be dodged.,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Devastating Roar,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Devoted Mother,1,躬親主母,,z_dummy_hv_TEXT_non_deployable.loc.tsv
+Devoted Mother,2,躬親主母,,hv_TEXT_ceo_career.loc.tsv
 Dian Wei,1,,,hv_TEXT_cb_loadout.loc.tsv
 Diao Chan,1,,貂蟬,[dummy]__MTU_dummy.loc.tsv
 Diao Chan's Silk Raiment,1,,貂蟬的丝服,[dummy]__MTU_dummy.loc.tsv
@@ -682,7 +683,7 @@ Distant Courage,2,,千里助勢,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Distracts the focus of enemy ranged troops.,4,,分散敵軍遠程部隊的注意力。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Distrust of Power,4,,,[03]__MTU_skills__Active_buff.loc.tsv
 Disturb,6,,攪擾,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Disturbance,1,擾亂,,hv_TEXT_skills_additional.loc.tsv
+Disturbance,1,,,hv_TEXT_skills_additional.loc.tsv
 Do not let emotion cloud your acuity.,1,,莫讓情緒蒙蔽心靈的敏銳。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Dong Bai,2,,董白,[01]__MTU_generals__Water_strategist.loc.tsv
 Dong Bai's Onyx Emroidered Garment,1,,董白的黑色绣服,[02]__MTU_items__Armour.loc.tsv
@@ -776,7 +777,6 @@ Escaped death.,1,,,hv_TEXT_unit_abilities_hit_effects.loc.tsv
 Established (6),2,,,hv_TEXT_effects_pooled_resource.loc.tsv
 Established (7),2,,,hv_TEXT_effects_pooled_resource.loc.tsv
 Established (8),2,,,hv_TEXT_effects_pooled_resource.loc.tsv
-Eternal Beauty,4,,,[01]__MTU_generals__Water_strategist.loc.tsv
 "Even as the Han crumbles, embers of its glory remain. These warriors serve the prince of Chenliu, Liu Chong. Clad in gold-lacquered armor, they form a resplendiscent sight on the battlefield, reminding all that the fortunes of the Han have not yet faded while these men stand firm. \\n\\n Gifted with fine armor from their prince, these soldiers expertly wield their halberds in defence of the Han. Advancing on their foe as a disciplined unit, they are a living reminder to the greatness of the Han.",1,汉德虽衰，餘威猶存。這些戰士為陳王劉寵效勞。他們身穿金漆鎧甲，在戰場上形成一道璀璨的風景，提醒世人，只要他們還站著，漢室就還沒有消亡。\\n\\n這些士兵從陳王那裡得到了精美的盔甲，他們熟練地揮舞著他們的長戟來保衛漢室。作為一支紀律嚴明的部隊，他們向敵人挺進，來見證漢室的輝煌。,,hv_TEXT_unit_long_desc.loc.tsv
 "Even as the Han crumbles, embers of its glory remain. These warriors serve the prince of Chenliu, Liu Chong. Clad in gold-lacquered armor, they form a resplendiscent sight on the battlefield, reminding all that the fortunes of the Han have not yet faded while these men stand firm. \\n\\n These royal guards are a beacon of hope to their allies. Gifted with fine steeds to ride, and clad in the heaviest armour availible from the princely armouries, each man has been trained in a myriad of weapons, from crossbow to the noble Jian sword and shield and is a veteran of many battles.",1,汉德虽衰，餘威猶存。這些戰士為陳王劉寵效勞。他們身穿金漆鎧甲，在戰場上形成一道璀璨的風景，提醒世人，只要他們還站著，漢室就還沒有消亡。\\n\\n這些禁衛軍是他們盟友的希望。每人都被賜予良馬重甲，受過各種武器的訓練，從弓弩到劍盾，也都是經過許多戰鬥的老兵。,,hv_TEXT_unit_long_desc.loc.tsv
 "Even as the Han crumbles, embers of its glory remain. These warriors serve the prince of Chenliu, Liu Chong. Clad in gold-lacquered armor, they form a resplendiscent sight on the battlefield, reminding all that the fortunes of the Han have not yet faded while these men stand firm.\\n\\n These particular soldiers are armed with crossbows, allowing them to barrage the enemies of the Han relentlessly with volley after volley of armour-piercing bolts. Should the enemy cavalry think to charge, they are in for an unpleasant surprise: these warriors also wield spears and shields and will not hesitate to strike down any horseman who comes too close!",1,汉德虽衰，餘威猶存。這些戰士為陳王劉寵效勞。他們身穿金漆鎧甲，在戰場上形成一道璀璨的風景，提醒世人，只要他們還站著，漢室就還沒有消亡。\\n\\n這些特殊的士兵裝備著弩箭，可以用穿甲弩矢無情地對漢室的敵人進行猛烈的炮擊。如果敵人的騎兵想衝鋒，他們會有一個不愉快的驚喜：這些戰士還裝備著長矛和盾牌，會毫不猶豫地擊倒任何靠近的騎兵！,,hv_TEXT_unit_long_desc.loc.tsv
@@ -865,7 +865,7 @@ Gan Ning,1,,,hv_TEXT_cb_loadout.loc.tsv
 "Gan Ning moves ever faster, as fire spreads through the forest.",1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Gao Gan's Armour,1,,高幹的護甲,hv_TEXT_ceo_career.loc.tsv
 Gao Shun,1,,,hv_TEXT_cb_loadout.loc.tsv
-Garrison Reinforcement,1,駐軍補員,,hv_TEXT_skills_additional.loc.tsv
+Garrison Reinforcement,1,,,hv_TEXT_skills_additional.loc.tsv
 Garrisoned armies will support the administration of the local county.,1,駐軍會協助縣內行政事宜。,,hv_TEXT_effects_pooled_resource.loc.tsv
 Gathering Volunteers,1,召集義勇,,hv_TEXT_skills_additional.loc.tsv
 "Gaun Xing drives his men without mercy, yet it always proves effective.",2,,,[03]__MTU_skills__Passive_buff.loc.tsv
@@ -954,10 +954,9 @@ Hegemon's Aide,1,,,[dummy]__MTU_dummy.loc.tsv
 "Heirs of the old dynasty of Chu, the soldiers bred by this land share its temperament: fierce in battle and loyal to the end. They are a fitting fighting force for any warlord or would-be emperor. \\n\\n Skilled archers, these men provide covering fire for their army as they maneuver nimbly into the most advantageous positions. They should be protected from cavalry however, as they are lightly armoured.",1,在這片土地上培養出來的士兵是楚國舊王朝的繼承人，他們有著共同的氣質：鬥志昂揚，忠貞不渝。他們是使任何軍閥或皇帝適意的戰鬥力量。\\n\\n這些人是熟練的弓箭手，可以靈活地移動到最有利的位置為他們的軍隊提供掩護火力。然而他們需要保護免受騎兵攻擊，因為他們只有輕護甲。,,hv_TEXT_unit_long_desc.loc.tsv
 "Heirs of the old dynasty of Chu, the soldiers bred by this land share its temperament: fierce in battle and loyal to the end. They are a fitting fighting force for any warlord or would-be emperor. \\n\\n These warriors bring caltrops to battle, stunting any enemy advance as the foe perishes on the unseen traps. Any survivors are quickly dealt with by the blades these warriors wield. A skilled general would be wary of archers though: they are lightly armored and carry no shield.",1,在這片土地上培養出來的士兵是楚國舊王朝的繼承人，他們有著共同的氣質：鬥志昂揚，忠貞不渝。他們是使任何軍閥或皇帝適意的戰鬥力量。\\n\\n這些戰士携帶蒺藜，設下看不見的陷阱來阻礙敵人前進。任何倖存者都會很快被這些戰士的利刃處理掉。一個熟練的將軍會小心防備弓箭手：他們的盔甲很輕，沒有盾牌。,,hv_TEXT_unit_long_desc.loc.tsv
 "Heirs of the old dynasty of Chu, the soldiers bred by this land share its temperament: fierce in battle and loyal to the end. They are a fitting fighting force for any warlord or would-be emperor. \\n\\n Wielding spear and shield, these soldiers form a defensive screen for their army against calvary charges. Their armor is lighter than most other armies, but this makes them more mobile: many horsemen have been taken off-guard by a sudden rush of Jingchu Spearmen!",1,在這片土地上培養出來的士兵是楚國舊王朝的繼承人，他們有著共同的氣質：鬥志昂揚，忠貞不渝。他們是使任何軍閥或皇帝適意的戰鬥力量。\\n\\n這些士兵使用長矛和盾牌，為他們的軍隊形成一道防禦屏障，抵禦騎兵衝鋒。他們的盔甲比其他大多數軍隊都輕，但這使他們更加機動：許多騎兵被突如其來的荊楚矛兵打了個措手不及！,,hv_TEXT_unit_long_desc.loc.tsv
-Her beauty and extraordinary taste put a thousand men on their knee.,1,,,[02]__MTU_items__Armour.loc.tsv
 Her cultured and considerate approach boosts the army’s fighting skill and spirit.,2,,,[03]__MTU_skills__Active_buff.loc.tsv
 Her dignity and wisdom are already renown near and far.,1,,,[03]__MTU_skills___Court.loc.tsv
-"Her elegance, determination, and beauty made her coveted by all the heroes of the age.",1,,,[01]__MTU_generals__Earth_commander.loc.tsv
+"Her elegance, determination, and beauty made her coveted by all the heroes of the age.",1,,,hv_TEXT_ceo_career.loc.tsv
 Her knowledge spreads to fellow generals around her like the veins of a stream.,2,,,[03]__MTU_skills__Passive_buff.loc.tsv
 Her swords are fast and unpredictable like two rogue waves sweeping across the ocean.,1,,,[02]__MTU_items__Weapons.loc.tsv
 Herald,1,,先驅,z_dummy_hv_TEXT_non_deployable.loc.tsv
@@ -1008,7 +1007,7 @@ Hua Lanli's Leather Armour,1,,華氏的皮甲,[02]__MTU_items__Armour.loc.tsv
 Hua Lanli’s pinpoint accuracy strikes fear in the enemy.,2,,,[03]__MTU_skills___Projectile.loc.tsv
 Hua Xin,2,,華歆,[01]__MTU_generals__Water_strategist.loc.tsv
 Hua Xin knows and accepts that terrible acts must be committed to preserve his status within the hierarchy.,2,,,[03]__MTU_skills__Passive_debuff.loc.tsv
-Hua Xin’s Embroidered Suit,1,,,[02]__MTU_items__Armour.loc.tsv
+Hua Xin’s Embroidered Suit,1,,華歆的华服,[02]__MTU_items__Armour.loc.tsv
 Huang Shao,1,,,hv_TEXT_cb_loadout.loc.tsv
 Huang Zhong,1,,,hv_TEXT_cb_loadout.loc.tsv
 Huang Zu,2,,,[01]__MTU_generals__Wood_champion.loc.tsv
@@ -1180,13 +1179,17 @@ Kong Rong,1,,,hv_TEXT_cb_loadout.loc.tsv
 Lady,7,夫人,,[dummy]__MTU_dummy.loc.tsv
 Lady Bian,1,,卞氏,[04]--------------------MTU_events--------------------.loc.tsv
 "Lady Bian, a concubine-turned-wife of Cao Cao, has been persuaded to join us. She is known throughout the realm as being unflappable amidst the chaos, dignified, and a shrewd diplomat. She has ascended since birth, not nefariously, but by unwavering character.  It is said that behind every powerful man is a powerful lady. Perhaps ...",1,,,[04]__MTU_events___Concubine.loc.tsv
+Lady Cai,1,,蔡氏,hv_TEXT_ceo_career.loc.tsv
+Lady Cai's Embroidered Garments,1,,蔡氏的绣服,hv_TEXT_ceo_armour.loc.tsv
+Lady Cai's clothes are thin but soft and sturdy.,1,,,hv_TEXT_ceo_armour.loc.tsv
 Lady Dong,2,,董氏,[01]__MTU_generals__Earth_commander.loc.tsv
-Lady Du,3,,杜氏,[01]__MTU_generals__Earth_commander.loc.tsv
-Lady Du’s Embroidered Garment,1,,,[02]__MTU_items__Armour.loc.tsv
+Lady Du,2,,杜氏,[01]__MTU_generals__Earth_commander.loc.tsv
 Lady Feng,2,,馮氏,[01]__MTU_generals__Earth_commander.loc.tsv
 Lady Feng's Gold Embroidered Garments,1,,馮氏的金色绣服,[02]__MTU_items__Armour.loc.tsv
+Lady Liu,1,,劉氏,hv_TEXT_ceo_career.loc.tsv
 Lady Liu always cares about her family.,1,「袁尚母劉氏之妒，其酷烈也甚矣。乃城破之後，不能死節，而獻甄氏於曹丕，以圖苟全，又何其無烈性至此乎！可見婦之貞者必不妒，婦之妒者必不貞。」,,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Lady Liu's Robes,1,,劉氏的長袍,z_dummy_hv_TEXT_non_deployable.loc.tsv
+Lady Liu’s Embroidered Garment,1,,劉氏的绣服,hv_TEXT_ceo_armour.loc.tsv
 Lady Trieu,4,,趙嫗,hv_TEXT_cb_loadout.loc.tsv
 Lady Trieu [[img:unit_elephant]][[/img]],1,,趙嫗[[img:unit_elephant]][[/img]],hv_TEXT_cb_loadout.loc.tsv
 "Lady Trieu comes and, with her, a thunder that shakes the very Earth.",1,,,[02]__MTU_items__Accessory.loc.tsv
@@ -1220,7 +1223,7 @@ Light Infantry,1,,,hv_TEXT_unit_ground_type.loc.tsv
 "Like the weather, one's fortune may change by the evening.",1,,,hv_TEXT_skills_basic.loc.tsv
 Line Breaker,1,,,[02]__MTU_items__Weapons.loc.tsv
 Little Conqueror,1,,,hv_TEXT_cb_loadout.loc.tsv
-Liu Bao's demands are outrageous and your coffers are better emptied elsewhere. The last of Cai Yong's line remains amongst the Xiongnu.,2,,,[04]__MTU_events___Cai_family.loc.tsv
+Liu Bao's demands are outrageous and your coffers are better emptied elsewhere. The last of Cai Yong's line remains amongst the Xiongnu.,1,,,[04]__MTU_events___Cai_family.loc.tsv
 Liu Bei,1,,,hv_TEXT_cb_loadout.loc.tsv
 Liu Bei's words drive his men to greatness!,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Liu Biao,1,,,hv_TEXT_cb_loadout.loc.tsv
@@ -1312,7 +1315,7 @@ Make Zhang Xueer a Concubine,1,,,[04]__MTU_events___Concubine.loc.tsv
 Make Zheng Jiang a Concubine,1,,,[04]__MTU_events___Concubine.loc.tsv
 Make Zheng Lan a Concubine,1,,,[04]__MTU_events___Concubine.loc.tsv
 Make the impossible possible!,1,,,hv_TEXT_unit_abilities.loc.tsv
-Man For All Seasons,1,,,hv_TEXT_ceo_career.loc.tsv
+Man For All Seasons,1,日月精忠,,hv_TEXT_ceo_career.loc.tsv
 Manage local products more thoroughly and convert wasted materials into stockpiles.,1,完善管理本地貨物，回收廢棄物品。,,hv_TEXT_building.loc.tsv
 "Many of the enemy troops would gladly join our forces; those who refuse will be put to the sword. This will replenish our troops, but may impact our relations with the enemy faction.",1,,,hv_TEXT_pooled_resource.loc.tsv
 Mark Target,8,,瞄定,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -1365,7 +1368,7 @@ Mobilisation,1,,動員,hv_TEXT_skills_basic.loc.tsv
 Mock,3,,嘲諷,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Moment of Courage,3,一時之勇,,hv_TEXT_unit_abilities.loc.tsv
 Morale Shock Projectile,9,箭矢打擊士氣,,hv_TEXT_unit_ui_group_t1.loc.tsv
-More Than Words Remain,2,,,[04]__MTU_events___Cai_family.loc.tsv
+More Than Words Remain,1,,,[04]__MTU_events___Cai_family.loc.tsv
 Mortal Strike,6,,致命一擊,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "Most men would voluntarily take on an entire army alone, if it means escaping the tantrum of this insufferable child.",2,,,[03]__MTU_skills__Active_buff.loc.tsv
 Mother's Bow,1,,,[02]__MTU_items__Bow.loc.tsv
@@ -1443,7 +1446,6 @@ One with Heaven,8,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
 One with the Land,8,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
 One with the People,8,,,hv_TEXT_skills_skill_ability__historical.loc.tsv
 One-Eyed Bandit,1,,,[01]__MTU_generals__Wood_champion.loc.tsv
-One’s Old Self,1,,,[04]__MTU_events__Common.loc.tsv
 Only through sober and considered analysis can fragility be turned to unerring strength.,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Onslaught,3,猛攻,,hv_TEXT_unit_abilities.loc.tsv
 Onyx Dragons,1,,,hv_TEXT_unit_text_replacements.loc.tsv
@@ -1522,6 +1524,7 @@ Pride and confidence go hand in hand.,3,,傲慢即信心所在。,hv_TEXT_skills
 Princess Dun Huang,2,,,[01]__MTU_generals__Metal_sentienl.loc.tsv
 Princess Zhong,2,,,[01]__MTU_generals__Water_strategist.loc.tsv
 "Princess Zhong, Yuan Anyang",1,,,[04]__MTU_events___Concubine.loc.tsv
+Prisoner Negotiation,1,,,hv_TEXT_events.loc.tsv
 Promptly and Accurately,1,,既快又准,hv_TEXT_unit_abilities.loc.tsv
 Proof that the bearer has the authority to command Danyang troops.,1,,持此令牌者可以指揮丹陽單位。,hv_TEXT_effects_ceo.loc.tsv
 Proof that the bearer has the authority to command Enforcer troops.,1,,持此令牌者可以指揮捕掾隊單位。,hv_TEXT_effects_ceo.loc.tsv
@@ -1533,7 +1536,7 @@ Protectors of Heaven,2,,,hv_TEXT_unit_text_replacements.loc.tsv
 Provides [[b]]Danyang Troop Captain[[/b]] recruitment charges,1,提供[[b]]丹陽部隊校尉[[/b]]招募次數,,hv_TEXT_effects_building.loc.tsv
 Provocation,4,,,[03]__MTU_skills__Active_debuff.loc.tsv
 Pulverize,3,粉碎一擊,,hv_TEXT_unit_abilities.loc.tsv
-Purchase Her Freedom,2,,,[04]__MTU_events___Cai_family.loc.tsv
+Purchase Her Freedom,1,,,[04]__MTU_events___Cai_family.loc.tsv
 Purchase a horse,1,買馬,,hv_TEXT_events.loc.tsv
 Purchase a western sword,1,買劍,,hv_TEXT_events.loc.tsv
 Pursuit,4,,,[03]__MTU_skills__Passive_buff.loc.tsv
@@ -1554,7 +1557,7 @@ Qingzhou Troops,1,青州軍,,hv_TEXT_events.loc.tsv
 Qu Gong,3,,瞿恭,hv_TEXT_cb_loadout.loc.tsv
 Qu Gong's Armour,1,,瞿恭的護甲,[02]__MTU_items__Armour.loc.tsv
 Queen,7,女王,,[dummy]__MTU_dummy.loc.tsv
-Queen Mother of Prince Pei,2,,,[01]__MTU_generals__Earth_commander.loc.tsv
+Queen Mother of Prince Pei,1,,,[01]__MTU_generals__Earth_commander.loc.tsv
 Queen of Black Mountain,2,,,[01]__MTU_generals__Metal_sentienl.loc.tsv
 "Queen of Black Mountain, Zheng Lan",1,,,[04]__MTU_events___Concubine.loc.tsv
 Quick Preparation,4,,,[03]__MTU_skills__Passive_buff.loc.tsv
@@ -1586,12 +1589,12 @@ Recruit,1,,,hv_TEXT_pooled_resource.loc.tsv
 "Recruited by Liu Bei during his time as ""General of the Left"", these soldiers now are loyal to their general and will fight to see his vision fulfilled. The Han shall be restored, and they will unleash a barrage of arrows upon any rebel who would see the Han extinguished. And And if their foes would close the distance, they shall find that they are equally skilled in melee combat, unless they fight cavalry.  ",1,,,hv_TEXT_unit_long_desc.loc.tsv
 Redeemed Outlaws,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Reduces the negative influence of the other ethnic groups,1,,,hv_TEXT_effects_technology.loc.tsv
-Refuse,2,,,hv_TEXT_events.loc.tsv
+Refuse,3,,,hv_TEXT_events.loc.tsv
 Refuse their demands,1,拒不交人,,[dummy]__MTU_dummy.loc.tsv
 Registrar,1,,,[01]__MTU_generals__Water_strategist.loc.tsv
 Reign of Terror,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Reject,2,,,[04]__MTU_events__Common.loc.tsv
-Reject Paying the Ransom,2,,,[04]__MTU_events___Cai_family.loc.tsv
+Reject Paying the Ransom,1,,,[04]__MTU_events___Cai_family.loc.tsv
 Relentless fire from Hua Lanli pins the enemy back.,2,,,[03]__MTU_skills___Projectile.loc.tsv
 Remnants of Lu Bu's faction have joined us. We may focus on military redeployment.,1,,,hv_TEXT_effects_events.loc.tsv
 Remnants of Yuan Shu's faction have joined us. We may focus on military redeployment.,1,,,hv_TEXT_effects_events.loc.tsv
@@ -1603,13 +1606,13 @@ Replaces unit: {{tr:hv_unit_swallow_cavalry}} ({{tr:hv_unit_bandits_2h_spear_cav
 Resolve,2,,決心,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Resolve of the Righteous,2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Restore,5,,回復,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Resurrection,1,復甦,,hv_TEXT_pooled_resource.loc.tsv
-Resurrection: Ash,1,復甦：灰燼,,hv_TEXT_effects_pooled_resource.loc.tsv
-Resurrection: Ember,1,復甦：余焰,,hv_TEXT_effects_pooled_resource.loc.tsv
-Resurrection: Great Fire,1,復甦：烈火,,hv_TEXT_effects_pooled_resource.loc.tsv
-Resurrection: Great Fire (Complelete),1,復甦：烈火（已完成）,,hv_TEXT_effects_pooled_resource.loc.tsv
-Resurrection: Reignite,1,復甦：復燃,,hv_TEXT_effects_pooled_resource.loc.tsv
-Resurrection: Wild Fire,1,復甦：野火,,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection,1,復起,,hv_TEXT_pooled_resource.loc.tsv
+Resurrection: Ash,1,復起：灰燼,,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection: Ember,1,復起：余焰,,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection: Great Fire,1,復起：烈火,,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection: Great Fire (Complelete),1,復起：烈火（已完成）,,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection: Reignite,1,復起：復燃,,hv_TEXT_effects_pooled_resource.loc.tsv
+Resurrection: Wild Fire,1,復起：野火,,hv_TEXT_effects_pooled_resource.loc.tsv
 Retreat Cover,3,掩護撤退,,hv_TEXT_unit_abilities.loc.tsv
 "Revenge is the act of passion, vengeance is an act of justice. For Zhang Bao, both are one and the same.",2,,,[03]__MTU_skills___Splash_attack.loc.tsv
 "Revered for his allegiance to his Lord and his cause, Shen Pei shall never retreat as long as his Lord’s interests are threatened.",2,,,[03]__MTU_skills__Active_buff.loc.tsv
@@ -1836,8 +1839,9 @@ The Force will be with you... always.,1,,,hv_TEXT_unit_abilities.loc.tsv
 "The Free-Spirited Heroine, Lady Trieu",1,,,[04]__MTU_events___Concubine.loc.tsv
 The Glory of the Han shall endure while these men have the strength to wield their halberds.,1,只要這些人有力量揮舞他們的戰戟，漢室的榮耀就將延續。,,hv_TEXT_unit_desc.loc.tsv
 The Han must be restored. These men shall follow their righteous general to the death to see it done.,1,漢室必須復興。這些人將誓死跟隨他們通曉大義的將軍。,,hv_TEXT_unit_desc.loc.tsv
-The Kidnapped Girl,2,文姬歸漢,,hv_TEXT_events.loc.tsv
+The Kidnapped Girl,3,文姬歸漢,,hv_TEXT_events.loc.tsv
 The Lady Trieu will appear according to the flow of history.,1,,,[04]__MTU_events__Common.loc.tsv
+The Lady of Jingzhou,4,荊州夫人,,hv_TEXT_ceo_career.loc.tsv
 The Land's Chosen,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 The Last Gift,1,最後的禮物,,[dummy]__MTU_dummy.loc.tsv
 The Last Kin of the Dong Zhuo,3,董卓遺孤,,hv_TEXT_events.loc.tsv
@@ -1891,7 +1895,6 @@ The chaos caused by Li Jue and Guo Si is devastating the whole country.,1,李傕
 "The crossbow is a very effective weapon for a surprise attack. The shooter just have to load a bolt, lower their body, and wait for the prey to come. \\n\\n This unit is adept at the tactics of smashing careless enemies with ambush shots.",1,,,hv_TEXT_unit_long_desc.loc.tsv
 The crushing blow is delivered by Zhang Xun’s own hand.,2,,,[03]__MTU_skills___Splash_attack.loc.tsv
 "The desperate and the disenfranchised gather at the base of Black Mountain, ready to expand their fortunes or die trying.",1,,,hv_TEXT_unit_desc.loc.tsv
-"The drink has ruined many a good man, but Chunyu Qiong will not be amongst them. The former Colonel of the Emperor’s Army has sworn off alcohol and is a drunkard no more. With a clear mind and a wealth of experience, Chunyu Qiong is, once again, that mighty colonel that led the Imperial Army, equal to Cao Cao and Yuan Shao.",1,,,[04]__MTU_events__Common.loc.tsv
 The emperor has been disappointed with your actions. He may choose to punish you.,3,,,hv_TEXT_effects_pooled_resource.loc.tsv
 The emperor is indifferent towards you.,4,,,hv_TEXT_effects_pooled_resource.loc.tsv
 The emperor is proud of your achievements. He may choose to reward you.,3,,,hv_TEXT_effects_pooled_resource.loc.tsv
@@ -1912,6 +1915,7 @@ The frigid North Wind brings with it the cold grip of death.,1,,,[02]__MTU_items
 The fury of the victorious warrior is fearful to behold!,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 The heavens themselves will punish the unjust.,1,,,[02]__MTU_items__Accessory.loc.tsv
 The hopes of her people rest squarely on her shoulders; Lady Trieu will not fail them.,2,,,[03]__MTU_skills__Active_buff.loc.tsv
+The house of Cai is the most famous noble family in Jingzhou. Lady Cai is willing to use the power.,1,蔡氏乃是荊州名門望族。蔡夫人亦甚有權勢。,,hv_TEXT_ceo_career.loc.tsv
 The house of Dong is destroyed.,1,董卓全族已被誅滅。,,hv_TEXT_events.loc.tsv
 "The imperial ancestral rite ended without incident. Unfortunately, the emperor returned to the place without acknowledging your contribution.",1,皇家祭祀儀式順利完成，但天子一言不發便回宮了。,,ifo_text_TWEAK.loc.tsv
 "The imperial ancestral rite was completed successfully, and the emperor shows favour to the attending nobles. ",2,皇家祭祀儀式圓滿完成，天子對到場的貴族示恩。,,ifo_text_TWEAK.loc.tsv
@@ -1935,7 +1939,7 @@ The opposing generals gathered at your encampment for a feast. You explained you
 The path to prominence in these turbulent times is by the sword! Win battles to demonstrate your capability.,6,在此動蕩之秋，要想出人頭地就只有刀兵相見！贏得戰鬥便能向世人展現您的能力。,,hv_TEXT_events.loc.tsv
 The people of Danyang have a reputation for bravery. Tao Qian has turned them into a well-trained army.,1,丹陽人以奮勇著稱。陶謙整備軍隊，訓練有素。,,hv_TEXT_building.loc.tsv
 "The perfect weight and fit, suitable for the famed Tiger General.",1,,,[02]__MTU_items__Armour.loc.tsv
-"The perfect weight and fit, tailored for this warrior of class and distinction.",26,,,[dummy]__MTU_dummy.loc.tsv
+"The perfect weight and fit, tailored for this warrior of class and distinction.",27,,,[dummy]__MTU_dummy.loc.tsv
 "The phoenix beak strikes with a ferocity that has put many a man to ashes, never to rise again.",1,,,[02]__MTU_items__Weapons.loc.tsv
 The pillar is strongest at its base.,1,,,hv_TEXT_skills_basic.loc.tsv
 "The pride of the Xiliang army, these armored horsemen will teach their enemy the meaning of “elite cavalry”.",1,作爲西涼軍的驕傲，這些重甲騎兵將教導他們的敵人“精銳騎兵”的含義。,,hv_TEXT_unit_desc.loc.tsv
@@ -2209,6 +2213,7 @@ Wars are a costly endeavour and one cannot hope to end this chaos without a siza
 Watchmen of the Peace,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Way of the Wind,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 We are reaping the benefits of military rule.,1,軍事統治已成效斐然。,,hv_TEXT_effects_pooled_resource.loc.tsv
+"We have contacted the Xiongnu and verified that the kidnapped woman is indeed Cai Yan. She has become the concubine of a Xiongnu chieftain. However, the Xiongnu offer to release Cai Yan for a significant sum of gold.",1,,,hv_TEXT_events.loc.tsv
 We have gathered warriors from nearby nomadic peoples to form a powerful cavalry unit. These formidable cataphracts will crush your enemies.,1,我們從附近游牧民族召集戰士，組成了一支强健騎兵。這些令人可畏的鐵甲騎兵將衝垮你的敵人。,,hv_TEXT_events.loc.tsv
 "We must truly have Heaven’s approval. Treated poorly by Yuan Shu’s concubines, Lady Feng has been driven into our waiting arms. She has served powerful lords, but, more importantly, she’s known to be pure-hearted and of great benevolence. Her presence alone seems to boost the spirits of the court and the public alike. Treat her well, pamper her and surely you will see the favor returned.",1,,,[04]__MTU_events___Concubine.loc.tsv
 We're barely keeping our cavalry supplied. ,1,勉强能供應我們的騎兵。,,hv_TEXT_effects_pooled_resource.loc.tsv
@@ -2382,6 +2387,7 @@ You can't target yourself. ,1,不能指向自己。,,ifo_text_TWEAK.loc.tsv
 "You could not drag your good friend into harm’s way, instead, choosing to send him back to his hometown.",1,,,[04]__MTU_events___Cai_family.loc.tsv
 You decide not to avail yourself of their wares.,1,你決定不買他們的貨品。,,hv_TEXT_events.loc.tsv
 You do not have the prerequisite: %S.,1,您沒有所需的：%S。,,!hv_TEXT_system.loc.tsv
+You do not make deals with barbarians.,1,,,hv_TEXT_events.loc.tsv
 "You give up the hunt and return. However, for reasons unknown, the monster attacks stopped.",1,您放棄了狩獵，回去了。然而不知爲何，怪獸從此不再攻擊。,,hv_TEXT_events.loc.tsv
 You have acquired a tally that grants its bearer the authority to command Danyang troops.,1,您獲得一張可指揮丹陽部隊的兵符。,,hv_TEXT_events.loc.tsv
 You have acquired a tally that grants its bearer the authority to command Jingchu troops.,1,您獲得一張可指揮荊楚部隊的兵符。,,hv_TEXT_events.loc.tsv
@@ -2426,7 +2432,7 @@ You may now recruit {{tr:hv_unit_yuan_rong_crossbowmen}}.,1,,您現在可以招�
 You refused to pay the barbarian for his atrocities against you and your people. Many were captured - how could you put her above them all?,1,,,[04]__MTU_events___Cai_family.loc.tsv
 You reject their offer and send them away.,1,,,[04]__MTU_events__Common.loc.tsv
 You rule your domain with military efficiency.,1,以軍隊的效率治理領地。,,hv_TEXT_effects_pooled_resource.loc.tsv
-"You send an envoy to deliver the price in gold and bring Cai Yan back, but her face does not shine brightly as she leaves her children behind.",2,,,[04]__MTU_events___Cai_family.loc.tsv
+"You send an envoy to deliver the price in gold and bring Cai Yan back, but her face does not shine brightly as she leaves her children behind.",1,,,[04]__MTU_events___Cai_family.loc.tsv
 "You, along with a few attendants, climbed a mountain and held the ceremony. That night, the golden star seemed to shimmer even more brilliantly than before. A few weeks later, you receive a letter from an old friend informing you that a woman named Lady Trieu has joined forces with another faction and has been active near the Southern Coast.",1,,,[04]__MTU_events__Common.loc.tsv
 Young Blood,3,血氣方剛,,hv_TEXT_unit_abilities.loc.tsv
 Young Dragon Blade,1,,,[02]__MTU_items__Weapons.loc.tsv
@@ -2439,7 +2445,7 @@ Your attendant will seek recruits for the local garrison.,1,您的隨從將爲�
 Your attendant will stimulate local markets by selling reserve surplus.,1,,,hv_TEXT_skills_additional.loc.tsv
 Your attendant will support your army in enemy territory.,1,您的隨從將在敵方領土支援您的軍隊。,,hv_TEXT_skills_additional.loc.tsv
 Your followers are few.,1,跟隨您的人寥寥無幾。,,hv_TEXT_effects_pooled_resource.loc.tsv
-"Your messengers report a remarkable story. A trader spotted a Han woman living amongst the Xiongnu and identified her as Cai Yan, the daughter of the grand scholar Cai Yong. It seems she was forced to marry a chieftain of the Xiongnu. Perhaps someone could convince this chieftain to free Cai Yan. One of your scouts has already left to investigate...",2,,,hv_TEXT_events.loc.tsv
+"Your messengers report a remarkable story. A trader spotted a Han woman living amongst the Xiongnu and identified her as Cai Yan, the daughter of the grand scholar Cai Yong. It seems she was forced to marry a chieftain of the Xiongnu. Perhaps someone could convince this chieftain to free Cai Yan. One of your scouts has already left to investigate...",3,信使來報，有商販在匈奴營中發現一位中土女眷，正是名士蔡邕之女蔡琰，已沦为匈奴左賢王女奴。匈奴王或許願意放了蔡琰，你的一個探子已經前去調查……,,hv_TEXT_events.loc.tsv
 Your spirit will be remembered forever.,3,,,[03]__MTU_skills__Passive_buff.loc.tsv
 Youthful Vigor,4,,,[03]__MTU_skills__Passive_buff.loc.tsv
 Youxia,1,,,hv_TEXT_unit_text_replacements.loc.tsv
@@ -2495,10 +2501,7 @@ Zhuge Liang,1,,,hv_TEXT_cb_loadout.loc.tsv
 Zhuge Liang has brilliantly engineered a new weapon. It is a crossbow that fires several bolts simultaneously to overwhelm the enemy.,1,諸葛亮精心設計出一種新武器。這是一種能夠同時射出多枚箭矢的弩弓，可以壓制敵人。,,hv_TEXT_events.loc.tsv
 Zhuge Liang predicts the wind through study of the world.,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Zong Bu,1,宗部序列,,hv_TEXT_building.loc.tsv
-Zou Yuan,2,,鄒氏,[01]__MTU_generals__Water_strategist.loc.tsv
-Zou Yuan's Embroidered Garments,1,,,[02]__MTU_items__Armour.loc.tsv
-Zou Yuan's clothes are thin but soft and sturdy.,1,,,[02]__MTU_items__Armour.loc.tsv
-"Zou Yuan, the beauty everyone coveted, was widely known for her beauty. So many heroes wanted to keep her next to them at all costs. To the extent that Cao Cao lost his son and his general during the secret meeting with her at night.",1,,,[01]__MTU_generals__Water_strategist.loc.tsv
+Zou Yuan,1,,鄒氏,[01]__MTU_generals__Water_strategist.loc.tsv
 [[b]]%+n%[[/b]] additional melee hit bonus,3,,近戰命中加成[[b]]%+n%[[/b]],hv_TEXT_etc.loc.tsv
 [[b]]%+n%[[/b]] additional melee hit bonus for Militia units,1,,義勇單位近戰命中加成[[b]]%+n%[[/b]],hv_TEXT_effects_technology.loc.tsv
 [[b]]%+n%[[/b]] additional melee hit bonus for melee infantry,1,,近戰步兵近戰命中加成[[b]]%+n%[[/b]],hv_TEXT_skills_basic.loc.tsv
@@ -2604,7 +2607,7 @@ Zou Yuan's clothes are thin but soft and sturdy.,1,,,[02]__MTU_items__Armour.loc
 [[b]]%+n[[/b]] morale for Yue units,1,,越族單位士氣[[b]]%+n[[/b]],hv_TEXT_effects_technology.loc.tsv
 [[b]]%+n[[/b]] morale for black mountain bandit units,1,,黑山匪徒單位士氣[[b]]%+n[[/b]],hv_TEXT_effects_pooled_resource.loc.tsv
 [[b]]%+n[[/b]] reserves ,1,,,hv_TEXT_etc.loc.tsv
-[[b]]%+n[[/b]] resurrection,1,,復甦[[b]]%+n[[/b]],hv_TEXT_effects_pooled_resource.loc.tsv
+[[b]]%+n[[/b]] resurrection,1,,復起[[b]]%+n[[/b]],hv_TEXT_effects_pooled_resource.loc.tsv
 [[b]]%+n[[/b]] satisfaction for all characters,1,,,hv_TEXT_skills_attributes.loc.tsv
 [[b]]%+n[[/b]] starting rank for Buqu units,1,,部曲單位起始等級[[b]]%+n[[/b]],hv_TEXT_effects_technology.loc.tsv
 [[b]]%+n[[/b]] starting rank for Elite units,1,,精銳單位起始等級[[b]]%+n[[/b]],hv_TEXT_effects_technology.loc.tsv
@@ -2639,9 +2642,9 @@ Zou Yuan's clothes are thin but soft and sturdy.,1,,,[02]__MTU_items__Armour.loc
 [[b]]CHARGE RESISTANCE[[/b]]\\n\\n Determines how solidly this unit can withstand enemy charges. Only functions when the unit is braced.,1,[[b]]衝鋒抵抗力[[/b]]\\n\\n決定該部隊能承受多大程度的敵軍衝鋒。此作用於該單位被衝鋒時。,,hv_TEXT_etc.loc.tsv
 [[b]]Can ambush when attacking[[/b]]\\n\\n [[col:flavour]][[i]]This faction can ambush when attacking.[[/col]][[/i]] ,1,,,hv_TEXT_frontend_features.loc.tsv
 "[[b]]Captain Retinues[[/b]]\\n\\nInstead of heroic characters, House of Yuan can employ lower-ranked officers and captains who lead retinues of various unit compositions.\\n\\n[[col:flavour]][[i]]Leading their men as first amongst equals, captains will follow your orders without hesitation.[[/col]][[/i]]",1,,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Chen Deng[[/b]]\\nMan For All Seasons\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]Sometimes, just sometimes, power fails to corrupt, and instead leads to altruism and charity.[[/col]][[/i]]",1,,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Dong Min[[/b]]\\nGreedy Tyrant\\n\\nGeneral type: {{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]Dong Min understands the unwritten rules of politics - one can never possess too much power.[[/col]][[/i]],1,,,[05]__MTU_sys__Frontend_ui_description.loc.tsv
-"[[b]]Dong Peishan[[/b]]\\nEmpress Dong\\n\\nGeneral type: {{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]Dong Peishan is greedy, but ever cautious in her conduct. If it’s Dong Zhou you’re after, you must outwit the cunning Dong Peishan first""[[/col]][[/i]]",1,,,[05]__MTU_sys__Frontend_ui_description.loc.tsv
+"[[b]]Chen Deng[[/b]]\\nMan For All Seasons\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]Sometimes, just sometimes, power fails to corrupt, and instead leads to altruism and charity.[[/col]][[/i]]",1,[[b]]陳登[[/b]]\\n日月精忠\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]時有奇士，得權不為腐化，反而致力仁政。[[/col]][[/i]],,hv_TEXT_frontend_features.loc.tsv
+[[b]]Dong Min[[/b]]\\nGreedy Tyrant\\n\\nGeneral type: {{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]Dong Min understands the unwritten rules of politics - one can never possess too much power.[[/col]][[/i]],1,,,hv_TEXT_frontend_features.loc.tsv
+"[[b]]Dong Peishan[[/b]]\\nEmpress Dong\\n\\nGeneral type: {{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]Dong Peishan is greedy, but ever cautious in her conduct. If it’s Dong Zhou you’re after, you must outwit the cunning Dong Peishan first""[[/col]][[/i]]",1,,,hv_TEXT_frontend_features.loc.tsv
 [[b]]Empress He[[/b]]\\nSubtle Manipulator\\n\\nGeneral type: {{tr:3k_general_type_fire}}\\n\\n[[col:flavour]][[i]][[/col]][[/i]],1,,,[05]__MTU_sys__Frontend_ui_description.loc.tsv
 [[b]]Encamp[[/b]] is a stance for armies that allow them to set up a more permanent camp.\\n\\n[[b]]Food[[/b]] is used to establish bigger settlements.,1,,,hv_TEXT_frontend_features.loc.tsv
 "[[b]]Fortitude[[/b]] is this faction's unique resource.\\n\\n[[i]][[col:flavour]] With bravery and discipline, Liu Chong inspires his men and puts fear into the enemies of the imperial palace. [[/col]][[/i]] \\n\\n",1,,,hv_TEXT_frontend_features.loc.tsv
@@ -2650,46 +2653,42 @@ Zou Yuan's clothes are thin but soft and sturdy.,1,,,[02]__MTU_items__Armour.loc
 [[b]]Garrisoned armies[[/b]] are armies stationed in a settlement. These will be defending the city in case of an attack and join the local garrison.,1,,,hv_TEXT_frontend_features.loc.tsv
 "[[b]]Guerilla Warfare[[/b]]\\n[[col:scope_description]]Military building chain[[/col]]\\n\\n[[col:green]]+[[/col]] Post-battle loot income\\n[[col:green]]+[[/col]] Military supplies\\n[[col:green]]+[[/col]] Replenishment in foreign land\\n\\n[[col:flavour]][[i]]When fighting a greater opponent, remain flexible and use cunning and surprise.[[/col]][[/i]]",1,[[b]]游擊戰[[/b]]\\n[[col:scope_description]]軍事建築系列[[/col]]\\n\\n[[col:green]]+[[/col]] 戰鬥後擄掠收入\\n[[col:green]]+[[/col]] 軍事物資補給\\n\\n[[col:flavour]]於外邦領土時的補員速率\\n\\n[[col:flavour]][[i]]敵強我弱時，務必保持靈活，利用計謀與奇襲致勝。[[/col]][[/i]],,hv_TEXT_frontend_features.loc.tsv
 [[b]]Horse Breeding[[/b]] is this faction's unique resource.\\n\\n[[i]][[col:flavour]] Ferghana horses are bred to equip cavalry forces. [[/col]][[/i]],1,,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Hou Jinting[[/b]]\\nBrilliant Matriarch\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]The stakes are raised on the fringes of the empire; Hou Jinting’s keen senses and vigilance safeguard the future of her family.[[/col]][[/i]],2,,,[05]__MTU_sys__Frontend_ui_description.loc.tsv
-"[[b]]Hua Lanli[[/b]]\\nArcher of the West\\n\\nGeneral type: {{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]Hua Lanli’s archery skills are outstanding - drawing comparisons to the ancient hero Hou Yi, the Lord Archer himself.[[/col]][[/i]]",3,,,[05]__MTU_sys__Frontend_ui_description.loc.tsv
-"[[b]]Jian Yong[[/b]]\\nComic Storyteller\\n\\nGeneral type: {{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]A childhood friend of Liu Bei, Jian Yong is carefree and informal, but also a superior orator.[[/col]][[/i]]",2,,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Jian Yong[[/b]]\\nComic Storyteller\\n\\nGeneral type: {{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]A childhood friend of Liu Bei, Jian Yong preferred relaxation, but was also a superior diplomat.[[/col]][[/i]]",2,,,[05]__MTU_sys__Frontend_ui_description.loc.tsv
-[[b]]Lady Cai[[/b]]\\nThe Lady of Jingzhou\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]The house of Cai is the most famous noble family in Jingzhou. Lady Cai is willing to use the power.[[/col]][[/i]],3,,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Lady Feng[[/b]]\\nWeeping Woman\\n\\nGeneral type: {{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]Jealous of Lady Feng’s preferential treatment and beauty, the concubines made her cry in front of Yuan numerous times.[[/col]][[/i]]",2,,,[05]__MTU_sys__Frontend_ui_description.loc.tsv
+[[b]]Hou Jinting[[/b]]\\nBrilliant Matriarch\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]The stakes are raised on the fringes of the empire; Hou Jinting’s keen intuition and vigilance safeguards the future of her family.[[/col]][[/i]],2,,,hv_TEXT_frontend_features.loc.tsv
+"[[b]]Hua Lanli[[/b]]\\nArcher of the West\\n\\nGeneral type: {{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]Hua Lanli’s archery skills are outstanding - drawing comparisons to the ancient hero Hou Yi, the Lord Archer himself.[[/col]][[/i]]",3,,,hv_TEXT_frontend_features.loc.tsv
+"[[b]]Jian Yong[[/b]]\\nComic Storyteller\\n\\nGeneral type: {{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]A childhood friend of Liu Bei, Jian Yong is carefree and informal, but also a superior orator.[[/col]][[/i]]",3,,,hv_TEXT_frontend_features.loc.tsv
+"[[b]]Jian Yong[[/b]]\\nComic Storyteller\\n\\nGeneral type: {{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]A childhood friend of Liu Bei, Jian Yong preferred relaxation, but was also a superior diplomat.[[/col]][[/i]]",1,,,[05]__MTU_sys__Frontend_ui_description.loc.tsv
+[[b]]Lady Cai[[/b]]\\nThe Lady of Jingzhou\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]The house of Cai is the most famous noble family in Jingzhou. Lady Cai is willing to use the power.[[/col]][[/i]],3,[[b]]蔡氏[[/b]]\\n荊州夫人\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]蔡氏乃是荊州名門望族。蔡夫人亦甚有權勢。[[/col]][[/i]],,hv_TEXT_frontend_features.loc.tsv
+"[[b]]Lady Feng[[/b]]\\nWeeping Woman\\n\\nGeneral type: {{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]Jealous of Lady Feng’s preferential treatment and beauty, the concubines have made her cry in front of Yuan Shu numerous times.[[/col]][[/i]]",2,,,hv_TEXT_frontend_features.loc.tsv
 [[b]]Lady Liu[[/b]]\\nDevoted Mother\\n\\nGeneral type: {{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]Lady Liu constantly worries about her family. Perhaps she worries too much.[[/col]][[/i]],2,,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Lady Trieu[[/b]]\\nFree-spirited Heroine\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]An untamable woman of the Trieu Dynasty who fights to see her people free.[[/col]][[/i]],1,,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Lady Trieu[[/b]]\\nFree-spirited Heroine\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]An untamable woman of the Trieu Dynasty who fought to see her people free.[[/col]][[/i]],2,,,[05]__MTU_sys__Frontend_ui_description.loc.tsv
-"[[b]]Lady Wu[[/b]]\\nEmpress Wulie\\n\\nGeneral type: {{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]No matter how brave the warrior, they cannot hope to match the power of her dignity and generosity.[[/col]][[/i]]",1,,,[05]__MTU_sys__Frontend_ui_description.loc.tsv
+[[b]]Lady Trieu[[/b]]\\nFree-spirited Heroine\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]An untamable woman of the Trieu Dynasty who fights to see her people free.[[/col]][[/i]],3,,,hv_TEXT_frontend_features.loc.tsv
+"[[b]]Lady Wu[[/b]]\\nEmpress Wulie\\n\\nGeneral type: {{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]No matter how brave the warrior, they cannot hope to match the power of her dignity and generosity.[[/col]][[/i]]",1,,,hv_TEXT_frontend_features.loc.tsv
 [[b]]Local Nobles[[/b]]\\n[[col:scope_description]]Add-on building[[/col]]\\n\\n[[col:green]]+[[/col]] Available Local Noble units \\n [[col:green]]+[[/col]] Replenishment \\n [[col:red]]+[[/col]] Corruption \\n\\n [[col:flavour]][[i]]The local elites. They can be helpful or harmful to you.[[/col]][[/i]],1,,,hv_TEXT_frontend_features.loc.tsv
 [[b]]Loyalty to the Han[[/b]]\\n[[col:scope_description]]Path to victory[[/col]]\\n\\n[[col:red]]Requires high prestige for creating an emperor seat[[/col]]\\nCan gain prestige with imperial favours\\n\\n[[col:flavour]][[i]]Ambition is tamed by respect and loyalty towards the Han and its emperors.[[/col]][[/i]],1,[[b]]忠於漢室[[/b]]\\n[[col:scope_description]]求勝之道[[/col]]\\n\\n[[col:red]]需要高威望來稱帝[[/col]]\\n如獲皇帝寵信則可獲得威望\\n\\n[[col:flavour]][[i]]對漢室和皇帝的尊重和忠誠，馴服了野心。[[/col]][[/i]],,hv_TEXT_frontend_features.loc.tsv
-[[b]]Lu Zheng[[/b]]\\nScout of Taiyuan\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]She transforms the sound of her bow and movement of her troops into a violent and beautiful song and dance.[[/col]][[/i]],1,,,hv_TEXT_frontend_features.loc.tsv
-[[b]]Lu Zheng[[/b]]\\nScout of Taiyuan\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]The sound of her bow and movement of her troops were a violently beautiful song and dance.[[/col]][[/i]],2,,,[05]__MTU_sys__Frontend_ui_description.loc.tsv
+[[b]]Lu Zheng[[/b]]\\nScout of Taiyuan\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]She transforms the sound of her bow and movement of her troops into a violent and beautiful song and dance.[[/col]][[/i]],3,,,hv_TEXT_frontend_features.loc.tsv
 "[[b]]Luo Jun[[/b]]\\nGuardian of the People\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]""There is nothing to be gained from oppressing the people; they, ultimately, will decide our legacy.""[[/col]][[/i]]",3,,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Lü Ji[[/b]]\\nDaughter of the Dragon\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]Much is expected from the Warrior Without Equal’s daughter, but the ravishing Lü Ji fights with both the skill and ferocity to live up to the Lü name.[[/col]][[/i]]",2,,,[05]__MTU_sys__Frontend_ui_description.loc.tsv
+"[[b]]Lü Ji[[/b]]\\nDaughter of the Dragon\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]Much is expected from the Warrior Without Equal’s daughter, but the ravishing Lü Ji fights with both the skill and ferocity to live up to the Lü name.[[/col]][[/i]]",2,,,hv_TEXT_frontend_features.loc.tsv
 [[b]]MELEE EVASION[[/b]]\\n\\n Increases the chance of evading melee damage from front and side. The enemy's charge bonus decreases it.,1,[[b]]近戰迴避[[/b]]\\n\\n 此能力值會提高閃避正面與側面近戰傷害的機率。敵人的衝鋒加成會降低此能力值。,,hv_TEXT_etc.loc.tsv
 [[b]]MELEE HIT BONUS[[/b]]\\n\\n Increases a unit's hit chance at all times by decreasing the enemy's melee evasion.,1,[[b]]近戰命中加成[[/b]]\\n\\n 通過降低敵人的近戰回避，增加單位在任何時候的命中率。,,hv_TEXT_etc.loc.tsv
-"[[b]]Ma Yunlu[[/b]]\\nPrincess Dun Huang\\n\\nGeneral type: {{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]Ma Yunlu prefers small elite units of soldiers rather than a larger army. For her better equipped and highly skilled troops, she won’t spare any cost.[[/col]][[/i]]",2,,,[05]__MTU_sys__Frontend_ui_description.loc.tsv
-"[[b]]Ma Yunlu[[/b]]\\nPrincess Dun Huang\\n\\nGeneral type: {{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]Ma Yunlu prefers small elite units than a large force. For her well equipped and highly skilled troops, she spares no expense.[[/col]][[/i]]",1,,,hv_TEXT_frontend_features.loc.tsv
+"[[b]]Ma Yunlu[[/b]]\\nPrincess Dun Huang\\n\\nGeneral type: {{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]Ma Yunlu prefers small elite units than a large force. For her well equipped and highly skilled troops, she spares no expense.[[/col]][[/i]]",3,,,hv_TEXT_frontend_features.loc.tsv
 "[[b]]Mercenary Outpost[[/b]]\\n[[col:scope_description]]Add-on building[[/col]]\\n\\n[[col:yellow]]Grants access to Mercenaries[[/col]]\\n[[col:green]]+[[/col]] Income from commerce\\n[[col:green]]+[[/col]] Replenishment\\n\\n[[col:flavour]][[i]]Without inheriting authority, wealth's greatest use is for attaining power, so the brave can serve China regardless of their heritage.[[/col]][[/i]]",1,,,hv_TEXT_frontend_features.loc.tsv
 [[b]]Military supplies[[/b]] allow an army to stay in fighting condition and will have an impact on [[b]]replenishment[[/b]] and [[b]]morale[[/b]].,1,,,hv_TEXT_frontend_features.loc.tsv
 [[b]]Nanman[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Initial unit available[[/col]]\\n• Followers of the Flame\\n• Tiger Slingers\\n• Tiger Warriors\\n\\n[[col:flavour]][[i]]The courageous warriors of Southern China are finally ready to carve out their place in the world.[[/col]][[/i]],1,,,hv_TEXT_frontend_features.loc.tsv
 "[[b]]Nanman[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Initial unit available[[/col]]\\n• Nanzhong Spearmen\\n• Nanzhong Champions\\n• Nanzhong Elephants\\n\\n[[col:flavour]][[i]]Finally, the courageous warriors of Southern China are ready to carve out a their place in the world.[[/col]][[/i]]",1,,,hv_TEXT_frontend_features.loc.tsv
 [[b]]Nanman[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Initial unit available[[/col]]\\n• Ravine Warriors\\n• Southern Elephants\\n• War Elephants\\n\\n[[col:flavour]][[i]]The courageous warriors of Southern China are finally ready to carve out their place in the world.[[/col]][[/i]],1,,,hv_TEXT_frontend_features.loc.tsv
 [[b]]Nanman[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Initial unit available[[/col]]\\n• Wuling Fighters\\n• Wuling Slingers\\n• Might of the Valley\\n\\n[[col:flavour]][[i]]The courageous warriors of Southern China are finally ready to carve out their place in the world.[[/col]][[/i]],1,,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Pang De[[/b]]\\nWhite Horse General\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]Pang De is an unrelenting force, whose avowed enemies know they must face him sooner or later.[[/col]][[/i]]",3,,,[05]__MTU_sys__Frontend_ui_description.loc.tsv
-"[[b]]Qu Gong[[/b]]\\nOne-Eyed Bandit\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]When your eye for banditry and mischief is this good, you don’t need both eyes.[[/col]][[/i]]",3,,,[05]__MTU_sys__Frontend_ui_description.loc.tsv
+"[[b]]Pang De[[/b]]\\nWhite Horse General\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]Pang De is an unrelenting force, whose avowed enemies know they must face him sooner or later.[[/col]][[/i]]",3,,,hv_TEXT_frontend_features.loc.tsv
+"[[b]]Qu Gong[[/b]]\\nOne-Eyed Bandit\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]When your eye for banditry and mischief is this good, you don’t need both eyes.[[/col]][[/i]]",3,,,hv_TEXT_frontend_features.loc.tsv
 "[[b]]Sell Horses[[/b]]\\n[[col:scope_description]]Economic assignment[[/col]]\\n\\n[[col:green]]+[[/col]] Income from commerce\\n\\n[[col:flavour]][[i]]Your attendant will sell the horses you've bred, for a fine sum.[[/col]][[/i]]",1,,,hv_TEXT_frontend_features.loc.tsv
 [[b]]Stratocracy[[/b]] is this faction's unique resource.\\n\\n[[i]][[col:flavour]] An inevitable rule to stabilize the turmoil. [[/col]],1,,,hv_TEXT_frontend_features.loc.tsv
 [[b]]Trophies[[/b]] can be displayed in the [[b]]trophy cabinet[[/b]]. Each [[b]]trophy[[/b]] provides a bonus whilst it is on display.,1,,,hv_TEXT_frontend_features.loc.tsv
 "[[b]]Wu Anguo[[/b]]\\nOne Armed Bear\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]Although he lost one hand, he was one of the few who survived from duel with Lubu.[[/col]][[/i]]",4,[[b]]武安国[[/b]]\\n独臂虎熊\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]雖然武安國痛失一臂，但卻是少數幾個與呂布決鬥後倖存下來的人之一。[[/col]][[/i]],,[05]__MTU_sys__Frontend_ui_description.loc.tsv
-"[[b]]Yan Xiang[[/b]]\\nSagacious Seer\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]Blessed with prodigious foresight, Yan Xiang sees and reacts to the perils and pitfalls long before they arise.[[/col]][[/i]]",1,,,[05]__MTU_sys__Frontend_ui_description.loc.tsv
+"[[b]]Yan Xiang[[/b]]\\nSagacious Seer\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]Blessed with prodigious foresight, Yan Xiang forsees perils and pitfalls long before they arise.[[/col]][[/i]]",1,,,hv_TEXT_frontend_features.loc.tsv
 [[b]]Yellow Turban[[/b]] factions are seen as outlaws and diplomacy with them is normally [[b]]restricted[[/b]]. Zhang Yan can [[b]]improve relations[[/b]] with Yellow Turbans and can align himself with them.,1,,,hv_TEXT_frontend_features.loc.tsv
 [[b]]Yellow Turbans[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Initial unit available[[/col]]\\n• {{tr:hv_unit_ytr_archery_masters}}\\n\\n[[col:flavour]][[i]]The wind of change that will transform China![[/col]][[/i]],1,,,hv_TEXT_frontend_features.loc.tsv
 [[b]]Yellow Turbans[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Initial unit available[[/col]]\\n• {{tr:hv_unit_ytr_guardians_of_the_land}}\\n• {{tr:hv_unit_ytr_the_lands_chosen}}\\n\\n[[col:flavour]][[i]]The wind of change that will transform China![[/col]][[/i]],1,,,hv_TEXT_frontend_features.loc.tsv
 [[b]]Yellow Turbans[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Initial unit available[[/col]]\\n• {{tr:hv_unit_ytr_youxia}}\\n\\n[[col:flavour]][[i]]The wind of change that will transform China![[/col]][[/i]],1,,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Yuan Anyang[[/b]]\\nPrincess Zhong\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]The beauty and qualities of Yuan Anyang, a princess of the Kingdom of Zhong, are known throughout the land.[[/col]][[/i]]",1,,,hv_TEXT_frontend_features.loc.tsv
-"[[b]]Yuan Anyang[[/b]]\\nPrincess Zhong\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]The beauty and qualities of Yuan Anyang, a princess of the Zhong Kingdom, were known throughout the land.[[/col]][[/i]]",2,,,[05]__MTU_sys__Frontend_ui_description.loc.tsv
-"[[b]]Zhang Xun[[/b]]\\nGeneral-in-Chief of Zhong\\n\\nGeneral type: {{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]As the lead general in the Zhong Kingdom, Zhang Xun commanded the formidable army of the Yuan family.[[/col]][[/i]]",2,,,[05]__MTU_sys__Frontend_ui_description.loc.tsv
+"[[b]]Yuan Anyang[[/b]]\\nPrincess Zhong\\n\\nGeneral type: {{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]The beauty and qualities of Yuan Anyang, a princess of the Kingdom of Zhong, are known throughout the land.[[/col]][[/i]]",3,,,hv_TEXT_frontend_features.loc.tsv
+"[[b]]Zhang Xun[[/b]]\\nGeneral-in-Chief of Zhong\\n\\nGeneral type: {{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]As the leading general of the Kingdom of Zhong, Zhang Xun commands the formidable army of the Yuan family.[[/col]][[/i]]",2,,,hv_TEXT_frontend_features.loc.tsv
 "[[b]]Zheng Lan[[/b]]\\nQueen of Black Mountain\\n\\nGeneral type: {{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]An ambitious woman, whose reasons to marry Zhang Yan are as mysterious as herself.[[/col]][[/i]]",3,,,hv_TEXT_frontend_features.loc.tsv
 [[col:flavour]]Local Noble's Estate[[/col]],1,[[col:flavour]]士族莊園序列[[/col]],,hv_TEXT_building.loc.tsv
 [[col:green]]Immune to Fear and Terror[[/col]],1,[[col:green]]驚嚇和驚駭免疫[[/col]],,!hv_TEXT_system.loc.tsv

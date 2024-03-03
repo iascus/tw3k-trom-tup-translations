@@ -85,7 +85,7 @@ class LookupFile(Step):
 class InputTsvFiles(Step):
     def _run(self):
         dfs = []
-        for filepath in glob.glob(os.path.join('csv', 'in', self.dir_path, '**', '*.tsv'), recursive=True):
+        for filepath in sorted(glob.glob(os.path.join('csv', 'in', self.dir_path, '**', '*.tsv'), recursive=True)):
             with open(filepath, encoding='utf-8') as tsv_file:
                 df = pd.read_csv(tsv_file, sep='\t', skiprows=[1])
                 df.columns = ['Key', 'Text', 'Tooltip']
