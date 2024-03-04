@@ -553,6 +553,7 @@ class Comparison(Step):
         'leiwai_zhtw': LeiwaiZhtw,
         'iascus_zhcn': IascusZhcn,
         'iascus_zhtw': IascusZhtw,
+        'lookup_by_skill': LookupBySkill,
     }
 
     def _run(self):
@@ -573,24 +574,19 @@ class Comparison(Step):
             ]
         ], axis=1).loc[self.trom_eng.data['Key'].drop_duplicates()].reset_index()
 
-        # cmp = cmp[
-        #     cmp['Key'].str.startswith('character_skills_localised_')
-        # ]
-        cmp.insert(7, 'DiffZhcn', cmp['ProcrastinatorZhcn'] != cmp['MappedZhcn'])
-        cmp.insert(8, 'DiffZhtw', cmp['ProcrastinatorZhtw'] != cmp['MappedZhtw'])
-        # cmp['SkillKey'] = cmp['Key'].str.replace(
-        #     re.compile('character_skills_localised_([a-z]+)_(.*)'), r'\2_\1', regex=True
-        # )
-        cmp = cmp.loc[cmp['ProcrastinatorZhcn'] != cmp['MappedZhcn']].dropna(subset='ProcrastinatorZhcn')
-        # cmp = cmp.drop('Key', axis=1).sort_values('SkillKey', ascending=False).drop_duplicates()
-        # cmp = cmp.loc[~cmp['English'].isin([
-        #     'First Characteristic',
-        #     'Someone who stands out among the people.',
-        #     'Second Characteristic',
-        #     'A remarkable talent.',
-        #     'Third Characteristic',
-        #     'Every person has their own path.',
-        # ])]
+        # cmp.insert(7, 'DiffZhcn', cmp['ProcrastinatorZhcn'] != cmp['MappedZhcn'])
+        # cmp.insert(8, 'DiffZhtw', cmp['ProcrastinatorZhtw'] != cmp['MappedZhtw'])
+        # cmp = cmp.loc[cmp['ProcrastinatorZhcn'] != cmp['MappedZhcn']].dropna(subset='ProcrastinatorZhcn')
+        skills = self.lookup_by_skill.data.drop_duplicates('eng').set_index('eng')
+        cmp = cmp.merge(skills, left_on='English', right_index=True, how='right')
+        cmp = cmp.loc[~cmp['English'].isin([
+            'First Characteristic',
+            'Someone who stands out among the people.',
+            'Second Characteristic',
+            'A remarkable talent.',
+            'Third Characteristic',
+            'Every person has their own path.',
+        ])]
         # cmp = cmp[~cmp['SourceZhtw'].isin(['Vanilla', 'MappedByPattern'])]
         return cmp
 
