@@ -355,6 +355,7 @@ class MapByKeyZhcn(Step):
         'leiwai_zh': LeiwaiZhcn,
         'pikaman_zh': PikaManZhcn,
         'procrastinator_zh': ProcrastinatorZhcn,
+        'iascus_zh': IascusZhcn,
         'lookup_by_key': LookupByKey,
         'map_by_pattern_zh': MapByPatternZhcn,
     }
@@ -367,6 +368,7 @@ class MapByKeyZhcn(Step):
         leiwai_zh = self.leiwai_zh.data.drop_duplicates(subset=['Key'])[['Key', 'Text']]
         pikaman_zh = self.pikaman_zh.data.drop_duplicates(subset=['Key'])[['Key', 'Text']]
         procrastinator_zh = self.procrastinator_zh.data.drop_duplicates(subset=['Key'])[['Key', 'Text']]
+        iascus_zh = self.iascus_zh.data.drop_duplicates(subset=['Key'])[['Key', 'Text']]
         lookup_by_key = self.lookup_by_key.data[['Key', self.lang_col]].rename({self.lang_col: 'OverrideByKey'}, axis=1)
         map_by_pattern_zh = self.map_by_pattern_zh.data[['Text', 'MappedByText', 'MappedByPattern']].rename({'Text': 'English'}, axis=1)
 
@@ -376,9 +378,11 @@ class MapByKeyZhcn(Step):
         data = data.merge(leiwai_zh.rename({'Text': 'Leiwai'}, axis=1), on='Key', how='left')
         data = data.merge(pikaman_zh.rename({'Text': 'PikaMan'}, axis=1), on='Key', how='left')
         data = data.merge(procrastinator_zh.rename({'Text': 'Procrastinator'}, axis=1), on='Key', how='left')
-        data['Text'] = pd.NA
-        data['Source'] = 'Missing'
+        data = data.merge(iascus_zh.rename({'Text': 'Iascus'}, axis=1), on='Key', how='left')
         data = data.merge(map_by_pattern_zh, on='English', how='left')
+        data = data.fillna('')
+        data['Text'] = ''
+        data['Source'] = 'Missing'
         for col in [
             'Mtu',
             'PikaMan',
@@ -390,7 +394,7 @@ class MapByKeyZhcn(Step):
             'OverrideByKey',
         ]:
             to_update = (
-                ~pd.isna(data[col]) & (data[col] != '')
+                (data[col] != '')
                 & (
                     (data[col] != data['Text'])
                     | (col in ['Vanilla', 'MappedByText', 'MappedByPattern', 'OverrideByKey'])
@@ -398,11 +402,17 @@ class MapByKeyZhcn(Step):
             )
             data.loc[to_update, ['Source']] = col
             data.loc[to_update, ['Text']] = data[col]
+        data.loc[
+            (data['Procrastinator'] == data['Text'])
+            & (data['Procrastinator'] != data['Iascus'])
+            & (data['Procrastinator'] != data['Mtu']),
+            ['Source']
+        ] = 'Procrastinator'
 
         data['File'] = data['File'].str.replace('text/_hvo/', '')
         data = data.reset_index()[[
             'Key', 'Text', 'Tooltip', 'English', 'Source',
-            'OverrideByKey', 'MappedByPattern', 'MappedByText',
+            'OverrideByKey', 'MappedByPattern', 'MappedByText', 'Iascus',
             'Vanilla', 'Leiwai', 'Procrastinator', 'PikaMan', 'Mtu',
             'File',
         ]]
@@ -420,6 +430,7 @@ class MapByKeyZhtw(MapByKeyZhcn):
         'leiwai_zh': LeiwaiZhtw,
         'pikaman_zh': PikaManZhtw,
         'procrastinator_zh': ProcrastinatorZhtw,
+        'iascus_zh': IascusZhtw,
         'lookup_by_key': LookupByKey,
         'map_by_pattern_zh': MapByPatternZhtw,
     }
@@ -460,7 +471,10 @@ class RegenLookupByText(Step):
     def _run(self):
         new_lookup = pd.concat([
             zh.loc[
-                zh.Source.isin(['Missing', 'MappedByText']), ['English', from_col]
+                (
+                    self.map_by_key_zhcn.data.Source.isin(['Missing', 'MappedByText'])
+                    | self.map_by_key_zhtw.data.Source.isin(['Missing', 'MappedByText'])
+                ), ['English', from_col]
             ].rename({
                 'English': 'eng',
                 from_col: to_col,
