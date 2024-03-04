@@ -386,6 +386,7 @@ class MapByKeyZhcn(Step):
         for col in [
             'Mtu',
             'PikaMan',
+            'Iascus',
             'Procrastinator',
             'Leiwai',
             'Vanilla',
@@ -397,17 +398,15 @@ class MapByKeyZhcn(Step):
                 (data[col] != '')
                 & (
                     (data[col] != data['Text'])
-                    | (col in ['Vanilla', 'MappedByText', 'MappedByPattern', 'OverrideByKey'])
+                    | (
+                        (data['Source'] == 'Iascus')
+                        &
+                        (col in ['Vanilla', 'MappedByText', 'MappedByPattern', 'OverrideByKey',])
+                    )
                 )
             )
             data.loc[to_update, ['Source']] = col
             data.loc[to_update, ['Text']] = data[col]
-        data.loc[
-            (data['Procrastinator'] == data['Text'])
-            & (data['Procrastinator'] != data['Iascus'])
-            & (data['Procrastinator'] != data['Mtu']),
-            ['Source']
-        ] = 'Procrastinator'
 
         data['File'] = data['File'].str.replace('text/_hvo/', '')
         data = data.reset_index()[[
@@ -588,10 +587,10 @@ class Comparison(Step):
             ]
         ], axis=1).loc[self.trom_eng.data['Key'].drop_duplicates()].reset_index()
 
-        # cmp.insert(7, 'DiffZhcn', cmp['ProcrastinatorZhcn'] != cmp['MappedZhcn'])
-        # cmp.insert(8, 'DiffZhtw', cmp['ProcrastinatorZhtw'] != cmp['MappedZhtw'])
+        cmp.insert(7, 'DiffZhcn', cmp['ProcrastinatorZhcn'] != cmp['MappedZhcn'])
+        cmp.insert(8, 'DiffZhtw', cmp['ProcrastinatorZhtw'] != cmp['MappedZhtw'])
         # cmp = cmp.loc[cmp['ProcrastinatorZhcn'] != cmp['MappedZhcn']].dropna(subset='ProcrastinatorZhcn')
-        skills = self.lookup_by_skill.data.drop_duplicates('eng').set_index('eng')
+        skills = self.lookup_by_skill.data[['eng', 'Skill']].drop_duplicates('eng').set_index('eng')
         cmp = cmp.merge(skills, left_on='English', right_index=True, how='right')
         cmp = cmp.loc[~cmp['English'].isin([
             'First Characteristic',

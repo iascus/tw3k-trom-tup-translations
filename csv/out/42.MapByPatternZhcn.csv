@@ -20,7 +20,7 @@ A Precious Son is Born to Liu Bei,1,,,[04]__MTU_events__Born.loc.tsv
 A Remarkable Writer Laments ,2,,,[04]__MTU_events___Cai_family.loc.tsv
 A Rush of Tigers and Leopards,3,,虎豹狂奔,hv_TEXT_unit_abilities.loc.tsv
 A Secret Plan,4,,,hv_TEXT_effects_skills.loc.tsv
-A Storm of Swords,11,,剑刃风暴,hv_TEXT_skills_skill_ability__historical.loc.tsv
+A Storm of Swords,11,,舞爪,hv_TEXT_skills_skill_ability__historical.loc.tsv
 A Strong Daughter is Born to Guan Yu,1,,,[04]__MTU_events__Born.loc.tsv
 A Strong Daughter is Born to Zhang Fei,1,,,[04]__MTU_events__Born.loc.tsv
 A Strong Son is Born to Guan Yu,1,,,[04]__MTU_events__Born.loc.tsv
@@ -103,7 +103,7 @@ A yellow turban warband has invaded your territory. You must defeat them.,1,有�
 Ability : Commanding Presence,2,,,[03]__MTU_skills__Passive_debuff.loc.tsv
 Ability : Dignity,1,,,[03]__MTU_skills__Active_debuff.loc.tsv
 Ability: A Secret Plan,1,,技能：密计,hv_TEXT_effects_skills.loc.tsv
-Ability: A Storm of Swords,2,,技能：剑刃风暴,hv_TEXT_skills_skill_enable_effect.loc.tsv
+Ability: A Storm of Swords,2,,技能：舞爪,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Adamant Resolve,1,,技能：不屈,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Analyse Weakness,1,,技能：看破,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Angry Scolding,1,,技能：懿旨,[03]__MTU_skills__Active_debuff.loc.tsv
@@ -247,12 +247,12 @@ Ability: Sinister Strike,1,,技能：影袭,hv_TEXT_skills_skill_enable_effect.l
 Ability: Sister Outlaws,1,,技能：沆瀣,[03]__MTU_skills__Passive_buff.loc.tsv
 Ability: Smouldering Fury,1,,技能：愤懑,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Sound Advice,1,,技能：劝谏,[03]__MTU_skills__Active_buff.loc.tsv
-Ability: Spearhead,1,,技能：讨贼先锋,[03]__MTU_skills__Passive_buff.loc.tsv
+Ability: Spearhead,1,,技能：破茧,[03]__MTU_skills__Passive_buff.loc.tsv
 Ability: Stalwart Defender,1,,技能：坚防,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Stength of the Land,1,,技能：地力,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Stone Bulwark,3,,技能：磐石,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Storytelling,2,,技能：妙语,[03]__MTU_skills__Passive_buff.loc.tsv
-Ability: Striking Tide,1,,技能：刀浪澎湃,hv_TEXT_skills_skill_enable_effect.loc.tsv
+Ability: Striking Tide,1,,技能：刀浪,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Successor of the War God,1,,技能：箕裘,[03]__MTU_skills___Splash_attack.loc.tsv
 Ability: Sundering Strike,1,,技能：裂斩,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Suppressive Fire\\n,1,,,[03]__MTU_skills___Projectile.loc.tsv
@@ -375,7 +375,7 @@ Artillery,4,远程砲兵,,hv_TEXT_unit_ui_group_t1.loc.tsv
 Artillery (Buqu),1,,远程砲兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
 Artillery (Elite),1,,远程砲兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
 Artillery (Militia),1,,远程砲兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
-"As Sun Ce's strength rises, his grip on rationality weakens…",1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"As Sun Ce's strength rises, his grip on rationality weakens…",1,,孙策虽愈战愈勇，但肆意猛虎愈无慎行...,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 As accurate and deadly as a viper’s strike.,1,,,[02]__MTU_items__Weapons.loc.tsv
 "As big as it is, heavy but strong",1,,,[02]__MTU_items__Weapons.loc.tsv
 "As the Black Mountain bandits increase in number, the more brazen they become.",1,黑山匪徒之数与日俱增，其行为亦更加肆无忌惮。,,hv_TEXT_frontend_features.loc.tsv
@@ -453,7 +453,7 @@ Blazing Saddles,1,,绝尘,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "Blessed with prodigious foresight, Yan Xiang forsees perils and pitfalls long before they arise.",1,,,[01]__MTU_generals__Water_strategist.loc.tsv
 Blood Rush,4,,虎翼,[03]__MTU_skills__Passive_buff.loc.tsv
 Blood Seekers,1,嗜血兵,,hv_TEXT_unit_text_replacements.loc.tsv
-Blood Thirst,3,,嗜血成性,hv_TEXT_unit_abilities.loc.tsv
+Blood Thirst,3,,嗜血,hv_TEXT_unit_abilities.loc.tsv
 "Blood boiling in anger, Zhang Fei called his daughter over and shouted at her, his booming voice like thunder. She had drank his precious wine, after all, and a lesson must be taught. However, the ever-defiant Zhang Xueer would not sit in silence - she scolded her father for drinking too much and said she didn’t care if he was upset!",1,,,[04]__MTU_events___daughter.loc.tsv
 Bloody Fury,1,,血怒,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Blooming Beauty,7,,芳香,[03]__MTU_skills__Passive_buff.loc.tsv
@@ -660,7 +660,7 @@ Defensive Stance,3,,防御姿态,hv_TEXT_unit_abilities.loc.tsv
 Deft Touch,4,,龙韬,[03]__MTU_skills__Active_buff.loc.tsv
 Delivers a very powerful blow.,4,,可发出非常有力的一击。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Desperate Cry,4,,绝号,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Desperate Stand,3,,背水一战,hv_TEXT_unit_abilities.loc.tsv
+Desperate Stand,3,,背水,hv_TEXT_unit_abilities.loc.tsv
 Desperation soon leads to violence.,2,,万般无奈之下，唯有殊死一搏。,hv_TEXT_unit_abilities.loc.tsv
 "Despite being a renowned scholar, Cai Yong was executed. Compromised men could not be allowed to further stifle the Han's flame.\\n\\n",1,,,[04]__MTU_events___Cai_family.loc.tsv
 "Despite being extremely agitated that Zhang Xueer had drank his favorite wine, Zhang Fei held back his rage. He explained that wine of such quality was hard to come by and, if she ever felt the need to try his wine again, that she better invite him to drink, too!",1,,,[04]__MTU_events___daughter.loc.tsv
@@ -1708,7 +1708,7 @@ Shoot some crossbow-bombs for reducing morale of hostile units.,1,,射出一些�
 "Short Range, Powerful Flame Damage, Average Reload",3,近距，火焰伤害强，射击速率一般,,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 Shot Heard Round the Empire,3,,,[04]__MTU_events__Common.loc.tsv
 Shots from the White Horse Fellows give their enemies pause.,1,,「号‘白马义从’，以实禁卫也。」,hv_TEXT_unit_abilities_hit_effects.loc.tsv
-"Should this blow strike true, the battle is done. Should it not, then… it may still also be done.",2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"Should this blow strike true, the battle is done. Should it not, then… it may still also be done.",2,,此乃绝死一击，若中，则战局可定；若不中……亦可定。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Show of Force,1,,耀武,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Siege Attacker,1,攻城,,hv_TEXT_unit_ui_bullet.loc.tsv
 Sight of the Dragon,1,,龙睛,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -1738,7 +1738,7 @@ Sogdian Merchants,1,粟特商人,,hv_TEXT_events.loc.tsv
 Sogdian Officer,2,粟特士官,,hv_TEXT_effects_ceo.loc.tsv
 Sogdians from the west has been spotted entering our borders. We will be able to purchase fine goods or hire Sogd mercenaries soon.,1,,,hv_TEXT_events.loc.tsv
 Sogidan Merchants Approach,1,粟特商人来访,,hv_TEXT_events.loc.tsv
-Soldiers gather under the banner of this hero.,9,,军士聚于此英雄之旗下。,hv_TEXT_skills_skill_ability__historical.loc.tsv
+Soldiers gather under the banner of this hero.,9,,英雄大志者必能凝聚人心。,hv_TEXT_skills_skill_ability__historical.loc.tsv
 Solidarity,3,,共济,hv_TEXT_unit_abilities.loc.tsv
 Some care not for their own personal safety and so work themselves into a whirlwind of destruction and mindless violence!,1,,及锋而试，乘胜重击。,hv_TEXT_unit_abilities.loc.tsv
 Someone has to take the first step even if no one wants it.,3,,遭扰攘之时，值兵革之际。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -1757,7 +1757,7 @@ Spear Infantry (Buqu),8,,持矛步兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.lo
 Spear Infantry (Captain),1,,持矛步兵（伯长）,hv_TEXT_unit_ui_group_VM.loc.tsv
 Spear Infantry (Elite),7,,持矛步兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
 Spear Infantry (Militia),7,,持矛步兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
-Spearhead,6,,讨贼先锋,[03]__MTU_skills__Passive_buff.loc.tsv
+Spearhead,6,,破茧,[03]__MTU_skills__Passive_buff.loc.tsv
 Special Treatment,1,,,[04]__MTU_events__Common.loc.tsv
 Special treatment draws the ire of those around you.,1,,,[04]__MTU_events__Common.loc.tsv
 Specially made crossbow bolts from Chen.,1,,陈国特制的弓弩，威力强大。,hv_TEXT_unit_abilities_hit_effects.loc.tsv
@@ -1790,7 +1790,7 @@ Stratocracy: Modest,1,军政：初试锋芒,,hv_TEXT_effects_pooled_resource.loc
 Stratocracy: Substantial,1,军政：不可小觑,,hv_TEXT_effects_pooled_resource.loc.tsv
 Strength of Black Mountain,3,,黑山之力,hv_TEXT_unit_abilities.loc.tsv
 Strength of the Land,3,,地力,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
-Striking Tide,3,,刀浪澎湃,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+Striking Tide,3,,刀浪,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 "Strong of will, but without tact. Shen Pei charges into the fray without hesitation, pushing his men with him, willing to win by determination alone.",2,,独拥残兵守邺城，审配慷慨壮烈。,[03]__MTU_skills__Passive_buff.loc.tsv
 Stubborn,3,,冥顽不灵,hv_TEXT_unit_abilities.loc.tsv
 Stylism,1,,文学,z_dummy_hv_TEXT_non_deployable.loc.tsv
@@ -1845,7 +1845,7 @@ Tenacity of Steel,8,,刚韧,hv_TEXT_skills_skill_ability__historical.loc.tsv
 "Thanks to your patronage of scholars and men of talent, your officers have made progress on the path to enlightenment.",1,由于你对学者和人才的赞助，你的官员在启蒙的道路上取得了进步。,,hv_TEXT_events.loc.tsv
 "The 36 Strategems, realised.",1,,,[02]__MTU_items__Accessory.loc.tsv
 The Armies of the North,5,,北军,hv_TEXT_unit_abilities.loc.tsv
-The Armies of the West ,7,,西军,hv_TEXT_unit_abilities.loc.tsv
+The Armies of the West ,7,,西凉军,hv_TEXT_unit_abilities.loc.tsv
 "The Bandit Queen named Zheng Jiang joined your forces. A Taiyuan woman, infamous for her ferocity and skill, she carried a pair of well-crafted axes called the “Red Sisters”. Your welcome, a banquet with much wine, soon turned to sport as the Bandit Queen desired combat. Her martial display ended with two of your defeated bodyguards and much excitement. Perhaps, gold and glory would be ample trade to make her unending skill and free spirit yours.",1,,,[04]__MTU_events___Concubine.loc.tsv
 "The Bandit Queen, Zheng Jiang",1,,,[04]__MTU_events___Concubine.loc.tsv
 "The Beautiful Beast, Lü Ji",1,,,[04]__MTU_events___Concubine.loc.tsv
@@ -2051,7 +2051,7 @@ This authorisation tally is tradeable in diplomacy!,1,此兵符可在外交中�
 "This city is a populous hive of activity, a centre of commerce and culture in which the lowest of commoners coexists with the mightiest of nobles.",6,,,hv_TEXT_effects_pooled_resource.loc.tsv
 "This city is bustling with activity, its diverse population living their lives and plying their trades day-to-day.",6,,,hv_TEXT_effects_pooled_resource.loc.tsv
 "This fearless approach exemplifies their commitment to decisive action, willing to trade safety for the chance of a crushing blow.",1,,奋勇无畏，果敢行事，甘冒危险以谋求致命一击的机会。,hv_TEXT_unit_abilities.loc.tsv
-This general directs and empowers his forces from a… safer distance.,3,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+This general directs and empowers his forces from a… safer distance.,3,,此将会在…安全距离指挥激励部队。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "This general is as an immovable wall, inspiring his men to stand firm against much greater odds.",3,,此将有如一道铜墙铁壁，鼓舞着麾下兵士在逆境中不动如山。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "This general rallies the troops to greater feats, inspiring them to make one final effort.",2,,此将集结军队，激励众将士发起最后的冲锋，建不世之功业。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "This general's orders are absolute and cannot be refused, no matter how unreasonable they may be.",2,,命令不易实行但却不可不从。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv

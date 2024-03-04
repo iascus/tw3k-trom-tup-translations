@@ -737,11 +737,11 @@ character_skills_localised_description_hv_historical_skill_ability_earth_03	军�
 character_skills_localised_description_hv_historical_skill_ability_fire_01	以堅定的心智和強硬的刀刃發起衝鋒，便能一舉撕裂敵陣。	true
 character_skills_localised_description_hv_historical_skill_ability_fire_02	挾帶竄升烈火之力的毀滅一擊！	true
 character_skills_localised_description_hv_historical_skill_ability_fire_03	很少有人能逃過這位勇士的追殺。	true
-character_skills_localised_description_hv_historical_skill_ability_healer_01	此人相信，要將敵人除之而後快，就必須先追得上敵人。	true
+character_skills_localised_description_hv_historical_skill_ability_healer_01	此人行動迅如狡兔，萬軍擒拿亦若無物。	true
 character_skills_localised_description_hv_historical_skill_ability_healer_02	以堅定的心智和強硬的刀刃發起衝鋒，便能一舉撕裂敵陣。	true
 character_skills_localised_description_hv_historical_skill_ability_healer_03	知道同胞絕不會捨自己而去，能讓人大感安心。	true
 character_skills_localised_description_hv_historical_skill_ability_metal_01	從一名戰士傳達到另一名戰士的戰鬥口號。	true
-character_skills_localised_description_hv_historical_skill_ability_metal_02	此人相信，要將敵人除之而後快，就必須先追得上敵人。	true
+character_skills_localised_description_hv_historical_skill_ability_metal_02	此人行動迅如狡兔，萬軍擒拿亦若無物。	true
 character_skills_localised_description_hv_historical_skill_ability_metal_03	森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。	true
 character_skills_localised_description_hv_historical_skill_ability_scholar_01	往頭上看，看到的是天空，往心裡看，看到的便是黃天。	true
 character_skills_localised_description_hv_historical_skill_ability_scholar_02	皮若堅石，箭矢觸及皆反彈無傷。	true
@@ -804,8 +804,8 @@ character_skills_localised_description_hv_skill_ability_defence_mastery_resolve	
 character_skills_localised_description_hv_skill_ability_desperate_cry	能激勵人的不見得是命令的內容，也可能是發號施令的方法。	true
 character_skills_localised_description_hv_skill_ability_devastating_roar_instinct	狂怒的吼聲擊潰敵軍士氣！	true
 character_skills_localised_description_hv_skill_ability_disorientate	熟知戰場的人即使面對最有把握的士兵，也能動搖他們的自信。	true
-character_skills_localised_description_hv_skill_ability_distant_courage_authority	大將軍難道不應該在遠離紛爭的地方運籌帷幄？	true
-character_skills_localised_description_hv_skill_ability_distant_courage_instinct	大將軍難道不應該在遠離紛爭的地方運籌帷幄？	true
+character_skills_localised_description_hv_skill_ability_distant_courage_authority	這名將軍指揮若定，鼓舞盟友大顯身手…但他本人並不親赴前線。	true
+character_skills_localised_description_hv_skill_ability_distant_courage_instinct	這名將軍指揮若定，鼓舞盟友大顯身手…但他本人並不親赴前線。	true
 character_skills_localised_description_hv_skill_ability_dong_command_instinct	來自相國嚴苛的命令。	true
 character_skills_localised_description_hv_skill_ability_elemental_vigour_expertise	此人會隨著戰鬥時間拉長而越戰越勇，激勵士氣的效果也隨之增強！	true
 character_skills_localised_description_hv_skill_ability_eviscerate_instinct	等到被害者明白過來，就已爲時已晚。	true
@@ -826,8 +826,8 @@ character_skills_localised_description_hv_skill_ability_fire_control_veteran	依
 character_skills_localised_description_hv_skill_ability_flames_of_the_phoenix_authority	挾帶竄升烈火之力的毀滅一擊！	true
 character_skills_localised_description_hv_skill_ability_flames_of_the_phoenix_instinct	挾帶竄升烈火之力的毀滅一擊！	true
 character_skills_localised_description_hv_skill_ability_flames_of_the_phoenix_resolve	挾帶竄升烈火之力的毀滅一擊！	true
-character_skills_localised_description_hv_skill_ability_fleet_footed_authority	此人相信，要將敵人除之而後快，就必須先追得上敵人。	true
-character_skills_localised_description_hv_skill_ability_fleet_footed_expertise	此人相信，要將敵人除之而後快，就必須先追得上敵人。	true
+character_skills_localised_description_hv_skill_ability_fleet_footed_authority	此人行動迅如狡兔，萬軍擒拿亦若無物。	true
+character_skills_localised_description_hv_skill_ability_fleet_footed_expertise	此人行動迅如狡兔，萬軍擒拿亦若無物。	true
 character_skills_localised_description_hv_skill_ability_flower_of_battlefield_authority	此處不宜美人久留。	true
 character_skills_localised_description_hv_skill_ability_flower_of_battlefield_cunning	此處不宜美人久留。	true
 character_skills_localised_description_hv_skill_ability_flower_of_battlefield_expertise	此處不宜美人久留。	true
@@ -1490,7 +1490,7 @@ character_skills_localised_name_3k_main_skill_special_ability_earth_lady_dong_cr
 character_skills_localised_name_3k_main_skill_special_ability_earth_order_of_tyrant	遮天	true
 character_skills_localised_name_3k_main_skill_special_ability_earth_shout	懿旨	true
 character_skills_localised_name_3k_main_skill_special_ability_fire_blood_flower	流星	true
-character_skills_localised_name_3k_main_skill_special_ability_fire_breakthrough_in_concentration	突擊先鋒	true
+character_skills_localised_name_3k_main_skill_special_ability_fire_breakthrough_in_concentration	破繭	true
 character_skills_localised_name_3k_main_skill_special_ability_fire_camp_crushing	搗穴	true
 character_skills_localised_name_3k_main_skill_special_ability_fire_chunyu_qiong_frenzy	狂暴	true
 character_skills_localised_name_3k_main_skill_special_ability_fire_concentrated_strikes	猛蛇	true
@@ -2821,7 +2821,7 @@ effects_description_3k_main_skill_blooming_beauty_xiao_25	技能：芳香	true
 effects_description_3k_main_skill_blooming_beauty_xiao_50	技能：芳香	true
 effects_description_3k_main_skill_blossoming_beauty	技能：天仙	true
 effects_description_3k_main_skill_brawn_of_yangan	技能：鬥牛	true
-effects_description_3k_main_skill_breakthrough_in_concentration	技能：突擊先鋒	true
+effects_description_3k_main_skill_breakthrough_in_concentration	技能：破繭	true
 effects_description_3k_main_skill_broad_Knowledge_1	被動增益：淵博	true
 effects_description_3k_main_skill_broad_Knowledge_2	被動增益：淵博	true
 effects_description_3k_main_skill_calculated_judgment	技能：奇襲	true
@@ -4197,9 +4197,9 @@ special_ability_phases_onscreen_name_3k_main_ability_blooming_beauty_xiao_25	芳
 special_ability_phases_onscreen_name_3k_main_ability_blooming_beauty_xiao_50	芳香	true
 special_ability_phases_onscreen_name_3k_main_ability_blossoming_beauty	天仙	true
 special_ability_phases_onscreen_name_3k_main_ability_brawn_of_yangan	鬥牛	true
-special_ability_phases_onscreen_name_3k_main_ability_breakthrough_in_concentration_1	突擊先鋒	true
-special_ability_phases_onscreen_name_3k_main_ability_breakthrough_in_concentration_2	突擊先鋒	true
-special_ability_phases_onscreen_name_3k_main_ability_breakthrough_in_concentration_3	突擊先鋒	true
+special_ability_phases_onscreen_name_3k_main_ability_breakthrough_in_concentration_1	破繭	true
+special_ability_phases_onscreen_name_3k_main_ability_breakthrough_in_concentration_2	破繭	true
+special_ability_phases_onscreen_name_3k_main_ability_breakthrough_in_concentration_3	破繭	true
 special_ability_phases_onscreen_name_3k_main_ability_broad_Knowledge_1	淵博	true
 special_ability_phases_onscreen_name_3k_main_ability_broad_Knowledge_2	淵博	true
 special_ability_phases_onscreen_name_3k_main_ability_calculated_judgment	奇襲	true
@@ -4438,9 +4438,9 @@ special_ability_phases_onscreen_name_hv_ability_stubborn	頑固執拗	true
 special_ability_phases_onscreen_name_hv_ability_tactical_stance_defensive	防禦姿態	true
 special_ability_phases_onscreen_name_hv_ability_tactical_stance_offensive	進攻姿態	true
 special_ability_phases_onscreen_name_hv_ability_the_armies_of_the_north_melee	北軍	true
-special_ability_phases_onscreen_name_hv_ability_the_armies_of_the_north_ranged	西軍	true
-special_ability_phases_onscreen_name_hv_ability_the_armies_of_the_west_melee	西軍	true
-special_ability_phases_onscreen_name_hv_ability_the_armies_of_the_west_ranged	西軍	true
+special_ability_phases_onscreen_name_hv_ability_the_armies_of_the_north_ranged	西涼軍	true
+special_ability_phases_onscreen_name_hv_ability_the_armies_of_the_west_melee	西涼軍	true
+special_ability_phases_onscreen_name_hv_ability_the_armies_of_the_west_ranged	西涼軍	true
 special_ability_phases_onscreen_name_hv_ability_the_weight_on_the_shoulders	砥柱	true
 special_ability_phases_onscreen_name_hv_ability_tiger	白虎之威	true
 special_ability_phases_onscreen_name_hv_ability_tiger_skin	虎皮	true
@@ -5923,7 +5923,7 @@ unit_abilities_onscreen_name_3k_main_ability_blooming_beauty_xiao_25	芳香	true
 unit_abilities_onscreen_name_3k_main_ability_blooming_beauty_xiao_50	芳香	true
 unit_abilities_onscreen_name_3k_main_ability_blossoming_beauty	天仙	true
 unit_abilities_onscreen_name_3k_main_ability_brawn_of_yangan	鬥牛	true
-unit_abilities_onscreen_name_3k_main_ability_breakthrough_in_concentration	突擊先鋒	true
+unit_abilities_onscreen_name_3k_main_ability_breakthrough_in_concentration	破繭	true
 unit_abilities_onscreen_name_3k_main_ability_broad_Knowledge_1	淵博	true
 unit_abilities_onscreen_name_3k_main_ability_broad_Knowledge_2	淵博	true
 unit_abilities_onscreen_name_3k_main_ability_calculated_judgment	奇襲	true
@@ -6124,8 +6124,8 @@ unit_abilities_onscreen_name_hv_ability_tactical_stance_defensive	防禦姿態	t
 unit_abilities_onscreen_name_hv_ability_tactical_stance_offensive	進攻姿態	true
 unit_abilities_onscreen_name_hv_ability_the_armies_of_the_north_melee	北軍	true
 unit_abilities_onscreen_name_hv_ability_the_armies_of_the_north_ranged	北軍	true
-unit_abilities_onscreen_name_hv_ability_the_armies_of_the_west_melee	西軍	true
-unit_abilities_onscreen_name_hv_ability_the_armies_of_the_west_ranged	西軍	true
+unit_abilities_onscreen_name_hv_ability_the_armies_of_the_west_melee	西涼軍	true
+unit_abilities_onscreen_name_hv_ability_the_armies_of_the_west_ranged	西涼軍	true
 unit_abilities_onscreen_name_hv_ability_the_weight_on_the_shoulders	砥柱	true
 unit_abilities_onscreen_name_hv_ability_tiger	白虎之威	true
 unit_abilities_onscreen_name_hv_ability_tiger_skin	虎皮	true
@@ -6237,7 +6237,7 @@ unit_abilities_tooltip_text_3k_main_ability_coward_b50	董旻只敢仗勢欺人�
 unit_abilities_tooltip_text_3k_main_ability_critical_strike	摧心剖肝，直中要害。	true
 unit_abilities_tooltip_text_3k_main_ability_demigod_of_war	一脈相承，不愧爲武聖之女！	true
 unit_abilities_tooltip_text_3k_main_ability_dignity_of_the_empress	如有要事稟告，務必以禮相待。	true
-unit_abilities_tooltip_text_3k_main_ability_distant_courage	大將軍難道不應該在遠離紛爭的地方運籌帷幄？	true
+unit_abilities_tooltip_text_3k_main_ability_distant_courage	這名將軍指揮若定，鼓舞盟友大顯身手…但他本人並不親赴前線。	true
 unit_abilities_tooltip_text_3k_main_ability_distrust_power	不臣之士，話裏藏刀。	true
 unit_abilities_tooltip_text_3k_main_ability_double_sword_dance	舞劍操刀於敵衆之間。	true
 unit_abilities_tooltip_text_3k_main_ability_elegant_and_cultured	熟讀兵書，精通兵法之將領可令千人有萬人之威。	true
@@ -6248,7 +6248,7 @@ unit_abilities_tooltip_text_3k_main_ability_experienced_rider	羌人自小學習
 unit_abilities_tooltip_text_3k_main_ability_fatal_attraction	「不知夫人今宵願與我同席共枕否？」	true
 unit_abilities_tooltip_text_3k_main_ability_father_daughter	父女同心，無往不利。	true
 unit_abilities_tooltip_text_3k_main_ability_ferocious_rush	怒火中燒，浴血奮戰。	true
-unit_abilities_tooltip_text_3k_main_ability_fleet_footed	此人相信，要將敵人除之而後快，就必須先追得上敵人。	false
+unit_abilities_tooltip_text_3k_main_ability_fleet_footed	此人行動迅如狡兔，萬軍擒拿亦若無物。	false
 unit_abilities_tooltip_text_3k_main_ability_flower_on_the_battlefield	美貌之下，藏着一頭桀驁不馴的猛獸。	true
 unit_abilities_tooltip_text_3k_main_ability_forced_march	你這廝，還不快接着走！	true
 unit_abilities_tooltip_text_3k_main_ability_foul_wits	高瞻之論還需配上願聽忠言之明主。	true
@@ -6357,7 +6357,7 @@ unit_abilities_tooltip_text_hv_ability_fearless_charge	冲啊！ 冲啊！ 为�
 unit_abilities_tooltip_text_hv_ability_ferocity	憤怒把他們逼至極限。	true
 unit_abilities_tooltip_text_hv_ability_fire_control	依序射擊更為有效。	true
 unit_abilities_tooltip_text_hv_ability_flame_breathing	將你的心點燃！	true
-unit_abilities_tooltip_text_hv_ability_fleet_footed	此人相信，要將敵人除之而後快，就必須先追得上敵人。	true
+unit_abilities_tooltip_text_hv_ability_fleet_footed	此人行動迅如狡兔，萬軍擒拿亦若無物。	true
 unit_abilities_tooltip_text_hv_ability_flower_of_battlefield	此處不宜美人久留。	true
 unit_abilities_tooltip_text_hv_ability_foresight	此人能明鑑古今，洞察未來。	true
 unit_abilities_tooltip_text_hv_ability_forest_strategy	樹林是他們的朋友。	true
@@ -6466,11 +6466,11 @@ unit_abilities_tooltip_text_hv_historical_ability_earth_03	军士聚于此英雄
 unit_abilities_tooltip_text_hv_historical_ability_fire_01	以堅定的心智和強硬的刀刃發起衝鋒，便能一舉撕裂敵陣。	true
 unit_abilities_tooltip_text_hv_historical_ability_fire_02	挾帶竄升烈火之力的毀滅一擊！	true
 unit_abilities_tooltip_text_hv_historical_ability_fire_03	很少有人能逃過這位勇士的追殺。	true
-unit_abilities_tooltip_text_hv_historical_ability_healer_01	此人相信，要將敵人除之而後快，就必須先追得上敵人。	true
+unit_abilities_tooltip_text_hv_historical_ability_healer_01	此人行動迅如狡兔，萬軍擒拿亦若無物。	true
 unit_abilities_tooltip_text_hv_historical_ability_healer_02	以堅定的心智和強硬的刀刃發起衝鋒，便能一舉撕裂敵陣。	true
 unit_abilities_tooltip_text_hv_historical_ability_healer_03	知道同胞絕不會捨自己而去，能讓人大感安心。	true
 unit_abilities_tooltip_text_hv_historical_ability_metal_01	從一名戰士傳達到另一名戰士的戰鬥口號。	true
-unit_abilities_tooltip_text_hv_historical_ability_metal_02	此人相信，要將敵人除之而後快，就必須先追得上敵人。	true
+unit_abilities_tooltip_text_hv_historical_ability_metal_02	此人行動迅如狡兔，萬軍擒拿亦若無物。	true
 unit_abilities_tooltip_text_hv_historical_ability_metal_03	森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。	true
 unit_abilities_tooltip_text_hv_historical_ability_scholar_01	往頭上看，看到的是天空，往心裡看，看到的便是黃天。	true
 unit_abilities_tooltip_text_hv_historical_ability_scholar_02	皮若堅石，箭矢觸及皆反彈無傷。	true
@@ -6507,7 +6507,7 @@ unit_ability_types_localised_description_3k_main_ability_blooming_beauty_xiao_25
 unit_ability_types_localised_description_3k_main_ability_blooming_beauty_xiao_50	芳香	true
 unit_ability_types_localised_description_3k_main_ability_blossoming_beauty	天仙	true
 unit_ability_types_localised_description_3k_main_ability_brawn_of_yangan	鬥牛	true
-unit_ability_types_localised_description_3k_main_ability_breakthrough_in_concentration	突擊先鋒	true
+unit_ability_types_localised_description_3k_main_ability_breakthrough_in_concentration	破繭	true
 unit_ability_types_localised_description_3k_main_ability_broad_Knowledge_1	淵博	true
 unit_ability_types_localised_description_3k_main_ability_broad_Knowledge_2	淵博	true
 unit_ability_types_localised_description_3k_main_ability_calculated_judgment	奇襲	true
@@ -6708,8 +6708,8 @@ unit_ability_types_localised_description_hv_ability_tactical_stance_defensive	�
 unit_ability_types_localised_description_hv_ability_tactical_stance_offensive	進攻姿態	true
 unit_ability_types_localised_description_hv_ability_the_armies_of_the_north_melee	北軍	true
 unit_ability_types_localised_description_hv_ability_the_armies_of_the_north_ranged	北軍	true
-unit_ability_types_localised_description_hv_ability_the_armies_of_the_west_melee	西軍	true
-unit_ability_types_localised_description_hv_ability_the_armies_of_the_west_ranged	西軍	true
+unit_ability_types_localised_description_hv_ability_the_armies_of_the_west_melee	西涼軍	true
+unit_ability_types_localised_description_hv_ability_the_armies_of_the_west_ranged	西涼軍	true
 unit_ability_types_localised_description_hv_ability_the_weight_on_the_shoulders	砥柱	true
 unit_ability_types_localised_description_hv_ability_tiger	白虎之威	true
 unit_ability_types_localised_description_hv_ability_tiger_skin	虎皮	true

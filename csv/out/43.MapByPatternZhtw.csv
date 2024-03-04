@@ -247,7 +247,7 @@ Ability: Sinister Strike,1,,技能：險惡一擊,hv_TEXT_skills_skill_enable_ef
 Ability: Sister Outlaws,1,,技能：沆瀣,[03]__MTU_skills__Passive_buff.loc.tsv
 Ability: Smouldering Fury,1,,技能：怒火中燒,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Sound Advice,1,,技能：勸諫,[03]__MTU_skills__Active_buff.loc.tsv
-Ability: Spearhead,1,,技能：突擊先鋒,[03]__MTU_skills__Passive_buff.loc.tsv
+Ability: Spearhead,1,,技能：破繭,[03]__MTU_skills__Passive_buff.loc.tsv
 Ability: Stalwart Defender,1,,技能：步步為營,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Stength of the Land,1,,技能：大地之力,hv_TEXT_skills_skill_enable_effect.loc.tsv
 Ability: Stone Bulwark,3,,技能：堅若磐石,hv_TEXT_skills_skill_enable_effect.loc.tsv
@@ -375,7 +375,7 @@ Artillery,4,遠程砲兵,,hv_TEXT_unit_ui_group_t1.loc.tsv
 Artillery (Buqu),1,,遠程砲兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
 Artillery (Elite),1,,遠程砲兵（精銳）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
 Artillery (Militia),1,,遠程砲兵（義勇）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
-"As Sun Ce's strength rises, his grip on rationality weakens…",1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"As Sun Ce's strength rises, his grip on rationality weakens…",1,,孫策戰力漸增，卻也愈加感情用事…,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 As accurate and deadly as a viper’s strike.,1,,,[02]__MTU_items__Weapons.loc.tsv
 "As big as it is, heavy but strong",1,,,[02]__MTU_items__Weapons.loc.tsv
 "As the Black Mountain bandits increase in number, the more brazen they become.",1,黑山匪徒之數與日俱增，其行為亦更加肆無忌憚。,,hv_TEXT_frontend_features.loc.tsv
@@ -1708,7 +1708,7 @@ Shoot some crossbow-bombs for reducing morale of hostile units.,1,,射出一些�
 "Short Range, Powerful Flame Damage, Average Reload",3,近距，火焰傷害強，射擊速率一般,,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 Shot Heard Round the Empire,3,,,[04]__MTU_events__Common.loc.tsv
 Shots from the White Horse Fellows give their enemies pause.,1,,「號‘白馬義從’，以實禁衛也。」,hv_TEXT_unit_abilities_hit_effects.loc.tsv
-"Should this blow strike true, the battle is done. Should it not, then… it may still also be done.",2,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"Should this blow strike true, the battle is done. Should it not, then… it may still also be done.",2,,如果這一擊命中，戰鬥便會結束。如果沒有命中，那麼…戰鬥仍然可能結束。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Show of Force,1,,揚威挫銳,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Siege Attacker,1,攻城,,hv_TEXT_unit_ui_bullet.loc.tsv
 Sight of the Dragon,1,,龍之慧眼,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -1757,7 +1757,7 @@ Spear Infantry (Buqu),8,,持槍步兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.lo
 Spear Infantry (Captain),1,,持槍步兵（校尉）,hv_TEXT_unit_ui_group_VM.loc.tsv
 Spear Infantry (Elite),7,,持槍步兵（精銳）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
 Spear Infantry (Militia),7,,持槍步兵（義勇）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
-Spearhead,6,,突擊先鋒,[03]__MTU_skills__Passive_buff.loc.tsv
+Spearhead,6,,破繭,[03]__MTU_skills__Passive_buff.loc.tsv
 Special Treatment,1,,,[04]__MTU_events__Common.loc.tsv
 Special treatment draws the ire of those around you.,1,,,[04]__MTU_events__Common.loc.tsv
 Specially made crossbow bolts from Chen.,1,,陳國特製的弓弩，威力強大。,hv_TEXT_unit_abilities_hit_effects.loc.tsv
@@ -1845,7 +1845,7 @@ Tenacity of Steel,8,,堅韌如鋼,hv_TEXT_skills_skill_ability__historical.loc.t
 "Thanks to your patronage of scholars and men of talent, your officers have made progress on the path to enlightenment.",1,由於您對學者和人才的贊助，您的官員在修爲的道路上取得了進步。,,hv_TEXT_events.loc.tsv
 "The 36 Strategems, realised.",1,,,[02]__MTU_items__Accessory.loc.tsv
 The Armies of the North,5,,北軍,hv_TEXT_unit_abilities.loc.tsv
-The Armies of the West ,7,,西軍,hv_TEXT_unit_abilities.loc.tsv
+The Armies of the West ,7,,西涼軍,hv_TEXT_unit_abilities.loc.tsv
 "The Bandit Queen named Zheng Jiang joined your forces. A Taiyuan woman, infamous for her ferocity and skill, she carried a pair of well-crafted axes called the “Red Sisters”. Your welcome, a banquet with much wine, soon turned to sport as the Bandit Queen desired combat. Her martial display ended with two of your defeated bodyguards and much excitement. Perhaps, gold and glory would be ample trade to make her unending skill and free spirit yours.",1,,,[04]__MTU_events___Concubine.loc.tsv
 "The Bandit Queen, Zheng Jiang",1,,,[04]__MTU_events___Concubine.loc.tsv
 "The Beautiful Beast, Lü Ji",1,,,[04]__MTU_events___Concubine.loc.tsv
@@ -2051,12 +2051,12 @@ This authorisation tally is tradeable in diplomacy!,1,此兵符可在外交中�
 "This city is a populous hive of activity, a centre of commerce and culture in which the lowest of commoners coexists with the mightiest of nobles.",6,,,hv_TEXT_effects_pooled_resource.loc.tsv
 "This city is bustling with activity, its diverse population living their lives and plying their trades day-to-day.",6,,,hv_TEXT_effects_pooled_resource.loc.tsv
 "This fearless approach exemplifies their commitment to decisive action, willing to trade safety for the chance of a crushing blow.",1,,奮勇無畏，果敢行事，甘冒危險以求致命一擊的機會。,hv_TEXT_unit_abilities.loc.tsv
-This general directs and empowers his forces from a… safer distance.,3,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+This general directs and empowers his forces from a… safer distance.,3,,這名將軍指揮若定，鼓舞盟友大顯身手…但他本人並不親赴前線。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "This general is as an immovable wall, inspiring his men to stand firm against much greater odds.",3,,此將有如一堵難以撼動的牆，激勵麾下兵士堅守陣線排除萬難。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "This general rallies the troops to greater feats, inspiring them to make one final effort.",2,,此將召集兵士奮勇作戰，鼓勵他們作最後一搏。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "This general's orders are absolute and cannot be refused, no matter how unreasonable they may be.",2,,命令不易實行但卻不可不從。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "This hero accosts the enemy hero, shaking them to the core.",4,,此英雄向敵將大膽喊話，令對方心神動搖。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-This hero believes you can only kill that which you can catch.,8,,此人相信，要將敵人除之而後快，就必須先追得上敵人。,hv_TEXT_skills_skill_ability__historical.loc.tsv
+This hero believes you can only kill that which you can catch.,8,,此人行動迅如狡兔，萬軍擒拿亦若無物。,hv_TEXT_skills_skill_ability__historical.loc.tsv
 This hero gets a bonus in duels. ,1,此英雄在單挑中有加成。,,hv_TEXT_skills_additional.loc.tsv
 This hero gets a great bonus in duels. ,1,此英雄在單挑中有强大加成。,,hv_TEXT_skills_additional.loc.tsv
 This infantry gathers equipment dropped or left behind in battle to help their brothers and sisters continue the fight.,1,,,hv_TEXT_unit_desc.loc.tsv

@@ -10,7 +10,7 @@ KeyPattern,TextPattern,zh-cn,zh-tw
 ,^\[\[b\]\]%\+n\[\[/b\]\] (?P<text_fragment>[a-zA-Z ]+) for (?P<unit_type>[a-zA-Z :{}_]+) units$,{unit_type}部队{text_fragment}[[b]]%+n[[/b]],{unit_type}單位{text_fragment}[[b]]%+n[[/b]]
 ,^\[\[b\]\]%\+n\[\[/b\]\] (?P<text_fragment>[a-zA-Z ]+) for (?P<unit_type>[a-zA-Z :{}_]+),{unit_type}{text_fragment}[[b]]%+n[[/b]],{unit_type}{text_fragment}[[b]]%+n[[/b]]
 ,^\[\[b\]\]%\+n\[\[/b\]\] (?P<text_fragment>[a-zA-Z ]+)$,{text_fragment}[[b]]%+n[[/b]],{text_fragment}[[b]]%+n[[/b]]
-^(character_skills_localised_|unit_abilities_onscreen_name_|unit_abilities_tooltip_text_|unit_ability_types_localised_description_|special_ability_phases_onscreen_name_).*,"^(?P<skill>[-a-zA-Z ',\.\?!\(\):&]+)$",{skill},{skill}
+^(character_skills_localised_|unit_abilities_onscreen_name_|unit_abilities_tooltip_text_|unit_ability_types_localised_description_|special_ability_phases_onscreen_name_).*,"^(?P<skill>[-a-zA-Z ',\.\?!\(\):&…]+)$",{skill},{skill}
 ^ceo_nodes_.*_armour_unique$,^(?P<character>[a-zA-Z ]+)['’]s (?P<text_fragment>[a-zA-Z ]+)$,{character}的{text_fragment},{character}的{text_fragment}
 ^ceo_nodes_description_.*,^Proof that the bearer has the authority to command (?P<unit_type>[a-zA-Z ]+).,持此令牌者可以指挥{unit_type}。,持此令牌者可以指揮{unit_type}。
 ^ceo_nodes_description_.*,^Proof that the bearer has the authority to command (?P<unit_type>[a-zA-Z]+) troops.,持此令牌者可以指挥{unit_type}部队。,持此令牌者可以指揮{unit_type}單位。

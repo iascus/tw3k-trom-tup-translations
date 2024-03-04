@@ -732,7 +732,7 @@ character_skills_localised_description_3k_main_skill_special_ability_wood_victor
 character_skills_localised_description_3k_main_skill_special_ability_wood_youthful_vigor,关兴对他的手下也从不手下留情，这令他的部曲令人生畏。,True
 character_skills_localised_description_hv_historical_skill_ability_earth_01,冲突无法避免。,True
 character_skills_localised_description_hv_historical_skill_ability_earth_02,凭地利，如披坚甲，箭若无物。,True
-character_skills_localised_description_hv_historical_skill_ability_earth_03,军士聚于此英雄之旗下。,True
+character_skills_localised_description_hv_historical_skill_ability_earth_03,英雄大志者必能凝聚人心。,True
 character_skills_localised_description_hv_historical_skill_ability_fire_01,坚定之心，锋利宝刃，足以撕破敌阵,True
 character_skills_localised_description_hv_historical_skill_ability_fire_02,凤怒炎涛，摧枯拉朽！,True
 character_skills_localised_description_hv_historical_skill_ability_fire_03,很少有人能逃过这位勇士的追杀。,True
@@ -763,12 +763,12 @@ character_skills_localised_description_hv_skill_ability_anti_cavalry_authority,�
 character_skills_localised_description_hv_skill_ability_anti_cavalry_cunning,将士兵组成人墙来抵御马匹。此战术简单有效。,True
 character_skills_localised_description_hv_skill_ability_anti_cavalry_resolve,将士兵组成人墙来抵御马匹。此战术简单有效。,True
 character_skills_localised_description_hv_skill_ability_anti_cavalry_veteran,将士兵组成人墙来抵御马匹。此战术简单有效。,True
-character_skills_localised_description_hv_skill_ability_assemble_authority,军士聚于此英雄之旗下。,True
-character_skills_localised_description_hv_skill_ability_assemble_expertise,军士聚于此英雄之旗下。,True
-character_skills_localised_description_hv_skill_ability_assemble_instinct,军士聚于此英雄之旗下。,True
-character_skills_localised_description_hv_skill_ability_assemble_resolve,军士聚于此英雄之旗下。,True
-character_skills_localised_description_hv_skill_ability_assemble_scholar,军士聚于此英雄之旗下。,True
-character_skills_localised_description_hv_skill_ability_assemble_veteran,军士聚于此英雄之旗下。,True
+character_skills_localised_description_hv_skill_ability_assemble_authority,英雄大志者必能凝聚人心。,True
+character_skills_localised_description_hv_skill_ability_assemble_expertise,英雄大志者必能凝聚人心。,True
+character_skills_localised_description_hv_skill_ability_assemble_instinct,英雄大志者必能凝聚人心。,True
+character_skills_localised_description_hv_skill_ability_assemble_resolve,英雄大志者必能凝聚人心。,True
+character_skills_localised_description_hv_skill_ability_assemble_scholar,英雄大志者必能凝聚人心。,True
+character_skills_localised_description_hv_skill_ability_assemble_veteran,英雄大志者必能凝聚人心。,True
 character_skills_localised_description_hv_skill_ability_binding_fury_instinct,聚山林盛怒，以对抗一人,True
 character_skills_localised_description_hv_skill_ability_binding_fury_resolve,聚山林盛怒，以对抗一人,True
 character_skills_localised_description_hv_skill_ability_binding_fury_scholar,聚山林盛怒，以对抗一人,True
@@ -803,8 +803,8 @@ character_skills_localised_description_hv_skill_ability_defence_mastery_resolve,
 character_skills_localised_description_hv_skill_ability_desperate_cry,驱人者非令，道也,True
 character_skills_localised_description_hv_skill_ability_devastating_roar_instinct,以愤怒的怒吼压制敌人士气！,True
 character_skills_localised_description_hv_skill_ability_disorientate,坚忍之士亦为所惑,True
-character_skills_localised_description_hv_skill_ability_distant_courage_authority,大将军难道不应该在远离纷争的地方运筹帷幄？,True
-character_skills_localised_description_hv_skill_ability_distant_courage_instinct,大将军难道不应该在远离纷争的地方运筹帷幄？,True
+character_skills_localised_description_hv_skill_ability_distant_courage_authority,此将会在…安全距离指挥激励部队。,True
+character_skills_localised_description_hv_skill_ability_distant_courage_instinct,此将会在…安全距离指挥激励部队。,True
 character_skills_localised_description_hv_skill_ability_dong_command_instinct,来自相国严苛的命令。,True
 character_skills_localised_description_hv_skill_ability_elemental_vigour_expertise,此人会随着战斗时间拉长而越战越勇，激励士气的效果也随之增强！,True
 character_skills_localised_description_hv_skill_ability_eviscerate_instinct,等到被害者明白过来，就已为时已晚。,True
@@ -1489,7 +1489,7 @@ character_skills_localised_name_3k_main_skill_special_ability_earth_lady_dong_cr
 character_skills_localised_name_3k_main_skill_special_ability_earth_order_of_tyrant,遮天,True
 character_skills_localised_name_3k_main_skill_special_ability_earth_shout,懿旨,True
 character_skills_localised_name_3k_main_skill_special_ability_fire_blood_flower,流星,True
-character_skills_localised_name_3k_main_skill_special_ability_fire_breakthrough_in_concentration,讨贼先锋,True
+character_skills_localised_name_3k_main_skill_special_ability_fire_breakthrough_in_concentration,破茧,True
 character_skills_localised_name_3k_main_skill_special_ability_fire_camp_crushing,捣穴,True
 character_skills_localised_name_3k_main_skill_special_ability_fire_chunyu_qiong_frenzy,狂暴,True
 character_skills_localised_name_3k_main_skill_special_ability_fire_concentrated_strikes,猛蛇,True
@@ -1559,7 +1559,7 @@ character_skills_localised_name_3k_main_skill_special_ability_wood_unexpected_st
 character_skills_localised_name_3k_main_skill_special_ability_wood_unwed_warrior,处子,True
 character_skills_localised_name_3k_main_skill_special_ability_wood_victory_or_death,破甑,True
 character_skills_localised_name_3k_main_skill_special_ability_wood_youthful_vigor,稚虎,True
-character_skills_localised_name_hv_historical_skill_ability_earth_01,剑刃风暴,True
+character_skills_localised_name_hv_historical_skill_ability_earth_01,舞爪,True
 character_skills_localised_name_hv_historical_skill_ability_earth_02,磐石,True
 character_skills_localised_name_hv_historical_skill_ability_earth_03,齐心,True
 character_skills_localised_name_hv_historical_skill_ability_fire_01,突围,True
@@ -1758,9 +1758,9 @@ character_skills_localised_name_hv_skill_ability_stalwart_defender_expertise,坚
 character_skills_localised_name_hv_skill_ability_stalwart_defender_resolve,坚防,True
 character_skills_localised_name_hv_skill_ability_stone_bulwark_authority,磐石,True
 character_skills_localised_name_hv_skill_ability_stone_bulwark_cunning,磐石,True
-character_skills_localised_name_hv_skill_ability_storm_of_swords_authority,剑刃风暴,True
-character_skills_localised_name_hv_skill_ability_storm_of_swords_expertise,剑刃风暴,True
-character_skills_localised_name_hv_skill_ability_storm_of_swords_instinct,剑刃风暴,True
+character_skills_localised_name_hv_skill_ability_storm_of_swords_authority,舞爪,True
+character_skills_localised_name_hv_skill_ability_storm_of_swords_expertise,舞爪,True
+character_skills_localised_name_hv_skill_ability_storm_of_swords_instinct,舞爪,True
 character_skills_localised_name_hv_skill_ability_strength_of_the_land,地力,True
 character_skills_localised_name_hv_skill_ability_sundering_strike_instinct,裂斩,True
 character_skills_localised_name_hv_skill_ability_swift_fingers_expertise,妙手,True
@@ -2820,7 +2820,7 @@ effects_description_3k_main_skill_blooming_beauty_xiao_25,技能：芳香,True
 effects_description_3k_main_skill_blooming_beauty_xiao_50,技能：芳香,True
 effects_description_3k_main_skill_blossoming_beauty,技能：天仙,True
 effects_description_3k_main_skill_brawn_of_yangan,技能：斗牛,True
-effects_description_3k_main_skill_breakthrough_in_concentration,技能：讨贼先锋,True
+effects_description_3k_main_skill_breakthrough_in_concentration,技能：破茧,True
 effects_description_3k_main_skill_broad_Knowledge_1,被动增益：渊博,True
 effects_description_3k_main_skill_broad_Knowledge_2,被动增益：渊博,True
 effects_description_3k_main_skill_calculated_judgment,技能：奇袭,True
@@ -3353,9 +3353,9 @@ effects_description_hv_effect_unlock_sogd_remove_penalty,装备此随从后，�
 effects_description_hv_effect_unlock_sparrow,技能：燕翔,True
 effects_description_hv_effect_unlock_stalwart_defender,技能：坚防,True
 effects_description_hv_effect_unlock_stone_bulwark,技能：磐石,True
-effects_description_hv_effect_unlock_storm_of_swords,技能：剑刃风暴,True
+effects_description_hv_effect_unlock_storm_of_swords,技能：舞爪,True
 effects_description_hv_effect_unlock_strength_of_the_land,技能：地力,True
-effects_description_hv_effect_unlock_striking_tide,技能：刀浪澎湃,True
+effects_description_hv_effect_unlock_striking_tide,技能：刀浪,True
 effects_description_hv_effect_unlock_sundering_strike,技能：裂斩,True
 effects_description_hv_effect_unlock_swift_fingers,技能：妙手,True
 effects_description_hv_effect_unlock_swift_steps,技能：运步如飞,True
@@ -3394,7 +3394,7 @@ effects_description_hv_effects_skill_add_unlock_fire,解锁部队：{{tr:hv_tr_f
 effects_description_hv_effects_skill_add_unlock_metal,解锁部队：{{tr:hv_tr_metal}}部队,True
 effects_description_hv_effects_skill_add_unlock_water,解锁部队：{{tr:hv_tr_water}}部队,True
 effects_description_hv_effects_skill_add_unlock_wood,解锁部队：{{tr:hv_tr_wood}}部队,True
-effects_description_hv_effects_unlock_historical_ability_earth_01,技能：剑刃风暴,True
+effects_description_hv_effects_unlock_historical_ability_earth_01,技能：舞爪,True
 effects_description_hv_effects_unlock_historical_ability_earth_02,技能：磐石,True
 effects_description_hv_effects_unlock_historical_ability_earth_03,技能：齐心,True
 effects_description_hv_effects_unlock_historical_ability_fire_01,技能：突围,True
@@ -4196,9 +4196,9 @@ special_ability_phases_onscreen_name_3k_main_ability_blooming_beauty_xiao_25,芳
 special_ability_phases_onscreen_name_3k_main_ability_blooming_beauty_xiao_50,芳香,True
 special_ability_phases_onscreen_name_3k_main_ability_blossoming_beauty,天仙,True
 special_ability_phases_onscreen_name_3k_main_ability_brawn_of_yangan,斗牛,True
-special_ability_phases_onscreen_name_3k_main_ability_breakthrough_in_concentration_1,讨贼先锋,True
-special_ability_phases_onscreen_name_3k_main_ability_breakthrough_in_concentration_2,讨贼先锋,True
-special_ability_phases_onscreen_name_3k_main_ability_breakthrough_in_concentration_3,讨贼先锋,True
+special_ability_phases_onscreen_name_3k_main_ability_breakthrough_in_concentration_1,破茧,True
+special_ability_phases_onscreen_name_3k_main_ability_breakthrough_in_concentration_2,破茧,True
+special_ability_phases_onscreen_name_3k_main_ability_breakthrough_in_concentration_3,破茧,True
 special_ability_phases_onscreen_name_3k_main_ability_broad_Knowledge_1,渊博,True
 special_ability_phases_onscreen_name_3k_main_ability_broad_Knowledge_2,渊博,True
 special_ability_phases_onscreen_name_3k_main_ability_calculated_judgment,奇袭,True
@@ -4327,7 +4327,7 @@ special_ability_phases_onscreen_name_hv_ability_blade_mastery_1,剑术专精,Tru
 special_ability_phases_onscreen_name_hv_ability_blade_mastery_2,剑术专精,True
 special_ability_phases_onscreen_name_hv_ability_blade_mastery_3,剑术专精,True
 special_ability_phases_onscreen_name_hv_ability_bleed,影袭,True
-special_ability_phases_onscreen_name_hv_ability_blood_thirst,嗜血成性,True
+special_ability_phases_onscreen_name_hv_ability_blood_thirst,嗜血,True
 special_ability_phases_onscreen_name_hv_ability_brawl,熊罴,True
 special_ability_phases_onscreen_name_hv_ability_brotherhood,共济,True
 special_ability_phases_onscreen_name_hv_ability_bulwark,墨守,False
@@ -4348,7 +4348,7 @@ special_ability_phases_onscreen_name_hv_ability_defense_mastery_melee_custom,近
 special_ability_phases_onscreen_name_hv_ability_defense_mastery_ranged,远程防御大师,True
 special_ability_phases_onscreen_name_hv_ability_defense_mastery_ranged_custom,远程防御大师,True
 special_ability_phases_onscreen_name_hv_ability_desperate_cry,绝号,True
-special_ability_phases_onscreen_name_hv_ability_desperate_resistance,背水一战,False
+special_ability_phases_onscreen_name_hv_ability_desperate_resistance,背水,False
 special_ability_phases_onscreen_name_hv_ability_desperate_savior,重振旗鼓,True
 special_ability_phases_onscreen_name_hv_ability_disorientate,蛊惑,True
 special_ability_phases_onscreen_name_hv_ability_dong_command_1,相令,True
@@ -4428,18 +4428,18 @@ special_ability_phases_onscreen_name_hv_ability_second_chance,余烬复燃,True
 special_ability_phases_onscreen_name_hv_ability_skirmishing_shot,游击,True
 special_ability_phases_onscreen_name_hv_ability_sniper_position,狙击位置,True
 special_ability_phases_onscreen_name_hv_ability_sparrow,燕翔,True
-special_ability_phases_onscreen_name_hv_ability_storm_of_swords_1,剑刃风暴,True
-special_ability_phases_onscreen_name_hv_ability_storm_of_swords_2,剑刃风暴,True
+special_ability_phases_onscreen_name_hv_ability_storm_of_swords_1,舞爪,True
+special_ability_phases_onscreen_name_hv_ability_storm_of_swords_2,舞爪,True
 special_ability_phases_onscreen_name_hv_ability_strength_of_blackmountain,黑山之力,True
 special_ability_phases_onscreen_name_hv_ability_strength_of_the_land,地力,True
-special_ability_phases_onscreen_name_hv_ability_striking_tide,刀浪澎湃,True
+special_ability_phases_onscreen_name_hv_ability_striking_tide,刀浪,True
 special_ability_phases_onscreen_name_hv_ability_stubborn,冥顽不灵,True
 special_ability_phases_onscreen_name_hv_ability_tactical_stance_defensive,防御姿态,True
 special_ability_phases_onscreen_name_hv_ability_tactical_stance_offensive,进攻姿态,True
 special_ability_phases_onscreen_name_hv_ability_the_armies_of_the_north_melee,北军,True
-special_ability_phases_onscreen_name_hv_ability_the_armies_of_the_north_ranged,西军,True
-special_ability_phases_onscreen_name_hv_ability_the_armies_of_the_west_melee,西军,True
-special_ability_phases_onscreen_name_hv_ability_the_armies_of_the_west_ranged,西军,True
+special_ability_phases_onscreen_name_hv_ability_the_armies_of_the_north_ranged,西凉军,True
+special_ability_phases_onscreen_name_hv_ability_the_armies_of_the_west_melee,西凉军,True
+special_ability_phases_onscreen_name_hv_ability_the_armies_of_the_west_ranged,西凉军,True
 special_ability_phases_onscreen_name_hv_ability_the_weight_on_the_shoulders,砥柱,True
 special_ability_phases_onscreen_name_hv_ability_tiger,虎威,True
 special_ability_phases_onscreen_name_hv_ability_tiger_skin,虎皮,True
@@ -4476,7 +4476,7 @@ special_ability_phases_onscreen_name_hv_formation_shock_loose,疏阵冲锋,True
 special_ability_phases_onscreen_name_hv_formation_shock_loose_cavalry,骑兵疏阵冲锋,True
 special_ability_phases_onscreen_name_hv_formation_shock_loose_cavalry_no_requirement,骑兵疏阵冲锋,True
 special_ability_phases_onscreen_name_hv_formation_spear_wall_danyang,丹阳矛盾墙阵（可机动）,True
-special_ability_phases_onscreen_name_hv_historical_ability_earth_01,剑刃风暴,True
+special_ability_phases_onscreen_name_hv_historical_ability_earth_01,舞爪,True
 special_ability_phases_onscreen_name_hv_historical_ability_earth_02,磐石,True
 special_ability_phases_onscreen_name_hv_historical_ability_earth_03,齐心,True
 special_ability_phases_onscreen_name_hv_historical_ability_fire_01,突围,True
@@ -5922,7 +5922,7 @@ unit_abilities_onscreen_name_3k_main_ability_blooming_beauty_xiao_25,芳香,True
 unit_abilities_onscreen_name_3k_main_ability_blooming_beauty_xiao_50,芳香,True
 unit_abilities_onscreen_name_3k_main_ability_blossoming_beauty,天仙,True
 unit_abilities_onscreen_name_3k_main_ability_brawn_of_yangan,斗牛,True
-unit_abilities_onscreen_name_3k_main_ability_breakthrough_in_concentration,讨贼先锋,True
+unit_abilities_onscreen_name_3k_main_ability_breakthrough_in_concentration,破茧,True
 unit_abilities_onscreen_name_3k_main_ability_broad_Knowledge_1,渊博,True
 unit_abilities_onscreen_name_3k_main_ability_broad_Knowledge_2,渊博,True
 unit_abilities_onscreen_name_3k_main_ability_calculated_judgment,奇袭,True
@@ -6021,7 +6021,7 @@ unit_abilities_onscreen_name_hv_ability_beihai_reload,冷静装填,True
 unit_abilities_onscreen_name_hv_ability_black_mountain_brotherhood,手足,True
 unit_abilities_onscreen_name_hv_ability_blade_mastery,剑术专精,True
 unit_abilities_onscreen_name_hv_ability_bleed,影袭,True
-unit_abilities_onscreen_name_hv_ability_blood_thirst,嗜血成性,True
+unit_abilities_onscreen_name_hv_ability_blood_thirst,嗜血,True
 unit_abilities_onscreen_name_hv_ability_brawl,熊罴,True
 unit_abilities_onscreen_name_hv_ability_brotherhood,共济,True
 unit_abilities_onscreen_name_hv_ability_bulwark,墨守,False
@@ -6042,7 +6042,7 @@ unit_abilities_onscreen_name_hv_ability_defense_mastery_melee_custom,近战防�
 unit_abilities_onscreen_name_hv_ability_defense_mastery_ranged,远程防御大师,True
 unit_abilities_onscreen_name_hv_ability_defense_mastery_ranged_custom,远程防御大师,True
 unit_abilities_onscreen_name_hv_ability_desperate_cry,绝号,True
-unit_abilities_onscreen_name_hv_ability_desperate_resistance,背水一战,False
+unit_abilities_onscreen_name_hv_ability_desperate_resistance,背水,False
 unit_abilities_onscreen_name_hv_ability_desperate_savior,重振旗鼓,True
 unit_abilities_onscreen_name_hv_ability_disorientate,蛊惑,True
 unit_abilities_onscreen_name_hv_ability_dong_command,相令,True
@@ -6113,18 +6113,18 @@ unit_abilities_onscreen_name_hv_ability_second_chance,余烬复燃,True
 unit_abilities_onscreen_name_hv_ability_skirmishing_shot,游击,True
 unit_abilities_onscreen_name_hv_ability_sniper_position,狙击位置,True
 unit_abilities_onscreen_name_hv_ability_sparrow,燕翔,True
-unit_abilities_onscreen_name_hv_ability_storm_of_swords,剑刃风暴,True
+unit_abilities_onscreen_name_hv_ability_storm_of_swords,舞爪,True
 unit_abilities_onscreen_name_hv_ability_strength_of_blackmountain,黑山之力,True
 unit_abilities_onscreen_name_hv_ability_strength_of_the_land,地力,True
-unit_abilities_onscreen_name_hv_ability_striking_tide,刀浪澎湃,True
+unit_abilities_onscreen_name_hv_ability_striking_tide,刀浪,True
 unit_abilities_onscreen_name_hv_ability_stubborn,冥顽不灵,True
 unit_abilities_onscreen_name_hv_ability_tactical_move,健步,True
 unit_abilities_onscreen_name_hv_ability_tactical_stance_defensive,防御姿态,True
 unit_abilities_onscreen_name_hv_ability_tactical_stance_offensive,进攻姿态,True
 unit_abilities_onscreen_name_hv_ability_the_armies_of_the_north_melee,北军,True
 unit_abilities_onscreen_name_hv_ability_the_armies_of_the_north_ranged,北军,True
-unit_abilities_onscreen_name_hv_ability_the_armies_of_the_west_melee,西军,True
-unit_abilities_onscreen_name_hv_ability_the_armies_of_the_west_ranged,西军,True
+unit_abilities_onscreen_name_hv_ability_the_armies_of_the_west_melee,西凉军,True
+unit_abilities_onscreen_name_hv_ability_the_armies_of_the_west_ranged,西凉军,True
 unit_abilities_onscreen_name_hv_ability_the_weight_on_the_shoulders,砥柱,True
 unit_abilities_onscreen_name_hv_ability_tiger,虎威,True
 unit_abilities_onscreen_name_hv_ability_tiger_skin,虎皮,True
@@ -6160,7 +6160,7 @@ unit_abilities_onscreen_name_hv_formation_shock_loose,疏阵冲锋,True
 unit_abilities_onscreen_name_hv_formation_shock_loose_cavalry,骑兵疏阵冲锋,True
 unit_abilities_onscreen_name_hv_formation_shock_loose_cavalry_no_requirement,骑兵疏阵冲锋,True
 unit_abilities_onscreen_name_hv_formation_spear_wall_danyang,丹阳矛盾墙阵（可机动）,True
-unit_abilities_onscreen_name_hv_historical_ability_earth_01,剑刃风暴,True
+unit_abilities_onscreen_name_hv_historical_ability_earth_01,舞爪,True
 unit_abilities_onscreen_name_hv_historical_ability_earth_02,磐石,True
 unit_abilities_onscreen_name_hv_historical_ability_earth_03,齐心,True
 unit_abilities_onscreen_name_hv_historical_ability_fire_01,突围,True
@@ -6236,7 +6236,7 @@ unit_abilities_tooltip_text_3k_main_ability_coward_b50,董旻只敢仗势欺人�
 unit_abilities_tooltip_text_3k_main_ability_critical_strike,摧心剖肝，直中要害。,True
 unit_abilities_tooltip_text_3k_main_ability_demigod_of_war,一脉相承，不愧为武圣之女！,True
 unit_abilities_tooltip_text_3k_main_ability_dignity_of_the_empress,如有要事禀告，务必以礼相待。,True
-unit_abilities_tooltip_text_3k_main_ability_distant_courage,大将军难道不应该在远离纷争的地方运筹帷幄？,True
+unit_abilities_tooltip_text_3k_main_ability_distant_courage,此将会在…安全距离指挥激励部队。,True
 unit_abilities_tooltip_text_3k_main_ability_distrust_power,不臣之士，话里藏刀。,True
 unit_abilities_tooltip_text_3k_main_ability_double_sword_dance,舞剑操刀于敌众之间。,True
 unit_abilities_tooltip_text_3k_main_ability_elegant_and_cultured,熟读兵书，精通兵法之将领可令千人有万人之威。,True
@@ -6303,7 +6303,7 @@ unit_abilities_tooltip_text_3k_main_ability_youthful_vigor,关兴对他的手下
 unit_abilities_tooltip_text_3k_main_formation_wedge_wen_chu,部队结成矛尖阵型，可以迅速杀透敌军战线,True
 unit_abilities_tooltip_text_hv_ability_aggressive_anger,以不灭的怒气煽动战火。,True
 unit_abilities_tooltip_text_hv_ability_anti_cavalry,将士兵组成人墙来抵御马匹。此战术简单有效。,True
-unit_abilities_tooltip_text_hv_ability_assemble,军士聚于此英雄之旗下。,True
+unit_abilities_tooltip_text_hv_ability_assemble,英雄大志者必能凝聚人心。,True
 unit_abilities_tooltip_text_hv_ability_bandit_unlock_earth,万般无奈之下，唯有殊死一搏。,True
 unit_abilities_tooltip_text_hv_ability_bandit_unlock_fire,先下手为强。,True
 unit_abilities_tooltip_text_hv_ability_bandit_unlock_metal,此乃困兽之斗。,True
@@ -6461,7 +6461,7 @@ unit_abilities_tooltip_text_hv_formation_shock_loose_cavalry_no_requirement,部�
 unit_abilities_tooltip_text_hv_formation_spear_wall_danyang,部队面向敌军结成一道盾墙。这种进攻性阵型适合冒着箭雨向前冲锋,True
 unit_abilities_tooltip_text_hv_historical_ability_earth_01,冲突无法避免。,True
 unit_abilities_tooltip_text_hv_historical_ability_earth_02,凭地利，如披坚甲，箭若无物。,True
-unit_abilities_tooltip_text_hv_historical_ability_earth_03,军士聚于此英雄之旗下。,True
+unit_abilities_tooltip_text_hv_historical_ability_earth_03,英雄大志者必能凝聚人心。,True
 unit_abilities_tooltip_text_hv_historical_ability_fire_01,坚定之心，锋利宝刃，足以撕破敌阵,True
 unit_abilities_tooltip_text_hv_historical_ability_fire_02,凤怒炎涛，摧枯拉朽！,True
 unit_abilities_tooltip_text_hv_historical_ability_fire_03,很少有人能逃过这位勇士的追杀。,True
@@ -6506,7 +6506,7 @@ unit_ability_types_localised_description_3k_main_ability_blooming_beauty_xiao_25
 unit_ability_types_localised_description_3k_main_ability_blooming_beauty_xiao_50,芳香,True
 unit_ability_types_localised_description_3k_main_ability_blossoming_beauty,天仙,True
 unit_ability_types_localised_description_3k_main_ability_brawn_of_yangan,斗牛,True
-unit_ability_types_localised_description_3k_main_ability_breakthrough_in_concentration,讨贼先锋,True
+unit_ability_types_localised_description_3k_main_ability_breakthrough_in_concentration,破茧,True
 unit_ability_types_localised_description_3k_main_ability_broad_Knowledge_1,渊博,True
 unit_ability_types_localised_description_3k_main_ability_broad_Knowledge_2,渊博,True
 unit_ability_types_localised_description_3k_main_ability_calculated_judgment,奇袭,True
@@ -6605,7 +6605,7 @@ unit_ability_types_localised_description_hv_ability_beihai_reload,冷静装填,T
 unit_ability_types_localised_description_hv_ability_black_mountain_brotherhood,手足,True
 unit_ability_types_localised_description_hv_ability_blade_mastery,剑术专精,True
 unit_ability_types_localised_description_hv_ability_bleed,影袭,True
-unit_ability_types_localised_description_hv_ability_blood_thirst,嗜血成性,True
+unit_ability_types_localised_description_hv_ability_blood_thirst,嗜血,True
 unit_ability_types_localised_description_hv_ability_brawl,熊罴,True
 unit_ability_types_localised_description_hv_ability_brotherhood,共济,True
 unit_ability_types_localised_description_hv_ability_bulwark,墨守,False
@@ -6626,7 +6626,7 @@ unit_ability_types_localised_description_hv_ability_defense_mastery_melee_custom
 unit_ability_types_localised_description_hv_ability_defense_mastery_ranged,远程防御大师,True
 unit_ability_types_localised_description_hv_ability_defense_mastery_ranged_custom,远程防御大师,True
 unit_ability_types_localised_description_hv_ability_desperate_cry,绝号,True
-unit_ability_types_localised_description_hv_ability_desperate_resistance,背水一战,False
+unit_ability_types_localised_description_hv_ability_desperate_resistance,背水,False
 unit_ability_types_localised_description_hv_ability_desperate_savior,重振旗鼓,True
 unit_ability_types_localised_description_hv_ability_disorientate,蛊惑,True
 unit_ability_types_localised_description_hv_ability_dong_command,相令,True
@@ -6697,18 +6697,18 @@ unit_ability_types_localised_description_hv_ability_second_chance,余烬复燃,T
 unit_ability_types_localised_description_hv_ability_skirmishing_shot,游击,True
 unit_ability_types_localised_description_hv_ability_sniper_position,狙击位置,True
 unit_ability_types_localised_description_hv_ability_sparrow,燕翔,True
-unit_ability_types_localised_description_hv_ability_storm_of_swords,剑刃风暴,True
+unit_ability_types_localised_description_hv_ability_storm_of_swords,舞爪,True
 unit_ability_types_localised_description_hv_ability_strength_of_blackmountain,黑山之力,True
 unit_ability_types_localised_description_hv_ability_strength_of_the_land,地力,True
-unit_ability_types_localised_description_hv_ability_striking_tide,刀浪澎湃,True
+unit_ability_types_localised_description_hv_ability_striking_tide,刀浪,True
 unit_ability_types_localised_description_hv_ability_stubborn,冥顽不灵,True
 unit_ability_types_localised_description_hv_ability_tactical_move,健步,True
 unit_ability_types_localised_description_hv_ability_tactical_stance_defensive,防御姿态,True
 unit_ability_types_localised_description_hv_ability_tactical_stance_offensive,进攻姿态,True
 unit_ability_types_localised_description_hv_ability_the_armies_of_the_north_melee,北军,True
 unit_ability_types_localised_description_hv_ability_the_armies_of_the_north_ranged,北军,True
-unit_ability_types_localised_description_hv_ability_the_armies_of_the_west_melee,西军,True
-unit_ability_types_localised_description_hv_ability_the_armies_of_the_west_ranged,西军,True
+unit_ability_types_localised_description_hv_ability_the_armies_of_the_west_melee,西凉军,True
+unit_ability_types_localised_description_hv_ability_the_armies_of_the_west_ranged,西凉军,True
 unit_ability_types_localised_description_hv_ability_the_weight_on_the_shoulders,砥柱,True
 unit_ability_types_localised_description_hv_ability_tiger,虎威,True
 unit_ability_types_localised_description_hv_ability_tiger_skin,虎皮,True
@@ -6744,7 +6744,7 @@ unit_ability_types_localised_description_hv_formation_shock_loose,疏阵冲锋,T
 unit_ability_types_localised_description_hv_formation_shock_loose_cavalry,骑兵疏阵冲锋,True
 unit_ability_types_localised_description_hv_formation_shock_loose_cavalry_no_requirement,骑兵疏阵冲锋,True
 unit_ability_types_localised_description_hv_formation_spear_wall_danyang,丹阳矛盾墙阵（可机动）,True
-unit_ability_types_localised_description_hv_historical_ability_earth_01,剑刃风暴,True
+unit_ability_types_localised_description_hv_historical_ability_earth_01,舞爪,True
 unit_ability_types_localised_description_hv_historical_ability_earth_02,磐石,True
 unit_ability_types_localised_description_hv_historical_ability_earth_03,齐心,True
 unit_ability_types_localised_description_hv_historical_ability_fire_01,突围,True

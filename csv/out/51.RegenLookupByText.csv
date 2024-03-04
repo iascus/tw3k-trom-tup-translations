@@ -8,20 +8,16 @@ File,eng,zh-cn,zh-tw
 !hv_TEXT_system.loc.tsv,Win a battle where one of your generals personally kills 300 or more soldiers,赢得一场你的一名将领亲自杀敌三百人的战斗,贏得一場您的一名將領親自殺敵三百人的戰鬥
 !hv_TEXT_system.loc.tsv,You do not have the prerequisite: %S.,你没有所需的：%S。,您沒有所需的：%S。
 !hv_TEXT_system.loc.tsv,[[col:green]]Immune to Fear and Terror[[/col]],[[col:green]]免疫惊吓和惊骇[[/col]],[[col:green]]驚嚇和驚駭免疫[[/col]]
-[01]__MTU_generals__Fire_vanguard.loc.tsv,Commandant,别部司马,都尉
 [01]__MTU_generals__Water_strategist.loc.tsv,Advisor,军师,謀士
 [01]__MTU_generals__Water_strategist.loc.tsv,Warlord,诸侯,諸侯
 [01]__MTU_generals__Wood_champion.loc.tsv,Elite General,良将,良將
 [05]__MTU_sys__Frontend_ui_description.loc.tsv,"[[b]]Wu Anguo[[/b]]\\nOne Armed Bear\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]Although he lost one hand, he was one of the few who survived from duel with Lubu.[[/col]][[/i]]",[[b]]武安国[[/b]]\\n独臂虎熊\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]虽然武安国痛失一臂，但却是少数几个与吕布决斗后幸存下来的人之一。[[/col]][[/i]],[[b]]武安国[[/b]]\\n独臂虎熊\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]雖然武安國痛失一臂，但卻是少數幾個與呂布決鬥後倖存下來的人之一。[[/col]][[/i]]
-[05]__MTU_sys__Names.loc.tsv,Anguo,安国,安國
-[05]__MTU_sys__Names.loc.tsv,安國,安国,安國
 [dummy]__MTU_dummy.loc.tsv,Diao Chan's beauty is enough to destroy a country in a moment.,貂蝉之美足以覆国。,貂蟬之美足以覆國。
 [dummy]__MTU_dummy.loc.tsv,Femme Fatale,倾国美人,傾國美人
 [dummy]__MTU_dummy.loc.tsv,Forgive him,不計前嫌,不计前嫌
 [dummy]__MTU_dummy.loc.tsv,"Instead of sending Xun Yu the ""gift"", you chose to admit your wrong. With him, you swore to take the right path.",你听从荀彧的谏言，立志辅佐汉室。,你聽從荀彧的諫言，立志輔佐漢室。
 [dummy]__MTU_dummy.loc.tsv,Lady,夫人,夫人
 [dummy]__MTU_dummy.loc.tsv,Li Jue and Guo Si came to the capital with a huge army. They want avenge for their fallen master. The only thing they want is the neck of the killer.,李傕、郭汜带着大军杀到长安，要为死去的主公报仇，不取仇家的首级誓不罢休。,李傕、郭汜帶著大軍殺到長安，要為死去的主公報仇，不取仇家的首級誓言不罷休。
-[dummy]__MTU_dummy.loc.tsv,Queen,女杰,女王
 [dummy]__MTU_dummy.loc.tsv,Rebellion of Li Jue and Guo Si,李郭之乱,李郭之亂
 [dummy]__MTU_dummy.loc.tsv,Refuse their demands,拒不交人,拒不交人
 [dummy]__MTU_dummy.loc.tsv,"Send The ""Gift""",送他一个空食盒,送他一個空食盒
