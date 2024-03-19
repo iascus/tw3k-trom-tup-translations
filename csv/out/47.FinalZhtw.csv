@@ -2946,7 +2946,7 @@ effects_description_hv_effect_dummy_jingchou_army_region,占據時可獲得荊�
 effects_description_hv_effect_dummy_jingchou_unlock,解除荊楚單位的鎖定[[col:scope_description]]（我方部曲）[[/col]],True
 effects_description_hv_effect_dummy_lu_bu_legacy_unlock,解除捕掾隊單位的鎖定[[col:scope_description]]（我方部曲）[[/col]],True
 effects_description_hv_effect_dummy_ma_teng_pooled_resource_recurring_cost,每回合養馬[[b]]%+n[[/b]],True
-effects_description_hv_effect_dummy_northern_army_unlock,解鎖北軍部隊 [[col:scope_description]]（本部曲）[[/col]],True
+effects_description_hv_effect_dummy_northern_army_unlock,解除北軍部曲單位的鎖定[[col:scope_description]]（我方部曲）[[/col]],True
 effects_description_hv_effect_dummy_northern_army_unlock_elite,解除北軍精銳單位的鎖定[[col:scope_description]]（我方部曲）[[/col]],True
 effects_description_hv_effect_dummy_officer_penalty_alarm,未裝備時，該隨從解鎖的單位的維護費用會增加。,True
 effects_description_hv_effect_dummy_officer_warning,裝備此飾物後，須等到20回合後才能解除。之後此飾物即會消失。,True
@@ -2957,13 +2957,13 @@ effects_description_hv_effect_dummy_unlock_duelist_expert_ui,此英雄在單挑�
 effects_description_hv_effect_dummy_unlock_duelist_ui,此英雄在單挑中有加成。,True
 effects_description_hv_effect_dummy_unlock_unit_bomb_thrower,解除單位鎖定：{{tr:hv_unit_bomb_thrower}},True
 effects_description_hv_effect_dummy_unlock_unit_buqu_archer_cavalry,解除單位鎖定：{{tr:hv_unit_buqu_archer_cavalry}},True
-effects_description_hv_effect_dummy_unlock_unit_buqu_of_the_left,解鎖部隊：{{tr:hv_unit_buqu_of_the_left}},True
+effects_description_hv_effect_dummy_unlock_unit_buqu_of_the_left,替換單位：{{tr:hv_unit_buqu_of_the_left}}（{{tr:hv_unit_buqu_archers}}）,True
 effects_description_hv_effect_dummy_unlock_unit_destroyer_of_traitors,替換單位：{{tr:hv_unit_destroyer_of_traitors}}（{{tr:hv_unit_elite_2h_spear_cavalry}}）,True
 effects_description_hv_effect_dummy_unlock_unit_enforcer_archer_cavalry,解除單位鎖定：{{tr:hv_unit_enforcer_archer_cavalry}},True
 effects_description_hv_effect_dummy_unlock_unit_enforcer_archers,解除單位鎖定：{{tr:hv_unit_xiliang_elite_enforcers}},True
 effects_description_hv_effect_dummy_unlock_unit_fellows_of_the_oath,解除單位鎖定：{{tr:hv_unit_fellows_of_the_oath}},True
 effects_description_hv_effect_dummy_unlock_unit_goshawk_cavalry,解除單位鎖定：{{tr:hv_unit_goshawk_cavalry}},True
-effects_description_hv_effect_dummy_unlock_unit_handmaid_guard,解鎖部隊：{{tr:hv_unit_handmaid_guard}},True
+effects_description_hv_effect_dummy_unlock_unit_handmaid_guard,替換單位：{{tr:hv_unit_handmaid_guard}},True
 effects_description_hv_effect_dummy_unlock_unit_hidden_2h_spearmen,解除單位鎖定：{{tr:hv_unit_hidden_2h_spearmen}},True
 effects_description_hv_effect_dummy_unlock_unit_hidden_assault_infantry,解除單位鎖定：{{tr:hv_unit_hidden_assault_infantry}},True
 effects_description_hv_effect_dummy_unlock_unit_hidden_snakes,解除單位鎖定：{{tr:hv_unit_hidden_snakes}},True
@@ -2973,7 +2973,7 @@ effects_description_hv_effect_dummy_unlock_unit_militia_2h_axemen,解除單位�
 effects_description_hv_effect_dummy_unlock_unit_militia_scout_cavalry,解除單位鎖定：{{tr:hv_unit_militia_scout_cavalry}},True
 effects_description_hv_effect_dummy_unlock_unit_militia_white_tiger_outlaws,解除單位鎖定：{{tr:hv_unit_militia_white_tiger_outlaws}},True
 effects_description_hv_effect_dummy_unlock_unit_rapid_tigers,解除單位鎖定：{{tr:hv_unit_rapid_tigers}},True
-effects_description_hv_effect_dummy_unlock_unit_swallow_cavalry,解鎖部隊：{{tr:hv_unit_swallow_cavalry}},True
+effects_description_hv_effect_dummy_unlock_unit_swallow_cavalry,替換單位：{{tr:hv_unit_swallow_cavalry}}（{{tr:hv_unit_bandits_2h_spear_cavalry}}）,True
 effects_description_hv_effect_dummy_unlock_unit_white_horse_fellows,解除單位鎖定：{{tr:hv_unit_white_horse_fellows}},True
 effects_description_hv_effect_dummy_unlock_unit_white_tiger_bandits,解除單位鎖定：{{tr:hv_unit_white_tiger_bandits}},True
 effects_description_hv_effect_dummy_unlock_unit_white_tiger_guardsmen,解除單位鎖定：{{tr:hv_unit_white_tiger_guardsmen}},True
@@ -2984,14 +2984,14 @@ effects_description_hv_effect_dummy_unlock_unit_yuan_ji_guards,解除單位鎖�
 effects_description_hv_effect_dummy_unlock_unit_yuan_rong_crossbowmen,解除單位鎖定：{{tr:hv_unit_bomb_thrower}},True
 effects_description_hv_effect_dummy_unlock_unit_yuan_swordsmen,解除單位鎖定：{{tr:hv_unit_yuan_sword_infantry}},True
 effects_description_hv_effect_dummy_xiliang_army_region,占據時可獲得西涼軍校尉,True
-effects_description_hv_effect_dummy_xiliang_army_unlock,解鎖西涼軍部隊 [[col:scope_description]]（本部曲）[[/col]],True
+effects_description_hv_effect_dummy_xiliang_army_unlock,解除西涼軍部曲單位的鎖定[[col:scope_description]]（我方部曲）[[/col]],True
 effects_description_hv_effect_dummy_xiliang_army_unlock_elite,解除西涼軍精銳單位的鎖定[[col:scope_description]]（我方部曲）[[/col]],True
 effects_description_hv_effect_dummy_yuan_shu_legacy_unlock,解除隱蛇兵與虎賁軍的鎖定[[col:scope_description]]（我方部曲）[[/col]],True
 effects_description_hv_effect_elemental_authority_campaign_sight,戰役地圖視野 [[b]]%+n%[[/b]],True
 effects_description_hv_effect_elemental_authority_cavalry_missile_resistance,騎兵遠程阻擋[[b]]%+n%[[/b]],True
 effects_description_hv_effect_elemental_authority_satisfaction,所有人物滿意度[[b]]%+n[[/b]],True
 effects_description_hv_effect_elemental_characters_experience_bonus,人物經驗[[b]]%+n%[[/b]],True
-effects_description_hv_effect_elemental_cunning_campaign_supply,軍事物資補給 [[b]]%+n[[/b]],True
+effects_description_hv_effect_elemental_cunning_campaign_supply,軍事物資補給[[b]]%+n[[/b]],True
 effects_description_hv_effect_elemental_cunning_ranged_ammo,遠程單位矢石量[[b]]%+n%[[/b]],True
 effects_description_hv_effect_elemental_expertise_attack_rate,近戰步兵近戰攻擊速率[[b]]%+n%[[/b]],True
 effects_description_hv_effect_elemental_expertise_corruption,腐敗[[b]]%+n%[[/b]],True
@@ -3000,11 +3000,11 @@ effects_description_hv_effect_elemental_instinct_cavalry_charge_bonus,騎兵衝�
 effects_description_hv_effect_elemental_instinct_melee_attack,近戰命中加成[[b]]%+n%[[/b]],True
 effects_description_hv_effect_elemental_instinct_redeployment_cost,重新部署成本[[b]]%+n%[[/b]],True
 effects_description_hv_effect_elemental_resolve_food_mod,糧食生產[[b]]%+n%[[/b]],True
-effects_description_hv_effect_elemental_resolve_health,生命值 [[b]]%+n%[[/b]],True
+effects_description_hv_effect_elemental_resolve_health,生命值[[b]]%+n%[[/b]],True
 effects_description_hv_effect_elemental_resolve_health_bodyguard,將領貼身護衛規模[[b]]%+n%[[/b]],True
 effects_description_hv_effect_elemental_resolve_spear_weapon_damage,持戟步兵武器傷害[[b]]%+n%[[/b]],True
 effects_description_hv_effect_enable_explosive_trebuchet_shell,可使用：爆裂彈（投石機）,True
-effects_description_hv_effect_food_upkeep_army,糧食配給 [[b]]%+n[[/b]],True
+effects_description_hv_effect_food_upkeep_army,糧食配給[[b]]%+n[[/b]],True
 effects_description_hv_effect_ma_teng_cavalry_unique_ability,解鎖騎兵單位一個特殊能力,True
 effects_description_hv_effect_mass_cavalry,騎兵單位質量[[b]]%+n%[[/b]],True
 effects_description_hv_effect_mercenary_pool_recruitment_cost_mod,校尉部曲招募費用[[b]]%+n%[[/b]],True
@@ -3030,11 +3030,11 @@ effects_description_hv_effect_replenishment_royal_guards,禁衛單位補員速�
 effects_description_hv_effect_replenishment_xiliang_army,西涼單位補員速率[[b]]%+n%[[/b]],True
 effects_description_hv_effect_rule_of_might_building_construction_time_mod,建造時間[[b]]%+n[[/b]],True
 effects_description_hv_effect_rule_of_might_character_salary,人物薪餉[[b]]%+n%[[/b]],True
-effects_description_hv_effect_rule_of_might_force_all_campaign_post_battle_loot_income,戰後擄掠收入 [[b]]%+n%[[/b]],True
+effects_description_hv_effect_rule_of_might_force_all_campaign_post_battle_loot_income,戰後擄掠收入[[b]]%+n%[[/b]],True
 effects_description_hv_effect_rule_of_might_force_redeployment_cost,重新部署成本[[b]]%+n%[[/b]],True
 effects_description_hv_effect_rule_of_might_province_food_mod,糧食生產[[b]]%+n%[[/b]],True
 effects_description_hv_effect_rule_of_virtue_economy_trade_power,貿易影響力[[b]]%+n%[[/b]],True
-effects_description_hv_effect_rule_of_virtue_faction_diplomacy_mod,與所有派系的外交關係 [[b]]%+n[[/b]],True
+effects_description_hv_effect_rule_of_virtue_faction_diplomacy_mod,與所有派系的外交關係[[b]]%+n[[/b]],True
 effects_description_hv_effect_rule_of_virtue_province_public_order_faction,{{tr:public_order}}[[b]]%+n[[/b]],True
 effects_description_hv_effect_siege_engine_number,攻城塔 %n,True
 effects_description_hv_effect_skill_heavy_infantry_speed,重型步兵單位戰場奔跑速度[[b]]%+n%[[/b]],True
@@ -3431,7 +3431,7 @@ effects_description_hv_frontend_description_specialisation_ma_teng_3,[[b]]軍事
 effects_description_hv_frontend_description_specialisation_zhang_yan_1,黑山匪徒之數與日俱增，其行為亦更加肆無忌憚。,False
 effects_description_hv_frontend_description_specialisation_zhang_yan_2,[[b]]黃巾軍[[/b]]勢力被官府視為亂賊，因此一般來說和他們進行外交談判會受到[[b]]重重限制[[/b]]。張燕可以[[b]]增進與黃巾軍的關係[[/b]]，並與他們密切合作。,False
 effects_description_hv_frontend_description_specialisation_zhang_yan_3,在[[b]]伏擊戰[[/b]]中，縱列行軍的守方兩翼大開，攻方得以任意選擇出擊的最佳時機。,False
-effects_description_hv_tech_effect_building_conversion_cost,建築改造費用 [[b]]%+n%[[/b]],True
+effects_description_hv_tech_effect_building_conversion_cost,建築改造花費[[b]]%+n%[[/b]],True
 effects_description_hv_tech_effect_cavalry_mass_mod,騎兵單位質量[[b]]%+n%[[/b]],True
 effects_description_hv_tech_effect_cavalry_missile_resist,騎兵單位遠程阻擋[[b]]%+n%[[/b]],True
 effects_description_hv_tech_effect_dummy_immigrants_influence,降低異族影響力。,True
@@ -3519,8 +3519,8 @@ frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_jian_yong_hero_metal_190,[[b]]簡雍[[/b]]\\n優遊風議\\n\\n將領類型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]簡雍擅於辯論、議事，但也閒暇自得，行爲不檢。[[/col]][[/i]],False
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_jian_yong_hero_metal_194,[[b]]簡雍[[/b]]\\n優遊風議\\n\\n將領類型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]簡雍擅於辯論、議事，但也閒暇自得，行爲不檢。[[/col]][[/i]],False
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_jian_yong_hero_metal_200,[[b]]簡雍[[/b]]\\n優遊風議\\n\\n將領類型：{{tr:3k_general_type_metal}}\\n\\n[[col:flavour]][[i]]簡雍擅於辯論、議事，但也閒暇自得，行爲不檢。[[/col]][[/i]],False
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_kong_rong_hero_water_190,[[b]]武安国[[/b]]\\n独臂虎熊\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]雖然武安國痛失一臂，但卻是少數幾個與呂布決鬥後倖存下來的人之一。[[/col]][[/i]],False
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_kong_rong_hero_water_194,[[b]]武安国[[/b]]\\n独臂虎熊\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]雖然武安國痛失一臂，但卻是少數幾個與呂布決鬥後倖存下來的人之一。[[/col]][[/i]],False
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_kong_rong_hero_water_190,[[b]]武安国[[/b]]\\n独臂虎熊\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]雖然武安國痛失一臂，但卻是少數幾個與呂布決鬥後倖存下來的人之一。[[/col]][[/i]],False
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_kong_rong_hero_water_194,[[b]]武安国[[/b]]\\n独臂虎熊\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]雖然武安國痛失一臂，但卻是少數幾個與呂布決鬥後倖存下來的人之一。[[/col]][[/i]],False
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_dong_peishan_hero_earth_182,[[b]]董氏[[/b]]\\n郿侯夫人\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]董卓髮妻，卓封郿侯。不僅生性貪婪，且行事作風十分謹慎狡猾。[[/col]][[/i]],False
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_feng_hero_earth_190,[[b]]馮氏[[/b]]\\n涕泣美人\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]馮氏不僅天姿國色，還因胸懷大志而深受袁術寵愛。[[/col]][[/i]],False
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_lady_feng_hero_earth_194,[[b]]馮氏[[/b]]\\n涕泣美人\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]馮氏不僅天姿國色，還因胸懷大志而深受袁術寵愛。[[/col]][[/i]],False
@@ -3553,8 +3553,8 @@ frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_qu_gong_hero_wood_190,[[b]]瞿恭[[/b]]\\n獨眼山賊\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]只有一隻眼睛都可以如此爲非作歹，難道還需要另外一隻不成？[[/col]][[/i]],False
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_qu_gong_hero_wood_194,[[b]]瞿恭[[/b]]\\n獨眼山賊\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]只有一隻眼睛都可以如此爲非作歹，難道還需要另外一隻不成？[[/col]][[/i]],False
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_qu_gong_hero_wood_200,[[b]]瞿恭[[/b]]\\n獨眼山賊\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]只有一隻眼睛都可以如此爲非作歹，難道還需要另外一隻不成？[[/col]][[/i]],False
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_wu_anguo_wood_190,[[b]]武安国[[/b]]\\n独臂虎熊\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]雖然武安國痛失一臂，但卻是少數幾個與呂布決鬥後倖存下來的人之一。[[/col]][[/i]],True
-frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_wu_anguo_wood_194,[[b]]武安国[[/b]]\\n独臂虎熊\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]雖然武安國痛失一臂，但卻是少數幾個與呂布決鬥後倖存下來的人之一。[[/col]][[/i]],True
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_wu_anguo_wood_190,[[b]]武安国[[/b]]\\n独臂虎熊\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]雖然武安國痛失一臂，但卻是少數幾個與呂布決鬥後倖存下來的人之一。[[/col]][[/i]],True
+frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_wu_anguo_wood_194,[[b]]武安国[[/b]]\\n独臂虎熊\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]雖然武安國痛失一臂，但卻是少數幾個與呂布決鬥後倖存下來的人之一。[[/col]][[/i]],True
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_yan_xiang_hero_water_190,[[b]]閻象[[/b]]\\n賢達哲士\\n\\n將領類型：{{tr:3k_general_type_water}}\\n\\n[[col:flavour]][[i]]閻象深圖遠慮，總是危機到來之前就做好了準備。[[/col]][[/i]],False
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_zhang_xun_hero_earth_190,[[b]]張勳[[/b]]\\n開國將軍\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]仲氏大將軍張勳號令三軍誰敢不從？[[/col]][[/i]],True
 frontend_faction_leader_unique_characters_localised_description_3k_mtu_template_historical_zhang_xun_hero_earth_194,[[b]]張勳[[/b]]\\n開國將軍\\n\\n將領類型：{{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]仲氏大將軍張勳號令三軍誰敢不從？[[/col]][[/i]],True
@@ -3567,7 +3567,7 @@ frontend_faction_leader_unique_characters_localised_description_hv_frontend_lady
 frontend_faction_leader_unique_features_localised_description_3k_main_unique_features_governors_proclamation,[[b]]忠於漢室[[/b]]\\n[[col:scope_description]]求勝之道[[/col]]\\n\\n[[col:red]]需要高威望來稱帝[[/col]]\\n如獲皇帝寵信則可獲得威望\\n\\n[[col:flavour]][[i]]對漢室和皇帝的尊重和忠誠，馴服了野心。[[/col]][[/i]],False
 frontend_faction_leader_unique_features_localised_description_3k_main_unique_features_sun_jian_fealty,[[b]]傭兵序列[[/b]]\\n[[col:scope_description]]附加建築[[/col]]\\n\\n[[col:yellow]]可以招募傭兵[[/col]]\\n[[col:green]]提升[[/col]]商業產值\\n[[col:green]]增加[[/col]]補員\\n\\n[[col:flavour]][[i]]若不考慮權勢傳承，金錢最大的用途便是擴充兵力，如此一來勇士才能無牽無掛爲天下效命[[/col]][[/i]],False
 frontend_faction_leader_unique_features_localised_description_3k_ytr_unique_features_gong_du_building,[[b]]游擊戰[[/b]]\\n[[col:scope_description]]軍事建築系列[[/col]]\\n\\n[[col:green]]+[[/col]] 戰鬥後擄掠收入\\n[[col:green]]+[[/col]] 軍事物資補給\\n\\n[[col:flavour]]於外邦領土時的補員速率\\n\\n[[col:flavour]][[i]]敵強我弱時，務必保持靈活，利用計謀與奇襲致勝。[[/col]][[/i]],False
-frontend_faction_leader_unique_features_localised_description_hv_frontend_ambush_attack,[[b]]攻擊時可以伏擊[[/b]]\\n\\n [[col:flavour]][[i]]此派系攻擊時可以伏擊。[[/col]][[/i]] ,True
+frontend_faction_leader_unique_features_localised_description_hv_frontend_ambush_attack,[[b]]攻擊時可以伏擊[[/b]]\\n\\n [[col:flavour]][[i]]此派系攻擊時可以伏擊。[[/col]][[/i]],True
 frontend_faction_leader_unique_features_localised_description_hv_frontend_base_units_cao_cao,[[b]]部曲[[/b]]\\n[[col:scope_description]]基本軍隊[[/col]]\\n\\n[[col:yellow]]派系獨特兵種[[/col]]\\n• {{tr:3k_dlc07_unit_earth_tiger_cubs}}\\n • {{tr:hv_unit_tiger_and_leopard_cavalry}}\\n • {{tr:hv_unit_tiger_and_leopard_barded_cavalry}}\\n\\n[[col:flavour]][[i]]羣雄自備軍隊。屬性平衡，能力廣泛。[[/col]][[/i]],False
 frontend_faction_leader_unique_features_localised_description_hv_frontend_base_units_cao_cao_194,[[b]]部曲[[/b]]\\n[[col:scope_description]]基本軍隊[[/col]]\\n\\n[[col:yellow]]派系獨特兵種[[/col]]\\n• {{tr:hv_unit_qingzhou_hand_ji_infantry}}\\n• {{tr:hv_unit_qingzhou_2h_axe_infantry}}\\n• {{tr:hv_unit_qingzhou_raider_cavalry}}\\n• {{tr:3k_dlc07_unit_earth_tiger_cubs}}\\n • {{tr:hv_unit_tiger_and_leopard_cavalry}}\\n • {{tr:hv_unit_tiger_and_leopard_barded_cavalry}}\\n\\n[[col:flavour]][[i]]羣雄自備軍隊。屬性平衡，能力廣泛。[[/col]][[/i]],False
 frontend_faction_leader_unique_features_localised_description_hv_frontend_base_units_dong_zhuo,[[b]]部曲[[/b]]\\n[[col:scope_description]]基本軍隊[[/col]]\\n\\n[[col:yellow]]派系獨特兵種[[/col]]\\n• {{tr:hv_unit_xiliang_elite_enforcers}}\\n• {{tr:hv_unit_enforcer_archer_cavalry}}\\n\\n[[col:flavour]][[i]]羣雄自備軍隊。屬性平衡，能力廣泛。[[/col]][[/i]],False
@@ -3581,7 +3581,7 @@ frontend_faction_leader_unique_features_localised_description_hv_frontend_base_u
 frontend_faction_leader_unique_features_localised_description_hv_frontend_base_units_nanman_meng_huo,[[b]]南蠻[[/b]]\\n[[col:scope_description]]基本軍隊[[/col]]\\n\\n[[col:yellow]]起始可用兵種[[/col]]\\n•南中矛兵\\n•南中精銳\\n•南中象兵\\n\\n[[col:flavour]][[i]]南中勇士各個袒臂揮拳，要去開疆闢土。[[/col]][[/i]],False
 frontend_faction_leader_unique_features_localised_description_hv_frontend_base_units_nanman_mulu,[[b]]南蠻[[/b]]\\n[[col:scope_description]]基本軍隊[[/col]]\\n\\n[[col:yellow]]起始可用兵種[[/col]]\\n•八納洞兵\\n•南蠻象兵\\n•戰象\\n\\n[[col:flavour]][[i]]南中勇士各個袒臂揮拳，要去開疆闢土。[[/col]][[/i]],False
 frontend_faction_leader_unique_features_localised_description_hv_frontend_base_units_nanman_shamoke,[[b]]南蠻[[/b]]\\n[[col:scope_description]]基本軍隊[[/col]]\\n\\n[[col:yellow]]起始可用兵種[[/col]]\\n•武陵戰士\\n•武陵投石兵\\n•五溪蠻兵\\n\\n[[col:flavour]][[i]]南中勇士各個袒臂揮拳，要去開疆闢土。[[/col]][[/i]],False
-frontend_faction_leader_unique_features_localised_description_hv_frontend_base_units_nanman_zhurong,[[b]]南蠻[[/b]]\\n[[col:scope_description]]基本軍隊[[/col]]\\n\\n[[col:yellow]]起始可用兵種[[/col]]\\n•火神信徒\\n•猛虎投石兵\\n•猛虎戰士\\n\\n[[col:flavour]][[i]]南中勇士各個袒臂揮拳，要去開疆闢土。[[/col]][[/i]] ,False
+frontend_faction_leader_unique_features_localised_description_hv_frontend_base_units_nanman_zhurong,[[b]]南蠻[[/b]]\\n[[col:scope_description]]基本軍隊[[/col]]\\n\\n[[col:yellow]]起始可用兵種[[/col]]\\n•火神信徒\\n•猛虎投石兵\\n•猛虎戰士\\n\\n[[col:flavour]][[i]]南中勇士各個袒臂揮拳，要去開疆闢土。[[/col]][[/i]],False
 frontend_faction_leader_unique_features_localised_description_hv_frontend_base_units_prince_liu_chong,[[b]]部曲[[/b]]\\n[[col:scope_description]]基本軍隊[[/col]]\\n\\n[[col:yellow]]派系獨特兵種[[/col]]\\n• {{tr:hv_unit_chen_spear_defenders}}\\n• {{tr:hv_unit_chen_crossbow_defenders}}\\n• {{tr:hv_unit_chen_rep_crossbow_defenders}}\\n• {{tr:hv_unit_chen_peacekeepers_halberd_infantry}}\\n• {{tr:hv_unit_chen_peacekeepers_crossbowmen}}\\n• {{tr:hv_unit_chen_royal_guard_cavalry}}\\n\\n[[col:flavour]][[i]]羣雄自備軍隊。屬性平衡，能力廣泛。[[/col]][[/i]],False
 frontend_faction_leader_unique_features_localised_description_hv_frontend_base_units_shi_xie,[[b]]部曲[[/b]]\\n[[col:scope_description]]基本軍隊[[/col]]\\n\\n[[col:yellow]]派系獨特兵種[[/col]]\\n• {{tr:hv_unit_spice_guard}}\\n\\n[[col:flavour]][[i]]羣雄自備軍隊。屬性平衡，能力廣泛。[[/col]][[/i]],False
 frontend_faction_leader_unique_features_localised_description_hv_frontend_base_units_sun_ce,[[b]]部曲[[/b]]\\n[[col:scope_description]]基本軍隊[[/col]]\\n\\n[[col:yellow]]派系獨特兵種[[/col]]\\n• {{tr:hv_unit_jei_fan_infantry}}\\n• {{tr:hv_unit_blue_turban_infantry}}\\n\\n[[col:flavour]][[i]]羣雄自備軍隊。屬性平衡，能力廣泛。[[/col]][[/i]],False
@@ -4643,7 +4643,7 @@ ui_text_replacements_localised_text_hv_unit_jei_fan_infantry,解煩兵,True
 ui_text_replacements_localised_text_hv_unit_ji_guards_of_the_eight_talents,八才戟衛,True
 ui_text_replacements_localised_text_hv_unit_jianan_archers,建安巡守弓兵,True
 ui_text_replacements_localised_text_hv_unit_jianan_crossbowmen,建安巡守弩兵,True
-ui_text_replacements_localised_text_hv_unit_jianan_crossbowmen_cavalry,建安巡守弩騎兵,True
+ui_text_replacements_localised_text_hv_unit_jianan_crossbowmen_cavalry,建安精銳巡守,True
 ui_text_replacements_localised_text_hv_unit_jianan_hand_ji_infantry,建安巡守手戟兵,True
 ui_text_replacements_localised_text_hv_unit_jianan_rep_crossbowmen,建安巡守連弩兵,True
 ui_text_replacements_localised_text_hv_unit_jingchou_buqu_2h_axemen,荊楚部曲長斧兵,True
@@ -6856,7 +6856,7 @@ unit_ability_types_onscreen_name_3k_main_ability_coffin_march,主動增強效果
 unit_ability_types_onscreen_name_3k_main_ability_commanding_presence_25,被動減弱效果,True
 unit_ability_types_onscreen_name_3k_main_ability_commanding_presence_50,被動減弱效果,True
 unit_ability_types_onscreen_name_3k_main_ability_concentrated_strikes,近戰攻擊,True
-unit_ability_types_onscreen_name_3k_main_ability_condemned_howl,敵方主動減益,True
+unit_ability_types_onscreen_name_3k_main_ability_condemned_howl,敵方被動減益,True
 unit_ability_types_onscreen_name_3k_main_ability_console,被動增強效果,True
 unit_ability_types_onscreen_name_3k_main_ability_cosy_haven,被動增強效果,True
 unit_ability_types_onscreen_name_3k_main_ability_coward_a50,被動增強效果,True
@@ -7043,7 +7043,7 @@ unit_ability_types_onscreen_name_hv_ability_inner_vitality,自身被動增益,Tr
 unit_ability_types_onscreen_name_hv_ability_inspection,自身被動增益,True
 unit_ability_types_onscreen_name_hv_ability_jing_missile_resistance,自身被動增益,True
 unit_ability_types_onscreen_name_hv_ability_joint_shot,自身被動增益,True
-unit_ability_types_onscreen_name_hv_ability_judgement,近戰攻擊,True
+unit_ability_types_onscreen_name_hv_ability_judgement,自身被動增益,True
 unit_ability_types_onscreen_name_hv_ability_kingmaker,我方被動增益,True
 unit_ability_types_onscreen_name_hv_ability_knowledge_of_the_body,我方主動增益,True
 unit_ability_types_onscreen_name_hv_ability_knowledge_of_the_mind,敵方主動減益,True
@@ -7180,6 +7180,8 @@ unit_description_historical_texts_text_hv_unit_bandits_elite_you_shi_cavalry,未
 unit_description_historical_texts_text_hv_unit_bandits_fanatics,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_bandits_heroic_outlaws,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_bandits_sabre_cavalry,有些騎兵以迅猛破陣之力見長，有些則善於近身纏鬥，持續殺傷敵人。\\n\\n這些掠奪者殺入戰場，儘管衝鋒的威力較一般騎兵略遜一籌，但在接敵後便能大幅發揮摧枯拉朽的能力，將敵兵一一劈裂。,True
+unit_description_historical_texts_text_hv_unit_beihai_fury_crossbowmen,北海之怒射手乃北海之犄角，身披重甲，以精準的弩弓立於戰場之巔。這些精銳部隊不僅能夠抵擋敵軍攻擊，還能精通弩弓之術，從遠處發動猛烈的弩箭攻擊。他們善於與北海其他射聲部隊協調攻擊，最大限度地發揮此地的遠程作戰能力，在攻防兩方面都是至關重要。,True
+unit_description_historical_texts_text_hv_unit_beihai_fury_mace,北海之怒衝鋒兵乃武安國所屬奇襲部隊，其任務是衝破敵人防線。手持龐大的雙手鐵錘，身披優質鎧甲，雖人數稀少，但威猛可畏，能對敵人造成毀滅性的打擊。他們在戰場上代表著孔融維護一支強大軍力的決心，隨時準備對那些威脅北海和平與穩定的敵人發動毀滅性的衝擊。,True
 unit_description_historical_texts_text_hv_unit_black_mountain_bandits,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_black_mountain_bandits_javelineer,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_blue_turban_infantry,其疾如風，其徐如林，侵掠如火，不動如山。\\n\\n這些精銳士兵來自丹陽郡，在搖搖欲墜的漢帝國中迅速贏得聲望。身著長戟和重甲，他們能成功突襲敵方據點，擊潰守軍。\\n\\n敵人已經開始畏懼他們的技能，以及他們攜帶的火藥彈。當青巾兵在戰場上出現，敵人知道他們的末日已經來臨了。,True
@@ -7218,7 +7220,7 @@ unit_description_historical_texts_text_hv_unit_elite_spearmen,未完成\\n\\n（
 unit_description_historical_texts_text_hv_unit_elite_sword_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_elite_swordsmen,劍兩側開鋒，刃身筆直，又名「百兵之君」，和棍、刀、槍並列為四大兵器。劍需要一年時間訓練才能在實戰中應用，因此只有武藝最精湛的劍士才會使用。 \\n\\n 精锐剑士的功用是堅守陣線，即便其他人都力竭倒下了，他們仍能憑藉著劍技、皮甲和圓盾繼續奮戰。,True
 unit_description_historical_texts_text_hv_unit_enforcer_archer_cavalry,如果只有力量才能統治，那麼就必須經常充分地展現這樣的力量。必須用那些不信的傻瓜們來罰一儆百。\\n\\n這些經過西涼訓練的戰士，是董卓與呂布强加於漢朝的鐵腕統治的中堅力量。\\n\\n他們騎馬在鄉間巡邏，用弓劍擊倒任何敵人。,True
-unit_description_historical_texts_text_hv_unit_fellows_of_the_oath,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
+unit_description_historical_texts_text_hv_unit_fellows_of_the_oath,結義弟兄發誓效忠劉備，積力之所舉，無不勝也。雖未裝備最精良的武器，但以一柄長刀和結義之心，他們可在防守時堅如磐石，在進攻時精準協作。此部隊猶如劉關張之間的兄弟情義，擁有勇氣與靈活戰術的完美結合，每一戰皆使他們更臻強大。他們在戰場上靈活應變，能夠在進攻和防守之間無縫切換。對於結義弟兄來說，忠誠的精髓不僅是道德美德，更是戰術優勢，這使他們能夠克服其他部隊難以逾越的挑戰。,True
 unit_description_historical_texts_text_hv_unit_goshawk_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_han_captain,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_han_volunteer_rep_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
@@ -7234,26 +7236,28 @@ unit_description_historical_texts_text_hv_unit_iron_fists_of_the_bandit_queen,�
 unit_description_historical_texts_text_hv_unit_jade_dragons,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_jei_fan_infantry,視卒如嬰兒，故可以與之赴深。\\n\\n這些士兵侍奉孫武傳人，甘心追隨他們踏上征程，無懼死亡。手持輕戟，身穿中甲，這些士兵能夠應對各種情勢，同樣熟練地對抗騎兵或步兵。他們的多種能力使他們深受將領器重，稱其爲“解煩”，而他們則以忠誠報答。,True
 unit_description_historical_texts_text_hv_unit_ji_guards_of_the_eight_talents,八才戟衛是劉表屬下武技卓越的楷模，揮戟之技無人能及。只有忠誠且善戰者才能入選，這些衛兵的任務是保衛荊州，手持長戟，築成堅不可摧之防線，抵禦任何敢挑戰他們主公權威的人。他們的訓練不僅強調武藝，亦會培養忠勇的信念。這使他們在戰場上成為一支可怕的力量。,True
-unit_description_historical_texts_text_hv_unit_jianan_archers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_jianan_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_jianan_crossbowmen_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_jianan_hand_ji_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_jianan_rep_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
+unit_description_historical_texts_text_hv_unit_jianan_archers,北海的建安巡守弓手是該地防禦戰略中不可或缺的一環，以弓箭構築防線，阻擋敵軍前進。他們經過協同訓練，齊射的箭雨更加致命，既可阻止敵軍衝鋒，亦可保護險要。他們使用的松香箭獨具特色，比傳統箭矢更具優勢，箭雨可以化為烈焰，一旦命中目標即可使大火在敵陣中蔓延。,True
+unit_description_historical_texts_text_hv_unit_jianan_crossbowmen,北海的建安巡守弩兵是抵禦侵略的堡壘，他們的弩弓來自於此地工匠的才華。他們能夠精確瞄準，使用穿透力強的弩箭，這使他們在敵人來襲之時不可或缺。如果布置得當，他們的齊射可以阻擋任何人的前進。北海防禦能力正是依賴這支堅定的力量。,True
+unit_description_historical_texts_text_hv_unit_jianan_crossbowmen_cavalry,建安精銳巡守是北海的運動戰部隊，將弩手的致命精準與騎兵的敏捷相結合。這支精銳部隊擅長騷擾敵軍陣線，迅速發動打擊再後撤躲避反擊。他們靈活高效，是北海軍隊中的一支可怕力量，能夠援助該地的射手部隊，從遠處主導戰場。他們融合速度與遠程火力，突顯了北海在戰術上的創新。,True
+unit_description_historical_texts_text_hv_unit_jianan_hand_ji_infantry,建安巡守手戟兵是北海軍隊的防禦力量，他們使用手戟和盾牌，在當地精良的弓箭手和弩手周圍形成堅固的防禦屏障。這些部隊使用靈活的手戟，擅長近身格鬥，在戰場上善於攪亂敵人的陣型，並保護戰友免受近戰攻擊。他們屬於北海的防禦體系，使該地能夠在外部壓力面前保持安全和自主。,True
+unit_description_historical_texts_text_hv_unit_jianan_rep_crossbowmen,裝備新型連弩，北海的建安巡守連弩兵可謂箭如雨下、速度無雙。雖然每支箭的穿透力不如傳統弩箭，但火力之密集足以彌補，可以對敵人持續猛烈攻擊。連弩可迅速裝填，持續射擊，對於防禦至關重要，若能保持箭雨覆蓋即可逆轉戰局。作為北海軍隊的一部分，這些部隊可以提供戰略深度和適應性，保護該地免受一切威脅。,True
 unit_description_historical_texts_text_hv_unit_jingchou_buqu_2h_axemen,在這片土地上培養出來的士兵是楚國舊王朝的繼承人，他們有著共同的氣質：鬥志昂揚，忠貞不渝。他們是使任何軍閥或皇帝適意的戰鬥力量。\\n\\n長斧令人望而生畏，尤其是在這樣一個好戰的民族手中。他們被認為是優秀的突擊步兵，輕易砍裂盾牌和盔甲，重振他們的古代王朝的榮耀。,True
 unit_description_historical_texts_text_hv_unit_jingchou_buqu_2h_spearmen,在這片土地上培養出來的士兵是楚國舊王朝的繼承人，他們有著共同的氣質：鬥志昂揚，忠貞不渝。他們是使任何軍閥或皇帝適意的戰鬥力量。\\n\\n這些士兵使用長矛和盾牌，為他們的軍隊形成一道防禦屏障，抵禦騎兵衝鋒。他們的盔甲比其他大多數軍隊都輕，但這使他們更加機動：許多騎兵被突如其來的荊楚矛兵打了個措手不及！,True
 unit_description_historical_texts_text_hv_unit_jingchou_buqu_archers,在這片土地上培養出來的士兵是楚國舊王朝的繼承人，他們有著共同的氣質：鬥志昂揚，忠貞不渝。他們是使任何軍閥或皇帝適意的戰鬥力量。\\n\\n這些人是熟練的弓箭手，可以靈活地移動到最有利的位置為他們的軍隊提供掩護火力。然而他們需要保護免受騎兵攻擊，因為他們只有輕護甲。,True
 unit_description_historical_texts_text_hv_unit_jingchou_buqu_caltrop_infantry,在這片土地上培養出來的士兵是楚國舊王朝的繼承人，他們有著共同的氣質：鬥志昂揚，忠貞不渝。他們是使任何軍閥或皇帝適意的戰鬥力量。\\n\\n這些戰士携帶蒺藜，設下看不見的陷阱來阻礙敵人前進。任何倖存者都會很快被這些戰士的利刃處理掉。一個熟練的將軍會小心防備弓箭手：他們的盔甲很輕，沒有盾牌。,True
+unit_description_historical_texts_text_hv_unit_jiuzhen_javelineer,九真擲鋋兵是士燮軍隊中至關重要的一部分，他們精通投槍，可以摧毀騎兵和象兵單位。在中國南方複雜的地形中接受訓練，他們輕鬆地穿梭於各種地形之間，不受環境的影響，這是其他單位所無法企及的。他們對投槍的熟練運用使得他們在戰場上不可或缺，能夠迅速適應並利用地形的優勢，用精準的投擲來伏擊並消滅敵方的騎兵單位。,True
+unit_description_historical_texts_text_hv_unit_jiuzhen_raider,九真劫匪是士燮的精銳部隊，他們以敏捷和破壞力而聞名。在近戰中使用厚重的軍刀，並用火焰彈來妨礙敵軍移動。他們獨特的武器使他們可以進行小規模戰鬥和游擊戰，在進攻前放火來擾亂敵人陣型。和九真投槍手相同，劫匪們訓練有素，能夠在中國南方各種多樣的地形中行動自如，而入侵者則會被自然環境所阻礙。任何敢於威脅士燮領地的敵人都不可小覷這些人。,True
 unit_description_historical_texts_text_hv_unit_juggernaut,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_local_noble_buqu_archers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_local_noble_buqu_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
+unit_description_historical_texts_text_hv_unit_local_noble_buqu_archers,家僕弓兵是荊州士族莊園防禦的支柱。他們對弓箭的精通與對土地的熟悉相輔相成，這使他們能夠利用地形優勢來擊退威脅。這些箭手並非以武藝而被重視，而是因其便於部署，補給簡單，所以是維護領地安全的高效選擇。他們只需很少補給即可有效運作，並且善於利用當地地形保護，是不可或缺的防禦力量。,True
+unit_description_historical_texts_text_hv_unit_local_noble_buqu_infantry,家僕斧兵是荊州士族屬下務實的防禦者。他們熟悉週邊土地，善於利用地形取得優勢。這些斧兵並非備受頌揚的英雄，但卻是其主人領地防禦中不可或缺的關鍵。他們手中的單手斧頭雖然簡單，卻能有效保護領地。他們的價值在於容易補給，利用對當地地形的了解就能以最少的資源抵禦入侵者。,True
 unit_description_historical_texts_text_hv_unit_local_noble_buqu_raider_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_local_noble_buqu_spearmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_local_noble_elite_archers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
+unit_description_historical_texts_text_hv_unit_local_noble_buqu_spearmen,家僕長槍兵負責守護士族莊園，手握雙手長矛組成不可逾越的防線。他們的主要任務是守護陣地，防止騎兵突襲，以嚴整隊形和長矛有力對抗騎兵，是領地防禦中不可或缺的一環。經過訓練，他們精通長矛，即便敵軍騎兵鋪天蓋地而來，他們也能堅定抵抗。,True
+unit_description_historical_texts_text_hv_unit_local_noble_elite_archers,荊州士族弓兵，沿襲世代傳承的射箭技藝。雖未經正規訓練，但在保護領地中游刃有餘，將可靠的箭術與效率相結合，在小規模防禦中起關鍵作用。他們熟悉當地地形，容易調動，是控制領土中不可或缺的力量。,True
 unit_description_historical_texts_text_hv_unit_mercenary_archers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_mercenary_captain,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_mercenary_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_mercenary_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_militia_2h_axemen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
+unit_description_historical_texts_text_hv_unit_militia_2h_axemen,戰場上，民兵長斧手的出現常常令人既意外又畏懼。這些民兵部隊雖然缺乏正規的戰鬥訓練，但他們的雙手長斧具有粗犷的毀滅力量。長柄重斧既有著較長的攻擊距離，又有致命的威力，可以劈裂護甲，穿透敵陣。雖然他們的技巧不夠精湛，但武器的重量和衝擊力使得他們能夠打破敵軍陣線，造成混亂和恐懼。他們的橫掃攻擊對於密集的步兵特別有效，能夠造成最大程度的傷害。然而，他們缺乏技巧和防禦裝備，在長時間的交戰中容易受到傷害，因此在民兵部隊中屬於高風險、高回報的角色。,True
 unit_description_historical_texts_text_hv_unit_militia_archers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_militia_black_mountain_outlaws,黃巾起義和迅速瓦解的漢朝，使許多人失去了家園和生計。這些人中最絕望或最不謹慎的人都變成了強盜。這些人加入黑山王的土匪，希望通過燒殺掠奪來重獲財富。儘管他們抱有希望，但他們糟糕的裝備通常讓他們只能做擋箭牌，而其他人則會因他們的犧牲而收穫回報。,True
 unit_description_historical_texts_text_hv_unit_militia_ji_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
@@ -7275,7 +7279,7 @@ unit_description_historical_texts_text_hv_unit_northern_spear_cavalry,這些騎�
 unit_description_historical_texts_text_hv_unit_onyx_dragons,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_palace_guards,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_pearl_dragons,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_porcupine_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
+unit_description_historical_texts_text_hv_unit_porcupine_crossbowmen,弩是一種非常有效的伏擊武器。射手只需裝上弩箭，低下身子，等待獵物到來。\\n\\n這支部隊擅長伏擊，可以瓦解那些不留心的敵人。,True
 unit_description_historical_texts_text_hv_unit_protectors_of_heaven,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_protectors_of_heaven_might,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_qiang_archers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
@@ -7300,7 +7304,7 @@ unit_description_historical_texts_text_hv_unit_taishan_poison_wind,這些女弓�
 unit_description_historical_texts_text_hv_unit_tiger_and_leopard_barded_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_tiger_and_leopard_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_trebuchet,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_warrior_monks,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
+unit_description_historical_texts_text_hv_unit_warrior_monks,武僧是士燮在佛教流傳到中國時期培養出的獨特武力，在戰場上展現出頑強的耐力。這些戰士手握禪杖，雖不以攻擊力著稱，但在防禦方面無人能及。他們的訓練深植於佛教教義，注重耐心、堅韌，能夠吸收或格擋敵人的攻擊。這種理念使他們在戰鬥中異常耐久，可以承受那些會擊垮其他部隊的攻擊。雖然他們不會衝鋒在前，但他們可被看作能抵禦侵略的堡壘，用堅定的耐力和沉著的防禦戰術來扭轉戰局。,True
 unit_description_historical_texts_text_hv_unit_white_feathers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_white_horse_fellows,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_white_tiger_bandits,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
@@ -7337,7 +7341,7 @@ unit_description_historical_texts_text_hv_unit_ytr_zealots_of_the_way,漢軍民�
 unit_description_historical_texts_text_hv_unit_yuan_rong_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
 unit_description_historical_texts_text_hv_unit_yuan_sword_infantry,袁氏的聲望帶來了許多好處，其中之一是有很多人願意為他們效命。揮舞著高貴的劍刃，手持堅固的盾牌，身著優質的盔甲，這些劍士將滿懷熱情地保衛他們的主公。他們組成袁軍戰線的前沿，一直砍殺到敵人或者他們自己倒下。,True
 unit_description_historical_texts_text_hv_unit_yue_freemen,高聳險奇的群山立於中原南方，與波濤洶湧的海洋相抗衡。在崇山峻嶺之間，越人仍世世代代勉力維生。他們曾有著輝煌的過往，如今則得力抗北方漢人入侵。儘管他們持有劍盾，但還遠不是精兵的敵手。\\n\\n然而在一名立志守護他們理念的奇人率領之下，越民團結一心，喚起自身的古老力量，為傳承而戰！,True
-unit_description_historical_texts_text_hv_unit_zhong_royal_guard,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
+unit_description_historical_texts_text_hv_unit_zhong_royal_guard,雖然袁术稱帝並不得人心，但幸運的是，亂世之中只要用金錢就可以買到忠誠。當他募集了本地最優秀的戰士，並賦予他們最高的薪餉和最好的裝備，這支部隊亦可算作羽林騎了。\\n\\n他們與主公一樣渴望名聲，寧死也不願接受失敗。,True
 unit_description_short_texts_text_hv_unit_azure_dragons,未完成,True
 unit_description_short_texts_text_hv_unit_bandits_2h_spear_cavalry,未完成,True
 unit_description_short_texts_text_hv_unit_bandits_2h_spear_infantry,未完成,True
@@ -7394,7 +7398,7 @@ unit_description_short_texts_text_hv_unit_elite_spearmen,未完成,True
 unit_description_short_texts_text_hv_unit_elite_sword_cavalry,未完成,True
 unit_description_short_texts_text_hv_unit_elite_swordsmen,未完成,True
 unit_description_short_texts_text_hv_unit_enforcer_archer_cavalry,佩戴劍弓，這些紀律嚴明的騎手執行他們主公的意志。,True
-unit_description_short_texts_text_hv_unit_fellows_of_the_oath,未完成,True
+unit_description_short_texts_text_hv_unit_fellows_of_the_oath,忠诚於劉備的部隊，結義弟兄手持大刀，情同手足，攻守俱佳，隨主人共同成長。,True
 unit_description_short_texts_text_hv_unit_goshawk_cavalry,未完成,True
 unit_description_short_texts_text_hv_unit_han_captain,未完成,True
 unit_description_short_texts_text_hv_unit_han_volunteer_rep_crossbowmen,未完成,True
@@ -7410,26 +7414,26 @@ unit_description_short_texts_text_hv_unit_iron_fists_of_the_bandit_queen,這些�
 unit_description_short_texts_text_hv_unit_jade_dragons,未完成,True
 unit_description_short_texts_text_hv_unit_jei_fan_infantry,這些多能的步兵幾乎可以解决吳軍將領可能面臨的任何問題。,True
 unit_description_short_texts_text_hv_unit_ji_guards_of_the_eight_talents,精通戟術的卓越戟兵，忠心耿耿地為劉表保衛荊州的榮譽。,True
-unit_description_short_texts_text_hv_unit_jianan_archers,未完成,True
-unit_description_short_texts_text_hv_unit_jianan_crossbowmen,未完成,True
-unit_description_short_texts_text_hv_unit_jianan_crossbowmen_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_jianan_hand_ji_infantry,未完成,True
-unit_description_short_texts_text_hv_unit_jianan_rep_crossbowmen,未完成,True
+unit_description_short_texts_text_hv_unit_jianan_archers,北海的熟練弓手，善於防守陣地，用火矢點燃戰場。,True
+unit_description_short_texts_text_hv_unit_jianan_crossbowmen,北海的弩弓守衛，能夠遠距離穿透護甲，通過互相配合來有效防禦敵軍。,True
+unit_description_short_texts_text_hv_unit_jianan_crossbowmen_cavalry,北海的精銳騎馬弩手，以迅捷的機動性和火力來增強該地遠程射擊的能力。,True
+unit_description_short_texts_text_hv_unit_jianan_hand_ji_infantry,北海的手持盾牌的手戟步兵，擅長保護遠程單位，專精近身防禦。,True
+unit_description_short_texts_text_hv_unit_jianan_rep_crossbowmen,北海的快速射手，以連弩發射密集箭雨，在緊密編隊中更準確。,True
 unit_description_short_texts_text_hv_unit_jingchou_buqu_2h_axemen,這些人所揮的大斧是楚國的榮耀，即使是持盾的敵人亦命不久矣。,True
 unit_description_short_texts_text_hv_unit_jingchou_buqu_2h_spearmen,荊楚矛兵的忠勇對任何軍閥來說都是一筆巨大的財產。,True
 unit_description_short_texts_text_hv_unit_jingchou_buqu_archers,在崎嶇的荊楚山丘中，荊州弓手的箭雨堪比天降死神。,True
 unit_description_short_texts_text_hv_unit_jingchou_buqu_caltrop_infantry,在荊楚的山中，粗心的人可能會被一把蒺藜絆倒，然後被放它的人殺死。,True
 unit_description_short_texts_text_hv_unit_juggernaut,未完成,True
-unit_description_short_texts_text_hv_unit_local_noble_buqu_archers,未完成,True
-unit_description_short_texts_text_hv_unit_local_noble_buqu_infantry,未完成,True
+unit_description_short_texts_text_hv_unit_local_noble_buqu_archers,家僕弓兵是莊園防禦的關鍵，使用弓箭有效守護領地。,True
+unit_description_short_texts_text_hv_unit_local_noble_buqu_infantry,家僕斧兵為士族莊園提供廉價的防禦，以簡單的斧頭控制領地。,True
 unit_description_short_texts_text_hv_unit_local_noble_buqu_raider_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_local_noble_buqu_spearmen,未完成,True
-unit_description_short_texts_text_hv_unit_local_noble_elite_archers,未完成,True
+unit_description_short_texts_text_hv_unit_local_noble_buqu_spearmen,家僕長槍兵擅長列陣防禦，反制騎兵，手持雙手長矛在戰場上穩固陣腳。,True
+unit_description_short_texts_text_hv_unit_local_noble_elite_archers,士族弓兵，憑藉著世代傳承的箭術，在地方衝突中提供了高效而經濟的支援。,True
 unit_description_short_texts_text_hv_unit_mercenary_archers,未完成,True
 unit_description_short_texts_text_hv_unit_mercenary_captain,未完成,True
 unit_description_short_texts_text_hv_unit_mercenary_cavalry,未完成,True
 unit_description_short_texts_text_hv_unit_mercenary_infantry,未完成,True
-unit_description_short_texts_text_hv_unit_militia_2h_axemen,未完成,True
+unit_description_short_texts_text_hv_unit_militia_2h_axemen,手持雙手長斧的民兵；雖不熟練但力量強大，能夠發動有力的攻擊。,True
 unit_description_short_texts_text_hv_unit_militia_archers,未完成,True
 unit_description_short_texts_text_hv_unit_militia_black_mountain_outlaws,惡狼齊聚，黑山匪幫已經準備好去打下屬於自己的江山了。,True
 unit_description_short_texts_text_hv_unit_militia_ji_infantry,未完成,True
@@ -7451,7 +7455,7 @@ unit_description_short_texts_text_hv_unit_northern_spear_cavalry,對任何一個
 unit_description_short_texts_text_hv_unit_onyx_dragons,未完成,True
 unit_description_short_texts_text_hv_unit_palace_guards,未完成,True
 unit_description_short_texts_text_hv_unit_pearl_dragons,未完成,True
-unit_description_short_texts_text_hv_unit_porcupine_crossbowmen,未完成,True
+unit_description_short_texts_text_hv_unit_porcupine_crossbowmen,這些弩兵躲在盾后射箭。,True
 unit_description_short_texts_text_hv_unit_protectors_of_heaven,未完成,True
 unit_description_short_texts_text_hv_unit_protectors_of_heaven_might,未完成,True
 unit_description_short_texts_text_hv_unit_qiang_archers,未完成,True
@@ -7476,7 +7480,7 @@ unit_description_short_texts_text_hv_unit_taishan_poison_wind,箭上塗抹的劇
 unit_description_short_texts_text_hv_unit_tiger_and_leopard_barded_cavalry,未完成,True
 unit_description_short_texts_text_hv_unit_tiger_and_leopard_cavalry,未完成,True
 unit_description_short_texts_text_hv_unit_trebuchet,未完成,True
-unit_description_short_texts_text_hv_unit_warrior_monks,未完成,True
+unit_description_short_texts_text_hv_unit_warrior_monks,士燮培訓的武僧是耐力過人的防禦單位，手持禪杖，受佛教原則啟發。他們的堅韌使他們能夠有效地抵禦敵人的攻擊。,True
 unit_description_short_texts_text_hv_unit_white_feathers,未完成,True
 unit_description_short_texts_text_hv_unit_white_horse_fellows,未完成,True
 unit_description_short_texts_text_hv_unit_white_tiger_bandits,未完成,True
@@ -7513,6 +7517,11 @@ unit_description_short_texts_text_hv_unit_ytr_zealots_of_the_way,不顧己命也
 unit_description_short_texts_text_hv_unit_yuan_rong_crossbowmen,未完成,True
 unit_description_short_texts_text_hv_unit_yuan_sword_infantry,顯赫的血統可以使許多劍士願意效命。,True
 unit_description_short_texts_text_hv_unit_yue_freemen,南方山間的陡峭山崖將百姓磨練成目光如電的戰士。,True
+unit_description_shorts_texts_text_hv_unit_beihai_fury_crossbowmen,北海重甲弩兵，配合部曲能提供增強的遠程支援。,True
+unit_description_shorts_texts_text_hv_unit_beihai_fury_mace,北海精銳近戰勇士，手持雙手鐵錘，威力驚人，身披重甲，適合近身格鬥。,True
+unit_description_shorts_texts_text_hv_unit_jiuzhen_javelineer,熟練的擲鋋兵，無視南蠻地形的懲罰，擅長反制騎兵與象兵。,True
+unit_description_shorts_texts_text_hv_unit_jiuzhen_raider,靈活的劫匪，手持軍刀和火焰彈，擅長製造混亂，無視南蠻地形的懲罰。,True
+unit_description_shorts_texts_text_hv_unit_spice_guard,士燮貿易路線的精銳護衛，手持長戟和弓箭，在南蠻苛刻地形下行走如履平地。,True
 unit_stat_localisations_onscreen_name_stat_melee_attack,命中率加成,True
 unit_stat_localisations_tooltip_text_scalar_bracing,[[b]]衝鋒抵抗力[[/b]]\\n\\n決定該部隊能承受多大程度的敵軍衝鋒。此作用於該單位被衝鋒時。,True
 unit_stat_localisations_tooltip_text_stat_armour,[[b]]護甲[[/b]]\\n\\n 減少單位受到的標準近戰傷害、遠程傷害以及爆炸傷害。無法防禦穿甲傷害。,True

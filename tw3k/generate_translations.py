@@ -71,10 +71,22 @@ class Step:
         logger.info(f'Loading {path}')
         return pd.read_csv(path)
 
+    def blank_wip(self, data):
+        data.loc[data['Text'].isin([
+            '',
+            '尚未翻译',
+            '未完成',
+            r'未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）',
+            r'未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）',
+        ]), 'Text'] = np.nan
+        return data
+
 
 class InputCsvFile(Step):
     def _run(self):
-        return self.load_file('in')
+        data = self.load_file('in')
+        data = self.blank_wip(data)
+        return data
 
 
 class LookupFile(Step):
@@ -92,6 +104,7 @@ class InputTsvFiles(Step):
                 df['File'] = os.path.basename(filepath)
                 dfs.append(df)
         data = pd.concat(dfs).dropna(subset='Key').drop_duplicates(subset='Key').sort_values('Key')
+        data = self.blank_wip(data)
         data = data[~data['Key'].str.endswith('----')]
         return data
 
@@ -174,11 +187,6 @@ class PikaManZhtw(InputTsvFiles):
 class ProcrastinatorZhcn(InputTsvFiles):
     step_no = 23
     dir_path = 'ProcrastinatorZhcn'
-
-    def _run(self):
-        data = super()._run()
-        data.loc[data['Text'].isin(['', '尚未翻译']), 'Text'] = np.nan
-        return data
 
 
 class ProcrastinatorZhtw(Step):
@@ -407,7 +415,7 @@ class MapByKeyZhcn(Step):
             )
             data.loc[to_update, ['Source']] = col
             data.loc[to_update, ['Text']] = data[col]
-
+        data.loc[data['Source'] == 'Iascus', ['Source', 'Text']] = ['Missing', '']
         data['File'] = data['File'].str.replace('text/_hvo/', '')
         data = data.reset_index()[[
             'Key', 'Text', 'Tooltip', 'English', 'Source',
@@ -480,11 +488,15 @@ class RegenLookupByText(Step):
             }, axis=1).drop_duplicates(subset='eng').set_index('eng')
             for zh, from_col, to_col in [
                 (self.map_by_key_zhcn.data, 'Text', 'zh-cn'),
+                (self.map_by_key_zhcn.data, 'Iascus', 'zh-cn-old'),
                 (self.map_by_key_zhtw.data, 'Text', 'zh-tw'),
+                (self.map_by_key_zhtw.data, 'Iascus', 'zh-tw-old'),
                 (self.map_by_key_zhtw.data, 'File', 'File'),
             ]
         ], axis=1).reset_index().set_index(['File', 'eng']).sort_index().reset_index()
-        new_lookup = new_lookup.loc[new_lookup['eng'] != '']
+        new_lookup['zh-cn'] = np.where(new_lookup['zh-cn'] == '', new_lookup['zh-cn-old'], new_lookup['zh-cn'])
+        new_lookup['zh-tw'] = np.where(new_lookup['zh-tw'] == '', new_lookup['zh-tw-old'], new_lookup['zh-tw'])
+        new_lookup = new_lookup.loc[new_lookup['eng'] != ''].drop(['zh-cn-old', 'zh-tw-old'], axis=1)
         return new_lookup
 
 

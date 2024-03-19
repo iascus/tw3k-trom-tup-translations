@@ -98,8 +98,8 @@ unit_description_short_texts_text_hv_unit_tiger_and_leopard_cavalry	work in proc
 unit_description_short_texts_text_hv_unit_tiger_and_leopard_barded_cavalry	work in process	true
 unit_description_short_texts_text_hv_unit_white_feathers	work in process	true
 unit_description_short_texts_text_hv_unit_porcupine_crossbowmen	These are the crossbowmen who shoot while hiding with shields.	true
-unit_description_short_texts_text_hv_unit_jianan_hand_ji_infantry	work in process	true
-unit_description_short_texts_text_hv_unit_jianan_archers	work in process	true
+unit_description_short_texts_text_hv_unit_jianan_hand_ji_infantry	Beihai's shield-bearing Hand-Ji infantry, experts in protecting ranged units, specializing in close-quarters defense.	true
+unit_description_short_texts_text_hv_unit_jianan_archers	Skilled bowmen of Beihai, adept at defensive positions, igniting the battlefield with flames.	true
 unit_description_short_texts_text_hv_unit_stray_artisans	Ingenuity and craftsmanship can turn even a lowly militiaman into a daunting foe.	true
 unit_description_short_texts_text_hv_unit_fellows_of_the_oath	Liu Bei's loyal unit, the Oath Fellows wield glaives and share a strong bond, excelling in both offense and defense as they grow with their lord.	true
 unit_description_short_texts_text_hv_unit_handmaid_guard	work in process	true
@@ -144,13 +144,13 @@ unit_description_short_texts_text_hv_unit_multiple_bolt_crossbow	work in process
 unit_description_short_texts_text_hv_unit_han_captain	work in process	true
 unit_description_short_texts_text_hv_unit_ytr_captain	work in process	true
 unit_description_short_texts_text_hv_unit_bandits_captain	work in process	true
-unit_description_short_texts_text_hv_unit_jianan_crossbowmen_cavalry	work in process	true
+unit_description_short_texts_text_hv_unit_jianan_crossbowmen_cavalry	Elite horse-mounted crossbowmen from Beihai, enhancing the province's ranged warfare with swift mobility and firepower.	true
 unit_description_short_texts_text_hv_unit_palace_guards	work in process	true
 unit_description_short_texts_text_hv_unit_dan_yang_spearmen	work in process	true
 unit_description_short_texts_text_hv_unit_dan_yang_archers	work in process	true
 unit_description_short_texts_text_hv_unit_mercenary_captain	work in process	true
-unit_description_short_texts_text_hv_unit_jianan_crossbowmen	work in process	true
-unit_description_short_texts_text_hv_unit_jianan_rep_crossbowmen	work in process	true
+unit_description_short_texts_text_hv_unit_jianan_crossbowmen	Beihai's defenders wielding crossbows, capable of piercing armor at range, their coordination boosts their defensive efficacy.	true
+unit_description_short_texts_text_hv_unit_jianan_rep_crossbowmen	Beihai's rapid-fire specialists, using repeating crossbows to unleash continuous volleys, gain accuracy in tight formations.	true
 unit_description_short_texts_text_hv_unit_black_mountain_bandits_javelineer	work in process	true
 unit_description_short_texts_text_hv_unit_qiang_javelineer	work in process	true
 unit_description_short_texts_text_hv_unit_xiongnu_javelineer	work in process	true
@@ -184,3 +184,8 @@ unit_description_short_texts_text_hv_unit_bandits_children_of_the_forest	work in
 unit_description_short_texts_text_hv_unit_imperial_guards	work in process	true
 unit_description_short_texts_text_hv_unit_sword_guards_of_the_eight_talents	Liu Bao's elite swordsmen, embodying Jing province's martial spirit with unmatched blade mastery.	true
 unit_description_short_texts_text_hv_unit_ji_guards_of_the_eight_talents	Excellent Ji wielders, these soldiers are loyal to Liu Bao to protect the honor of Jing province.	true
+unit_description_shorts_texts_text_hv_unit_beihai_fury_mace	Elite melee warriors of Beihai, wielding two-handed maces with devastating effect, clad in heavy armor for close combat.	true
+unit_description_shorts_texts_text_hv_unit_beihai_fury_crossbowmen	Heavily armored crossbowmen of Beihai, capable of delivering enhanced ranged support in coordination with Buqu units.	true
+unit_description_shorts_texts_text_hv_unit_spice_guard	Elite guards of Shi Xie's trade routes, wielding halberds and bows, with immunity to Nanman's terrain penalty.	true
+unit_description_shorts_texts_text_hv_unit_jiuzhen_javelineer	Skilled javelineers immune to Nanman's terrain penalty, specializing in anti-cavalry and elephant tactics.	true
+unit_description_shorts_texts_text_hv_unit_jiuzhen_raider	Versatile raiders armed with sabers and flame shots, adept at causing chaos and immune to Nanman's terrain challenges.	true

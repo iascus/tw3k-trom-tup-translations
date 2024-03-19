@@ -28,19 +28,25 @@ armour cost,铠甲费用,護甲費用
 armour,铠甲,護甲
 battle running speed,战场奔跑速度,戰場奔跑速度
 black mountain,黑山,黑山
+building conversion cost,建筑改造费用,建築改造花費
 charge bonus,冲锋加成,衝鋒加成
 charge speed,冲锋速度,衝鋒速度
 damage resistance,伤害抵抗力,傷害抵抗力
+diplomatic relation with all factions,与所有派系的外交关系,與所有派系的外交關係
+food distribution,粮食发放,糧食配給
 health recovery,生命值回复,生命值回復
+health,生命值,生命值
 hit bonus,命中率加成,命中率加成
 horse breeding per turn,每回合养马,每回合養馬
 horse breeding,养马,養馬
+income from looting settlements and post-battle loot,战后掳掠收入,戰後擄掠收入
 mass for cavalry units,骑兵单位质量,騎兵單位質量
 melee attack rate,近战攻击速率,近戰攻擊速率
 melee evasion in enemy territory,敌方领土内近战闪避,敵方領土内近戰迴避
 melee evasion in own territory,我方领土内近战闪避,我方領土内近戰迴避
 melee evasion,近战闪避,近戰迴避
 melee hit bonus,近战命中率加成,近戰命中率加成
+military supplies,军事物资补给,軍事物資補給
 missile block chance,远程格挡概率,遠程格擋機率
 missile range,射程,射程
 missile resistance,远程抗性,遠程阻擋

@@ -6,7 +6,7 @@ KeyPattern,TextPattern,zh-cn,zh-tw
 ,^(?P<unit_name>[a-zA-Z ]+): for recruitment: %\+n$,可招募的{unit_name}：%+n,可招募{unit_name}數：%+n
 ,^\[\[b\]\]%\+n%\[\[/b\]\] (?P<text_fragment>[a-zA-Z ]+) for (?P<unit_type>[a-zA-Z :{}_]+) units$,{unit_type}部队{text_fragment}[[b]]%+n%[[/b]],{unit_type}單位{text_fragment}[[b]]%+n%[[/b]]
 ,^\[\[b\]\]%\+n%\[\[/b\]\] (?P<text_fragment>[a-zA-Z ]+) for (?P<unit_type>[a-zA-Z :{}_]+),{unit_type}{text_fragment}[[b]]%+n%[[/b]],{unit_type}{text_fragment}[[b]]%+n%[[/b]]
-,^\[\[b\]\]%\+n%\[\[/b\]\] (?P<text_fragment>[a-zA-Z ]+)$,{text_fragment}[[b]]%+n%[[/b]],{text_fragment}[[b]]%+n%[[/b]]
+,^\[\[b\]\]%\+n%\[\[/b\]\] (?P<text_fragment>[a-zA-Z -]+)$,{text_fragment}[[b]]%+n%[[/b]],{text_fragment}[[b]]%+n%[[/b]]
 ,^\[\[b\]\]%\+n\[\[/b\]\] (?P<text_fragment>[a-zA-Z ]+) for (?P<unit_type>[a-zA-Z :{}_]+) units$,{unit_type}部队{text_fragment}[[b]]%+n[[/b]],{unit_type}單位{text_fragment}[[b]]%+n[[/b]]
 ,^\[\[b\]\]%\+n\[\[/b\]\] (?P<text_fragment>[a-zA-Z ]+) for (?P<unit_type>[a-zA-Z :{}_]+),{unit_type}{text_fragment}[[b]]%+n[[/b]],{unit_type}{text_fragment}[[b]]%+n[[/b]]
 ,^\[\[b\]\]%\+n\[\[/b\]\] (?P<text_fragment>[a-zA-Z ]+)$,{text_fragment}[[b]]%+n[[/b]],{text_fragment}[[b]]%+n[[/b]]

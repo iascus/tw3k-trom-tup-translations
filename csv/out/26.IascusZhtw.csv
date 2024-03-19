@@ -3603,33 +3603,33 @@ unit_description_historical_texts_text_hv_unit_ytr_virtuous_noblemen,黃巾軍�
 unit_description_short_texts_text_hv_unit_ytr_virtuous_noblemen,精銳騎兵護衛，將兵器指向昔日主君，改為黃巾軍效力。,False
 unit_description_historical_texts_text_hv_unit_ytr_captain,由校尉和衛官來指揮軍隊。,False
 unit_description_short_texts_text_hv_unit_ytr_captain,領導及指揮隨從。,False
-unit_description_short_texts_text_hv_unit_militia_sabre_infantry,未完成,True
-unit_description_short_texts_text_hv_unit_militia_ji_infantry,未完成,True
-unit_description_short_texts_text_hv_unit_militia_archers,未完成,True
-unit_description_short_texts_text_hv_unit_buqu_sabre_infantry,未完成,True
-unit_description_short_texts_text_hv_unit_buqu_axemen,未完成,True
-unit_description_short_texts_text_hv_unit_buqu_2h_axemen,未完成,True
-unit_description_short_texts_text_hv_unit_buqu_spearmen,未完成,True
-unit_description_short_texts_text_hv_unit_buqu_ji_infantry,未完成,True
-unit_description_short_texts_text_hv_unit_buqu_archers,未完成,True
-unit_description_short_texts_text_hv_unit_buqu_crossbowmen,未完成,True
-unit_description_short_texts_text_hv_unit_buqu_rep_crossbowmen,未完成,True
-unit_description_short_texts_text_hv_unit_buqu_2h_spear_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_buqu_sabre_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_buqu_raid_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_buqu_archer_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_elite_swordsmen,未完成,True
-unit_description_short_texts_text_hv_unit_elite_2h_axemen,未完成,True
-unit_description_short_texts_text_hv_unit_elite_2h_swordsmen,未完成,True
-unit_description_short_texts_text_hv_unit_elite_spearmen,未完成,True
-unit_description_short_texts_text_hv_unit_elite_2h_spearmen,未完成,True
-unit_description_short_texts_text_hv_unit_elite_ji_infantry,未完成,True
+unit_description_short_texts_text_hv_unit_militia_sabre_infantry,,True
+unit_description_short_texts_text_hv_unit_militia_ji_infantry,,True
+unit_description_short_texts_text_hv_unit_militia_archers,,True
+unit_description_short_texts_text_hv_unit_buqu_sabre_infantry,,True
+unit_description_short_texts_text_hv_unit_buqu_axemen,,True
+unit_description_short_texts_text_hv_unit_buqu_2h_axemen,,True
+unit_description_short_texts_text_hv_unit_buqu_spearmen,,True
+unit_description_short_texts_text_hv_unit_buqu_ji_infantry,,True
+unit_description_short_texts_text_hv_unit_buqu_archers,,True
+unit_description_short_texts_text_hv_unit_buqu_crossbowmen,,True
+unit_description_short_texts_text_hv_unit_buqu_rep_crossbowmen,,True
+unit_description_short_texts_text_hv_unit_buqu_2h_spear_cavalry,,True
+unit_description_short_texts_text_hv_unit_buqu_sabre_cavalry,,True
+unit_description_short_texts_text_hv_unit_buqu_raid_cavalry,,True
+unit_description_short_texts_text_hv_unit_buqu_archer_cavalry,,True
+unit_description_short_texts_text_hv_unit_elite_swordsmen,,True
+unit_description_short_texts_text_hv_unit_elite_2h_axemen,,True
+unit_description_short_texts_text_hv_unit_elite_2h_swordsmen,,True
+unit_description_short_texts_text_hv_unit_elite_spearmen,,True
+unit_description_short_texts_text_hv_unit_elite_2h_spearmen,,True
+unit_description_short_texts_text_hv_unit_elite_ji_infantry,,True
 unit_description_short_texts_text_hv_unit_elite_heavy_bow_archers,重裝部隊，携帶張力很强的鐵弓。,True
-unit_description_short_texts_text_hv_unit_elite_crossbowmen,未完成,True
-unit_description_short_texts_text_hv_unit_elite_rep_crossbowmen,未完成,True
-unit_description_short_texts_text_hv_unit_elite_sword_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_elite_2h_spear_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_elite_barded_2h_spear_cavalry,未完成,True
+unit_description_short_texts_text_hv_unit_elite_crossbowmen,,True
+unit_description_short_texts_text_hv_unit_elite_rep_crossbowmen,,True
+unit_description_short_texts_text_hv_unit_elite_sword_cavalry,,True
+unit_description_short_texts_text_hv_unit_elite_2h_spear_cavalry,,True
+unit_description_short_texts_text_hv_unit_elite_barded_2h_spear_cavalry,,True
 unit_description_short_texts_text_hv_unit_xiliang_buqu_hand_ji_infantry,佩戴盾與手戟，這些西涼勇士為敵人帶來殺身之禍。,True
 unit_description_short_texts_text_hv_unit_xiliang_buqu_spearmen,沒有任何騎兵能衝破赫赫有名的西涼軍槍陣。,True
 unit_description_short_texts_text_hv_unit_xiliang_buqu_ji_infantry,這些人熟練地揮舞著戰戟，他們會維護西涼軍可怕的聲譽。,True
@@ -3660,153 +3660,153 @@ unit_description_short_texts_text_hv_unit_buqu_of_the_left,漢室必須復興。
 unit_description_short_texts_text_hv_unit_militia_black_mountain_outlaws,"The desperate and the disenfranchised gather at the base of Black Mountain, ready to expand their fortunes or die trying.",True
 unit_description_short_texts_text_hv_unit_militia_taishan_outlaws,"With club in hand, the desperate shall make a fortune and name for themselves, or die trying.",True
 unit_description_short_texts_text_hv_unit_militia_white_tiger_outlaws,"In the hills and mountains of the Southlands, the desperate will lay down their lives to escape the Han.",True
-unit_description_short_texts_text_hv_unit_bandits_axe_infantry,未完成,True
-unit_description_short_texts_text_hv_unit_bandits_2h_spear_infantry,未完成,True
-unit_description_short_texts_text_hv_unit_bandits_archers,未完成,True
-unit_description_short_texts_text_hv_unit_bandits_2h_spear_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_bandits_sabre_cavalry,未完成,True
+unit_description_short_texts_text_hv_unit_bandits_axe_infantry,,True
+unit_description_short_texts_text_hv_unit_bandits_2h_spear_infantry,,True
+unit_description_short_texts_text_hv_unit_bandits_archers,,True
+unit_description_short_texts_text_hv_unit_bandits_2h_spear_cavalry,,True
+unit_description_short_texts_text_hv_unit_bandits_sabre_cavalry,,True
 unit_description_short_texts_text_hv_unit_taishan_phantoms,"Great danger hides in the early mist of day. Phantoms that will maim their prey, or whose choking gass leaves them gasping for air.",True
 unit_description_short_texts_text_hv_unit_taishan_poison_wind,"The sting of an arrowshaft can be deadly, but with these archers, death may still find you long after the arrow pierced your flesh.",True
-unit_description_short_texts_text_hv_unit_black_mountain_bandits,未完成,True
-unit_description_short_texts_text_hv_unit_white_tiger_bandits,未完成,True
+unit_description_short_texts_text_hv_unit_black_mountain_bandits,,True
+unit_description_short_texts_text_hv_unit_white_tiger_bandits,,True
 unit_description_short_texts_text_hv_unit_yue_freemen,南方山間的陡峭山崖將百姓磨練成目光如電的戰士。,True
 unit_description_short_texts_text_hv_unit_nomad_gang_cavalry,很多軍閥都想要有草原騎射手。但與其為人效命，有時候不如自己單幹。 ,True
 unit_description_short_texts_text_hv_unit_bandits_elite_iron_walls,這些人并非軍士，卻穿著精良的鎧甲。他們的裝備來自於血腥的勝利和洗劫。,True
-unit_description_short_texts_text_hv_unit_bandits_elite_cunning_monkeys,未完成,True
-unit_description_short_texts_text_hv_unit_bandits_elite_two_blades,未完成,True
-unit_description_short_texts_text_hv_unit_bandits_elite_jia_long,未完成,True
-unit_description_short_texts_text_hv_unit_bandits_elite_blood_seekers,未完成,True
-unit_description_short_texts_text_hv_unit_bandits_elite_ren_xia,未完成,True
-unit_description_short_texts_text_hv_unit_bandits_elite_you_shi_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_swallow_cavalry,未完成,True
+unit_description_short_texts_text_hv_unit_bandits_elite_cunning_monkeys,,True
+unit_description_short_texts_text_hv_unit_bandits_elite_two_blades,,True
+unit_description_short_texts_text_hv_unit_bandits_elite_jia_long,,True
+unit_description_short_texts_text_hv_unit_bandits_elite_blood_seekers,,True
+unit_description_short_texts_text_hv_unit_bandits_elite_ren_xia,,True
+unit_description_short_texts_text_hv_unit_bandits_elite_you_shi_cavalry,,True
+unit_description_short_texts_text_hv_unit_swallow_cavalry,,True
 unit_description_short_texts_text_hv_unit_iron_fists_of_the_bandit_queen,這些身經百戰的精銳盜賊兩手各持一斧，率先出陣，攻敵不備。,True
-unit_description_short_texts_text_hv_unit_white_tiger_guardsmen,未完成,True
-unit_description_short_texts_text_hv_unit_tiger_and_leopard_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_tiger_and_leopard_barded_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_white_feathers,未完成,True
-unit_description_short_texts_text_hv_unit_porcupine_crossbowmen,未完成,True
-unit_description_short_texts_text_hv_unit_zhong_royal_guard,未完成,True
-unit_description_short_texts_text_hv_unit_jianan_hand_ji_infantry,未完成,True
-unit_description_short_texts_text_hv_unit_jianan_archers,未完成,True
+unit_description_short_texts_text_hv_unit_white_tiger_guardsmen,,True
+unit_description_short_texts_text_hv_unit_tiger_and_leopard_cavalry,,True
+unit_description_short_texts_text_hv_unit_tiger_and_leopard_barded_cavalry,,True
+unit_description_short_texts_text_hv_unit_white_feathers,,True
+unit_description_short_texts_text_hv_unit_porcupine_crossbowmen,,True
+unit_description_short_texts_text_hv_unit_zhong_royal_guard,,True
+unit_description_short_texts_text_hv_unit_jianan_hand_ji_infantry,,True
+unit_description_short_texts_text_hv_unit_jianan_archers,,True
 unit_description_short_texts_text_hv_unit_stray_artisans,Ingenuity and craftsmanship can turn even a lowly militiaman into a daunting foe.,True
-unit_description_short_texts_text_hv_unit_fellows_of_the_oath,未完成,True
-unit_description_short_texts_text_hv_unit_handmaid_guard,未完成,True
+unit_description_short_texts_text_hv_unit_fellows_of_the_oath,,True
+unit_description_short_texts_text_hv_unit_handmaid_guard,,True
 unit_description_short_texts_text_hv_unit_xian_chen_ying,多少軍隊試圖擊潰這些戰士，成功者寥寥無幾。,True
-unit_description_short_texts_text_hv_unit_han_volunteer_spearmen,未完成,True
-unit_description_short_texts_text_hv_unit_han_volunteer_rep_crossbowmen,未完成,True
-unit_description_short_texts_text_hv_unit_hidden_assault_infantry,未完成,True
-unit_description_short_texts_text_hv_unit_qingzhou_hand_ji_infantry,未完成,True
-unit_description_short_texts_text_hv_unit_qingzhou_2h_axe_infantry,未完成,True
-unit_description_short_texts_text_hv_unit_white_horse_fellows,未完成,True
-unit_description_short_texts_text_hv_unit_yuan_rong_crossbowmen,未完成,True
-unit_description_short_texts_text_hv_unit_dan_yang_infantry,未完成,True
-unit_description_short_texts_text_hv_unit_protectors_of_heaven,未完成,True
-unit_description_short_texts_text_hv_unit_defenders_of_earth,未完成,True
-unit_description_short_texts_text_hv_unit_protectors_of_heaven_might,未完成,True
-unit_description_short_texts_text_hv_unit_defenders_of_earth_might,未完成,True
-unit_description_short_texts_text_hv_unit_yellow_dragons,未完成,True
-unit_description_short_texts_text_hv_unit_azure_dragons,未完成,True
-unit_description_short_texts_text_hv_unit_pearl_dragons,未完成,True
-unit_description_short_texts_text_hv_unit_onyx_dragons,未完成,True
-unit_description_short_texts_text_hv_unit_jade_dragons,未完成,True
-unit_description_short_texts_text_hv_unit_goshawk_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_qiang_axemen,未完成,True
-unit_description_short_texts_text_hv_unit_qiang_archers,未完成,True
-unit_description_short_texts_text_hv_unit_qiang_ji_infantry,未完成,True
-unit_description_short_texts_text_hv_unit_qiang_spear_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_qiang_elite_warrior_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_qiang_elite_ranger_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_wuhuan_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_wuhuan_barded_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_xiongnu_archer_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_xiongnu_barded_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_sogd_warriors,未完成,True
-unit_description_short_texts_text_hv_unit_sogd_barded_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_shanyue_warriors,未完成,True
-unit_description_short_texts_text_hv_unit_shanyue_remnants,未完成,True
-unit_description_short_texts_text_hv_unit_local_noble_buqu_infantry,未完成,True
-unit_description_short_texts_text_hv_unit_local_noble_buqu_archers,未完成,True
-unit_description_short_texts_text_hv_unit_local_noble_buqu_spearmen,未完成,True
-unit_description_short_texts_text_hv_unit_local_noble_buqu_raider_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_local_noble_elite_archers,未完成,True
-unit_description_short_texts_text_hv_unit_trebuchet,未完成,True
-unit_description_short_texts_text_hv_unit_multiple_bolt_crossbow,未完成,True
-unit_description_short_texts_text_hv_unit_han_captain,未完成,True
-unit_description_short_texts_text_hv_unit_ytr_captain,未完成,True
-unit_description_short_texts_text_hv_unit_bandits_captain,未完成,True
-unit_description_short_texts_text_hv_unit_jianan_crossbowmen_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_qingzhou_raider_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_palace_guards,未完成,True
-unit_description_short_texts_text_hv_unit_dan_yang_spearmen,未完成,True
-unit_description_short_texts_text_hv_unit_dan_yang_archers,未完成,True
-unit_description_short_texts_text_hv_unit_mercenary_captain,未完成,True
-unit_description_short_texts_text_hv_unit_jianan_crossbowmen,未完成,True
-unit_description_short_texts_text_hv_unit_jianan_rep_crossbowmen,未完成,True
-unit_description_short_texts_text_hv_unit_black_mountain_bandits_javelineer,未完成,True
-unit_description_short_texts_text_hv_unit_qiang_javelineer,未完成,True
-unit_description_short_texts_text_hv_unit_xiongnu_javelineer,未完成,True
-unit_description_short_texts_text_hv_unit_shanyue_javelineer,未完成,True
-unit_description_short_texts_text_hv_unit_bomb_thrower,未完成,True
-unit_description_short_texts_text_hv_unit_spice_guard,未完成,True
-unit_description_short_texts_text_hv_unit_warrior_monks,未完成,True
-unit_description_short_texts_text_hv_unit_white_tiger_warriors,未完成,True
-unit_description_short_texts_text_hv_unit_mercenary_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_mercenary_infantry,未完成,True
-unit_description_short_texts_text_hv_unit_mercenary_archers,未完成,True
-unit_description_short_texts_text_hv_unit_juggernaut,未完成,True
-unit_description_short_texts_text_hv_unit_hidden_snakes,未完成,True
-unit_description_short_texts_text_hv_unit_rapid_tigers,未完成,True
-unit_description_short_texts_text_hv_unit_hebei_spearmen,未完成,True
-unit_description_short_texts_text_hv_unit_hebei_sword_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_xianbei_archer_cavalry,未完成,True
-unit_description_short_texts_text_hv_unit_militia_2h_axemen,未完成,True
-unit_description_short_texts_text_hv_unit_hidden_2h_spearmen,未完成,True
-unit_description_short_texts_text_hv_unit_nanman_axe_defectors,未完成,True
-unit_description_short_texts_text_hv_unit_nanman_spear_defectors,未完成,True
-unit_description_short_texts_text_hv_unit_nanman_crossbow_defectors,未完成,True
-unit_description_short_texts_text_hv_unit_nanman_cavalry_defectors,未完成,True
-unit_description_short_texts_text_hv_unit_nanman_southern_foreign_rangers,未完成,True
-unit_description_short_texts_text_hv_unit_nanman_southern_foreign_warriors,未完成,True
-unit_description_short_texts_text_hv_unit_nanman_southern_shield_bearers,未完成,True
-unit_description_short_texts_text_hv_unit_bandits_fanatics,未完成,True
-unit_description_short_texts_text_hv_unit_bandits_heroic_outlaws,未完成,True
-unit_description_short_texts_text_hv_unit_bandits_drifting_warmongers,未完成,True
-unit_description_short_texts_text_hv_unit_bandits_children_of_the_forest,未完成,True
-unit_description_short_texts_text_hv_unit_imperial_guards,未完成,True
-unit_description_short_texts_text_hv_unit_bandits_elite_fire_fiends,未完成,True
+unit_description_short_texts_text_hv_unit_han_volunteer_spearmen,,True
+unit_description_short_texts_text_hv_unit_han_volunteer_rep_crossbowmen,,True
+unit_description_short_texts_text_hv_unit_hidden_assault_infantry,,True
+unit_description_short_texts_text_hv_unit_qingzhou_hand_ji_infantry,,True
+unit_description_short_texts_text_hv_unit_qingzhou_2h_axe_infantry,,True
+unit_description_short_texts_text_hv_unit_white_horse_fellows,,True
+unit_description_short_texts_text_hv_unit_yuan_rong_crossbowmen,,True
+unit_description_short_texts_text_hv_unit_dan_yang_infantry,,True
+unit_description_short_texts_text_hv_unit_protectors_of_heaven,,True
+unit_description_short_texts_text_hv_unit_defenders_of_earth,,True
+unit_description_short_texts_text_hv_unit_protectors_of_heaven_might,,True
+unit_description_short_texts_text_hv_unit_defenders_of_earth_might,,True
+unit_description_short_texts_text_hv_unit_yellow_dragons,,True
+unit_description_short_texts_text_hv_unit_azure_dragons,,True
+unit_description_short_texts_text_hv_unit_pearl_dragons,,True
+unit_description_short_texts_text_hv_unit_onyx_dragons,,True
+unit_description_short_texts_text_hv_unit_jade_dragons,,True
+unit_description_short_texts_text_hv_unit_goshawk_cavalry,,True
+unit_description_short_texts_text_hv_unit_qiang_axemen,,True
+unit_description_short_texts_text_hv_unit_qiang_archers,,True
+unit_description_short_texts_text_hv_unit_qiang_ji_infantry,,True
+unit_description_short_texts_text_hv_unit_qiang_spear_cavalry,,True
+unit_description_short_texts_text_hv_unit_qiang_elite_warrior_cavalry,,True
+unit_description_short_texts_text_hv_unit_qiang_elite_ranger_cavalry,,True
+unit_description_short_texts_text_hv_unit_wuhuan_cavalry,,True
+unit_description_short_texts_text_hv_unit_wuhuan_barded_cavalry,,True
+unit_description_short_texts_text_hv_unit_xiongnu_archer_cavalry,,True
+unit_description_short_texts_text_hv_unit_xiongnu_barded_cavalry,,True
+unit_description_short_texts_text_hv_unit_sogd_warriors,,True
+unit_description_short_texts_text_hv_unit_sogd_barded_cavalry,,True
+unit_description_short_texts_text_hv_unit_shanyue_warriors,,True
+unit_description_short_texts_text_hv_unit_shanyue_remnants,,True
+unit_description_short_texts_text_hv_unit_local_noble_buqu_infantry,,True
+unit_description_short_texts_text_hv_unit_local_noble_buqu_archers,,True
+unit_description_short_texts_text_hv_unit_local_noble_buqu_spearmen,,True
+unit_description_short_texts_text_hv_unit_local_noble_buqu_raider_cavalry,,True
+unit_description_short_texts_text_hv_unit_local_noble_elite_archers,,True
+unit_description_short_texts_text_hv_unit_trebuchet,,True
+unit_description_short_texts_text_hv_unit_multiple_bolt_crossbow,,True
+unit_description_short_texts_text_hv_unit_han_captain,,True
+unit_description_short_texts_text_hv_unit_ytr_captain,,True
+unit_description_short_texts_text_hv_unit_bandits_captain,,True
+unit_description_short_texts_text_hv_unit_jianan_crossbowmen_cavalry,,True
+unit_description_short_texts_text_hv_unit_qingzhou_raider_cavalry,,True
+unit_description_short_texts_text_hv_unit_palace_guards,,True
+unit_description_short_texts_text_hv_unit_dan_yang_spearmen,,True
+unit_description_short_texts_text_hv_unit_dan_yang_archers,,True
+unit_description_short_texts_text_hv_unit_mercenary_captain,,True
+unit_description_short_texts_text_hv_unit_jianan_crossbowmen,,True
+unit_description_short_texts_text_hv_unit_jianan_rep_crossbowmen,,True
+unit_description_short_texts_text_hv_unit_black_mountain_bandits_javelineer,,True
+unit_description_short_texts_text_hv_unit_qiang_javelineer,,True
+unit_description_short_texts_text_hv_unit_xiongnu_javelineer,,True
+unit_description_short_texts_text_hv_unit_shanyue_javelineer,,True
+unit_description_short_texts_text_hv_unit_bomb_thrower,,True
+unit_description_short_texts_text_hv_unit_spice_guard,,True
+unit_description_short_texts_text_hv_unit_warrior_monks,,True
+unit_description_short_texts_text_hv_unit_white_tiger_warriors,,True
+unit_description_short_texts_text_hv_unit_mercenary_cavalry,,True
+unit_description_short_texts_text_hv_unit_mercenary_infantry,,True
+unit_description_short_texts_text_hv_unit_mercenary_archers,,True
+unit_description_short_texts_text_hv_unit_juggernaut,,True
+unit_description_short_texts_text_hv_unit_hidden_snakes,,True
+unit_description_short_texts_text_hv_unit_rapid_tigers,,True
+unit_description_short_texts_text_hv_unit_hebei_spearmen,,True
+unit_description_short_texts_text_hv_unit_hebei_sword_cavalry,,True
+unit_description_short_texts_text_hv_unit_xianbei_archer_cavalry,,True
+unit_description_short_texts_text_hv_unit_militia_2h_axemen,,True
+unit_description_short_texts_text_hv_unit_hidden_2h_spearmen,,True
+unit_description_short_texts_text_hv_unit_nanman_axe_defectors,,True
+unit_description_short_texts_text_hv_unit_nanman_spear_defectors,,True
+unit_description_short_texts_text_hv_unit_nanman_crossbow_defectors,,True
+unit_description_short_texts_text_hv_unit_nanman_cavalry_defectors,,True
+unit_description_short_texts_text_hv_unit_nanman_southern_foreign_rangers,,True
+unit_description_short_texts_text_hv_unit_nanman_southern_foreign_warriors,,True
+unit_description_short_texts_text_hv_unit_nanman_southern_shield_bearers,,True
+unit_description_short_texts_text_hv_unit_bandits_fanatics,,True
+unit_description_short_texts_text_hv_unit_bandits_heroic_outlaws,,True
+unit_description_short_texts_text_hv_unit_bandits_drifting_warmongers,,True
+unit_description_short_texts_text_hv_unit_bandits_children_of_the_forest,,True
+unit_description_short_texts_text_hv_unit_imperial_guards,,True
+unit_description_short_texts_text_hv_unit_bandits_elite_fire_fiends,,True
 ground_type_stat_effect_groups_onscreen_name_hv_ground_effect_light_infantry,輕型步兵,True
 ground_type_stat_effect_groups_onscreen_name_hv_ground_effect_medium_infantry,中型步兵,True
 ground_type_stat_effect_groups_onscreen_name_hv_ground_effect_heavy_infantry,重型步兵,True
 ground_type_stat_effect_groups_onscreen_name_hv_ground_effect_cavalry,中型騎兵,True
 ground_type_stat_effect_groups_onscreen_name_hv_ground_effect_half_cavalry,重型騎兵,True
 ground_type_stat_effect_groups_onscreen_name_hv_ground_effect_barded_cavalry,重型騎兵,True
-unit_description_historical_texts_text_hv_unit_militia_sabre_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_militia_ji_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_militia_archers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_buqu_sabre_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_buqu_axemen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_buqu_2h_axemen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_buqu_spearmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_buqu_ji_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_buqu_archers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_buqu_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_buqu_rep_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_buqu_2h_spear_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_buqu_sabre_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_buqu_raid_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_buqu_archer_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
+unit_description_historical_texts_text_hv_unit_militia_sabre_infantry,,True
+unit_description_historical_texts_text_hv_unit_militia_ji_infantry,,True
+unit_description_historical_texts_text_hv_unit_militia_archers,,True
+unit_description_historical_texts_text_hv_unit_buqu_sabre_infantry,,True
+unit_description_historical_texts_text_hv_unit_buqu_axemen,,True
+unit_description_historical_texts_text_hv_unit_buqu_2h_axemen,,True
+unit_description_historical_texts_text_hv_unit_buqu_spearmen,,True
+unit_description_historical_texts_text_hv_unit_buqu_ji_infantry,,True
+unit_description_historical_texts_text_hv_unit_buqu_archers,,True
+unit_description_historical_texts_text_hv_unit_buqu_crossbowmen,,True
+unit_description_historical_texts_text_hv_unit_buqu_rep_crossbowmen,,True
+unit_description_historical_texts_text_hv_unit_buqu_2h_spear_cavalry,,True
+unit_description_historical_texts_text_hv_unit_buqu_sabre_cavalry,,True
+unit_description_historical_texts_text_hv_unit_buqu_raid_cavalry,,True
+unit_description_historical_texts_text_hv_unit_buqu_archer_cavalry,,True
 unit_description_historical_texts_text_hv_unit_elite_swordsmen,劍兩側開鋒，刃身筆直，又名「百兵之君」，和棍、刀、槍並列為四大兵器。劍需要一年時間訓練才能在實戰中應用，因此只有武藝最精湛的劍士才會使用。 \\n\\n 精锐剑士的功用是堅守陣線，即便其他人都力竭倒下了，他們仍能憑藉著劍技、皮甲和圓盾繼續奮戰。,True
-unit_description_historical_texts_text_hv_unit_elite_2h_axemen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_elite_2h_swordsmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_elite_spearmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_elite_2h_spearmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_elite_ji_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
+unit_description_historical_texts_text_hv_unit_elite_2h_axemen,,True
+unit_description_historical_texts_text_hv_unit_elite_2h_swordsmen,,True
+unit_description_historical_texts_text_hv_unit_elite_spearmen,,True
+unit_description_historical_texts_text_hv_unit_elite_2h_spearmen,,True
+unit_description_historical_texts_text_hv_unit_elite_ji_infantry,,True
 unit_description_historical_texts_text_hv_unit_elite_heavy_bow_archers,沉重的鐵弓，對普通弓箭手來說不容易使用。\\n\n由於强大的張力和沉重的箭頭，射程很短，但箭頭會穿透敵人。\\n\n這隻部隊裝備有鐵甲，在近距離戰鬥中，可以輕易砍殺敵軍。,True
-unit_description_historical_texts_text_hv_unit_elite_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_elite_rep_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_elite_sword_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_elite_2h_spear_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_elite_barded_2h_spear_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
+unit_description_historical_texts_text_hv_unit_elite_crossbowmen,,True
+unit_description_historical_texts_text_hv_unit_elite_rep_crossbowmen,,True
+unit_description_historical_texts_text_hv_unit_elite_sword_cavalry,,True
+unit_description_historical_texts_text_hv_unit_elite_2h_spear_cavalry,,True
+unit_description_historical_texts_text_hv_unit_elite_barded_2h_spear_cavalry,,True
 unit_description_historical_texts_text_hv_unit_xiliang_buqu_hand_ji_infantry,一邊是長城的陰影，另一邊是草原各部落，西涼民族必須紀律嚴明，艱苦奮鬥。而西涼士兵則必須加倍做到。\\n\\n勇敢而老練的西涼軍是大多數軍閥羡慕的對象，也是西涼軍將領的驕傲。\\n\\n這些士兵會先投擲一隻備用的手戟，然後沖向敵人的防線，一隻手揮舞著他們的匕首斧，另一隻手拿著盾牌來招架敵人的回擊。,True
 unit_description_historical_texts_text_hv_unit_xiliang_buqu_spearmen,一邊是長城的陰影，另一邊是草原各部落，西涼民族必須紀律嚴明，艱苦奮鬥。而西涼士兵則必須加倍做到。\\n\\n勇敢而老練的西涼軍是大多數軍閥羡慕的對象，也是西涼軍將領的驕傲。\\n\\n這些矛兵通過先發制人的衝鋒來保護側翼，並以一定角度支起他們的羌族長矛，只有最愚蠢或最勇敢的騎兵才敢向其衝鋒。但這使他們成為遠程攻擊的目標，因此他們裝備了皮甲，並攜帶大型盾牌，以保護自己免受箭雨傷害。,True
 unit_description_historical_texts_text_hv_unit_xiliang_buqu_ji_infantry,一邊是長城的陰影，另一邊是草原各部落，西涼民族必須紀律嚴明，艱苦奮鬥。而西涼士兵則必須加倍做到。\\n\\n勇敢而老練的西涼軍是大多數軍閥羡慕的對象，也是西涼軍將領的驕傲。\\n\\n這些士兵，裝備了長戟，將在騎兵衝鋒時嚴陣以待，讓馬自己衝到他們的刀刃上。他們身穿鐵甲，可以自如地加入混戰，迎擊所有來犯。,True
@@ -3837,120 +3837,120 @@ unit_description_historical_texts_text_hv_unit_buqu_of_the_left,"Recruited by Li
 unit_description_historical_texts_text_hv_unit_militia_black_mountain_outlaws,黃巾起義和迅速瓦解的漢朝，使許多人失去了家園和生計。這些人中最絕望或最不謹慎的人都變成了強盜。這些人加入黑山王的土匪，希望通過燒殺掠奪來重獲財富。儘管他們抱有希望，但他們糟糕的裝備通常讓他們只能做擋箭牌，而其他人則會因他們的犧牲而收穫回報。,True
 unit_description_historical_texts_text_hv_unit_militia_taishan_outlaws,黃巾起義和迅速瓦解的漢朝，使許多人失去了家園和生計。這些人中最絕望或最不謹慎的人都變成了強盜。這些人加入盜賊女王麾下，希望通過燒殺掠奪來重獲財富。儘管他們抱有希望，但他們糟糕的裝備通常讓他們只能做擋箭牌，而其他人則會因他們的犧牲而收穫回報。,True
 unit_description_historical_texts_text_hv_unit_militia_white_tiger_outlaws,"Born from refugees and those peoples who would not submit to the Han empire, these White Tiger Strays have thrown their lot with Yan Baihu, hoping to safeguard their independance. Wearing bad equipment, the most valuable thing they offer to their commanders is their lives; to sell dearly as better men win the battle for them.",True
-unit_description_historical_texts_text_hv_unit_bandits_axe_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_bandits_2h_spear_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_bandits_archers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_bandits_2h_spear_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
+unit_description_historical_texts_text_hv_unit_bandits_axe_infantry,,True
+unit_description_historical_texts_text_hv_unit_bandits_2h_spear_infantry,,True
+unit_description_historical_texts_text_hv_unit_bandits_archers,,True
+unit_description_historical_texts_text_hv_unit_bandits_2h_spear_cavalry,,True
 unit_description_historical_texts_text_hv_unit_bandits_sabre_cavalry,"Whereas some cavalry bring a primal, instantly shattering force to the battlefield, other mounted warriors are suited to the slower burn, embroiling themselves in the melee and staying to continue inflicting casualties. \\n\\n Whilst they get less power on the charge, their destructive capability increases dramatically once they begin hacking away at foes.",True
 unit_description_historical_texts_text_hv_unit_taishan_phantoms,"The bandit queen's forces are bolstered by the presence of these so-called ""phantoms"". Hailing from Taishan, these warriors have already gathered an ominous reputation for the poison bombs they carry with them. If the wind is right, these bombs will cause entire regiments to choke without even comitting to battle. They are furthermore armed with a light sword and cloth armor, so they should not be relied on to hold the line in melee.",True
 unit_description_historical_texts_text_hv_unit_taishan_poison_wind,"Hailing from Taishan, these women have coated their arrow points in a special ointment, made from poisonous herbs native to the region. In battle, A volley from these archers will soon leave the enemy gasping for air as the poison very quickly spreads through their veins. A wise commander will use these soldiers to spread terror through the enemy ranks, yet keep them well-protected: they are vulnerable to cavalry, as their range is limited.",True
-unit_description_historical_texts_text_hv_unit_black_mountain_bandits,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_white_tiger_bandits,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
+unit_description_historical_texts_text_hv_unit_black_mountain_bandits,,True
+unit_description_historical_texts_text_hv_unit_white_tiger_bandits,,True
 unit_description_historical_texts_text_hv_unit_yue_freemen,"Mighty, gnarled monoliths, the imposing peaks of China's south stand like sentinels against the unrelenting waters beyond. Amongst these hills and peaks, the Yue tribes eke out their continued existence; brought low from the once-proud past, they stand now against the threat of Han invasion from the north. Although they wield sword and shield, they are nothing like the professional warriors coming to face them. \\n\\n Yet, united behind one who purports to fight for their ideals, the Yue are able to summon themselves into something resembling their own strength – their legacy demands it!",True
 unit_description_historical_texts_text_hv_unit_nomad_gang_cavalry,"The nomads of the steppes have a reputation for fine horsemanship. These particular horse archers have turned to banditry and pillaging to fill their coffers. They will allign themselves to bandit chiefs of note, who can afford their services by giving them a proportional share of the loot. In battle, they harass the enemy from afar, using their horses to quickly wheel about when the counter-attack comes.",True
 unit_description_historical_texts_text_hv_unit_bandits_elite_iron_walls,"The typical bandit force consists of lightly armored troops. These men are not a typical bandit force. A string of victories or lucky looting has netted them the excellent armour wielded by the heavy troops of the Han empire. They now form a heavy spear unit, capable of holding their ground against even the dreaded barded horsemen. With these men, any aspiring bandit warlord may find himself a bandit king or queen, one day.",True
-unit_description_historical_texts_text_hv_unit_bandits_elite_cunning_monkeys,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_bandits_elite_two_blades,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_bandits_elite_jia_long,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_bandits_elite_blood_seekers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_bandits_elite_ren_xia,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_bandits_elite_you_shi_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_swallow_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
+unit_description_historical_texts_text_hv_unit_bandits_elite_cunning_monkeys,,True
+unit_description_historical_texts_text_hv_unit_bandits_elite_two_blades,,True
+unit_description_historical_texts_text_hv_unit_bandits_elite_jia_long,,True
+unit_description_historical_texts_text_hv_unit_bandits_elite_blood_seekers,,True
+unit_description_historical_texts_text_hv_unit_bandits_elite_ren_xia,,True
+unit_description_historical_texts_text_hv_unit_bandits_elite_you_shi_cavalry,,True
+unit_description_historical_texts_text_hv_unit_swallow_cavalry,,True
 unit_description_historical_texts_text_hv_unit_iron_fists_of_the_bandit_queen,"Zheng Jiang has selected her most ferocious bandits to act as her ‘Fists of the Bandit Queen’; their role is to act as shock-troops, sneaking behind enemy lines to terrify foes with surprise attacks early in the battle. \\n\\n Each carries a heavy fu axe in each hand, and the wounds dealt by them can be catastrophic. Striking terror requires these troops to be without fear themselves, but also means they can tend to be undisciplined and difficult to control once their blood is hot with battle",True
-unit_description_historical_texts_text_hv_unit_white_tiger_guardsmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_tiger_and_leopard_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_tiger_and_leopard_barded_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_white_feathers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_porcupine_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_zhong_royal_guard,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_jianan_hand_ji_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_jianan_archers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
+unit_description_historical_texts_text_hv_unit_white_tiger_guardsmen,,True
+unit_description_historical_texts_text_hv_unit_tiger_and_leopard_cavalry,,True
+unit_description_historical_texts_text_hv_unit_tiger_and_leopard_barded_cavalry,,True
+unit_description_historical_texts_text_hv_unit_white_feathers,,True
+unit_description_historical_texts_text_hv_unit_porcupine_crossbowmen,,True
+unit_description_historical_texts_text_hv_unit_zhong_royal_guard,,True
+unit_description_historical_texts_text_hv_unit_jianan_hand_ji_infantry,,True
+unit_description_historical_texts_text_hv_unit_jianan_archers,,True
 unit_description_historical_texts_text_hv_unit_stray_artisans,"Having fled from their homes, these craftsmen and artisans turn their skills to the defence of their new home and master. \\n\\n Having been selected as the brightest from the many refugees flooding his lands, these engineers serve Tao Qian to the best of their ability. Wielding crossbows, they provide support from afar and will deploy smoke bombs and caltrops when an enemy strays too close. However, these men are not proper soldiers and should not be relied upon to hold the line in melee.",True
-unit_description_historical_texts_text_hv_unit_fellows_of_the_oath,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_handmaid_guard,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
+unit_description_historical_texts_text_hv_unit_fellows_of_the_oath,,True
+unit_description_historical_texts_text_hv_unit_handmaid_guard,,True
 unit_description_historical_texts_text_hv_unit_xian_chen_ying,"Sun Tzu said that one should always give an enemy room to escape, so that they do not fight with the fervour of the doomed. Yet for Gao Shun's elite force, Xian Chen Ying, being entirely surrounded is nothing but another dimension to slaughter. \\n\\n Renowned for their abilitiy to smash through enemy formations, Xian Chen Ying excel even when surrounded. The bodies will pile high, but Xian Chen Ying will still emerge from the pile victorious.",True
-unit_description_historical_texts_text_hv_unit_han_volunteer_spearmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_han_volunteer_rep_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_hidden_assault_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_qingzhou_hand_ji_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_qingzhou_2h_axe_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_white_horse_fellows,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_yuan_rong_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_dan_yang_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_protectors_of_heaven,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_defenders_of_earth,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_protectors_of_heaven_might,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_defenders_of_earth_might,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_yellow_dragons,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_azure_dragons,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_pearl_dragons,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_onyx_dragons,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_jade_dragons,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_goshawk_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_qiang_axemen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_qiang_archers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_qiang_ji_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_qiang_spear_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_qiang_elite_warrior_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_qiang_elite_ranger_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_wuhuan_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_wuhuan_barded_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_xiongnu_archer_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_xiongnu_barded_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_sogd_warriors,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_sogd_barded_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_shanyue_warriors,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_shanyue_remnants,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_local_noble_buqu_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_local_noble_buqu_archers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_local_noble_buqu_spearmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_local_noble_buqu_raider_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_local_noble_elite_archers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_trebuchet,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_multiple_bolt_crossbow,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_han_captain,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_ytr_captain,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_bandits_captain,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_jianan_crossbowmen_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_qingzhou_raider_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_palace_guards,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_dan_yang_spearmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_dan_yang_archers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_mercenary_captain,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_jianan_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_jianan_rep_crossbowmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_black_mountain_bandits_javelineer,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_qiang_javelineer,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_xiongnu_javelineer,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_shanyue_javelineer,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_bomb_thrower,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_spice_guard,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_warrior_monks,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_white_tiger_warriors,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_mercenary_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_mercenary_infantry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_mercenary_archers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_juggernaut,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_hidden_snakes,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_rapid_tigers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_hebei_spearmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_hebei_sword_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_xianbei_archer_cavalry,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_militia_2h_axemen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_hidden_2h_spearmen,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_nanman_axe_defectors,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_nanman_spear_defectors,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_nanman_crossbow_defectors,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_nanman_cavalry_defectors,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_nanman_southern_foreign_rangers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_nanman_southern_foreign_warriors,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_nanman_southern_shield_bearers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_bandits_fanatics,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_bandits_heroic_outlaws,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_bandits_drifting_warmongers,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_bandits_children_of_the_forest,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_imperial_guards,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
-unit_description_historical_texts_text_hv_unit_bandits_elite_fire_fiends,未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）,True
+unit_description_historical_texts_text_hv_unit_han_volunteer_spearmen,,True
+unit_description_historical_texts_text_hv_unit_han_volunteer_rep_crossbowmen,,True
+unit_description_historical_texts_text_hv_unit_hidden_assault_infantry,,True
+unit_description_historical_texts_text_hv_unit_qingzhou_hand_ji_infantry,,True
+unit_description_historical_texts_text_hv_unit_qingzhou_2h_axe_infantry,,True
+unit_description_historical_texts_text_hv_unit_white_horse_fellows,,True
+unit_description_historical_texts_text_hv_unit_yuan_rong_crossbowmen,,True
+unit_description_historical_texts_text_hv_unit_dan_yang_infantry,,True
+unit_description_historical_texts_text_hv_unit_protectors_of_heaven,,True
+unit_description_historical_texts_text_hv_unit_defenders_of_earth,,True
+unit_description_historical_texts_text_hv_unit_protectors_of_heaven_might,,True
+unit_description_historical_texts_text_hv_unit_defenders_of_earth_might,,True
+unit_description_historical_texts_text_hv_unit_yellow_dragons,,True
+unit_description_historical_texts_text_hv_unit_azure_dragons,,True
+unit_description_historical_texts_text_hv_unit_pearl_dragons,,True
+unit_description_historical_texts_text_hv_unit_onyx_dragons,,True
+unit_description_historical_texts_text_hv_unit_jade_dragons,,True
+unit_description_historical_texts_text_hv_unit_goshawk_cavalry,,True
+unit_description_historical_texts_text_hv_unit_qiang_axemen,,True
+unit_description_historical_texts_text_hv_unit_qiang_archers,,True
+unit_description_historical_texts_text_hv_unit_qiang_ji_infantry,,True
+unit_description_historical_texts_text_hv_unit_qiang_spear_cavalry,,True
+unit_description_historical_texts_text_hv_unit_qiang_elite_warrior_cavalry,,True
+unit_description_historical_texts_text_hv_unit_qiang_elite_ranger_cavalry,,True
+unit_description_historical_texts_text_hv_unit_wuhuan_cavalry,,True
+unit_description_historical_texts_text_hv_unit_wuhuan_barded_cavalry,,True
+unit_description_historical_texts_text_hv_unit_xiongnu_archer_cavalry,,True
+unit_description_historical_texts_text_hv_unit_xiongnu_barded_cavalry,,True
+unit_description_historical_texts_text_hv_unit_sogd_warriors,,True
+unit_description_historical_texts_text_hv_unit_sogd_barded_cavalry,,True
+unit_description_historical_texts_text_hv_unit_shanyue_warriors,,True
+unit_description_historical_texts_text_hv_unit_shanyue_remnants,,True
+unit_description_historical_texts_text_hv_unit_local_noble_buqu_infantry,,True
+unit_description_historical_texts_text_hv_unit_local_noble_buqu_archers,,True
+unit_description_historical_texts_text_hv_unit_local_noble_buqu_spearmen,,True
+unit_description_historical_texts_text_hv_unit_local_noble_buqu_raider_cavalry,,True
+unit_description_historical_texts_text_hv_unit_local_noble_elite_archers,,True
+unit_description_historical_texts_text_hv_unit_trebuchet,,True
+unit_description_historical_texts_text_hv_unit_multiple_bolt_crossbow,,True
+unit_description_historical_texts_text_hv_unit_han_captain,,True
+unit_description_historical_texts_text_hv_unit_ytr_captain,,True
+unit_description_historical_texts_text_hv_unit_bandits_captain,,True
+unit_description_historical_texts_text_hv_unit_jianan_crossbowmen_cavalry,,True
+unit_description_historical_texts_text_hv_unit_qingzhou_raider_cavalry,,True
+unit_description_historical_texts_text_hv_unit_palace_guards,,True
+unit_description_historical_texts_text_hv_unit_dan_yang_spearmen,,True
+unit_description_historical_texts_text_hv_unit_dan_yang_archers,,True
+unit_description_historical_texts_text_hv_unit_mercenary_captain,,True
+unit_description_historical_texts_text_hv_unit_jianan_crossbowmen,,True
+unit_description_historical_texts_text_hv_unit_jianan_rep_crossbowmen,,True
+unit_description_historical_texts_text_hv_unit_black_mountain_bandits_javelineer,,True
+unit_description_historical_texts_text_hv_unit_qiang_javelineer,,True
+unit_description_historical_texts_text_hv_unit_xiongnu_javelineer,,True
+unit_description_historical_texts_text_hv_unit_shanyue_javelineer,,True
+unit_description_historical_texts_text_hv_unit_bomb_thrower,,True
+unit_description_historical_texts_text_hv_unit_spice_guard,,True
+unit_description_historical_texts_text_hv_unit_warrior_monks,,True
+unit_description_historical_texts_text_hv_unit_white_tiger_warriors,,True
+unit_description_historical_texts_text_hv_unit_mercenary_cavalry,,True
+unit_description_historical_texts_text_hv_unit_mercenary_infantry,,True
+unit_description_historical_texts_text_hv_unit_mercenary_archers,,True
+unit_description_historical_texts_text_hv_unit_juggernaut,,True
+unit_description_historical_texts_text_hv_unit_hidden_snakes,,True
+unit_description_historical_texts_text_hv_unit_rapid_tigers,,True
+unit_description_historical_texts_text_hv_unit_hebei_spearmen,,True
+unit_description_historical_texts_text_hv_unit_hebei_sword_cavalry,,True
+unit_description_historical_texts_text_hv_unit_xianbei_archer_cavalry,,True
+unit_description_historical_texts_text_hv_unit_militia_2h_axemen,,True
+unit_description_historical_texts_text_hv_unit_hidden_2h_spearmen,,True
+unit_description_historical_texts_text_hv_unit_nanman_axe_defectors,,True
+unit_description_historical_texts_text_hv_unit_nanman_spear_defectors,,True
+unit_description_historical_texts_text_hv_unit_nanman_crossbow_defectors,,True
+unit_description_historical_texts_text_hv_unit_nanman_cavalry_defectors,,True
+unit_description_historical_texts_text_hv_unit_nanman_southern_foreign_rangers,,True
+unit_description_historical_texts_text_hv_unit_nanman_southern_foreign_warriors,,True
+unit_description_historical_texts_text_hv_unit_nanman_southern_shield_bearers,,True
+unit_description_historical_texts_text_hv_unit_bandits_fanatics,,True
+unit_description_historical_texts_text_hv_unit_bandits_heroic_outlaws,,True
+unit_description_historical_texts_text_hv_unit_bandits_drifting_warmongers,,True
+unit_description_historical_texts_text_hv_unit_bandits_children_of_the_forest,,True
+unit_description_historical_texts_text_hv_unit_imperial_guards,,True
+unit_description_historical_texts_text_hv_unit_bandits_elite_fire_fiends,,True
 land_units_onscreen_name_hv_unit_militia_sabre_infantry,{{tr:hv_unit_militia_sabre_infantry}},True
 land_units_onscreen_name_hv_unit_militia_ji_infantry,{{tr:hv_unit_militia_ji_infantry}},True
 land_units_onscreen_name_hv_unit_militia_archers,{{tr:hv_unit_militia_archers}},True
