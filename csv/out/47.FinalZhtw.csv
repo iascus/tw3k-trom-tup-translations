@@ -513,6 +513,10 @@ ceo_nodes_description_hv_ceo_node_career_non_deployable_type_3,對佃戶來説�
 ceo_nodes_description_hv_ceo_node_career_non_deployable_type_4,這些人代替主公處理事務。,True
 ceo_nodes_description_hv_ceo_node_career_non_deployable_type_5,周圍總是很多人。,True
 ceo_nodes_description_hv_ceo_node_career_non_deployable_type_6,他們會記錄一切事務。,True
+ceo_nodes_description_hv_mtu_ancillary_liu_fengs_armour_unique,重量適中且恰好合身，專為這名有頭有臉的戰士量身打造。,False
+ceo_nodes_description_hv_mtu_ancillary_lu_sus_armour_unique,重量適中且恰好合身，專為這名有頭有臉的戰士量身打造。,False
+ceo_nodes_description_hv_mtu_ancillary_zang_bas_armour_unique,重量適中且恰好合身，專為這名有頭有臉的戰士量身打造。,False
+ceo_nodes_description_hv_mtu_ceo_node_career_historical_liu_feng_01,劉封性情剛猛，但命途多舛，終遭屈抑。,False
 ceo_nodes_title_3k_dlc04_ceo_node_career_historical_lady_cai_yan_wenji_01,悲憤才女,False
 ceo_nodes_title_3k_main_ancillary_lady_diao_chans_armour_unique,貂蟬的丝服,True
 ceo_nodes_title_3k_main_ceo_node_career_historical_lady_diao_chan_01,傾國美人,False
@@ -641,6 +645,10 @@ ceo_nodes_title_hv_ceo_node_faction_rank_unlock_legacy_lu_bu,呂布餘部,False
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_legacy_yuan_shu,袁術餘部,False
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_monk,佛教,False
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_qingzhou,剿滅黃巾,False
+ceo_nodes_title_hv_mtu_ancillary_liu_fengs_armour_unique,劉封的護甲,False
+ceo_nodes_title_hv_mtu_ancillary_lu_sus_armour_unique,魯肅的護甲,False
+ceo_nodes_title_hv_mtu_ancillary_zang_bas_armour_unique,臧霸的護甲,False
+ceo_nodes_title_hv_mtu_ceo_node_career_historical_liu_feng_01,螟蛉義子,False
 character_skills_localised_description_3k_dlc07_skill_emperor_earth_imperious,您是皇帝，就該有皇帝的樣子。,False
 character_skills_localised_description_3k_main_skill_special_ability_earth_advance,軍令如山，不聽約束者皆斬之。,True
 character_skills_localised_description_3k_main_skill_special_ability_earth_battle_stance,知己知彼，百戰不殆。,True
@@ -1064,10 +1072,12 @@ character_skills_localised_description_hv_skill_add_individuality_li_jue_4A,超�
 character_skills_localised_description_hv_skill_add_individuality_li_ru_4A,超凡脫俗,True
 character_skills_localised_description_hv_skill_add_individuality_liu_bei_4A,超凡脫俗,True
 character_skills_localised_description_hv_skill_add_individuality_liu_biao_4A,超凡脫俗,True
+character_skills_localised_description_hv_skill_add_individuality_liu_feng_4A,超凡脫俗,False
 character_skills_localised_description_hv_skill_add_individuality_liu_yan_4A,超凡脫俗,True
 character_skills_localised_description_hv_skill_add_individuality_liu_yao_4A,超凡脫俗,False
 character_skills_localised_description_hv_skill_add_individuality_liu_zhang_4A,超凡脫俗,True
 character_skills_localised_description_hv_skill_add_individuality_lu_bu_4A,超凡脫俗,True
+character_skills_localised_description_hv_skill_add_individuality_lu_su_4A,超凡脫俗,False
 character_skills_localised_description_hv_skill_add_individuality_lu_zhi_4A,超凡脫俗,True
 character_skills_localised_description_hv_skill_add_individuality_luo_jun_4A,超凡脫俗,True
 character_skills_localised_description_hv_skill_add_individuality_ma_chao_4A,超凡脫俗,True
@@ -1156,6 +1166,7 @@ character_skills_localised_description_hv_skill_add_individuality_yuan_shang_4A,
 character_skills_localised_description_hv_skill_add_individuality_yuan_shao_4A,超凡脫俗,True
 character_skills_localised_description_hv_skill_add_individuality_yuan_shu_4A,超凡脫俗,True
 character_skills_localised_description_hv_skill_add_individuality_yue_jin_4A,超凡脫俗,True
+character_skills_localised_description_hv_skill_add_individuality_zang_ba_4A,超凡脫俗,False
 character_skills_localised_description_hv_skill_add_individuality_zhang_bao_4A,超凡脫俗,False
 character_skills_localised_description_hv_skill_add_individuality_zhang_fang_4A,超凡脫俗,False
 character_skills_localised_description_hv_skill_add_individuality_zhang_fei_4A,超凡脫俗,True
@@ -1238,10 +1249,12 @@ character_skills_localised_description_hv_skill_add_mastership_li_jue_4C,各行�
 character_skills_localised_description_hv_skill_add_mastership_li_ru_4C,各行其道,True
 character_skills_localised_description_hv_skill_add_mastership_liu_bei_4C,各行其道,True
 character_skills_localised_description_hv_skill_add_mastership_liu_biao_4C,各行其道,True
+character_skills_localised_description_hv_skill_add_mastership_liu_feng_4C,各行其道,False
 character_skills_localised_description_hv_skill_add_mastership_liu_yan_4C,各行其道,True
 character_skills_localised_description_hv_skill_add_mastership_liu_yao_4C,各行其道,False
 character_skills_localised_description_hv_skill_add_mastership_liu_zhang_4C,各行其道,True
 character_skills_localised_description_hv_skill_add_mastership_lu_bu_4C,各行其道,True
+character_skills_localised_description_hv_skill_add_mastership_lu_su_4C,各行其道,False
 character_skills_localised_description_hv_skill_add_mastership_lu_zhi_4C,各行其道,True
 character_skills_localised_description_hv_skill_add_mastership_luo_jun_4C,各行其道,True
 character_skills_localised_description_hv_skill_add_mastership_ma_chao_4C,各行其道,True
@@ -1292,6 +1305,7 @@ character_skills_localised_description_hv_skill_add_mastership_yuan_shang_4C,各
 character_skills_localised_description_hv_skill_add_mastership_yuan_shao_4C,各行其道,True
 character_skills_localised_description_hv_skill_add_mastership_yuan_shu_4C,各行其道,True
 character_skills_localised_description_hv_skill_add_mastership_yue_jin_4C,各行其道,True
+character_skills_localised_description_hv_skill_add_mastership_zang_ba_4C,各行其道,False
 character_skills_localised_description_hv_skill_add_mastership_zhang_bao_4C,各行其道,False
 character_skills_localised_description_hv_skill_add_mastership_zhang_fang_4C,各行其道,False
 character_skills_localised_description_hv_skill_add_mastership_zhang_fei_4C,各行其道,True
@@ -1373,10 +1387,12 @@ character_skills_localised_description_hv_skill_add_talent_li_jue_4B,才華橫�
 character_skills_localised_description_hv_skill_add_talent_li_ru_4B,才華橫溢,True
 character_skills_localised_description_hv_skill_add_talent_liu_bei_4B,才華橫溢,True
 character_skills_localised_description_hv_skill_add_talent_liu_biao_4B,才華橫溢,True
+character_skills_localised_description_hv_skill_add_talent_liu_feng_4B,才華橫溢,False
 character_skills_localised_description_hv_skill_add_talent_liu_yan_4B,才華橫溢,True
 character_skills_localised_description_hv_skill_add_talent_liu_yao_4B,才華橫溢,False
 character_skills_localised_description_hv_skill_add_talent_liu_zhang_4B,才華橫溢,True
 character_skills_localised_description_hv_skill_add_talent_lu_bu_4B,才華橫溢,True
+character_skills_localised_description_hv_skill_add_talent_lu_su_4B,才華橫溢,False
 character_skills_localised_description_hv_skill_add_talent_lu_zhi_4B,才華橫溢,True
 character_skills_localised_description_hv_skill_add_talent_luo_jun_4B,才華橫溢,True
 character_skills_localised_description_hv_skill_add_talent_ma_chao_4B,才華橫溢,True
@@ -1427,6 +1443,7 @@ character_skills_localised_description_hv_skill_add_talent_yuan_shang_4B,才華�
 character_skills_localised_description_hv_skill_add_talent_yuan_shao_4B,才華橫溢,True
 character_skills_localised_description_hv_skill_add_talent_yuan_shu_4B,才華橫溢,True
 character_skills_localised_description_hv_skill_add_talent_yue_jin_4B,才華橫溢,True
+character_skills_localised_description_hv_skill_add_talent_zang_ba_4B,才華橫溢,False
 character_skills_localised_description_hv_skill_add_talent_zhang_bao_4B,才華橫溢,False
 character_skills_localised_description_hv_skill_add_talent_zhang_fang_4B,才華橫溢,False
 character_skills_localised_description_hv_skill_add_talent_zhang_fei_4B,才華橫溢,True
@@ -1893,10 +1910,12 @@ character_skills_localised_name_hv_skill_add_individuality_li_jue_4A,特性一,T
 character_skills_localised_name_hv_skill_add_individuality_li_ru_4A,特性一,True
 character_skills_localised_name_hv_skill_add_individuality_liu_bei_4A,特性一,True
 character_skills_localised_name_hv_skill_add_individuality_liu_biao_4A,特性一,True
+character_skills_localised_name_hv_skill_add_individuality_liu_feng_4A,特性一,False
 character_skills_localised_name_hv_skill_add_individuality_liu_yan_4A,特性一,True
 character_skills_localised_name_hv_skill_add_individuality_liu_yao_4A,特性一,False
 character_skills_localised_name_hv_skill_add_individuality_liu_zhang_4A,特性一,True
 character_skills_localised_name_hv_skill_add_individuality_lu_bu_4A,特性一,True
+character_skills_localised_name_hv_skill_add_individuality_lu_su_4A,特性一,False
 character_skills_localised_name_hv_skill_add_individuality_lu_zhi_4A,特性一,True
 character_skills_localised_name_hv_skill_add_individuality_luo_jun_4A,特性一,True
 character_skills_localised_name_hv_skill_add_individuality_ma_chao_4A,特性一,True
@@ -1985,6 +2004,7 @@ character_skills_localised_name_hv_skill_add_individuality_yuan_shang_4A,特性�
 character_skills_localised_name_hv_skill_add_individuality_yuan_shao_4A,特性一,True
 character_skills_localised_name_hv_skill_add_individuality_yuan_shu_4A,特性一,True
 character_skills_localised_name_hv_skill_add_individuality_yue_jin_4A,特性一,True
+character_skills_localised_name_hv_skill_add_individuality_zang_ba_4A,特性一,False
 character_skills_localised_name_hv_skill_add_individuality_zhang_bao_4A,特性一,False
 character_skills_localised_name_hv_skill_add_individuality_zhang_fang_4A,特性一,False
 character_skills_localised_name_hv_skill_add_individuality_zhang_fei_4A,特性一,True
@@ -2067,10 +2087,12 @@ character_skills_localised_name_hv_skill_add_mastership_li_jue_4C,特性三,True
 character_skills_localised_name_hv_skill_add_mastership_li_ru_4C,特性三,True
 character_skills_localised_name_hv_skill_add_mastership_liu_bei_4C,特性三,True
 character_skills_localised_name_hv_skill_add_mastership_liu_biao_4C,特性三,True
+character_skills_localised_name_hv_skill_add_mastership_liu_feng_4C,特性三,False
 character_skills_localised_name_hv_skill_add_mastership_liu_yan_4C,特性三,True
 character_skills_localised_name_hv_skill_add_mastership_liu_yao_4C,特性三,False
 character_skills_localised_name_hv_skill_add_mastership_liu_zhang_4C,特性三,True
 character_skills_localised_name_hv_skill_add_mastership_lu_bu_4C,特性三,True
+character_skills_localised_name_hv_skill_add_mastership_lu_su_4C,特性三,False
 character_skills_localised_name_hv_skill_add_mastership_lu_zhi_4C,特性三,True
 character_skills_localised_name_hv_skill_add_mastership_luo_jun_4C,特性三,True
 character_skills_localised_name_hv_skill_add_mastership_ma_chao_4C,特性三,True
@@ -2121,6 +2143,7 @@ character_skills_localised_name_hv_skill_add_mastership_yuan_shang_4C,特性三,
 character_skills_localised_name_hv_skill_add_mastership_yuan_shao_4C,特性三,True
 character_skills_localised_name_hv_skill_add_mastership_yuan_shu_4C,特性三,True
 character_skills_localised_name_hv_skill_add_mastership_yue_jin_4C,特性三,True
+character_skills_localised_name_hv_skill_add_mastership_zang_ba_4C,特性三,False
 character_skills_localised_name_hv_skill_add_mastership_zhang_bao_4C,特性三,False
 character_skills_localised_name_hv_skill_add_mastership_zhang_fang_4C,特性三,False
 character_skills_localised_name_hv_skill_add_mastership_zhang_fei_4C,特性三,True
@@ -2202,10 +2225,12 @@ character_skills_localised_name_hv_skill_add_talent_li_jue_4B,特性二,True
 character_skills_localised_name_hv_skill_add_talent_li_ru_4B,特性二,True
 character_skills_localised_name_hv_skill_add_talent_liu_bei_4B,特性二,True
 character_skills_localised_name_hv_skill_add_talent_liu_biao_4B,特性二,True
+character_skills_localised_name_hv_skill_add_talent_liu_feng_4B,特性二,False
 character_skills_localised_name_hv_skill_add_talent_liu_yan_4B,特性二,True
 character_skills_localised_name_hv_skill_add_talent_liu_yao_4B,特性二,False
 character_skills_localised_name_hv_skill_add_talent_liu_zhang_4B,特性二,True
 character_skills_localised_name_hv_skill_add_talent_lu_bu_4B,特性二,True
+character_skills_localised_name_hv_skill_add_talent_lu_su_4B,特性二,False
 character_skills_localised_name_hv_skill_add_talent_lu_zhi_4B,特性二,True
 character_skills_localised_name_hv_skill_add_talent_luo_jun_4B,特性二,True
 character_skills_localised_name_hv_skill_add_talent_ma_chao_4B,特性二,True
@@ -2256,6 +2281,7 @@ character_skills_localised_name_hv_skill_add_talent_yuan_shang_4B,特性二,True
 character_skills_localised_name_hv_skill_add_talent_yuan_shao_4B,特性二,True
 character_skills_localised_name_hv_skill_add_talent_yuan_shu_4B,特性二,True
 character_skills_localised_name_hv_skill_add_talent_yue_jin_4B,特性二,True
+character_skills_localised_name_hv_skill_add_talent_zang_ba_4B,特性二,False
 character_skills_localised_name_hv_skill_add_talent_zhang_bao_4B,特性二,False
 character_skills_localised_name_hv_skill_add_talent_zhang_fang_4B,特性二,False
 character_skills_localised_name_hv_skill_add_talent_zhang_fei_4B,特性二,True

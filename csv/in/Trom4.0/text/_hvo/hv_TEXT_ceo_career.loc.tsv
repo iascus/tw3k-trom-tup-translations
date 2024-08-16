@@ -17,10 +17,19 @@ ceo_nodes_title_ep_ancillary_sima_lun_armour_unique	Yuan Yao's Armour	true
 ceo_nodes_title_ep_ancillary_sima_liang_armour_unique	Zhang Lu's Armour	true
 ceo_nodes_title_ep_ancillary_sima_jiong_armour_unique	Zhang Bang's Armour	true
 ceo_nodes_title_ep_ancillary_sima_ai_armour_unique	Cao Ang's Armour	true
-		true
+		false
 land_units_onscreen_name_3k_mtu_hero_water_lady_zou_yuan	Lady Cai	false
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_zou_yuan_01	The Lady of Jingzhou	false
 ceo_nodes_description_3k_mtu_ceo_node_career_historical_lady_zou_yuan_01	The house of Cai is the most famous noble family in Jingzhou. Lady Cai is willing to use the power.	false
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zou_yuan_01	The Lady of Jingzhou	false
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zou_yuan_02	The Lady of Jingzhou	false
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zou_yuan_03	The Lady of Jingzhou	false
+		false
+ceo_nodes_title_hv_mtu_ceo_node_career_historical_liu_feng_01	Tragic Son	false
+ceo_nodes_description_hv_mtu_ceo_node_career_historical_liu_feng_01	Liu Feng is brave, but his fate is intertwined with tragedy and downfall.	false
+ceo_nodes_title_hv_mtu_ancillary_liu_fengs_armour_unique	Liu Feng's Armour	false
+ceo_nodes_description_hv_mtu_ancillary_liu_fengs_armour_unique	The perfect weight and fit, tailored for this warrior of class and distinction.	false
+ceo_nodes_title_hv_mtu_ancillary_lu_sus_armour_unique	Lu Su's Armour	false
+ceo_nodes_description_hv_mtu_ancillary_lu_sus_armour_unique	The perfect weight and fit, tailored for this warrior of class and distinction.	false
+ceo_nodes_title_hv_mtu_ancillary_zang_bas_armour_unique	Zang Ba's Armour	false
+ceo_nodes_description_hv_mtu_ancillary_zang_bas_armour_unique	The perfect weight and fit, tailored for this warrior of class and distinction.	false

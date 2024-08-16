@@ -513,6 +513,10 @@ ceo_nodes_description_hv_ceo_node_career_non_deployable_type_3,"For farmers, the
 ceo_nodes_description_hv_ceo_node_career_non_deployable_type_4,Those who intervene instead of the lord.,True,,,,,z_dummy_hv_TEXT_non_deployable.loc.tsv
 ceo_nodes_description_hv_ceo_node_career_non_deployable_type_5,Always surrounded by people.,True,,,,,z_dummy_hv_TEXT_non_deployable.loc.tsv
 ceo_nodes_description_hv_ceo_node_career_non_deployable_type_6,They get everything down to a note.,True,,,,,z_dummy_hv_TEXT_non_deployable.loc.tsv
+ceo_nodes_description_hv_mtu_ancillary_liu_fengs_armour_unique,"The perfect weight and fit, tailored for this warrior of class and distinction.",False,ceo_nodes_description_3k_cp01_ceo_node_guo_jias_armour_unique_01,,重量適中且恰好合身，專為這名有頭有臉的戰士量身打造。,此甲轻重得当，宽紧合身，非名将不可披戴。,hv_TEXT_ceo_career.loc.tsv
+ceo_nodes_description_hv_mtu_ancillary_lu_sus_armour_unique,"The perfect weight and fit, tailored for this warrior of class and distinction.",False,ceo_nodes_description_3k_cp01_ceo_node_guo_jias_armour_unique_01,,重量適中且恰好合身，專為這名有頭有臉的戰士量身打造。,此甲轻重得当，宽紧合身，非名将不可披戴。,hv_TEXT_ceo_career.loc.tsv
+ceo_nodes_description_hv_mtu_ancillary_zang_bas_armour_unique,"The perfect weight and fit, tailored for this warrior of class and distinction.",False,ceo_nodes_description_3k_cp01_ceo_node_guo_jias_armour_unique_01,,重量適中且恰好合身，專為這名有頭有臉的戰士量身打造。,此甲轻重得当，宽紧合身，非名将不可披戴。,hv_TEXT_ceo_career.loc.tsv
+ceo_nodes_description_hv_mtu_ceo_node_career_historical_liu_feng_01,"Liu Feng is brave, but his fate is intertwined with tragedy and downfall.",False,,,,,hv_TEXT_ceo_career.loc.tsv
 ceo_nodes_title_3k_dlc04_ceo_node_career_historical_lady_cai_yan_wenji_01,Tragic Writer,False,,,,,[01]__MTU_generals__Water_strategist.loc.tsv
 ceo_nodes_title_3k_main_ancillary_lady_diao_chans_armour_unique,Diao Chan's Silk Raiment,True,,,,,[dummy]__MTU_dummy.loc.tsv
 ceo_nodes_title_3k_main_ceo_node_career_historical_lady_diao_chan_01,Femme Fatale,False,,,,,[dummy]__MTU_dummy.loc.tsv
@@ -641,6 +645,10 @@ ceo_nodes_title_hv_ceo_node_faction_rank_unlock_legacy_lu_bu,Legacy of Lu Bu,Fal
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_legacy_yuan_shu,Legacy of Yuan Shu,False,,,,,hv_TEXT_etc.loc.tsv
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_monk,Buddhism,False,,,,,hv_TEXT_etc.loc.tsv
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_qingzhou,Conquest Yellow Turbans,False,,,,,hv_TEXT_etc.loc.tsv
+ceo_nodes_title_hv_mtu_ancillary_liu_fengs_armour_unique,Liu Feng's Armour,False,,,,,hv_TEXT_ceo_career.loc.tsv
+ceo_nodes_title_hv_mtu_ancillary_lu_sus_armour_unique,Lu Su's Armour,False,,,,,hv_TEXT_ceo_career.loc.tsv
+ceo_nodes_title_hv_mtu_ancillary_zang_bas_armour_unique,Zang Ba's Armour,False,,,,,hv_TEXT_ceo_career.loc.tsv
+ceo_nodes_title_hv_mtu_ceo_node_career_historical_liu_feng_01,Tragic Son,False,,,,,hv_TEXT_ceo_career.loc.tsv
 character_skills_localised_description_3k_dlc07_skill_emperor_earth_imperious,You are royal. Act like it.,False,,character_skills_localised_description_3k_dlc07_skill_emperor_earth_imperious,您是皇帝，就該有皇帝的樣子。,九五之尊，当彰显帝王气度。,hv_TEXT_skills_basic.loc.tsv
 character_skills_localised_description_3k_main_skill_special_ability_earth_advance,"“Do not fear, men! You are the great warriors of the Jingdong!”",True,,,,,[03]__MTU_skills__Active_buff.loc.tsv
 character_skills_localised_description_3k_main_skill_special_ability_earth_battle_stance,"If you know the enemy and know yourself, you will be formidable in battle.",True,,,,,[03]__MTU_skills__Active_buff.loc.tsv
@@ -1064,10 +1072,12 @@ character_skills_localised_description_hv_skill_add_individuality_li_jue_4A,Some
 character_skills_localised_description_hv_skill_add_individuality_li_ru_4A,Someone who stands out among the people.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_individuality_liu_bei_4A,Someone who stands out among the people.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_individuality_liu_biao_4A,Someone who stands out among the people.,True,,,,,hv_TEXT_skills_additional.loc.tsv
+character_skills_localised_description_hv_skill_add_individuality_liu_feng_4A,Someone who stands out among the people.,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_individuality_liu_yan_4A,Someone who stands out among the people.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_individuality_liu_yao_4A,Someone who stands out among the people.,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_individuality_liu_zhang_4A,Someone who stands out among the people.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_individuality_lu_bu_4A,Someone who stands out among the people.,True,,,,,hv_TEXT_skills_additional.loc.tsv
+character_skills_localised_description_hv_skill_add_individuality_lu_su_4A,Someone who stands out among the people.,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_individuality_lu_zhi_4A,Someone who stands out among the people.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_individuality_luo_jun_4A,Someone who stands out among the people.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_individuality_ma_chao_4A,Someone who stands out among the people.,True,,,,,hv_TEXT_skills_additional.loc.tsv
@@ -1156,6 +1166,7 @@ character_skills_localised_description_hv_skill_add_individuality_yuan_shang_4A,
 character_skills_localised_description_hv_skill_add_individuality_yuan_shao_4A,Someone who stands out among the people.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_individuality_yuan_shu_4A,Someone who stands out among the people.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_individuality_yue_jin_4A,Someone who stands out among the people.,True,,,,,hv_TEXT_skills_additional.loc.tsv
+character_skills_localised_description_hv_skill_add_individuality_zang_ba_4A,Someone who stands out among the people.,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_individuality_zhang_bao_4A,Someone who stands out among the people.,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_individuality_zhang_fang_4A,Someone who stands out among the people.,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_individuality_zhang_fei_4A,Someone who stands out among the people.,True,,,,,hv_TEXT_skills_additional.loc.tsv
@@ -1238,10 +1249,12 @@ character_skills_localised_description_hv_skill_add_mastership_li_jue_4C,Every p
 character_skills_localised_description_hv_skill_add_mastership_li_ru_4C,Every person has their own path.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_mastership_liu_bei_4C,Every person has their own path.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_mastership_liu_biao_4C,Every person has their own path.,True,,,,,hv_TEXT_skills_additional.loc.tsv
+character_skills_localised_description_hv_skill_add_mastership_liu_feng_4C,Every person has their own path.,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_mastership_liu_yan_4C,Every person has their own path.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_mastership_liu_yao_4C,Every person has their own path.,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_mastership_liu_zhang_4C,Every person has their own path.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_mastership_lu_bu_4C,Every person has their own path.,True,,,,,hv_TEXT_skills_additional.loc.tsv
+character_skills_localised_description_hv_skill_add_mastership_lu_su_4C,Every person has their own path.,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_mastership_lu_zhi_4C,Every person has their own path.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_mastership_luo_jun_4C,Every person has their own path.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_mastership_ma_chao_4C,Every person has their own path.,True,,,,,hv_TEXT_skills_additional.loc.tsv
@@ -1292,6 +1305,7 @@ character_skills_localised_description_hv_skill_add_mastership_yuan_shang_4C,Eve
 character_skills_localised_description_hv_skill_add_mastership_yuan_shao_4C,Every person has their own path.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_mastership_yuan_shu_4C,Every person has their own path.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_mastership_yue_jin_4C,Every person has their own path.,True,,,,,hv_TEXT_skills_additional.loc.tsv
+character_skills_localised_description_hv_skill_add_mastership_zang_ba_4C,Every person has their own path.,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_mastership_zhang_bao_4C,Every person has their own path.,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_mastership_zhang_fang_4C,Every person has their own path.,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_mastership_zhang_fei_4C,Every person has their own path.,True,,,,,hv_TEXT_skills_additional.loc.tsv
@@ -1373,10 +1387,12 @@ character_skills_localised_description_hv_skill_add_talent_li_jue_4B,A remarkabl
 character_skills_localised_description_hv_skill_add_talent_li_ru_4B,A remarkable talent.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_talent_liu_bei_4B,A remarkable talent.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_talent_liu_biao_4B,A remarkable talent.,True,,,,,hv_TEXT_skills_additional.loc.tsv
+character_skills_localised_description_hv_skill_add_talent_liu_feng_4B,A remarkable talent.,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_talent_liu_yan_4B,A remarkable talent.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_talent_liu_yao_4B,A remarkable talent.,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_talent_liu_zhang_4B,A remarkable talent.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_talent_lu_bu_4B,A remarkable talent.,True,,,,,hv_TEXT_skills_additional.loc.tsv
+character_skills_localised_description_hv_skill_add_talent_lu_su_4B,A remarkable talent.,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_talent_lu_zhi_4B,A remarkable talent.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_talent_luo_jun_4B,A remarkable talent.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_talent_ma_chao_4B,A remarkable talent.,True,,,,,hv_TEXT_skills_additional.loc.tsv
@@ -1427,6 +1443,7 @@ character_skills_localised_description_hv_skill_add_talent_yuan_shang_4B,A remar
 character_skills_localised_description_hv_skill_add_talent_yuan_shao_4B,A remarkable talent.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_talent_yuan_shu_4B,A remarkable talent.,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_talent_yue_jin_4B,A remarkable talent.,True,,,,,hv_TEXT_skills_additional.loc.tsv
+character_skills_localised_description_hv_skill_add_talent_zang_ba_4B,A remarkable talent.,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_talent_zhang_bao_4B,A remarkable talent.,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_talent_zhang_fang_4B,A remarkable talent.,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_description_hv_skill_add_talent_zhang_fei_4B,A remarkable talent.,True,,,,,hv_TEXT_skills_additional.loc.tsv
@@ -1893,10 +1910,12 @@ character_skills_localised_name_hv_skill_add_individuality_li_jue_4A,First Chara
 character_skills_localised_name_hv_skill_add_individuality_li_ru_4A,First Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_individuality_liu_bei_4A,First Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_individuality_liu_biao_4A,First Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
+character_skills_localised_name_hv_skill_add_individuality_liu_feng_4A,First Characteristic,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_individuality_liu_yan_4A,First Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_individuality_liu_yao_4A,First Characteristic,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_individuality_liu_zhang_4A,First Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_individuality_lu_bu_4A,First Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
+character_skills_localised_name_hv_skill_add_individuality_lu_su_4A,First Characteristic,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_individuality_lu_zhi_4A,First Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_individuality_luo_jun_4A,First Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_individuality_ma_chao_4A,First Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
@@ -1985,6 +2004,7 @@ character_skills_localised_name_hv_skill_add_individuality_yuan_shang_4A,First C
 character_skills_localised_name_hv_skill_add_individuality_yuan_shao_4A,First Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_individuality_yuan_shu_4A,First Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_individuality_yue_jin_4A,First Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
+character_skills_localised_name_hv_skill_add_individuality_zang_ba_4A,First Characteristic,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_individuality_zhang_bao_4A,First Characteristic,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_individuality_zhang_fang_4A,First Characteristic,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_individuality_zhang_fei_4A,First Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
@@ -2067,10 +2087,12 @@ character_skills_localised_name_hv_skill_add_mastership_li_jue_4C,Third Characte
 character_skills_localised_name_hv_skill_add_mastership_li_ru_4C,Third Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_mastership_liu_bei_4C,Third Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_mastership_liu_biao_4C,Third Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
+character_skills_localised_name_hv_skill_add_mastership_liu_feng_4C,Third Characteristic,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_mastership_liu_yan_4C,Third Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_mastership_liu_yao_4C,Third Characteristic,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_mastership_liu_zhang_4C,Third Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_mastership_lu_bu_4C,Third Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
+character_skills_localised_name_hv_skill_add_mastership_lu_su_4C,Third Characteristic,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_mastership_lu_zhi_4C,Third Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_mastership_luo_jun_4C,Third Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_mastership_ma_chao_4C,Third Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
@@ -2121,6 +2143,7 @@ character_skills_localised_name_hv_skill_add_mastership_yuan_shang_4C,Third Char
 character_skills_localised_name_hv_skill_add_mastership_yuan_shao_4C,Third Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_mastership_yuan_shu_4C,Third Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_mastership_yue_jin_4C,Third Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
+character_skills_localised_name_hv_skill_add_mastership_zang_ba_4C,Third Characteristic,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_mastership_zhang_bao_4C,Third Characteristic,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_mastership_zhang_fang_4C,Third Characteristic,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_mastership_zhang_fei_4C,Third Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
@@ -2202,10 +2225,12 @@ character_skills_localised_name_hv_skill_add_talent_li_jue_4B,Second Characteris
 character_skills_localised_name_hv_skill_add_talent_li_ru_4B,Second Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_talent_liu_bei_4B,Second Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_talent_liu_biao_4B,Second Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
+character_skills_localised_name_hv_skill_add_talent_liu_feng_4B,Second Characteristic,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_talent_liu_yan_4B,Second Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_talent_liu_yao_4B,Second Characteristic,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_talent_liu_zhang_4B,Second Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_talent_lu_bu_4B,Second Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
+character_skills_localised_name_hv_skill_add_talent_lu_su_4B,Second Characteristic,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_talent_lu_zhi_4B,Second Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_talent_luo_jun_4B,Second Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_talent_ma_chao_4B,Second Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
@@ -2256,6 +2281,7 @@ character_skills_localised_name_hv_skill_add_talent_yuan_shang_4B,Second Charact
 character_skills_localised_name_hv_skill_add_talent_yuan_shao_4B,Second Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_talent_yuan_shu_4B,Second Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_talent_yue_jin_4B,Second Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv
+character_skills_localised_name_hv_skill_add_talent_zang_ba_4B,Second Characteristic,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_talent_zhang_bao_4B,Second Characteristic,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_talent_zhang_fang_4B,Second Characteristic,False,,,,,hv_TEXT_skills_additional.loc.tsv
 character_skills_localised_name_hv_skill_add_talent_zhang_fei_4B,Second Characteristic,True,,,,,hv_TEXT_skills_additional.loc.tsv

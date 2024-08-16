@@ -49,11 +49,12 @@ hv_TEXT_cb_loadout.loc.tsv,The Yellow Warlord,黄巾军将领,黃巾軍將領
 hv_TEXT_cb_loadout.loc.tsv,Tiger of Jiangdong,江东之虎,江東之虎
 hv_TEXT_ceo_career.loc.tsv,Bandit Slayer,荡寇将军,蕩寇將軍
 hv_TEXT_ceo_career.loc.tsv,Devoted Mother,躬亲主母,躬親主母
-hv_TEXT_ceo_career.loc.tsv,Guo Si's Armour,郭汜的护甲,郭汜的護甲
+hv_TEXT_ceo_career.loc.tsv,"Liu Feng is brave, but his fate is intertwined with tragedy and downfall.",刘封性情刚猛，但命途多舛，終遭屈抑。,劉封性情剛猛，但命途多舛，終遭屈抑。
 hv_TEXT_ceo_career.loc.tsv,Man For All Seasons,日月精忠,日月精忠
 hv_TEXT_ceo_career.loc.tsv,Scion,袁术之子,袁術之子
 hv_TEXT_ceo_career.loc.tsv,The Lady of Jingzhou,荆州夫人,荊州夫人
 hv_TEXT_ceo_career.loc.tsv,The house of Cai is the most famous noble family in Jingzhou. Lady Cai is willing to use the power.,蔡氏乃是荆州名门望族。蔡夫人亦甚有权势。,蔡氏乃是荊州名門望族。蔡夫人亦甚有權勢。
+hv_TEXT_ceo_career.loc.tsv,Tragic Son,螟蛉义子,螟蛉義子
 hv_TEXT_ceo_weapon.loc.tsv,A mysterious sword from the West. ,西域而来的神秘宝剑。,西域而來的神秘寶劍。
 hv_TEXT_ceo_weapon.loc.tsv,Khanda,坎达直剑,坎達直劍
 hv_TEXT_effect_faction.loc.tsv,Unstable Han dynasty,汉室式微,漢室式微
