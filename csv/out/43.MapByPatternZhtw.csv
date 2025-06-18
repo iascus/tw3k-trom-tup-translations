@@ -403,8 +403,8 @@ Azure Dragons,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Baby Protector,1,,,[02]__MTU_items__Weapons.loc.tsv
 Bandit,1,盜賊,,[01]__MTU_generals__Water_strategist.loc.tsv
 Bandit Follower,1,,,[01]__MTU_generals__Metal_sentienl.loc.tsv
-Bandit Hunters,1,,盜賊獵人,hv_TEXT_unit_text_replacements.loc.tsv
-Bandit Marauders,1,,盜賊掠奪者,hv_TEXT_unit_text_replacements.loc.tsv
+Bandit Hunters,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Bandit Marauders,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Bandit Queen,1,,,hv_TEXT_cb_loadout.loc.tsv
 Bandit Slayer,1,蕩寇將軍,,hv_TEXT_ceo_career.loc.tsv
 Bandit Spear Gang,1,,盜賊槍兵團,hv_TEXT_unit_text_replacements.loc.tsv
@@ -594,7 +594,7 @@ Commanding Shout,11,,號令吶喊,hv_TEXT_skills_skill_ability__historical.loc.t
 Commission,6,委任,,hv_TEXT_events.loc.tsv
 Common Cavalry,1,,普通騎兵,hv_TEXT_unit_ui_group_VM.loc.tsv
 Common Melee Infantry,1,,普通近戰步兵,hv_TEXT_unit_ui_group_VM.loc.tsv
-Common Polearm Infantry,1,,普通持戟步兵,hv_TEXT_unit_ui_group_VM.loc.tsv
+Common Polearm Infantry,1,,普通長兵器步兵,hv_TEXT_unit_ui_group_VM.loc.tsv
 Common Ranged Infantry,1,,普通遠程步兵,hv_TEXT_unit_ui_group_VM.loc.tsv
 Complete missions to bolster your faction!,1,完成任務可以增强您的勢力！,,hv_TEXT_events.loc.tsv
 Completing these missions will gather northern colonels to your cause.,1,完成這些任務，北軍校尉就會爲您效力。,,hv_TEXT_events.loc.tsv
@@ -751,7 +751,7 @@ Elite Long Axemen,1,,精銳長斧兵,hv_TEXT_unit_text_replacements.loc.tsv
 Elite Long Spearmen,1,,精銳長槍兵,hv_TEXT_unit_text_replacements.loc.tsv
 Elite Repeating Crossbowmen,1,,精銳連弩兵,hv_TEXT_unit_text_replacements.loc.tsv
 Elite Spearmen,1,,精銳長槍兵,hv_TEXT_unit_text_replacements.loc.tsv
-Elite Sword Cavalry,1,,精銳劍騎兵,hv_TEXT_unit_text_replacements.loc.tsv
+Elite Sword Cavalry,1,,精銳持劍騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 Elite Swordsmen,1,,精銳劍兵,hv_TEXT_unit_text_replacements.loc.tsv
 Elite Zhanmajian Infantry,1,,精銳斬馬劍兵,hv_TEXT_unit_text_replacements.loc.tsv
 Elite cavalry guards who have turned their weapons against their former masters to serve the Yellow Turbans.,1,,,hv_TEXT_unit_desc.loc.tsv
@@ -966,7 +966,7 @@ Heavy Cavalry,2,,,hv_TEXT_unit_ground_type.loc.tsv
 Heavy Infantry,1,,,hv_TEXT_unit_ground_type.loc.tsv
 Heavy bow,1,,,hv_TEXT_unit_ui_bullet.loc.tsv
 Hebei Spearmen,1,,河北長槍兵,hv_TEXT_unit_text_replacements.loc.tsv
-Hebei Sword Cavalry,1,,河北劍騎兵,hv_TEXT_unit_text_replacements.loc.tsv
+Hebei Sword Cavalry,1,,河北持劍騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 Hegemon's Aide,1,,,[dummy]__MTU_dummy.loc.tsv
 "Heirs of the old dynasty of Chu, the soldiers bred by this land share its temperament: fierce in battle and loyal to the end. They are a fitting fighting force for any warlord or would-be emperor. \\n\\n Long axes are intimidating to behold, especially in the hand of such a warlike people. Rending shields and armor alike, they are known to be good shock infantry that echo the glory of their ancient dynasty. ",1,在這片土地上培養出來的士兵是楚國舊王朝的繼承人，他們有著共同的氣質：鬥志昂揚，忠貞不渝。他們是使任何軍閥或皇帝適意的戰鬥力量。\\n\\n長斧令人望而生畏，尤其是在這樣一個好戰的民族手中。他們被認為是優秀的突擊步兵，輕易砍裂盾牌和盔甲，重振他們的古代王朝的榮耀。,,hv_TEXT_unit_long_desc.loc.tsv
 "Heirs of the old dynasty of Chu, the soldiers bred by this land share its temperament: fierce in battle and loyal to the end. They are a fitting fighting force for any warlord or would-be emperor. \\n\\n Skilled archers, these men provide covering fire for their army as they maneuver nimbly into the most advantageous positions. They should be protected from cavalry however, as they are lightly armoured.",1,在這片土地上培養出來的士兵是楚國舊王朝的繼承人，他們有著共同的氣質：鬥志昂揚，忠貞不渝。他們是使任何軍閥或皇帝適意的戰鬥力量。\\n\\n這些人是熟練的弓箭手，可以靈活地移動到最有利的位置為他們的軍隊提供掩護火力。然而他們需要保護免受騎兵攻擊，因為他們只有輕護甲。,,hv_TEXT_unit_long_desc.loc.tsv
@@ -1020,7 +1020,7 @@ House Servant Axemen,1,,家僕斧兵,hv_TEXT_unit_text_replacements.loc.tsv
 House Servant Long Spearmen,1,,家僕長槍兵,hv_TEXT_unit_text_replacements.loc.tsv
 "House Servant Long Spearmen excel in line defense and anti-cavalry roles, wielding two-handed spears to maintain order on the battlefield.",1,家僕長槍兵擅長列陣防禦，反制騎兵，手持雙手長矛在戰場上穩固陣腳。,,hv_TEXT_unit_desc.loc.tsv
 "House Servant Long Spearmen stand as the bulwark of noble estates' defenses, utilizing their two-handed spears with proficiency to form impenetrable lines against enemy advances. Primarily tasked with the crucial roles of holding territory and repelling cavalry charges, their disciplined formations and effective reach make them a formidable force against mounted foes. Trained to maximize the advantages of their spears, these servants are essential for maintaining the strategic integrity of the territories they guard, ensuring that even the most audacious cavalry assault is met with steadfast resistance.",1,家僕長槍兵負責守護士族莊園，手握雙手長矛組成不可逾越的防線。他們的主要任務是守護陣地，防止騎兵突襲，以嚴整隊形和長矛有力對抗騎兵，是領地防禦中不可或缺的一環。經過訓練，他們精通長矛，即便敵軍騎兵鋪天蓋地而來，他們也能堅定抵抗。,,hv_TEXT_unit_long_desc.loc.tsv
-House Servant Riders,1,,家僕騎手,hv_TEXT_unit_text_replacements.loc.tsv
+House Servant Riders,1,,家僕騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 House Yuan's Officer,1,袁氏士官,,hv_TEXT_effects_ceo.loc.tsv
 Household Ji Guards of Yuan,1,袁氏家族戟衛,,hv_TEXT_unit_text_replacements.loc.tsv
 How did the state of affairs end up so dire...,2,,梨花帶雨，我見猶憐。,[03]__MTU_skills__Active_buff.loc.tsv
@@ -1453,7 +1453,7 @@ Northern Veteran Cataphracts,1,,北軍老練鐵甲騎兵,hv_TEXT_unit_text_repla
 Northern Veteran Ji Infantry,1,,北軍老練戟兵,hv_TEXT_unit_text_replacements.loc.tsv
 Northern Veteran Lancer Cataphracts,1,,北軍老練長槍鐵甲騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 Northern Veteran Sabre Infantry,1,,北軍老練持刀步兵,hv_TEXT_unit_text_replacements.loc.tsv
-Northern Veteran Spears,1,,北軍老練槍兵,hv_TEXT_unit_text_replacements.loc.tsv
+Northern Veteran Spears,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Northern Veteran Zhanmajian Infantry,1,,北軍老練斬馬劍兵,hv_TEXT_unit_text_replacements.loc.tsv
 Not all of us get a second chance.,1,,不是所有人都有機會重來。,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 Oath Fellows,1,結義弟兄,,hv_TEXT_unit_text_replacements.loc.tsv
@@ -2521,7 +2521,7 @@ Yuan Shu,1,,,hv_TEXT_cb_loadout.loc.tsv
 Yuan Shu's army follows your faction.,1,袁術之兵將追隨於您。,,hv_TEXT_events.loc.tsv
 Yuan Tan,1,,袁譚,hv_TEXT_cb_loadout.loc.tsv
 Yuan Yao's Armour,1,,袁耀的護甲,hv_TEXT_ceo_career.loc.tsv
-Yue Freemen,1,,越族自由人,hv_TEXT_unit_text_replacements.loc.tsv
+Yue Freemen,1,,越族鄉野游勇,hv_TEXT_unit_text_replacements.loc.tsv
 Yue Jin,1,,,hv_TEXT_cb_loadout.loc.tsv
 Yue Remnants,1,,越族殘黨,hv_TEXT_unit_text_replacements.loc.tsv
 Yunlu,1,,,[05]__MTU_sys__Names.loc.tsv

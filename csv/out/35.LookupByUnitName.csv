@@ -1,4 +1,9 @@
 eng,zh-cn,zh-tw,Source,Duplicated
+"A javelin is made to fly free, from the grip of the warrior to the chest of the enemy in a single, fluid motion.",人们制造标枪就是为了让它自由飞翔，从勇士的手中到敌人的胸膛划出一道简洁而流畅的抛物线。,鐵鋋外型便於投擲，由士卒之手流利劃過空中直取敵人胸膛。,Vanilla,False
+"A quick sting in the neck, then a light-headedness, then… nothing.",起初只感觉脖子被蛰了一下，旋即有些头重脚轻，然后……就什么都感觉不到了。,脖頸挨了一記之後，會感覺頭昏眼花，接著便不醒人事。,Vanilla,False
+"A rock may seem a simple thing, but in its brutal purpose it has few equals.",石头看似朴素，但倘若用作凶器，则世间少有能与之相较之物。,石塊看似無甚出奇，論殺傷力卻是難逢敵手。,Vanilla,False
+"Able to severely impair the efficiency of enemy units and generals in the battle.  They also provide use of formations to nearby friendly units. However, they are extremely fragile. Best grouped with retinues of Ranged Infantry.",可以有效削弱敌军部队或将领的作战效能，也可以为友军布阵，但自身十分脆弱，最好配合远程步兵部曲,能夠大幅降低敵軍單位和將領的作戰效率，還可讓鄰近的友軍單位編列陣形，但也極度脆弱。最適合與遠程步兵部曲一同編組。,Vanilla,False
+Animal Handlers,驯兽师,馴獸師,Vanilla,False
 Archer Captain,弓兵伯长,弓兵校尉,Vanilla,False
 Archer Defectors,变节弓手,持弓叛逃兵,Vanilla,False
 Archer Gang,射手队,弓兵團,Vanilla,False
@@ -7,11 +12,14 @@ Archers,弓箭手,弓兵,Vanilla,False
 Archers of Jing,荆州弓手,荊州弓兵,Vanilla,False
 Archery Masters,神箭团,箭術高手,Vanilla,False
 Arm of the Supreme Peace,太平铁臂军,太平鐵臂軍,Vanilla,False
+Artillery,霹雳车,砲兵,Vanilla,False
 Ascetics of the Way,天道苦行者,苦修道士,Vanilla,False
 Assault Cavalry,突击骑兵,突擊騎兵,Lookup,False
 Assaults,冲锋手,衝鋒兵,Lookup,False
 Axe Band,持斧战团,斧兵團,Vanilla,False
+Axe Cavalry,斧骑兵,持斧騎兵,Vanilla,False
 Axe Defectors,变节斧手,叛逃斧兵,Lookup,False
+Axe Infantry,斧步兵,持斧步兵,Vanilla,False
 Axe Throwers,飞斧兵,飛斧手,Vanilla,False
 Axemen,斧手,斧兵,Lookup,False
 Azure Dragons,青龙军,蒼龍軍,Vanilla,False
@@ -20,10 +28,14 @@ Bandit Hunters,山贼猎人,盜賊獵手,Vanilla,False
 Bandit Marauders,山贼劫匪,盜賊掠奪者,Vanilla,False
 Bandit Raiders,山贼劫掠者,盜賊劫匪,Vanilla,False
 Bandit Warriors,山贼勇士,盜賊兵,Vanilla,False
-Bandits,山贼,盗贼,Lookup,False
+"Best used to counter missile units, but vulnerable in melee.",最善于反制远程部队，但在近战中较为脆弱,最善於反制遠程單位，但在近戰中很脆弱。,Vanilla,False
+"Best used to engage enemy generals; however, weaker against units. Best grouped with retinues of Spear Infantry and Glaive Infantry.",最善对抗敌军将领，但对抗部队能力欠佳。最好配合持矛步兵或大刀步兵部曲,最善於與敵軍將領作戰，但不擅長與一般單位作戰。最適合與持槍步兵和大刀步兵部曲一同編組。,Vanilla,False
 Black Mountain Hunters,黑山猎手,黑山獵人,Vanilla,False
 Black Mountain Marauders,黑山劫匪,黑山掠奪者,Vanilla,False
 Black Mountain Outlaws,黑山贼徒,黑山匪徒,Vanilla,False
+Blowpipes,吹箭手,吹箭兵,Vanilla,False
+Bow Cavalry,弓骑兵,持弓騎兵,Vanilla,False
+Bow Infantry,弓步兵,持弓步兵,Vanilla,False
 Bringers of Peace,布和军,安良軍,Vanilla,False
 Bringers of Righteousness,布义军,正道使者,Vanilla,False
 Caltrop Throwers,蒺藜手,蒺藜兵,Lookup,False
@@ -43,12 +55,13 @@ Chosen of the Eight Immortals,八公神兵,八仙傳人,Vanilla,False
 Chu Infantry,楚国步兵,楚國步兵,Vanilla,False
 Chu Spearmen,楚国矛兵,楚國長槍兵,Vanilla,False
 Civilian,百姓,百姓,Vanilla,False
-Crossbow,弩,弩,Lookup,False
+Crossbow Artillery,弩砲车,弩砲兵,Vanilla,False
+Crossbow Cavalry,弩骑兵,持弩騎兵,Vanilla,False
 Crossbow Defectors,变节弩手,叛逃弩兵,Lookup,False
 Crossbow Defenders,弩卫,弩衛,Lookup,False
+Crossbow Infantry,弩步兵,持弩步兵,Vanilla,False
 Crossbow Peacekeepers,泰平弩卫,衛平弩兵,Lookup,False
 Crossbowmen,弩兵,弩兵,Vanilla,False
-Crossbowmen Cavalry,弩骑兵,弩騎兵,Lookup,False
 Da Qiao,大乔,大喬,Vanilla,False
 Dao Infantry Captain,持刀伯长,持刀步兵校尉,Vanilla,False
 Dao Swordguard Cavalry,宿卫刀骑兵,持刀劍衛騎兵,Vanilla,False
@@ -60,18 +73,34 @@ Destroyers of Treachery,平叛义军,蕩寇軍,Vanilla,False
 Dian Wei,典韦,典韋,Vanilla,False
 Dongzhoubing Defenders,东州卫军,東州兵衛士,Vanilla,False
 Dongzhoubing Marksmen,东州射声士,東州兵射手,Vanilla,False
+Elephants,战象,象兵,Vanilla,False
+Elephants move with purpose. For those in their way? Woe.,象群行进的目的明确。至于螳臂当车之人？自然是悲剧收场。,象群行進時意志堅定，至於阻其去路之人，則只有悲劇下場。,Vanilla,False
 Empress He,何皇后,何皇后,Vanilla,False
+"Excels at attacking unarmoured opponents, but very vulnerable to cavalry charges.",擅长攻击轻甲部队，但十分惧怕骑兵冲锋,擅長攻擊輕裝目標，但非常害怕騎兵衝鋒。,Vanilla,False
+"Excels at attacking unarmoured opponents, but vulnerable in melee.",擅长对付轻甲部队，但在近战中较为脆弱,擅長攻擊輕裝目標，但在近戰中很脆弱。,Vanilla,False
+"Excels at attacking unarmoured opponents, but vulnerable to missile attacks.",擅长对付轻甲部队，但面对远程攻击较为脆弱,擅長攻擊輕裝目標，但非常害怕遠程攻擊。,Vanilla,False
+"Excels at breaking down walls and igniting buildings, but extremely vulnerable against any attacks.",擅长攻击城墙和烧毁建筑，但面对任何攻击都不堪一击,擅長摧毀城牆、焚燒建築，但對於每一種攻擊都極度缺乏抵禦能力。,Vanilla,False
+"Excels at breaking through enemy troops; however, weaker against other generals. Best grouped with retinues of Shock Cavalry and Polearm Cavalry.",最善突破敌军部队，但对付其他将领能力欠佳。最好配合冲击骑兵和持戟骑兵部曲,擅長突破敵軍部隊，但不擅長與其他將領作戰。最適合與突擊騎兵和長兵器騎兵部曲一同編組。,Vanilla,False
+"Excels at causing large amounts of damage in a short amount of time, but fragile if they remain in combat for a prolonged period of time.",擅长在短时间内造成大量伤害，但若被拖入拉锯战则较为脆弱,擅長在短時間內造成大量傷亡，但在長時間戰鬥中很脆弱。,Vanilla,False
+Excels at engaging enemy generals and highly-skilled foes but easily overwhelmed.,擅长对付敌军将领及高技能对手，但易受到数量压制,善於與敵方將領和技藝高超者交戰，但容易遭到壓制。,Vanilla,False
+"Excels at head-on assaults against the enemy frontline, but very vulnerable to cavalry charges.",擅长迎面攻击敌军前线部队，但十分惧怕骑兵冲锋,擅長正面攻擊敵軍前線，但非常害怕騎兵衝鋒。,Vanilla,False
+Excels at holding out against many enemies but susceptible to armour-piercing damage.,擅长与众多敌军交战，但易受破甲杀伤,善於對抗大批敵人，但易受穿甲傷害。,Vanilla,False
+"Excels at holding the line especially at chokepoints, but has very low damage.",擅长维持阵线，尤其是把手要冲，但是杀伤力较低,擅長堅守關鍵地點，但攻擊力非常低。,Vanilla,False
+"Excels at holding the line, especially at chokepoints, but has very low damage, and has missile weapons to soften up approaching enemies.",擅长维持阵线，尤其是把手要冲，但是杀伤力较低，不过拥有远程武器可以削弱逼近之敌,擅長堅守關鍵地點，但攻擊力非常低，擁有遠程武器可以削弱接近的敵人。,Vanilla,False
+"Excels at inspiring friendly troops, but weaker in melee. Best grouped with retinues of Melee Cavalry.",擅长激励友军部队，但近战能力欠佳。最好配合近战骑兵部曲,擅長激勵友軍，但不擅長近戰。最適合與近戰騎兵部曲一同編組。,Vanilla,False
+"Excels at inspiring troops and fighting at range, but weaker in melee.",擅长鼓舞士气及远程作战，但不善于近战,擅長激勵友軍與遠距作戰，但不利於近戰。,Vanilla,False
+Excels at locking down enemy generals or holding a chokepoint for a long period of time. Best grouped with a retinue of Glaive Infantry and Melee Infantry.,擅长困住敌军将领，或坚守战略要点。最好配合大刀步兵和近战步兵部曲。,擅長纏住敵軍將領，或是長時間堅守關鍵地點。最適合與大刀步兵和近戰步兵部曲一同編組。,Vanilla,False
+"Excels at wearing down enemies without shields and keeping distance, but vulnerable in melee.",擅长在远距离袭扰未装备盾牌的敌军，但在近战中较为脆弱,擅長削弱無盾的敵人並保持一定距離，但在近戰中很脆弱。,Vanilla,False
+"Excels at wearing down enemies without shields, but vulnerable in melee.",擅长打击轻甲部队，但在近战中较为脆弱,擅長削弱無盾的敵人，但在近戰中很脆弱。,Vanilla,False
 Exemplars of the Tao,道一贤人,求道模範,Vanilla,False
 Fa Zheng,法正,法正,Vanilla,False
-Fellows,义从,義從,Lookup,False
-Fellows Officer,义从士官,義從官,Lookup,False
-Fellows Shot,义从射击,義從射擊,Lookup,False
 Fervent Defenders,狂烈卫士,至誠衛士,Vanilla,False
 Fire Archers,火箭手,火矢弓兵,Vanilla,False
 Fists of the Bandit Queen,魁首前军,盜賊女王拳勇團,Vanilla,False
 Flying Riders,摧锋飞骑,飛騎,Vanilla,False
 Followers of the Flame,火神信徒,火神信徒,Vanilla,False
-Freemen,自由人,自由人,Lookup,False
+Freemen,自由之民,鄉野游勇,Lookup,False
+"Fury is the staple of the Nanman, as is the destruction it brings.",暴烈如火是南蛮人的特征，正如同其伴随的毁灭。,鬥志及其破壞力皆為南蠻的標誌。,Vanilla,False
 Fury of Beihai,北海之怒,北海之怒,Vanilla,False
 Gallants of the People,人统雄豪,護民勇士,Vanilla,False
 Gan Ning,甘宁,甘寧,Vanilla,False
@@ -81,16 +110,19 @@ Generic Fire,火系将军,一般（火）,Vanilla,False
 Generic Metal,金系将军,一般（金）,Vanilla,False
 Generic Nanman,普通南蛮将领,一般（南蠻）,Vanilla,False
 Generic Water,水系将军,一般（水）,Vanilla,False
+Glaive & Bow Infantry,刀弓兵,大刀步兵與弓兵,Vanilla,False
+Glaive Infantry,大刀步兵,大刀步兵,Vanilla,False
 Guan Yu,关羽,關羽,Vanilla,False
 Guardians of the Land,捍地军,土地衛士,Vanilla,False
 Guardsmen,卫士,衛兵,Lookup,False
 Guo Jia,郭嘉,郭嘉,Vanilla,False
+Halberd Cavalry,戟骑兵,持戟騎兵,Vanilla,False
+Halberd Infantry,持戟步兵,持戟步兵,Vanilla,False
 Halberd Peacekeepers,泰平戟卫,衛平戟兵,Lookup,False
 Hand-Ji Infantry,手戟兵,手戟兵,Lookup,False
 Handmaid Guard,烈女侍骑,護衛侍女,Vanilla,False
 He Jin,何进,何進,Vanilla,False
 He Man,何曼,何曼,Vanilla,False
-Heavy Bow Archers,重弓手,重型弓兵,Lookup,False
 Heavy Cataphracts,重装铁骑,重型鐵甲騎兵,Vanilla,False
 Heavy Crossbowmen,重装弩兵,重型弩兵,Vanilla,False
 Heavy Ji Infantry,重装戟步兵,重戟兵,Vanilla,False
@@ -102,12 +134,10 @@ Heavy Xiliang Cavalry,重装西凉骑兵,西涼鐵騎,Vanilla,False
 Hidden Axes,隐斧军,隱密斧兵,Vanilla,False
 Hidden Vipers,吹箭手,隱蛇兵,Vanilla,False
 Horseback Huntsmen,猎骑兵,馬背獵人,Vanilla,False
-Horsemen,骑兵,騎兵,Lookup,False
 Huang Gai,黄盖,黃蓋,Vanilla,False
 Huang Zhong,黄忠,黃忠,Vanilla,False
 Huangfu Song,皇甫嵩,皇甫嵩,Vanilla,False
 Huanglao's Paragons,黄老贤圣,黃老仙軍,Vanilla,False
-Hunters,猎手,獵人,Lookup,False
 Imperial Defenders,中护军,禁軍衛士,Vanilla,False
 Imperial Gate Guards,期门禁军,宮門衛士,Vanilla,False
 Imperial Guard Captain,宿卫禁军伯长,禁軍校尉,Vanilla,False
@@ -151,9 +181,9 @@ Long Axemen,长斧手,長斧兵,Lookup,False
 Long Spear Defectors,变节长矛兵,叛逃長槍兵,Lookup,False
 Long Spearmen,长矛兵,長槍兵,Lookup,False
 Ma Chao,马超,馬超,Vanilla,False
-Marauders,劫匪,掠奪者,Lookup,False
 Marksmen,射声士,射手,Lookup,False
-Melee Infantry,近战步兵,近戰步兵,Lookup,False
+Melee Cavalry,近战骑兵,近戰騎兵,Vanilla,False
+Melee Infantry,近战步兵,近戰步兵,Vanilla,False
 Men of the Forest,深林军,森林之師,Vanilla,False
 Mercenary Archers,雇佣弓箭手,僱傭弓兵,Vanilla,False
 Mercenary Archers Captain,雇佣弓箭手伯长,僱傭弓兵校尉,Vanilla,False
@@ -173,6 +203,7 @@ Mounted Sabre Defectors,变节持刀骑兵,持刀叛逃騎兵,Vanilla,False
 Mounted Sabre Militia,骑乘持刀民兵,義勇刀騎兵,Vanilla,False
 Mounted Warriors,骑乘勇士,騎馬戰士,Lookup,False
 Multiple Bolt Crossbow,连发巨弩,車弩,Vanilla,False
+Nanman,蛮将,南蠻,Vanilla,False
 Nanman Slingers,南蛮投石兵,南蠻投石兵,Vanilla,False
 Nanman Spearmen,南蛮矛兵,南蠻長槍兵,Vanilla,False
 Nanman Warriors,南蛮战士,南蠻戰士,Vanilla,False
@@ -209,7 +240,7 @@ Peasant Warriors,农人战士,農民戰士,Vanilla,False
 Pei Yuanshao,裴元绍,裴元紹,Vanilla,False
 People's Warband,黎首军,百姓兵團,Vanilla,False
 Poachers,偷猎者,盜獵兵,Vanilla,False
-Polearm Infantry,持戟步兵,持戟步兵,Lookup,False
+Polearm Infantry,长柄武器步兵,長兵器步兵,Vanilla,False
 Protectors of Heaven,乾天卫军,皇天衛,Vanilla,False
 Qi Crossbowmen,齐国弩兵,齊國弩兵,Vanilla,False
 Qi Guardsmen,齐国宿卫,齊國衛兵,Vanilla,False
@@ -222,11 +253,11 @@ Qiang Warriors,羌族猛士,羌族兵,Vanilla,False
 Qingzhou Assault Infantry,青州锋锐,青州突襲步兵,Vanilla,False
 Qingzhou Halberds,青州戟兵,青州戟兵,Vanilla,False
 Qingzhou Spears,青州矛兵,青州長槍兵,Vanilla,False
-Queen,魁首,女王,Lookup,False
-Raid Cavalry,游骑,突襲騎兵,Lookup,False
 Raider Cavalry,突袭骑兵,劫匪騎兵,Vanilla,False
 Raiders,劫匪,劫匪,Lookup,False
-Ranged Infantry,远程步兵,遠程步兵,Lookup,False
+Ranged Artillery,远程砲兵,遠程砲兵,Vanilla,False
+Ranged Cavalry,远程骑兵,遠程騎兵,Vanilla,False
+Ranged Infantry,远程步兵,遠程步兵,Vanilla,False
 Rangers,游击兵,游擊兵,Lookup,False
 Rapid Tiger Infantry,虎捷军,虎賁軍,Vanilla,False
 Ravine Warriors,八纳洞兵,洞兵,Vanilla,False
@@ -235,9 +266,10 @@ Redeemed Outlaws,收编贼徒,贖罪囚徒,Vanilla,False
 Remnants,余党,殘黨,Lookup,False
 Repeating Crossbow Defenders,连弩卫,連弩衛,Lookup,False
 Repeating Crossbowmen,连弩兵,連弩兵,Vanilla,False
-Riders,掠骑兵,騎手,Lookup,False
+Riders,骑手,騎兵,Lookup,False
 Righteous Vanguards,义烈先锋,宣義先鋒,Vanilla,False
 Royal Guard Cavalry,羽林骑,羽林騎,Lookup,False
+Ruler of the Han Empire. Cannot be deployed in battles.,汉王朝的统治者，不能参与战斗。,大漢統治者。無法部署至戰鬥中。,Vanilla,False
 Sabre Cavalry,持刀骑兵,刀騎兵,Vanilla,False
 Sabre Defectors,变节刀兵,持刀叛逃兵,Vanilla,False
 Sabre Infantry,持刀步兵,持刀步兵,Vanilla,False
@@ -247,6 +279,7 @@ Sanjiang Poison Spears,三江毒矛手,三江毒槍兵,Vanilla,False
 Scholar-warriors,文武军,學究戰士,Vanilla,False
 Shield Bearers,持盾者,持盾者,Lookup,False
 Shields of the South,南境盾手,南方之盾,Vanilla,False
+Shock Cavalry,冲击骑兵,突擊騎兵,Vanilla,False
 Sima Ai,司马乂,司馬乂,Vanilla,False
 Sima Jiong,司马冏,司馬冏,Vanilla,False
 Sima Liang,司马亮,司馬亮,Vanilla,False
@@ -256,42 +289,48 @@ Sima Yi,司马懿,司馬懿,Vanilla,False
 Sima Ying,司马颖,司馬穎,Vanilla,False
 Sima Yong,司马颙,司馬顒,Vanilla,False
 Sima Yue,司马越,司馬越,Vanilla,False
-Slingers,投石兵,投石兵,Lookup,False
+Slingers,投石兵,投石兵,Vanilla,False
 Southern Elephants,南蛮象兵,南方象兵,Vanilla,False
+Spear Cavalry,枪骑兵,持槍騎兵,Vanilla,False
 Spear Defenders,持矛卫士,槍衛,Lookup,False
 Spear Gang,矛兵团,槍兵團,Lookup,False
 Spear Guards,持矛亲卫,長槍衛兵,Vanilla,False
+Spear Infantry,持矛步兵,持槍步兵,Vanilla,False
 Spear Warriors,持矛勇士,長槍戰士,Vanilla,False
 Spearmen,矛兵,長槍兵,Lookup,False
 Spearmen Gang,矛兵团,長槍兵團,Vanilla,False
-Spears,矛兵,槍兵,Lookup,False
 Stalwart Shields,坚盾卫士,堅盾衛士,Vanilla,False
 Strays,流浪兵,流浪兵,Lookup,False
 Sun Quan,孙权,孫權,Vanilla,False
 Sun Ren,孙仁,孫仁,Vanilla,False
-Sword Cavalry,剑骑兵,劍騎兵,Lookup,False
+Sword Cavalry,剑骑兵,持劍騎兵,Vanilla,False
+Sword Infantry,剑步兵,持劍步兵,Vanilla,False
 Swordsmen,剑兵,劍兵,Lookup,False
 Swordsmen of Yuan,袁氏剑兵,袁氏劍兵,Lookup,False
 Tamers,驯兽师,馴獸師,Lookup,False
 Territorial Archers,义勇弓手,護土弓兵,Vanilla,False
 Territorial Spearmen,义勇矛兵,護土長槍兵,Vanilla,False
 The Land's Chosen,卫土猛士,地傑軍,Vanilla,False
+The beasts of the land understand its flow; so too do their handlers.,野兽深谙自然之法，其主亦是如此。,禽獸懂得順應自然，其主亦明此理。,Vanilla,False
+The elephant towers above men; a thundering wall of strength.,巨象耸立人群，犹如擎天巨墙。,大象聳立人群，猶如擎天巨牆。,Vanilla,False
+"Though lacking the range of a catapult, the Juggernaut does not want for lack of short-range devastation.",尽管射程不及发石车，但木兽在近距离的破坏力可是丝毫不差。,火獸車射程不及投石器，但短程破壞力倒是一點也不缺。,Vanilla,False
 Thunder of Jian'an,建安雷霆军,建安之雷,Vanilla,False
 Tiger & Leopard Cavalry,虎豹骑,虎豹騎兵,Vanilla,False
 Tiger Cubs,雏虎,少虎騎,Vanilla,False
 Tiger Guard,车下虎士,猛虎衛,Vanilla,False
 Tiger Slingers,猛虎投石兵,猛虎投石兵,Vanilla,False
 Tiger Warriors,猛虎战士,猛虎戰士,Vanilla,False
+To commune with the beasts is to inherit their strength.,与野兽心意相通，即可号令其力。,與禽獸心意相通，即可號令其力。,Vanilla,False
 Trebuchet,霹雳车,投石機,Vanilla,False
-Troops,兵,兵,Lookup,False
 Tyrant Slayers,除暴义兵,除暴軍,Vanilla,False
 Valley Tribesmen,五溪部民,五谿族眾,Vanilla,False
 Vanguards,先锋,先鋒,Lookup,False
 Venerable Wu,神巫,聖巫軍,Vanilla,False
+"Very assault-oriented unit, but vulnerable to missile attacks.",极具攻击性的部队，但面对远程攻击较为脆弱,專精於突襲的單位，但非常害怕遠程攻擊。,Vanilla,False
+Veteran,宿将,老兵,Vanilla,False
 Veterans,宿卫,老兵,Lookup,False
 Virtuous Noblemen,贤贵军,名門賢士,Vanilla,False
 War Elephants,战象,戰象兵,Vanilla,False
-Warband,兵团,兵團,Lookup,False
 Warriors,勇士,戰士,Lookup,False
 Warriors of Xu,徐国勇士,徐州勇士,Vanilla,False
 Warriors of Ye,邺国勇士,鄴城勇士,Vanilla,False

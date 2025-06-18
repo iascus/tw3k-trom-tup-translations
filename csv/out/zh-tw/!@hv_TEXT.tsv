@@ -4573,7 +4573,7 @@ ui_text_replacements_localised_text_3k_dlc07_unit_wood_dongzhoubing_defenders	�
 ui_text_replacements_localised_text_3k_dlc07_unit_wood_northern_ji_infantry	北軍戟兵	true
 ui_text_replacements_localised_text_3k_dlc07_unit_wood_northern_spear_guards	北軍長槍兵	true
 ui_text_replacements_localised_text_3k_dlc07_unit_wood_northern_veteran_ji_infantry	北軍老練戟兵	true
-ui_text_replacements_localised_text_3k_dlc07_unit_wood_northern_veteran_spears	北軍老練槍兵	true
+ui_text_replacements_localised_text_3k_dlc07_unit_wood_northern_veteran_spears	北軍老練長槍兵	true
 ui_text_replacements_localised_text_emperor_description_kong_rong	一旦有一支太守勢力的領袖獲得足以稱王的威望，群雄中最強的三家便會稱帝，使其都城成為握有龐大權力的皇城。太守勢力無法自行稱帝，但可以透過佔領這些皇城來證明自己的影響力，進而登基為帝。\\n\\n[[b]]勝利條件[[/b]]：奪佔所有皇城並擁有{{tr:victory_condition_regions_count}}個{{tr:map_regions}}，即能一統天下。	false
 ui_text_replacements_localised_text_emperor_description_liu_biao	一旦有一支太守勢力的領袖獲得足以稱王的威望，群雄中最強的三家便會稱帝，使其都城成為握有龐大權力的皇城。太守勢力無法自行稱帝，但可以透過佔領這些皇城來證明自己的影響力，進而登基為帝。\\n\\n[[b]]勝利條件[[/b]]：奪佔所有皇城並擁有{{tr:victory_condition_regions_count}}個{{tr:map_regions}}，即能一統天下。	false
 ui_text_replacements_localised_text_emperor_description_ma_teng	一旦有一支太守勢力的領袖獲得足以稱王的威望，群雄中最強的三家便會稱帝，使其都城成為握有龐大權力的皇城。太守勢力無法自行稱帝，但可以透過佔領這些皇城來證明自己的影響力，進而登基為帝。\\n\\n[[b]]勝利條件[[/b]]：奪佔所有皇城並擁有{{tr:victory_condition_regions_count}}個{{tr:map_regions}}，即能一統天下。	false
@@ -4588,7 +4588,7 @@ ui_text_replacements_localised_text_hv_tr_wood	[[img:ui/skins/default/character_
 ui_text_replacements_localised_text_hv_unit_azure_dragons	蒼龍軍	true
 ui_text_replacements_localised_text_hv_unit_bandits_2h_spear_cavalry	山賊持槍劫匪	true
 ui_text_replacements_localised_text_hv_unit_bandits_2h_spear_infantry	盜賊槍兵團	true
-ui_text_replacements_localised_text_hv_unit_bandits_archers	盜賊獵人	true
+ui_text_replacements_localised_text_hv_unit_bandits_archers	盜賊獵手	true
 ui_text_replacements_localised_text_hv_unit_bandits_axe_infantry	盜賊戰士	true
 ui_text_replacements_localised_text_hv_unit_bandits_captain	盜賊校尉	true
 ui_text_replacements_localised_text_hv_unit_bandits_children_of_the_forest	森林之子	true
@@ -4646,7 +4646,7 @@ ui_text_replacements_localised_text_hv_unit_elite_heavy_bow_archers	精銳弓兵
 ui_text_replacements_localised_text_hv_unit_elite_ji_infantry	精銳戟兵	true
 ui_text_replacements_localised_text_hv_unit_elite_rep_crossbowmen	精銳連弩兵	true
 ui_text_replacements_localised_text_hv_unit_elite_spearmen	精銳長槍兵	true
-ui_text_replacements_localised_text_hv_unit_elite_sword_cavalry	精銳劍騎兵	true
+ui_text_replacements_localised_text_hv_unit_elite_sword_cavalry	精銳持劍騎兵	true
 ui_text_replacements_localised_text_hv_unit_elite_swordsmen	精銳劍兵	true
 ui_text_replacements_localised_text_hv_unit_enforcer_archer_cavalry	捕掾隊游擊兵	true
 ui_text_replacements_localised_text_hv_unit_fellows_of_the_oath	結義弟兄	true
@@ -4658,7 +4658,7 @@ ui_text_replacements_localised_text_hv_unit_han_volunteer_rep_crossbowmen	州屬
 ui_text_replacements_localised_text_hv_unit_han_volunteer_spearmen	州屬長槍兵	true
 ui_text_replacements_localised_text_hv_unit_handmaid_guard	護衛侍女	true
 ui_text_replacements_localised_text_hv_unit_hebei_spearmen	河北長槍兵	true
-ui_text_replacements_localised_text_hv_unit_hebei_sword_cavalry	河北劍騎兵	true
+ui_text_replacements_localised_text_hv_unit_hebei_sword_cavalry	河北持劍騎兵	true
 ui_text_replacements_localised_text_hv_unit_hidden_2h_spearmen	隱槍突擊兵	true
 ui_text_replacements_localised_text_hv_unit_hidden_assault_infantry	隱秘突擊兵	true
 ui_text_replacements_localised_text_hv_unit_hidden_snakes	隱蛇兵	true
@@ -4685,7 +4685,7 @@ ui_text_replacements_localised_text_hv_unit_jiuzhen_raider	九真劫匪	true
 ui_text_replacements_localised_text_hv_unit_juggernaut	火獸車	true
 ui_text_replacements_localised_text_hv_unit_local_noble_buqu_archers	家僕弓兵	true
 ui_text_replacements_localised_text_hv_unit_local_noble_buqu_infantry	家僕斧兵	true
-ui_text_replacements_localised_text_hv_unit_local_noble_buqu_raider_cavalry	家僕騎手	true
+ui_text_replacements_localised_text_hv_unit_local_noble_buqu_raider_cavalry	家僕騎兵	true
 ui_text_replacements_localised_text_hv_unit_local_noble_buqu_spearmen	家僕長槍兵	true
 ui_text_replacements_localised_text_hv_unit_local_noble_elite_archers	士族弓兵	true
 ui_text_replacements_localised_text_hv_unit_mercenary_archers	僱傭弓兵	true
@@ -4820,7 +4820,7 @@ ui_text_replacements_localised_text_hv_unit_yuan_rearguards	鄴城守望先鋒	t
 ui_text_replacements_localised_text_hv_unit_yuan_rong_crossbowmen	元戎弩兵	true
 ui_text_replacements_localised_text_hv_unit_yuan_sword_infantry	部曲袁氏劍兵	true
 ui_text_replacements_localised_text_hv_unit_yuan_vanguards	鄴城突擊先鋒	true
-ui_text_replacements_localised_text_hv_unit_yue_freemen	越族自由人	true
+ui_text_replacements_localised_text_hv_unit_yue_freemen	越族鄉野游勇	true
 ui_text_replacements_localised_text_hv_unit_zhong_royal_guard	仲氏羽林騎	true
 ui_unit_bullet_point_enums_onscreen_name_strength_armour_break	利於穿甲	true
 ui_unit_bullet_point_enums_onscreen_name_strength_bomb	使用火器	true
@@ -4853,7 +4853,7 @@ ui_unit_bullet_point_enums_tooltip_weakness_rampage	這些士兵只順從自己�
 ui_unit_group_parents_onscreen_name_hv_parent_group_cavalry_black	普通騎兵	true
 ui_unit_group_parents_onscreen_name_hv_parent_group_melee_black	普通近戰步兵	true
 ui_unit_group_parents_onscreen_name_hv_parent_group_range_black	普通遠程步兵	true
-ui_unit_group_parents_onscreen_name_hv_parent_group_spear_black	普通持戟步兵	true
+ui_unit_group_parents_onscreen_name_hv_parent_group_spear_black	普通長兵器步兵	true
 ui_unit_groupings_onscreen_3k_dlc04_unit_machine_crossbow_watert1	弩炮（義勇）	false
 ui_unit_groupings_onscreen_3k_dlc04_unit_machine_crossbow_watert2	弩炮（部曲）	false
 ui_unit_groupings_onscreen_3k_dlc04_unit_machine_crossbow_watert3	弩炮（精銳）	false

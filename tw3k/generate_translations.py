@@ -260,6 +260,8 @@ class LookupFilePlusVanilla(LookupFile):
 
     vanilla_files = [
         'land_units',
+        'ui_unit_groupings',
+        'ui_unit_group_parents',
     ]
 
     def _run(self):

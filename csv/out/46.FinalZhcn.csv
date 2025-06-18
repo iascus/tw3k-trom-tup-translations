@@ -4572,7 +4572,7 @@ ui_text_replacements_localised_text_3k_dlc07_unit_wood_dongzhoubing_defenders,�
 ui_text_replacements_localised_text_3k_dlc07_unit_wood_northern_ji_infantry,北军戟步兵,True
 ui_text_replacements_localised_text_3k_dlc07_unit_wood_northern_spear_guards,北军矛兵,True
 ui_text_replacements_localised_text_3k_dlc07_unit_wood_northern_veteran_ji_infantry,北军宿卫戟步兵,True
-ui_text_replacements_localised_text_3k_dlc07_unit_wood_northern_veteran_spears,北军宿卫矛兵,True
+ui_text_replacements_localised_text_3k_dlc07_unit_wood_northern_veteran_spears,北军持矛宿卫,True
 ui_text_replacements_localised_text_emperor_description_kong_rong,一旦某个朝廷派系有了足够的声望成王，那么最强的三家诸侯就会自行称帝，他们的都城就会成为皇位的所在。\\n\\n[[b]]胜利条件[[/b]]：控制所有的皇位并拥有{{tr:victory_condition_regions_count}}个{{tr:map_regions}}，从而统一天下。,False
 ui_text_replacements_localised_text_emperor_description_liu_biao,一旦某个朝廷派系有了足够的声望成王，那么最强的三家诸侯就会自行称帝，他们的都城就会成为皇位的所在。\\n\\n[[b]]胜利条件[[/b]]：控制所有的皇位并拥有{{tr:victory_condition_regions_count}}个{{tr:map_regions}}，从而统一天下。,False
 ui_text_replacements_localised_text_emperor_description_ma_teng,一旦某个朝廷派系有了足够的声望成王，那么最强的三家诸侯就会自行称帝，他们的都城就会成为皇位的所在。\\n\\n[[b]]胜利条件[[/b]]：控制所有的皇位并拥有{{tr:victory_condition_regions_count}}个{{tr:map_regions}}，从而统一天下。,False
@@ -4587,7 +4587,7 @@ ui_text_replacements_localised_text_hv_tr_wood,[[img:ui/skins/default/character_
 ui_text_replacements_localised_text_hv_unit_azure_dragons,青龙军,True
 ui_text_replacements_localised_text_hv_unit_bandits_2h_spear_cavalry,山贼持枪劫匪,True
 ui_text_replacements_localised_text_hv_unit_bandits_2h_spear_infantry,山贼矛兵团,True
-ui_text_replacements_localised_text_hv_unit_bandits_archers,山贼猎手,True
+ui_text_replacements_localised_text_hv_unit_bandits_archers,山贼猎人,True
 ui_text_replacements_localised_text_hv_unit_bandits_axe_infantry,山贼勇士,True
 ui_text_replacements_localised_text_hv_unit_bandits_captain,山贼伯长,True
 ui_text_replacements_localised_text_hv_unit_bandits_children_of_the_forest,森林之子,True
@@ -4684,7 +4684,7 @@ ui_text_replacements_localised_text_hv_unit_jiuzhen_raider,九真劫匪,True
 ui_text_replacements_localised_text_hv_unit_juggernaut,木兽,True
 ui_text_replacements_localised_text_hv_unit_local_noble_buqu_archers,家仆弓箭手,True
 ui_text_replacements_localised_text_hv_unit_local_noble_buqu_infantry,家仆斧手,True
-ui_text_replacements_localised_text_hv_unit_local_noble_buqu_raider_cavalry,家仆掠骑兵,True
+ui_text_replacements_localised_text_hv_unit_local_noble_buqu_raider_cavalry,家仆骑手,True
 ui_text_replacements_localised_text_hv_unit_local_noble_buqu_spearmen,家仆长矛兵,True
 ui_text_replacements_localised_text_hv_unit_local_noble_elite_archers,士族弓箭手,True
 ui_text_replacements_localised_text_hv_unit_mercenary_archers,雇佣弓箭手,True
@@ -4819,7 +4819,7 @@ ui_text_replacements_localised_text_hv_unit_yuan_rearguards,邺城守望先锋,T
 ui_text_replacements_localised_text_hv_unit_yuan_rong_crossbowmen,元戎弩兵,True
 ui_text_replacements_localised_text_hv_unit_yuan_sword_infantry,部曲袁氏剑兵,True
 ui_text_replacements_localised_text_hv_unit_yuan_vanguards,邺城突击先锋,True
-ui_text_replacements_localised_text_hv_unit_yue_freemen,山越自由人,True
+ui_text_replacements_localised_text_hv_unit_yue_freemen,山越自由之民,True
 ui_text_replacements_localised_text_hv_unit_zhong_royal_guard,仲氏羽林骑,True
 ui_unit_bullet_point_enums_onscreen_name_strength_armour_break,擅长破甲,True
 ui_unit_bullet_point_enums_onscreen_name_strength_bomb,使用火器,True
@@ -4852,7 +4852,7 @@ ui_unit_bullet_point_enums_tooltip_weakness_rampage,这些士兵只遵从自己�
 ui_unit_group_parents_onscreen_name_hv_parent_group_cavalry_black,普通骑兵,True
 ui_unit_group_parents_onscreen_name_hv_parent_group_melee_black,普通近战步兵,True
 ui_unit_group_parents_onscreen_name_hv_parent_group_range_black,普通远程步兵,True
-ui_unit_group_parents_onscreen_name_hv_parent_group_spear_black,普通持戟步兵,True
+ui_unit_group_parents_onscreen_name_hv_parent_group_spear_black,普通长柄武器步兵,True
 ui_unit_groupings_onscreen_3k_dlc04_unit_machine_crossbow_watert1,弩炮（民兵）,False
 ui_unit_groupings_onscreen_3k_dlc04_unit_machine_crossbow_watert2,弩炮（部曲）,False
 ui_unit_groupings_onscreen_3k_dlc04_unit_machine_crossbow_watert3,弩炮（精锐）,False
