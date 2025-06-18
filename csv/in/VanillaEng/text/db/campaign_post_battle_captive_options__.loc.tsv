@@ -1,0 +1,12 @@
+key	text	tooltip
+#Loc;1;text/db/campaign_post_battle_captive_options__.loc		
+campaign_post_battle_captive_options_description_release3k_main_captive_option_release_cult_liu_bei	To aid an empty treasury, or offset the troops' upkeep, captives can be ransomed back to the enemy; the larger the force, the more money can be made.	false
+campaign_post_battle_captive_options_description_release3k_main_captive_option_release_cult_all	To aid an empty treasury, or offset the troops' upkeep, captives can be ransomed back to the enemy; the larger the force, the more money can be made.	false
+campaign_post_battle_captive_options_onscreen_name_release3k_main_captive_option_release_cult_liu_bei	Ransom & Release	false
+campaign_post_battle_captive_options_onscreen_name_enslave3k_dlc05_captive_option_enslave_lu_bu	Maintain Momentum	false
+campaign_post_battle_captive_options_onscreen_name_enslave3k_main_captive_option_enslave_cult_all	Recruit	false
+campaign_post_battle_captive_options_onscreen_name_kill3k_main_captive_option_kill_cult_all	Seize Supplies	false
+campaign_post_battle_captive_options_description_enslave3k_dlc05_captive_option_enslave_lu_bu	Abandon the wounded and push onwards, regenerating movement points but tiring your troops	false
+campaign_post_battle_captive_options_onscreen_name_release3k_main_captive_option_release_cult_all	Ransom	false
+campaign_post_battle_captive_options_description_kill3k_main_captive_option_kill_cult_all	Allow the enemy troops to flee, leaving their valuable supplies behind for our soldiers - an excellent choice when deep within enemy territory.	false
+campaign_post_battle_captive_options_description_enslave3k_main_captive_option_enslave_cult_all	Many of the enemy troops would gladly join our forces; those who refuse will be put to the sword. This will replenish our troops, but may impact our relations with the enemy faction.	false

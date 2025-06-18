@@ -1,0 +1,6 @@
+key	text	tooltip
+#Loc;1;text/db/religions__.loc		
+religions_onscreen_3k_main_confucianism	Confucianism	false
+religions_onscreen_3k_main_buddhist	Buddhism	false
+religions_onscreen_3k_main_yellow_turban	Yellow Turban	false
+religions_onscreen_3k_main_taoist	Taoism	false

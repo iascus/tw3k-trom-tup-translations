@@ -1,0 +1,283 @@
+File,Text,zh-cn,zh-tw
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,A focus on form allows one to evade and manoeuvre.,专注于形则可避敌锋芒,專注於身形，便能夠閃躲挪騰。
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,A focus on form allows one to evade and manoeuvre.,专注于形则可避敌锋芒。,專注於身形，便能夠閃躲挪騰。
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,A lifetime spent learning the ways of heaven will turn thoughts into belief.,长解天道则称信,畢生學習天道，便能將想法化為信念。
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,A lifetime spent learning the ways of heaven will turn thoughts into belief.,长解天道则称信。,畢生學習天道，便能將想法化為信念。
+hv_TEXT_skills_skill_ability_name_desc.loc.tsv,A warrior will only fight at their best when they are sure-footed.,根基固则力稳,對自己有信心，戰士才能完全發揮實力。
+hv_TEXT_skills_skill_ability_name_desc.loc.tsv,A warrior will only fight at their best when they are sure-footed.,根基固则力稳,腳跟站穩，戰士才能完全發揮實力。
+hv_TEXT_events.loc.tsv,Accept,接受,允諾
+hv_TEXT_events.loc.tsv,Accept,接受,接受
+[01]__MTU_generals__Water_strategist.loc.tsv,Advisor,侍御史,謀士
+[01]__MTU_generals__Water_strategist.loc.tsv,Advisor,军师,謀士
+[01]__MTU_generals__Water_strategist.loc.tsv,Advisor,军师祭酒,謀士
+[01]__MTU_generals__Water_strategist.loc.tsv,Advisor,奇谋百出,謀士
+[01]__MTU_generals__Water_strategist.loc.tsv,Advisor,州牧,謀士
+[01]__MTU_generals__Water_strategist.loc.tsv,Advisor,心腹,謀士
+[01]__MTU_generals__Water_strategist.loc.tsv,Advisor,谋士,謀士
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,Analyse Weakness,看破,分析弱點
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,Analyse Weakness,看穿,分析弱點
+[01]__MTU_generals__Water_strategist.loc.tsv,Bandit,熟手劫匪,盜賊
+[01]__MTU_generals__Water_strategist.loc.tsv,Bandit,贼徒,盜賊
+hv_TEXT_building.loc.tsv,Banditry,匪患,劫盜
+hv_TEXT_building.loc.tsv,Banditry,匪患,匪患
+hv_TEXT_building.loc.tsv,Banditry,,
+z_dummy_hv_TEXT_non_deployable.loc.tsv,Be cunning and full of tricks and your people shall never be destroyed.,多谋善计方可立于不败,兵不厭詐，謀如湧泉，則手下士兵無堅不摧。
+z_dummy_hv_TEXT_non_deployable.loc.tsv,Be cunning and full of tricks and your people shall never be destroyed.,多谋善计方可立于不败之地。,兵不厭詐，謀如湧泉，則手下士兵無堅不摧。
+hv_TEXT_pooled_resource.loc.tsv,Buildings,建筑,建築
+hv_TEXT_pooled_resource.loc.tsv,Buildings,当地建筑,建築
+hv_TEXT_unit_abilities.loc.tsv,Caltrops,蒺藜,蒺藜
+hv_TEXT_unit_abilities.loc.tsv,Caltrops,铁蒺藜,蒺藜
+hv_TEXT_cb_loadout.loc.tsv,Cao Cao,曹操,曹操
+hv_TEXT_cb_loadout.loc.tsv,Cao Cao,诸雄筹谋,曹操
+hv_TEXT_cb_loadout.loc.tsv,Cao Cao,,
+hv_TEXT_unit_text_replacements.loc.tsv,Captain,伯长,校尉
+hv_TEXT_unit_text_replacements.loc.tsv,Captain,伯长,船長
+[01]__MTU_generals__Fire_vanguard.loc.tsv,Colonel,校尉,校尉
+[01]__MTU_generals__Fire_vanguard.loc.tsv,Colonel,都尉,都尉
+[01]__MTU_generals__Fire_vanguard.loc.tsv,Commandant,中郎将,都尉
+[01]__MTU_generals__Fire_vanguard.loc.tsv,Commandant,偏将军,都尉
+[01]__MTU_generals__Fire_vanguard.loc.tsv,Commandant,军司马,別部司馬
+[01]__MTU_generals__Fire_vanguard.loc.tsv,Commandant,别部司马,別部司馬
+[01]__MTU_generals__Fire_vanguard.loc.tsv,Commandant,别部司马,都尉
+[01]__MTU_generals__Fire_vanguard.loc.tsv,Commandant,宁国中郎将,別部司馬
+[01]__MTU_generals__Fire_vanguard.loc.tsv,Commandant,建威中郎将,都尉
+[01]__MTU_generals__Fire_vanguard.loc.tsv,Commandant,折冲校尉,都尉
+[01]__MTU_generals__Fire_vanguard.loc.tsv,Commandant,牙门将军,都尉
+[01]__MTU_generals__Fire_vanguard.loc.tsv,Commandant,荡寇将军,都尉
+[01]__MTU_generals__Fire_vanguard.loc.tsv,Commandant,袁氏爱子,別部司馬
+[01]__MTU_generals__Fire_vanguard.loc.tsv,Commandant,裨将军,都尉
+[01]__MTU_generals__Fire_vanguard.loc.tsv,Commandant,讨寇校尉,都尉
+[01]__MTU_generals__Fire_vanguard.loc.tsv,Commandant,都督,別部司馬
+[01]__MTU_generals__Fire_vanguard.loc.tsv,Commandant,都督,都尉
+z_dummy_hv_TEXT_non_deployable.loc.tsv,"Concentrate on the moment: fight, don't think. Use your instincts.",专注当下：切勿迟疑，但斩前敌。,專注於當下：只管戰鬥，無須思考。活用直覺。
+z_dummy_hv_TEXT_non_deployable.loc.tsv,"Concentrate on the moment: fight, don't think. Use your instincts.",专注眼前：切勿迟疑，但斩眼前敌,專注於當下：只管戰鬥，無須思考。活用直覺。
+z_dummy_hv_TEXT_non_deployable.loc.tsv,Cunning,变化机谋,足智多謀
+z_dummy_hv_TEXT_non_deployable.loc.tsv,Cunning,奇谋百出,足智多謀
+z_dummy_hv_TEXT_non_deployable.loc.tsv,Cunning,智略,智謀
+hv_TEXT_pooled_resource.loc.tsv,Decrease,减少,降低
+hv_TEXT_pooled_resource.loc.tsv,Decrease,降低,降低
+hv_TEXT_pooled_resource.loc.tsv,Decrease,,
+[03]__MTU_skills__Active_debuff.loc.tsv,Dignity,自尊,氣度不凡
+[03]__MTU_skills__Active_debuff.loc.tsv,Dignity,自重,氣度不凡
+hv_TEXT_cb_loadout.loc.tsv,Dong Zhuo,董卓,董卓
+hv_TEXT_cb_loadout.loc.tsv,Dong Zhuo,,
+[01]__MTU_generals__Wood_champion.loc.tsv,Elite General,五子良将,五子良將
+[01]__MTU_generals__Wood_champion.loc.tsv,Elite General,大将军,車騎將軍
+[01]__MTU_generals__Wood_champion.loc.tsv,Elite General,江表虎臣,虎臣
+[01]__MTU_generals__Wood_champion.loc.tsv,Elite General,河间四将,五子良將
+[01]__MTU_generals__Wood_champion.loc.tsv,Elite General,河间四将,河間四將
+[01]__MTU_generals__Wood_champion.loc.tsv,Elite General,车骑将军,車騎將軍
+[dummy]__MTU_dummy.loc.tsv,Empress,女帝,女帝
+[dummy]__MTU_dummy.loc.tsv,Empress,女帝,皇帝
+[dummy]__MTU_dummy.loc.tsv,Empress,皇后,皇后
+[dummy]__MTU_dummy.loc.tsv,Empress,皇后,皇帝
+hv_TEXT_unit_abilities.loc.tsv,Enlightenment,启蒙,修為
+hv_TEXT_unit_abilities.loc.tsv,Enlightenment,开化,得道
+z_dummy_hv_TEXT_non_deployable.loc.tsv,Expertise,专精,專精
+z_dummy_hv_TEXT_non_deployable.loc.tsv,Expertise,经验,專精
+[01]__MTU_generals__Metal_sentienl.loc.tsv,Follower,随从,信徒
+[01]__MTU_generals__Metal_sentienl.loc.tsv,Follower,随从,隨從
+[01]__MTU_generals__Earth_commander.loc.tsv,General,东中郎将,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,中军校尉,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,中护军,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,中郎将,將軍
+[01]__MTU_generals__Earth_commander.loc.tsv,General,中郎将,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,五官中郎将,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,北中郎将,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,卫尉,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,右将军,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,大将军,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,奋威将军,將軍
+[01]__MTU_generals__Earth_commander.loc.tsv,General,奋武将军,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,安乐亭侯,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,将军,將軍
+[01]__MTU_generals__Earth_commander.loc.tsv,General,将军,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,将领,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,屯骑校尉,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,州牧,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,左中郎将,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,扬武都尉,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,折冲中郎将,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,折冲将军,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,折冲校尉,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,护军将军,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,散骑常侍,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,校尉,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,武锋中郎将,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,汉之樊哙,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,破虏将军,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,翊军校尉,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,荡寇将军,將軍
+[01]__MTU_generals__Earth_commander.loc.tsv,General,荡寇将军,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,虎威将军,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,虎贲中郎将,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,越骑校尉,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,车骑将军,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,镇西将军,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,青州刺史,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,骑都尉,將領
+[01]__MTU_generals__Earth_commander.loc.tsv,General,骠骑将军,將領
+hv_TEXT_cb_loadout.loc.tsv,Governor,后将军,太守
+hv_TEXT_cb_loadout.loc.tsv,Governor,太守,太守
+hv_TEXT_cb_loadout.loc.tsv,Governor,州牧,太守
+hv_TEXT_cb_loadout.loc.tsv,Governor,徐州牧,太守
+hv_TEXT_cb_loadout.loc.tsv,Governor,益州牧,太守
+hv_TEXT_cb_loadout.loc.tsv,Governor,荆州牧,太守
+hv_TEXT_cb_loadout.loc.tsv,Governor,骠骑将军,太守
+ifo_text_TWEAK.loc.tsv,Ignore,无视,不予理會
+ifo_text_TWEAK.loc.tsv,Ignore,浑似不觉,不予理會
+ifo_text_TWEAK.loc.tsv,Ignore,置之不理,不予理會
+ifo_text_TWEAK.loc.tsv,Ignore,隔岸观火,不予理會
+ifo_text_TWEAK.loc.tsv,Ignore,,
+hv_TEXT_pooled_resource.loc.tsv,Increase,增加,提升
+hv_TEXT_pooled_resource.loc.tsv,Increase,提升,提升
+hv_TEXT_pooled_resource.loc.tsv,Increase,,
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,Judgement,慎断,判斷精準
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,Judgement,慎断,明察秋毫
+hv_TEXT_cb_loadout.loc.tsv,Liu Bei,刘备,劉備
+hv_TEXT_cb_loadout.loc.tsv,Liu Bei,同窗玄德,劉備
+hv_TEXT_cb_loadout.loc.tsv,Liu Bei,,
+hv_TEXT_cb_loadout.loc.tsv,Liu Biao,刘表,劉表
+hv_TEXT_cb_loadout.loc.tsv,Liu Biao,,
+hv_TEXT_cb_loadout.loc.tsv,Liu Zhang,刘璋,劉璋
+hv_TEXT_cb_loadout.loc.tsv,Liu Zhang,,
+hv_TEXT_skills_skill_ability__historical.loc.tsv,Look up and you will see the sky; look inward and you will see heaven.,上观则为天，深察则为妙,往頭上看，看到的是天空，往心裡看，看到的便是黃天。
+hv_TEXT_skills_skill_ability__historical.loc.tsv,Look up and you will see the sky; look inward and you will see heaven.,上观则为天，深察则为妙,往頭上看，看到的是空，往心裡看，看到的便是天。
+hv_TEXT_cb_loadout.loc.tsv,Ma Teng,马腾,馬騰
+hv_TEXT_cb_loadout.loc.tsv,Ma Teng,,
+z_dummy_hv_TEXT_non_deployable.loc.tsv,Martial expertise from hard work. Practice. Preparation. Endless repetition.,习技艺，服劳苦，勤习无休懈，方可弓马娴熟,高強武藝來自勤練。必須孜孜不倦、未雨綢繆、千錘百鍊。
+z_dummy_hv_TEXT_non_deployable.loc.tsv,Martial expertise from hard work. Practice. Preparation. Endless repetition.,习技艺，服劳苦，勤习无休懈，方可弓马娴熟。,高強武藝來自勤練。必須孜孜不倦、未雨綢繆、千錘百鍊。
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,Nature itself provides a shield for its warriors.,法自然，如佩坚盾，御阻猛攻,大地為它的戰士們提供屏障。
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,Nature itself provides a shield for its warriors.,法自然，如佩坚盾，御阻猛攻。,大地為它的戰士們提供屏障。
+hv_TEXT_skills_skill_ability__historical.loc.tsv,One with the People,与民同心,與民同進
+hv_TEXT_skills_skill_ability__historical.loc.tsv,One with the People,人遁,與人合一
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,Only through sober and considered analysis can fragility be turned to unerring strength.,要想扬长避短，须得冷静沉着、仔细思量。,只有透過審慎周詳的分析，才能化弱為強。
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,Only through sober and considered analysis can fragility be turned to unerring strength.,要想扬长避短，须得冷静沉着，仔细思量。,只有透過審慎周詳的分析，才能化弱為強。
+[04]__MTU_events__Common.loc.tsv,Patience,耐心,富有耐心
+[04]__MTU_events__Common.loc.tsv,Patience,耐心,耐心忍性
+hv_TEXT_unit_text_replacements.loc.tsv,Peasant Warriors,农人战士,農民戰士
+hv_TEXT_unit_text_replacements.loc.tsv,Peasant Warriors,民兵入伍,農民戰士
+hv_TEXT_pooled_resource.loc.tsv,Population,人口,人口
+hv_TEXT_pooled_resource.loc.tsv,Population,人口数量,人口
+[dummy]__MTU_dummy.loc.tsv,Queen,女杰,女王
+[dummy]__MTU_dummy.loc.tsv,Queen,女王,女王
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,"Recalling their training, these generals reload with startling quickness.",三军依训练妙法，弯弓搭箭迅如脱兔,這些將領回想起自己受過的訓練，以令人刮目相看的飛速裝填矢石。
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,"Recalling their training, these generals reload with startling quickness.",三军需依训练妙法，弯弓搭箭迅如脱兔,這些將領回想起自己受過的訓練，以令人刮目相看的飛速裝填矢石。
+hv_TEXT_pooled_resource.loc.tsv,Recruit,招募,招募
+hv_TEXT_pooled_resource.loc.tsv,Recruit,新出茅庐,新兵
+hv_TEXT_events.loc.tsv,Refuse,拒绝,拒絕
+hv_TEXT_events.loc.tsv,Refuse,拒绝道歉,拒絕
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,Reign of Terror,怖惧,恐怖統治
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,Reign of Terror,恐怖统治,恐怖統治
+hv_TEXT_cb_loadout.loc.tsv,Shi Xie,士燮,士燮
+hv_TEXT_cb_loadout.loc.tsv,Shi Xie,,
+hv_TEXT_cb_loadout.loc.tsv,Sima Yi,司马仲达,司馬懿
+hv_TEXT_cb_loadout.loc.tsv,Sima Yi,司马懿,司馬懿
+[01]__MTU_generals__Water_strategist.loc.tsv,Strategist,中郎,軍師
+[01]__MTU_generals__Water_strategist.loc.tsv,Strategist,军师,軍師
+[01]__MTU_generals__Water_strategist.loc.tsv,Strategist,军师中郎将,軍師
+[01]__MTU_generals__Water_strategist.loc.tsv,Strategist,别部司马,軍師
+[01]__MTU_generals__Water_strategist.loc.tsv,Strategist,少府,軍師
+[01]__MTU_generals__Water_strategist.loc.tsv,Strategist,尚书,軍師
+[01]__MTU_generals__Water_strategist.loc.tsv,Strategist,正议校尉,軍師
+[01]__MTU_generals__Water_strategist.loc.tsv,Strategist,谋士,軍師
+hv_TEXT_cb_loadout.loc.tsv,Sun Ce,孙策,孫策
+hv_TEXT_cb_loadout.loc.tsv,Sun Ce,,
+hv_TEXT_cb_loadout.loc.tsv,Sun Jian,孙坚,孫堅
+hv_TEXT_cb_loadout.loc.tsv,Sun Jian,,
+hv_TEXT_cb_loadout.loc.tsv,Tao Qian,陶谦,陶謙
+hv_TEXT_cb_loadout.loc.tsv,Tao Qian,,
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,"The forest provides a path, and surer footing, for the respectful. ",敬爱山林，山亦敬之，穿林如行路,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。 
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,"The forest provides a path, and surer footing, for the respectful. ",敬爱山林，林即如家，山是前路。 ,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。 
+[dummy]__MTU_dummy.loc.tsv,"The perfect weight and fit, tailored for this warrior of class and distinction.",此甲轻重得当，宽紧合身，非名将不可披戴,重量適中且恰好合身，專為這名有頭有臉的戰士量身打造。
+[dummy]__MTU_dummy.loc.tsv,"The perfect weight and fit, tailored for this warrior of class and distinction.",此甲轻重得当，宽紧合身，非名将不可披戴。,重量適中且恰好合身，專為這名有頭有臉的戰士量身打造。
+z_dummy_hv_TEXT_non_deployable.loc.tsv,The responsibility that comes with authority should not be taken lightly.,位尊则必担重任，任重则不能轻举。,權威帶來的責任絕不能等閒視之。
+z_dummy_hv_TEXT_non_deployable.loc.tsv,The responsibility that comes with authority should not be taken lightly.,位高则必担重任，任重则不能轻举,權威帶來的責任絕不能等閒視之。
+hv_TEXT_etc.loc.tsv,These military supplies were pillaged after a successful siege.,这批军队补给在城镇陷落后被抢走了,圍城成功後，我軍奪得了軍事物資補給。
+hv_TEXT_etc.loc.tsv,These military supplies were pillaged after a successful siege.,这批军队补给在城镇陷落后被抢走了。,圍城成功後，我軍奪得了軍事物資補給。
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,These words will bring shame and humiliation.,闻此詈语，无不羞愧,這樣的話語會帶來羞愧與恥辱。
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,These words will bring shame and humiliation.,闻此詈语，无不羞愧。,這樣的話語會帶來羞愧與恥辱。
+hv_TEXT_effects_pooled_resource.loc.tsv,"This city is bustling with activity, its diverse population living their lives and plying their trades day-to-day.",该城人声鼎沸，四民生息不绝，日日经营买卖,此城熱鬧非凡，各行各業的居民汲汲營營於每日生計。
+hv_TEXT_effects_pooled_resource.loc.tsv,"This city is bustling with activity, its diverse population living their lives and plying their trades day-to-day.",该城人声鼎沸，四民生息不绝，日日经营买卖。,此城熱鬧非凡，各行各業的居民汲汲營營於每日生計。
+hv_TEXT_effects_pooled_resource.loc.tsv,"This metropolis is marvellous to behold, a dense and vibrant collection of interesting people and wondrous places.",名城可谓叹为观止，奇人异士汇聚其中，妙宅名胜林立其内,此都會不乏奇人異士和名勝古蹟，見者無不嘖嘖稱奇。
+hv_TEXT_effects_pooled_resource.loc.tsv,"This metropolis is marvellous to behold, a dense and vibrant collection of interesting people and wondrous places.",名城可谓叹为观止，奇人异士汇聚其中，妙宅名胜林立其内。,此都會不乏奇人異士和名勝古蹟，見者無不嘖嘖稱奇。
+hv_TEXT_effects_pooled_resource.loc.tsv,This town hums with an energy befitting a small yet well-established settlement.,此镇充满活力，可谓麻雀虽小五脏俱全,此鎮麻雀雖小但五臟俱全，一片朝氣蓬勃的景況。
+hv_TEXT_effects_pooled_resource.loc.tsv,This town hums with an energy befitting a small yet well-established settlement.,此镇充满活力，可谓麻雀虽小五脏俱全。,此鎮麻雀雖小但五臟俱全，一片朝氣蓬勃的景況。
+hv_TEXT_effects_pooled_resource.loc.tsv,"This town is busy with the comings and goings of merchants, artisans and nobles alike.",商旅匠人，名士贵族往来不绝，此镇因而繁荣,此鎮常見商販百工和鄉紳大戶熙來攘往，好不熱鬧。
+hv_TEXT_effects_pooled_resource.loc.tsv,"This town is busy with the comings and goings of merchants, artisans and nobles alike.",商旅匠人，名士贵族往来不绝，此镇因而繁荣。,此鎮常見商販百工和鄉紳大戶熙來攘往，好不熱鬧。
+hv_TEXT_effects_pooled_resource.loc.tsv,This village is a meagre yet promising community of commoners and artisans.,百姓匠人寄身于此，该村虽不富裕，但颇有前途,此村不過幾戶人家和工匠，但卻大有可為。
+hv_TEXT_effects_pooled_resource.loc.tsv,This village is a meagre yet promising community of commoners and artisans.,百姓匠人寄身于此，该村虽不富裕，但颇有前途。,此村不過幾戶人家和工匠，但卻大有可為。
+hv_TEXT_effects_pooled_resource.loc.tsv,This village is but a scattered collection of country homes and hovels.,茅庐草舍，散布村中,此村除了零星幾處民居茅舍之外，別無他物。
+hv_TEXT_effects_pooled_resource.loc.tsv,This village is but a scattered collection of country homes and hovels.,茅庐草舍，散布村中。,此村除了零星幾處民居茅舍之外，別無他物。
+[05]__MTU_sys__Names.loc.tsv,Tu,图,圖
+[05]__MTU_sys__Names.loc.tsv,Tu,土,土
+[05]__MTU_sys__Names.loc.tsv,Tu,突,突
+hv_TEXT_cb_loadout.loc.tsv,Tyrant,弄权乱臣,暴君
+hv_TEXT_cb_loadout.loc.tsv,Tyrant,暴君,暴君
+hv_TEXT_cb_loadout.loc.tsv,Tyrant,负国欺天,暴君
+hv_TEXT_skills_basic.loc.tsv,Understanding,深谙人情,將心比心
+hv_TEXT_skills_basic.loc.tsv,Understanding,理解,將心比心
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,Upon nearby enemy unit routing nearby own units recieve a morale buff.,当附近敌方单位溃逃时，附近我方单位获得士气提升。,周遭敵軍單位潰逃時，賦予周遭我方單位士氣增強效果。
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,Upon nearby enemy unit routing nearby own units recieve a morale buff.,敌众溃散之时，三军振奋，追战愈勇。,周遭敵軍單位潰逃時，賦予周遭我方單位士氣增強效果。
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,Vengeance,睚眦,報仇雪恨
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,Vengeance,睚眦,有仇必報
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,Vengeance,誓仇,報仇雪恨
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,前将军,諸侯
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,卫将军,諸侯
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,大将军,諸侯
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,奋武将军,諸侯
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,安羌将军,諸侯
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,宣威将军,諸侯
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,左将军,諸侯
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,平西将军,諸侯
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,建昌都尉,諸侯
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,征北大将军,諸侯
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,抚军大将军,諸侯
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,枭姬,諸侯
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,渠帅,諸侯
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,白虎,賊首
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,盗魁,諸侯
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,西陲伏波,諸侯
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,讨虏将军,諸侯
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,讨逆将军,諸侯
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,豫州刺史,諸侯
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,辅国将军,諸侯
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,镇军大将军,諸侯
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,镇南将军,諸侯
+[01]__MTU_generals__Water_strategist.loc.tsv,Warlord,飞燕,諸侯
+hv_TEXT_cb_loadout.loc.tsv,Warrior Without Equal,无双猛士,武藝無雙
+hv_TEXT_cb_loadout.loc.tsv,Warrior Without Equal,无双飞将,武藝無雙
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,Way of the Wind,风之道,飄風之道
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,Way of the Wind,风道,預測風向
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,Whitewater,习谋,激流湧升
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,Whitewater,湍流,激流湧升
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,"With a mighty sweep, Lü Bu strikes all around him.",画戟猛烈地横扫，打击吕布周围的所有敌人,呂布猛力一擊，徹底掃平周遭一眾敵軍
+hv_TEXT_skills_skill_skill_name_desc.loc.tsv,"With a mighty sweep, Lü Bu strikes all around him.",画戟猛烈地横扫，打击吕布周围的所有敌人,呂布猛力一擊，徹底掃平周遭一眾敵軍。
+[05]__MTU_sys__Names.loc.tsv,Yuan,元,元
+[05]__MTU_sys__Names.loc.tsv,Yuan,原,原
+[05]__MTU_sys__Names.loc.tsv,Yuan,员,員
+[05]__MTU_sys__Names.loc.tsv,Yuan,掾,掾
+[05]__MTU_sys__Names.loc.tsv,Yuan,援,援
+[05]__MTU_sys__Names.loc.tsv,Yuan,渊,淵
+[05]__MTU_sys__Names.loc.tsv,Yuan,爰,爰
+[05]__MTU_sys__Names.loc.tsv,Yuan,玉安,玉安
+[05]__MTU_sys__Names.loc.tsv,Yuan,缘,緣
+[05]__MTU_sys__Names.loc.tsv,Yuan,苑,苑
+[05]__MTU_sys__Names.loc.tsv,Yuan,袁,袁
+[05]__MTU_sys__Names.loc.tsv,Yuan,远,遠
+hv_TEXT_cb_loadout.loc.tsv,Yuan Shao,联盟将倾,袁紹
+hv_TEXT_cb_loadout.loc.tsv,Yuan Shao,袁绍,袁紹
+hv_TEXT_cb_loadout.loc.tsv,Yuan Shao,,
+hv_TEXT_cb_loadout.loc.tsv,Zhou Yu,周瑜,周瑜
+hv_TEXT_cb_loadout.loc.tsv,Zhou Yu,英杰周瑜,周瑜
+hv_TEXT_cb_loadout.loc.tsv,Zhuge Liang,诸葛亮,諸葛亮
+hv_TEXT_cb_loadout.loc.tsv,Zhuge Liang,诸葛亮,諸葛亮
+hv_TEXT_skills_attributes.loc.tsv,[[b]]%+n%[[/b]] character experience,[[b]]%+n%[[/b]]人物经验,人物經驗[[b]]%+n%[[/b]]
+hv_TEXT_skills_attributes.loc.tsv,[[b]]%+n%[[/b]] character experience,人物经验[[b]]%+n%[[/b]],人物經驗[[b]]%+n%[[/b]]
+hv_TEXT_events_rules.loc.tsv,[[b]]%+n[[/b]] construction time,建造时间[[b]]%+n[[/b]],建造時間[[b]]%+n[[/b]]
+hv_TEXT_events_rules.loc.tsv,[[b]]%+n[[/b]] construction time,,
+hv_TEXT_skills_attributes.loc.tsv,[[b]]%+n[[/b]] melee evasion,近战闪避[[b]]%+n[[/b]],近戰迴避[[b]]%+n[[/b]]
+hv_TEXT_skills_attributes.loc.tsv,[[b]]%+n[[/b]] melee evasion,,
+hv_TEXT_events_rules.loc.tsv,[[b]]%+n[[/b]] {{tr:public_order}},[[b]]%+n[[/b]] {{tr:public_order}},[[b]]%+n[[/b]] {{tr:public_order}}
+hv_TEXT_events_rules.loc.tsv,[[b]]%+n[[/b]] {{tr:public_order}},[[b]]%+n[[/b]] {{tr:public_order}},{{tr:public_order}}[[b]]%+n[[/b]]
+hv_TEXT_events_rules.loc.tsv,[[b]]%+n[[/b]] {{tr:public_order}},{{tr:public_order}}[[b]]%+n[[/b]],{{tr:public_order}}[[b]]%+n[[/b]]

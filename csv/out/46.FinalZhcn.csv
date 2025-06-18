@@ -257,7 +257,7 @@ cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubin
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_buddaFIRST,支持他们,False
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_buddaSECOND,置之不理,False
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_cai_yanFIRST,接受,False
-cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_cai_yanSECOND,拒绝,False
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_cai_yanSECOND,不可滥用国库！,False
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc05FIRST,收留她,False
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc05SECOND,杀了她,False
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc07FIRST,收留她,True
@@ -267,9 +267,9 @@ cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_empire_rule
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_guan_pingFIRST,接受,False
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_guan_pingSECOND,拒绝,False
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_ji_ling_zhang_xun_dlc07FIRST,接受,False
-cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_ji_ling_zhang_xun_dlc07SECOND,拒绝,False
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_ji_ling_zhang_xun_dlc07SECOND,拒绝他们,False
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_lu_ji_dlc07FIRST,接受,False
-cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_lu_ji_dlc07SECOND,拒绝,False
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_lu_ji_dlc07SECOND,拒绝他们,False
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_northern_army_introFIRST,你需要提高你的声望！,False
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_sogdFIRST,雇佣粟特佣兵,False
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_sogdFOURTH,买剑,False
@@ -600,7 +600,7 @@ ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_xiao_qiao_01,仲氏公主
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_zhang_jinglan_01,黑山母主,True
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_zhang_xingcai_01,敬哀皇后,True
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_zou_yuan_01,荆州夫人,False
-ceo_nodes_title_3k_mtu_ceo_node_career_historical_luo_jun_01,百姓卫士,True
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_luo_jun_01,百姓守护,True
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_qu_gong_01,独眼山贼,True
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_wu_anguo_01,独臂虎熊,True
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_yan_xiang_01,贤达哲士,True
@@ -627,7 +627,7 @@ ceo_nodes_title_hv_ancillary_sogd_officer,粟特士官,True
 ceo_nodes_title_hv_ancillary_weapon_khanda,坎达直剑,True
 ceo_nodes_title_hv_ancillary_white_horse_fellows_officer,白马义从士官,True
 ceo_nodes_title_hv_ancillary_yuan_officer,袁氏士官,True
-ceo_nodes_title_hv_ceo_node_career_historical_chen_deng_01,日月精忠,True
+ceo_nodes_title_hv_ceo_node_career_historical_chen_deng_01,湖海之士,True
 ceo_nodes_title_hv_ceo_node_career_historical_jiang_qin_01,荡寇将军,True
 ceo_nodes_title_hv_ceo_node_career_historical_yuan_yao_01,袁术之子,True
 ceo_nodes_title_hv_ceo_node_career_non_deployable_liu_limin,躬亲主母,True
@@ -750,7 +750,7 @@ character_skills_localised_description_hv_historical_skill_ability_healer_03,兄
 character_skills_localised_description_hv_historical_skill_ability_metal_01,同袍兄弟，狂呼迎战,True
 character_skills_localised_description_hv_historical_skill_ability_metal_02,此人行动迅如狡兔，万军擒拿亦若无物。,True
 character_skills_localised_description_hv_historical_skill_ability_metal_03,敬爱山林，林即如家，山是前路。,True
-character_skills_localised_description_hv_historical_skill_ability_scholar_01,上观则为天，深察则为妙,True
+character_skills_localised_description_hv_historical_skill_ability_scholar_01,上观则为天，深察则为妙。,True
 character_skills_localised_description_hv_historical_skill_ability_scholar_02,凭地利，如披坚甲，箭若无物。,True
 character_skills_localised_description_hv_historical_skill_ability_scholar_03,精妙一击，宁缺毋滥,True
 character_skills_localised_description_hv_historical_skill_ability_veteran_01,敬爱山林，林即如家，山是前路。,True
@@ -901,7 +901,7 @@ character_skills_localised_description_hv_skill_ability_nature_s_ally_authority,
 character_skills_localised_description_hv_skill_ability_nature_s_ally_cunning,敬爱山林，林即如家，山是前路。,True
 character_skills_localised_description_hv_skill_ability_nature_s_ally_resolve,敬爱山林，林即如家，山是前路。,True
 character_skills_localised_description_hv_skill_ability_oil_bomb_cunning,扔掷易燃油罐至目标敌人。,True
-character_skills_localised_description_hv_skill_ability_one_with_heaven,上观则为天，深察则为妙,True
+character_skills_localised_description_hv_skill_ability_one_with_heaven,上观则为天，深察则为妙。,True
 character_skills_localised_description_hv_skill_ability_one_with_the_land,劳于地者必亲之,True
 character_skills_localised_description_hv_skill_ability_one_with_the_people,兄弟不弃，可谓安心,True
 character_skills_localised_description_hv_skill_ability_order_of_tyrant_authority,傲慢即信心所在。,True
@@ -2328,14 +2328,14 @@ character_skills_localised_name_hv_skill_non_deployable_wood_1,决心,True
 character_skills_localised_name_hv_skill_non_deployable_wood_2,决心,True
 character_skills_localised_name_hv_skill_wood_mobilization,动员,True
 custom_battle_loadouts_name_3k_main_custom_battle_loadout_lady_diao_chan_01,夫人,True
-custom_battle_loadouts_name_3k_main_custom_battle_loadout_lady_diao_chan_02,女杰,True
+custom_battle_loadouts_name_3k_main_custom_battle_loadout_lady_diao_chan_02,女王,True
 custom_battle_loadouts_name_3k_main_custom_battle_loadout_lady_diao_chan_03,皇后,True
 custom_battle_loadouts_name_3k_main_custom_battle_loadout_test,伯长,False
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_chunyu_qiong_01,别部司马,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_chunyu_qiong_02,都尉,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_chunyu_qiong_01,都督,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_chunyu_qiong_02,都督,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_chunyu_qiong_03,西园校尉,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_dong_min_01,别部司马,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_dong_min_02,将军,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_dong_min_01,都督,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_dong_min_02,将领,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_dong_min_03,暴君,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_gongsun_jinting_01,军师,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_gongsun_jinting_02,军师,True
@@ -2343,71 +2343,71 @@ custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_gongsun_jinting_03,皇�
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_hua_xin_01,举孝廉,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_hua_xin_02,尚书令,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_hua_xin_03,魏氏三公,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_jian_yong_01,说客,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_jian_yong_01,随从,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_jian_yong_02,好友,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_jian_yong_03,昭德将军,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_cai_yan_01,俘虏,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_cai_yan_02,才女,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_cai_yan_03,文学家,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_da_qiao_01,夫人,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_da_qiao_02,女杰,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_da_qiao_02,女王,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_da_qiao_03,皇后,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_dong_bai_01,孺人,False
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_dong_bai_02,夫人,False
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_dong_bai_03,渭阳君,False
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_dong_peishan_01,夫人,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_dong_peishan_02,女杰,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_dong_peishan_02,女王,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_dong_peishan_03,皇后,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_du_01,夫人,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_du_02,女杰,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_du_02,女王,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_du_03,沛王太妃,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_lu_ji_01,别部司马,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_lu_ji_01,都督,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_lu_ji_02,将领,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_lu_ji_03,飞将之女,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_lu_zheng_01,贼徒,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_lu_zheng_02,诸侯,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_lu_zheng_03,贼首,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_lanli_01,别部司马,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_lanli_02,将军,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_lanli_01,都督,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_lanli_02,将领,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_lanli_03,西羌女杰,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_yunlu_01,别部司马,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_yunlu_02,将军,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_yunlu_01,都督,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_yunlu_02,将领,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_yunlu_03,敦煌公主,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_trieu_01,别部司马,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_trieu_01,都督,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_trieu_02,九真盗贼,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_trieu_03,骆越之光,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_wang_liting_01,夫人,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_wang_liting_02,女杰,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_wang_liting_02,女王,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_wang_liting_03,女杰,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_wu_minyu_01,夫人,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_wu_minyu_02,女杰,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_wu_minyu_02,女王,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_wu_minyu_03,武烈皇后,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_xiao_qiao_01,夫人,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_xiao_qiao_02,女杰,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_xiao_qiao_02,女王,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_xiao_qiao_03,仲氏公主,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_jinglan_01,贼徒,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_jinglan_02,凶犯,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_jinglan_03,贼首,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_xingcai_01,别部司马,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_xingcai_02,将军,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_xingcai_01,都督,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_xingcai_02,将领,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_xingcai_03,敬哀皇后,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zou_yuan_01,荆州夫人,False
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zou_yuan_02,荆州夫人,False
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zou_yuan_03,荆州夫人,False
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_luo_jun_01,将军,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_luo_jun_01,将领,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_luo_jun_02,将领,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_luo_jun_03,陈郡守卫,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_shen_pei_01,别部司马,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_shen_pei_02,将军,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_luo_jun_03,百姓守护,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_shen_pei_01,都督,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_shen_pei_02,将领,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_shen_pei_03,良将,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_wu_anguo_01,别部司马,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_wu_anguo_02,将军,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_wu_anguo_01,都督,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_wu_anguo_02,将领,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_wu_anguo_03,良将,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_yan_xiang_01,谋士,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_yan_xiang_02,主簿,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_yan_xiang_03,贤达哲士,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_zhang_xun_01,别部司马,True
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_zhang_xun_02,将军,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_zhang_xun_01,都督,True
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_zhang_xun_02,将领,True
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_zhang_xun_03,大将军,True
 custom_battle_loadouts_name_hv_cb_loadout_cao_cao_01,曹操,False
 custom_battle_loadouts_name_hv_cb_loadout_cao_cao_02,魏武帝,False
@@ -2455,7 +2455,7 @@ custom_battle_loadouts_name_hv_cb_loadout_lady_trieu_02,赵妪[[img:unit_elephan
 custom_battle_loadouts_name_hv_cb_loadout_lady_zhurong_01,祝融夫人,False
 custom_battle_loadouts_name_hv_cb_loadout_lady_zhurong_02,祝融夫人[[img:unit_elephant]][[/img]],False
 custom_battle_loadouts_name_hv_cb_loadout_li_ru_01,李儒,False
-custom_battle_loadouts_name_hv_cb_loadout_liu_bei_01,同窗玄德,False
+custom_battle_loadouts_name_hv_cb_loadout_liu_bei_01,刘备,False
 custom_battle_loadouts_name_hv_cb_loadout_liu_bei_02,昭烈帝,False
 custom_battle_loadouts_name_hv_cb_loadout_liu_biao_01,刘表,False
 custom_battle_loadouts_name_hv_cb_loadout_liu_biao_02,州牧,False
@@ -2476,7 +2476,7 @@ custom_battle_loadouts_name_hv_cb_loadout_qu_gong_01,瞿恭,False
 custom_battle_loadouts_name_hv_cb_loadout_shen_pei_01,审配,False
 custom_battle_loadouts_name_hv_cb_loadout_shi_xie_01,士燮,False
 custom_battle_loadouts_name_hv_cb_loadout_shi_xie_02,诸侯,False
-custom_battle_loadouts_name_hv_cb_loadout_sima_yi_01,司马仲达,False
+custom_battle_loadouts_name_hv_cb_loadout_sima_yi_01,司马懿,False
 custom_battle_loadouts_name_hv_cb_loadout_sun_ce_01,孙策,False
 custom_battle_loadouts_name_hv_cb_loadout_sun_ce_02,小霸王,False
 custom_battle_loadouts_name_hv_cb_loadout_sun_jian_01,孙坚,False
@@ -2518,7 +2518,7 @@ custom_battle_loadouts_name_hv_cb_loadout_zhao_yun_01,赵云,False
 custom_battle_loadouts_name_hv_cb_loadout_zheng_jiang_01,郑姜,False
 custom_battle_loadouts_name_hv_cb_loadout_zheng_jiang_02,魁首,False
 custom_battle_loadouts_name_hv_cb_loadout_zhou_tai_01,周泰,False
-custom_battle_loadouts_name_hv_cb_loadout_zhou_yu_01,英杰周瑜,False
+custom_battle_loadouts_name_hv_cb_loadout_zhou_yu_01,周瑜,False
 custom_battle_loadouts_name_hv_cb_loadout_zhuge_liang_01,诸葛亮,False
 dilemmas_localised_description_3k_dlc07_child_emperor_dilemma_imperial_ancestral_rites,即将举行的皇家祭祀仪式是朝中的一项重大活动。诏书要求您派文官去协助行政事务，或派武官去协助禁卫。如果您尽忠职守，朝廷会给予赏赐。拒不执行，则可能招致天子的不满。,False
 dilemmas_localised_description_3k_dlc07_child_emperor_dilemma_imperial_banquet,朝廷下达了一道诏书，将在皇宫设宴邀请天下有影响力的贵族。这恐怕是辅政大臣因为担心我们的影响力设下的计谋，但违背诏书可能会有严重后果……,False
@@ -2712,7 +2712,7 @@ effect_bundles_localised_description_hv_gov_3k_dlc07_effect_bundle_pooled_resour
 effect_bundles_localised_description_hv_gov_3k_dlc07_effect_bundle_pooled_resource_imperial_favour_80,天子对您的功绩甚是欣慰。或将给予您赏赐。,True
 effect_bundles_localised_description_hv_gov_3k_dlc07_effect_bundle_pooled_resource_imperial_favour_90,天子对您的功绩甚是欣慰。或将给予您赏赐。,True
 effect_bundles_localised_description_hv_pacify_penalty,消耗军事物资以稳定占领的据点。,True
-effect_bundles_localised_description_hv_pacify_penalty_yuan_shao,这批军队补给在城镇陷落后被抢走了,True
+effect_bundles_localised_description_hv_pacify_penalty_yuan_shao,这批军队补给在城镇陷落后被抢走了。,True
 effect_bundles_localised_description_hv_script_effect_bundle_dong_bai,没人欢迎他们，所有人都反而质疑你的决定。,True
 effect_bundles_localised_description_hv_script_effect_bundle_exodus,吕布的随从希望能迅速加入你麾下。我们可以考虑调兵的机会。,True
 effect_bundles_localised_description_hv_script_effect_bundle_lu_bu_legacy,吕布派系的余党加入了我方。,True
@@ -3054,7 +3054,7 @@ effects_description_hv_effect_replenishment_jingchou_army,荆楚部队补员速�
 effects_description_hv_effect_replenishment_northern_army,北军部队补员速率[[b]]%+n%[[/b]],False
 effects_description_hv_effect_replenishment_royal_guards,禁卫部队补员速率[[b]]%+n%[[/b]],False
 effects_description_hv_effect_replenishment_xiliang_army,西凉部队补员速率[[b]]%+n%[[/b]],True
-effects_description_hv_effect_rule_of_might_building_construction_time_mod,建造时间[[b]]%+n[[/b]],True
+effects_description_hv_effect_rule_of_might_building_construction_time_mod,建造时间 [[b]]%+n[[/b]],True
 effects_description_hv_effect_rule_of_might_character_salary,人物俸禄[[b]]%+n%[[/b]],True
 effects_description_hv_effect_rule_of_might_force_all_campaign_post_battle_loot_income,战后掳掠收入[[b]]%+n%[[/b]],True
 effects_description_hv_effect_rule_of_might_force_redeployment_cost,重新部署成本[[b]]%+n%[[/b]],True
@@ -3449,7 +3449,7 @@ effects_description_hv_frontend_description_specialisation_gongsun_zan_2,[[b]]�
 effects_description_hv_frontend_description_specialisation_gongsun_zan_3,[[b]]太守[[/b]]是官府中的职位。太守负责管理地方郡国，会为当地提供增益效果,False
 effects_description_hv_frontend_description_specialisation_gongsun_zan_4,[[b]]驻防军队[[/b]]是驻扎在城镇内的军队。在遭到攻击时，他们将加入当地驻军一起保卫城镇。,False
 effects_description_hv_frontend_description_specialisation_liu_chong_1,通过[[b]]赢得战役[[/b]]以及对[[b]]敌人[[/b]]造成比我方更大的[[b]]伤亡[[/b]]来提升你的[[b]]刚毅[[/b]]。,False
-effects_description_hv_frontend_description_specialisation_liu_chong_2,无论是从敌人倒下的尸体上获取，还是因英勇的行为被授予，这些[[b]]战利品[[/b]]都会给这一派系带来一项 [[b]]进攻策略[[/b]] 。,False
+effects_description_hv_frontend_description_specialisation_liu_chong_2,无论是从敌人倒下的尸体上获取，还是因英勇的行为被授予，这些[[b]]战利品[[/b]]都会给这一派系带来一项[[b]]进攻策略[[/b]] 。,False
 effects_description_hv_frontend_description_specialisation_liu_chong_3,[[b]]战利品[[/b]]可以陈列在[[b]]战利品宝库[[/b]]。每个[[b]]战利品[[/b]]在陈列时都会提供一种加成。,False
 effects_description_hv_frontend_description_specialisation_ma_teng_1,有良马才能有精骑。,False
 effects_description_hv_frontend_description_specialisation_ma_teng_2,[[b]]扎营[[/b]]状态可以使军队建立一个相对长久的营垒\\n\\n[[b]]粮食[[/b]]则是建立更大型城镇的必需品,False
@@ -3698,7 +3698,7 @@ incidents_localised_description_hv_northern_army_unlocked_yuan_shu,随着你近�
 incidents_localised_description_hv_northern_army_unlocked_yuan_shu_ai,掌管北军世兵的领军伯长现已效忠于袁术。这是支不可小觑的部队。,False
 incidents_localised_description_hv_northern_army_unlocked_yuan_shu_last,随着你近期的丰功伟业，督掌北军的中尉前来宣誓效忠于你，他所指挥的整支精良军队也一同前来，加入你的麾下。,False
 incidents_localised_description_hv_northern_army_unlocked_yuan_shu_mid,随着你近期的丰功伟业，督掌北军的中尉前来宣誓效忠于你，他所指挥的整支精良军队也一同前来，加入你的麾下。,False
-incidents_localised_description_mtu_historical_female_born_incident,喜报！宗族已喜得千金，此女将正式成为主公宗亲，但同侪兄弟的勾心斗角，怕是在所难免…,False
+incidents_localised_description_mtu_historical_female_born_incident,喜报！族中诞下一女！新生力量会使宗族强盛，但其同侪兄弟可能担心地位不保，故而也会心怀几分猜忌 ,False
 incidents_localised_description_mtu_historical_guan_xing_born_incident,恭贺关将军麟儿入拿，喜得贵子！此孩儿蕴藏的勇武英气与其关将军相比也不遑多让。关将军真有福气！,False
 incidents_localised_description_mtu_historical_guan_yinping_born_incident,恭贺关将军明珠入拿，喜得千金！此孩儿虽为女儿身，其蕴藏的勇武英气与其兄相比却也不遑多让。关将军真有福气！,False
 incidents_localised_description_mtu_historical_liu_shan_born_incident,恭贺主公麟儿入拿，喜得贵子！此孩儿蕴藏的勇武英气与其主公相比也不遑多让。主公真有福气！,False
@@ -3773,16 +3773,16 @@ incidents_localised_title_hv_northern_army_unlocked_yuan_shu,北军,False
 incidents_localised_title_hv_northern_army_unlocked_yuan_shu_ai,北军,False
 incidents_localised_title_hv_northern_army_unlocked_yuan_shu_last,北军,False
 incidents_localised_title_hv_northern_army_unlocked_yuan_shu_mid,北军,False
-incidents_localised_title_mtu_historical_female_born_incident,弄瓦之喜,False
+incidents_localised_title_mtu_historical_female_born_incident,出身名门,False
 incidents_localised_title_mtu_historical_guan_xing_born_incident,关羽喜得贵子,False
 incidents_localised_title_mtu_historical_guan_yinping_born_incident,关羽喜得千金,False
 incidents_localised_title_mtu_historical_liu_shan_born_incident,刘备喜得贵子,False
-incidents_localised_title_mtu_historical_male_born_incident,弄璋之喜,False
+incidents_localised_title_mtu_historical_male_born_incident,出身名门,False
 incidents_localised_title_mtu_historical_zhang_bao_born_incident,张飞喜得贵子,False
 incidents_localised_title_mtu_historical_zhang_xingcai_born_incident,张飞喜得千金,False
 incidents_localised_title_mtu_two_qiao_marry_incident_npc,二乔,True
 incidents_localised_title_mtu_two_qiao_marry_incident_pc,二乔,True
-incidents_localised_title_mtu_zhou_yu_spawns_incident,英杰周瑜,True
+incidents_localised_title_mtu_zhou_yu_spawns_incident,周瑜,True
 incidents_localised_title_mtu_zhu_sisters_robbery_incident,乱臣贼子,True
 land_units_onscreen_name_3k_dlc07_hv_unit_northern_elite_2h_sword_infantry,{{tr:3k_dlc07_hv_unit_northern_elite_2h_sword_infantry}},True
 land_units_onscreen_name_3k_dlc07_unit_earth_northern_sabre_cavalry,{{tr:3k_dlc07_unit_earth_northern_sabre_cavalry}},True
@@ -4147,7 +4147,7 @@ names_alt_name_1289534361,崩,False
 names_alt_name_1479868341,氏,False
 names_alt_name_1770238896,土,False
 names_alt_name_528608323,国达,False
-names_alt_name_60007,云禄,False
+names_alt_name_60007,雲騄,False
 names_alt_name_622849696,氏,False
 names_alt_name_785834225,赵妪,False
 names_alt_name_962851362,安国,False
@@ -4156,39 +4156,39 @@ names_name_1289534361,崩,False
 names_name_1479868341,氏,False
 names_name_1770238896,土,False
 names_name_528608323,国达,False
-names_name_60007,云禄,False
+names_name_60007,云騄,False
 names_name_622849696,氏,False
 names_name_785834225,赵妪,False
 names_name_962851362,安国,False
 pooled_resource_factors_display_name_negative_hv_pooled_factor_army_stockpiles,军队,True
-pooled_resource_factors_display_name_negative_hv_pooled_factor_gongsun_zan,减少,False
+pooled_resource_factors_display_name_negative_hv_pooled_factor_gongsun_zan,降低,False
 pooled_resource_factors_display_name_negative_hv_pooled_factor_gongsun_zan_buildings,建筑,False
 pooled_resource_factors_display_name_negative_hv_pooled_factor_gongsun_zan_decay,衰减,False
 pooled_resource_factors_display_name_negative_hv_pooled_factor_gongsun_zan_defeat,失败,False
 pooled_resource_factors_display_name_negative_hv_pooled_factor_gongsun_zan_garrison,军队,False
-pooled_resource_factors_display_name_negative_hv_pooled_factor_ma_teng,减少,False
+pooled_resource_factors_display_name_negative_hv_pooled_factor_ma_teng,降低,False
 pooled_resource_factors_display_name_negative_hv_pooled_factor_ma_teng_assignments,差事,False
 pooled_resource_factors_display_name_negative_hv_pooled_factor_ma_teng_buildings,建筑,False
 pooled_resource_factors_display_name_negative_hv_pooled_factor_ma_teng_decay,衰减,False
-pooled_resource_factors_display_name_negative_hv_pooled_factor_ytr,减少,False
+pooled_resource_factors_display_name_negative_hv_pooled_factor_ytr,降低,False
 pooled_resource_factors_display_name_negative_hv_pooled_factor_ytr_decay,衰减,False
 pooled_resource_factors_display_name_negative_hv_pooled_factor_ytr_population,人口,False
-pooled_resource_factors_display_name_negative_hv_pooled_factor_zhang_yan,减少,False
+pooled_resource_factors_display_name_negative_hv_pooled_factor_zhang_yan,降低,False
 pooled_resource_factors_display_name_negative_hv_pooled_factor_zhang_yan_buildings,建筑,False
 pooled_resource_factors_display_name_negative_hv_pooled_factor_zhang_yan_decay,衰减,False
-pooled_resource_factors_display_name_positive_hv_pooled_factor_gongsun_zan,增加,False
+pooled_resource_factors_display_name_positive_hv_pooled_factor_gongsun_zan,提升,False
 pooled_resource_factors_display_name_positive_hv_pooled_factor_gongsun_zan_buildings,建筑,False
 pooled_resource_factors_display_name_positive_hv_pooled_factor_gongsun_zan_decay,衰减,False
 pooled_resource_factors_display_name_positive_hv_pooled_factor_gongsun_zan_defeat,失败,False
 pooled_resource_factors_display_name_positive_hv_pooled_factor_gongsun_zan_garrison,军队,False
-pooled_resource_factors_display_name_positive_hv_pooled_factor_ma_teng,增加,False
+pooled_resource_factors_display_name_positive_hv_pooled_factor_ma_teng,提升,False
 pooled_resource_factors_display_name_positive_hv_pooled_factor_ma_teng_assignments,差事,False
 pooled_resource_factors_display_name_positive_hv_pooled_factor_ma_teng_buildings,建筑,False
 pooled_resource_factors_display_name_positive_hv_pooled_factor_ma_teng_decay,衰减,False
-pooled_resource_factors_display_name_positive_hv_pooled_factor_ytr,增加,False
+pooled_resource_factors_display_name_positive_hv_pooled_factor_ytr,提升,False
 pooled_resource_factors_display_name_positive_hv_pooled_factor_ytr_decay,衰减,False
 pooled_resource_factors_display_name_positive_hv_pooled_factor_ytr_population,人口,False
-pooled_resource_factors_display_name_positive_hv_pooled_factor_zhang_yan,增加,False
+pooled_resource_factors_display_name_positive_hv_pooled_factor_zhang_yan,提升,False
 pooled_resource_factors_display_name_positive_hv_pooled_factor_zhang_yan_buildings,建筑,False
 pooled_resource_factors_display_name_positive_hv_pooled_factor_zhang_yan_decay,衰减,False
 pooled_resources_description_hv_pooled_resource_gongsun_zan,严政方能定乱。,False
@@ -4203,12 +4203,12 @@ pooled_resources_foreign_diplomacy_view_tooltip_hv_pooled_resource_gongsun_zan,�
 pooled_resources_foreign_diplomacy_view_tooltip_hv_pooled_resource_ma_teng,养育大宛马来装备骑兵部队。,False
 pooled_resources_foreign_diplomacy_view_tooltip_hv_pooled_resource_ytr,黄巾之势必将再次席卷天下。,False
 pooled_resources_foreign_diplomacy_view_tooltip_hv_pooled_resource_zhang_yan,黑山贼乘乱以增其之数。,False
-pooled_resources_negative_factors_display_name_hv_pooled_resource_ma_teng,减少,False
-pooled_resources_negative_factors_display_name_hv_pooled_resource_ytr,减少,False
-pooled_resources_negative_factors_display_name_hv_pooled_resource_zhang_yan,减少,False
-pooled_resources_positive_factors_display_name_hv_pooled_resource_ma_teng,增加,False
-pooled_resources_positive_factors_display_name_hv_pooled_resource_ytr,增加,False
-pooled_resources_positive_factors_display_name_hv_pooled_resource_zhang_yan,增加,False
+pooled_resources_negative_factors_display_name_hv_pooled_resource_ma_teng,降低,False
+pooled_resources_negative_factors_display_name_hv_pooled_resource_ytr,降低,False
+pooled_resources_negative_factors_display_name_hv_pooled_resource_zhang_yan,降低,False
+pooled_resources_positive_factors_display_name_hv_pooled_resource_ma_teng,提升,False
+pooled_resources_positive_factors_display_name_hv_pooled_resource_ytr,提升,False
+pooled_resources_positive_factors_display_name_hv_pooled_resource_zhang_yan,提升,False
 projectile_shot_type_enum_onscreen_name_small_arm_whistling,速射,False
 projectile_shot_type_enum_tooltip_text_small_arm_whistling,造成伤害较低，准确率也降低，但可压制目标。,False
 random_localisation_strings_string_resistance_fire_tooltip,火焰抗性：％d %% ||降低火焰造成的伤害数值。,True
@@ -4652,7 +4652,7 @@ ui_text_replacements_localised_text_hv_unit_fellows_of_the_oath,结义弟兄,Tru
 ui_text_replacements_localised_text_hv_unit_goshawk_cavalry,苍鹰突骑,True
 ui_text_replacements_localised_text_hv_unit_guanxibing_spearmen,关西矛兵,True
 ui_text_replacements_localised_text_hv_unit_guanxibing_swordsmen,关西剑兵,True
-ui_text_replacements_localised_text_hv_unit_han_captain,伯长,True
+ui_text_replacements_localised_text_hv_unit_han_captain,校尉,True
 ui_text_replacements_localised_text_hv_unit_han_volunteer_rep_crossbowmen,州属连弩手,True
 ui_text_replacements_localised_text_hv_unit_han_volunteer_spearmen,州属矛兵,True
 ui_text_replacements_localised_text_hv_unit_handmaid_guard,护卫侍女,True
@@ -6417,7 +6417,7 @@ unit_abilities_tooltip_text_hv_ability_messenger_recovery,信念可带来奇迹�
 unit_abilities_tooltip_text_hv_ability_moment_of_courage,勇气与精力皆以重振。,True
 unit_abilities_tooltip_text_hv_ability_mortal_strike,可发出非常有力的一击。,True
 unit_abilities_tooltip_text_hv_ability_oil_bomb,扔掷易燃油罐至目标敌人。,True
-unit_abilities_tooltip_text_hv_ability_one_with_heaven,上观则为天，深察则为妙,True
+unit_abilities_tooltip_text_hv_ability_one_with_heaven,上观则为天，深察则为妙。,True
 unit_abilities_tooltip_text_hv_ability_one_with_the_land,劳于地者必亲之,True
 unit_abilities_tooltip_text_hv_ability_one_with_the_people,兄弟不弃，可谓安心,True
 unit_abilities_tooltip_text_hv_ability_order_of_tyrant,傲慢即信心所在。,True
@@ -6497,7 +6497,7 @@ unit_abilities_tooltip_text_hv_historical_ability_healer_03,兄弟不弃，可�
 unit_abilities_tooltip_text_hv_historical_ability_metal_01,同袍兄弟，狂呼迎战,True
 unit_abilities_tooltip_text_hv_historical_ability_metal_02,此人行动迅如狡兔，万军擒拿亦若无物。,True
 unit_abilities_tooltip_text_hv_historical_ability_metal_03,敬爱山林，林即如家，山是前路。,True
-unit_abilities_tooltip_text_hv_historical_ability_scholar_01,上观则为天，深察则为妙,True
+unit_abilities_tooltip_text_hv_historical_ability_scholar_01,上观则为天，深察则为妙。,True
 unit_abilities_tooltip_text_hv_historical_ability_scholar_02,凭地利，如披坚甲，箭若无物。,True
 unit_abilities_tooltip_text_hv_historical_ability_scholar_03,精妙一击，宁缺毋滥,True
 unit_abilities_tooltip_text_hv_historical_ability_veteran_01,敬爱山林，林即如家，山是前路。,True
@@ -7338,7 +7338,7 @@ unit_description_historical_texts_text_hv_unit_white_tiger_guardsmen,未完成\\
 unit_description_historical_texts_text_hv_unit_white_tiger_warriors,未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）,True
 unit_description_historical_texts_text_hv_unit_wuhuan_barded_cavalry,未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）,True
 unit_description_historical_texts_text_hv_unit_wuhuan_cavalry,未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）,True
-unit_description_historical_texts_text_hv_unit_xian_chen_ying,孙子有云：“围师遗阙，穷寇勿迫“，说的是一旦敌人被完全包围，就会因绝望而作困兽之斗。但对于高顺和他手下的陷阵死士来说，即便被敌人四面包围，他们也不会感到绝望，而是会继续厮杀不休。\\n\\n陷阵死士们不但长于撕碎敌人的阵型，也能做到在被敌人包围时顽强奋战。就算尸骸满地，陷阵营也能杀出重围，胜利而归。 ,True
+unit_description_historical_texts_text_hv_unit_xian_chen_ying,孙子有云：“围师遗阙，穷寇勿迫“，说的是一旦敌人被完全包围，就会因绝望而作困兽之斗。但对于高顺和他手下的陷阵死士来说，即便被敌人四面包围，他们也不会感到绝望，而是会继续厮杀不休。\\n\\n陷阵死士们不但长于撕碎敌人的阵型，也能做到在被敌人包围时顽强奋战。就算尸骸满地，陷阵营也能杀出重围，胜利而归。,True
 unit_description_historical_texts_text_hv_unit_xianbei_archer_cavalry,未完成\\n\\n（请于MTU的Discord里TROM频道提出建议）,True
 unit_description_historical_texts_text_hv_unit_xiliang_buqu_archer_cavalry,一边是长城的阴影，另一边是草原各部落，西凉民族必须纪律严明，艰苦奋斗。而西凉士兵则必须加倍做到。\\n\\n勇敢而老练的西凉军是大多数军阀羡慕的对象，也是西凉军将领的骄傲。\\n\\n这些马弓手会模仿他们经常面对的草原部落的战术，可以熟练地边射边跑。他们将攻击敌人最薄弱的地方，同时会保持距离，没有弓弩便无法伤害他们。,True
 unit_description_historical_texts_text_hv_unit_xiliang_buqu_crossbowmen,一边是长城的阴影，另一边是草原各部落，西凉民族必须纪律严明，艰苦奋斗。而西凉士兵则必须加倍做到。\\n\\n勇敢而老练的西凉军是大多数军阀羡慕的对象，也是西凉军将领的骄傲。\\n\\n这些士兵手持弓弩，向敌人发射大量穿甲箭矢。聪明的将军会用矛兵支持他们，因为他们是敌人骑兵的主要目标。,True

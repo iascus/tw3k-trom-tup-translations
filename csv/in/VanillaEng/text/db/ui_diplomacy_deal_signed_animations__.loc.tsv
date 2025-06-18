@@ -1,0 +1,5 @@
+key	text	tooltip
+#Loc;1;text/db/ui_diplomacy_deal_signed_animations__.loc		
+ui_diplomacy_deal_signed_animations_localised_text_break_deal	DEAL BROKEN!	false
+ui_diplomacy_deal_signed_animations_localised_text_war	WAR!	false
+ui_diplomacy_deal_signed_animations_localised_text_standard_signed	DEAL SIGNED	false

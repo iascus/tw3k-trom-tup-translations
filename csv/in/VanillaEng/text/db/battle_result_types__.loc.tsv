@@ -1,0 +1,22 @@
+key	text	tooltip
+#Loc;1;text/db/battle_result_types__.loc		
+battle_result_types_result_screen_name_decisive_victory	Decisive Victory	false
+battle_result_types_result_description_valiant_defeat	Your defeat is one of honour and integrity - you have drawn the blood of many an enemy! They limp away from their victory exhausted, and cautious...	false
+battle_result_types_result_description_decisive_victory	There can be no doubt in your victory here today! The enemy is scattered, and your forces have conducted themselves with honour; heaven smiles on your endeavours!	false
+battle_result_types_result_screen_name_error_unknown	ERROR UNKNOWN	false
+battle_result_types_result_screen_name_draw	Draw	false
+battle_result_types_result_description_crushing_defeat	You may have lost with honour, but also with shame - your forces have been crushed! Now is the time to lick your wounds and consider your next move...	false
+battle_result_types_result_screen_name_close_defeat	Close Defeat	false
+battle_result_types_result_screen_name_crushing_defeat	Crushing Defeat	false
+battle_result_types_result_description_draw	You have fought one another to a standstill. There is no victory for either side. Yet there may be, in the future...	false
+battle_result_types_result_description_error_unknown	0	false
+battle_result_types_result_description_close_victory	You have claimed victory on the field at last, yet it was a close-fought thing; you cannot rest easy. There are those who do not respect a warlord who barely wins...	false
+battle_result_types_result_description_heroic_victory	Your victory is absolute - the remaining enemies flee in abject humiliation! It is up to you now whether to push this advantage or rest on your glorious achievement!	false
+battle_result_types_result_description_decisive_defeat	It is plain to see; your forces were roundly defeated. Hold your honour intact and pull your forces back. There will be other opportunities...	false
+battle_result_types_result_screen_name_decisive_defeat	Decisive Defeat	false
+battle_result_types_result_screen_name_pyrrhic_victory	Pyrrhic Victory	false
+battle_result_types_result_screen_name_close_victory	Close Victory	false
+battle_result_types_result_description_close_defeat	Victory was balanced on the edge of a blade, yet in the final moments your enemy managed to seize the day. However, heaven does not smile on such a result...	false
+battle_result_types_result_description_pyrrhic_victory	This victory is yours, but at what cost? The few who survive feel no glory in this success, only weary exhaustion and a nagging sense of dread...	false
+battle_result_types_result_screen_name_heroic_victory	Heroic Victory	false
+battle_result_types_result_screen_name_valiant_defeat	Valiant Defeat	false

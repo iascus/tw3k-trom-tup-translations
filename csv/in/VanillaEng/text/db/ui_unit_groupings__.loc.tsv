@@ -1,0 +1,76 @@
+key	text	tooltip
+#Loc;1;text/db/ui_unit_groupings__.loc		
+ui_unit_groupings_tooltip_3k_dlc04_emperor_dummy	Ruler of the Han Empire. Cannot be deployed in battles.	false
+ui_unit_groupings_onscreen_3k_main_hero_metal	Sentinel	false
+ui_unit_groupings_onscreen_3k_main_unit_glaive_infantry_metal	Glaive Infantry	false
+ui_unit_groupings_onscreen_3k_dlc06_hero_nanman	Nanman	false
+ui_unit_groupings_onscreen_3k_main_hero_strategist_water	Strategist	false
+ui_unit_groupings_onscreen_3k_ytr_hero_veteran	Veteran	false
+ui_unit_groupings_tooltip_3k_main_unit_sword_infantry_metal	Excels at head-on assaults against the enemy frontline, but very vulnerable to cavalry charges.	false
+ui_unit_groupings_tooltip_3k_dlc06_unit_javelin_throwers_water	A javelin is made to fly free, from the grip of the warrior to the chest of the enemy in a single, fluid motion.	false
+ui_unit_groupings_tooltip_3k_main_unit_ranged_infantry_water	Excels at wearing down enemies without shields, but vulnerable in melee.	false
+ui_unit_groupings_onscreen_3k_main_unit_axe_cavalry_earth	Axe Cavalry	false
+ui_unit_groupings_onscreen_3k_main_unit_crossbow_infantry_water	Crossbow Infantry	false
+ui_unit_groupings_tooltip_3k_main_unit_ranged_cavalry_water	Excels at wearing down enemies without shields and keeping distance, but vulnerable in melee.	false
+ui_unit_groupings_tooltip_3k_dlc06_unit_blowpipes_water	A quick sting in the neck, then a light-headedness, then… nothing.	false
+ui_unit_groupings_tooltip_3k_ytr_hero_veteran	Excels at holding out against many enemies but susceptible to armour-piercing damage.	false
+ui_unit_groupings_tooltip_3k_main_unit_crossbow_repeating_infantry_water	Excels at attacking unarmoured opponents, but vulnerable in melee.	false
+ui_unit_groupings_onscreen_3k_dlc04_emperor_dummy	Emperor	false
+ui_unit_groupings_tooltip_3k_main_unit_glaive_infantry_wood	Very assault-oriented unit, but vulnerable to missile attacks.	false
+ui_unit_groupings_tooltip_3k_dlc06_unit_animal_handlers_water	The beasts of the land understand its flow; so too do their handlers.	false
+ui_unit_groupings_tooltip_3k_dlc06_unit_slingers_water	A rock may seem a simple thing, but in its brutal purpose it has few equals.	false
+ui_unit_groupings_onscreen_3k_main_unit_polearm_cavalry_fire	Halberd Cavalry	false
+ui_unit_groupings_tooltip_3k_main_unit_sword_cavalry_earth	Best used to counter missile units, but vulnerable in melee.	false
+ui_unit_groupings_onscreen_3k_dlc06_unit_juggernaut_water	Juggernaut	false
+ui_unit_groupings_tooltip_3k_dlc06_unit_animal_handlers_metal	To commune with the beasts is to inherit their strength.	false
+ui_unit_groupings_tooltip_3k_dlc04_unit_machine_crossbow_water	Excels at attacking unarmoured opponents, but vulnerable in melee.	false
+ui_unit_groupings_tooltip_3k_dlc06_unit_juggernaut_water	Though lacking the range of a catapult, the Juggernaut does not want for lack of short-range devastation.	false
+ui_unit_groupings_onscreen_3k_main_unit_polearm_infantry_metal	Halberd Infantry	false
+ui_unit_groupings_tooltip_3k_main_hero_wood	Best used to engage enemy generals; however, weaker against units. Best grouped with retinues of Spear Infantry and Glaive Infantry.	false
+ui_unit_groupings_onscreen_3k_main_unit_glaive_infantry_wood	Glaive Infantry	false
+ui_unit_groupings_onscreen_3k_ytr_hero_healer	Healer	false
+ui_unit_groupings_tooltip_3k_ytr_hero_healer	Excels at inspiring troops and fighting at range, but weaker in melee.	false
+ui_unit_groupings_tooltip_3k_main_unit_axe_cavalry_earth	Excels at attacking unarmoured opponents, but very vulnerable to cavalry charges.	false
+ui_unit_groupings_tooltip_3k_main_hero_fire	Excels at breaking through enemy troops; however, weaker against other generals. Best grouped with retinues of Shock Cavalry and Polearm Cavalry.	false
+ui_unit_groupings_onscreen_3k_main_hero_wood	Champion	false
+ui_unit_groupings_tooltip_3k_main_unit_artillery_water	Excels at breaking down walls and igniting buildings, but extremely vulnerable against any attacks.	false
+ui_unit_groupings_tooltip_3k_ytr_hero_scholar	Excels at engaging enemy generals and highly-skilled foes but easily overwhelmed.	false
+ui_unit_groupings_tooltip_3k_main_unit_polearm_infantry_metal	Excels at attacking unarmoured opponents, but vulnerable to missile attacks.	false
+ui_unit_groupings_onscreen_3k_dlc06_unit_elephant_water	Elephants	false
+ui_unit_groupings_onscreen_3k_main_unit_crossbow_repeating_infantry_water	Crossbow Infantry	false
+ui_unit_groupings_tooltip_3k_main_hero_metal	Excels at locking down enemy generals or holding a chokepoint for a long period of time. Best grouped with a retinue of Glaive Infantry and Melee Infantry.	false
+ui_unit_groupings_onscreen_3k_main_unit_axe_infantry_metal	Axe Infantry	false
+ui_unit_groupings_onscreen_3k_main_hero_earth	Commander	false
+ui_unit_groupings_onscreen_3k_main_hero_fire	Vanguard	false
+ui_unit_groupings_onscreen_3k_dlc06_unit_javelin_throwers_water	Javelin Throwers	false
+ui_unit_groupings_tooltip_3k_main_unit_spear_cavalry_fire	Excels at causing large amounts of damage in a short amount of time, but fragile if they remain in combat for a prolonged period of time.	false
+ui_unit_groupings_onscreen_3k_dlc06_unit_slingers_water	Slingers	false
+ui_unit_groupings_onscreen_3k_main_unit_artillery_water	Artillery	false
+ui_unit_groupings_tooltip_3k_main_unit_glaive_infantry_metal	Very assault-oriented unit, but vulnerable to missile attacks.	false
+ui_unit_groupings_tooltip_3k_main_unit_polearm_infantry_wood	Excels at attacking unarmoured opponents, but vulnerable to missile attacks.	false
+ui_unit_groupings_tooltip_3k_main_unit_glavie_bow_infantry_wood	Excels at holding the line, especially at chokepoints, but has very low damage, and has missile weapons to soften up approaching enemies.	false
+ui_unit_groupings_onscreen_3k_dlc06_unit_blowpipes_water	Blowpipes	false
+ui_unit_groupings_onscreen_3k_dlc06_unit_animal_handlers_metal	Animal Handlers	false
+ui_unit_groupings_onscreen_3k_main_unit_sword_cavalry_earth	Sword Cavalry	false
+ui_unit_groupings_tooltip_3k_main_hero_earth	Excels at inspiring friendly troops, but weaker in melee. Best grouped with retinues of Melee Cavalry.	false
+ui_unit_groupings_tooltip_3k_main_unit_spear_infantry_wood	Excels at holding the line especially at chokepoints, but has very low damage.	false
+ui_unit_groupings_onscreen_3k_main_unit_sword_infantry_metal	Sword Infantry	false
+ui_unit_groupings_tooltip_3k_main_hero_strategist_water	Able to severely impair the efficiency of enemy units and generals in the battle.  They also provide use of formations to nearby friendly units. However, they are extremely fragile. Best grouped with retinues of Ranged Infantry.	false
+ui_unit_groupings_tooltip_3k_main_unit_axe_infantry_metal	Excels at attacking unarmoured opponents, but very vulnerable to cavalry charges.	false
+ui_unit_groupings_onscreen_3k_main_unit_spear_infantry_wood	Spear Infantry	false
+ui_unit_groupings_tooltip_3k_main_unit_crossbow_cavalry_water	Excels at wearing down enemies without shields and keeping distance, but vulnerable in melee.	false
+ui_unit_groupings_onscreen_3k_main_unit_crossbow_cavalry_water	Crossbow Cavalry	false
+ui_unit_groupings_tooltip_3k_main_unit_polearm_cavalry_fire	Excels at attacking unarmoured opponents, but vulnerable to missile attacks.	false
+ui_unit_groupings_tooltip_3k_dlc06_hero_nanman	Fury is the staple of the Nanman, as is the destruction it brings.	false
+ui_unit_groupings_tooltip_3k_dlc06_unit_elephant_fire	The elephant towers above men; a thundering wall of strength.	false
+ui_unit_groupings_onscreen_3k_dlc04_unit_machine_crossbow_water	Crossbow Artillery	false
+ui_unit_groupings_tooltip_3k_dlc06_unit_elephant_water	Elephants move with purpose. For those in their way? Woe.	false
+ui_unit_groupings_onscreen_3k_main_unit_glavie_bow_infantry_wood	Glaive & Bow Infantry	false
+ui_unit_groupings_tooltip_3k_main_unit_crossbow_infantry_water	Excels at attacking unarmoured opponents, but vulnerable in melee.	false
+ui_unit_groupings_onscreen_3k_main_unit_ranged_infantry_water	Bow Infantry	false
+ui_unit_groupings_onscreen_3k_main_unit_polearm_infantry_wood	Halberd Infantry	false
+ui_unit_groupings_onscreen_3k_main_unit_spear_cavalry_fire	Spear Cavalry	false
+ui_unit_groupings_onscreen_3k_main_unit_ranged_cavalry_water	Bow Cavalry	false
+ui_unit_groupings_onscreen_3k_ytr_hero_scholar	Scholar	false
+ui_unit_groupings_onscreen_3k_dlc06_unit_elephant_fire	Elephants	false
+ui_unit_groupings_onscreen_3k_dlc06_unit_animal_handlers_water	Animal Handlers	false

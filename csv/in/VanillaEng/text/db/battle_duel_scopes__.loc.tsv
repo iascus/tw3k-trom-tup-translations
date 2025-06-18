@@ -1,0 +1,8 @@
+key	text	tooltip
+#Loc;1;text/db/battle_duel_scopes__.loc		
+battle_duel_scopes_onscreen_name_unit_negative	Unit	false
+battle_duel_scopes_onscreen_name_unit_positive	Unit	false
+battle_duel_scopes_onscreen_name_retinue_negative	Retinue	false
+battle_duel_scopes_onscreen_name_alliance_negative	Alliance	false
+battle_duel_scopes_onscreen_name_alliance_positive	Alliance	false
+battle_duel_scopes_onscreen_name_retinue_positive	Retinue	false

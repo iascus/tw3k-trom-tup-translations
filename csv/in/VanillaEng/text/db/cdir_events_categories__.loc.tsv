@@ -1,0 +1,132 @@
+key	text	tooltip
+#Loc;1;text/db/cdir_events_categories__.loc		
+cdir_events_categories_active_text_char_harmony	[PH]	false
+cdir_events_categories_expired_text_misc	[PH]	false
+cdir_events_categories_succeeded_text_ultimatum	[PH]	false
+cdir_events_categories_cancelled_text_spy	[PH]	false
+cdir_events_categories_expired_text_spy	[PH]	false
+cdir_events_categories_on_screen_name_master_craftsmen	[PH] Master_Craftsmen	false
+cdir_events_categories_active_text_political_action_outcome	[PH]	false
+cdir_events_categories_expired_text_special	[PH]	false
+cdir_events_categories_expired_text_faction	[PH]	false
+cdir_events_categories_expired_text_ultimatum	[PH]	false
+cdir_events_categories_active_text_warcoord	[PH]	false
+cdir_events_categories_expired_text_char_heroism	[PH]	false
+cdir_events_categories_cancelled_text_char_heroism	[PH]	false
+cdir_events_categories_succeeded_text_historical	[PH]	false
+cdir_events_categories_on_screen_name_special	[PH]	false
+cdir_events_categories_cancelled_text_master_craftsmen	[PH]	false
+cdir_events_categories_active_text_reinstate_the_han	[PH]	false
+cdir_events_categories_expired_text_agenda	[PH]	false
+cdir_events_categories_active_text_man_of_the_hour	[PH]	false
+cdir_events_categories_on_screen_name_char_historical	[PH] Char_Historical	false
+cdir_events_categories_active_text_historical	[PH]	false
+cdir_events_categories_succeeded_text_political_action_outcome	[PH]	false
+cdir_events_categories_on_screen_name_reinstate_the_han	[PH] Reinstate_The_Han	false
+cdir_events_categories_on_screen_name_objective	[PH] Objective	false
+cdir_events_categories_on_screen_name_siege_besieging	[PH] Siege_Besieging	false
+cdir_events_categories_succeeded_text_spy	[PH]	false
+cdir_events_categories_succeeded_text_warcoord	[PH]	false
+cdir_events_categories_on_screen_name_rumour	[PH] Rumour	false
+cdir_events_categories_expired_text_request	[PH]	false
+cdir_events_categories_expired_text_political_action_outcome	[PH]	false
+cdir_events_categories_cancelled_text_siege_post	[PH]	false
+cdir_events_categories_active_text_misc	[PH]	false
+cdir_events_categories_succeeded_text_char_conflict	[PH]	false
+cdir_events_categories_cancelled_text_man_of_the_hour	[PH]	false
+cdir_events_categories_succeeded_text_special	[PH]	false
+cdir_events_categories_cancelled_text_char_deeds	[PH]	false
+cdir_events_categories_active_text_faction	[PH]	false
+cdir_events_categories_active_text_char_historical	[PH]	false
+cdir_events_categories_succeeded_text_reinstate_the_han	[PH]	false
+cdir_events_categories_active_text_special	[PH]	false
+cdir_events_categories_active_text_char_deeds	[PH]	false
+cdir_events_categories_expired_text_siege_post	[PH]	false
+cdir_events_categories_expired_text_ancillary	[PH]	false
+cdir_events_categories_on_screen_name_misc	[PH] Misc	false
+cdir_events_categories_on_screen_name_char_harmony	[PH] Char_Harmony	false
+cdir_events_categories_expired_text_reinstate_the_han	[PH]	false
+cdir_events_categories_succeeded_text_char_harmony	[PH]	false
+cdir_events_categories_on_screen_name_spy	[PH] Spy	false
+cdir_events_categories_cancelled_text_political_action_outcome	[PH]	false
+cdir_events_categories_on_screen_name_historical	[PH] Historical	false
+cdir_events_categories_cancelled_text_faction	[PH]	false
+cdir_events_categories_active_text_request	[PH]	false
+cdir_events_categories_cancelled_text_ultimatum	[PH]	false
+cdir_events_categories_succeeded_text_ancillary	[PH]	false
+cdir_events_categories_cancelled_text_rumour	[PH]	false
+cdir_events_categories_cancelled_text_ancillary	[PH]	false
+cdir_events_categories_cancelled_text_special	[PH]	false
+cdir_events_categories_active_text_council	[PH]	false
+cdir_events_categories_active_text_objective	[PH]	false
+cdir_events_categories_succeeded_text_master_craftsmen	[PH]	false
+cdir_events_categories_expired_text_char_historical	[PH]	false
+cdir_events_categories_succeeded_text_faction	[PH]	false
+cdir_events_categories_on_screen_name_warcoord	[PH] Warcoord	false
+cdir_events_categories_cancelled_text_siege_besieging	[PH]	false
+cdir_events_categories_succeeded_text_char_deeds	[PH]	false
+cdir_events_categories_on_screen_name_char_deeds	[PH] Char_Deeds	false
+cdir_events_categories_expired_text_man_of_the_hour	[PH]	false
+cdir_events_categories_cancelled_text_char_harmony	[PH]	false
+cdir_events_categories_cancelled_text_ceo_set	[PH]	false
+cdir_events_categories_active_text_char_conflict	[PH]	false
+cdir_events_categories_on_screen_name_man_of_the_hour	[PH] Man_Of_The_Hour	false
+cdir_events_categories_succeeded_text_man_of_the_hour	[PH]	false
+cdir_events_categories_expired_text_char_deeds	[PH]	false
+cdir_events_categories_succeeded_text_request	[PH]	false
+cdir_events_categories_on_screen_name_faction	[PH] Faction	false
+cdir_events_categories_on_screen_name_siege_post	[PH] Siege_Post	false
+cdir_events_categories_succeeded_text_ceo_set	[PH]	false
+cdir_events_categories_succeeded_text_char_heroism	[PH]	false
+cdir_events_categories_cancelled_text_agenda	[PH]	false
+cdir_events_categories_active_text_ui_prompt_faction_summary	[PH]	false
+cdir_events_categories_cancelled_text_reinstate_the_han	[PH]	false
+cdir_events_categories_succeeded_text_objective	[PH]	false
+cdir_events_categories_on_screen_name_char_conflict	[PH] Char_Conflict	false
+cdir_events_categories_cancelled_text_request	[PH]	false
+cdir_events_categories_on_screen_name_ceo_set	[PH]	false
+cdir_events_categories_expired_text_master_craftsmen	[PH]	false
+cdir_events_categories_active_text_ancillary	[PH]	false
+cdir_events_categories_on_screen_name_request	[PH] Request	false
+cdir_events_categories_succeeded_text_siege_post	[PH]	false
+cdir_events_categories_active_text_spy	[PH]	false
+cdir_events_categories_cancelled_text_ui_prompt_faction_summary	[PH]	false
+cdir_events_categories_succeeded_text_char_historical	[PH]	false
+cdir_events_categories_succeeded_text_council	[PH]	false
+cdir_events_categories_expired_text_siege_besieging	[PH]	false
+cdir_events_categories_active_text_agenda	[PH]	false
+cdir_events_categories_active_text_ultimatum	[PH]	false
+cdir_events_categories_expired_text_char_harmony	[PH]	false
+cdir_events_categories_on_screen_name_political_action_outcome	[PH] Political Action Outcome	false
+cdir_events_categories_active_text_rumour	[PH]	false
+cdir_events_categories_expired_text_warcoord	[PH]	false
+cdir_events_categories_active_text_ceo_set	[PH]	false
+cdir_events_categories_expired_text_historical	[PH]	false
+cdir_events_categories_cancelled_text_misc	[PH]	false
+cdir_events_categories_cancelled_text_historical	[PH]	false
+cdir_events_categories_expired_text_char_conflict	[PH]	false
+cdir_events_categories_cancelled_text_char_historical	[PH]	false
+cdir_events_categories_on_screen_name_ancillary	[PH] Ancillary	false
+cdir_events_categories_expired_text_rumour	[PH]	false
+cdir_events_categories_cancelled_text_char_conflict	[PH]	false
+cdir_events_categories_cancelled_text_objective	[PH]	false
+cdir_events_categories_cancelled_text_warcoord	[PH]	false
+cdir_events_categories_expired_text_ceo_set	[PH]	false
+cdir_events_categories_on_screen_name_ui_prompt_faction_summary	Progression Available	false
+cdir_events_categories_on_screen_name_agenda	[PH] Agenda	false
+cdir_events_categories_succeeded_text_siege_besieging	[PH]	false
+cdir_events_categories_on_screen_name_council	[PH] Council	false
+cdir_events_categories_on_screen_name_char_heroism	[PH] Char_Heroism	false
+cdir_events_categories_succeeded_text_agenda	[PH]	false
+cdir_events_categories_succeeded_text_ui_prompt_faction_summary	[PH]	false
+cdir_events_categories_expired_text_objective	[PH]	false
+cdir_events_categories_cancelled_text_council	[PH]	false
+cdir_events_categories_active_text_siege_besieging	[PH]	false
+cdir_events_categories_succeeded_text_rumour	[PH]	false
+cdir_events_categories_succeeded_text_misc	[PH]	false
+cdir_events_categories_active_text_master_craftsmen	[PH]	false
+cdir_events_categories_active_text_char_heroism	[PH]	false
+cdir_events_categories_expired_text_ui_prompt_faction_summary	[PH]	false
+cdir_events_categories_active_text_siege_post	[PH]	false
+cdir_events_categories_expired_text_council	[PH]	false
+cdir_events_categories_on_screen_name_ultimatum	[PH] Ultimatum	false

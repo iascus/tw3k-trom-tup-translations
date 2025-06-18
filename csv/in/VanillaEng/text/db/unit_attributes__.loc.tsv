@@ -1,0 +1,94 @@
+key	text	tooltip
+#Loc;1;text/db/unit_attributes__.loc		
+unit_attributes_bullet_text_cannot_dismount	[[b]]CANNOT DISMOUNT[[/b]]\\n\\n Cannot mount/dismount	false
+unit_attributes_bullet_text_impetuous	Impetuous||Gets extra [[img:icon_morale]][[/img]]morale bonus when eager. DON'T USE	false
+unit_attributes_imued_effect_text_dummy_formation_form_up	Form Up	false
+unit_attributes_bullet_text_all_ranks_fire	All Ranks Fire||All ranks can fire if using a weapon that only allows 1 rank to do so.	false
+unit_attributes_bullet_text_berserk_forced	[[b]]BERSERK[[/b]]\\n\\n Can go berserk during the battle. This makes them uncontrollable, so they will automatically attack nearby enemies.	false
+unit_attributes_bullet_text_encourages	[[b]]ENCOURAGE[[/b]]\\n\\n Provides a morale bonus to nearby allies.	false
+unit_attributes_imued_effect_text_unbreakable	[[col:green]]Unbreakable[[/col]]	false
+unit_attributes_imued_effect_text_charge_negation_vs_large	[[col:green]]Charge Negation vs. Mounted[[/col]]	false
+unit_attributes_imued_effect_text_immune_to_psychology	[[col:green]]Immune to Terror[[/col]]	false
+unit_attributes_imued_effect_text_resist_cold	[[col:green]]Resistant to Cold[[/col]]	false
+unit_attributes_imued_effect_text_encourages	[[col:green]]Encourage[[/col]]	false
+unit_attributes_imued_effect_text_mounted_fire_move	[[col:green]]Fire Whilst Moving[[/col]]	false
+unit_attributes_imued_effect_text_disciplined	[[col:green]]Disciplined[[/col]]	false
+unit_attributes_imued_effect_text_hide_forest	[[col:green]]Hide (forest)[[/col]]	false
+unit_attributes_imued_effect_text_berserk	[[col:red]]Berserk[[/col]]	false
+unit_attributes_bullet_text_undead	Undead||Does not rout, immune to terror, becomes unstable while [[img:icon_morale]][[/img]]{{tr:morale}} is low. Suffers [[img:icon_attrition]][[/img]]attrition while moving through territory not owned by the Undead.	false
+unit_attributes_imued_effect_text_charge_reflector_vs_large	[[col:green]]Charge Reflector vs. Mounted[[/col]]	false
+unit_attributes_imued_effect_text_all_ranks_fire	All Ranks Fire	false
+unit_attributes_bullet_text_unruly	[[b]]IMPETUOUS[[/b]]\\n\\n The unit may decide to attack nearby enemies without orders.	false
+unit_attributes_imued_effect_text_hide_grass	[[col:green]]Hide (grass)[[/col]]	false
+unit_attributes_bullet_text_hide_grass	[[b]]HIDE IN GRASS[[/b]]\\n\\n Can hide in long grass.	false
+unit_attributes_imued_effect_text_cant_run	[[col:red]]Cannot Run[[/col]]	false
+unit_attributes_bullet_text_hide_scrub_and_forest	[[b]]HIDE IN SCRUB AND FOREST[[/b]]\\n\\n Can hide in scrub and forest.	false
+unit_attributes_bullet_text_guerrilla_deploy	{{tr:guerrilla_deployment}}	false
+unit_attributes_bullet_text_mounted_fire_move	[[b]]FIRE WHILST MOVING[[/b]]\\n\\n Can fire while mounted and moving.	false
+unit_attributes_bullet_text_stalk	[[b]]STALK[[/b]]\\n\\n Can move whilst hidden in any terrain.	false
+unit_attributes_imued_effect_text_guerrilla_deploy	[[col:green]]Guerrilla Deployment[[/col]]	false
+unit_attributes_imued_effect_text_fatigue_res	[[col:green]]Resistant to Fatigue[[/col]]	false
+unit_attributes_imued_effect_text_unspottable	placeholder	false
+unit_attributes_imued_effect_text_dummy_campaign_enable_night_battle	Night Battles	false
+unit_attributes_bullet_text_ignore_ground_move_mod	[[b]]IGNORE GROUND TYPE[[/b]]\\n\\n Speed penalties caused by the terrain are ignored by this unit.	false
+unit_attributes_bullet_text_charge_reflector	[[b]]CHARGE REFLECTION[[/b]]\\n\\n Reflects the charge damage of any attacker back onto them when braced.	false
+unit_attributes_bullet_text_resist_cold	[[b]]RESISTANT TO COLD[[/b]]\\n\\n Takes longer to feel fatigued in the snow.	false
+unit_attributes_imued_effect_text_hide_building	Hide (buildings)	false
+unit_attributes_imued_effect_text_mighty_knockback	[[col:green]]Mighty Knockback[[/col]]	false
+unit_attributes_bullet_text_cant_run	[[b]]CANNOT RUN[[/b]]\\n\\n Cannot run, only moves at walking speed.	false
+unit_attributes_imued_effect_text_charge_negation	[[col:green]]Charge Negation[[/col]]	false
+unit_attributes_imued_effect_text_cannot_dismount	[[col:red]]Cannot dismount[[/col]]	false
+unit_attributes_bullet_text_causes_fear	[[b]]SCARE[[/b]]\\n\\n Reduces nearby enemy morale. Does not stack.	false
+unit_attributes_bullet_text_immune_to_psychology	[[b]]IMMUNE TO TERROR[[/b]]\\n\\n The unit is immune to scare and terror effects.	false
+unit_attributes_bullet_text_charge_negation	[[b]]CHARGE NEGATION[[/b]]\\n\\n Negates the charge bonus of the attacker.	false
+unit_attributes_bullet_text_dummy_campaign_enable_night_battle	[[b]]NIGHT BATTLES[[/b]]\\n\\nAttacking an army at night will diminish their morale and cause fatigue, unless they too are able to fight night battles.\\n\\nArmies without this ability will be unable to reinforce nearby night battles.	false
+unit_attributes_bullet_text_scare_horse	[[b]]SCARE HORSES[[/b]]\\n\\n Frightens all nearby enemy horses, reducing their morale.	false
+unit_attributes_imued_effect_text_ignore_ground_move_mod	[[col:green]]Ignore Ground Type[[/col]]	false
+unit_attributes_imued_effect_text_invincible	[[col:green]]Invincible[[/col]]	false
+unit_attributes_imued_effect_text_impetuous	[[col:red]]Impetuous[[/col]]	false
+unit_attributes_imued_effect_text_scare_horse	[[col:green]]Scare (horses)[[/col]]	false
+unit_attributes_bullet_text_dummy_formation_form_up	Form Up	false
+unit_attributes_bullet_text_campaign_stealth	[[b]]CAMPAIGN STEALTH[[/b]]\\n\\n Moves around the campaign map without being seen.	false
+unit_attributes_imued_effect_text_hidden_by_ability	[[col:green]]Hidden[[/col]]	false
+unit_attributes_bullet_text_unbreakable	[[b]]UNBREAKABLE[[/b]]\\n\\n Does not suffer any morale loss and will never rout.	false
+unit_attributes_imued_effect_text_formed_attack	Formation Attack	false
+unit_attributes_imued_effect_text_hide_scrub_and_forest	[[col:green]]Hide (scrub & forest)[[/col]]	false
+unit_attributes_bullet_text_charge_negation_vs_large	[[b]]CHARGE NEGATION VS. MOUNTED[[/b]]\\n\\n Negates the charge bonus of any mounted attacker.	false
+unit_attributes_imued_effect_text_causes_terror	[[col:green]]Cause Terror[[/col]]	false
+unit_attributes_imued_effect_text_causes_fear	[[col:green]]Cause Fear[[/col]]	false
+unit_attributes_bullet_text_hide_forest	[[b]]HIDE IN FOREST[[/b]]\\n\\n Can hide in forests.	false
+unit_attributes_bullet_text_resist_heat	[[b]]RESISTANT TO HEAT[[/b]]\\n\\n Takes longer to feel fatigued in the desert.	false
+unit_attributes_bullet_text_rampage	[[b]]RAMPAGE[[/b]]\\n\\n When this unit gets hurt and enemies are nearby, it may go on a rampage, attacking the closest enemy and ignoring any orders you give it.	false
+unit_attributes_imued_effect_text_berserk_forced	[[col:red]]Berserk[[/col]]	false
+unit_attributes_bullet_text_hidden_by_ability	[[b]]HIDDEN BY ABILITY[[/b]]\\n\\n Hidden by an active ability.	false
+unit_attributes_imued_effect_text_unruly	[[col:red]]Impetuous[[/col]]	false
+unit_attributes_bullet_text_mounted_fire_parthian	[[b]]FIRE BACKWARDS[[/b]]\\n\\n Can fire in any direction.	false
+unit_attributes_bullet_text_invincible	[[b]]INVINCIBLE[[/b]]\\n\\n Cannot be damaged	false
+unit_attributes_imued_effect_text_stalk	[[col:green]]Stalk[[/col]]	false
+unit_attributes_imued_effect_text_undead	[[col:red]]Undead[[/col]]	false
+unit_attributes_imued_effect_text_rampage	[[col:red]]Rampage[[/col]]	false
+unit_attributes_bullet_text_charge_reflector_vs_large	[[b]]CHARGE REFLECTION VS. MOUNTED[[/b]]\\n\\n Reflects the charge damage of any mounted attacker back onto them when braced.	false
+unit_attributes_bullet_text_scare_immune	[[b]]IMMUNE TO SCARE[[/b]]\\n\\n Immune to scare effects.	false
+unit_attributes_imued_effect_text_snipe	[[col:green]]Snipe[[/col]]	false
+unit_attributes_bullet_text_berserk	[[b]]BERSERK[[/b]]\\n\\n Can go berserk during the battle. This makes them uncontrollable, so they will automatically attack nearby enemies.	false
+unit_attributes_bullet_text_snipe	[[b]]SNIPE[[/b]]\\n\\n Remains hidden while firing.	false
+unit_attributes_bullet_text_disciplined	[[b]]DISCIPLINED[[/b]]\\n\\n Does not suffer a morale penalty when the general dies. It can also rally after routing more often.	false
+unit_attributes_imued_effect_text_scare_immune	[[col:green]]Immune to Fear[[/col]]	false
+unit_attributes_bullet_text_causes_terror	[[b]]TERROR[[/b]]\\n\\n Routs engaged enemy for a short time. It is also immune to terror and scare effects.	false
+unit_attributes_imued_effect_text_campaign_stealth	Campaign Stealth	false
+unit_attributes_bullet_text_fatigue_immune	[[b]]IMMUNE TO FATIGUE[[/b]]\\n\\n Never feels fatigued.	false
+unit_attributes_bullet_text_ignore_forest_penalties	[[b]]IGNORE FOREST PENALTIES[[/b]]\\n\\n Ignores penalties caused by forests.	false
+unit_attributes_bullet_text_unspottable	If this unit is able to hide in its current location, it will not be spotted by enemies until they are very close	false
+unit_attributes_imued_effect_text_resist_heat	[[col:green]]Resistant to Hear[[/col]]	false
+unit_attributes_imued_effect_text_raider	[[col:red]]Raider[[/col]]	false
+unit_attributes_bullet_text_hide_building	Hide in Buildings||Can hide in buildings.	false
+unit_attributes_imued_effect_text_run_amok	[[col:red]]Run Amok[[/col]]	false
+unit_attributes_bullet_text_fatigue_res	[[b]]RESISTANT TO FATIGUE[[/b]]\\n\\n Takes longer to feel fatigued.	false
+unit_attributes_bullet_text_run_amok	[[b]]RUN AMOK[[/b]]\\n\\n Can Run Amok during the battle. This makes them uncontrollable, so they will automatically attack any nearby units.	false
+unit_attributes_imued_effect_text_charge_reflector	[[col:green]]Charge Reflector[[/col]]	false
+unit_attributes_bullet_text_mighty_knockback	[[b]]MIGHTY KNOCKBACK[[/b]]\\n\\n Causes extra damage when knocking back enemies.	false
+unit_attributes_imued_effect_text_ignore_forest_penalties	[[col:green]]Ignore Forest Penalties[[/col]]	false
+unit_attributes_imued_effect_text_mounted_fire_parthian	[[col:green]]Fire Backwards[[/col]]	false
+unit_attributes_bullet_text_formed_attack	Formation Attack||Stays in formation while in melee.	false
+unit_attributes_imued_effect_text_fatigue_immune	[[col:green]]Immune to Fatigue[[/col]]	false
+unit_attributes_bullet_text_raider	[[b]]RAIDER[[/b]]\\n\\n Idle soldiers will burn down nearby buildings.	false

@@ -1,0 +1,7 @@
+key	text	tooltip
+#Loc;1;text/db/diplomatic_relations_respect_thresholds__.loc		
+diplomatic_relations_respect_thresholds_localised_title_untrustworthy	[[col:red]]Untrustworthy[[/col]]	false
+diplomatic_relations_respect_thresholds_localised_title_treacherous	[[col:red]]Treacherous[[/col]]	false
+diplomatic_relations_respect_thresholds_localised_title_trustworthy	Trustworthy	false
+diplomatic_relations_respect_thresholds_localised_title_respected	[[col:green]]Respected[[/col]]	false
+diplomatic_relations_respect_thresholds_localised_title_highly_respected	[[col:green]]Highly Respected[[/col]]	false

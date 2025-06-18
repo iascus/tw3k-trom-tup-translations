@@ -1,0 +1,398 @@
+key	text	tooltip
+#Loc;1;text/db/battles__.loc		
+battles_localised_name_3k_main_resource_han_port_a_trade_large	[DEV] Port - A Trade Large	false
+battles_description_3k_main_settlement_city_han_c_large	[PH] City Han C Large	false
+battles_description_ai_trial_centre_hard_collision	AI Test Map - Large collision in centre	false
+battles_loading_screen_text_3k_nanman_settlement_previs		false
+battles_description_3k_main_resource_han_mine_a_jade_small	[PH] Mine - A Jade Small	false
+battles_loading_screen_text_3k_main_resource_han_farm_rice_a_small		false
+battles_loading_screen_text_3k_main_settlement_city_han_c_small_walled		false
+battles_loading_screen_text_3k_main_historical_battle_jing_province	The fragile equilibrium has shattered - your alliance with Sun Quan has collapsed, and now Jing Province is threatened by Sun Quan's advance. Your brother, Guan Yu, has fought bravely against the Sun forces whilst you, Liu Bei, have dealt with the threat of Cao Cao to the west. Yet now Guan Yu is surrounded, and if he cannot break through the ambush laid for him, he will surely perish...	false
+battles_localised_name_3k_main_settlement_port_han_b_small_walled	[DEV] Port Han B Small Walled	false
+battles_localised_name_demo_ambush	[DEV] Ambush - Demo	false
+battles_localised_name_test_map_huangshan	[DEV] Huangshan Mountains	false
+battles_loading_screen_text_3k_main_settlement_city_han_d_medium		false
+battles_loading_screen_text_3k_main_settlement_city_han_h_small		false
+battles_loading_screen_text_ai_trial_centre_hard_collision		false
+battles_localised_name_3k_main_settlement_city_han_a_small	[DEV] City Han A Small	false
+battles_description_3k_main_resource_han_mine_a_jade_large	[PH] Mine - A Jade Large	false
+battles_loading_screen_text_3k_main_settlement_port_han_a_medium		false
+battles_loading_screen_text_3k_main_settlement_city_han_a_large		false
+battles_description_taipei	 	false
+battles_description_3k_main_ambush_forest_03	Ambush test map	false
+battles_loading_screen_text_3k_main_settlement_port_han_a_large		false
+battles_loading_screen_text_test_map_subtropical_river		false
+battles_loading_screen_text_3k_main_settlement_city_han_b_small		false
+battles_description_3k_main_resource_han_mine_a_copper_small	[PH] Mine - A Copper Small	false
+battles_loading_screen_text_3k_main_settlement_city_han_f_medium		false
+battles_localised_name_ai_trial_size_500x500	[DEV] AI Trial: Size 500X500	false
+battles_localised_name_3k_main_settlement_city_han_e_medium	[DEV] City Han E Medium	false
+battles_description_test_map_lf_scale	Testing maximum resolution for low frequency height	false
+battles_loading_screen_text_3k_dlc06_settlement_nanman_c_medium		false
+battles_description_ai_trial_collision_corner	AI Test Map - Corner is hard collision	false
+battles_description_dynasty_temperate	Dynasty Temperate	false
+battles_localised_name_3k_main_settlement_city_han_e_small_walled	[DEV] City Han E Small Walled	false
+battles_loading_screen_text_3k_main_historical_battle_wuzhang_plains	Zhuge Liang is a widely-regarded genius, and marches with persistence upon the north, time after time. This is his fifth campaign into Cao Wei lands and it falls to you, Sima Yi, to repel him. He has marched from the Xie Valley to attack. You have chosen to make your stand against him at the Wuzhang Plains. They call you a genius too, Sima Yi - send these Shu Han knaves to their graves!	false
+battles_localised_name_3k_main_historical_battle_wuzhang_plains	Raid at Wuzhang Plains	false
+battles_loading_screen_text_3k_main_settlement_city_han_d_large		false
+battles_loading_screen_text_test_map_lf_scale		false
+battles_loading_screen_text_test_map_steep_slope		false
+battles_loading_screen_text_3k_main_resource_han_market_a_spice_small		false
+battles_localised_name_cinematic_arid_mountains	[DEV] Cinematics Arid Mountains	false
+battles_description_3k_main_settlement_city_han_b_small	[PH] City Han B Small	false
+battles_localised_name_3k_main_settlement_city_han_d_large	[DEV] City Han D Large	false
+battles_loading_screen_text_test_map_civilians		false
+battles_localised_name_3k_main_historical_battle_xiapi	Siege of Xiapi	false
+battles_localised_name_3k_main_historical_battle_xinyang	Battle of Xingyang	false
+battles_description_3k_main_resource_han_market_a_spice_small	[PH] Market - A Spice Small	false
+battles_loading_screen_text_3k_main_ambush_forest_03		false
+battles_loading_screen_text_3k_main_settlement_city_han_b_small_walled		false
+battles_loading_screen_text_3k_main_resource_han_mine_a_iron_small		false
+battles_localised_name_3k_main_settlement_city_han_c_large	[DEV] City Han C Large	false
+battles_description_test_map_lf_mountain	Testing using low frequency to create large mountain ranges	false
+battles_description_3k_dlc06_gate_battles_nanman_b_both_deployments	[DEV] Gate Battles B	false
+battles_description_test_map_tile_blend_edge	Tile Edge blending test map	false
+battles_description_test_map_steep_slope	Testing rigid model cliffs that deform with the low frequency map	false
+battles_description_3k_main_settlement_city_han_c_medium	[PH] City Han C Medium	false
+battles_localised_name_3k_main_settlement_port_han_a_large	[DEV] Port Han A Large	false
+battles_localised_name_test_map_zhangjiajie	[DEV] Zhangjiajie Mountains	false
+battles_description_3k_main_settlement_city_han_e_small_walled	[PH] City Han E Small Walled	false
+battles_description_3k_main_settlement_city_han_d_large	[PH] City Han D Large	false
+battles_localised_name_3k_main_settlement_city_han_g_small	[DEV] City Han G Small	false
+battles_loading_screen_text_3k_main_settlement_city_han_e_small		false
+battles_description_3k_main_settlement_city_han_h_small_walled	[PH] City Han H Small Walled	false
+battles_description_test_map_subtropical_river	Subtropical River Test Map	false
+battles_localised_name_3k_main_resource_han_tools_a_regular_small	[DEV] Tools - A Regular Small	false
+battles_loading_screen_text_test_map_lf_mountain		false
+battles_description_3k_main_settlement_city_han_e_medium	[PH] City Han E Medium	false
+battles_localised_name_3k_main_resource_han_mine_a_copper_small	[DEV] Mine - A Copper Small	false
+battles_loading_screen_text_3k_main_settlement_city_han_a_small		false
+battles_description_dynasty_arid	Dynasty Arid	false
+battles_loading_screen_text_test_map_prefabs_settlement_buildings		false
+battles_loading_screen_text_dynasty_subtropical		false
+battles_localised_name_3k_main_settlement_city_han_d_small_walled	[DEV] City Han D Small Walled	false
+battles_loading_screen_text_3k_main_settlement_city_han_h_large		false
+battles_loading_screen_text_3k_main_resource_han_livestock_a_regular_small		false
+battles_loading_screen_text_3k_main_resource_han_mine_a_jade_large		false
+battles_description_3k_main_historical_battle_jing_province	Difficulty level: [[col:traffic_light_very_negative]]Hard[[/col]]\\n\\n219 CE. Lü Meng, under the banner of Sun Quan, continues his invasion of Jing Province. After taking stewardship of some of Sun Quan's territory, Liu Bei finds himself at war when he refuses to return the lands under his care. Strained by war with both Cao Cao and Sun Quan, yet able to score victories all the same, Liu Bei feels emboldened. Threatened by this growing power, Cao Cao allies with Sun Quan to tackle the threat of Liu Bei.\\n\\nTogether, the two kingdoms score successive victories against the Shu Han, isolating Guan Yu at Maicheng. Now, surrounded but never without hope, Guan Yu must break through this ambush if he is to have any chance of survival.	false
+battles_description_3k_main_test_animation_playground	Animation Test Map	false
+battles_description_3k_main_settlement_port_han_b_large	[PH] Port Han B Large	false
+battles_description_ai_trial_size_350x350	AI Test Map - Tile Size - 1024x350	false
+battles_description_test_map_ground_types	Testing ground types, rivers and water	false
+battles_localised_name_test_graphics_env	[DEV] Graphics Environment	false
+battles_description_3k_main_settlement_city_han_c_small	[PH] City Han C Small	false
+battles_loading_screen_text_dynasty_temperate		false
+battles_loading_screen_text_3k_main_resource_han_port_a_trade_large		false
+battles_loading_screen_text_3k_main_settlement_city_han_c_large		false
+battles_loading_screen_text_3k_main_resource_han_port_a_trade_small		false
+battles_loading_screen_text_3k_main_resource_han_tools_a_regular_large		false
+battles_loading_screen_text_test_map_ground_types		false
+battles_loading_screen_text_3k_dlc06_settlement_port_nanman_a_small		false
+battles_localised_name_ai_trial_collision_corner	[DEV] AI Trial: Collision Corner	false
+battles_description_3k_main_historical_battle_jiangdong	Difficulty level: [[col:attribute_authority]]Normal[[/col]]\\n\\n196 CE. Sun Ce's campaigns to conquer the lands south of the Yangtze have been ongoing for several years. After success against Liu Yao and the capture of Wu Commandery, Sun Ce turns his attention to Wang Lang, and his position in Kuaiji Commandery. After rallying the support of his uncle Sun Jing, the two generals advance towards the Qiantang estuary, where Wang Lang has established his defensive position. Knowing that a frontal assault would be difficult, Sun Ce now plots to use Sun Jing's detachment to help isolate and destroy Wang Lang's forces.\\n\\nAs the Qiantang yawns into the ocean, Sun Ce sees the sun rising on the horizon, and knows his star rises too!	false
+battles_loading_screen_text_3k_main_settlement_city_han_d_small		false
+battles_localised_name_3k_main_settlement_city_han_d_small	[DEV] City Han D Small	false
+battles_description_test_map_huangshan	'Yellowstone' Test Map	false
+battles_loading_screen_text_3k_main_resource_han_port_a_fishing_small		false
+battles_loading_screen_text_3k_main_settlement_city_han_g_small		false
+battles_description_3k_main_settlement_port_han_a_small	[PH] Port Han A Small	false
+battles_localised_name_3k_main_settlement_city_han_f_large	[DEV] City Han F Large	false
+battles_localised_name_dynasty_subtropical	Battle of Yangzhou	false
+battles_loading_screen_text_3k_main_ambush_forest_02		false
+battles_loading_screen_text_3k_main_resource_han_farm_grain_a_small		false
+battles_localised_name_taipei	[DEV] Daxing Hills	false
+battles_localised_name_3k_main_test_subtropical	[DEV] Subtropical	false
+battles_localised_name_test_map_lf_mountain	[DEV] LF Mountain	false
+battles_loading_screen_text_ai_trial_collision_density_low		false
+battles_localised_name_3k_main_ambush_forest_03	[DEV] Ambush - Forest 03	false
+battles_loading_screen_text_3k_main_test_animation_playground		false
+battles_localised_name_test_map_encampment	[DEV] Encampment	false
+battles_localised_name_test_map_civilians	[DEV] Civilians	false
+battles_description_3k_main_resource_han_tools_a_master_craftsmen_small	[PH] Tools - A Master Craftsmen Small	false
+battles_localised_name_3k_main_settlement_city_han_a_medium	[DEV] City Han A Medium	false
+battles_localised_name_ai_trial_collision_density_medium	[DEV] AI Trial: Collision Density Medium	false
+battles_description_3k_main_settlement_city_han_d_medium	[PH] City Han D Medium	false
+battles_loading_screen_text_3k_main_settlement_city_han_f_small_walled		false
+battles_description_3k_main_resource_han_salt_a_small	[PH] Salt - A Small	false
+battles_localised_name_3k_dlc06_settlement_nanman_c_medium	[DEV] Nanman Settlement C Medium	false
+battles_localised_name_3k_main_settlement_city_han_h_small_walled	[DEV] City Han H Small Walled	false
+battles_description_3k_main_historical_battle_xinyang	Difficulty level: [[col:traffic_light_very_positive]]Easy[[/col]]\\n\\n190 CE. The coalition against Dong Zhuo - formed of disparate and disunited warlords, yet fused by a common enemy - is hesitant, doing nothing as the tyrant migrates his court west to Chang'an. Cao Cao, frustrated by this inaction yet unable to rally many to his cause, marches from Suanzao. He senses the opportunity to stop Dong Zhuo before he solidifies power, and so confronts Dong Zhuo's forces - led by Xu Rong - along the banks of the Bian River.\\n\\nCao Cao lacks the support of the coalition, and faces a well-seasoned army, but knows that someone must try to stop the tyrant's unchecked rise to power - if it must be him, so be it!	false
+battles_loading_screen_text_3k_main_settlement_city_han_f_small		false
+battles_loading_screen_text_3k_main_settlement_city_han_e_medium		false
+battles_localised_name_3k_main_settlement_port_han_b_large	[DEV] Port Han B Large	false
+battles_localised_name_3k_main_settlement_city_han_c_small_walled	[DEV] City Han C Small Walled	false
+battles_loading_screen_text_dynasty_any		false
+battles_description_3k_main_settlement_city_han_e_large	[PH] City Han E Large	false
+battles_description_3k_main_resource_han_farm_rice_a_large	[PH] Farm - Rice A Large	false
+battles_description_3k_main_resource_han_livestock_a_regular_small	[PH] Livestock - A Regular Small	false
+battles_localised_name_dynasty_temperate	Battle of Youzhou	false
+battles_localised_name_3k_main_settlement_city_han_b_small_walled	[DEV] City Han B Small Walled	false
+battles_loading_screen_text_3k_main_settlement_city_han_c_medium		false
+battles_localised_name_3k_main_settlement_city_han_a_large	[DEV] City Han A Large	false
+battles_description_3k_main_resource_han_market_a_spice_large	[PH] Market - A Spice Large	false
+battles_description_red_cliff_small	Red Cliff Small Map	false
+battles_localised_name_3k_encampment_01	Encampment	false
+battles_localised_name_3k_nanman_settlement_previs	[DEV] nanman settlement previs	false
+battles_loading_screen_text_test_map_tile_blend_edge		false
+battles_loading_screen_text_ai_trial_collision_density_high		false
+battles_localised_name_3k_main_settlement_port_han_a_medium	[DEV] Port Han A Medium	false
+battles_loading_screen_text_demo_ambush		false
+battles_loading_screen_text_3k_main_historical_battle_gamescom		false
+battles_description_test_ccp_fill_all_forest	CCP Forest	false
+battles_localised_name_3k_main_resource_han_tools_a_master_craftsmen_small	[DEV] Tools - A Master Craftsmen Small	false
+battles_description_3k_main_resource_han_market_a_silk_large	[PH] Market - A Silk Large	false
+battles_loading_screen_text_3k_main_naval_river_a		false
+battles_localised_name_test_map_lf_plateau	[DEV] LF Plateau	false
+battles_loading_screen_text_test_map_lf_plateau		false
+battles_localised_name_test_map_terrain_textures	[DEV] Terrain Textures	false
+battles_loading_screen_text_3k_main_resource_han_farm_grain_a_large		false
+battles_localised_name_3k_main_ambush_forest_01	[DEV] Ambush - Forest 01	false
+battles_loading_screen_text_3k_main_settlement_city_han_e_small_walled		false
+battles_loading_screen_text_3k_main_settlement_city_han_d_small_walled		false
+battles_localised_name_test_map_obstacle_map	[DEV] Obstacle Map	false
+battles_localised_name_test_map_steep_slope	[DEV] LF Rigid Model Test	false
+battles_localised_name_3k_main_settlement_city_han_e_large	[DEV] City Han E Large	false
+battles_localised_name_3k_main_resource_han_farm_grain_a_large	[DEV] Farm - Grain A Large	false
+battles_localised_name_3k_main_settlement_port_han_a_small_walled	[DEV] Port Han A Small Walled	false
+battles_description_test_map_tile_border	Test for custom battlefield border	false
+battles_loading_screen_text_3k_main_historical_battle_changban	Cao Cao's march towards ever-greater power is relentless. He already controls the emperor and northern China, and now continues his advance against you and your people, Liu Bei. Even now, he harasses your retreating army - more importantly, he imperils your fleeing civilian population. Although the hope of victory is slim you must still fight, for if the people cannot be defended against such growing tyranny, then truly, what is the purpose of it all?	false
+battles_localised_name_3k_main_settlement_city_han_b_large	[DEV] City Han B Large	false
+battles_description_3k_main_settlement_port_han_b_medium	[PH] Port Han B Medium	false
+battles_loading_screen_text_3k_main_resource_han_mine_a_iron_large		false
+battles_description_3k_main_resource_han_port_a_trade_small	[PH] Port - A Trade Small	false
+battles_loading_screen_text_cinematic_arid_mountains		false
+battles_description_3k_main_resource_han_farm_grain_a_small	[PH] Farm - Grain A Small	false
+battles_localised_name_3k_main_test_animation_playground	[DEV] Animation Playground	false
+battles_loading_screen_text_3k_main_settlement_city_han_f_large		false
+battles_loading_screen_text_3k_dlc06_settlement_nanman_a_small		false
+battles_description_3k_main_settlement_city_han_f_small	[PH] City Han F Small	false
+battles_loading_screen_text_ai_trial_cliffs_between_deployment		false
+battles_description_3k_dlc06_settlement_nanman_a_small	[DEV] Nanman Settlement A Small	false
+battles_localised_name_test_map_model_viewer	[DEV] Model Scene Viewer	false
+battles_description_3k_main_settlement_city_han_c_small_walled	[PH] City Han C Small Walled	false
+battles_description_3k_main_resource_han_mine_a_copper_large	[PH] Mine - A Copper Large	false
+battles_loading_screen_text_3k_main_settlement_city_han_c_small		false
+battles_loading_screen_text_3k_dlc06_gate_battles_nanman_a_v2_both_deployments		false
+battles_loading_screen_text_test_map_fire_test_map		false
+battles_localised_name_ai_trial_three_lane_map	[DEV] AI Trial: Three Lane Map	false
+battles_description_3k_main_settlement_city_han_g_medium	[PH] City Han G Medium	false
+battles_loading_screen_text_3k_main_resource_han_tools_a_regular_small		false
+battles_localised_name_3k_main_settlement_city_han_h_large	[DEV] City Han H Large	false
+battles_localised_name_test_map_lf_mask	[DEV] LF Tile Masking	false
+battles_localised_name_3k_main_resource_han_port_a_fishing_small	[DEV] Port - A Fishing Small	false
+battles_loading_screen_text_test_map_tile_border		false
+battles_localised_name_3k_main_settlement_city_han_f_small_walled	[DEV] City Han F Small Walled	false
+battles_description_3k_main_settlement_port_han_a_large	[PH] Port Han A Large	false
+battles_description_test_map_terrain_textures	Test map for terrain textures	false
+battles_loading_screen_text_ai_trial_collision_corner		false
+battles_localised_name_3k_main_settlement_city_han_e_small	[DEV] City Han E Small	false
+battles_description_3k_dlc06_gate_battles_nanman_a_v2_both_deployments	[DEV] Gate Battles A	false
+battles_description_3k_main_settlement_city_han_g_small	[PH] City Han G Small	false
+battles_loading_screen_text_3k_main_resource_han_port_a_fishing_large		false
+battles_description_dynasty_any	Any	false
+battles_description_gdc	Rise of Dong Zhuo	false
+battles_localised_name_3k_main_resource_han_farm_rice_a_small	[DEV] Farm - Rice A Small	false
+battles_loading_screen_text_3k_main_settlement_city_han_g_large		false
+battles_loading_screen_text_test_graphics_env		false
+battles_loading_screen_text_test_map_custom_mesh_tile		false
+battles_localised_name_test_map_fire_test_map	[DEV] Fire Test Map	false
+battles_loading_screen_text_3k_main_settlement_city_han_h_small_walled		false
+battles_localised_name_3k_main_settlement_city_han_h_small	[DEV] City Han H Small	false
+battles_description_3k_main_resource_han_tea_a_small	[PH] Tea - A Small	false
+battles_description_demo_ambush	Ambush test map	false
+battles_loading_screen_text_3k_main_settlement_city_han_a_small_walled		false
+battles_localised_name_3k_main_resource_han_livestock_a_horses_small	[DEV] Livestock - A Horses Small	false
+battles_description_3k_main_naval_river_a	[PH]	false
+battles_localised_name_3k_main_settlement_city_han_c_small	[DEV] City Han C Small	false
+battles_localised_name_ai_trial_cliffs_between_deployment	[DEV] AI Trial: Cliffs Between Deployment	false
+battles_loading_screen_text_3k_main_resource_han_tea_a_small		false
+battles_localised_name_3k_main_settlement_city_han_b_medium	[DEV] City Han B Medium	false
+battles_localised_name_test_map_ground_types	[DEV] Ground Types & Water	false
+battles_localised_name_3k_main_ambush_forest_02	[DEV] Ambush - Forest 02	false
+battles_localised_name_3k_main_settlement_port_han_b_medium	[DEV] Port Han B Medium	false
+battles_loading_screen_text_ai_trial_size_500x500		false
+battles_description_3k_main_settlement_city_han_b_small_walled	[PH] City Han B Small Walled	false
+battles_localised_name_3k_main_settlement_port_han_a_small	[DEV] Port Han A Small	false
+battles_localised_name_test_map_tile_blend_edge	[DEV] Tile Blend Edge	false
+battles_loading_screen_text_3k_main_settlement_port_han_a_small		false
+battles_description_3k_main_settlement_city_han_h_small	[PH] City Han H Small	false
+battles_description_3k_main_settlement_port_han_a_medium	[PH] Port Han A Medium	false
+battles_description_3k_main_resource_han_port_a_fishing_small	[PH] Port - A Fishing Small	false
+battles_localised_name_ai_trial_collision_density_low	[DEV] AI Trial: Collision Density Low	false
+battles_localised_name_3k_main_resource_han_tea_a_small	[DEV] Tea - A Small	false
+battles_localised_name_3k_main_settlement_city_han_f_medium	[DEV] City Han F Medium	false
+battles_description_3k_main_settlement_city_han_a_large	[PH] City Han A Large	false
+battles_description_ai_trial_collision_density_low	AI Test Map - 3x 137m coll, 3x 25m coll, 3x 5m coll	false
+battles_loading_screen_text_3k_main_ambush_forest_01		false
+battles_description_3k_main_settlement_city_han_g_large	[PH] City Han G Large	false
+battles_localised_name_ai_trial_centre_hard_collision	[DEV] AI Trial: Centre Hard Collision	false
+battles_description_test_map_lf_plateau	Testing using low frequency to crate plateaus/canyon style features	false
+battles_description_ai_trial_cliffs_between_deployment	AI Test Map - Cliffs between deployments	false
+battles_localised_name_3k_main_settlement_city_han_c_medium	[DEV] City Han C Medium	false
+battles_loading_screen_text_test_map_model_viewer		false
+battles_localised_name_3k_main_settlement_port_han_b_small	[DEV] Port Han B Small	false
+battles_loading_screen_text_3k_main_settlement_port_han_b_medium		false
+battles_description_3k_main_resource_han_port_a_fishing_large	[PH] Port - A Fishing Large	false
+battles_description_3k_main_settlement_port_han_b_small_walled	[PH] Port Han B Small Walled	false
+battles_description_3k_main_ambush_forest_02	Ambush test map	false
+battles_localised_name_3k_main_resource_han_mine_a_jade_large	[DEV] Mine - A Jade Large	false
+battles_description_3k_main_ambush_forest_01	Ambush test map	false
+battles_loading_screen_text_3k_main_settlement_port_han_a_small_walled		false
+battles_loading_screen_text_3k_main_resource_han_salt_a_small		false
+battles_loading_screen_text_3k_main_settlement_city_han_a_medium		false
+battles_localised_name_3k_main_resource_han_mine_a_copper_large	[DEV] Mine - A Copper Large	false
+battles_description_ai_trial_three_lane_map	AI Test Map - Three lane moba style	false
+battles_localised_name_3k_main_resource_han_livestock_a_regular_small	[DEV] Livestock - A Regular Small	false
+battles_loading_screen_text_3k_main_settlement_city_han_e_large		false
+battles_localised_name_test_map_tile_border	[DEV] Tile Border	false
+battles_localised_name_3k_main_settlement_city_han_g_medium	[DEV] City Han G Medium	false
+battles_localised_name_test_map_prefabs_settlement_buildings	[DEV] Prefabs Settlement Buildings	false
+battles_localised_name_3k_main_historical_battle_red_cliff	Battle of Red Cliffs	false
+battles_loading_screen_text_test_map_lf_mask		false
+battles_localised_name_3k_main_resource_han_mine_a_iron_large	[DEV] Mine - A Iron Large	false
+battles_loading_screen_text_test_ccp_fill_all_forest		false
+battles_description_3k_main_settlement_city_han_h_medium	[PH] City Han H Medium	false
+battles_description_3k_main_resource_han_temple_a_small	[PH] Temple - A Small	false
+battles_description_3k_encampment_01	Encampment	false
+battles_description_3k_main_resource_han_port_a_trade_large	[PH] Port - A Trade Large	false
+battles_loading_screen_text_3k_main_resource_han_temple_a_small		false
+battles_loading_screen_text_taipei		false
+battles_description_3k_main_historical_battle_red_cliff	Difficulty level: [[col:traffic_light_very_negative]]Hard[[/col]]\\n\\n208 CE. The warlord Cao Cao, having united northern China, looks now upon the southlands. Upon seizing Jing province, he begins amassing an armada with which he plans to invade the riverlands held by Sun Quan. The Sun court, bitterly divided on the issue of such a war, is silenced when Sun Quan, persuaded by the eminent strategist Zhuge Liang, decides that the chancellor’s relentless ambition must be opposed.\\n\\nCao Cao’s force is untested on the waves, so the newly-forged alliance plots to send a spy to convince him to chain his ships together at port, ostensibly to keep them stable, but in reality making them vulnerable to spreading fire. With the plot hatched, the alliance sets sail – with the fate of China itself hanging in the balance…	false
+battles_localised_name_3k_main_historical_battle_jing_province	The Invasion of Jing Province	false
+battles_localised_name_3k_dlc06_settlement_nanman_a_medium	[DEV] Nanman Settlement A Medium	false
+battles_loading_screen_text_3k_main_historical_battle_xiapi	The tyrant, Dong Zhuo, is long dead, but China remains in chaos. His esteemed general, and ultimate betrayer, Lü Bu, remains a threat and you, Lord Cao Cao endeavour to see him face the sword. He is isolated behind the walls of Xiapi; trapped. Your moment is finally at hand. Break down these walls, storm the city, and bring the dark-hearted bloodhound to justice!	false
+battles_localised_name_3k_dlc06_settlement_nanman_a_small	[DEV] Nanman Settlement A Small	false
+battles_localised_name_3k_main_settlement_city_han_h_medium	[DEV] City Han H Medium	false
+battles_loading_screen_text_ai_trial_collision_density_medium		false
+battles_description_3k_main_historical_battle_xiapi	Difficulty level: [[col:attribute_authority]]Normal[[/col]]\\n\\n199 CE. Lü Bu grows in power, threatening to combine his strength with Yuan Shao and overwhelm all opposition. Yet betrayal comes naturally to Lü Bu, and now – isolated by his would-be allies – that lack of trust may be his undoing. Cao Cao, fearful of this potential threat, and aware of Lü Bu's fickle loyalties, marches now against his final stronghold - Xiapi - to quell his strength before it becomes too great.\\n\\nAfter months of siege warfare, and with morale beginning to dwindle on both sides, Cao Cao now senses the time is right; here, along the seam where north meets south, behind the walls of Xiapi, Lü Bu stands alone against the approaching march of Cao Cao's might.	false
+battles_loading_screen_text_3k_main_resource_han_livestock_a_horses_small		false
+battles_localised_name_3k_main_resource_han_market_a_silk_large	[DEV] Market - A Silk Large	false
+battles_localised_name_3k_main_resource_han_market_a_spice_small	[DEV] Market - A Spice Small	false
+battles_localised_name_3k_main_resource_han_farm_grain_a_small	[DEV] Farm - Grain A Small	false
+battles_loading_screen_text_gdc		false
+battles_loading_screen_text_3k_main_resource_han_market_a_silk_large		false
+battles_loading_screen_text_ai_trial_three_lane_map		false
+battles_loading_screen_text_3k_dlc06_settlement_nanman_a_medium		false
+battles_loading_screen_text_test_map_huangshan		false
+battles_loading_screen_text_3k_main_historical_battle_red_cliff	The stage is set! The winds favour you - flames rise to the heavens, a portent of hope! You are still are outnumbered, however, but brave southlanders are born on the water and worth ten of Cao Cao's northern curs! Strike quickly, before they can retreat and rally; show Cao Cao there is no place for his duplicity here!	false
+battles_description_test_map_model_viewer	Testing lighting and environments	false
+battles_loading_screen_text_3k_main_settlement_port_han_b_small_walled		false
+battles_loading_screen_text_test_map_settlement_prefabs		false
+battles_localised_name_gdc	[DEV] Rise of Dong Zhuo	false
+battles_loading_screen_text_3k_encampment_01		false
+battles_description_3k_main_settlement_city_han_d_small	[PH] City Han D Small	false
+battles_localised_name_test_map_settlement_prefabs	[DEV] Test Settlement Prefabs	false
+battles_loading_screen_text_red_cliff_small		false
+battles_localised_name_test_map_custom_mesh_tile	[DEV] Custom Mesh Tile	false
+battles_loading_screen_text_test_map_zhangjiajie		false
+battles_description_3k_main_settlement_city_han_b_medium	[PH] City Han B Medium	false
+battles_description_3k_main_resource_han_mine_a_iron_large	[PH] Mine - A Iron Large	false
+battles_description_3k_dlc06_settlement_port_nanman_a_small	[DEV] Nanman Settlement Port A Small	false
+battles_localised_name_3k_main_naval_river_a	[DEV] Naval River A	false
+battles_description_3k_main_historical_battle_gamescom	...	false
+battles_localised_name_3k_main_settlement_city_han_d_medium	[DEV] City Han D Medium	false
+battles_loading_screen_text_3k_main_settlement_city_han_g_small_walled		false
+battles_description_3k_dlc06_settlement_nanman_a_medium	[DEV] Nanman Settlement A Medium	false
+battles_description_3k_main_settlement_city_han_f_medium	[PH] City Han F Medium	false
+battles_loading_screen_text_3k_main_settlement_port_han_b_small		false
+battles_loading_screen_text_test_map_flat_map		false
+battles_loading_screen_text_3k_main_resource_han_market_a_spice_large		false
+battles_description_3k_main_settlement_city_han_f_small_walled	[PH] City Han F Small Walled	false
+battles_description_test_map_fire_test_map	Fire Test Map	false
+battles_localised_name_3k_main_settlement_city_han_a_small_walled	[DEV] City Han A Small Walled	false
+battles_description_3k_main_resource_han_livestock_a_horses_small	[PH] Livestock - A Horses Small	false
+battles_description_3k_nanman_settlement_previs	[DEV] nanman settlement previs	false
+battles_loading_screen_text_3k_main_resource_han_farm_rice_a_large		false
+battles_description_test_map_flat_map	Flat Test Map	false
+battles_loading_screen_text_ai_trial_size_350x350		false
+battles_localised_name_3k_dlc06_settlement_port_nanman_a_medium	[DEV] Nanman Settlement Port A Medium	false
+battles_localised_name_3k_main_settlement_city_han_g_large	[DEV] City Han G Large	false
+battles_localised_name_ai_trial_collision_density_high	[DEV] AI Trial: Collision Density High	false
+battles_loading_screen_text_3k_main_settlement_city_han_g_medium		false
+battles_localised_name_3k_main_resource_han_port_a_fishing_large	[DEV] Port - A Fishing Large	false
+battles_localised_name_3k_dlc06_settlement_port_nanman_a_small	[DEV] Nanman Settlement Port A Small	false
+battles_description_test_map_prefabs_settlement_buildings	Testing Prefab Buildings	false
+battles_loading_screen_text_test_map_obstacle_map		false
+battles_localised_name_3k_main_resource_han_market_a_spice_large	[DEV] Market - A Spice Large	false
+battles_localised_name_3k_main_resource_han_farm_rice_a_large	[DEV] Farm - Rice A Large	false
+battles_description_test_map_civilians	Civilians	false
+battles_description_3k_main_resource_han_lumber_a_small	[PH] Lumber - A Small	false
+battles_description_3k_main_historical_battle_changban	Difficulty level: [[col:traffic_light_very_negative]]Hard[[/col]]\\n\\n208 CE. Cao Cao has unified northern China and moves to conquer to the south to secure Jing Province. Following the death of Liu Biao, his son Liu Cong prepares to surrender the territory to the imperial chancellor, but Liu Bei refuses to stomach such capitulation. He sets out south with his forces, attracting many new followers as he travels, as he is well-loved by the people.\\n\\nEventually, Cao Cao's cavalry catch up with his retreating force, laden with civilians; rather than leave them behind, as urged, Liu Bei and his brothers turn now to make a stand against the approaching warlord, for if the people cannot be defended against tyranny, why else do they fight?	false
+battles_description_3k_main_settlement_city_han_d_small_walled	[PH] City Han D Small Walled	false
+battles_description_3k_main_settlement_city_han_f_large	[PH] City Han F Large	false
+battles_localised_name_test_map_subtropical_river	[DEV] Subtropical River	false
+battles_description_3k_main_settlement_city_han_a_small	[PH] City Han A Small	false
+battles_description_3k_main_resource_han_tools_a_regular_large	[PH] Tools - A Regular Large	false
+battles_description_3k_main_resource_han_market_a_silk_small	[PH] Market - A Silk Small	false
+battles_description_3k_main_test_subtropical	Subtropical Test Map	false
+battles_description_3k_main_settlement_city_han_g_small_walled	[PH] City Han G Small Walled	false
+battles_localised_name_3k_main_historical_battle_changban	Stand at Changban	false
+battles_localised_name_3k_dlc06_settlement_nanman_c_small	[DEV] Nanman Settlement C Small Hi	false
+battles_loading_screen_text_3k_main_settlement_port_han_b_large		false
+battles_loading_screen_text_3k_main_settlement_city_han_h_medium		false
+battles_loading_screen_text_3k_main_resource_han_mine_a_jade_small		false
+battles_loading_screen_text_3k_main_historical_battle_xinyang	The coalition is nothing more than empty words now, Lord Cao Cao. If China is to know order, you must make it so. Across the Bian River, Xu Rong arrays his army against you. His men are well-trained and ready for war. Your men have not been so weathered by war, but you must nevertheless rise above to see victory!	false
+battles_description_ai_trial_size_500x500	AI Test Map - Tile Size - 500x500	false
+battles_localised_name_red_cliff_small	[DEV] Red Cliff Small	false
+battles_localised_name_3k_main_resource_han_port_a_trade_small	[DEV] Port - A Trade Small	false
+battles_localised_name_3k_main_historical_battle_gamescom	Ambush of Sun Ren	false
+battles_localised_name_dynasty_arid	Battle of Liangzhou	false
+battles_description_3k_main_resource_han_tools_a_regular_small	[PH] Tools - A Regular Small	false
+battles_localised_name_3k_main_settlement_city_han_f_small	[DEV] City Han F Small	false
+battles_loading_screen_text_3k_main_resource_han_tools_a_master_craftsmen_small		false
+battles_description_test_map_encampment	Encampment	false
+battles_description_3k_main_settlement_city_han_e_small	[PH] City Han E Small	false
+battles_localised_name_test_map_lf_scale	[DEV] LF Resolution Scale	false
+battles_description_3k_main_settlement_city_han_a_small_walled	[PH] City Han A Small Walled	false
+battles_localised_name_dynasty_any	Any	false
+battles_localised_name_3k_dlc06_gate_battles_nanman_b_both_deployments	[DEV] Gate Battles B	false
+battles_description_3k_main_settlement_port_han_b_small	[PH] Port Han B Small	false
+battles_loading_screen_text_3k_main_resource_han_lumber_a_small		false
+battles_loading_screen_text_3k_main_resource_han_market_a_silk_small		false
+battles_description_3k_dlc06_settlement_nanman_c_small	[DEV] Nanman Settlement C Small Hey	false
+battles_loading_screen_text_3k_main_test_subtropical		false
+battles_loading_screen_text_3k_main_settlement_city_han_b_large		false
+battles_description_3k_dlc06_settlement_port_nanman_a_medium	[DEV] Nanman Settlement Port A Medium	false
+battles_loading_screen_text_3k_main_historical_battle_jiangdong	Your advance into Jiangdong has so far been successful, Sun Ce, but now you face a new adversary in Wang Lang. The Qiantang estuary opens into the sea, and against that horizon he has arranged his defences. Yet your future awaits, Sun Ce; a new nation with you as its king. Do not let this petty warlord forestall your ascent!	false
+battles_description_cinematic_arid_mountains	Trailer Map	false
+battles_localised_name_test_ccp_fill_all_forest	[DEV] CCP Test Forest	false
+battles_localised_name_3k_main_resource_han_tools_a_regular_large	[DEV] Tools - A Regular Large	false
+battles_description_test_map_lf_mask	Test for tile masking adjusting the low frequency	false
+battles_loading_screen_text_3k_dlc06_settlement_nanman_c_small		false
+battles_description_test_graphics_env	Graphics Environment Test Map	false
+battles_localised_name_3k_main_settlement_city_han_g_small_walled	[DEV] City Han G Small Walled	false
+battles_localised_name_3k_main_settlement_city_han_b_small	[DEV] City Han B Small	false
+battles_loading_screen_text_dynasty_arid		false
+battles_localised_name_3k_main_resource_han_temple_a_small	[DEV] Temple - A Small	false
+battles_localised_name_3k_main_resource_han_market_a_silk_small	[DEV] Market - A Silk Small	false
+battles_localised_name_3k_dlc06_gate_battles_nanman_a_v2_both_deployments	[DEV] Gate Battles A	false
+battles_localised_name_3k_main_resource_han_lumber_a_small	[DEV] Lumber - A Small	false
+battles_localised_name_3k_main_resource_han_mine_a_iron_small	[DEV] Mine - A Iron Small	false
+battles_localised_name_3k_main_resource_han_salt_a_small	[DEV] Salt - A Small	false
+battles_description_test_map_zhangjiajie	Temperate Zhangjiajie Mountain Test Map	false
+battles_description_3k_main_settlement_port_han_a_small_walled	[PH] Port Han A Small Walled	false
+battles_loading_screen_text_test_map_terrain_textures		false
+battles_loading_screen_text_test_map_encampment		false
+battles_loading_screen_text_3k_main_resource_han_mine_a_copper_small		false
+battles_loading_screen_text_3k_dlc06_gate_battles_nanman_b_both_deployments		false
+battles_localised_name_3k_main_resource_han_mine_a_jade_small	[DEV] Mine - A Jade Small	false
+battles_description_3k_main_settlement_city_han_b_large	[PH] City Han B Large	false
+battles_localised_name_ai_trial_size_350x350	[DEV] AI Trial: Size 350X350	false
+battles_description_3k_dlc06_settlement_nanman_c_medium	[DEV] Nanman Settlement C Medium	false
+battles_loading_screen_text_3k_main_settlement_city_han_b_medium		false
+battles_loading_screen_text_3k_dlc06_settlement_port_nanman_a_medium		false
+battles_description_dynasty_subtropical	Dynasty Subtropical	false
+battles_localised_name_3k_main_historical_battle_jiangdong	Conquest in Jiangdong	false
+battles_description_3k_main_resource_han_farm_rice_a_small	[PH] Farm - Rice A Small	false
+battles_description_3k_main_resource_han_farm_grain_a_large	[PH] Farm - Grain A Large	false
+battles_description_3k_main_resource_han_mine_a_iron_small	[PH] Mine - A Iron Small	false
+battles_description_3k_main_settlement_city_han_h_large	[PH] City Han H Large	false
+battles_description_3k_main_historical_battle_wuzhang_plains	Difficulty level: [[col:attribute_authority]]Normal[[/col]]\\n\\n234 CE. With his Longzhong Plan having ostensibly succeeded, and having pacified the Nanman tribes to the south, Zhuge Liang, chancellor of the Shu Han kingdom, decides that the time is right to embark upon a conquest of the northern kingdom of Cao Wei. After four previous expeditions of varying success, Zhuge Liang embarks upon a fifth - he marches from the Xie Valley and makes camp along the Wei River, at the Wuzhang Plains.\\n\\nThere, where Kua Fu is said to have quenched his burning thirst in ancient waters, he goes head-to-head with his rival, Sima Yi, who has seen the falling of a star, interpreting it as an omen that Zhuge Liang's conquest will end upon the fertile plains!	false
+battles_loading_screen_text_3k_main_resource_han_mine_a_copper_large		false
+battles_description_3k_main_settlement_city_han_a_medium	[PH] City Han A Medium	false
+battles_description_test_map_settlement_prefabs	Test Settlement Prefabs	false
+battles_description_test_map_custom_mesh_tile	Custom Mesh Tile Example	false
+battles_localised_name_test_map_flat_map	[DEV] Flat Map	false
+battles_description_ai_trial_collision_density_high	AI Test Map - 9x 137m coll, 9x 25m coll, 9x 5m coll	false
+battles_description_test_map_obstacle_map	Pathfinding Test Map	false
+battles_description_ai_trial_collision_density_medium	AI Test Map - 6x 137m coll, 6x 25m coll, 6x 5m coll	false

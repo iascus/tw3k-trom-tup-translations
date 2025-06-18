@@ -1,0 +1,77 @@
+key	text	tooltip
+#Loc;1;text/db/agent_localisations__.loc		
+agent_localisations_text_undercover_character_status_active_general	Leading an Army	false
+agent_localisations_text_general_profession_governor	{{tr:ministerial_positions_governors_title}}	false
+agent_localisations_text_agent_localisation_action_execution_status_satisfaction_too_high	[[col:red]]Your spy's satisfaction is too high to perform this action.\\n[[/col]]	false
+agent_localisations_text_agent_localisation_action_execution_status_no_stealable_ceo	[[col:red]]Your spy cannot steal an item as there is nothing that can be stolen.\\n[[/col]]	false
+agent_localisations_text_agent_localisation_action_execution_status_satisfaction_too_low	[[col:red]]Your spy's satisfaction is too low to perform this action.\\n[[/col]]	false
+agent_localisations_text_undercover_character_status_idle_minister	Serving in Office	false
+agent_localisations_text_tooltip_potential_candidate_unlikely	Unlikely Candidate	false
+agent_localisations_text_undercover_character_status_idle_faction_heir	Holding Court	false
+agent_localisations_text_undercover_character_role_required_family	Your spy must be a member of the ruling family before they can engage in family subterfuge.\\n\\nTime will tell if they are worthy of being adopted by the faction leader...	false
+agent_localisations_text_general_profession_candidate	Candidate	false
+agent_localisations_text_general_profession_politician	{{tr:ministerial_positions_court_nobles_title}}	false
+agent_localisations_text_action_execution_status_army_cap_reached	[[col:red]]You are already fielding your maximum number of armies.\\n[[/col]]	false
+agent_localisations_text_tooltip_undercover_network_title	Undercover Network	false
+agent_localisations_text_tooltip_known_provinces_must_be_recruited	Your spy must be recruited into the faction before being able to discover more about its commanderies.	false
+agent_localisations_text_undercover_character_status_extraction	Preparing to Return...	false
+agent_localisations_text_agent_localisation_action_execution_status_garrisoned_cannot_gain_another_force	[[col:red]]Your spy is currently garrisoned and is unable to instigate a military revolt.\\n[[/col]]	false
+agent_localisations_text_tooltip_undercover_character_satisfaction_high	[[col:red]]Their satisfaction is dangerously high![[/col]]	false
+agent_localisations_text_agent_localisation_action_execution_status_is_convalescing	[[col:red]]Your spy is convalescing and is unable to act.\\n[[/col]]	false
+agent_localisations_text_tooltip_undercover_character_satisfaction_normal	Their satisfaction is no cause for concern.	false
+agent_localisations_text_tooltip_must_be_infiltrating_to_spy	Your spy must have arrived at their target faction before they can begin to relay spy information.	false
+agent_localisations_text_general_attribute_tooltip_subterfuge	Cunning||A general's wisdom and wit; their gift for scheming and strategising.	false
+agent_localisations_text_agent_action_dilemma_capture_warning	[[col:red]]Your spy cannot afford to take this action safely! If you commit, the action will succeed but your spy will be captured in the process.[[/col]]	false
+agent_localisations_text_undercover_character_role_required_noble	Your spy must be recruited into their target faction before they can engage in court intrigue and other spy activity.\\n\\nRecruitment is never guaranteed, but a capable-seeming candidate will present a more appealing recruitment prospect! Until then, your spy will scout the target faction's lands, reporting back as they go.	false
+agent_localisations_text_undercover_character_status_idle_governor	Governing	false
+agent_localisations_text_agent_localisation_action_execution_status_cannot_gain_another_force	[[col:red]]You are already fielding the current maximum number of armies.\\n[[/col]]	false
+agent_localisations_text_agent_localisation_action_execution_status_does_not_meet_loyalty_requirement	[[col:red]]Your spy's loyalty is too low to perform this action.\\n[[/col]]	false
+agent_localisations_text_agent_localisation_action_execution_status_cannot_afford_initial_cover_points_cost	[[col:red]]Your spy has insufficient cover to attempt this action.\\n[[/col]]	false
+agent_localisations_text_tooltip_undercover_network_description	Your active spies will help build your undercover network over time.\\n\\nThis web of contacts and other covert assets will support your insidious ambitions, but may be unexpectedly challenged by a faction's own covert defences; be prepared!	false
+agent_localisations_text_tooltip_cover_description	Over time, your spies will establish a convincing personal cover, thereby allowing them to perform increasingly ambitious actions.\\n\\nThe rate at which they establish cover increases with experience.	false
+agent_localisations_text_tooltip_known_characters_description	With time, your will learn more about the characters serving in this faction.	false
+agent_localisations_text_undercover_character_target_grudge	This character's personal grudges will make spying on certain factions impossible.	false
+agent_localisations_text_tooltip_known_characters_title	Characters	false
+agent_localisations_text_undercover_character_status_active_assignment	On Assignment	false
+agent_localisations_text_general_profession_family_member	Family Member	false
+agent_localisations_text_tooltip_cover_title	Cover	false
+agent_localisations_text_undercover_character_role_required_general	Your spy must be a general in an army before they can engage in military spy activity. \\n\\nIn time, they are sure to be called upon to serve in the field...	false
+agent_localisations_text_agent_localisation_action_execution_status_governor_cannot_defect_with_territory	[[col:red]]Your spy cannot surrender the faction's capital.\\n[[/col]]	false
+agent_localisations_text_tooltip_potential_candidate_possible	Possible Candidate	false
+agent_localisations_text_undercover_character_role_required_administrator	Your spy must be a commandery administrator before they can engage in settlement spy activity.\\n\\nConsistent loyal service may lead to their being granted authority over a commandery...	false
+agent_localisations_text_tooltip_character_can_spy	This character is willing to spy for you.	false
+agent_localisations_text_undercover_character_status_awaiting_recruitment	Attempting to Infiltrate...	false
+agent_localisations_text_tooltip_must_be_undeployed_to_spy	This character is currently unavailable to spy for you.	false
+agent_localisations_text_general_attribute_tooltip_instinct	Instinct||A general's audacity and drive; their fervour in battle and in statecraft.	false
+agent_localisations_text_agent_action_result_strings_target	Target:	false
+agent_localisations_text_undercover_character_recall_warning	Abandoning your spy will cause them to join their target faction; they will no longer serve your faction's interests.\\n\\nAre you sure you want to abandon your spy? 	false
+agent_localisations_text_tooltip_undercover_character_satisfaction_description	This is your spy's satisfaction within their target faction, rather than towards your own. If driven to dissatisfaction, they might abandon their mission and return home; if they become too satisfied, they risk forgetting their loyalties and defecting!	false
+agent_localisations_text_tooltip_undercover_character_satisfaction_wavering	[[col:red]]Their satisfaction is wavering![[/col]]	false
+agent_localisations_text_agent_localisation_action_execution_status_guaranteed	[[col:green]]This action cannot fail.\\n[[/col]]	false
+agent_localisations_text_action_execution_status_cannot_be_garrisoned	[[col:red]]Your spy cannot instigate a military revolt whilst garrisoned in a settlement.\\n[[/col]]	false
+agent_localisations_text_tooltip_potential_candidate_warning	This does not guarantee that this spy will or will not be recruited by their target! The needs of a faction are uncertain; only time will tell.	false
+agent_localisations_text_agent_localisation_action_execution_status_gates_cannot_be_sabotaged	[[col:red]]Your spy can only sabotage undamaged gates belonging to walled settlements.\\n[[/col]]	false
+agent_localisations_text_tooltip_increase_per_turn	Gain per turn: 	false
+agent_localisations_text_general_profession_admiral	Admiral	false
+agent_localisations_text_general_attribute_tooltip_authority	Authority||A general's presence and strength of character; their ability to lead and to govern.	false
+agent_localisations_text_tooltip_known_characters_must_be_recruited	Your spy must be recruited into the faction before being able to discover more about its characters.	false
+agent_localisations_text_tooltip_known_provinces_description	With time and administrative appointments, your spy will learn more about this faction's territory.	false
+agent_localisations_text_general_profession_general	General	false
+agent_localisations_text_tooltip_known_armies_title	Armies	false
+agent_localisations_text_tooltip_known_provinces_title	Commanderies	false
+agent_localisations_text_agent_localisation_action_execution_status_agent_cap_reached	[[col:red]]You are already fielding the current maximum number of this agent type.\\n[[/col]]	false
+agent_localisations_text_agent_localisation_action_execution_status_ok	[[col:green]]This spy can perform this action.\\n[[/col]]	false
+agent_localisations_text_general_attribute_tooltip_resolve	Resolve||A general's willpower and heart; their commitment to the fight and to the people.	false
+agent_localisations_text_undercover_character_status_preparing	Preparing to Spy...	false
+agent_localisations_text_tooltip_character_can_spy_undercover_network_disabled	This character will be willing to spy for you once you have the ability to establish an undercover network.	false
+agent_localisations_text_agent_action_result_strings_action	Action:	false
+agent_localisations_text_general_profession_emperor	{$character$|gender={{tr:emperor_header}}|{{tr:empress_header}}}	false
+agent_localisations_text_tooltip_discovered_undercover_character	This general was revealed to be a spy! They have been relieved of command and now await their fate...	false
+agent_localisations_text_tooltip_character_is_spy	This character is spying for your faction.	false
+agent_localisations_text_tooltip_potential_candidate_likely	Likely Candidate	false
+agent_localisations_text_tooltip_known_armies_description	With time and military appointments, your spy will learn more about this faction's armies.	false
+agent_localisations_text_tooltip_known_armies_must_be_recruited	Your spy must be recruited into the faction before being able to discover more about its armies.	false
+agent_localisations_text_undercover_character_status_idle_noble	Carousing	false
+agent_localisations_text_general_attribute_tooltip_expertise	Expertise||A general's proficiency and craft; their mastery of both martial and cultural arts.	false
+agent_localisations_text_agent_localisation_action_execution_status_acting_faction_does_not_meet_minimum_undercover_network_points_requirement	[[col:red]]Your spy's undercover network has not been sufficiently developed to attempt this action.\\n[[/col]]	false
+agent_localisations_text_undercover_character_status_idle_faction_leader	Holding Court	false

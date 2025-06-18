@@ -1,0 +1,23 @@
+key	text	tooltip
+#Loc;1;text/db/deployables__.loc		
+deployables_description_3k_dlc04_deployable_towers	A quickly-constructed defensive battlement, from which arrows can be rained down upon encroaching enemies.	false
+deployables_name_3k_dlc04_deployable_smokescreen	Smokescreen	false
+deployables_tooltip_3k_dlc04_deployable_smokescreen	deployable_smokescreen	false
+deployables_tooltip_3k_dlc04_deployable_crossbow	deployable_crossbow	false
+deployables_description_3k_dlc04_deployable_caltrops	Simple and effective, caltrops are sharp, small, and deployed on the ground before advancing enemies, who then get them caught underfoot.	false
+deployables_name_3k_dlc04_deployable_siege_towers	Siege Towers	false
+deployables_description_3k_dlc04_deployable_stakes	A highly-effective anti-cavalry measure, stakes are planted into the ground at an angle to skewer any horses trampling over them.	false
+deployables_name_3k_dlc04_deployable_oil	Oil	false
+deployables_tooltip_3k_dlc04_deployable_oil	Laying down flammable liquid on the battlefield, before lighting it as the enemy pass over, creates a gruesome, if not effective defensive measure.	false
+deployables_tooltip_3k_dlc04_deployable_stakes	A highly-effective anti-cavalry measure, stakes are planted into the ground at an angle to skewer any horses trampling over them.	false
+deployables_tooltip_3k_dlc04_deployable_towers	A quickly-constructed defensive battlement, from which arrows can be rained down upon encroaching enemies.	false
+deployables_description_3k_dlc04_deployable_siege_towers	A cleverly-designed enclosed structure, large enough to enable soldiers to climb atop of the walls whilst protected from the worst of the defender’s counter-attack.	false
+deployables_tooltip_3k_dlc04_deployable_caltrops	deployable_caltrops	false
+deployables_name_3k_dlc04_deployable_stakes	Wooden Stakes	false
+deployables_name_3k_dlc04_deployable_towers	Defensive Towers	false
+deployables_description_3k_dlc04_deployable_crossbow	deployable_crossbow	false
+deployables_name_3k_dlc04_deployable_caltrops	Caltrops	false
+deployables_name_3k_dlc04_deployable_crossbow	crossbow	false
+deployables_description_3k_dlc04_deployable_oil	Laying down flammable liquid on the battlefield, before lighting it as the enemy pass over, creates a gruesome, if not effective defensive measure.	false
+deployables_description_3k_dlc04_deployable_smokescreen	Deception and misdirection are powerful tools; creating a cloud of smoke obscures movement, as well as confounding and confusing the enemy.	false
+deployables_tooltip_3k_dlc04_deployable_siege_towers	deployable_siege_towers	false

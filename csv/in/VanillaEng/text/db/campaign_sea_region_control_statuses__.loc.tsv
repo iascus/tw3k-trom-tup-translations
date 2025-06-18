@@ -1,0 +1,8 @@
+key	text	tooltip
+#Loc;1;text/db/campaign_sea_region_control_statuses__.loc		
+campaign_sea_region_control_statuses_tooltip_contested	[[col:red]]Contested[[/col]]	false
+campaign_sea_region_control_statuses_tooltip_shared	Shared	false
+campaign_sea_region_control_statuses_tooltip_neutral	Neutral	false
+campaign_sea_region_control_statuses_tooltip_controlled	Controlled	false
+campaign_sea_region_control_statuses_tooltip_allied	Allied	false
+campaign_sea_region_control_statuses_tooltip_hostile	Hostile	false

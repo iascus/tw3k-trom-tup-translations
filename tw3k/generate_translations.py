@@ -127,16 +127,19 @@ class LocOutput(Step):
         logger.info(f'Saved to {loc_filepath}')
 
 
-class VanillaZhcn(InputCsvFile):
+class VanillaZhcn(InputTsvFiles):
     step_no = 1
+    dir_path = 'VanillaZhcn'
 
 
-class VanillaZhtw(InputCsvFile):
+class VanillaZhtw(InputTsvFiles):
     step_no = 2
+    dir_path = 'VanillaZhtw'
 
 
-class VanillaEng(InputCsvFile):
+class VanillaEng(InputTsvFiles):
     step_no = 3
+    dir_path = 'VanillaEng'
 
 
 class TromEng(InputTsvFiles):
@@ -211,10 +214,6 @@ class IascusZhtw(InputCsvFile):
     step_no = 26
 
 
-class TromVanillaKeyOverride(LookupFile):
-    step_no = 31
-
-
 class LookupByText(LookupFile):
     step_no = 32
 
@@ -252,7 +251,6 @@ class VanillaTranslations(Step):
 
     dependencies = {
         'trom_eng': TromEng,
-        'key_map_override': TromVanillaKeyOverride,
         'vanilla_eng': VanillaEng,
         'vanilla_zhtw': VanillaZhtw,
         'vanilla_zhcn': VanillaZhcn,
@@ -260,17 +258,18 @@ class VanillaTranslations(Step):
 
     def _run(self):
         trom_eng = self.trom_eng.data.dropna(subset='Text').set_index('Text')
-        vanilla_eng = self.vanilla_eng.data.drop_duplicates(subset=['Text']).set_index('Text')[['Key']]
-        vanilla_eng = vanilla_eng.rename({'Key': 'VanillaKey'}, axis=1)
-        vanilla_zhcn = self.vanilla_zhcn.data.set_index('Key')[['Text']].rename({'Text': 'zh-cn'}, axis=1)
-        vanilla_zhtw = self.vanilla_zhtw.data.set_index('Key')[['Text']].rename({'Text': 'zh-tw'}, axis=1)
-        data = trom_eng.join(vanilla_eng, how='left').reset_index().set_index('Key')
-        data = data.join(
-            self.key_map_override.data.set_index('TromKey').rename({'VanillaKey': 'VanillaKeyOverride'}, axis=1)
-        ).reset_index()
-        data.index = np.where(~pd.isna(data['VanillaKeyOverride']), data['VanillaKeyOverride'], data['VanillaKey'])
-        data = data.join(vanilla_zhcn).join(vanilla_zhtw).reset_index()[
-            ['Key', 'Text', 'Tooltip', 'VanillaKey', 'VanillaKeyOverride', 'zh-tw', 'zh-cn', 'File']]
+        vanilla_translations = pd.concat([
+            df.data.set_index('Key')[['Text']].rename({'Text': text_col}, axis=1)
+            for df, text_col in [
+                (self.vanilla_eng, 'Text'), (self.vanilla_zhtw, 'zh-tw'), (self.vanilla_zhcn, 'zh-cn')
+            ]], axis=1
+        ).dropna(subset=['Text']).sort_values(['Text', 'zh-tw', 'zh-cn']).drop_duplicates(['Text', 'zh-tw', 'zh-cn'])
+        vanilla_translations['Duplicated'] = vanilla_translations.duplicated(subset='Text', keep=False)
+        vanilla_translations = vanilla_translations.reset_index().set_index('Text').rename({'Key': 'VanillaKey'}, axis=1)
+        data = trom_eng.join(vanilla_translations, how='left').reset_index()[
+            ['Key', 'Text', 'Tooltip', 'VanillaKey', 'zh-tw', 'zh-cn', 'File', 'Duplicated']
+        ].fillna({'Duplicated': False})
+        data = data.loc[~data['Duplicated']]
         return data
 
 
@@ -634,7 +633,6 @@ def main():
             ProcrastinatorZhtw,
             IascusZhcn,
             IascusZhtw,
-            TromVanillaKeyOverride,
             VanillaTranslations,
             LookupByText,
             LookupByKey,

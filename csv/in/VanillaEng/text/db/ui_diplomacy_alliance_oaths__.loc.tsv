@@ -1,0 +1,4 @@
+key	text	tooltip
+#Loc;1;text/db/ui_diplomacy_alliance_oaths__.loc		
+ui_diplomacy_alliance_oaths_localised_title_ui_alliance_oath_coalition	Coalition	false
+ui_diplomacy_alliance_oaths_localised_description_ui_alliance_oath_coalition	A coalition alliance	false

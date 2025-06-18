@@ -79,7 +79,7 @@ building_description_texts_long_description_hv_subtown_nanman_outpost_01	長描�
 building_description_texts_long_description_hv_subtown_nanman_shikar_01	長描述	true
 building_description_texts_long_description_hv_subtown_qiang_01	長描述	true
 building_description_texts_long_description_hv_subtown_qiang_02	長描述	true
-building_description_texts_long_description_hv_subtown_shanyue_01	山越人乃是部落民族，比較不習慣定居在漢人奢侈委靡的城邑中，而習慣在野外紮營度日。雖然這支山地部族並非遊牧民族，但仍較倚重農牧。\\n\\n此族人在紮營地既可自給自足，也能有效準備兵力，應對北方持續加重的入侵威脅。	true
+building_description_texts_long_description_hv_subtown_shanyue_01	山越部落與漢人習俗不同，他們並不習慣於居住在高屋建瓴的城鎮當中，而是習慣於住在帳篷裏。他們並不是遊牧民族，而是以農業爲生，過着田園牧歌一般的生活。\\n\\n帳篷既能滿足山越之民們的生活需求，也能讓他們有效地爲來自北部日益嚴重的入侵威脅作好準備。	true
 building_description_texts_long_description_hv_subtown_shanyue_02	江南一帶長久以來一直是山越之民的故鄉，他們對這片土地懷有深厚的感情。如今野心勃勃的諸侯們要蠶食他們祖輩所居之地，他們必須拿起武器，以奮戰保衛故土。\\n\\n山越之民比漢人更熟悉江南的丘陵地形，他們將自己的堡壘建立在羣山中最險要的地方。他們可以在遠離天災人禍的地方安居樂業。	true
 building_description_texts_long_description_hv_subtown_wuhuan_01	長描述	true
 building_description_texts_long_description_hv_subtown_wuhuan_02	長描述	true
@@ -178,7 +178,7 @@ campaign_post_battle_captive_options_description_enslavehv_campaign_group_captiv
 campaign_post_battle_captive_options_onscreen_name_enslavehv_campaign_group_captive_option_recruit_zhang_yan	招募	false
 cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesFIRST	派文官前去	true
 cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesSECOND	派武官前去	true
-cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesTHIRD	不予理會	true
+cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor_dilemma_imperial_ancestral_ritesTHIRD	隔岸觀火	true
 cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor_dilemma_imperial_banquetFIRST	出席	true
 cdir_events_dilemma_choice_details_localised_choice_label_3k_dlc07_child_emperor_dilemma_imperial_banquetSECOND	缺席	true
 cdir_events_dilemma_choice_details_localised_choice_label_3k_main_historical_dong_li_guo_rebellion_dilemmaFIRST	拒不交人	false
@@ -258,7 +258,7 @@ cdir_events_dilemma_choice_details_localised_choice_label_3k_mtu_leader_concubin
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_buddaFIRST	支持他們	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_buddaSECOND	忽視他們	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_cai_yanFIRST	接受	false
-cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_cai_yanSECOND	拒絕	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_cai_yanSECOND	不可濫用國庫！	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc05FIRST	予以接納	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc05SECOND	將她處死	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_dong_bai_dlc07FIRST	予以接納	true
@@ -268,16 +268,16 @@ cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_empire_rule
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_guan_pingFIRST	接受	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_guan_pingSECOND	拒絕	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_ji_ling_zhang_xun_dlc07FIRST	接受	false
-cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_ji_ling_zhang_xun_dlc07SECOND	拒絕	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_ji_ling_zhang_xun_dlc07SECOND	拒絕他們	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_lu_ji_dlc07FIRST	接受	false
-cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_lu_ji_dlc07SECOND	拒絕	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_lu_ji_dlc07SECOND	拒絕他們	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_northern_army_introFIRST	您需要提高您的聲望！	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_sogdFIRST	雇傭粟特傭兵	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_sogdFOURTH	買劍	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_sogdSECOND	買馬	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_sogdTHIRD	不買任何東西	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_white_tiger_01FIRST	調查	false
-cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_white_tiger_01SECOND	不予理會	false
+cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_white_tiger_01SECOND	隔岸觀火	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_white_tiger_02FIRST	與巨型白虎對峙	false
 cdir_events_dilemma_choice_details_localised_choice_label_hv_dilemma_white_tiger_02SECOND	回去	false
 cdir_events_dilemma_choice_details_localised_choice_label_mtu_dilemma_suggestion_of_rebel_sistersFIRST	接受	true
@@ -386,16 +386,16 @@ cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_white_tiger
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_white_tiger_02SECOND	你同意下人的意見，準備下山。	false
 cdir_events_dilemma_choice_details_localised_choice_title_mtu_dilemma_suggestion_of_rebel_sistersFIRST	得人錢財，與人消災，有錢能使鬼都推磨！	true
 cdir_events_dilemma_choice_details_localised_choice_title_mtu_dilemma_suggestion_of_rebel_sistersSECOND	你堅定的拒絕了與她們妥協。	true
-ceo_equipped_set_bonuses_description_3k_main_item_set_celestial_fury2	不義者天自罰之	true
+ceo_equipped_set_bonuses_description_3k_main_item_set_celestial_fury2	不義之人自有天罰。	true
 ceo_equipped_set_bonuses_description_3k_main_item_set_lord_of_fire	戰場即是你的舞臺。	false
-ceo_equipped_set_bonuses_description_3k_main_item_set_tacticians_design2	千百韜略盡見矣	true
+ceo_equipped_set_bonuses_description_3k_main_item_set_tacticians_design2	三十六計，盡在囊中。	true
 ceo_equipped_set_bonuses_description_3k_mtu_item_set_changshan_zhaozilong	「阿斗有命矣。」	true
 ceo_equipped_set_bonuses_description_3k_mtu_item_set_eight_principle_of_yong	似鳥頭燕尾，又似鳥頭鳳尾，橫豎筆畫絲絲露白，飛筆斷白，燥潤相宜，似枯筆做成。	true
 ceo_equipped_set_bonuses_description_3k_mtu_item_set_invincible	「子龍一身都是膽也！」	true
 ceo_equipped_set_bonuses_description_3k_mtu_item_set_sorrow_and_anger	「人生幾何時，懷憂終年歲。」	true
-ceo_equipped_set_bonuses_title_3k_main_item_set_celestial_fury2	天怒將軍	true
+ceo_equipped_set_bonuses_title_3k_main_item_set_celestial_fury2	天怒	true
 ceo_equipped_set_bonuses_title_3k_main_item_set_lord_of_fire	戰場之王	false
-ceo_equipped_set_bonuses_title_3k_main_item_set_tacticians_design2	龍韜虎略	true
+ceo_equipped_set_bonuses_title_3k_main_item_set_tacticians_design2	軍師的佈局	true
 ceo_equipped_set_bonuses_title_3k_mtu_item_set_changshan_zhaozilong	單騎救主	true
 ceo_equipped_set_bonuses_title_3k_mtu_item_set_eight_principle_of_yong	飛白書	true
 ceo_equipped_set_bonuses_title_3k_mtu_item_set_invincible	虎威	true
@@ -590,7 +590,7 @@ ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_dong_bai_01	董氏明珠	
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_dong_peishan_01	郿侯夫人	true
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_gongsun_jinting_01	賢明母主	true
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_guan_yinping_01	虎女	true
-ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_lu_ji_01	飛將之女	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_lu_ji_01	龍女呂氏	true
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_lu_zheng_01	晉陽女賊	true
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_ma_lanli_01	西羌女傑	true
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_ma_yunlu_01	敦煌公主	true
@@ -601,7 +601,7 @@ ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_xiao_qiao_01	仲氏公主
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_zhang_jinglan_01	黑山母主	true
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_zhang_xingcai_01	敬哀皇后	true
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_lady_zou_yuan_01	荊州夫人	false
-ceo_nodes_title_3k_mtu_ceo_node_career_historical_luo_jun_01	百姓衛士	true
+ceo_nodes_title_3k_mtu_ceo_node_career_historical_luo_jun_01	百姓護衛	true
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_qu_gong_01	獨眼山賊	true
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_wu_anguo_01	獨臂虎熊	true
 ceo_nodes_title_3k_mtu_ceo_node_career_historical_yan_xiang_01	賢達哲士	true
@@ -628,7 +628,7 @@ ceo_nodes_title_hv_ancillary_sogd_officer	粟特士官	true
 ceo_nodes_title_hv_ancillary_weapon_khanda	坎達直劍	true
 ceo_nodes_title_hv_ancillary_white_horse_fellows_officer	白馬義從士官	true
 ceo_nodes_title_hv_ancillary_yuan_officer	袁氏士官	true
-ceo_nodes_title_hv_ceo_node_career_historical_chen_deng_01	日月精忠	true
+ceo_nodes_title_hv_ceo_node_career_historical_chen_deng_01	佐國良才	true
 ceo_nodes_title_hv_ceo_node_career_historical_jiang_qin_01	蕩寇將軍	true
 ceo_nodes_title_hv_ceo_node_career_historical_yuan_yao_01	袁術之子	true
 ceo_nodes_title_hv_ceo_node_career_non_deployable_liu_limin	躬親主母	true
@@ -751,7 +751,7 @@ character_skills_localised_description_hv_historical_skill_ability_healer_03	知
 character_skills_localised_description_hv_historical_skill_ability_metal_01	從一名戰士傳達到另一名戰士的戰鬥口號。	true
 character_skills_localised_description_hv_historical_skill_ability_metal_02	此人行動迅如狡兔，萬軍擒拿亦若無物。	true
 character_skills_localised_description_hv_historical_skill_ability_metal_03	森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。	true
-character_skills_localised_description_hv_historical_skill_ability_scholar_01	往頭上看，看到的是天空，往心裡看，看到的便是黃天。	true
+character_skills_localised_description_hv_historical_skill_ability_scholar_01	上觀則爲天，深察則爲妙。	true
 character_skills_localised_description_hv_historical_skill_ability_scholar_02	皮若堅石，箭矢觸及皆反彈無傷。	true
 character_skills_localised_description_hv_historical_skill_ability_scholar_03	一千發虛擲的矢石，比不上一記時機拿捏得恰到好處的精準射擊。	true
 character_skills_localised_description_hv_historical_skill_ability_veteran_01	森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。	true
@@ -902,7 +902,7 @@ character_skills_localised_description_hv_skill_ability_nature_s_ally_authority	
 character_skills_localised_description_hv_skill_ability_nature_s_ally_cunning	森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。	true
 character_skills_localised_description_hv_skill_ability_nature_s_ally_resolve	森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。	true
 character_skills_localised_description_hv_skill_ability_oil_bomb_cunning	扔擲易燃油罐至目標敵人。	true
-character_skills_localised_description_hv_skill_ability_one_with_heaven	往頭上看，看到的是天空，往心裡看，看到的便是黃天。	true
+character_skills_localised_description_hv_skill_ability_one_with_heaven	上觀則爲天，深察則爲妙。	true
 character_skills_localised_description_hv_skill_ability_one_with_the_land	世世代代在土地上生息能使人培養出與土地的密切情誼。	true
 character_skills_localised_description_hv_skill_ability_one_with_the_people	知道同胞絕不會捨自己而去，能讓人大感安心。	true
 character_skills_localised_description_hv_skill_ability_order_of_tyrant_authority	傲慢即信心所在。	true
@@ -2330,13 +2330,13 @@ character_skills_localised_name_hv_skill_non_deployable_wood_2	決心	true
 character_skills_localised_name_hv_skill_wood_mobilization	動員	true
 custom_battle_loadouts_name_3k_main_custom_battle_loadout_lady_diao_chan_01	夫人	true
 custom_battle_loadouts_name_3k_main_custom_battle_loadout_lady_diao_chan_02	女王	true
-custom_battle_loadouts_name_3k_main_custom_battle_loadout_lady_diao_chan_03	皇帝	true
+custom_battle_loadouts_name_3k_main_custom_battle_loadout_lady_diao_chan_03	皇后	true
 custom_battle_loadouts_name_3k_main_custom_battle_loadout_test	校尉	false
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_chunyu_qiong_01	都尉	true
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_chunyu_qiong_02	都尉	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_chunyu_qiong_02	都督	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_chunyu_qiong_03	西園校尉	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_dong_min_01	都尉	true
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_dong_min_02	將軍	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_dong_min_02	將領	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_dong_min_03	暴君	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_gongsun_jinting_01	軍師	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_gongsun_jinting_02	謀士	true
@@ -2344,7 +2344,7 @@ custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_gongsun_jinting_03	皇�
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_hua_xin_01	舉孝廉	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_hua_xin_02	尚書令	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_hua_xin_03	魏氏三公	true
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_jian_yong_01	說客	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_jian_yong_01	隨從	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_jian_yong_02	好友	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_jian_yong_03	昭德將軍	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_cai_yan_01	俘虜	true
@@ -2364,15 +2364,15 @@ custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_du_02	女王	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_du_03	沛王太妃	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_lu_ji_01	都尉	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_lu_ji_02	將領	true
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_lu_ji_03	飛將之女	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_lu_ji_03	龍女呂氏	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_lu_zheng_01	盜賊	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_lu_zheng_02	諸侯	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_lu_zheng_03	賊首	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_lanli_01	都尉	true
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_lanli_02	將軍	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_lanli_02	將領	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_lanli_03	西羌女傑	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_yunlu_01	都尉	true
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_yunlu_02	將軍	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_yunlu_02	將領	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_ma_yunlu_03	敦煌公主	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_trieu_01	都尉	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_trieu_02	九真盜賊	true
@@ -2390,25 +2390,25 @@ custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_jinglan_01	�
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_jinglan_02	法外之徒	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_jinglan_03	賊首	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_xingcai_01	都尉	true
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_xingcai_02	將軍	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_xingcai_02	將領	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zhang_xingcai_03	敬哀皇后	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zou_yuan_01	荊州夫人	false
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zou_yuan_02	荊州夫人	false
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_lady_zou_yuan_03	荊州夫人	false
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_luo_jun_01	將軍	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_luo_jun_01	將領	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_luo_jun_02	將領	true
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_luo_jun_03	陳郡守衛	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_luo_jun_03	百姓護衛	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_shen_pei_01	都尉	true
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_shen_pei_02	將軍	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_shen_pei_02	將領	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_shen_pei_03	良將	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_wu_anguo_01	都尉	true
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_wu_anguo_02	將軍	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_wu_anguo_02	將領	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_wu_anguo_03	良將	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_yan_xiang_01	謀士	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_yan_xiang_02	主簿	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_yan_xiang_03	賢達哲士	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_zhang_xun_01	都尉	true
-custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_zhang_xun_02	將軍	true
+custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_zhang_xun_02	將領	true
 custom_battle_loadouts_name_3k_mtu_custom_battle_loadout_zhang_xun_03	大將軍	true
 custom_battle_loadouts_name_hv_cb_loadout_cao_cao_01	曹操	false
 custom_battle_loadouts_name_hv_cb_loadout_cao_cao_02	魏王	false
@@ -2731,7 +2731,7 @@ effect_bundles_localised_title_3k_main_effect_bundle_dong_zhou_event_public_orde
 effect_bundles_localised_title_3k_mtu_effect_bundle_dec_public_order_5	殘酷不仁	true
 effect_bundles_localised_title_3k_mtu_effect_bundle_dec_public_order_5_for_cai	昏君	true
 effect_bundles_localised_title_3k_mtu_effect_bundle_inc_public_order_5	慈悲為懷	true
-effect_bundles_localised_title_3k_mtu_effect_bundle_inc_public_order_6	富有耐心	true
+effect_bundles_localised_title_3k_mtu_effect_bundle_inc_public_order_6	耐心忍性	true
 effect_bundles_localised_title_hv_dlc07_zheng_jiang_bundle	生存本能	true
 effect_bundles_localised_title_hv_effect_bundle_coin_confuse_1	鑄造新幣引起了經濟和社會的動蕩。	false
 effect_bundles_localised_title_hv_effect_bundle_coin_confuse_2	鑄造新幣引起了經濟和社會的動蕩。	false
@@ -3055,7 +3055,7 @@ effects_description_hv_effect_replenishment_jingchou_army	荊楚單位補員速�
 effects_description_hv_effect_replenishment_northern_army	北軍單位補員速率[[b]]%+n%[[/b]]	false
 effects_description_hv_effect_replenishment_royal_guards	禁衛單位補員速率[[b]]%+n%[[/b]]	false
 effects_description_hv_effect_replenishment_xiliang_army	西涼單位補員速率[[b]]%+n%[[/b]]	true
-effects_description_hv_effect_rule_of_might_building_construction_time_mod	建造時間[[b]]%+n[[/b]]	true
+effects_description_hv_effect_rule_of_might_building_construction_time_mod	建造時間 [[b]]%+n[[/b]]	true
 effects_description_hv_effect_rule_of_might_character_salary	人物薪餉[[b]]%+n%[[/b]]	true
 effects_description_hv_effect_rule_of_might_force_all_campaign_post_battle_loot_income	戰後擄掠收入[[b]]%+n%[[/b]]	true
 effects_description_hv_effect_rule_of_might_force_redeployment_cost	重新部署成本[[b]]%+n%[[/b]]	true
@@ -3415,7 +3415,7 @@ effects_description_hv_effect_unlock_zhou_the_youth	技能：美周郎	true
 effects_description_hv_effect_xian_chen_ying_charge_bonus	陷陣營衝鋒加成[[b]]%+n[[/b]]	true
 effects_description_hv_effect_xian_chen_ying_damange_resistance	陷陣營傷害抵抗力[[b]]%+n%[[/b]]	true
 effects_description_hv_effect_xian_chen_ying_upkeep	陷陣營維持費[[b]]%+n%[[/b]]	true
-effects_description_hv_effect_yuan_armoury_captain_ability_passive	技能：一條密計	true
+effects_description_hv_effect_yuan_armoury_captain_ability_passive	技能：密計	true
 effects_description_hv_effects_skill_add_unlock_earth	解除單位鎖定：{{tr:hv_tr_earth}}單位	true
 effects_description_hv_effects_skill_add_unlock_fire	解除單位鎖定：{{tr:hv_tr_fire}}單位	true
 effects_description_hv_effects_skill_add_unlock_metal	解除單位鎖定：{{tr:hv_tr_metal}}單位	true
@@ -3699,7 +3699,7 @@ incidents_localised_description_hv_northern_army_unlocked_yuan_shu	鑒於您近�
 incidents_localised_description_hv_northern_army_unlocked_yuan_shu_ai	掌管北軍世兵的領軍校尉現已效忠于袁術。這是支不可小觑的部隊。	false
 incidents_localised_description_hv_northern_army_unlocked_yuan_shu_last	鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。	false
 incidents_localised_description_hv_northern_army_unlocked_yuan_shu_mid	鑒於您近期勢如破竹，北軍中候已宣誓效忠於您。他所指揮的精良軍隊也隨同前來，加入您麾下。	false
-incidents_localised_description_mtu_historical_female_born_incident	喜報！宗族已喜得千金，此女將正式成爲主公宗親，但同儕兄弟的勾心鬥角，怕是在所難免…	false
+incidents_localised_description_mtu_historical_female_born_incident	普天同慶！家族喜得一女！須有新血注入，家族方能強盛，但手足之間也可能會為了地位之爭而彼此猜忌。 	false
 incidents_localised_description_mtu_historical_guan_xing_born_incident	恭賀關將軍麟兒入拿，喜得貴子！此孩兒蘊藏的勇武英氣與其關將軍相比也不遑多讓。關將軍真有福氣！	false
 incidents_localised_description_mtu_historical_guan_yinping_born_incident	恭賀關將軍明珠入拿，喜得千金！此孩兒雖爲女兒身，其蘊藏的勇武英氣與其兄相比卻也不遑多讓。關將軍真有福氣！	false
 incidents_localised_description_mtu_historical_liu_shan_born_incident	恭賀主公麟兒入拿，喜得貴子！此孩兒蘊藏的勇武英氣與其主公相比也不遑多讓。主公真有福氣！	false
@@ -3713,7 +3713,7 @@ incidents_localised_description_mtu_zhu_sisters_robbery_incident	野心勃勃的
 incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_civil	皇家祭祀儀式結束	false
 incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_military	皇家祭祀儀式結束	false
 incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_ancestral_rites_result_nothing	皇家祭祀儀式結束	false
-incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_banquet_result_assassinate	嘗試行刺！	false
+incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_banquet_result_assassinate	嘗試暗殺！	false
 incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_banquet_result_nothing	皇家宴會結束，並無意外發生	false
 incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_grace	皇帝寵信：皇帝賜禮	false
 incidents_localised_title_3k_dlc07_child_emperor_scripted_incident_political_scheme_bad	政治斡旋	false
@@ -3774,11 +3774,11 @@ incidents_localised_title_hv_northern_army_unlocked_yuan_shu	北軍	false
 incidents_localised_title_hv_northern_army_unlocked_yuan_shu_ai	北軍	false
 incidents_localised_title_hv_northern_army_unlocked_yuan_shu_last	北軍	false
 incidents_localised_title_hv_northern_army_unlocked_yuan_shu_mid	北軍	false
-incidents_localised_title_mtu_historical_female_born_incident	弄瓦之喜	false
+incidents_localised_title_mtu_historical_female_born_incident	正室生子	false
 incidents_localised_title_mtu_historical_guan_xing_born_incident	關羽喜得貴子	false
 incidents_localised_title_mtu_historical_guan_yinping_born_incident	關羽喜得千金	false
 incidents_localised_title_mtu_historical_liu_shan_born_incident	劉備喜得貴子	false
-incidents_localised_title_mtu_historical_male_born_incident	弄璋之喜	false
+incidents_localised_title_mtu_historical_male_born_incident	正室生子	false
 incidents_localised_title_mtu_historical_zhang_bao_born_incident	張飛喜得貴子	false
 incidents_localised_title_mtu_historical_zhang_xingcai_born_incident	張飛喜得千金	false
 incidents_localised_title_mtu_two_qiao_marry_incident_npc	二喬	true
@@ -4148,7 +4148,7 @@ names_alt_name_1289534361	崩	false
 names_alt_name_1479868341	氏	false
 names_alt_name_1770238896	土	false
 names_alt_name_528608323	國達	false
-names_alt_name_60007	雲祿	false
+names_alt_name_60007	雲騄	false
 names_alt_name_622849696	氏	false
 names_alt_name_785834225	趙嫗	false
 names_alt_name_962851362	安國	false
@@ -4157,7 +4157,7 @@ names_name_1289534361	崩	false
 names_name_1479868341	氏	false
 names_name_1770238896	土	false
 names_name_528608323	國達	false
-names_name_60007	雲祿	false
+names_name_60007	雲騄	false
 names_name_622849696	氏	false
 names_name_785834225	趙嫗	false
 names_name_962851362	安國	false
@@ -6418,7 +6418,7 @@ unit_abilities_tooltip_text_hv_ability_messenger_recovery	信念可帶來奇跡�
 unit_abilities_tooltip_text_hv_ability_moment_of_courage	勇氣與精力皆以重振。	true
 unit_abilities_tooltip_text_hv_ability_mortal_strike	可發出非常有力的一擊。	true
 unit_abilities_tooltip_text_hv_ability_oil_bomb	扔擲易燃油罐至目標敵人。	true
-unit_abilities_tooltip_text_hv_ability_one_with_heaven	往頭上看，看到的是天空，往心裡看，看到的便是黃天。	true
+unit_abilities_tooltip_text_hv_ability_one_with_heaven	上觀則爲天，深察則爲妙。	true
 unit_abilities_tooltip_text_hv_ability_one_with_the_land	世世代代在土地上生息能使人培養出與土地的密切情誼。	true
 unit_abilities_tooltip_text_hv_ability_one_with_the_people	知道同胞絕不會捨自己而去，能讓人大感安心。	true
 unit_abilities_tooltip_text_hv_ability_order_of_tyrant	傲慢即信心所在。	true
@@ -6498,7 +6498,7 @@ unit_abilities_tooltip_text_hv_historical_ability_healer_03	知道同胞絕不�
 unit_abilities_tooltip_text_hv_historical_ability_metal_01	從一名戰士傳達到另一名戰士的戰鬥口號。	true
 unit_abilities_tooltip_text_hv_historical_ability_metal_02	此人行動迅如狡兔，萬軍擒拿亦若無物。	true
 unit_abilities_tooltip_text_hv_historical_ability_metal_03	森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。	true
-unit_abilities_tooltip_text_hv_historical_ability_scholar_01	往頭上看，看到的是天空，往心裡看，看到的便是黃天。	true
+unit_abilities_tooltip_text_hv_historical_ability_scholar_01	上觀則爲天，深察則爲妙。	true
 unit_abilities_tooltip_text_hv_historical_ability_scholar_02	皮若堅石，箭矢觸及皆反彈無傷。	true
 unit_abilities_tooltip_text_hv_historical_ability_scholar_03	一千發虛擲的矢石，比不上一記時機拿捏得恰到好處的精準射擊。	true
 unit_abilities_tooltip_text_hv_historical_ability_veteran_01	森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。	true
@@ -7339,7 +7339,7 @@ unit_description_historical_texts_text_hv_unit_white_tiger_guardsmen	未完成\\
 unit_description_historical_texts_text_hv_unit_white_tiger_warriors	未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）	true
 unit_description_historical_texts_text_hv_unit_wuhuan_barded_cavalry	未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）	true
 unit_description_historical_texts_text_hv_unit_wuhuan_cavalry	未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）	true
-unit_description_historical_texts_text_hv_unit_xian_chen_ying	孫子曾言圍師必闕，以免敵軍臨危拚命。然而高順的精兵破寨軍卻認為身陷重圍也無妨，只管開殺便是。\\n\\n破寨軍以搗破敵陣的本事聞名，他們遭圍時反而更能發揮實力。哪怕沙場上屍首交疊成山，破寨軍總是能殺出重圍。 	true
+unit_description_historical_texts_text_hv_unit_xian_chen_ying	孫子曾言圍師必闕，以免敵軍臨危拚命。然而高順的精兵破寨軍卻認為身陷重圍也無妨，只管開殺便是。\\n\\n破寨軍以搗破敵陣的本事聞名，他們遭圍時反而更能發揮實力。哪怕沙場上屍首交疊成山，破寨軍總是能殺出重圍。	true
 unit_description_historical_texts_text_hv_unit_xianbei_archer_cavalry	未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）	true
 unit_description_historical_texts_text_hv_unit_xiliang_buqu_archer_cavalry	一邊是長城的陰影，另一邊是草原各部落，西涼民族必須紀律嚴明，艱苦奮鬥。而西涼士兵則必須加倍做到。\\n\\n勇敢而老練的西涼軍是大多數軍閥羡慕的對象，也是西涼軍將領的驕傲。\\n\\n這些馬弓手會模仿他們經常面對的草原部落的戰術，可以熟練地邊射邊跑。他們將攻擊敵人最薄弱的地方，同時會保持距離，沒有弓弩便無法傷害他們。	true
 unit_description_historical_texts_text_hv_unit_xiliang_buqu_crossbowmen	一邊是長城的陰影，另一邊是草原各部落，西涼民族必須紀律嚴明，艱苦奮鬥。而西涼士兵則必須加倍做到。\\n\\n勇敢而老練的西涼軍是大多數軍閥羡慕的對象，也是西涼軍將領的驕傲。\\n\\n這些士兵手持弓弩，向敵人發射大量穿甲箭矢。聰明的將軍會用矛兵支援他們，因為他們是敵人騎兵的主要目標。	true
@@ -7357,12 +7357,12 @@ unit_description_historical_texts_text_hv_unit_xiongnu_archer_cavalry	未完成\
 unit_description_historical_texts_text_hv_unit_xiongnu_barded_cavalry	未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）	true
 unit_description_historical_texts_text_hv_unit_xiongnu_javelineer	未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）	true
 unit_description_historical_texts_text_hv_unit_yellow_dragons	未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）	true
-unit_description_historical_texts_text_hv_unit_ytr_bringers_of_righteousness	這群憂國憂民之士自稱正道使者，用自身錢財購買護甲與兵器。每人都進行過各種訓練，能熟練使用長戟，並透過傳統的弓箭比試來學習箭術。 \\n\\n 他們雖身穿昂貴服飾，志向卻絕非虛榮賣弄。他們的箭術與戟法皆不容忽視，這樣的靈活多變對戰事有極大助益，也因此受到黃巾軍的熱烈歡迎，一同為太平而戰。	false
+unit_description_historical_texts_text_hv_unit_ytr_bringers_of_righteousness	這些百姓自稱布義軍，他們自費購進裝甲與武器。他們飽經訓練，能熟練地使用戟，也在傳統的射術比試中習得了弓術。\\n\\n雖然他們衣着光鮮，但志向卻絕非虛榮賣弄，他們靈活矯健，使弓和戟的本事不容小覷，此等義士若能加入太平大業，定是再好不過。	false
 unit_description_historical_texts_text_hv_unit_ytr_captain	由校尉和衛官來指揮軍隊。	false
 unit_description_historical_texts_text_hv_unit_ytr_gallants_of_the_people	黃巾軍志士個個不怕衝鋒陷陣，但是護民勇士尤其適合固守陣線，要是挪作他用可就浪費了他們一身的本領和熱忱。\\n\\n他們身披重甲，也許不若其他鐵甲兵士防禦周全，但可仰賴手中大斧抵擋敵軍、化解攻勢。正所謂甲冑可破，鬥志不渝。	false
 unit_description_historical_texts_text_hv_unit_ytr_reclaimers	這群士兵的作用能從外表窺知一二：他們的護甲並非成套，而是收集戰後遺留的部件或附近村莊之物拼湊而成。 \\n\\n 他們最大的用處便是在戰鬥結束後收集戰利品、武器和護甲，以便在成就太平之路上添磚加瓦。他們不善於近戰，所以只用一些撿來的連弩支援前綫部隊。	false
 unit_description_historical_texts_text_hv_unit_ytr_righteous_vanguards	替天行道，衝鋒陷陣，為民除害，是彼使命。\\n\\n這些騎兵是黃巾軍中僅有的突擊騎兵。一旦執槍闖入敵陣，便能憑著良甲和武藝持續奮戰，哪怕是頑石般的盔甲也難以抵擋他們灌注義憤的一擊。	false
-unit_description_historical_texts_text_hv_unit_ytr_the_lands_chosen	在道家的中心思想裡，敬重土地、滋養土地，則土地必將恩澤人民。承蒙天地滋養的勇士，有責任運用這份恩賜懲奸除惡，平定四方。\\n\\n這些戰士拾柴造箭、削木做弓，箭法遠超常人。	false
+unit_description_historical_texts_text_hv_unit_ytr_the_lands_chosen	道教的核心思想之一便是敬天愛民，如此方能使天下大治。那些得到上天眷顧的將士們必須將貪官污吏盡數誅滅，纔可稱之爲不辱使命。\\n\\n這些戰士們手持木製的弓箭，有着超凡脫俗的精湛弓術。	false
 unit_description_historical_texts_text_hv_unit_ytr_virtuous_noblemen	黃巾軍起義，劍指危害天下的腐敗，並讓許多人對心中舊有的忠誠觀念產生疑問。 \\n\\n 這些名門賢士拋棄了原先效忠的諸侯，轉而尋求公義，彌補自己的罪過。他們因先前的優渥生活而受過紮實的訓練，並擁有精良的裝備。賢士穿戴華美的護甲與頭盔，騎著威風凜凜的良駒駿馬踏上戰場。 \\n\\n 他們手持鋒利的長槍向前衝鋒，只為突破陣線，與敵軍來場你死我活的近戰廝殺。	false
 unit_description_historical_texts_text_hv_unit_ytr_zealots_of_the_way	漢軍民兵是被迫服役效勞朝廷，黃巾信眾則是為了扶助天下萬民而挺身奮戰。\\n\\n他們堅守職志，比起一般民兵更加善戰。這些信眾執爆裂物著輕甲趕赴沙場，欲將質疑太平道的敵人全數斬除。	false
 unit_description_historical_texts_text_hv_unit_yuan_rong_crossbowmen	未完成\\n\\n（請於MTU的Discord裏TROM頻道提出建議）	true

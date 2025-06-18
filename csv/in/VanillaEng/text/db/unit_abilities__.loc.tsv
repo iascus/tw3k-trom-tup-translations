@@ -1,0 +1,490 @@
+key	text	tooltip
+#Loc;1;text/db/unit_abilities__.loc		
+unit_abilities_tooltip_text_3k_dlc04_way_of_war	The Way ensures that all nearby allies gain improved defence and armour, thereby deflecting blows with increased alacrity. 	false
+unit_abilities_onscreen_name_3k_main_formation_diamond	Diamond	false
+unit_abilities_tooltip_text_3k_dlc04_formation_circle_imperial	The unit forms into a tight circle, presenting a defensive front from any angle.	false
+unit_abilities_onscreen_name_3k_dlc06_ability_rending_strike	Rending Strike	false
+unit_abilities_onscreen_name_ep_dyn_ability_blade_breaker	Blade Breaker	false
+unit_abilities_onscreen_name_3k_main_ability_cry_of_the_forest	Cry of the Forest	false
+unit_abilities_onscreen_name_3k_dlc06_ability_blood_price	Blood Price	false
+unit_abilities_onscreen_name_3k_ytr_ability_recovery	Recovery	false
+unit_abilities_onscreen_name_3k_dlc05_ability_scattering_blows	Scattering Blows	false
+unit_abilities_tooltip_text_3k_main_ability_swift_fingers	Recalling their training, these generals reload with startling quickness.	false
+unit_abilities_onscreen_name_ep_dyn_ability_clear_a_path	Clear a Path	false
+unit_abilities_tooltip_text_3k_dlc05_ability_tactical_withdrawal	There is a time, dishonourable though it may appear in the moment, when living to fight again another day is by far the most sensible option.	false
+unit_abilities_tooltip_text_3k_main_formation_wedge	The unit forms into a spear-tip, best for driving directly through enemy lines.	false
+unit_abilities_tooltip_text_3k_dlc04_ability_heavenly_grace	Diaochan stuns all those around her.	false
+unit_abilities_onscreen_name_ep_dyn_ability_nature_s_ally	Nature's Ally	false
+unit_abilities_onscreen_name_ep_dyn_ability_flaming_fury	Flaming Fury	false
+unit_abilities_onscreen_name_3k_main_ability_god_of_war	God of War	false
+unit_abilities_tooltip_text_3k_dlc06_ability_desperate_rage	When all else fails, great strength is found in the last-ditch desperation of man.	false
+unit_abilities_onscreen_name_ep_dyn_ability_protectors_aegis	Protector's Aegis	false
+unit_abilities_onscreen_name_3k_main_ability_warning_shot	Warning Shot	false
+unit_abilities_tooltip_text_3k_ytr_ability_judgement	A warrior will only fight at their best when they are sure-footed.	false
+unit_abilities_onscreen_name_3k_dlc06_ability_southern_wrath	Southern Wrath	false
+unit_abilities_onscreen_name_3k_main_formation_spear_wall	Shield Wall (Spear)	false
+unit_abilities_tooltip_text_3k_dlc05_ability_exemplar	A shining, typical, and above all appropriate model of how one should be.	false
+unit_abilities_onscreen_name_3k_main_test3	TEST ATTACK 3	false
+unit_abilities_tooltip_text_3k_main_ability_stalwart_defender	Born to hold the line, Xu Chu shrugs off attacks as if they were nothing!	false
+unit_abilities_tooltip_text_3k_dlc04_formation_spear_wall_imperial	The unit presents a wall of shields to the enemy - an offensive formation best used to push forward under arrow fire.	false
+unit_abilities_tooltip_text_3k_dlc05_ability_guard	Everyone is safe when this one is present. It's the one thing you can rely upon when all else is bogged down in murky politics.	false
+unit_abilities_onscreen_name_3k_dlc05_ability_exemplar	Exemplar	false
+unit_abilities_tooltip_text_3k_dlc06_ability_blow_for_blow	That which is a dealt to the enemy must also be felt in return. This is the exchange.	false
+unit_abilities_onscreen_name_3k_main_ability_nature_s_ally	Nature's Ally	false
+unit_abilities_tooltip_text_ep_dyn_ability_restoration	Purchase this to heal this hero to full, at the cost of a permanent upgrade. Purchaseable multiple times.	false
+unit_abilities_tooltip_text_ep_dyn_ability_sweeping_arc	Deliver a sweeping attack that damages nearby opponents in an arc.	false
+unit_abilities_tooltip_text_3k_main_test1	TEST ATTACK 1	false
+unit_abilities_onscreen_name_3k_dlc04_way_of_great_peace	Way of Great Peace	false
+unit_abilities_tooltip_text_3k_main_formation_loose	The unit spreads apart, making it more difficult for arrows to hit them.	false
+unit_abilities_onscreen_name_3k_dlc04_defense_mastery_ranged	Mastery of Ranged Defence	false
+unit_abilities_tooltip_text_3k_main_ability_sundering_strike	With a mighty cleave, Zhang Fei rends his foes' defences.	false
+unit_abilities_onscreen_name_3k_main_hero_relationship_effect_nemesis_present	Nemesis	false
+unit_abilities_tooltip_text_ep_dyn_ability_strength_of_the_mountain	The mountain seems invulnerable - but all things can be worn down with time.	false
+unit_abilities_onscreen_name_3k_dlc05_ability_guard	Guard	false
+unit_abilities_onscreen_name_3k_dlc07_ability_mock	Mock	false
+unit_abilities_onscreen_name_3k_dlc04_formation_mixed_ranged_imperial	Mixed Missile	false
+unit_abilities_onscreen_name_3k_main_ability_imperious_presence	Imperious Presence	false
+unit_abilities_tooltip_text_3k_dlc04_lord_of_the_people	When nearing defeat, a cry of ragged determination boosts the morale and armour of those allies close by.	false
+unit_abilities_onscreen_name_3k_ytr_ability_preach	Preach	false
+unit_abilities_onscreen_name_3k_ytr_ability_favourable_skies	Favourable Skies	false
+unit_abilities_tooltip_text_ep_dyn_ability_sheltering_boughs	The forest provides shelter from the storm.	false
+unit_abilities_onscreen_name_ep_dyn_ability_tripleshot	Triple Shot	false
+unit_abilities_tooltip_text_3k_dlc06_ability_natures_protection	The land gives protection to those who would offer themselves in its defence.	false
+unit_abilities_tooltip_text_3k_dlc06_ability_flying_daggers	These daggers are said never to miss. Not once. Ever.	false
+unit_abilities_onscreen_name_3k_dlc06_ability_stomp	Stomp	false
+unit_abilities_onscreen_name_3k_main_test2	TEST ATTACK 2	false
+unit_abilities_tooltip_text_3k_dlc04_defense_mastery_melee	When the fight is brought to them, they will hold whilst in melee much better than before.	false
+unit_abilities_tooltip_text_3k_dlc04_formation_shield_wall_imperial	The unit presents a wall of shields to the enemy - an offensive formation best used to push forward under arrow fire. However the formation cannot be maintained in melee combat.	false
+unit_abilities_onscreen_name_3k_main_formation_mixed_ranged	Mixed Spear	false
+unit_abilities_tooltip_text_3k_main_test3	TEST ATTACK 3	false
+unit_abilities_tooltip_text_3k_dlc05_formation_spear_wall_yan_baihu	The unit presents a wall of shields to the enemy – an offensive formation best used to push forward under arrow fire.	false
+unit_abilities_onscreen_name_3k_ytr_ability_disorientate	Disorientate	false
+unit_abilities_tooltip_text_3k_dlc04_ability_foresight	Guo Jia can see all that was, and all that will be.	false
+unit_abilities_onscreen_name_3k_ytr_ability_desperate_cry	Desperate Cry	false
+unit_abilities_onscreen_name_ep_dyn_ability_vengeance	Vengeance	false
+unit_abilities_tooltip_text_3k_dlc06_ability_fury	The rage of battle overtakes any warrior, leading them never to relent.	false
+unit_abilities_tooltip_text_3k_dlc07_ability_misplaced_devotion	The Qingzhou warriors place their devotion in their new lord, Cao Cao, fighting to the bitter end. 	false
+unit_abilities_tooltip_text_3k_main_ability_blazing_roar	Zhang Fei's burly howl can rout an entire regiment!	false
+unit_abilities_tooltip_text_3k_main_formation_turtle	The unit presents its shields around and above, severely limiting its movement but making it almost impenetrable to missile attack.	false
+unit_abilities_tooltip_text_3k_main_hero_duel_ability_reject	Reject Duel Challange	false
+unit_abilities_onscreen_name_3k_main_ability_way_of_the_wind	Way of the Wind	false
+unit_abilities_onscreen_name_3k_dlc04_ability_from_the_ashes	From the Ashes	false
+unit_abilities_onscreen_name_3k_dlc06_ability_berserk	Berserk	false
+unit_abilities_onscreen_name_3k_dlc06_ability_flying_daggers	Flying Daggers	false
+unit_abilities_onscreen_name_3k_dlc06_formation_mixed_ranged_vipers	Mixed Missile	false
+unit_abilities_onscreen_name_3k_dlc06_ability_blow_for_blow	Blow for Blow	false
+unit_abilities_onscreen_name_3k_main_ability_stalwart_defender	Stalwart Defender	false
+unit_abilities_onscreen_name_3k_dlc06_ability_wolf_pack	Pack Hunters	false
+unit_abilities_onscreen_name_3k_dlc05_formation_spear_wall_yan_baihu	Shield Wall (Spear)	false
+unit_abilities_onscreen_name_3k_dlc07_ability_heavenly_presence	Heavenly Presence	false
+unit_abilities_tooltip_text_ep_dyn_ability_stalwart_defender	Born to hold the line, this hero shrugs off attacks as if they were nothing!	false
+unit_abilities_onscreen_name_ep_dyn_ability_executioner	Executioner	false
+unit_abilities_onscreen_name_3k_main_hero_duel_ability_retreat	Retreat from Duel	false
+unit_abilities_onscreen_name_ep_dyn_ability_inward_focus	Inward Focus	false
+unit_abilities_onscreen_name_3k_ytr_ability_one_with_the_land	One with the Land	false
+unit_abilities_tooltip_text_ep_dyn_ability_wildfire	This hero moves ever faster as fire spreads through the forest.	false
+unit_abilities_onscreen_name_ep_dyn_ability_restoration	Restoration	false
+unit_abilities_onscreen_name_ep_dyn_ability_inspiring_surge	Inspiring Surge	false
+unit_abilities_onscreen_name_ep_dyn_ability_crushing_blows	Crushing Blows	false
+unit_abilities_tooltip_text_3k_main_formation_TEMP_02	Temporary for Audio test	false
+unit_abilities_tooltip_text_3k_dlc05_ability_poison_volley	The thing to fear is not the bolt itself, but the dark and toxic unguent coated across its ever-increasing tip.	false
+unit_abilities_tooltip_text_ep_dyn_ability_time_of_need	Instantly heal an ally's wounds.	false
+unit_abilities_onscreen_name_ep_dyn_ability_distant_courage	Distant Courage	false
+unit_abilities_tooltip_text_3k_main_ability_condemned_howl	Xu Chu fights with a fatal rage - an erratic fury!	false
+unit_abilities_onscreen_name_3k_dlc06_ability_rapid_cadence	Rapid Cadence	false
+unit_abilities_tooltip_text_3k_main_ability_god_of_war	With a single blow, Guan Yu rends his enemy asunder!	false
+unit_abilities_onscreen_name_3k_dlc04_formation_pike_wall_imperial	Spear Wall	false
+unit_abilities_onscreen_name_3k_dlc04_sacrificial_strike	Sacrificial Strike	false
+unit_abilities_onscreen_name_ep_dyn_ability_immunity_to_fatigue	Fatigue Immunity	false
+unit_abilities_tooltip_text_ep_dyn_ability_nature_s_ally	The forest provides a path, and surer footing, for the respectful. 	false
+unit_abilities_tooltip_text_3k_main_ability_inward_focus	A focus on form allows one to evade and manoeuvre.	false
+unit_abilities_onscreen_name_3k_main_ability_wildfire	Wildfire	false
+unit_abilities_onscreen_name_3k_main_ability_blazing_roar	Blazing Roar	false
+unit_abilities_tooltip_text_3k_dlc04_shield_breaker	Whether through hooking, or hacking, axes have a unique ability to reduce the effectiveness of shields.	false
+unit_abilities_tooltip_text_3k_dlc04_ability_hidden_strike	A hidden strike hits with more power than those that are seen.	false
+unit_abilities_onscreen_name_3k_main_hero_relationship_effect_friend_present	Friend	false
+unit_abilities_tooltip_text_3k_main_ability_heart_seeker	With a single shot, Sun Ren brings death.	false
+unit_abilities_onscreen_name_3k_dlc07_ability_familial_conflict	Familial Conflict	false
+unit_abilities_tooltip_text_3k_dlc06_ability_rending_strike	A well-placed and overbearingly powerful strike will fell any enemy's defences.	false
+unit_abilities_onscreen_name_3k_main_ability_internal_blaze	Internal Blaze	false
+unit_abilities_onscreen_name_3k_dlc04_formation_wedge_imperial	Wedge	false
+unit_abilities_tooltip_text_ep_dyn_ability_burning_soul	The fiercer the flame, the shorter the burn.	false
+unit_abilities_onscreen_name_3k_main_ability_wisdom_of_the_river	Wisdom of the River	false
+unit_abilities_tooltip_text_3k_main_projectile_flaming	As you might expect, fire increases the negative morale impact of missile attacks.	false
+unit_abilities_onscreen_name_ep_dyn_ability_swift_fingers	Swift Fingers	false
+unit_abilities_onscreen_name_3k_main_ability_inward_focus	Inward Focus	false
+unit_abilities_tooltip_text_3k_dlc04_combat_focus	The longer their focus is held, the greater they become at evading, and then striking true. 	false
+unit_abilities_tooltip_text_ep_dyn_ability_crushing_blows	Like a raging fire, this warrior destroys all in their path.	false
+unit_abilities_onscreen_name_3k_main_ability_adamant_resolve	Adamant Resolve	false
+unit_abilities_onscreen_name_3k_main_ability_venomous_shot	Venomous Shot	false
+unit_abilities_onscreen_name_3k_dlc06_tribal_pride	Tribal Pride	false
+unit_abilities_tooltip_text_3k_ytr_ability_all_fronts	A soldier always fights better when they know their sides and rear are protected.	false
+unit_abilities_tooltip_text_3k_ytr_ability_words_of_the_way	An ancient chant that serves as a reminder that Heaven is with the virtuous.	false
+unit_abilities_onscreen_name_ep_dyn_ability_strike_from_afar	Strike from Afar	false
+unit_abilities_tooltip_text_3k_main_ability_the_dragon_s_gaze	Lü Bu's furious gaze causes all to cower!	false
+unit_abilities_onscreen_name_ep_dyn_ability_assassinate	Assassinate	false
+unit_abilities_onscreen_name_3k_main_ability_swift_fingers	Swift Fingers	false
+unit_abilities_tooltip_text_3k_ytr_ability_disorientate	A master of the battlefield can undermine even the surest of soldiers.	false
+unit_abilities_tooltip_text_ep_dyn_ability_masters_patience	With time to prepare, this hero becomes an unstoppable force.	false
+unit_abilities_tooltip_text_ep_dyn_ability_immunity_to_fatigue	Bestows immunity to fatigue.	false
+unit_abilities_onscreen_name_ep_dyn_ability_cleansing_aura	Cleansing Aura	false
+unit_abilities_onscreen_name_3k_dlc05_ability_qiao_sisters	Qiao Sisters	false
+unit_abilities_tooltip_text_3k_dlc04_formation_turtle_imperial	The unit presents its shields around and above, severely limiting its movement but making it almost impenetrable to missile attack.	false
+unit_abilities_onscreen_name_3k_dlc06_ability_trumpet	Trumpet	false
+unit_abilities_tooltip_text_3k_main_formation_TEMP_03	Temporary for Audio test	false
+unit_abilities_tooltip_text_3k_dlc07_ability_do_or_die	Throwing away their armour, these troops charge forward without care for their own survival.	false
+unit_abilities_onscreen_name_3k_dlc06_ability_endless_volley	Endless Volley	false
+unit_abilities_onscreen_name_3k_dlc04_caltrops	Caltrops	false
+unit_abilities_onscreen_name_ep_dyn_ability_elemental_vigour	Elemental Vigour	false
+unit_abilities_onscreen_name_ep_dyn_ability_fire_bomb	Fire Bomb	false
+unit_abilities_tooltip_text_3k_dlc06_ability_blood_price	There is a price for every action. Especially war.	false
+unit_abilities_onscreen_name_3k_dlc04_ability_heavenly_grace	Heavenly Grace	false
+unit_abilities_onscreen_name_ep_dyn_ability_burning_soul	Burning Soul	false
+unit_abilities_tooltip_text_ep_dyn_ability_ceaseless_assault	This warrior strikes with the tireless rhythm of the blacksmith's hammer.	false
+unit_abilities_tooltip_text_3k_ytr_ability_favourable_skies	Knowing when best to shoot is most effective when you are the one being shot at.	false
+unit_abilities_tooltip_text_ep_dyn_ability_cavalry_master	Soldier and steed combine into a formidable fighting force.	false
+unit_abilities_onscreen_name_3k_main_formation_loose	Loose	false
+unit_abilities_onscreen_name_3k_main_formation_TEMP_02	Temp 02	false
+unit_abilities_tooltip_text_ep_dyn_ability_distant_courage	This hero directs and empowers their allies from a… safer distance.	false
+unit_abilities_tooltip_text_3k_dlc04_caltrops	Simple nut husks, once trodden upon, cause extreme pain and slow movement.	false
+unit_abilities_tooltip_text_3k_main_ability_earth_shattering_strike	A furious strike that sends anyone nearby reeling.	false
+unit_abilities_tooltip_text_3k_dlc06_formation_mixed_ranged_vipers	The unit splits into missiles at the back, in rows, with melee in front protecting them.	false
+unit_abilities_tooltip_text_3k_main_formation_mixed_ranged	The unit splits into missiles at the back, in rows, with melee in front protecting them.	false
+unit_abilities_tooltip_text_3k_dlc06_ability_defiant_cry	The Nanman are proud warriors, and display their battle readiness appropriately.	false
+unit_abilities_onscreen_name_3k_dlc04_lord_of_heaven	Lord of Heaven	false
+unit_abilities_tooltip_text_3k_main_ability_devastating_roar	The roar of fury crushes enemy morale!	false
+unit_abilities_tooltip_text_3k_main_ability_way_of_the_wind	Zhuge Liang predicts the wind through study of the world.	false
+unit_abilities_onscreen_name_3k_dlc06_ability_fury	Fury	false
+unit_abilities_onscreen_name_3k_dlc06_ability_gore	Gore	false
+unit_abilities_tooltip_text_3k_main_ability_internal_blaze	Ma Chao's internal strife manifests in bursts of rage; uncontrollable charges at the enemy!	false
+unit_abilities_onscreen_name_ep_dyn_ability_ceaseless_assault	Ceaseless Assault	false
+unit_abilities_onscreen_name_3k_main_formation_turtle	Turtle	false
+unit_abilities_onscreen_name_3k_main_ability_vengeance	Vengeance	false
+unit_abilities_tooltip_text_ep_dyn_ability_tripleshot	Loose three arrows in an arc, piercing all enemies in their path.	false
+unit_abilities_onscreen_name_3k_ytr_ability_death_ground	Killing Ground	false
+unit_abilities_tooltip_text_ep_dyn_ability_vengeance	Arrows cannot slay a dragon - they merely make it angry.	false
+unit_abilities_onscreen_name_3k_main_ability_rage_of_lu_bu	Rage of Lü Bu	false
+unit_abilities_onscreen_name_ep_dyn_ability_cry_of_the_forest	Cry of the Forest	false
+unit_abilities_tooltip_text_3k_main_ability_roar_of_the_beast	The fury of the victorious warrior is fearful to behold!	false
+unit_abilities_tooltip_text_3k_dlc06_ability_off_guard	A warrior should really watch his footwork more closely.	false
+unit_abilities_onscreen_name_3k_main_hero_relationship_effect_family_killed	Fallen Relative	false
+unit_abilities_onscreen_name_ep_dyn_ability_multishot	Multi-shot	false
+unit_abilities_tooltip_text_3k_dlc05_ability_two_zhangs	It is an established fact to friends, but never to foes, that two Zhangs are better than one.	false
+unit_abilities_tooltip_text_3k_ytr_ability_desperate_cry	It is not always the command that motivates, but the way it is given.	false
+unit_abilities_tooltip_text_3k_main_ability_wildfire	Gan Ning moves ever faster, as fire spreads through the forest.	false
+unit_abilities_onscreen_name_3k_dlc07_ability_xiezhi_roar	Xiezhi Roar	false
+unit_abilities_onscreen_name_ep_dyn_ability_wildfire	Wildfire	false
+unit_abilities_onscreen_name_3k_dlc04_smokescreen	Smoke Screen	false
+unit_abilities_tooltip_text_3k_dlc04_defense_mastery_ranged	When arrows fall like hail, their skin will be as stone before the onslaught!	false
+unit_abilities_tooltip_text_3k_dlc04_lord_of_heaven	To fall is to become a martyr to the cause - in such an event, those nearby will fight ever harder to avenge their lord.	false
+unit_abilities_tooltip_text_3k_main_formation_circle	The unit forms into a tight circle, presenting a defensive front from any angle.	false
+unit_abilities_onscreen_name_ep_dyn_ability_analyse_weakness	Analyse Weakness	false
+unit_abilities_tooltip_text_3k_ytr_ability_knowledge_of_the_mind	If you can conquer the mind of the enemy then half the battle is won.	false
+unit_abilities_onscreen_name_3k_dlc07_ability_rally_the_troops	Rally the Troops	false
+unit_abilities_onscreen_name_ep_dyn_ability_arrow_storm	Arrow Storm	false
+unit_abilities_tooltip_text_3k_dlc06_ability_hold_firm	Resolve unwavering and endurance seemingly increasing, despite the onslaught continuing.	false
+unit_abilities_onscreen_name_3k_dlc07_ability_do_or_die	Do or Die	false
+unit_abilities_onscreen_name_3k_main_ability_blood_fury	Blood Fury	false
+unit_abilities_tooltip_text_3k_dlc04_lord_of_the_land	The land returns the fury of its warriors, devastating all foes in the area and reducing their ability to defend themselves in melee.	false
+unit_abilities_tooltip_text_3k_dlc07_ability_ceasefire	Liu Zhang calls a ceasefire for all nearby units, delaying the enemy while his allies work on a counter-attack.	false
+unit_abilities_tooltip_text_3k_dlc07_ability_geographic_mastery	Zhang He has a great understanding of geography, and can bend it to his own use.	false
+unit_abilities_tooltip_text_3k_main_ability_hamstring	A carefully-placed strike hobbles the unlucky enemy.	false
+unit_abilities_onscreen_name_3k_dlc04_formation_diamond_imperial	Diamond	false
+unit_abilities_onscreen_name_3k_main_ability_hail_of_arrows	Hail of Arrows	false
+unit_abilities_onscreen_name_3k_dlc06_ability_expose	Expose	false
+unit_abilities_onscreen_name_3k_dlc07_ability_misplaced_devotion	Misplaced Devotion	false
+unit_abilities_onscreen_name_3k_main_ability_inspiring_words	Inspiring Words	false
+unit_abilities_onscreen_name_3k_dlc06_ability_cautious_cadence	Cautious Cadence	false
+unit_abilities_onscreen_name_3k_main_hero_relationship_effect_brother_killed	Fallen Oathsworn	false
+unit_abilities_tooltip_text_3k_main_hero_duel_ability_propose	Challenge a hero to a duel. Strategists cannot duel. 	false
+unit_abilities_onscreen_name_3k_main_hero_duel_ability_accept	Accept Duel	false
+unit_abilities_tooltip_text_3k_main_hero_relationship_effect_family_present	A close relative joins the fray; strength and unity!	false
+unit_abilities_tooltip_text_3k_main_ability_reign_of_terror	The tyrant rages; his men hold through fear.	false
+unit_abilities_tooltip_text_ep_dyn_ability_cleansing_aura	Gradually heal nearby allies over time. 	false
+unit_abilities_onscreen_name_ep_dyn_ability_masters_patience	Master's Patience	false
+unit_abilities_tooltip_text_3k_main_hero_duel_ability_accept	Accept Duel Challenge	false
+unit_abilities_onscreen_name_3k_main_ability_the_dragon_s_gaze	The Dragon's Gaze	false
+unit_abilities_tooltip_text_3k_dlc04_way_of_thunder	All nearby are imbued with the swiftness and the power of the storm, striking faster, as if they were lightning.	false
+unit_abilities_tooltip_text_3k_main_hero_duel_ability_retreat	Retreat from the duel and battle? This will bring dishonour and penalties!	false
+unit_abilities_tooltip_text_3k_main_ability_vengeance	Xiahou Dun fights best in the thick of it, but may lose his composure.	false
+unit_abilities_tooltip_text_3k_main_ability_smouldering_fury	The more he is opposed, the stronger Lü Bu becomes!	false
+unit_abilities_tooltip_text_3k_main_ability_inspiring_surge	Inspirational deeds spur forces to swifter action!	false
+unit_abilities_tooltip_text_ep_dyn_ability_seismic_slam	Deliver a powerful blow that damages enemies in a targeted area.	false
+unit_abilities_onscreen_name_3k_ytr_ability_condemn	Condemn	false
+unit_abilities_tooltip_text_3k_dlc04_way_of_great_peace	The chanting, once begun, inspires all around to keep fighting, no matter the odds.	false
+unit_abilities_tooltip_text_ep_dyn_ability_stifling_deluge	A suppressing aura that confounds the foe.	false
+unit_abilities_onscreen_name_3k_main_ability_unyielding_earth	Unyielding Earth	false
+unit_abilities_tooltip_text_3k_dlc06_tribal_pride	The tribe will never die as long as there are proud warriors left to defend it.	false
+unit_abilities_tooltip_text_3k_dlc06_ability_trumpet	The fury of the victorious elephant is fearful to behold!	false
+unit_abilities_onscreen_name_ep_dyn_ability_blood_rush	Blood Rush	false
+unit_abilities_tooltip_text_3k_dlc04_smokescreen	Thick plumes of smoke obscure line of sight, making units seem temporarily invisible.	false
+unit_abilities_tooltip_text_3k_dlc06_ability_gore	The focused power to rip through flesh and bone is most gruesome, but most effective.	false
+unit_abilities_tooltip_text_3k_ytr_ability_death_ground	Where others see rocks and trees, you see advantages.	false
+unit_abilities_tooltip_text_ep_dyn_ability_inward_focus	A focus on form allows one to evade and manoeuvre.	false
+unit_abilities_tooltip_text_3k_main_hero_relationship_effect_family_killed	A close relative, slain; vengeance calls!	false
+unit_abilities_tooltip_text_ep_dyn_ability_quickfire	The hero fires and fires, faster and faster, never relenting.	false
+unit_abilities_onscreen_name_3k_dlc04_shield_breaker	Shield Breaker	false
+unit_abilities_tooltip_text_3k_main_hero_relationship_effect_brother_present	An oathsworn kinsperson joins the fray; courage and determination!	false
+unit_abilities_tooltip_text_3k_main_ability_wisdom_of_the_river	Knowledge of the enemy weakens their defences.	false
+unit_abilities_tooltip_text_3k_main_ability_final_rush	With a final burst of speed, battle's end is hastened.	false
+unit_abilities_onscreen_name_3k_ytr_ability_one_with_heaven	One with Heaven	false
+unit_abilities_tooltip_text_3k_main_ability_impetuous_charge	A reckless charge, inspiring but exhausting!	false
+unit_abilities_tooltip_text_3k_dlc06_ability_dense_jungle_nanman	The dense and tough undergrowth that plagues the jungles of the South is a hindrance to all those who try to penetrate into the heartlands of the Nanman.	false
+unit_abilities_onscreen_name_3k_dlc06_ability_hold_firm	Hold Firm	false
+unit_abilities_tooltip_text_3k_dlc06_ability_cautious_cadence	Drumming for morale	false
+unit_abilities_tooltip_text_3k_main_ability_earthen_rampart	The strength of the earth holds against the charge.	false
+unit_abilities_tooltip_text_3k_ytr_ability_knowledge_of_the_body	Sometimes it's not what you hit or how hard, but where.	false
+unit_abilities_onscreen_name_3k_dlc04_slayer_of_heroes	Slayer of Heroes	false
+unit_abilities_onscreen_name_3k_main_ability_impetuous_charge	Impetuous Charge	false
+unit_abilities_onscreen_name_3k_dlc04_formation_hollowed_square_imperial	Hollowed Square	false
+unit_abilities_onscreen_name_3k_dlc04_show_of_force	Show of Force	false
+unit_abilities_onscreen_name_3k_main_test1	TEST ATTACK 1	false
+unit_abilities_tooltip_text_ep_dyn_ability_adamant_resolve	Determination and grit allow all attacks to be weathered.	false
+unit_abilities_onscreen_name_3k_main_ability_heart_seeker	Heart Seeker	false
+unit_abilities_tooltip_text_3k_dlc06_ability_crippling_blow	Everyone has a weak spot. Finding it, then exploiting it, is the cornerstone of victory.	false
+unit_abilities_tooltip_text_3k_ytr_ability_strength_of_the_land	The land is not just the earth, but the forests and mountains, and all the hidden, ancient places.	false
+unit_abilities_onscreen_name_3k_main_ability_poisioned_blade	Poisoned Blade	false
+unit_abilities_tooltip_text_3k_main_ability_flames_of_the_phoenix	A devastating swing with the power of the risen inferno!	false
+unit_abilities_tooltip_text_3k_main_hero_relationship_effect_brother_killed	An oathsworn kinsperson, slain; vengeance calls!	false
+unit_abilities_onscreen_name_ep_dyn_ability_stone_bulwark	Stone Bulwark	false
+unit_abilities_tooltip_text_ep_dyn_ability_blade_breaker	Blades glance harmlessly off this hero's armour.	false
+unit_abilities_tooltip_text_3k_dummy_ability	Dummy ability only, not for display	false
+unit_abilities_onscreen_name_3k_dlc05_ability_two_zhangs	Two Zhangs	false
+unit_abilities_onscreen_name_3k_dlc06_ability_ancient_wisdom	Ancient Wisdom	false
+unit_abilities_tooltip_text_3k_dlc06_ability_berserk	A wounded foe is a dangerous beast.	false
+unit_abilities_tooltip_text_3k_dlc06_ability_endless_volley	"…and the arrows shall fall from above like a deluge from heaven."	false
+unit_abilities_tooltip_text_ep_dyn_ability_flowing_water	Move like the river: unstopping, unstoppable.	false
+unit_abilities_onscreen_name_3k_dlc04_combat_focus	Focused on Combat	false
+unit_abilities_tooltip_text_ep_dyn_ability_clear_a_path	Send a shockwave away from the hero, damaging enemies in its path.	false
+unit_abilities_onscreen_name_3k_main_ability_smouldering_fury	Smouldering Fury	false
+unit_abilities_tooltip_text_3k_ytr_ability_commanding_shout	A war cry from one warrior to another.	false
+unit_abilities_onscreen_name_3k_dlc06_ability_aggressive_cadence	Aggressive Cadence	false
+unit_abilities_tooltip_text_3k_main_ability_tenacity_of_steel	The longer this warrior fights, the stronger they become!	false
+unit_abilities_onscreen_name_3k_main_ability_roar_of_the_beast	Roar of the Beast	false
+unit_abilities_onscreen_name_ep_dyn_ability_palm_strike	Palm Strike	false
+unit_abilities_onscreen_name_3k_dlc04_way_of_thunder	Way of the Thunder	false
+unit_abilities_onscreen_name_ep_dyn_ability_precision_shot	Precision Shot	false
+unit_abilities_onscreen_name_3k_main_ability_resolve_of_the_righteous	Resolve of the Righteous	false
+unit_abilities_onscreen_name_ep_dyn_ability_ordered_mind	Ordered Mind	false
+unit_abilities_tooltip_text_3k_main_formation_diamond	The unit forms into a hard-edged diamond, good for both offence and defence but limiting manoeuvrability.	false
+unit_abilities_tooltip_text_3k_main_ability_blade_breaker	The tyrant laughs as blades glance harmlessly off his armour.	false
+unit_abilities_onscreen_name_ep_dyn_ability_stalwart_defender	Stalwart Defender	false
+unit_abilities_tooltip_text_3k_main_ability_quickfire	Taishi Ci fires and fires, faster and faster, never relenting.	false
+unit_abilities_tooltip_text_3k_dlc06_ability_southern_wrath	The tribes of the south do not take kindly to, and fight with great power against, any aggressive interlopers.	false
+unit_abilities_onscreen_name_3k_main_ability_earth_shattering_strike	Earth-shattering Strike	false
+unit_abilities_onscreen_name_ep_dyn_ability_deep_rooted	Deep-rooted	false
+unit_abilities_tooltip_text_3k_dlc06_ability_power_of_love	Those that heaven has placed together shall now rend their foes asunder.	false
+unit_abilities_tooltip_text_ep_dyn_ability_strike_from_afar	With space comes calm, and with calm comes efficiency.	false
+unit_abilities_onscreen_name_3k_main_ability_quickfire	Quickfire	false
+unit_abilities_tooltip_text_3k_main_ability_imperious_presence	Cao Cao's ordered mind encourages his forces to more efficient action!	false
+unit_abilities_tooltip_text_3k_dlc06_ability_reckless_strike	Should this blow strike true, the battle is done. Should it not, then… it may still also be done.	false
+unit_abilities_tooltip_text_3k_main_ability_elemental_vigour	The longer Zhao Yun fights, the greater and more inspiring he becomes!	false
+unit_abilities_onscreen_name_ep_dyn_ability_blazing_glory	Blazing Glory	false
+unit_abilities_onscreen_name_3k_ytr_ability_one_with_the_people	One with the People	false
+unit_abilities_onscreen_name_3k_main_hero_relationship_effect_brother_present	Oathsworn	false
+unit_abilities_tooltip_text_3k_main_projectile_suppressing_fire	Suppressing fire is a constant stream of arrows designed to slow units down or stop them in their tracks.	false
+unit_abilities_onscreen_name_3k_main_ability_sight_of_the_dragon	Sight of the Dragon	false
+unit_abilities_tooltip_text_3k_dlc04_show_of_force	This warning shot may very well strike true, but also decreases the morale of any enemies in its path.	false
+unit_abilities_tooltip_text_3k_main_test2	TEST ATTACK 2	false
+unit_abilities_tooltip_text_ep_dyn_ability_stone_bulwark	With skin of earth, arrows rebound, harmless.	false
+unit_abilities_tooltip_text_3k_main_ability_unstoppable	His relentless attack makes foes cower before him!	false
+unit_abilities_onscreen_name_3k_ytr_ability_knowledge_of_the_spirit	Knowledge of the Spirit	false
+unit_abilities_onscreen_name_3k_dlc04_lord_of_the_people	Lord of the People	false
+unit_abilities_tooltip_text_3k_main_ability_binding_fury	The strength of the forest brought to bear against a single foe.	false
+unit_abilities_tooltip_text_3k_dlc06_ability_rapid_cadence	Drumming for speed	false
+unit_abilities_onscreen_name_3k_main_formation_circle	Circle	false
+unit_abilities_tooltip_text_3k_dlc07_ability_mighty_thrust	With a shout, Yan Liang spurs on his horse. He can plough into enemies with such force that scores of men go flying.	false
+unit_abilities_onscreen_name_3k_dlc05_ability_tactical_withdrawal	Tactical Withdrawal	false
+unit_abilities_onscreen_name_3k_main_ability_hamstring	Hamstring	false
+unit_abilities_tooltip_text_ep_dyn_ability_blood_rush	Deliver a vicious attack that damages enemies in a narrow cone. Deals high damage to enemy heroes.	false
+unit_abilities_tooltip_text_3k_main_ability_sight_of_the_dragon	The enemy is located; the earth reveals them.	false
+unit_abilities_onscreen_name_3k_main_hero_duel_ability_reject	Reject Duel	false
+unit_abilities_onscreen_name_3k_dlc04_way_of_war	Way of War	false
+unit_abilities_onscreen_name_3k_dlc06_ability_dense_jungle_han	Miasma	false
+unit_abilities_tooltip_text_3k_dlc06_ability_swift_steps	One foot in front of the other in rapid succession – this is the key to swiftness.	false
+unit_abilities_tooltip_text_ep_dyn_ability_executioner	All it takes is a single moment of weakness for the killing blow to slip through.	false
+unit_abilities_tooltip_text_3k_dlc04_formation_loose_imperial	The unit spreads apart, making it more difficult for arrows to hit them.	false
+unit_abilities_onscreen_name_3k_dlc05_ability_poison_volley	Poison Volley	false
+unit_abilities_onscreen_name_3k_main_ability_tempered_deflection	Tempered Deflection	false
+unit_abilities_onscreen_name_3k_dlc05_ability_stalker	Stalker	false
+unit_abilities_onscreen_name_3k_dlc04_ability_foresight	Foresight	false
+unit_abilities_onscreen_name_3k_dlc05_ability_analyse_weakness	Analyse Weakness	false
+unit_abilities_tooltip_text_ep_dyn_ability_inspiring_surge	Inspirational deeds spur forces to swifter action!	false
+unit_abilities_tooltip_text_3k_dlc05_ability_into_the_breach	A charge, fuelled by stern hearts and even sterner blades, will rip enemy lines apart.	false
+unit_abilities_onscreen_name_3k_main_hero_relationship_effect_family_present	Close Relative	false
+unit_abilities_onscreen_name_ep_dyn_ability_tenacity_of_steel	Tenacity of Steel	false
+unit_abilities_tooltip_text_ep_dyn_ability_flaming_fury	Unleash the hero's rage, damaging all enemies around them.	false
+unit_abilities_tooltip_text_ep_dyn_ability_ordered_mind	With discipline of thought comes efficient action.	false
+unit_abilities_tooltip_text_3k_main_ability_rage_of_lu_bu	With a mighty sweep, Lü Bu strikes all around him.	false
+unit_abilities_onscreen_name_3k_dlc04_ability_hidden_strike	Hidden Strike	false
+unit_abilities_tooltip_text_3k_main_hero_relationship_effect_friend_present	A close friend joins the fray; courage and determination!	false
+unit_abilities_onscreen_name_3k_ytr_ability_suprise_attack	Surprise Attack	false
+unit_abilities_tooltip_text_3k_main_ability_venomous_shot	Fired from afar, poison arrows strike that much deeper.	false
+unit_abilities_tooltip_text_3k_dlc04_slayer_of_heroes	When fighting against heroes on the battlefield they will find their skills and prowess much improved.	false
+unit_abilities_tooltip_text_3k_dlc05_ability_targeted_strike	One shot, timed and aimed to perfection, is often more important than a thousand wasted volleys.	false
+unit_abilities_tooltip_text_3k_main_hero_relationship_effect_friend_killed	A friend, slain; vengeance calls!	false
+unit_abilities_onscreen_name_3k_dlc06_ability_reckless_strike	Reckless Strike	false
+unit_abilities_onscreen_name_3k_main_formation_TEMP_01	Temp 01	false
+unit_abilities_onscreen_name_ep_dyn_ability_double_strike	Double Strike	false
+unit_abilities_tooltip_text_ep_dyn_ability_analyse_weakness	A sharp mind dissects enemy heroes' styles, making them vulnerable to attack.	false
+unit_abilities_onscreen_name_3k_main_ability_fleet_footed	Fleet-footed	false
+unit_abilities_onscreen_name_3k_main_formation_hollowed_square	Hollowed Square	false
+unit_abilities_onscreen_name_3k_main_formation_shield_wall	Shield Wall	false
+unit_abilities_tooltip_text_3k_main_hero_relationship_effect_nemesis_present	A sworn nemesis joins the fray; fury and might!	false
+unit_abilities_onscreen_name_3k_dlc06_ability_subdue	Subdue	false
+unit_abilities_onscreen_name_3k_dlc05_ability_targeted_strike	Targeted Strike	false
+unit_abilities_tooltip_text_3k_dlc07_ability_xiezhi_roar	Wen Chou flies into a rage, embodying the mighty Xiezhi, a mythical creature of great power.  	false
+unit_abilities_onscreen_name_3k_dlc04_formation_loose_imperial	Loose	false
+unit_abilities_onscreen_name_3k_ytr_ability_all_fronts	All Fronts	false
+unit_abilities_tooltip_text_3k_main_ability_inspiring_words	Liu Bei's words drive his men to greatness!	false
+unit_abilities_onscreen_name_3k_main_hero_duel_ability_propose	Duellist's Challenge	false
+unit_abilities_tooltip_text_3k_dlc06_ability_stomp	With a mighty blow, the Elephant crushes all beneath them.	false
+unit_abilities_onscreen_name_3k_ytr_ability_words_of_the_way	Sacred Chants	false
+unit_abilities_tooltip_text_3k_main_formation_hollowed_square	The unit forms into a hollow square, presenting spears and pikes to any attacker - particularly cavalry - on all four sides.	false
+unit_abilities_onscreen_name_3k_main_ability_flames_of_the_phoenix	Flames of the Phoenix	false
+unit_abilities_onscreen_name_3k_ytr_ability_knowledge_of_the_mind	Knowledge of the Mind	false
+unit_abilities_tooltip_text_3k_main_ability_hail_of_arrows	A flurry of shafts slows the enemy advance.	false
+unit_abilities_onscreen_name_3k_main_ability_stifling_deluge	Stifling Deluge	false
+unit_abilities_onscreen_name_3k_dummy_ability	DUMMY	false
+unit_abilities_tooltip_text_3k_main_ability_stone_bulwark	With skin of earth, arrows rebound, harmless.	false
+unit_abilities_onscreen_name_ep_dyn_ability_cavalry_master	Cavalry Master	false
+unit_abilities_tooltip_text_3k_main_formation_shield_wall	The unit presents a wall of shields to the enemy - an offensive formation best used to push forward under arrow fire. However the formation cannot be maintained in melee combat.	false
+unit_abilities_tooltip_text_3k_main_ability_blood_fury	As Sun Ce's strength rises, his grip on rationality weakens…	false
+unit_abilities_tooltip_text_3k_main_ability_fleet_footed	Xu Huang believes you can only kill that which you can catch.	false
+unit_abilities_tooltip_text_3k_ytr_ability_inner_fire	A lifetime spent learning the ways of heaven will turn thoughts into belief.	false
+unit_abilities_onscreen_name_ep_dyn_ability_strength_of_the_mountain	Strength of the Mountain	false
+unit_abilities_onscreen_name_3k_main_ability_ripples_of_perspective	Ripples of Perspective	false
+unit_abilities_onscreen_name_ep_dyn_ability_poisoned_weapons	Poisoned Blades	false
+unit_abilities_onscreen_name_3k_main_hero_relationship_effect_friend_killed	Fallen Friend	false
+unit_abilities_tooltip_text_3k_dlc04_ability_from_the_ashes	Pang Tong sacrifices himself, to aid his fellow brothers.	false
+unit_abilities_tooltip_text_3k_dlc06_ability_dense_jungle_han	The dense and tough undergrowth that plagues the jungles of the South is a hindrance to all those who try to penetrate into the heartlands of the Nanman.	false
+unit_abilities_tooltip_text_3k_dlc05_ability_mending	Oft-times, ephemeral things can fixed until they are as good as new; not so people, however.	false
+unit_abilities_tooltip_text_ep_dyn_ability_swift_fingers	Recalling their training, this hero reloads with startling quickness.	false
+unit_abilities_onscreen_name_3k_main_ability_earthen_rampart	Earthen Rampart	false
+unit_abilities_tooltip_text_ep_dyn_ability_deep_rooted	The forest bends, but does not break.	false
+unit_abilities_tooltip_text_3k_ytr_ability_preach	These words will fortify the spirit.	false
+unit_abilities_tooltip_text_3k_dlc07_ability_mock	Fa Zheng accosts the enemy hero, shaking them to the core.	false
+unit_abilities_onscreen_name_3k_dlc04_formation_turtle_imperial	Turtle	false
+unit_abilities_onscreen_name_ep_dyn_ability_phoenix_rising	Phoenix Rising	false
+unit_abilities_tooltip_text_ep_dyn_ability_assassinate	Fire deadly targeted shot, dealing extreme damage to a single entity. Most effective against enemy heroes.	false
+unit_abilities_onscreen_name_3k_main_ability_whitewater	Whitewater	false
+unit_abilities_onscreen_name_ep_dyn_ability_flowing_water	Flowing Water	false
+unit_abilities_tooltip_text_3k_main_ability_tempered_deflection	With calm, steely resolve, attacks are better deflected.	false
+unit_abilities_onscreen_name_3k_main_ability_reign_of_terror	Reign of Terror	false
+unit_abilities_tooltip_text_3k_ytr_ability_recovery	Superficial cuts and bruises can quickly be recovered from with bandages, sutures and medicine.	false
+unit_abilities_tooltip_text_3k_dlc06_ability_bold_command	A tenacious style of leadership inspires all warriors to keep fighting!	false
+unit_abilities_tooltip_text_3k_dlc06_ability_wolf_pack	These men have trained as hunters all their lives. They are as ferocious and cunning as a wolf pack, and are far more deadly.	false
+unit_abilities_onscreen_name_ep_dyn_ability_blood_fury	Blood Fury	false
+unit_abilities_onscreen_name_3k_ytr_ability_judgement	Judgement	false
+unit_abilities_tooltip_text_ep_dyn_ability_blood_fury	As this hero's strength rises, their grip on rationality weakens…	false
+unit_abilities_onscreen_name_ep_dyn_ability_quickfire	Quickfire	false
+unit_abilities_onscreen_name_3k_dlc04_turning_the_tide	Turning the Tide	false
+unit_abilities_onscreen_name_3k_main_ability_sundering_strike	Sundering Strike	false
+unit_abilities_onscreen_name_3k_main_hero_relationship_effect_rival_present	Rival	false
+unit_abilities_onscreen_name_3k_main_ability_binding_fury	Binding Fury	false
+unit_abilities_onscreen_name_3k_dlc07_ability_impenetrable_redoubt	Impenetrable Redoubt	false
+unit_abilities_onscreen_name_3k_dlc07_ability_mighty_thrust	Mighty Thrust	false
+unit_abilities_tooltip_text_3k_ytr_ability_knowledge_of_the_spirit	True strength lies not in the mind or body, but within the spirit.	false
+unit_abilities_onscreen_name_ep_dyn_ability_adamant_resolve	Adamant Resolve	false
+unit_abilities_tooltip_text_ep_dyn_ability_precision_shot	Loose a powerful bow shot that flies in a specified direction, piercing all enemies in its path.	false
+unit_abilities_onscreen_name_3k_ytr_ability_commanding_shout	Commanding Shout	false
+unit_abilities_tooltip_text_3k_dlc04_turning_the_tide	When a nearby enemy unit breaks and flees, morale improves for all around them, as well as making their blows temporarily strike harder.	false
+unit_abilities_onscreen_name_3k_dlc05_ability_undying_vow	Undying Vow	false
+unit_abilities_onscreen_name_3k_dlc04_formation_spear_wall_imperial	Shield Wall (Spear)	false
+unit_abilities_onscreen_name_3k_main_ability_tenacity_of_steel	Tenacity of Steel	false
+unit_abilities_onscreen_name_ep_dyn_ability_sheltering_boughs	Sheltering Boughs	false
+unit_abilities_onscreen_name_3k_main_ability_devastating_roar	Devastating Roar	false
+unit_abilities_onscreen_name_3k_dlc04_formation_circle_imperial	Circle	false
+unit_abilities_tooltip_text_3k_main_ability_adamant_resolve	Determination and grit allow all attacks to be dodged.	false
+unit_abilities_tooltip_text_ep_dyn_ability_fire_bomb	Hurl a bundle of explosive fire bombs at a targeted enemy.	false
+unit_abilities_tooltip_text_3k_dlc05_ability_qiao_sisters	The strength of the two sisters together in battle makes all alies better prepared for the fight.	false
+unit_abilities_tooltip_text_3k_main_hero_relationship_effect_rival_present	A bitter rival joins the fray; fury and might!	false
+unit_abilities_tooltip_text_3k_dlc05_ability_analyse_weakness	Only through sober and considered analysis can fragility be turned to unerring strength.	false
+unit_abilities_tooltip_text_3k_dlc04_formation_wedge_imperial	The unit forms into a spear-tip, best for driving directly through enemy lines.	false
+unit_abilities_tooltip_text_3k_main_ability_distant_courage	Yuan Shao directs and empowers his forces from a… safer distance.	false
+unit_abilities_onscreen_name_3k_dlc07_ability_geographic_mastery	Geographic Mastery	false
+unit_abilities_tooltip_text_3k_main_ability_blazing_saddles	A charge of great power, draining Xiahou Yuan's focus.	false
+unit_abilities_onscreen_name_3k_main_projectile_flaming	Flaming Shot	false
+unit_abilities_onscreen_name_3k_dlc04_imperial_solidarity	Imperial Solidarity	false
+unit_abilities_tooltip_text_ep_dyn_ability_elemental_vigour	The longer this hero fights, the greater and more inspiring they become!	false
+unit_abilities_onscreen_name_3k_dlc06_ability_off_guard	Off Guard	false
+unit_abilities_tooltip_text_3k_dlc07_ability_familial_conflict	When another of the Yuan clan is on the field, familial rivalry will push the other to greater feats.	false
+unit_abilities_tooltip_text_3k_dlc05_ability_undying_vow	To the very bitter end and beyond, if possible, to the very last breath, they will be constant and unswerving.	false
+unit_abilities_tooltip_text_ep_dyn_ability_cry_of_the_forest	When weakest, this hero unleashes their true power!	false
+unit_abilities_onscreen_name_3k_main_ability_elemental_vigour	Elemental Vigour	false
+unit_abilities_tooltip_text_3k_dlc07_ability_heavenly_presence	Cao Ren's presence on the battlefield can give hope to his men, even in the most dire of situations.	false
+unit_abilities_onscreen_name_3k_main_ability_inspiring_surge	Inspiring Surge	false
+unit_abilities_tooltip_text_3k_dlc06_ability_subdue	Against their sheer force and imposing presence, enemies find it harder to keep their focus and martial acuity.	false
+unit_abilities_onscreen_name_3k_dlc06_ability_power_of_love	Power of Love	false
+unit_abilities_tooltip_text_3k_main_ability_poisioned_blade	Poison slows a warrior down, slowly draining their life.	false
+unit_abilities_onscreen_name_3k_dlc06_ability_swift_steps	Swift Steps	false
+unit_abilities_tooltip_text_3k_dlc06_ability_ancient_wisdom	The ways of the land are known to those who have trodden these paths their entire lives.	false
+unit_abilities_onscreen_name_3k_main_formation_wedge	Wedge	false
+unit_abilities_tooltip_text_3k_main_ability_resolve_of_the_righteous	An outnumbered army will fight even harder. Skill trumps numbers.	false
+unit_abilities_onscreen_name_3k_dlc06_ability_crippling_blow	Crippling Blow	false
+unit_abilities_tooltip_text_3k_dlc04_formation_diamond_imperial	The unit forms into a hard-edged diamond, good for both offence and defence but limiting manoeuvrability.	false
+unit_abilities_tooltip_text_3k_dlc04_imperial_solidarity	Whilst in the presence of other imperial forces, enemy blows will strike false more often, whilst their own will strike harder.	false
+unit_abilities_onscreen_name_3k_main_ability_blade_breaker	Blade Breaker	false
+unit_abilities_onscreen_name_3k_main_ability_final_rush	Final Rush	false
+unit_abilities_tooltip_text_ep_dyn_ability_protectors_aegis	"If you want them, you'll have to go through me!".	false
+unit_abilities_onscreen_name_3k_dlc07_ability_ceasefire	Ceasefire	false
+unit_abilities_onscreen_name_ep_dyn_ability_time_of_need	Time of Need	false
+unit_abilities_onscreen_name_3k_dlc05_ability_into_the_breach	Into the Breach	false
+unit_abilities_tooltip_text_3k_ytr_ability_one_with_the_people	Knowing your brothers will never abandon you brings tremendous comfort.	false
+unit_abilities_tooltip_text_3k_main_formation_TEMP_01	Temporary for Audio test	false
+unit_abilities_tooltip_text_3k_ytr_ability_condemn	These words will bring shame and humiliation.	false
+unit_abilities_tooltip_text_3k_main_ability_warning_shot	The enemy knows the next shot will not miss.	false
+unit_abilities_tooltip_text_3k_main_ability_whitewater	This legendary presence gives enemies pause.	false
+unit_abilities_tooltip_text_ep_dyn_ability_tenacity_of_steel	The longer this warrior fights, the stronger they become!	false
+unit_abilities_tooltip_text_3k_dlc04_formation_mixed_ranged_imperial	The unit splits into missiles at the back, in rows, with melee in front protecting them.	false
+unit_abilities_tooltip_text_3k_dlc05_ability_stalker	Stealth itself, and great patience, are essential skills if you wish to ensnare your target.	false
+unit_abilities_tooltip_text_3k_ytr_ability_one_with_heaven	Look up and you will see the sky; look inward and you will see heaven.	false
+unit_abilities_onscreen_name_3k_dlc06_ability_natures_protection	Nature's Protection	false
+unit_abilities_tooltip_text_ep_dyn_ability_arrow_storm	Fire a volley of arrows that rain down on the targeted area.	false
+unit_abilities_tooltip_text_3k_main_ability_cry_of_the_forest	When weakest, Dian Wei unleashes his true power!	false
+unit_abilities_onscreen_name_ep_dyn_ability_sweeping_arc	Sweeping Arc	false
+unit_abilities_tooltip_text_3k_main_ability_nature_s_ally	The forest provides a path, and surer footing, for the respectful. 	false
+unit_abilities_onscreen_name_3k_main_ability_unstoppable	Unstoppable	false
+unit_abilities_tooltip_text_3k_dlc04_formation_hollowed_square_imperial	The unit forms into a hollow square, presenting spears and pikes to any attacker - particularly cavalry - on all four sides.	false
+unit_abilities_onscreen_name_3k_ytr_ability_inner_fire	Inner Fire	false
+unit_abilities_onscreen_name_3k_ytr_ability_knowledge_of_the_body	Knowledge of the Body	false
+unit_abilities_onscreen_name_3k_main_ability_distant_courage	Distant Courage	false
+unit_abilities_onscreen_name_3k_main_formation_TEMP_03	Temp 03	false
+unit_abilities_tooltip_text_3k_ytr_ability_suprise_attack	When the opportunity is right let discipline be second to the unconventional.	false
+unit_abilities_tooltip_text_ep_dyn_ability_blazing_glory	Burning bright, an inspiration to all.	false
+unit_abilities_onscreen_name_3k_dlc04_defense_mastery_melee	Mastery of Defensive Melee	false
+unit_abilities_onscreen_name_3k_ytr_ability_strength_of_the_land	Strength of the Land	false
+unit_abilities_onscreen_name_3k_dlc06_ability_desperate_rage	Desperate Rage	false
+unit_abilities_tooltip_text_3k_main_ability_unyielding_earth	Nature itself provides a shield for its warriors.	false
+unit_abilities_tooltip_text_3k_dlc07_ability_impenetrable_redoubt	Yu Jin is as an immovable wall, inspiring his men to stand firm against much greater odds.	false
+unit_abilities_onscreen_name_3k_dlc06_ability_defiant_cry	Defiant Cry	false
+unit_abilities_onscreen_name_3k_main_formation_pike_wall	Spear Wall	false
+unit_abilities_tooltip_text_3k_dlc06_ability_aggressive_cadence	Drumming for damage	false
+unit_abilities_tooltip_text_ep_dyn_ability_double_strike	Deliver two brutal attacks that send shockwaves away from the hero, damaging all enemies within a cone.	false
+unit_abilities_onscreen_name_3k_main_projectile_suppressing_fire	Suppressing Fire	false
+unit_abilities_onscreen_name_3k_main_ability_condemned_howl	Condemned Howl	false
+unit_abilities_tooltip_text_3k_dlc06_ability_expose	One should always be careful not to lower their defences in battle.	false
+unit_abilities_onscreen_name_3k_dlc04_ability_fire_bomb	Fire Bomb	false
+unit_abilities_onscreen_name_3k_dlc04_formation_shield_wall_imperial	Shield Wall	false
+unit_abilities_tooltip_text_ep_dyn_ability_phoenix_rising	When all hope is lost, a sudden resurgence.	false
+unit_abilities_tooltip_text_3k_dlc04_ability_fire_bomb	Hurl a bundle of explosive fire bombs at a targeted enemy.	false
+unit_abilities_onscreen_name_3k_dlc06_ability_bold_command	Bold Command	false
+unit_abilities_tooltip_text_3k_dlc07_ability_rally_the_troops	Liu Yan rallies his troops to greater feats, inspiring them to make one final effort.	false
+unit_abilities_tooltip_text_ep_dyn_ability_palm_strike	Send a concussive blast in a cone away from the hero.	false
+unit_abilities_tooltip_text_3k_dlc05_ability_scattering_blows	The blows fall with such consistency that they are as a rain of strikes falling upon the foe.	false
+unit_abilities_onscreen_name_ep_dyn_ability_seismic_slam	Seismic Slam	false
+unit_abilities_onscreen_name_ep_dyn_ability_stifling_deluge	Stifling Deluge	false
+unit_abilities_tooltip_text_3k_main_ability_ripples_of_perspective	In tune with nature, Zhou Yu sees all.	false
+unit_abilities_tooltip_text_3k_main_ability_stifling_deluge	A suppressing aura that confounds the foe.	false
+unit_abilities_tooltip_text_ep_dyn_ability_poisoned_weapons	Poison slows a warrior down, slowly draining their life.	false
+unit_abilities_tooltip_text_3k_dlc04_sacrificial_strike	Summoning up dangerous levels of internal reserves to strike a devastating blow upon the opponent, damaging themselves too in the process.	false
+unit_abilities_tooltip_text_3k_dlc04_formation_pike_wall_imperial	The unit presents a wall of spear-points to the enemy - a strong formation that allows the unit to advance slowly but safely whilst defending against charges.	false
+unit_abilities_onscreen_name_3k_dlc05_ability_mending	Mending	false
+unit_abilities_onscreen_name_3k_main_ability_stone_bulwark	Stone Bulwark	false
+unit_abilities_onscreen_name_3k_dlc04_lord_of_the_land	Lord of the Land	false
+unit_abilities_tooltip_text_3k_main_formation_spear_wall	The unit presents a wall of shields to the enemy - an offensive formation best used to push forward under arrow fire.	false
+unit_abilities_onscreen_name_3k_main_ability_blazing_saddles	Blazing Saddles	false
+unit_abilities_tooltip_text_ep_dyn_ability_multishot	Loose two sprays of arrows that damage all enemies in a cone.	false
+unit_abilities_tooltip_text_3k_main_formation_pike_wall	The unit presents a wall of spear-points to the enemy - a strong formation that allows the unit to advance slowly but safely whilst defending against charges.	false
+unit_abilities_tooltip_text_3k_ytr_ability_one_with_the_land	Generations working the land will breed a kinship with it.	false
+unit_abilities_onscreen_name_3k_dlc06_ability_dense_jungle_nanman	Miasma	false

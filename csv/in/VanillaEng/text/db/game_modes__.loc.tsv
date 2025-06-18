@@ -1,0 +1,6 @@
+key	text	tooltip
+#Loc;1;text/db/game_modes__.loc		
+game_modes_localised_title_romance	Romance	false
+game_modes_localised_title_historical	Records	false
+game_modes_desciption_romance	A more character-centric Total War battle experience.	false
+game_modes_desciption_historical	A more traditional, unit-centric Total War battle experience.	false

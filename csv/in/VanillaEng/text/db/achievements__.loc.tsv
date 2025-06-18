@@ -1,0 +1,206 @@
+key	text	tooltip
+#Loc;1;text/db/achievements__.loc		
+achievements_description_TK_ACHIEVEMENT_WIN_CAMPAIGN_ON_LEGENDARY	Playing as any faction, complete a campaign on legendary difficulty.	false
+achievements_description_TK_ACHIEVEMENT_CONSTRUCTION_FACTION_PALACE_1	Playing as any faction, construct a faction palace.	false
+achievements_title_TK_DLC04_ACHIEVEMENT_RAZE_LOUYANG	History Repeats Itself	false
+achievements_title_TK_ACHIEVEMENT_WIN_CAMPAIGN_ON_LEGENDARY	Now the Stuff of Dreams	false
+achievements_title_TK_ACHIEVEMENT_TRIGGER_PROXY_WAR_CAO_CAO	The Tortoise Lives Long	false
+achievements_title_TK_ACHIEVEMENT_CREATE_ALLIANCE	BFFs	false
+achievements_title_TK_ACHIEVEMENT_TURN_RIVAL_TO_FRIEND	Keep Enemies Closer	false
+achievements_title_TK_ACHIEVEMENT_DESTROY_BUILDING_IN_BATTLE	Demolition Man	false
+achievements_title_TK_DLC05_ACHIEVEMENT_SUN_CE_KILL_HUANG_ZU	You Killed My Father. Prepare to Die!	false
+achievements_description_TK_DLC05_ACHIEVEMENT_YAN_BAIHU_DESTROY_SUN_CE	Playing as Yan Baihu, destroy Sun Ce's faction.	false
+achievements_description_TK_ACHIEVEMENT_DESTROY_BUILDING_IN_BATTLE	Playing as any faction, breach a wall during a battle.	false
+achievements_description_TK_ACHIEVEMENT_FIGHT_BATTLE_WITH_ALL_UNIT_GROUPS	Playing as any faction, win a single battle with 1 of each unit type.	false
+achievements_title_TK_ACHIEVEMENT_MAKE_X_INCOME_SINGLE_TURN	A Land of Milk & Honey	false
+achievements_title_TK_ACHIEVEMENT_ALL_FIVE_TIGER_GENERALS_IN_SAME_FACTION	Party of Five	false
+achievements_title_TK_ACHIEVEMENT_MAINTAIN_X_TRADE_ROUTES	Here Comes the Sun (Jian)	false
+achievements_title_TK_ACHIEVEMENT_DEFEAT_DONG_ZHUO_CHARACTER	Guangdong Coalition	false
+achievements_description_TK_ACHIEVEMENT_AMBUSH_AND_DEFEAT_THE_ENEMY_IN_CAMPAIGN	Playing as any faction, successfully ambush and defeat any opponent.	false
+achievements_title_TK_DLC06_ACHIEVEMENT_ELEPHANT_MOUNTS	That Still Only Counts as One	false
+achievements_description_TK_DLC04_ACHIEVEMENT_COLLECT_ALL_BOOKS	Playing as Lu Zhi, collect all books.	false
+achievements_title_TK_YTR_ACHIEVEMENT_OWN_FISHING_PORT	There Will Be Fish	false
+achievements_description_TK_DLC02_ACHIEVEMENT_CAMPAIGN_COMPLETE_AS_EMPEROR	Playing as any Eight Princes faction, become the emperor, then win the game.	false
+achievements_title_TK_ACHIEVEMENT_CONTROL_ALL_SPICE_RESOURCES	…Control the Universe!	false
+achievements_title_TK_YTR_ACHIEVEMENT_OWN_HOUSE_OF_COMPASSION	Dù Zǐténg Will See You Now	false
+achievements_title_TK_ACHIEVEMENT_WIN_X_MULTIPLAYER_BATTLES	Frenemies	false
+achievements_title_TK_ACHIEVEMENT_CONTROL_ONE_SPICE_RESOURCE	First Taste	false
+achievements_description_TK_ACHIEVEMENT_MAX_OUT_CHARACTER_ATTRIBUTE	Playing as any faction, obtain the maximum level in any 1 character attribute.	false
+achievements_description_TK_ACHIEVEMENT_TURN_FRIEND_TO_RIVAL	Playing as any faction, turn a friend into a rival.	false
+achievements_title_TK_DLC06_ACHIEVEMENT_NANMAN_EMPEROR	The Barbarian Emperor	false
+achievements_title_TK_YTR_ACHIEVEMENT_OWN_X_COMMUNAL_SQUARES	Common People	false
+achievements_description_TK_DLC05_ACHIEVEMENT_WIN_CAMPAIGN_AS_BANDIT_EMPEROR	Playing as a bandit faction, win the game.	false
+achievements_description_TK_ACHIEVEMENT_FIGHT_BATTLE_WITH_LU_BEI_GUAN_YU_ZHANG_FEI_SAME_SIDE	Fight a battle with Liu Bei, Guan Yu, and Zhang Fei fighting on the same side.	false
+achievements_description_TK_ACHIEVEMENT_ALL_FIVE_TIGER_GENERALS_IN_SAME_FACTION	Have all 5 Tiger Generals in your faction.	false
+achievements_description_TK_YTR_ACHIEVEMENT_WIN_GAME	Playing as a Yellow Turban faction, complete a campaign.	false
+achievements_title_TK_ACHIEVEMENT_WIN_X_DUELS	Satisfaction Guaranteed	false
+achievements_title_TK_ACHIEVEMENT_TURN_FRIEND_TO_RIVAL	Fairweather Friend	false
+achievements_title_TK_DLC05_ACHIEVEMENT_LU_BU_1_KILL_LIST_COMPLETE	First Blood	false
+achievements_title_TK_YTR_ACHIEVEMENT_OWN_X_YOUXIA_UNITS	The Knights Who Say "Qi!"	false
+achievements_description_TK_ACHIEVEMENT_CAPTURE_X_SETTLEMENTS	Playing as any faction, capture 29 settlements.	false
+achievements_description_TK_ACHIEVEMENT_BECOME_EMPEROR_AS_GOVERNOR_FACTION	Playing as a governor faction, become emperor.	false
+achievements_title_TK_YTR_ACHIEVEMENT_UNLOCK_ALL_HEAVEN_TECH	Lord of Heaven	false
+achievements_title_TK_DLC06_ACHIEVEMENT_NANMAN_TECHS	The Purist	false
+achievements_title_TK_DLC02_ACHIEVEMENT_CAMPAIGN_COMPLETE_AS_REGENT	The World's Protector	false
+achievements_description_TK_ACHIEVEMENT_WIN_MP_COOP_CAMPAIGN	Playing as any faction, win a multiplayer co-op campaign.	false
+achievements_title_TK_ACHIEVEMENT_RAZE_X_SETTLEMENTS_AS_DONG_ZHUO	Firestarter	false
+achievements_title_TK_ACHIEVEMENT_XIAHOU_DUN_ATTACKED_BY_ARCHERS	Eye of the Beholder	false
+achievements_description_TK_YTR_ACHIEVEMENT_OWN_X_YOUXIA_UNITS	Playing as a Yellow Turban faction, recruit at least 7 Youxia units.	false
+achievements_description_TK_DLC05_ACHIEVEMENT_SUN_CE_KILL_HUANG_ZU	Playing as Sun Ce, kill Huang Zu either in a duel or in battle.	false
+achievements_description_TK_ACHIEVEMENT_BECOME_EMPEROR_AS_CHILD_TO_CAO_CAO	Playing as the child of Cao Cao, proclaim yourself emperor.	false
+achievements_description_TK_DLC05_ACHIEVEMENT_LU_BU_1_KILL_LIST_COMPLETE	Playing as Lü Bu, kill a character from your kill list.	false
+achievements_title_TK_ACHIEVEMENT_CREATE_X_ALLIANCES_YUAN_SHAO	One Hundred Thousand Troops	false
+achievements_description_TK_ACHIEVEMENT_WIN_CAMPAIGN_AS_EMPEROR	Playing as any faction, become emperor and win the game.	false
+achievements_title_TK_YTR_ACHIEVEMENT_REACH_EMPIRE_RANK	Mandate Regained!	false
+achievements_description_TK_ACHIEVEMENT_BUILD_BANDIT_PALACE_AS_ZHENG_JIANG	Playing as Zheng Jiang, construct a bandit lair.	false
+achievements_description_TK_DLC02_ACHIEVEMENT_CONSTRUCT_GRAND_INSPECTORS_PALACE	Playing as any Eight Princes faction, construct the Grand Inspector's Palace.	false
+achievements_title_TK_ACHIEVEMENT_BECOME_EMPEROR_AS_GOVERNOR_FACTION	Humble Beginnings	false
+achievements_title_TK_DLC04_ACHIEVEMENT_COLLECT_ALL_BOOKS	The Librarian	false
+achievements_description_TK_YTR_ACHIEVEMENT_OWN_YTR_HEADQUARTERS	Playing as a Yellow Turban faction, construct a Yellow Turban Headquarters.	false
+achievements_description_TK_ACHIEVEMENT_TURN_RIVAL_TO_FRIEND	Playing as any faction, turn a rival into a friend.	false
+achievements_title_TK_ACHIEVEMENT_WIN_X_CAMPAIGN_BATTLES	Blood-drenched & Fancy Free	false
+achievements_description_TK_DLC02_ACHIEVEMENT_CAMPAIGN_COMPLETE_AS_REGENT	Playing as any Eight Princes faction, become regent, then win the game.	false
+achievements_title_TK_YTR_ACHIEVEMENT_OWN_CONCEALED_FORT	The Hidden Fortress	false
+achievements_title_TK_ACHIEVEMENT_UNDERCOVER_SPY_ASSASINATION	Ill Omen	false
+achievements_description_TK_ACHIEVEMENT_SPY_BECOMES_FACTION_LEADER	Playing as any faction, make your spy become faction leader.	false
+achievements_description_TK_ACHIEVEMENT_KILL_OR_WOUND_DONG_ZHUO_IN_BATTLE_WITH_LU_BU_IN_PARTY	With Lü Bu in your party, kill or wound Dong Zhuo in battle.	false
+achievements_title_TK_DLC06_ACHIEVEMENT_SHI_XIE_SOUTH	Lord of the South	false
+achievements_description_TK_ACHIEVEMENT_WIN_X_BATTLES_WITH_WHITE_HORSE_FELLOWS_AS_GONGSUN_ZAN	Playing as Gongsun Zan, win 10 battles with White Horse Fellows.	false
+achievements_title_TK_DLC05_ACHIEVEMENT_LU_BU_25_KILL_LIST_COMPLETE	Among Men, Lü Bu	false
+achievements_description_TK_ACHIEVEMENT_ENSLAVE_X_BATTLE_CAPTIVES	Playing as any faction, capture 9,413 enemies.	false
+achievements_title_TK_ACHIEVEMENT_CONSTRUCTION_FACTION_PALACE_1	Forbidden City	false
+achievements_title_TK_ACHIEVEMENT_EXECUTE_X_CAPTIVES	Take No Prisoners	false
+achievements_description_TK_ACHIEVEMENT_RESEARCH_EVERY_TECH_IN_CAMPAIGN	Playing as any faction, unlock every reform in a single playthrough.	false
+achievements_description_TK_ACHIEVEMENT_CONTROL_ALL_SPICE_RESOURCES	Playing as any faction, control all 3 spice resources on the map.	false
+achievements_description_TK_DLC04_ACHIEVEMENT_RAZE_LOUYANG	Playing as Dong Zhuo, raze Luoyang.	false
+achievements_title_TK_ACHIEVEMENT_KILL_X_ENEMY	If You Can't Surrender, Die	false
+achievements_title_TK_DLC05_ACHIEVEMENT_LU_BU_WIN_THREE_BATTLES_ONE_TURN	Thrice Victorious	false
+achievements_description_TK_DLC02_ACHIEVEMENT_CAMPAIGN_COMPLETE	Playing as any Eight Princes faction, win the game by any means.	false
+achievements_description_TK_ACHIEVEMENT_CONTROL_TWO_SPICE_RESOURCES	Playing as any faction, control 2 spice resources.	false
+achievements_title_TK_TYR_ACHIEVEMENT_OWN_X_PROSPEROUS_FARMHOLDS	Field of Dreams	false
+achievements_title_ACHIEVEMENT_BEAT_CA_STAFF	War Assembles	false
+achievements_description_TK_ACHIEVEMENT_XIAHOU_DUN_ATTACKED_BY_ARCHERS	Playing as any faction, attack Xiahou Dun with archers.	false
+achievements_title_TK_DLC02_ACHIEVEMENT_CAMPAIGN_COMPLETE	Fit For a Prince	false
+achievements_title_TK_ACHIEVEMENT_ATTAIN_MAXIMUM_RANK_CHARACTER	Simply the Best	false
+achievements_title_TK_ACHIEVEMENT_AMBUSH_AND_DEFEAT_THE_ENEMY_IN_CAMPAIGN	An Ambush That's Sure	false
+achievements_description_TK_ACHIEVEMENT_WIN_X_MULTIPLAYER_BATTLES	Playing as any faction, win 222 battles in multiplayer mode.	false
+achievements_title_ACHIEVEMENT_PSYCHOPATH	This is Total War!	false
+achievements_description_TK_ACHIEVEMENT_MAKE_X_INCOME_SINGLE_TURN	Playing as any faction, make 8,888 income in a single turn.	false
+achievements_description_TK_DLC05_ACHIEVEMENT_LU_BU_25_KILL_LIST_COMPLETE	Playing as Lü Bu, Kill 25 characters from your kill list or win the game.	false
+achievements_title_TK_DLC05_ACHIEVEMENT_YAN_BAIHU_15_ALLICES	White Tiger Burning Bright	false
+achievements_description_TK_ACHIEVEMENT_WIN_X_DUELS	Playing as any faction, win 66 duels.	false
+achievements_description_TK_YTR_ACHIEVEMENT_UNLOCK_ALL_HEAVEN_TECH	Playing as a Yellow Turban faction, unlock all Heaven reforms.	false
+achievements_title_TK_YTR_ACHIEVEMENT_UNLOCK_ALL_LAND_TECH	Lord of the Land	false
+achievements_title_TK_ACHIEVEMENT_RAZE_EMPEROR_SEAT	Burning Down the House	false
+achievements_description_TK_ACHIEVEMENT_TRIGGER_PROXY_WAR_CAO_CAO	Playing as Cao Cao, trigger a proxy war.	false
+achievements_description_TK_ACHIEVEMENT_DESTROY_A_FACTION	Playing as any faction, destroy any other faction.	false
+achievements_title_TK_DLC05_ACHIEVEMENT_WIN_CAMPAIGN_AS_BANDIT_EMPEROR	Bandit Emperor	false
+achievements_title_TK_ACHIEVEMENT_CONTROL_TWO_SPICE_RESOURCES	They Who Control the Spice...	false
+achievements_title_TK_ACHIEVEMENT_BECOME_EMPEROR_AS_CHILD_TO_CAO_CAO	Son of the Tortoise	false
+achievements_title_TK_DLC05_ACHIEVEMENT_YAN_BAIHU_DESTROY_SUN_CE	Fear the Tiger More Than the Government	false
+achievements_description_TK_DLC06_ACHIEVEMENT_TIGER_RETINUE	Win a battle where an entire retinue was made up of Tiger units.	false
+achievements_title_TK_DLC04_ACHIEVEMENT_WIN_CAMPAIGN_AS_JIAZI_REBELLION	Yellow Sky	false
+achievements_title_TK_ACHIEVEMENT_DESTROY_A_FACTION	To Dust	false
+achievements_description_TK_YTR_ACHIEVEMENT_REACH_EMPIRE_RANK	Playing as a Yellow Turban faction, become the Yellow Sky Emperor.	false
+achievements_description_TK_ACHIEVEMENT_WIN_X_CAMPAIGN_BATTLES	Playing as any faction, win 100 battles launched from the campaign map.	false
+achievements_title_TK_DLC04_ACHIEVEMENT_COLLECT_ALL_TROPHIES	Trophy Hunter	false
+achievements_description_TK_ACHIEVEMENT_DECLARE_YOURSELF_EMPEROR	Playing as any faction, declare yourself emperor.	false
+achievements_title_TK_ACHIEVEMENT_WIN_RANKED_MATCH	GG No Re!	false
+achievements_description_TK_ACHIEVEMENT_KILL_X_ENEMY	Playing as any faction, kill 92,413 enemies.	false
+achievements_description_TK_DLC04_ACHIEVEMENT_WIN_CAMPAIGN_AS_JIAZI_REBELLION	Play as a Jiazi Rebellion faction and win the campaign.	false
+achievements_title_TK_DLC06_ACHIEVEMENT_NANMAN_FEALTY	I'm the Man!	false
+achievements_description_TK_ACHIEVEMENT_THREE_KINGDOMS_DECLARED_INCLUDING_PLAYER	Playing as any faction, declare yourself emperor.	false
+achievements_description_TK_ACHIEVEMENT_DEFEAT_DONG_ZHUO_CHARACTER	Playing as any faction, defeat Dong Zhuo.	false
+achievements_description_TK_ACHIEVEMENT_MAKE_X_ALLIES_LIU_BEI	Playing as Liu Bei, make 6 allies.	false
+achievements_description_TK_DLC05_ACHIEVEMENT_STANCE_SHARE_LOOT_MAX	Use "Share the spoils" when army loot has reached its maximum level.	false
+achievements_title_TK_DLC02_ACHIEVEMENT_CONSTRUCT_GRAND_INSPECTORS_PALACE	Upon Closer Inspection	false
+achievements_title_TK_DLC02_ACHIEVEMENT_HIGHEST_ALIGNMENT	Align of Duty	false
+achievements_description_TK_DLC02_ACHIEVEMENT_CAPTURE_CAPITAL	Playing as any Eight Princes faction, capture the settlement of Luoyang.	false
+achievements_title_TK_DLC04_ACHIEVEMENT_WIN_CAMPAIGN_AS_EMPRESS_HE	Restore the Empire	false
+achievements_title_TK_DLC02_ACHIEVEMENT_RECRUIT_CATAPHRACTS	Horse Armour	false
+achievements_description_TK_ACHIEVEMENT_EXECUTE_X_CAPTIVES	Playing as any faction, execute 24 captives.	false
+achievements_description_TK_DLC05_ACHIEVEMENT_SUN_CE_5_AMBITIONS_BEFORE_201	Reach greatness by achieving 5 of Sun Ce's ambitions before the end of year 200.	false
+achievements_description_TK_DLC06_ACHIEVEMENT_ELEPHANT_MOUNTS	Win a battle against a foe with at least 1 elephant unit or a general with an elephant mount.	false
+achievements_title_TK_ACHIEVEMENT_KILL_OR_WOUND_DONG_ZHUO_IN_BATTLE_WITH_LU_BU_IN_PARTY	Diaochan's Revenge 	false
+achievements_description_TK_ACHIEVEMENT_TRIGGER_CIVIL_WAR	Playing as any faction, trigger a civil war in another faction.	false
+achievements_description_ACHIEVEMENT_BEAT_CA_STAFF	[UNUSED] In a multiplayer battle, defeat a Creative Assembly staff member, or anyone else who has gained this achievement.	false
+achievements_description_TK_ACHIEVEMENT_RESEARCH_ALL_TECH_ONE_ELEMENT	Playing as any faction, unlock an entire single element of the reforms tree.	false
+achievements_description_TK_DLC02_ACHIEVEMENT_HIGHEST_ALIGNMENT	Playing as any Eight Princes faction, obtain more than 75 in any alignment.	false
+achievements_description_TK_DLC05_ACHIEVEMENT_LU_BU_WIN_THREE_BATTLES_ONE_TURN	As Lü Bu attack and win 3 battles in 1 turn.	false
+achievements_description_TK_DLC02_ACHIEVEMENT_COMPLETE_MILITARY_REFORMS	Playing as any Eight Princes faction, research all Military reforms.	false
+achievements_title_TK_ACHIEVEMENT_MAX_OUT_CHARACTER_ATTRIBUTE	A Sharp Point Sticks Out	false
+achievements_title_TK_YTR_ACHIEVEMENT_WIN_GAME	The Yellow Sky Has Come	false
+achievements_title_TK_ACHIEVEMENT_CONTROL_ALL_HORSE_RESOURCES	Neighsayer	false
+achievements_description_TK_DLC02_ACHIEVEMENT_COMPLETE_CIVIC_REFORMS	Playing as any Eight Princes faction, research all Civic reforms.	false
+achievements_title_TK_ACHIEVEMENT_FIGHT_BATTLE_WITH_ALL_UNIT_GROUPS	Way of the Tao	false
+achievements_description_TK_YTR_ACHIEVEMENT_OWN_PEACE_GARDEN	Playing as a Yellow Turban faction, construct a Garden of Divine Peace.	false
+achievements_description_TK_YTR_ACHIEVEMENT_UNLOCK_ALL_LAND_TECH	Playing as a Yellow Turban faction, unlock all Land reforms.	false
+achievements_description_TK_ACHIEVEMENT_KILLED_BY_ABILITY	Playing as any faction, kill a Hero with a special ability.	false
+achievements_description_TK_ACHIEVEMENT_UNDERCOVER_SPY_ASSASINATION	Playing as any faction, have a spy successfully complete an assassination.	false
+achievements_title_TK_ACHIEVEMENT_WIN_DUEL_ZHUGE_LIANG_VS_WANG_LANG	Sticks & Stones	false
+achievements_description_TK_ACHIEVEMENT_CONTROL_ALL_HORSE_RESOURCES	Playing as any faction, control all northern horse resources on the map.	false
+achievements_title_TK_DLC02_ACHIEVEMENT_CAPTURE_CAPITAL	Sunny Side Up	false
+achievements_title_TK_ACHIEVEMENT_CONTROL_ALL_JADE_RESOURCES	Jade Empire	false
+achievements_title_TK_YTR_ACHIEVEMENT_OWN_YTR_HEADQUARTERS	The Taoist Terror	false
+achievements_title_TK_ACHIEVEMENT_WIN_MP_COOP_CAMPAIGN	One Arrow, Two Hawks	false
+achievements_description_TK_YTR_ACHIEVEMENT_WIN_X_BATTLES_WITH_HEALER_HERO	Playing as any faction, win 7 battles with a Healer-type Hero leading your army.	false
+achievements_description_TK_DLC06_ACHIEVEMENT_NANMAN_TECHS	During a Nanman campaign, complete a tech tree where all major reforms are to 1 side.	false
+achievements_title_TK_ACHIEVEMENT_CAPTURE_X_SETTLEMENTS	Settlers of the Han	false
+achievements_description_TK_DLC04_ACHIEVEMENT_COLLECT_ALL_TROPHIES	Playing as Prince Liu Chong, collect all trophies.	false
+achievements_title_TK_DLC05_ACHIEVEMENT_GIVE_OUT_5_TITLES_CEOS	Many Faces, Many Names	false
+achievements_title_TK_ACHIEVEMENT_WIN_X_BATTLES_WITH_WHITE_HORSE_FELLOWS_AS_GONGSUN_ZAN	White Horse General	false
+achievements_description_TK_DLC06_ACHIEVEMENT_NANMAN_FEALTY	During a Nanman campaign, have all Nanman fealties under your control.	false
+achievements_description_TK_ACHIEVEMENT_CONTROL_ONE_SPICE_RESOURCE	Playing as any faction, control a single spice resource.	false
+achievements_title_TK_DLC02_ACHIEVEMENT_COMPLETE_MILITARY_REFORMS	Prince of War	false
+achievements_description_TK_DLC02_ACHIEVEMENT_COMPLETE_SPYING_REFORMS	Playing as any Eight Princes, research all espionage reforms.	false
+achievements_description_TK_ACHIEVEMENT_CREATE_X_ALLIANCES_YUAN_SHAO	Playing as Yuan Shao, form 6 alliances.	false
+achievements_title_TK_DLC05_ACHIEVEMENT_SUN_CE_5_AMBITIONS_BEFORE_201	Like My Father Before Me	false
+achievements_description_TK_DLC05_ACHIEVEMENT_YAN_BAIHU_15_ALLICES	Playing as Yan Baihu, reach the highest level of the White Tiger Confederation resource.	false
+achievements_title_TK_ACHIEVEMENT_SPY_BECOMES_FACTION_LEADER	Live & Let Spy	false
+achievements_title_TK_ACHIEVEMENT_WIN_CAMPAIGN_AS_EMPEROR	The Mandate of Heaven	false
+achievements_title_TK_ACHIEVEMENT_CAPTURE_A_REGION	First Steps	false
+achievements_title_TK_ACHIEVEMENT_ANOTHER_PLAYER_DECLARES_EMPEROR_FIRST	Han Shot First	false
+achievements_description_TK_DLC02_ACHIEVEMENT_RECRUIT_CATAPHRACTS	Playing as any Eight Princes faction, recruit 10 Cataphract units to your armies.	false
+achievements_description_TK_ACHIEVEMENT_ANOTHER_PLAYER_DECLARES_EMPEROR_FIRST	Playing as any faction, someone else declares themselves emperor before you.	false
+achievements_description_TK_ACHIEVEMENT_WIN_RANKED_MATCH	Playing as any faction, win a ranked match in multiplayer mode.	false
+achievements_description_TK_YTR_ACHIEVEMENT_OWN_FISHING_PORT	Playing as a Yellow Turban faction, construct a Grand Fishing Port.	false
+achievements_description_TK_ACHIEVEMENT_RAZE_X_SETTLEMENTS_AS_DONG_ZHUO	Playing as Dong Zhuo, raze 11 settlements.	false
+achievements_title_TK_ACHIEVEMENT_BUILD_BANDIT_PALACE_AS_ZHENG_JIANG	Bandits of the Marsh	false
+achievements_title_TK_ACHIEVEMENT_KILLED_BY_ABILITY	Special Delivery	false
+achievements_description_TK_YTR_ACHIEVEMENT_OWN_X_COMMUNAL_SQUARES	Playing as a Yellow Turban faction, construct at least 7 Communal Squares.	false
+achievements_title_TK_YTR_ACHIEVEMENT_WIN_X_BATTLES_WITH_HEALER_HERO	A Battle a Day Keeps the Doctor Away	false
+achievements_title_TK_ACHIEVEMENT_ENSLAVE_X_BATTLE_CAPTIVES	If You Can't Die, Surrender	false
+achievements_title_TK_DLC02_ACHIEVEMENT_COMPLETE_CIVIC_REFORMS	Civil Service	false
+achievements_description_TK_TYR_ACHIEVEMENT_OWN_X_PROSPEROUS_FARMHOLDS	Playing as a Yellow Turban faction, construct at least 8 Prosperous Farmholds.	false
+achievements_title_TK_YTR_ACHIEVEMENT_OWN_PEACE_GARDEN	A Tranquil Place	false
+achievements_description_TK_DLC06_ACHIEVEMENT_NANMAN_EMPEROR	Playing as a Nanman, become the emperor of the Han or establish the Nanman kingdom.	false
+achievements_title_TK_DLC06_ACHIEVEMENT_TIGER_RETINUE	Tiger King	false
+achievements_title_TK_DLC05_ACHIEVEMENT_STANCE_SHARE_LOOT_MAX	Honour Among Thieves	false
+achievements_title_TK_ACHIEVEMENT_MAKE_X_ALLIES_LIU_BEI	No Deed Left Undone	false
+achievements_description_TK_YTR_ACHIEVEMENT_OWN_CONCEALED_FORT	Playing as a Yellow Turban faction, construct a Concealed Fort.	false
+achievements_description_TK_ACHIEVEMENT_COMPLETE_AN_ENTIRE_CAMPAIGN_WINNING_EVERY_BATTLE	Playing as any faction, win every battle (including auto-resolve battles).	false
+achievements_description_TK_ACHIEVEMENT_RAZE_EMPEROR_SEAT	Playing as any faction, raze an emperor seat.	false
+achievements_description_ACHIEVEMENT_PSYCHOPATH	Win a campaign having declared war on every faction as soon as you encountered them.	false
+achievements_title_TK_YTR_ACHIEVEMENT_UNLOCK_ALL_PEOPLE_TECH	Lord of the People	false
+achievements_title_TK_ACHIEVEMENT_WIN_MULTIPLAYER_BATTLES_1	Good Luck, Have Fun!	false
+achievements_description_TK_ACHIEVEMENT_WIN_MULTIPLAYER_BATTLES_1	Playing as any faction, win a multiplayer match.	false
+achievements_description_TK_DLC05_ACHIEVEMENT_GIVE_OUT_5_TITLES_CEOS	Playing as any faction, give out 5 titles to 5 different characters.	false
+achievements_title_TK_ACHIEVEMENT_THREE_KINGDOMS_DECLARED_INCLUDING_PLAYER	The Empire Must Unite	false
+achievements_description_TK_YTR_ACHIEVEMENT_UNLOCK_ALL_PEOPLE_TECH	Playing as a Yellow Turban faction, unlock all People reforms.	false
+achievements_description_TK_ACHIEVEMENT_CREATE_ALLIANCE	Playing as any faction, form an alliance.	false
+achievements_description_TK_ACHIEVEMENT_ATTAIN_MAXIMUM_RANK_CHARACTER	Playing as any faction, progress a character to the maximum rank.	false
+achievements_title_TK_DLC02_ACHIEVEMENT_CAMPAIGN_COMPLETE_AS_EMPEROR	Usurp Expectations	false
+achievements_description_TK_ACHIEVEMENT_CONTROL_ALL_JADE_RESOURCES	Playing as any faction, control all jade resources on the map.	false
+achievements_description_TK_ACHIEVEMENT_MAINTAIN_X_TRADE_ROUTES	Playing as any faction, maintain 8 trade routes.	false
+achievements_title_TK_ACHIEVEMENT_RESEARCH_EVERY_TECH_IN_CAMPAIGN	Friend of Winter	false
+achievements_description_TK_ACHIEVEMENT_CAPTURE_A_REGION	Playing as any faction, capture a region.	false
+achievements_description_TK_DLC04_ACHIEVEMENT_WIN_CAMPAIGN_AS_EMPRESS_HE	Playing as the Han Dynasty, win the campaign.	false
+achievements_title_TK_ACHIEVEMENT_TRIGGER_CIVIL_WAR	Point Break	false
+achievements_description_TK_DLC06_ACHIEVEMENT_SHI_XIE_SOUTH	When playing as Shi Xie, have 4 vassals that are also members of your family at the start of a turn.	false
+achievements_title_TK_ACHIEVEMENT_FIGHT_BATTLE_WITH_LU_BEI_GUAN_YU_ZHANG_FEI_SAME_SIDE	Oath of the Peach Garden	false
+achievements_description_TK_YTR_ACHIEVEMENT_OWN_HOUSE_OF_COMPASSION	Playing as a Yellow Turban faction, construct a House of Compassion.	false
+achievements_title_TK_ACHIEVEMENT_RESEARCH_ALL_TECH_ONE_ELEMENT	Branching Out	false
+achievements_title_TK_ACHIEVEMENT_COMPLETE_AN_ENTIRE_CAMPAIGN_WINNING_EVERY_BATTLE	When the Sun Rises in the West	false
+achievements_title_TK_DLC02_ACHIEVEMENT_COMPLETE_SPYING_REFORMS	Spies On Me	false
+achievements_description_TK_ACHIEVEMENT_WIN_DUEL_ZHUGE_LIANG_VS_WANG_LANG	Playing as Zhuge Liang, win a duel against Wang Lang.	false
+achievements_title_TK_ACHIEVEMENT_DECLARE_YOURSELF_EMPEROR	Huangdi	false

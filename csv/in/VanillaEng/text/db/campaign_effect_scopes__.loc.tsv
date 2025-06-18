@@ -1,0 +1,262 @@
+key	text	tooltip
+#Loc;1;text/db/campaign_effect_scopes__.loc		
+campaign_effect_scopes_localised_text_faction_to_province_own_commandery	[[col:scope_description]](in all your {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_province_to_army_own	[[col:scope_description]]({{tr:map_province}}-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_force_own	[[col:scope_description]](own army)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_character_any_provincewide_when_governor	[[col:scope_description]](administered {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_region_provincewide_enemy	[[col:scope_description]](enemy {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_region_own_provincewide_verbose	[[col:scope_description]](all {{tr:map_regions}} in this {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_province_to_region_own_factionwide	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_force_hostile_factionwide_unseen_alternative	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_faction_own_characters	[[col:scope_description]](all characters)[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_encamp_stance_dummy	[[col:scope_description]](local {{tr:map_province}} from own armies in encamp stance)[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_force_any	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_character_own_when_commanding	[[col:scope_description]](faction-wide when commanding)[[/col]]	false
+campaign_effect_scopes_localised_text_building_to_sea_region_own_provincewide	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_force_own_enemy_territory_when_commanding	[[col:scope_description]](when commanding)[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_faction_leader	[[i]][[col:scope_description]](faction leader)[[/col]][[/i]]	false
+campaign_effect_scopes_localised_text_faction_to_general_own	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_province_own_unseen	[[col:scope_description]](local {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_character_factionwide_unseen_alternative	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_character_own	[[col:scope_description]](local {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_force_allied	[[col:scope_description]](allied factions)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_force_own_factionwide_allied_territory	[[col:scope_description]](forces in allied territory faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_province_own_encamp_special	[[col:scope_description]](local {{tr:map_province}} from own armies in encamp stance)[[/col]]	false
+campaign_effect_scopes_localised_text_navy_to_sea_region_own	[[col:scope_description]](local sea region)[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_region_own_unseen	[[col:scope_description]](all {{tr:map_regions}} faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_general_own_forcewide	[[col:scope_description]](this army)[[/col]]	false
+campaign_effect_scopes_localised_text_province_to_faction_unseen	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_sea_region_own	[[col:scope_description]](this sea region)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_character_own_forcewide	[[col:scope_description]](this army)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_character_provincewide	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_force_enemy	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_faction	{{tr:only_if_faction_leader}}	false
+campaign_effect_scopes_localised_text_region_to_force_own	[[col:scope_description]](local {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_province_allied_adjacent	[[col:scope_description]](adjacent allied {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_province_enemy_factionwide	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_region_any_in_adjacent_province	[[col:scope_description]](adjacent {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_force_enemy_provincewide_when_governor	[[col:scope_description]](enemy armies in administered {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_navy_own	[[col:scope_description]](commanded navy)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_force_enemy_in_adjacent_province	[[col:scope_description]](enemy armies in adjacent {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_region_own_provincewide	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_character_factionwide_alternative	{{tr:only_if_minister}}	false
+campaign_effect_scopes_localised_text_force_to_faction_when_garrisoned	[[col:scope_description]](for each garrisoned army)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_faction	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_region_own	[[col:scope_description]](local {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_region_any_provincewide	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_dummy_scope_if_faction_leader	[[i]][[col:scope_description]](if faction leader)[[/col]][[/i]]	false
+campaign_effect_scopes_localised_text_character_minister_to_faction_to_character_own_territory_yours_alternative	{{tr:only_if_minister}}	false
+campaign_effect_scopes_localised_text_character_minister_to_force_factionwide_alternative	{{tr:only_if_minister}}	false
+campaign_effect_scopes_localised_text_province_to_regions_own_in_adjacent_province	[[col:scope_description]](adjacent {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_building_to_character_all_provincewide	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_building_to_character_own_adjacent	[[col:scope_description]](adjacent {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_region_provincewide	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_force_hostile_factionwide	{{tr:only_if_faction_leader_factionwide}}	false
+campaign_effect_scopes_localised_text_force_to_province_enemy	[[col:scope_description]](enemy {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_force_own_territory_enemy	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_region_adjacent	[[col:scope_description]](adjacent {{tr:map_regions}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_faction_to_character_own_territory_yours_unseen	 	false
+campaign_effect_scopes_localised_text_character_minister_to_province_factionwide_unseen_alternative	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_force_hostile_factionwide_alternative	{{tr:only_if_minister}}	false
+campaign_effect_scopes_localised_text_character_to_character_own_when_present	[[col:scope_description]](when present)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_military_force_retinue_own	[[col:scope_description]](own retinue)[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_region_own_province_capitals_only	[[col:scope_description]](all {{tr:map_province}} capitals)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_force_own_in_adjacent_province	[[col:scope_description]](own armies in adjacent {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_character_own_territory_neutral	[[col:scope_description]](all characters)[[/col]]	false
+campaign_effect_scopes_localised_text_province_to_region_own_unseen	[[col:scope_description]](local {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_character_own_territory_enemy	[[col:scope_description]](all characters)[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_region_unseen	[[col:scope_description]](local {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_province_to_sea_region_own_factionwide	[[col:scope_description]](all sea {{tr:map_regions}})[[/col]]	false
+campaign_effect_scopes_localised_text_province_to_character_when_commanding_navy_own_factionwide	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_army_own	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_force_allied_provincewide	[[col:scope_description]](allied armies in local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_province_any	[[col:scope_description]](local {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_faction_own_factionwide	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_province_to_province_own_unseen	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_region_allied	[[col:scope_description]](allied factions)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_force_regionwide_enemy	[[col:scope_description]](enemy armies in this {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_character_when_commanding_navy_own	[[col:scope_description]](when admiral)[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_force_own	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_faction_allied	[[col:scope_description]](allied factions)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_military_force_retinue_own_enemy	[[col:scope_description]](own retinue in enemy {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_region_enemy	[[col:scope_description]](enemy settlement)[[/col]]	false
+campaign_effect_scopes_localised_text_building_to_undercover_character_own_factionwide	[[col:scope_description]](all undercover characters)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_character_regionwide	[[col:scope_description]](local {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_province_own_unseen	[[col:scope_description]](all {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_force_enemy_provincewide	[[col:scope_description]](enemy armies in local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_building_to_province_enemy_adjacent	[[col:scope_description]](adjacent enemy {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_character_own_regionwide_enemy	[[col:scope_description]](local {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_region_own_provincewide	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_character_undercover_own_factionwide_unseen		false
+campaign_effect_scopes_localised_text_force_to_region_adjacent	[[col:scope_description]](adjacent {{tr:map_regions}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_character_own	[[col:scope_description]](this character)[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_force_own_factionwide_verbose	[[col:scope_description]](own forces faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_region_when_garrisoned	[[col:scope_description]](all {{tr:map_regions}} when garrisoned)[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_character_enemy	[[col:scope_description]](enemies in local {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_force_own_in_adjacent_regions	[[col:scope_description]](adjacent {{tr:map_regions}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_character_own_factionwide	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_building_to_sea_region_own		false
+campaign_effect_scopes_localised_text_province_to_province_adjacent_unseen	[[col:scope_description]](adjacent {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_character_own_factionwide_all_characters	[[col:scope_description]](all characters)[[/col]]	false
+campaign_effect_scopes_localised_text_province_to_faction	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_force_any	[[col:scope_description]](local {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_region_own	[[col:scope_description]](local {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_faction	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_force_own_enemy_territory	[[col:scope_description]](own army)[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_character_own_factionwide_all_characters_unseen		false
+campaign_effect_scopes_localised_text_character_to_force_enemy_regionwide	[[col:scope_description]](enemy armies in local {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_force_enemy	[[col:scope_description]](enemy army)[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_general_own	[[col:scope_description]](this army)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_region_own_pseudo_provincewide	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_force_own_unseen	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_province_to_province_own_factionwide	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_region_verbose	[[col:scope_description]](all {{tr:map_regions}} faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_province_when_garrisoned	[[col:scope_description]](to {{tr:map_provinces}} when garrisoned)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_faction_own_neutral_territory	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_character_own_heir_dummy	[[col:scope_description]](current heir)[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_force_hostile_factionwide_unseen	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_province_all_adjacent	[[col:scope_description]](adjacent {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_force_own_factionwide	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_region_own_unseen_province_pool_view	[[col:scope_description]](this {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_region_own_unseen_province_pool_view_hidden	[[col:scope_description]](local {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_faction_unseen	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_sea_region_own	[[col:scope_description]](local sea region)[[/col]]	false
+campaign_effect_scopes_localised_text_province_to_force_own_provincewide_unseen	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_building_to_building_own	[[col:scope_description]](this {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_force_any_in_adjacent_province	[[col:scope_description]](all armies in adjacent {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_force_factionwide_unseen	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_character_any_in_adjacent_province	[[col:scope_description]](all characters in adjacent {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_region_enemy_provincewide	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_province_to_sea_region_own	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_sea_region_own	[[col:scope_description]](local sea region)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_character_undercover_own_factionwide	[[col:scope_description]](all active spies)[[/col]]	false
+campaign_effect_scopes_localised_text_building_to_character_factionwide	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_faction_own_unseen	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_enemy_force_regionwide	[[col:scope_description]](local {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_region_factionwide_alternative	{{tr:only_if_minister}}	false
+campaign_effect_scopes_localised_text_region_to_character_any	[[col:scope_description]](characters in this {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_province_to_province_own	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_faction_unseen	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_province_to_region_capital_spoof	[[col:scope_description]]({{tr:map_province}} capital)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_faction_own_enemy_territory	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_force_own_unseen	[[col:scope_description]](this army)[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_character_undercover_factionwide	{{tr:only_if_faction_leader_factionwide}}	false
+campaign_effect_scopes_localised_text_navy_to_navy_own		false
+campaign_effect_scopes_localised_text_province_to_character_when_commanding_own_factionwide	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_region_own_factionwide_spice	[[col:scope_description]](all spice resources)[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_character_own_territory_yours	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_region_own_factionwide	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_province_to_force_enemy_provincewide	[[col:scope_description]](local enemy armies)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_force_own_provincewide_when_governor	[[col:scope_description]](armies in administered {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_force_own_when_commanding	[[col:scope_description]](when commanding)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_military_force_retinue_own_neutral	[[col:scope_description]](own retinue in neutral {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_region_own_provincewide_when_governor	[[col:scope_description]](administered {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_character_own_factionwide_unseen	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_force_own_factionwide	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_character_own_this_character	[[col:scope_description]](this character)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_character_own_provincewide_when_governor	[[col:scope_description]](administered {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_navy_own	[[col:scope_description]](all navies)[[/col]]	false
+campaign_effect_scopes_localised_text_province_to_force_own_factionwide	[[col:scope_description]]({{tr:map_province}}-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_region_own	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_building_to_force_own_provincewide	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_character_factionwide_unseen	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_force_own_provincewide	[[col:scope_description]](own armies in local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_character_own_when_on_assignment	[[col:scope_description]](all characters on assignment)[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_region_adjacent_own	[[col:scope_description]](own adjacent {{tr:map_regions}})[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_region_own_provincewide_territory_own	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_character_own_when_commanding	[[col:scope_description]](when commanding)[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_force_own_provincewide	[[col:scope_description]](local armies)[[/col]]	false
+campaign_effect_scopes_localised_text_province_to_character_enemy	[[col:scope_description]](enemy characters in this {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_force_enemy	[[col:scope_description]](enemies in local {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_region_any_provincewide	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_region_own_provincewide_unseen	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_province_own	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_province_own_adjacent	[[col:scope_description]](adjacent own {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_force_own_enemy_territory_unseen_when_commanding	[[col:scope_description]](when commanding)[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_character_own_factionwide_retinue_effects	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_building_to_faction_unseen	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_building_to_force_own_regionwide	[[col:scope_description]](own armies in this {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_region_enemy_factionwide	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_building_to_adjacent_faction_province	[[col:scope_description]](adjacent {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_region_own_raiding	[[col:scope_description]](when raiding own {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_province_own_raiding	[[col:scope_description]](when raiding own {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_force_own_in_adjacent_regions_all_owners	[[col:scope_description]](adjacent {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_building_to_force_own_provincewide_unseen	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_province_own_factionwide	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_army_to_army_own	[[col:scope_description]](this army)[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_character_own_provincewide	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_province_factionwide_alternative	{{tr:only_if_minister}}	false
+campaign_effect_scopes_localised_text_faction_to_character_own	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_character_own_when_governor	[[col:scope_description]](all {{tr:governors}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_province_factionwide	{{tr:only_if_faction_leader_factionwide}}	false
+campaign_effect_scopes_localised_text_province_to_force_own_provincewide	[[col:scope_description]]({{tr:map_province}}-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_province_own_territory_own	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_force_regionwide_own	[[col:scope_description]](own armies in this {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_navy_own_unseen	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_building_to_province_own_adjacent	[[col:scope_description]](adjacent {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_character_own_territory_allied	[[col:scope_description]](all characters)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_force_own_heir_dummy	[[col:scope_description]](heir's army)[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_region_factionwide_unseen	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_character_own_factionwide	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_character_any_provincewide	[[col:scope_description]](all characters in local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_region_factionwide	{{tr:only_if_faction_leader_factionwide}}	false
+campaign_effect_scopes_localised_text_province_to_character_when_commanding_army_own_factionwide	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_building_to_province_own_dummy_scope_mercenaries	[[col:scope_description]](charges update at the beginning of each turn)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_character_own_retinue	[[col:scope_description]](own retinue)[[/col]]	false
+campaign_effect_scopes_localised_text_building_to_character_own_provincewide	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_force_own_territory_enemy_verbose	[[col:scope_description]](enemy forces in owned territory)[[/col]]	false
+campaign_effect_scopes_localised_text_building_to_force_own_factionwide	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_force_allied_in_adjacent_province	[[col:scope_description]](allied armies in adjacent {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_force_own_factionwide	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_province_to_navy_factionwide	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_faction_own_allied_territory	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_region_any	[[col:scope_description]](local {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_building_to_region_own_province_capitals_only	[[col:scope_description]]({{tr:map_province}} capital)[[/col]]	false
+campaign_effect_scopes_localised_text_force_building_to_faction_own		false
+campaign_effect_scopes_localised_text_character_minister_to_character_factionwide	{{tr:only_if_faction_leader_factionwide}}	false
+campaign_effect_scopes_localised_text_faction_to_province_own	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_region_own_factionwide_silk	[[col:scope_description]](all silk resources)[[/col]]	false
+campaign_effect_scopes_localised_text_province_to_character_own	[[col:scope_description]]({{tr:map_province}}-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_region_any	[[col:scope_description]](local {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_army_own_unseen	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_building_factionwide	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_province_own	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_character_undercover_own_factionwide	[[col:scope_description]](all active spies)[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_region_own_regionwide_territory_own	[[col:scope_description]](local {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_military_force_retinue_own_own	[[col:scope_description]](own retinue in own {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_military_force_retinue_own	[[col:scope_description]](all retinues)[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_faction_unseen_alternative	 	false
+campaign_effect_scopes_localised_text_force_to_force_own	[[col:scope_description]](this army)[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_character_own_factionwide	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_force_enemy_territory_yours	[[col:scope_description]](enemy forces in owned territory)[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_force_factionwide	{{tr:only_if_faction_leader_factionwide}}	false
+campaign_effect_scopes_localised_text_character_to_province_own_when_governor	[[col:scope_description]](administered {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_force_factionwide_unseen_alternative	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_province_own_factionwide	[[col:scope_description]](all {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_building_to_character_own_provincewide_unseen	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_faction_own	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_faction_unseen	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_province_own	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_province_to_force_any_provincewide	[[col:scope_description]]({{tr:map_province}}-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_region_enemy	[[col:scope_description]](local {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_faction_to_character_own_territory_yours	{{tr:only_if_faction_leader_factionwide}}	false
+campaign_effect_scopes_localised_text_province_to_army_factionwide	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_sea_region_own	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_faction_to_character_own_territory_yours_unseen_alternative		false
+campaign_effect_scopes_localised_text_character_to_province_enemy_adjacent	[[col:scope_description]](adjacent enemy {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_force_own_territory_yours	[[col:scope_description]](own forces in owned territory)[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_region_factionwide_unseen_alternative	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_character_own_provincewide	[[col:scope_description]](local {{tr:map_province}})[[/col]]	false
+campaign_effect_scopes_localised_text_building_to_character_own_provincewide_retinue_effects	[[col:scope_description]](local armies)[[/col]]	false
+campaign_effect_scopes_localised_text_force_to_force_building	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_province_to_region_own	[[col:scope_description]]({{tr:map_province}}-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_region_own_unseen	[[col:scope_description]](local {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_faction_leader_army_dummy	[[col:scope_description]](faction leader's army)[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_province_factionwide_unseen	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_building_to_character_own_factionwide_retinue_effects	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_region_own_factionwide	[[col:scope_description]](faction-wide)[[/col]]	false
+campaign_effect_scopes_localised_text_region_to_force_own_in_adjacent_province	[[col:scope_description]](adjacent {{tr:map_provinces}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_to_region_own	[[col:scope_description]](local {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_character_minister_to_faction_alternative	{{tr:only_if_minister}}	false
+campaign_effect_scopes_localised_text_force_to_force_hostile_regionwide	[[col:scope_description]](enemy armies in this {{tr:map_region}})[[/col]]	false
+campaign_effect_scopes_localised_text_faction_to_character_own_unseen	[[col:scope_description]](faction-wide)[[/col]]	false

@@ -1,0 +1,21 @@
+key	text	tooltip
+#Loc;1;text/db/battle_types__.loc		
+battle_types_onscreen_napoleon_historic	text_rejected	false
+battle_types_onscreen_naval_siege	Port Assault	false
+battle_types_onscreen_unfortified_settlement	Town & Resource Battle	false
+battle_types_onscreen_limes	Limes	false
+battle_types_onscreen_classic	Land Battle	false
+battle_types_onscreen_river_crossing_battle	River Battle	false
+battle_types_onscreen_capture_point	Capture Point Battle	false
+battle_types_onscreen_ambush	Ambush Battle	false
+battle_types_onscreen_dynasty	Dynasty Battle	false
+battle_types_onscreen_underground_intercept	Subterranean Battle	false
+battle_types_onscreen_coastal_battle	Coastal Battle	false
+battle_types_onscreen_historic	Scenario Battle	false
+battle_types_onscreen_siege	Walled Siege Battle	false
+battle_types_onscreen_gate_battle	Gate Battle	false
+battle_types_onscreen_Tutorial	Tutorial	false
+battle_types_onscreen_unfortified_port	Unfortified Port Assault	false
+battle_types_onscreen_free_for_all	Free-for-All	false
+battle_types_onscreen_campaign_battle	Campaign Battle	false
+battle_types_onscreen_naval	Naval Battle	false
