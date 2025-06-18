@@ -144,7 +144,7 @@ class VanillaEng(InputTsvFiles):
 
 class TromEng(InputTsvFiles):
     step_no = 4
-    dir_path = 'Trom4.0'
+    dir_path = 'TromEng'
 
 
 class MtuZhcn(InputTsvFiles):
