@@ -95,6 +95,8 @@ class LookupFile(Step):
 
 
 class InputTsvFiles(Step):
+    dir_path = None
+
     def _run(self):
         dfs = []
         for filepath in sorted(glob.glob(os.path.join('csv', 'in', self.dir_path, '**', '*.tsv'), recursive=True)):
@@ -112,6 +114,7 @@ class InputTsvFiles(Step):
 class LocOutput(Step):
 
     tsv_filename = '!@hv_TEXT.tsv'
+    lang_col = None
 
     def save(self):
         super().save()
@@ -214,6 +217,30 @@ class IascusZhtw(InputCsvFile):
     step_no = 26
 
 
+class LookupByVanilla(Step):
+    step_no = 31
+
+    dependencies = {
+        'vanilla_eng': VanillaEng,
+        'vanilla_zhtw': VanillaZhtw,
+        'vanilla_zhcn': VanillaZhcn,
+    }
+
+    def _run(self):
+        vanilla_translations = pd.concat([
+            df.data.set_index('Key')[['Text']].rename({'Text': text_col}, axis=1)
+            for df, text_col in [
+                (self.vanilla_eng, 'Text'), (self.vanilla_zhtw, 'zh-tw'), (self.vanilla_zhcn, 'zh-cn')
+            ]] + [self.vanilla_eng.data.set_index('Key')[['File']]], axis=1
+        ).dropna(subset=['Text']).drop_duplicates(['Text', 'zh-cn', 'zh-tw']).sort_values(['File', 'Text', 'zh-cn', 'zh-tw'])
+        vanilla_translations['Duplicated'] = vanilla_translations.duplicated(subset=['File', 'Text'], keep=False)
+        vanilla_translations = vanilla_translations.reset_index().rename({'Key': 'VanillaKey'}, axis=1)[[
+            'File', 'Text', 'VanillaKey', 'zh-cn', 'zh-tw', 'Duplicated',
+        ]]
+        vanilla_translations = vanilla_translations.sort_values(['Duplicated', 'File', 'Text'])
+        return vanilla_translations
+
+
 class LookupByText(LookupFile):
     step_no = 32
 
@@ -226,7 +253,31 @@ class LookupByPattern(LookupFile):
     step_no = 34
 
 
-class LookupByUnitName(LookupFile):
+class LookupFilePlusVanilla(LookupFile):
+    dependencies = {
+        'lookup_by_vanilla': LookupByVanilla,
+    }
+
+    vanilla_files = [
+        'land_units',
+    ]
+
+    def _run(self):
+        lookup = self.load_file('lookup')
+        vanilla = self.lookup_by_vanilla.data.copy()
+        vanilla = vanilla.loc[
+            vanilla.File.isin([f'{file}__.loc.tsv' for file in self.vanilla_files]),
+            ['Text', 'zh-cn', 'zh-tw'],
+        ].rename({'Text': 'eng'}, axis=1).drop_duplicates()
+        lookup['Source'] = 'Lookup'
+        vanilla['Source'] = 'Vanilla'
+        lookup = pd.concat([vanilla, lookup]).sort_values(lookup.columns.tolist())
+        lookup['Duplicated'] = lookup.duplicated(subset=['eng'], keep=False)
+        lookup = lookup.sort_values(['Duplicated', 'eng'])
+        return lookup
+
+
+class LookupByUnitName(LookupFilePlusVanilla):
     step_no = 35
 
 
@@ -251,25 +302,16 @@ class VanillaTranslations(Step):
 
     dependencies = {
         'trom_eng': TromEng,
-        'vanilla_eng': VanillaEng,
-        'vanilla_zhtw': VanillaZhtw,
-        'vanilla_zhcn': VanillaZhcn,
+        'lookup_by_vanilla': LookupByVanilla,
     }
 
     def _run(self):
         trom_eng = self.trom_eng.data.dropna(subset='Text').set_index('Text')
-        vanilla_translations = pd.concat([
-            df.data.set_index('Key')[['Text']].rename({'Text': text_col}, axis=1)
-            for df, text_col in [
-                (self.vanilla_eng, 'Text'), (self.vanilla_zhtw, 'zh-tw'), (self.vanilla_zhcn, 'zh-cn')
-            ]], axis=1
-        ).dropna(subset=['Text']).sort_values(['Text', 'zh-tw', 'zh-cn']).drop_duplicates(['Text', 'zh-tw', 'zh-cn'])
-        vanilla_translations['Duplicated'] = vanilla_translations.duplicated(subset='Text', keep=False)
-        vanilla_translations = vanilla_translations.reset_index().set_index('Text').rename({'Key': 'VanillaKey'}, axis=1)
-        data = trom_eng.join(vanilla_translations, how='left').reset_index()[
-            ['Key', 'Text', 'Tooltip', 'VanillaKey', 'zh-tw', 'zh-cn', 'File', 'Duplicated']
-        ].fillna({'Duplicated': False})
-        data = data.loc[~data['Duplicated']]
+        vanilla_translations = self.lookup_by_vanilla.data.reset_index()
+        vanilla_translations = vanilla_translations.drop_duplicates(subset='Text', keep=False).set_index('Text')
+        data = trom_eng.join(
+            vanilla_translations[['VanillaKey', 'zh-cn', 'zh-tw']], how='left'
+        ).reset_index()[['Key', 'Text', 'Tooltip', 'VanillaKey', 'zh-cn', 'zh-tw', 'File']]
         return data
 
 
@@ -298,6 +340,9 @@ class MapByPatternZhcn(Step):
                 found[key] = matched[key]
         return found
 
+    def _get_lookup_dict(self, step):
+        return step.data.set_index('eng')[self.lang_col].to_dict()
+
     def _run(self):
         data = self.trom_eng.data.fillna('').copy()
         data = data.groupby(['Text']).agg(Tooltip=('Tooltip', 'first'), File=('File', 'first'), Count=('Key', 'count'), Key=('Key', 'first'))
@@ -306,12 +351,12 @@ class MapByPatternZhcn(Step):
         data = data.merge(lookup_by_text, left_index=True, right_index=True, how='left')
         data['MappedByPattern'] = pd.Series(pd.NA, dtype='string')
 
-        lookup_by_text_fragment = self.lookup_by_text_fragment.data.set_index('eng')[self.lang_col].to_dict()
         lookup_by_pattern = self.lookup_by_pattern.data.set_index(['KeyPattern', 'TextPattern'])[[self.lang_col]]
-        lookup_by_unit_type = self.lookup_by_unit_type.data.set_index('eng')[self.lang_col].to_dict()
-        lookup_by_unit_name = self.lookup_by_unit_name.data.set_index('eng')[self.lang_col].to_dict()
-        lookup_by_skill = self.lookup_by_skill.data.set_index('eng')[self.lang_col].to_dict()
-        lookup_by_character = self.lookup_by_character.data.set_index('eng')[self.lang_col].to_dict()
+        lookup_by_text_fragment = self._get_lookup_dict(self.lookup_by_text_fragment)
+        lookup_by_unit_type = self._get_lookup_dict(self.lookup_by_unit_type)
+        lookup_by_unit_name = self._get_lookup_dict(self.lookup_by_unit_name)
+        lookup_by_skill = self._get_lookup_dict(self.lookup_by_skill)
+        lookup_by_character = self._get_lookup_dict(self.lookup_by_character)
         lookup_by_text_vanilla = self.vanilla_translations.data[['Text', self.lang_col]].dropna().set_index('Text')[self.lang_col].to_dict()
         lookup_by_text_vanilla.update(lookup_by_text.to_dict()['MappedByText'])
         lookup_by_text = lookup_by_text_vanilla
@@ -633,7 +678,7 @@ def main():
             ProcrastinatorZhtw,
             IascusZhcn,
             IascusZhtw,
-            VanillaTranslations,
+            LookupByVanilla,
             LookupByText,
             LookupByKey,
             LookupByPattern,
@@ -642,6 +687,7 @@ def main():
             LookupBySkill,
             LookupByCharacter,
             LookupByTextFragment,
+            VanillaTranslations,
             MapByPatternZhcn,
             MapByPatternZhtw,
             MapByKeyZhcn,

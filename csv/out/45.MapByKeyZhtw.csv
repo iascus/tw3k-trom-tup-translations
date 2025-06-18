@@ -4618,7 +4618,7 @@ ui_text_replacements_localised_text_hv_unit_buqu_axemen,部曲斧兵,True,Buqu A
 ui_text_replacements_localised_text_hv_unit_buqu_crossbowmen,部曲弩兵,True,Buqu Crossbowmen,MappedByPattern,,部曲弩兵,,部曲弩兵,,,弩手,,,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_hv_unit_buqu_ji_infantry,部曲戟兵,True,Buqu Ji Infantry,MappedByPattern,,部曲戟兵,,部曲戟兵,,,戟兵,,,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_hv_unit_buqu_of_the_left,左將軍部曲,True,Buqu of the Left General,MappedByText,,,左將軍部曲,左將軍部曲,,,左將軍護衛,,,hv_TEXT_unit_text_replacements.loc.tsv
-ui_text_replacements_localised_text_hv_unit_buqu_raid_cavalry,部曲突襲騎兵,True,Buqu Raider Cavalry,MappedByPattern,,部曲突襲騎兵,,部曲突襲騎兵,,,遊騎兵,,,hv_TEXT_unit_text_replacements.loc.tsv
+ui_text_replacements_localised_text_hv_unit_buqu_raid_cavalry,部曲劫匪騎兵,True,Buqu Raider Cavalry,MappedByPattern,,部曲劫匪騎兵,,部曲突襲騎兵,,,遊騎兵,,,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_hv_unit_buqu_rep_crossbowmen,部曲連弩兵,True,Buqu Repeating Crossbowmen,MappedByPattern,,部曲連弩兵,,部曲連弩兵,,,連弩手,,,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_hv_unit_buqu_sabre_cavalry,部曲刀騎兵,True,Buqu Sabre Cavalry,MappedByPattern,,部曲刀騎兵,,部曲刀騎兵,,,刀騎兵,,,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_hv_unit_buqu_sabre_infantry,部曲持刀步兵,True,Buqu Sabre Infantry,MappedByPattern,,部曲持刀步兵,,部曲持刀步兵,,,刀兵,,,hv_TEXT_unit_text_replacements.loc.tsv
@@ -4722,10 +4722,10 @@ ui_text_replacements_localised_text_hv_unit_qiang_elite_ranger_cavalry,羌族游
 ui_text_replacements_localised_text_hv_unit_qiang_elite_warrior_cavalry,羌族騎馬戰士,True,Qiang Mounted Warriors,MappedByPattern,,羌族騎馬戰士,,羌族騎馬戰士,,,羌族騎乘勇士,,,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_hv_unit_qiang_javelineer,羌族擲鋋兵,True,Qiang Javelineer,MappedByPattern,,羌族擲鋋兵,,羌族擲鋋兵,,,羌族投槍手,,,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_hv_unit_qiang_ji_infantry,羌族戟兵,True,Qiang Ji Infantry,MappedByPattern,,羌族戟兵,,羌族戟兵,,,羌族戟兵,,,hv_TEXT_unit_text_replacements.loc.tsv
-ui_text_replacements_localised_text_hv_unit_qiang_spear_cavalry,羌族突襲騎兵,True,Qiang Raider Cavalry,MappedByPattern,,羌族突襲騎兵,,羌族槍騎,,,羌族戟騎兵,,,hv_TEXT_unit_text_replacements.loc.tsv
+ui_text_replacements_localised_text_hv_unit_qiang_spear_cavalry,羌族劫匪騎兵,True,Qiang Raider Cavalry,MappedByPattern,,羌族劫匪騎兵,,羌族槍騎,,,羌族戟騎兵,,,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_hv_unit_qingzhou_2h_axe_infantry,青州長斧步兵,True,Qingzhou Long Axe Infantry,MappedByPattern,,青州長斧步兵,,青州長斧步兵,,,青州長斧兵,,,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_hv_unit_qingzhou_hand_ji_infantry,青州手戟兵,True,Qingzhou Hand-Ji Infantry,MappedByPattern,,青州手戟兵,,青州手戟兵,,,青州手戟兵,,,hv_TEXT_unit_text_replacements.loc.tsv
-ui_text_replacements_localised_text_hv_unit_qingzhou_raider_cavalry,青州突襲騎兵,True,Qingzhou Raider Cavalry,MappedByPattern,,青州突襲騎兵,,青州突襲騎兵,,,青州遊騎,,,hv_TEXT_unit_text_replacements.loc.tsv
+ui_text_replacements_localised_text_hv_unit_qingzhou_raider_cavalry,青州劫匪騎兵,True,Qingzhou Raider Cavalry,MappedByPattern,,青州劫匪騎兵,,青州突襲騎兵,,,青州遊騎,,,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_hv_unit_rapid_tigers,虎賁軍,True,Rapid Tiger Infantry,Vanilla,,,,虎賁軍,虎賁軍,,虎捷軍,,,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_hv_unit_shanyue_javelineer,山越擲鋋兵,True,Shanyue Javelineer,MappedByPattern,,山越擲鋋兵,,山越擲鋋兵,,,山越投槍手,,,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_hv_unit_shanyue_remnants,越族殘黨,True,Yue Remnants,MappedByPattern,,越族殘黨,,越民軍,,,古越遺軍,,,hv_TEXT_unit_text_replacements.loc.tsv

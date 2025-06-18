@@ -494,16 +494,16 @@ Buddhism,1,,,hv_TEXT_etc.loc.tsv
 Buildings,6,建筑,,hv_TEXT_pooled_resource.loc.tsv
 Bulldoze,4,,横冲直撞,hv_TEXT_unit_abilities.loc.tsv
 Bullheaded Wrath,6,,浴血,[03]__MTU_skills__Passive_buff.loc.tsv
-Buqu Archers,1,,部曲弓手,hv_TEXT_unit_text_replacements.loc.tsv
+Buqu Archers,1,,部曲弓箭手,hv_TEXT_unit_text_replacements.loc.tsv
 Buqu Axemen,1,,部曲斧手,hv_TEXT_unit_text_replacements.loc.tsv
 Buqu Crossbowmen,1,,部曲弩兵,hv_TEXT_unit_text_replacements.loc.tsv
 Buqu Ji Infantry,1,,部曲戟步兵,hv_TEXT_unit_text_replacements.loc.tsv
 Buqu Lancer Cavalry,1,,部曲戟骑兵,hv_TEXT_unit_text_replacements.loc.tsv
 Buqu Long Axemen,1,,部曲长斧手,hv_TEXT_unit_text_replacements.loc.tsv
-Buqu Mounted Archers,1,,部曲骑射手,hv_TEXT_unit_text_replacements.loc.tsv
-Buqu Raider Cavalry,1,,部曲游骑,hv_TEXT_unit_text_replacements.loc.tsv
-Buqu Repeating Crossbowmen,1,,部曲连弩手,hv_TEXT_unit_text_replacements.loc.tsv
-Buqu Sabre Cavalry,1,,部曲刀骑兵,hv_TEXT_unit_text_replacements.loc.tsv
+Buqu Mounted Archers,1,,部曲骑乘弓箭手,hv_TEXT_unit_text_replacements.loc.tsv
+Buqu Raider Cavalry,1,,部曲突袭骑兵,hv_TEXT_unit_text_replacements.loc.tsv
+Buqu Repeating Crossbowmen,1,,部曲连弩兵,hv_TEXT_unit_text_replacements.loc.tsv
+Buqu Sabre Cavalry,1,,部曲持刀骑兵,hv_TEXT_unit_text_replacements.loc.tsv
 Buqu Sabre Infantry,1,,部曲持刀步兵,hv_TEXT_unit_text_replacements.loc.tsv
 Buqu Spearmen,1,,部曲矛兵,hv_TEXT_unit_text_replacements.loc.tsv
 Buqu Swordsmen of Yuan,1,,部曲袁氏剑兵,hv_TEXT_unit_text_replacements.loc.tsv
@@ -640,7 +640,7 @@ Cunning Monkeys,1,狡猴兵,,hv_TEXT_unit_text_replacements.loc.tsv
 Cut down enemies by making an arc with a blade,4,,使出一记弧形挥砍杀伤敌人,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 DEBUG GUY,1,伯长,,hv_TEXT_cb_loadout.loc.tsv
 "Da Qiao, the elder of the Two Qiaos of Jiangdong, a famous beauty and skilled musician, has come to your faction. You know of her skill as a musician and ask her to sing for you. Her soothing tones wash over you and you cannot help, but consider making her your concubine.",1,,,[04]__MTU_events___Concubine.loc.tsv
-Danyang Archers,1,,丹阳弓手,hv_TEXT_unit_text_replacements.loc.tsv
+Danyang Archers,1,,丹阳弓箭手,hv_TEXT_unit_text_replacements.loc.tsv
 Danyang Spearmen,1,,丹阳矛兵,hv_TEXT_unit_text_replacements.loc.tsv
 Danyang Troop Barrack,1,丹阳部队军营,,hv_TEXT_building.loc.tsv
 Danyang Troop Encampment,1,,,hv_TEXT_building.loc.tsv
@@ -740,7 +740,7 @@ Elemental Vigour,1,,龙胆,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Elephants (Buqu),3,,象兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
 Elephants (Elite),3,,象兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
 Elephants (Militia),3,,象兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
-Elite Archers,1,,精锐弓手,hv_TEXT_unit_text_replacements.loc.tsv
+Elite Archers,1,,精锐弓箭手,hv_TEXT_unit_text_replacements.loc.tsv
 Elite Crossbowmen,1,,精锐弩兵,hv_TEXT_unit_text_replacements.loc.tsv
 Elite General,2,良将,,[01]__MTU_generals__Wood_champion.loc.tsv
 Elite Guards of the Eight Talents,1,八才剑卫,,hv_TEXT_unit_text_replacements.loc.tsv
@@ -749,7 +749,7 @@ Elite Lancer Cataphracts,1,,精锐长枪铁骑,hv_TEXT_unit_text_replacements.lo
 Elite Lancer Cavalry,1,,精锐戟骑兵,hv_TEXT_unit_text_replacements.loc.tsv
 Elite Long Axemen,1,,精锐长斧手,hv_TEXT_unit_text_replacements.loc.tsv
 Elite Long Spearmen,1,,精锐长矛兵,hv_TEXT_unit_text_replacements.loc.tsv
-Elite Repeating Crossbowmen,1,,精锐连弩手,hv_TEXT_unit_text_replacements.loc.tsv
+Elite Repeating Crossbowmen,1,,精锐连弩兵,hv_TEXT_unit_text_replacements.loc.tsv
 Elite Spearmen,1,,精锐矛兵,hv_TEXT_unit_text_replacements.loc.tsv
 Elite Sword Cavalry,1,,精锐剑骑兵,hv_TEXT_unit_text_replacements.loc.tsv
 Elite Swordsmen,1,,精锐剑兵,hv_TEXT_unit_text_replacements.loc.tsv
@@ -781,7 +781,7 @@ Encounter white tigers,1,遭遇虎袭,,hv_TEXT_events.loc.tsv
 Encouragement,7,,金鼓,[03]__MTU_skills__Passive_buff.loc.tsv
 Endless war has disciplined them.,4,,身经百战，纪律严明。,hv_TEXT_unit_abilities.loc.tsv
 Energy of Black Mountain,3,,黑山之能,hv_TEXT_unit_abilities.loc.tsv
-Enforcer Troop Archers,1,,捕掾队弓手,hv_TEXT_unit_text_replacements.loc.tsv
+Enforcer Troop Archers,1,,捕掾队弓箭手,hv_TEXT_unit_text_replacements.loc.tsv
 Enforcer Troop Rangers,1,,捕掾队游击兵,hv_TEXT_unit_text_replacements.loc.tsv
 Enforcer Troop Tally,1,捕掾队虎符,,hv_TEXT_effects_ceo.loc.tsv
 Enlightenment,5,开化,开化,hv_TEXT_unit_abilities.loc.tsv
@@ -941,7 +941,7 @@ Halberd Infantry (Elite),2,,持戟步兵（精锐）,hv_TEXT_unit_ui_group_t3.lo
 Halberd Infantry (Militia),1,,持戟步兵（民兵）,hv_TEXT_unit_ui_group_t1.loc.tsv
 Half Barded,3,,轻马铠,hv_TEXT_unit_abilities.loc.tsv
 Hamstring,4,,断筋,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Han Provincial Repeating Crossbowmen,1,,州属连弩手,hv_TEXT_unit_text_replacements.loc.tsv
+Han Provincial Repeating Crossbowmen,1,,州属连弩兵,hv_TEXT_unit_text_replacements.loc.tsv
 Han Provincial Spearmen,1,,州属矛兵,hv_TEXT_unit_text_replacements.loc.tsv
 Han Sui,1,,,hv_TEXT_cb_loadout.loc.tsv
 Hand-Ji Infantry (Buqu),2,,手戟步兵（部曲）,hv_TEXT_unit_ui_group_t2.loc.tsv
@@ -1012,7 +1012,7 @@ Hostess,1,女主人,,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Hou Jinting,2,,侯氏,[01]__MTU_generals__Water_strategist.loc.tsv
 Hou Jinting's Embroidered Garment,1,,侯氏的綉服,[02]__MTU_items__Armour.loc.tsv
 "Hou Jinting, matriarch of Gongsun Zan’s family, has joined us. It takes an intelligent and hardy woman to survive at the far reaches of the empire - Huo Jinting is no exception. She’s known for a sharp political mind and a guiding hand in civil affairs. In her time at court, you find her to be quite insightful. A woman like this could be useful in the turbulent times that lie ahead.",1,,,[04]__MTU_events___Concubine.loc.tsv
-House Servant Archers,1,,家仆弓手,hv_TEXT_unit_text_replacements.loc.tsv
+House Servant Archers,1,,家仆弓箭手,hv_TEXT_unit_text_replacements.loc.tsv
 "House Servant Archers are key to efficient estate defense, using bows to effectively hold and secure territory.",1,家仆弓手是庄园防御的关键，使用弓箭有效地守护领地。,,hv_TEXT_unit_desc.loc.tsv
 House Servant Axemen,1,,家仆斧手,hv_TEXT_unit_text_replacements.loc.tsv
 "House Servant Axemen are pragmatic defenders within the service of Jing Province's noble families. Familiar with the surrounding lands and adept at utilizing their knowledge for strategic advantages, these axemen are not celebrated heroes but essential cogs in the defense of their lords' estates. Their one-handed axes, while simple, are effectively wielded to secure and protect territory. Their value lies in their efficiency and the ease with which they can be supplied, leveraging their intimate understanding of local geography to hold ground against intruders with minimal resources.",1,家仆斧手是荆州士族属下务实的防御者。他们熟悉周边土地，善于利用地形获取优势。这些斧兵并非备受颂扬的英雄，但却是其主人领地防御中不可或缺的关键。他们手中的单手斧头虽然简单，但却能有效地保护领地。他们的价值在于容易补给，利用对当地地形的了解就能以最少的资源抵御入侵者。,,hv_TEXT_unit_long_desc.loc.tsv
@@ -1149,19 +1149,19 @@ Jia Xu,1,,,hv_TEXT_cb_loadout.loc.tsv
 Jian Yong,2,,简雍,[01]__MTU_generals__Metal_sentienl.loc.tsv
 Jian Yong's Armour,1,,简雍的护甲,[02]__MTU_items__Armour.loc.tsv
 Jianan Elite Vigilante,1,建安精锐巡守,,hv_TEXT_unit_text_replacements.loc.tsv
-Jianan Vigilante Archers,1,,建安巡守弓手,hv_TEXT_unit_text_replacements.loc.tsv
+Jianan Vigilante Archers,1,,建安巡守弓箭手,hv_TEXT_unit_text_replacements.loc.tsv
 Jianan Vigilante Crossbowmen,1,,建安巡守弩兵,hv_TEXT_unit_text_replacements.loc.tsv
 Jianan Vigilante Hand-Ji Infantry,1,,建安巡守手戟兵,hv_TEXT_unit_text_replacements.loc.tsv
-Jianan Vigilante Repeating Crossbowmen,1,,建安巡守连弩手,hv_TEXT_unit_text_replacements.loc.tsv
+Jianan Vigilante Repeating Crossbowmen,1,,建安巡守连弩兵,hv_TEXT_unit_text_replacements.loc.tsv
 Jiang Qin,3,,蒋钦,hv_TEXT_cb_loadout.loc.tsv
 Jiang Qin's Armour,1,,蒋钦的护甲,hv_TEXT_ceo_career.loc.tsv
 Jie Fan Infantry,1,解烦兵,,hv_TEXT_unit_text_replacements.loc.tsv
-Jingchu Buqu Archers,1,,荆楚部曲弓手,hv_TEXT_unit_text_replacements.loc.tsv
+Jingchu Buqu Archers,1,,荆楚部曲弓箭手,hv_TEXT_unit_text_replacements.loc.tsv
 Jingchu Buqu Axemen,1,,荆楚部曲斧手,hv_TEXT_unit_text_replacements.loc.tsv
 Jingchu Buqu Caltrop Throwers,1,,荆楚部曲蒺藜手,hv_TEXT_unit_text_replacements.loc.tsv
 Jingchu Buqu Lancer Cavalry,1,,荆楚部曲戟骑兵,hv_TEXT_unit_text_replacements.loc.tsv
 Jingchu Buqu Long Axemen,1,,荆楚部曲长斧手,hv_TEXT_unit_text_replacements.loc.tsv
-Jingchu Buqu Sabre Cavalry,1,,荆楚部曲刀骑兵,hv_TEXT_unit_text_replacements.loc.tsv
+Jingchu Buqu Sabre Cavalry,1,,荆楚部曲持刀骑兵,hv_TEXT_unit_text_replacements.loc.tsv
 Jingchu Buqu Spearmen,1,,荆楚部曲矛兵,hv_TEXT_unit_text_replacements.loc.tsv
 Jingchu Troop Tally,1,荆楚虎符,,hv_TEXT_effects_ceo.loc.tsv
 Jingchu troop tally can be earned when occupied,1,占据时可获得荆楚虎符,,hv_TEXT_region_army.loc.tsv
@@ -1262,7 +1262,7 @@ Liu Feng's Armour,1,,刘封的护甲,hv_TEXT_ceo_career.loc.tsv
 Liu Zhang,1,,刘璋,hv_TEXT_cb_loadout.loc.tsv
 "Liu Zhang calls a ceasefire for all nearby units, delaying the enemy while his allies work on a counter-attack.",1,,刘璋呼吁周遭止息兵戈，以延缓敌军进攻，为友军创造反击良机。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Local Celebrity,1,名士,,z_dummy_hv_TEXT_non_deployable.loc.tsv
-Local Noble Archers,1,,士族弓手,hv_TEXT_unit_text_replacements.loc.tsv
+Local Noble Archers,1,,士族弓箭手,hv_TEXT_unit_text_replacements.loc.tsv
 "Local Noble Archers from Jing province are skilled from tradition, excelling in local conflicts thanks to their heritage of archery practice. Not formally trained but honed through generations, they offer effective archery support in skirmishes, adept at defending their domains. Their value lies in combining reliable archery with strategic efficiency, making them crucial in small-scale defenses. Their familiarity with local terrain and cost-effective deployment further enhances their utility, marking them as essential for maintaining control in their territories.",1,荆州士族弓手，沿袭世代传承的射箭技艺。虽未经正规训练，但在保护领地中游刃有余，将可靠的箭术与效率相结合，在小规模防御中起关键作用。他们熟悉当地地形，容易调动，是控制领土中不可或缺的力量。,,hv_TEXT_unit_long_desc.loc.tsv
 "Local Noble Archers, adept from tradition, provide valuable, cost-efficient archery support in local skirmishes.",1,士族弓手，凭借着世代传承的箭术，在地方冲突中提供了高效而经济的支援。,,hv_TEXT_unit_desc.loc.tsv
 Local Noble's Estate,1,,,hv_TEXT_building.loc.tsv
@@ -1370,7 +1370,7 @@ Melee Attack (Auto),2,近战攻击（自动）,,hv_TEXT_skills_skill_ability_nam
 Melee Debuff,4,,,hv_TEXT_unit_abilities_hit_effects.loc.tsv
 Men of Thunder,1,雷霆军,,hv_TEXT_unit_text_replacements.loc.tsv
 Men of the Forest,1,,,hv_TEXT_unit_text_replacements.loc.tsv
-Mercenary Archers,1,,雇佣弓手,hv_TEXT_unit_text_replacements.loc.tsv
+Mercenary Archers,1,,雇佣弓箭手,hv_TEXT_unit_text_replacements.loc.tsv
 Mercenary Axemen,1,,雇佣斧手,hv_TEXT_unit_text_replacements.loc.tsv
 Mercenary Captain,1,,雇佣伯长,hv_TEXT_unit_text_replacements.loc.tsv
 Mercenary Cavalry,1,,雇佣骑兵,hv_TEXT_unit_text_replacements.loc.tsv
@@ -1383,7 +1383,7 @@ Mighty Thrust,1,,披靡,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Military Control,1,,,hv_TEXT_effects_pooled_resource.loc.tsv
 Military Talent,6,军事才能,,hv_TEXT_events.loc.tsv
 Military supplies were consumed to stabilise the settlement.,1,,,hv_TEXT_etc.loc.tsv
-Militia Archers,1,,民兵弓手,hv_TEXT_unit_text_replacements.loc.tsv
+Militia Archers,1,,民兵弓箭手,hv_TEXT_unit_text_replacements.loc.tsv
 Militia Ji Infantry,1,,民兵戟步兵,hv_TEXT_unit_text_replacements.loc.tsv
 Militia Long Axemen,1,,民兵长斧手,hv_TEXT_unit_text_replacements.loc.tsv
 Militia Sabre Infantry,1,,民兵持刀步兵,hv_TEXT_unit_text_replacements.loc.tsv
@@ -1445,8 +1445,8 @@ North Wind,1,,,[02]__MTU_items__Bow.loc.tsv
 Northern Army Captains,1,北军校尉,,hv_TEXT_events.loc.tsv
 Northern Ji Infantry,1,,北军戟步兵,hv_TEXT_unit_text_replacements.loc.tsv
 Northern Lancer Cavalry,1,,北军戟骑兵,hv_TEXT_unit_text_replacements.loc.tsv
-Northern Mounted Archers,1,,北军骑射手,hv_TEXT_unit_text_replacements.loc.tsv
-Northern Sabre Cavalry,1,,北军刀骑兵,hv_TEXT_unit_text_replacements.loc.tsv
+Northern Mounted Archers,1,,北军骑乘弓箭手,hv_TEXT_unit_text_replacements.loc.tsv
+Northern Sabre Cavalry,1,,北军持刀骑兵,hv_TEXT_unit_text_replacements.loc.tsv
 Northern Sabre Infantry,1,,北军持刀步兵,hv_TEXT_unit_text_replacements.loc.tsv
 Northern Spearmen,1,,北军矛兵,hv_TEXT_unit_text_replacements.loc.tsv
 Northern Veteran Cataphracts,1,,北军宿卫铁骑,hv_TEXT_unit_text_replacements.loc.tsv
@@ -1517,7 +1517,7 @@ Passive buff Self,1,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 Patience,1,耐心,,[04]__MTU_events__Common.loc.tsv
 Pay the Chanyu's Price,1,,,[04]__MTU_events___Cai_family.loc.tsv
 Pearl Dragons,1,,,hv_TEXT_unit_text_replacements.loc.tsv
-Peasant Archers,1,,农人弓手,hv_TEXT_unit_text_replacements.loc.tsv
+Peasant Archers,1,,农人弓箭手,hv_TEXT_unit_text_replacements.loc.tsv
 Peasant Spearmen,1,,农人矛兵,hv_TEXT_unit_text_replacements.loc.tsv
 Peasant Warriors,1,,农人勇士,hv_TEXT_unit_text_replacements.loc.tsv
 Pei Yuanshao,1,,,hv_TEXT_cb_loadout.loc.tsv
@@ -1578,19 +1578,19 @@ Purchase Her Freedom,1,,,[04]__MTU_events___Cai_family.loc.tsv
 Purchase a horse,1,买马,,hv_TEXT_events.loc.tsv
 Purchase a western sword,1,买剑,,hv_TEXT_events.loc.tsv
 Pursuit,4,,饿虎,[03]__MTU_skills__Passive_buff.loc.tsv
-Qiang Archers,1,,羌族弓手,hv_TEXT_unit_text_replacements.loc.tsv
+Qiang Archers,1,,羌族弓箭手,hv_TEXT_unit_text_replacements.loc.tsv
 Qiang Axemen,1,,羌族斧手,hv_TEXT_unit_text_replacements.loc.tsv
 Qiang Javelineer,1,,羌族投枪手,hv_TEXT_unit_text_replacements.loc.tsv
 Qiang Ji Infantry,1,,羌族戟步兵,hv_TEXT_unit_text_replacements.loc.tsv
 Qiang Mounted Rangers,1,,羌族游骑兵,hv_TEXT_unit_text_replacements.loc.tsv
 Qiang Mounted Warriors,1,,羌族骑乘勇士,hv_TEXT_unit_text_replacements.loc.tsv
-Qiang Raider Cavalry,1,,羌族游骑,hv_TEXT_unit_text_replacements.loc.tsv
+Qiang Raider Cavalry,1,,羌族突袭骑兵,hv_TEXT_unit_text_replacements.loc.tsv
 Qiang Tribal Camp,1,,,hv_TEXT_building.loc.tsv
 Qiang Tribal Herd,1,,,hv_TEXT_building.loc.tsv
 Qiang Tribe,3,,,hv_TEXT_building.loc.tsv
 Qingzhou Hand-Ji Infantry,1,,青州手戟兵,hv_TEXT_unit_text_replacements.loc.tsv
 Qingzhou Long Axe Infantry,1,,青州长斧步兵,hv_TEXT_unit_text_replacements.loc.tsv
-Qingzhou Raider Cavalry,1,,青州游骑,hv_TEXT_unit_text_replacements.loc.tsv
+Qingzhou Raider Cavalry,1,,青州突袭骑兵,hv_TEXT_unit_text_replacements.loc.tsv
 Qingzhou Troops,1,青州军,,hv_TEXT_events.loc.tsv
 Qu Gong,3,,瞿恭,hv_TEXT_cb_loadout.loc.tsv
 Qu Gong's Armour,1,,瞿恭的护甲,[02]__MTU_items__Armour.loc.tsv
@@ -2364,7 +2364,7 @@ Wuling Fighters: for recruitment: %+n,1,,可招募的武陵战士：%+n,hv_TEXT_
 Xiahou Dun,1,,,hv_TEXT_cb_loadout.loc.tsv
 "Xiahou Dun fights best in the thick of it, but may lose his composure.",1,,夏侯惇能借此愈战愈勇，但会因此丧失理智,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Xiahou Yuan,1,,,hv_TEXT_cb_loadout.loc.tsv
-Xianbei Mounted Archers,1,,鲜卑骑射手,hv_TEXT_unit_text_replacements.loc.tsv
+Xianbei Mounted Archers,1,,鲜卑骑乘弓箭手,hv_TEXT_unit_text_replacements.loc.tsv
 Xianchenying Guards,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Xianchenying Vanguards,1,,陷阵营先锋,hv_TEXT_unit_text_replacements.loc.tsv
 "Xiao Qiao, the younger of the Two Qiaos of Jiangdong, a famous beauty and skillful musician, has joined your faction. You recall hearing of her adeptness with a zither and ask her to play for you. She plucks at the strings of her zither and your heart alike and, when she is finished, you relax in your seat and contemplate making her your concubine.",1,,,[04]__MTU_events___Concubine.loc.tsv
@@ -2373,9 +2373,9 @@ Xiliang Buqu Crossbowmen,1,,西凉部曲弩兵,hv_TEXT_unit_text_replacements.lo
 Xiliang Buqu Hand-Ji Infantry,1,,西凉部曲手戟兵,hv_TEXT_unit_text_replacements.loc.tsv
 Xiliang Buqu Ji Infantry,1,,西凉部曲戟步兵,hv_TEXT_unit_text_replacements.loc.tsv
 Xiliang Buqu Lancer Cavalry,1,,西凉部曲戟骑兵,hv_TEXT_unit_text_replacements.loc.tsv
-Xiliang Buqu Mounted Archers,1,,西凉部曲骑射手,hv_TEXT_unit_text_replacements.loc.tsv
-Xiliang Buqu Repeating Crossbowmen,1,,西凉部曲连弩手,hv_TEXT_unit_text_replacements.loc.tsv
-Xiliang Buqu Sabre Cavalry,1,,西凉部曲刀骑兵,hv_TEXT_unit_text_replacements.loc.tsv
+Xiliang Buqu Mounted Archers,1,,西凉部曲骑乘弓箭手,hv_TEXT_unit_text_replacements.loc.tsv
+Xiliang Buqu Repeating Crossbowmen,1,,西凉部曲连弩兵,hv_TEXT_unit_text_replacements.loc.tsv
+Xiliang Buqu Sabre Cavalry,1,,西凉部曲持刀骑兵,hv_TEXT_unit_text_replacements.loc.tsv
 Xiliang Buqu Spearmen,1,,西凉部曲矛兵,hv_TEXT_unit_text_replacements.loc.tsv
 Xiliang Elite Assault Cavalry,1,,西凉精锐突击骑兵,hv_TEXT_unit_text_replacements.loc.tsv
 Xiliang Elite Crossbowmen,1,,西凉精锐弩兵,hv_TEXT_unit_text_replacements.loc.tsv
@@ -2387,7 +2387,7 @@ Xiliang Veterancy - Melee,3,,西凉老兵 - 近战,hv_TEXT_unit_abilities.loc.ts
 Xiliang Veterancy - Ranged,3,,西凉老兵 - 远程,hv_TEXT_unit_abilities.loc.tsv
 Xiongnu Javelineer,1,,匈奴投枪手,hv_TEXT_unit_text_replacements.loc.tsv
 Xiongnu Lancer Cataphracts,1,,匈奴长枪铁骑,hv_TEXT_unit_text_replacements.loc.tsv
-Xiongnu Mounted Archers,1,,匈奴骑射手,hv_TEXT_unit_text_replacements.loc.tsv
+Xiongnu Mounted Archers,1,,匈奴骑乘弓箭手,hv_TEXT_unit_text_replacements.loc.tsv
 Xiongnu Tribal Camp,1,,,hv_TEXT_building.loc.tsv
 Xiongnu Tribal Herd,1,,,hv_TEXT_building.loc.tsv
 Xiongnu Tribe,3,,,hv_TEXT_building.loc.tsv

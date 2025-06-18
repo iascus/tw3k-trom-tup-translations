@@ -501,7 +501,7 @@ Buqu Ji Infantry,1,,部曲戟兵,hv_TEXT_unit_text_replacements.loc.tsv
 Buqu Lancer Cavalry,1,,部曲槍騎,hv_TEXT_unit_text_replacements.loc.tsv
 Buqu Long Axemen,1,,部曲長斧兵,hv_TEXT_unit_text_replacements.loc.tsv
 Buqu Mounted Archers,1,,部曲弓騎兵,hv_TEXT_unit_text_replacements.loc.tsv
-Buqu Raider Cavalry,1,,部曲突襲騎兵,hv_TEXT_unit_text_replacements.loc.tsv
+Buqu Raider Cavalry,1,,部曲劫匪騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 Buqu Repeating Crossbowmen,1,,部曲連弩兵,hv_TEXT_unit_text_replacements.loc.tsv
 Buqu Sabre Cavalry,1,,部曲刀騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 Buqu Sabre Infantry,1,,部曲持刀步兵,hv_TEXT_unit_text_replacements.loc.tsv
@@ -1584,13 +1584,13 @@ Qiang Javelineer,1,,羌族擲鋋兵,hv_TEXT_unit_text_replacements.loc.tsv
 Qiang Ji Infantry,1,,羌族戟兵,hv_TEXT_unit_text_replacements.loc.tsv
 Qiang Mounted Rangers,1,,羌族游騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 Qiang Mounted Warriors,1,,羌族騎馬戰士,hv_TEXT_unit_text_replacements.loc.tsv
-Qiang Raider Cavalry,1,,羌族突襲騎兵,hv_TEXT_unit_text_replacements.loc.tsv
+Qiang Raider Cavalry,1,,羌族劫匪騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 Qiang Tribal Camp,1,,,hv_TEXT_building.loc.tsv
 Qiang Tribal Herd,1,,,hv_TEXT_building.loc.tsv
 Qiang Tribe,3,,,hv_TEXT_building.loc.tsv
 Qingzhou Hand-Ji Infantry,1,,青州手戟兵,hv_TEXT_unit_text_replacements.loc.tsv
 Qingzhou Long Axe Infantry,1,,青州長斧步兵,hv_TEXT_unit_text_replacements.loc.tsv
-Qingzhou Raider Cavalry,1,,青州突襲騎兵,hv_TEXT_unit_text_replacements.loc.tsv
+Qingzhou Raider Cavalry,1,,青州劫匪騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 Qingzhou Troops,1,青州軍,,hv_TEXT_events.loc.tsv
 Qu Gong,3,,瞿恭,hv_TEXT_cb_loadout.loc.tsv
 Qu Gong's Armour,1,,瞿恭的護甲,[02]__MTU_items__Armour.loc.tsv
