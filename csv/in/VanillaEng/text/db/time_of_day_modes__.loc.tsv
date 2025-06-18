@@ -1,0 +1,18 @@
+key	text	tooltip
+#Loc;1;text/db/time_of_day_modes__.loc		
+time_of_day_modes_name_0	Default	false
+time_of_day_modes_description_0	Unlocks the time of day to run on its preset timer, allowing you to experience all of China's ambience!	false
+time_of_day_modes_description_3	Locks the time of day to morning, allowing you to experience China in the first rays of the rising sun!	false
+time_of_day_modes_name_5	Evening	false
+time_of_day_modes_description_2	Unlocks the time of day to run on its preset timer, allowing you to experience all of China's ambience! Slower passage of time than default.	false
+time_of_day_modes_description_5	Locks the time of day to evening, allowing you to experience China during the evening sunset!	false
+time_of_day_modes_description_6	Locks the time of day to midnight, allowing you to experience China beneath the ink of night!	false
+time_of_day_modes_description_4	Locks the time of day to afternoon, allowing you to experience China at the height of the day!	false
+time_of_day_modes_name_7	Realtime	false
+time_of_day_modes_name_1	Fast	false
+time_of_day_modes_name_2	Slow	false
+time_of_day_modes_name_3	Morning	false
+time_of_day_modes_name_6	Night	false
+time_of_day_modes_description_1	Unlocks the time of day to run on its preset timer, allowing you to experience all of China's ambience! Faster passage of time than default.	false
+time_of_day_modes_name_4	Day	false
+time_of_day_modes_description_7	Unlocks the time of day so that the world turns in real time to your system clock!	false

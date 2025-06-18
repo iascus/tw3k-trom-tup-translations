@@ -1,0 +1,32 @@
+key	text	tooltip
+#Loc;1;text/db/ground_types__.loc		
+ground_types_onscreen_name_wooden_floor	Wooden Floor	false
+ground_types_description_oil	Oil residue	false
+ground_types_description_caltrops		false
+ground_types_onscreen_name_rock	Rock	false
+ground_types_description_shallow_water	Flowing brooks and fords can be dangerous for the unprepared.\\nInfantry will have trouble crossing, while cavalry are less likely to get bogged down.	false
+ground_types_onscreen_name_sand	Sand	false
+ground_types_description_road	Roads allow all units to move quicker.	false
+ground_types_onscreen_name_caltrops	Caltrops	false
+ground_types_onscreen_name_grass	Grass	false
+ground_types_onscreen_name_road	Road	false
+ground_types_description_burnt	Scorched and blistered, there is nothing left but ash.\\nAny previous terrain features have been removed.	false
+ground_types_description_grass		false
+ground_types_description_sharp_stones	Uneven, needle-like terrain impedes both foot and hoof alike.\\nHeavy units are especially impaired.	false
+ground_types_description_forest	Dense undergrowth hides many threats.\\nWill conceal all units.	false
+ground_types_onscreen_name_mud	Mud	false
+ground_types_onscreen_name_oil	Oil	false
+ground_types_description_scrub	Scrub provides cover for light infantry units.	false
+ground_types_description_wooden_floor	Wooden Floor Ground Type	false
+ground_types_onscreen_name_scrub	Scrub	false
+ground_types_description_rock	Rock Ground Type	false
+ground_types_onscreen_name_snow	Snow	false
+ground_types_description_mud	Mud Ground Type	false
+ground_types_description_deep_water	The Water at this position is too deep for units to traverse its murky depths.	false
+ground_types_onscreen_name_forest	Forest	false
+ground_types_onscreen_name_deep_water	Deep Water	false
+ground_types_description_snow	Deep snowdrifts hinder progress for any traveller.\\nLight units will find it especially difficult to fight in these conditions.	false
+ground_types_onscreen_name_sharp_stones	Sharp Stones	false
+ground_types_description_sand	Coarse, rough and irritating, sand gets everywhere, creating inhospitable conditions.\\nUnits suffer movement penalties from the heat while moving through it.	false
+ground_types_onscreen_name_burnt	Burnt	false
+ground_types_onscreen_name_shallow_water	Shallow Water	false

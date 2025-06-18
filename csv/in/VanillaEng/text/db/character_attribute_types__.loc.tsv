@@ -1,0 +1,14 @@
+key	text	tooltip
+#Loc;1;text/db/character_attribute_types__.loc		
+character_attribute_types_localized_name_authority	Authority	false
+character_attribute_types_localized_description_authority	A general's presence and strength of character; their ability to lead and to govern.	false
+character_attribute_types_localized_name_resolve	Resolve	false
+character_attribute_types_localized_name_cunning	Cunning	false
+character_attribute_types_localized_name_expertise	Expertise	false
+character_attribute_types_localized_description_resolve	A general's willpower and heart; their commitment to the fight and to the people.	false
+character_attribute_types_localized_description_cunning	A general's wisdom and wit; their gift for scheming and strategising.	false
+character_attribute_types_localized_description_instinct	A general's audacity and drive; their fervour in battle and in statecraft.	false
+character_attribute_types_localized_name_resolve_records	Resolve	false
+character_attribute_types_localized_name_instinct	Instinct	false
+character_attribute_types_localized_description_expertise	A general's proficiency and craft; their mastery of both martial and cultural arts.	false
+character_attribute_types_localized_description_resolve_records	A general's willpower and heart; their commitment to the fight and to the people.	false

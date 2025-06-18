@@ -1,0 +1,27 @@
+key	text	tooltip
+#Loc;1;text/db/past_experience_reasons__.loc		
+past_experience_reasons_localised_description_DATA_SWORN_BROTHER_RELEASED	They are beyond relieved at the release of their sworn brother.	false
+past_experience_reasons_localised_description_UNHAPPY_MINISTER	They were utterly dissatisfied whilst a court noble.	false
+past_experience_reasons_localised_description_BANISHED	Their leader banished them, leaving them humiliated and outraged!	false
+past_experience_reasons_localised_description_DATA_CAPTIVE_EMPLOYED	Following their release, their captors-turned-masters employed them. Naturally, they were happy at this turn of events!	false
+past_experience_reasons_localised_description_REBELLED_GENERAL	They were utterly dissatisfied whilst a general.	false
+past_experience_reasons_localised_description_REBELLED_GOVERNOR	They were utterly dissatisfied whilst an administrator.	false
+past_experience_reasons_localised_description_DATA_RIVAL_RELEASED	They are infuriated at having to stand by as a hated rival was released.	false
+past_experience_reasons_localised_description_FACTION_DESTROYED_FAMILY	Their faction was destroyed, and now they are left with a new master and hatred towards their destroyer.	false
+past_experience_reasons_localised_description_DATA_FRIEND_RELEASED	They are delighted and relieved by the fate of their friend, whose captors chose to release them!	false
+past_experience_reasons_localised_description_DATA_SWORN_BROTHER_EXECUTED	They are heartbroken by the death of a most-loved sworn brother, whose master had them executed.	false
+past_experience_reasons_localised_description_DATA_NEMESIS_RELEASED	They are outraged to learn the fate of a most-hated nemesis, whose captors released them.	false
+past_experience_reasons_localised_description_BETRAYAL	They betrayed this faction	false
+past_experience_reasons_localised_description_DATA_RIVAL_EXECUTED	They were greatly thrilled to learn of a bitter rival's execution.	false
+past_experience_reasons_localised_description_DATA_RIVAL_EMPLOYED	They are greatly displeased that they now must share a faction with a bitter rival, who was employed following their release.	false
+past_experience_reasons_localised_description_RELEASED_FROM_SERVICE	Their leader banished them, leaving them humiliated and outraged!	false
+past_experience_reasons_localised_description_FACTION_CONFEDERATED	They are greatly aggrieved by the confederation of their faction and the signing away of its freedom.	false
+past_experience_reasons_localised_description_DATA_PAST_FONDNESS	They have long held this faction in the highest regard.	false
+past_experience_reasons_localised_description_DATA_PAST_GRUDGE	Their hatred for this faction is deep-seated.	false
+past_experience_reasons_localised_description_DATA_FRIEND_EXECUTED	They are outraged and grief-stricken by the fate of their friend, whose captors chose to execute them!	false
+past_experience_reasons_localised_description_MARRIED_DIPLOMATIC	Marriage called this one away to another master, acrimoniously.	false
+past_experience_reasons_localised_description_FACTION_DESTROYED_HIGH_SATIS	Their faction was destroyed, and now they are left with a new master and hatred towards their destroyer.	false
+past_experience_reasons_localised_description_DATA_PAST_FONDNESS_HIGH_PRIORITY	They have long held this faction in the highest regard.	false
+past_experience_reasons_localised_description_CAPTIVE_RELEASED	Their captors released them, filling them with relief and gratitude!	false
+past_experience_reasons_localised_description_DATA_NEMESIS_EXECUTED	They are thrilled by the fate of a most-hated nemesis, whose masters had them executed!	false
+past_experience_reasons_localised_description_DATA_FRIEND_EMPLOYED	They are pleased by the plight of their friend, whose captors released then employed them!	false

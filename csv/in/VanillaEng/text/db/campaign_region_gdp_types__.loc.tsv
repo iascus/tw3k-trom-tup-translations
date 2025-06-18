@@ -1,0 +1,24 @@
+key	text	tooltip
+#Loc;1;text/db/campaign_region_gdp_types__.loc		
+campaign_region_gdp_types_onscreen_name_subsistence	Population tax	false
+campaign_region_gdp_types_onscreen_name_fertility	[Placeholder]!NOT USED!	false
+campaign_region_gdp_types_onscreen_name_learning	[Placeholder]!NOT USED!	false
+campaign_region_gdp_types_onscreen_name_culture	Culture	false
+campaign_region_gdp_types_onscreen_name_peasantry	Peasantry	false
+campaign_region_gdp_types_onscreen_name_banditry	Banditry	false
+campaign_region_gdp_types_onscreen_name_mining	[Placeholder]!NOT USED!	false
+campaign_region_gdp_types_onscreen_name_population	Population	false
+campaign_region_gdp_types_onscreen_name_other	Other	false
+campaign_region_gdp_types_onscreen_name_entertainment	[Placeholder]!NOT USED!	false
+campaign_region_gdp_types_onscreen_name_animal_husbandry	[Placeholder]!NOT USED!	false
+campaign_region_gdp_types_onscreen_name_spice	Spice	false
+campaign_region_gdp_types_onscreen_name_sea_trade	[Placeholder]!NOT USED!	false
+campaign_region_gdp_types_onscreen_name_fertility_livestock	[Placeholder]!NOT USED!	false
+campaign_region_gdp_types_onscreen_name_farming	[Placeholder]!NOT USED!	false
+campaign_region_gdp_types_onscreen_name_local_trade	[Placeholder]!NOT USED!	false
+campaign_region_gdp_types_onscreen_name_silk	Silk	false
+campaign_region_gdp_types_onscreen_name_manufacture	[Placeholder]!NOT USED!	false
+campaign_region_gdp_types_onscreen_name_fertility_agriculture	[Placeholder]!NOT USED!	false
+campaign_region_gdp_types_onscreen_name_land_trade	[Placeholder]!NOT USED!	false
+campaign_region_gdp_types_onscreen_name_industry	Industry	false
+campaign_region_gdp_types_onscreen_name_commerce	Commerce	false

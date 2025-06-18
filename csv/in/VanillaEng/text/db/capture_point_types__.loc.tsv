@@ -1,0 +1,16 @@
+key	text	tooltip
+#Loc;1;text/db/capture_point_types__.loc		
+capture_point_types_onscreen_description_victory	While under attacker-control, the victory countdown will begin. If it is allowed to reach 0, the attacker will win the battle	false
+capture_point_types_onscreen_name_capture_point	Capture Point	false
+capture_point_types_onscreen_description_victory_neutral	While under attacker-control, the victory countdown will begin. If it is allowed to reach 0, the attacker will win the battle	false
+capture_point_types_onscreen_name_gate	Gatehouse	false
+capture_point_types_onscreen_description_tower	Fires arrows on nearby enemies	false
+capture_point_types_onscreen_name_tower_neutral	Tower (Garrison)	false
+capture_point_types_onscreen_name_victory_neutral	Victory Point	false
+capture_point_types_onscreen_description_capture_point	Provides a morale bonus to the defender when held	false
+capture_point_types_onscreen_description_tower_neutral	Fires arrows on nearby enemies	false
+capture_point_types_onscreen_description_tower_neutral_hidden	Fires arrows on nearby enemies	false
+capture_point_types_onscreen_description_gate	Allows passage to and from the settlement	false
+capture_point_types_onscreen_name_victory	Victory Point	false
+capture_point_types_onscreen_name_tower_neutral_hidden	Tower (Garrison)	false
+capture_point_types_onscreen_name_tower	Tower	false

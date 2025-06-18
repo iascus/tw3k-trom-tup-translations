@@ -1,0 +1,176 @@
+key	text	tooltip
+#Loc;1;text/db/unit_stat_localisations__.loc		
+unit_stat_localisations_onscreen_name_stat_effective_melee_health	Melee Toughness	false
+unit_stat_localisations_onscreen_name_stat_spotting_forest	Forest Spotting	false
+unit_stat_localisations_onscreen_name_scalar_splash_attack_power	Splash Attack Power	false
+unit_stat_localisations_onscreen_name_scalar_missile_damage_ap	Ranged Damage - Armour-piercing	false
+unit_stat_localisations_abbreviated_name_stat_num_uses_additional	NUM A	false
+unit_stat_localisations_abbreviated_name_stat_bonus_vs_large	BVL	false
+unit_stat_localisations_tooltip_text_stat_missile_block_chance	[[b]]RANGED BLOCK CHANCE[[/b]]\\n\\n Increases the chance of evading damage from non-artillery projectiles.	false
+unit_stat_localisations_tooltip_text_stat_spotting_forest	n/a	false
+unit_stat_localisations_abbreviated_name_stat_melee_attack_interval	ROA	false
+unit_stat_localisations_abbreviated_name_scalar_miscast_chance	MIS	false
+unit_stat_localisations_tooltip_text_stat_charge_bonus	[[b]]MELEE CHARGE BONUS[[/b]]\\n\\n Increases a unit's hit chance and damage when charging. Fades over time after the initial charge.	false
+unit_stat_localisations_abbreviated_name_scalar_missile_explosion_damage_ap	RE-AP	false
+unit_stat_localisations_onscreen_name_stat_missile_block_chance	Ranged Block Chance	false
+unit_stat_localisations_onscreen_name_stat_ship_move_speed	Ship Speed	false
+unit_stat_localisations_tooltip_text_stat_morale	[[b]]MORALE[[/b]]\\n\\n Determines this unit's resilience to routing. When the general is dead, units cannot rally.	false
+unit_stat_localisations_onscreen_name_scalar_missile_explosion_damage_ap	Ranged Explosion - Armour-piercing	false
+unit_stat_localisations_tooltip_text_stat_armour_base	[[b]]ARMOUR - BASE[[/b]]\\n\\n Decreases standard melee, ranged and explosion damages. Doesn't help against armour-piercing damage.	false
+unit_stat_localisations_abbreviated_name_stat_resistance_physical	PR	false
+unit_stat_localisations_abbreviated_name_scalar_entity_acceleration_modifier	ACC	false
+unit_stat_localisations_abbreviated_name_stat_melee_attack	HC	false
+unit_stat_localisations_tooltip_text_stat_bonus_vs_large	n/a	false
+unit_stat_localisations_abbreviated_name_stat_ship_move_speed	SS	false
+unit_stat_localisations_onscreen_name_scalar_speed	Speed	false
+unit_stat_localisations_onscreen_name_stat_bonus_vs_cavalry	Bonus vs. Cavalry	false
+unit_stat_localisations_onscreen_name_stat_accuracy	Accuracy	false
+unit_stat_localisations_abbreviated_name_stat_effective_ranged_health	RT	false
+unit_stat_localisations_tooltip_text_stat_weapon_damage_over_time	[[b]]MELEE POWER[[/b]]\\n\\n Determines how much damage a unit can cause in melee.\\n\\n Defined by:\\n  - Melee Attack Rate\\n  - Melee Damage - Base\\n  - Melee Damage - Armour-piercing\\n  - Melee Charge Bonus	false
+unit_stat_localisations_tooltip_text_stat_effective_melee_health	[[b]]MELEE TOUGHNESS[[/b]]\\n\\n Determines how resistant a unit is against melee attacks.\\n\\n Defined by:\\n - Hit Points\\n - Armour - Base\\n - Armour - Shield\\n - Melee Evasion - Base\\n - Melee Evasion - Shield	false
+unit_stat_localisations_abbreviated_name_stat_health	Health	false
+unit_stat_localisations_onscreen_name_scalar_entity_acceleration_modifier	Acceleration	false
+unit_stat_localisations_tooltip_text_stat_weakness_flame	Flame weakness	false
+unit_stat_localisations_onscreen_name_scalar_missile_damage_base	Ranged Damage - Base	false
+unit_stat_localisations_tooltip_text_stat_resistance_all	Damage resistance 	false
+unit_stat_localisations_abbreviated_name_stat_mana	MANA	false
+unit_stat_localisations_abbreviated_name_stat_melee_defence_base	ME-B	false
+unit_stat_localisations_tooltip_text_stat_num_melee_attack_over_time	[[b]]MELEE ATTACK RATE[[/b]]\\n\\n Determines how many times a unit can attack over a minute.	false
+unit_stat_localisations_abbreviated_name_stat_num_melee_attack_over_time	MAR	false
+unit_stat_localisations_abbreviated_name_stat_spotting_range_min_modifier	MSR	false
+unit_stat_localisations_tooltip_text_stat_ship_health	n/a	false
+unit_stat_localisations_onscreen_name_stat_resistance_missile	Ranged Resistance	false
+unit_stat_localisations_tooltip_text_stat_bonus_vs_infantry	n/a	false
+unit_stat_localisations_abbreviated_name_stat_melee_damage_ap	MD-AP	false
+unit_stat_localisations_abbreviated_name_scalar_bracing	CR	false
+unit_stat_localisations_abbreviated_name_stat_shield_armour	A-S	false
+unit_stat_localisations_abbreviated_name_stat_effective_melee_health	MT	false
+unit_stat_localisations_abbreviated_name_stat_reloading	Reload	false
+unit_stat_localisations_abbreviated_name_stat_missile_block_chance	RBC	false
+unit_stat_localisations_tooltip_text_stat_num_uses_additional	Extra uses for special ability	false
+unit_stat_localisations_onscreen_name_scalar_miscast_chance	Miscast Chance	false
+unit_stat_localisations_abbreviated_name_stat_visibility_sight	VR	false
+unit_stat_localisations_abbreviated_name_stat_charge_bonus	MCB	false
+unit_stat_localisations_tooltip_text_stat_melee_damage_base	[[b]]MELEE DAMAGE - BASE[[/b]]\\n\\n Can be blocked. Reduced by armour. 	false
+unit_stat_localisations_tooltip_text_stat_bonus_vs_cavalry	n/a	false
+unit_stat_localisations_tooltip_text_scalar_speed	[[b]]SPEED[[/b]]\\n\\n Determines how quickly this unit can move. Affected by terrain.	false
+unit_stat_localisations_onscreen_name_stat_spotting_range_min_modifier	Minimum Spotting Range	false
+unit_stat_localisations_tooltip_text_stat_melee_defence	n/a	false
+unit_stat_localisations_abbreviated_name_stat_resistance_flame	RES FLM	false
+unit_stat_localisations_abbreviated_name_stat_weapon_damage_over_time	Melee Power	false
+unit_stat_localisations_abbreviated_name_stat_morale	MOR	false
+unit_stat_localisations_onscreen_name_stat_num_melee_attack_over_time	Melee Attack Rate	false
+unit_stat_localisations_abbreviated_name_stat_mass_modifier	MASS	false
+unit_stat_localisations_onscreen_name_stat_charge_bonus	Melee Charge Bonus	false
+unit_stat_localisations_tooltip_text_stat_health	Determines how much damage a unit can withstand without dying.\\n\\n Armour, Melee Evasion and Ranged Block Chance help to further increase survivability.	false
+unit_stat_localisations_abbreviated_name_stat_weapon_damage	WP DMG	false
+unit_stat_localisations_abbreviated_name_stat_armour	Armour	false
+unit_stat_localisations_abbreviated_name_stat_resistance_magic	RES MAG	false
+unit_stat_localisations_abbreviated_name_scalar_missile_range	RAN	false
+unit_stat_localisations_tooltip_text_stat_shield_defence	[[b]]MELEE EVASION - SHIELD[[/b]]\\n\\n Increases the chance of evading melee damage from the front.	false
+unit_stat_localisations_abbreviated_name_stat_bonus_vs_cavalry	BVC	false
+unit_stat_localisations_tooltip_text_stat_ammo	[[b]]AMMUNITION[[/b]]\\n\\n Determines how many times a unit can fire. After the battle, ammunition is fully replenished.	false
+unit_stat_localisations_tooltip_text_stat_unit_health	[[b]]HIT POINTS[[/b]]\\n\\n Determines how much damage a unit can withstand without dying. Armour, Melee Evasion and Ranged Block Chance helps to further increase survivability.	false
+unit_stat_localisations_onscreen_name_stat_shield_defence	Melee Evasion - Shield	false
+unit_stat_localisations_tooltip_text_stat_resistance_physical	Physical resistance	false
+unit_stat_localisations_onscreen_name_stat_missile_damage_over_time	Ranged Power	false
+unit_stat_localisations_abbreviated_name_stat_resistance_all	RES ALL	false
+unit_stat_localisations_onscreen_name_stat_mass_modifier	Mass	false
+unit_stat_localisations_abbreviated_name_scalar_missile_damage_ap	RD-AP	false
+unit_stat_localisations_abbreviated_name_stat_missile_damage_over_time	Ranged Power	false
+unit_stat_localisations_onscreen_name_stat_armour_base	Armour Base	false
+unit_stat_localisations_tooltip_text_stat_effective_ranged_health	[[b]]RANGED TOUGHNESS[[/b]]\\n\\n Determines how resistant a unit is against ranged attacks.\\n\\n Defined by:\\n - Hit Points\\n - Armour - Base\\n - Armour - Shield\\n - Ranged Block Chance - Base\\n - Ranged Block Chance - Shield	false
+unit_stat_localisations_onscreen_name_stat_resistance_flame	Flame Resistance	false
+unit_stat_localisations_tooltip_text_stat_melee_attack_interval	n/a	false
+unit_stat_localisations_tooltip_text_scalar_missile_range	[[b]]RANGE[[/b]]\\n\\n Determines the maximum distance across which this unit can fire. Range is visible in battle when the unit is selected.	false
+unit_stat_localisations_abbreviated_name_stat_ship_health	SH	false
+unit_stat_localisations_tooltip_text_stat_mass_modifier	[[b]]MASS[[/b]]\\n\\n Defines the weight of the unit, which determines how impactful a cavalry charge is, and to what extent infantry can resist one.	false
+unit_stat_localisations_onscreen_name_stat_morale	Morale	false
+unit_stat_localisations_onscreen_name_stat_melee_attack_interval	Melee Attack Rate	false
+unit_stat_localisations_tooltip_text_scalar_charge_speed	n/a	false
+unit_stat_localisations_abbreviated_name_scalar_charge_speed	CS	false
+unit_stat_localisations_tooltip_text_stat_shield_armour	[[b]]ARMOUR - SHIELD[[/b]]\\n\\n Decreases standard melee and ranged damage from the front. Doesn't help against armour-piercing damage.	false
+unit_stat_localisations_onscreen_name_stat_melee_defence_base	Melee Evasion - Base	false
+unit_stat_localisations_onscreen_name_stat_visibility_sight	Visibility Range	false
+unit_stat_localisations_abbreviated_name_stats_effect_range_modifier	AER	false
+unit_stat_localisations_abbreviated_name_stat_bonus_vs_infantry	BVI	false
+unit_stat_localisations_tooltip_text_stat_resistance_missile	Ranged resistance	false
+unit_stat_localisations_onscreen_name_stat_reloading	Ranged Attack Rate	false
+unit_stat_localisations_abbreviated_name_stat_ammo	AMM	false
+unit_stat_localisations_onscreen_name_stat_effective_ranged_health	Ranged Toughness	false
+unit_stat_localisations_tooltip_text_stat_first_strike	n/a	false
+unit_stat_localisations_abbreviated_name_stat_melee_damage_base	MD-B	false
+unit_stat_localisations_onscreen_name_stat_resistance_physical	Physical Resistance	false
+unit_stat_localisations_tooltip_text_scalar_splash_attack_range	n/a	false
+unit_stat_localisations_onscreen_name_stat_num_uses_additional	Num Uses Additional	false
+unit_stat_localisations_abbreviated_name_stat_accuracy	ACU	false
+unit_stat_localisations_abbreviated_name_stat_first_strike	FS	false
+unit_stat_localisations_onscreen_name_stat_bonus_vs_large	Bonus vs. Large	false
+unit_stat_localisations_abbreviated_name_stat_weakness_flame	WEAK FLM	false
+unit_stat_localisations_onscreen_name_stat_resistance_all	Damage Resistance 	false
+unit_stat_localisations_onscreen_name_stat_weapon_damage_over_time	Melee Power	false
+unit_stat_localisations_tooltip_text_stat_num_missiles_over_time	[[b]]RANGED ATTACK RATE[[/b]]\\n\\n Determines how many times a unit can fire over a minute.	false
+unit_stat_localisations_tooltip_text_scalar_entity_deceleration_modifier	n/a	false
+unit_stat_localisations_tooltip_text_scalar_missile_explosion_damage_ap	[[b]]RANGED EXPLOSION - ARMOUR-PIERCING[[/b]]\\n\\n Cannot be blocked. Ignores armour.	false
+unit_stat_localisations_tooltip_text_stat_resistance_magic	Magic resistance	false
+unit_stat_localisations_abbreviated_name_stat_shield_defence	ME-S	false
+unit_stat_localisations_abbreviated_name_stat_unit_health	HP	false
+unit_stat_localisations_tooltip_text_scalar_missile_explosion_damage_base	[[b]]RANGED EXPLOSION - BASE[[/b]]\\n\\n Cannot be blocked. Reduced by armour.	false
+unit_stat_localisations_tooltip_text_stat_mana	mana	false
+unit_stat_localisations_onscreen_name_stat_ammo	Ammunition	false
+unit_stat_localisations_onscreen_name_stat_melee_attack	Hit Chance	false
+unit_stat_localisations_tooltip_text_stat_armour	Decreases standard melee, ranged and explosion damage.\\n\\n Doesn't help against armour-piercing damage.	false
+unit_stat_localisations_tooltip_text_stat_melee_damage_ap	[[b]]MELEE DAMAGE - ARMOUR-PIERCING[[/b]]\\n\\n It fully goes through armour but can be blocked.	false
+unit_stat_localisations_onscreen_name_stats_effect_range_modifier	Ability Effect Range	false
+unit_stat_localisations_onscreen_name_stat_weakness_flame	Fire Damage	false
+unit_stat_localisations_abbreviated_name_scalar_splash_attack_power	SAP	false
+unit_stat_localisations_tooltip_text_stat_melee_attack	[[b]]HIT CHANCE[[/b]]\\n\\n Increases the chance of hitting the enemy target by decreasing its Melee Evasion.	false
+unit_stat_localisations_tooltip_text_scalar_entity_acceleration_modifier	n/a	false
+unit_stat_localisations_tooltip_text_stat_missile_damage_over_time	[[b]]RANGED POWER[[/b]]\\n\\n Determines how much damage a unit can cause from range.\\n\\n Defined by:\\n - Ranged Attack Rate\\n - Ranged Damage - Base\\n - Ranged Damage - Armour-piercing\\n - Ranged Explosion - Base\\n - Ranged Explosion - Armour-piercing	false
+unit_stat_localisations_tooltip_text_scalar_bracing	n/a	false
+unit_stat_localisations_tooltip_text_scalar_splash_attack_power	n/a	false
+unit_stat_localisations_onscreen_name_stat_mana	mana	false
+unit_stat_localisations_onscreen_name_scalar_entity_deceleration_modifier	Deceleration	false
+unit_stat_localisations_tooltip_text_stat_resistance_flame	Flame resistance	false
+unit_stat_localisations_onscreen_name_stat_resistance_magic	Magic Resistance	false
+unit_stat_localisations_tooltip_text_scalar_missile_damage_ap	[[b]]RANGED DAMAGE - ARMOUR-PIERCING[[/b]]\\n\\n Can be blocked. Ignores armour.	false
+unit_stat_localisations_onscreen_name_scalar_bracing	Charge Resistance	false
+unit_stat_localisations_onscreen_name_stat_health	Hit Points	false
+unit_stat_localisations_onscreen_name_stat_bonus_vs_infantry	Bonus vs. Infantry	false
+unit_stat_localisations_tooltip_text_stat_weapon_damage	The damage caused by a unit's melee weapon is split between standard and armour-piercing.\\n\\n Armour-piercing damage ignores armour; standard damage is reduced by it.	false
+unit_stat_localisations_abbreviated_name_stat_armour_base	A-B	false
+unit_stat_localisations_onscreen_name_scalar_splash_attack_range	Melee Splash Attack Range	false
+unit_stat_localisations_onscreen_name_stat_shield_armour	Shield Armour	false
+unit_stat_localisations_tooltip_text_stat_ship_move_speed	n/a	false
+unit_stat_localisations_tooltip_text_stat_melee_defence_base	[[b]]MELEE EVASION - BASE[[/b]]\\n\\n Increases the chance of evading melee damage from front and side. The enemy's charge bonus decreases it.	false
+unit_stat_localisations_abbreviated_name_scalar_entity_deceleration_modifier	DEC	false
+unit_stat_localisations_onscreen_name_stat_first_strike	First Strike	false
+unit_stat_localisations_onscreen_name_scalar_missile_explosion_damage_base	Ranged Explosion - Base	false
+unit_stat_localisations_abbreviated_name_stat_miscast_additional_chance	MIS	false
+unit_stat_localisations_abbreviated_name_stat_num_missiles_over_time	RAR	false
+unit_stat_localisations_onscreen_name_scalar_missile_range	Range	false
+unit_stat_localisations_abbreviated_name_scalar_missile_explosion_damage_base	RE-B	false
+unit_stat_localisations_tooltip_text_stat_spotting_range_min_modifier	n/a	false
+unit_stat_localisations_abbreviated_name_scalar_missile_damage_base	RD-B	false
+unit_stat_localisations_tooltip_text_scalar_miscast_chance	Reduced likelihood of miscasting spells.	false
+unit_stat_localisations_onscreen_name_stat_melee_damage_ap	Melee Damage - Armour-piercing	false
+unit_stat_localisations_tooltip_text_stat_visibility_sight	Determines the distance at which this unit can spot enemies.\\n\\n Hiding units will not be spotted at this range.	false
+unit_stat_localisations_tooltip_text_stat_reloading	[[b]]RANGED ATTACK RATE[[/b]]\\n\\n Determines how many times a unit can fire over a minute.	false
+unit_stat_localisations_onscreen_name_stat_melee_defence	Melee Evasion	false
+unit_stat_localisations_onscreen_name_stat_armour	Armour	false
+unit_stat_localisations_abbreviated_name_scalar_speed	SPD	false
+unit_stat_localisations_tooltip_text_scalar_missile_damage_base	[[b]]RANGED DAMAGE - BASE[[/b]]\\n\\n Can be blocked. Reduced by armour. 	false
+unit_stat_localisations_tooltip_text_stat_miscast_additional_chance	Additional likelihood of miscasting spells	false
+unit_stat_localisations_onscreen_name_stat_unit_health	Hit Points	false
+unit_stat_localisations_onscreen_name_stat_num_missiles_over_time	Ranged Attack Rate	false
+unit_stat_localisations_abbreviated_name_stat_resistance_missile	RR	false
+unit_stat_localisations_tooltip_text_stat_accuracy	Determines the likelihood of hitting the enemy when firing.	false
+unit_stat_localisations_tooltip_text_stats_effect_range_modifier	Increases the range of abilities	false
+unit_stat_localisations_abbreviated_name_stat_melee_defence	ME	false
+unit_stat_localisations_onscreen_name_stat_ship_health	Ship Health	false
+unit_stat_localisations_onscreen_name_stat_weapon_damage	Melee Damage	false
+unit_stat_localisations_onscreen_name_scalar_charge_speed	Charge Speed	false
+unit_stat_localisations_abbreviated_name_stat_spotting_forest	FS	false
+unit_stat_localisations_abbreviated_name_scalar_splash_attack_range	MSAR	false
+unit_stat_localisations_onscreen_name_stat_melee_damage_base	Melee Damage - Base	false
+unit_stat_localisations_onscreen_name_stat_miscast_additional_chance	Miscast Additional	false

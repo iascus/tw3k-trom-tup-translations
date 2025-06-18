@@ -1,0 +1,8 @@
+key	text	tooltip
+#Loc;1;text/db/ui_siege_item_details__.loc		
+ui_siege_item_details_onscreen_name_3k_main_vehicle_battering_ram	Battering Ram	false
+ui_siege_item_details_onscreen_name_3k_dlc04_vehicle_siege_tower	Siege Tower	false
+ui_siege_item_details_onscreen_name_3k_main_sapping	Sapping	false
+ui_siege_item_details_description_3k_main_sapping	By tunnelling beneath the defences a crafty attacker can overcome any wall.	false
+ui_siege_item_details_description_3k_main_vehicle_battering_ram	The battering ram is a tried and tested weapon of war used for overcoming defences and breaching the unbreachable.	false
+ui_siege_item_details_description_3k_dlc04_vehicle_siege_tower	These towering engines of war allow troops to reach enemy walls in relative safety.	false

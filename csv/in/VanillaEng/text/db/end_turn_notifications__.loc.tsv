@@ -1,0 +1,89 @@
+key	text	tooltip
+#Loc;1;text/db/end_turn_notifications__.loc		
+end_turn_notifications_detailed_description_SPARE_GOVERNOR_SLOT	- You have a free administrator position.\\n\\n- Administrators reduce corruption in their {{tr:map_province}}.\\n\\n- However, administrators may want to increase their power, so monitor their satisfaction carefully.\\n\\n- Administrators also provide you with one additional army.	false
+end_turn_notifications_display_text_MILITARY_FORCE_MORALE_LOW	Low military supplies	false
+end_turn_notifications_detailed_description_ENEMY_FORCE_IN_REGION	- An enemy army is trespassing and pillaging your lands, and causing public unrest.\\n\\n- Muster or re-deploy forces to counter this threat. Be aware of movement ranges and terrain; sometimes it might take multiple turns to reach the enemy army.	false
+end_turn_notifications_detailed_description_IMMINENT_REBELLION	- Unrest has been growing in this {{tr:map_province}} and rebellion is imminent!\\n\\n- Only military force can end the rebellion; move an army into place, or deploy a new force.	false
+end_turn_notifications_display_text_PROVINCES_REBELLION_MUSTERING	Rebellion mustering!	false
+end_turn_notifications_display_text_LOW_PROVINCIAL_SUPPLIES	Low commandery reserves	false
+end_turn_notifications_detailed_description_CHARACTER_SATISFACTION_LOW	- This character has low {{tr:satisfaction}}.\\n\\n- Inspect their {{tr:satisfaction}} breakdown to see how to improve this value. A character with a 'lack of purpose', for example, will want something to do: be deployed as general, go on assignment, or work as a government official.\\n\\n- Increase {{tr:satisfaction}} by removing negative factors, or by giving higher court appointments or ancillaries.\\n\\n- If {{tr:satisfaction}} reaches 0, a character will defect.	false
+end_turn_notifications_display_text_SPARE_SPY_SLOT	Spy position available	false
+end_turn_notifications_display_text_PUBLIC_ORDER_LOW	Low {{tr:Public_Order}}	false
+end_turn_notifications_display_text_ENEMY_FORCE_IN_REGION	Enemy army trespassing	false
+end_turn_notifications_display_text_SPARE_GOVERNOR_SLOT	Unassigned administrator position	false
+end_turn_notifications_detailed_description_LOW_FUNDS	- Your funds are running low!\\n\\n- So long as your next-turn projected income is positive, low funds are not a problem. However, if your income is negative, you risk bankruptcy. There are several ways to improve your income.\\n\\n- Certain buildings and reforms will increase income - the financial breakdown in your {{tr:map_provinces}} can identify building combinations that further boost income. \\n\\n- Recalling redundant retinues will free up funds, as will carefully considering which characters are deserving of promotions and offices. In dire situations, it may be required to remove some characters from their posts. \\n\\n Once the tax slider is unlocked, raising taxes will increase income, but at the expense of public order and food from farming. \\n\\n In the short-term, raiding lands and sacking settlements will provide you with funds from looting.	false
+end_turn_notifications_display_text_CHARACTER_UPGRADE_AVAILABLE	General skill point(s) available	false
+end_turn_notifications_display_text_IMMINENT_REBELLION	Rebellion imminent!	false
+end_turn_notifications_detailed_description_PROVINCES_NO_CONSTRUCTION_PROJECT	- Mouse-over a building slot to see construction options, or right-click on a slot open the building browser.\\n\\n- You can maintain a single construction project in each {{tr:map_province}}.\\n\\n- Build instantly by spending additional funds to complete construction immediately.	false
+end_turn_notifications_detailed_description_SIEGE_NO_EQUIPMENT	- This army has no siege equipment.\\n\\n- Without proper equipment, a settlement cannot be assaulted.\\n\\n- Your only option is to starve out your opponent.	false
+end_turn_notifications_title_SETTLEMENT_UNDER_SIEGE	Settlement Besieged! 	false
+end_turn_notifications_title_LOW_PROVINCIAL_SUPPLIES	Low Commandery Reserves	false
+end_turn_notifications_display_text_SETTLEMENT_UNDER_SIEGE	Settlement besieged! 	false
+end_turn_notifications_display_text_ECONOMICS_PROJECTED_NEGATIVE	Negative income projected	false
+end_turn_notifications_detailed_description_CHARACTER_UPGRADE_AVAILABLE	- This character has new skill points.\\n\\n- Specialise your characters for a particular role by picking skills suitable for this role.	false
+end_turn_notifications_detailed_description_GARRISONED_ARMY_AP_AVAILABLE	- The army garrisoning this settlement has action points available. 	false
+end_turn_notifications_detailed_description_CHARACTER_DEFECTION_IMMINENT	- This character is about to defect.\\n\\n- Nobles will simply abandon your cause, administrators may take their {{tr:map_province}} with them to join your enemies, and powerful ministers or potential heirs will trigger a civil war.\\n\\n- Inspect the {{tr:satisfaction}} value and breakdown to identify causes for this character's imminent defection.	false
+end_turn_notifications_title_GARRISONED_ARMY_AP_AVAILABLE	Unused Garrison Army Action Point(s)	false
+end_turn_notifications_title_ECONOMICS_PROJECTED_NEGATIVE	Negative Income Projected	false
+end_turn_notifications_display_text_CHARACTER_DEFECTION_IMMINENT	Defection imminent	false
+end_turn_notifications_title_CHARACTER_DEFECTION_IMMINENT	Defection Imminent	false
+end_turn_notifications_title_HEIR_SLOT_AVAILABLE	No Faction Heir	false
+end_turn_notifications_title_PUBLIC_ORDER_LOW	Low {{tr:Public_Order}}	false
+end_turn_notifications_detailed_description_UNDERCOVER_CHARACTER_LOYAL_TO_CURRENT_FACTION	- This character has low {{tr:satisfaction}}.\\n\\n- Inspect their {{tr:satisfaction}} breakdown to see how to improve this value. A character with a 'lack of purpose', for example, will want something to do: be deployed as general, go on assignment, or work as a government official.\\n\\n- Increase {{tr:satisfaction}} by removing negative factors, or by giving higher Court appointments or ancillaries.\\n\\n- If {{tr:satisfaction}} reaches 0, a character will defect.	false
+end_turn_notifications_title_CHARACTER_UPGRADE_AVAILABLE	General Skill Point(s) Available	false
+end_turn_notifications_display_text_CHARACTER_SATISFACTION_LOW	Low general satisfaction	false
+end_turn_notifications_display_text_TRADE_AGREEMENT_SLOTS_AVAILABLE	Trade route available	false
+end_turn_notifications_detailed_description_MILITARY_FORCE_MORALE_LOW	- This army is almost out of military supplies.\\n\\n- Prolonged military campaigns will drain these supplies.\\n\\n- Replenish them by winning battles, or by capturing or sacking settlements.\\n\\n- You can also construct infrastructure that provides supplies in your own - or even in enemy - lands.\\n\\n- Note that once supplies start to run out attrition will affect all levels of this army, including its general! If they are on their last wound, they will certainly die before the start of the next turn.	false
+end_turn_notifications_detailed_description_HEIR_SLOT_AVAILABLE	- Your have not yet chosen a faction heir.\\n\\n- Heirs shape the bonuses of your faction and significantly impact your strategy.\\n\\n- Some characters may feel they deserve the position more than others.	false
+end_turn_notifications_display_text_IMPERIAL_FAVOUR_LOW	Imperial favour is low!	false
+end_turn_notifications_detailed_description_SETTLEMENT_UNDER_SIEGE	- This settlement is under siege.\\n\\n- Move other armies in to relieve the siege.\\n\\n- Alterantively, sally out with your garrisoned army to meet the attackers.	false
+end_turn_notifications_title_SPARE_MINISTER_SLOT	Unassigned Ministerial Position	false
+end_turn_notifications_title_ECONOMICS_PROJECTED_NEGATIVE_WITH_DIPLOMATIC_EXPENDITURE	Bankrupt With Outgoings Pending	false
+end_turn_notifications_display_text_NOT_RESEARCHING_TECH	Reform choice pending	false
+end_turn_notifications_display_text_NEGATIVE_FOOD_BALANCE	Food deficit!	false
+end_turn_notifications_detailed_description_NOT_RESEARCHING_TECH	- Choose a new reform before ending the turn.\\n\\n- Implementing a reform will immediately provide its effect.	false
+end_turn_notifications_detailed_description_ECONOMICS_PROJECTED_NEGATIVE	- You will be bankrupt next turn!\\n\\n- Remedy the situation by disbanding units, or raising taxes.\\n\\n- Inspect the treasury panel to review your income and expenditures.\\n\\n- Long-term, construct buildings that generate income, choose {{tr:Technologies}} that provide income bonuses to, or by developing specialisations in your {{tr:map_provinces}}.	false
+end_turn_notifications_detailed_description_SPARE_SPY_SLOT	- Your clandestine network can support more spies.\\n\\n- Send these out to other factions to learn more about them.\\n\\n- Alternatively, you can weaken them in preparation for a future attack.	false
+end_turn_notifications_detailed_description_PROVINCES_RESOURCE_MISSING	- Some buildings require resources to function properly.\\n\\n- Resources are shared across factions and will be traded through trade agreements in diplomacy.\\n\\n- If they are lost, the building will cease functioning. 	false
+end_turn_notifications_display_text_SIEGE_CONSTRUCTION_AVAILABLE	Siege construction available	false
+end_turn_notifications_detailed_description_PROVINCES_REBELLION_MUSTERING	- A rebellion has spawned in this {{tr:map_province}}.\\n\\n- Prepare your defences\\n\\n - Muster new troops or move armies into position.	false
+end_turn_notifications_display_text_ARMY_AP_AVAILABLE	Army action point(s) available	false
+end_turn_notifications_title_ENEMY_FORCE_IN_REGION	Enemy army trespassing	false
+end_turn_notifications_title_DAMAGED_BUILDING	Damaged Building!	false
+end_turn_notifications_detailed_description_SPARE_MINISTER_SLOT	- You have free ministerial positions in your court.\\n\\n- These are prestigious, powerful offices, that also make the minister more able.\\n\\n- Ministers are also part of your council and will provide you with missions.	false
+end_turn_notifications_title_NOT_RESEARCHING_TECH	Reform Choice Pending	false
+end_turn_notifications_title_UNDERCOVER_CHARACTER_LOYAL_TO_CURRENT_FACTION	Defection Imminent	false
+end_turn_notifications_title_IMMINENT_REBELLION	Rebellion Imminent!	false
+end_turn_notifications_display_text_PROVINCES_NO_CONSTRUCTION_PROJECT	Construction available	false
+end_turn_notifications_title_TRADE_AGREEMENT_SLOTS_AVAILABLE	Trade Route Available	false
+end_turn_notifications_detailed_description_DAMAGED_BUILDING	- This building is damaged!\\n\\n- Damaged buildings have reduced effects.\\n\\n - Repair the damage to restore its full potential.	false
+end_turn_notifications_title_MILITARY_FORCE_MORALE_LOW	Low Military Supplies	false
+end_turn_notifications_detailed_description_PUBLIC_ORDER_LOW	- Unrest is growing in this {{tr:map_province}} and {{tr:public_order}} is low.\\n\\n- Certain buildings increase {{tr:public_order}}.\\n\\n- {{tr:public_order_end_turn_notification}}	false
+end_turn_notifications_title_ARMY_AP_AVAILABLE	Army Action Point(s) Available	false
+end_turn_notifications_detailed_description_NEGATIVE_FOOD_BALANCE	- You have a faction-wide food deficit!\\n\\n- Food is primarily consumed by your population, and created by the harvest of your farms.\\n\\n- Maintaining a balance between of production and consumption is crucial for a stable economy.	false
+end_turn_notifications_detailed_description_ECONOMICS_PROJECTED_NEGATIVE_WITH_DIPLOMATIC_EXPENDITURE	- You are approaching [[b]]bankruptcy[[/b]] due to your ongoing diplomatic payments. You must either resolve the projected [[b]]bankruptcy[[/b]] or cancel all ongoing diplomatic payments.\\n\\n- Review your regular payments in [[b]]diplomacy[[/b]] to decide which to cancel; this can be enough to resolve the projected bankruptcy.\\n\\n- Inspect the tooltip in the [[b]]treasury panel[[/b]] to identify your biggest outstanding payments.\\n\\n- You can also try to resolve imminent bankruptcy by [[b]]disbanding[[/b]] units or by [[b]]recalling[[/b]] retinues.	false
+end_turn_notifications_display_text_HEIR_SLOT_AVAILABLE	No faction heir	false
+end_turn_notifications_detailed_description_SIEGE_CONSTRUCTION_AVAILABLE	- Your army is besieging an enemy settlement.\\n\\n- Your army can prepare siege engines for the inevitable assault\\n\\n- Alternatively, cause damage to the walls by deploying sappers.	false
+end_turn_notifications_display_text_DAMAGED_BUILDING	Damaged building!	false
+end_turn_notifications_title_SIEGE_CONSTRUCTION_AVAILABLE	Siege Construction Available	false
+end_turn_notifications_detailed_description_IMPERIAL_FAVOUR_LOW	- Your faction has low imperial favour.\\n\\n- When your imperial favour is below 30, then you will become vulnerable to imperial decrees that can hamper your faction.\\n\\n- If your imperial favour drops below 10 then you will be declared an enemy of the han.\\n\\n- If your imperial favour drops below 10 and you currently hold the emperor in your faction, he will flee.	false
+end_turn_notifications_detailed_description_ARMY_AP_AVAILABLE	- This army can still move during this turn.\\n\\n- Army movement can be planned over multiple turns.\\n\\n - Action points are further depleted by switching into stances.	false
+end_turn_notifications_title_PROVINCES_REBELLION_MUSTERING	Rebellion Mustering!	false
+end_turn_notifications_title_CHARACTER_SATISFACTION_LOW	Low General Satisfaction	false
+end_turn_notifications_title_PROVINCES_RESOURCE_MISSING	Resources Required!	false
+end_turn_notifications_detailed_description_LOW_PROVINCIAL_SUPPLIES	- The stockpile of local reserves is running low.\\n\\n- Empty reserves will cause unrest and make the settlement more vulnerable during sieges.\\n\\n- Replenish your faction-wide reserves by expanding your farms or by capturing new ones.	false
+end_turn_notifications_detailed_description_TRADE_AGREEMENT_SLOTS_AVAILABLE	- Your faction can support an additional trade route.\\n\\n- Seek out trade partners in diplomacy to strike a trade agreement.\\n\\n- The higher your trade influence, the more you can gain from these routes.\\n\\n- Trade agreements will also share access to resources that are required to unlock buildings.	false
+end_turn_notifications_display_text_PROVINCES_RESOURCE_MISSING	Resources required!	false
+end_turn_notifications_title_LOW_FUNDS	Low Funds!	false
+end_turn_notifications_display_text_SIEGE_NO_EQUIPMENT	No siege equipment	false
+end_turn_notifications_display_text_GARRISONED_ARMY_AP_AVAILABLE	Unused garrison army action point(s)	false
+end_turn_notifications_display_text_UNDERCOVER_CHARACTER_LOYAL_TO_CURRENT_FACTION	Defection imminent	false
+end_turn_notifications_title_PROVINCES_NO_CONSTRUCTION_PROJECT	Construction Available	false
+end_turn_notifications_title_SIEGE_NO_EQUIPMENT	No Siege Equipment	false
+end_turn_notifications_title_SPARE_SPY_SLOT	Spy Position Available	false
+end_turn_notifications_title_SPARE_GOVERNOR_SLOT	Unassigned Administrator Position	false
+end_turn_notifications_display_text_SPARE_MINISTER_SLOT	Unassigned ministerial position	false
+end_turn_notifications_display_text_ECONOMICS_PROJECTED_NEGATIVE_WITH_DIPLOMATIC_EXPENDITURE	Bankrupt with outgoings pending	false
+end_turn_notifications_title_IMPERIAL_FAVOUR_LOW	Imperial Favour is Low!	false
+end_turn_notifications_title_NEGATIVE_FOOD_BALANCE	Food Deficit!	false
+end_turn_notifications_display_text_LOW_FUNDS	Low funds!	false

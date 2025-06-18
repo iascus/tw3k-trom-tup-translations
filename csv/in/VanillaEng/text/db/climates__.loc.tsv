@@ -1,0 +1,12 @@
+key	text	tooltip
+#Loc;1;text/db/climates__.loc		
+climates_description_subtropical	placeholder	false
+climates_name_temperate	Temperate	false
+climates_name_default	Default	false
+climates_name_arid	Arid	false
+climates_name_cold	Cold	false
+climates_description_cold	placeholder	false
+climates_description_arid	placeholder	false
+climates_description_default	placeholder	false
+climates_description_temperate	placeholder	false
+climates_name_subtropical	Subtropical	false

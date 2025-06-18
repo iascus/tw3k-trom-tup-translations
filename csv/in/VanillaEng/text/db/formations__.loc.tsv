@@ -1,0 +1,20 @@
+key	text	tooltip
+#Loc;1;text/db/formations__.loc		
+formations_name_ranged_first_cavalry_on_left	The Crane's Left Wing	false
+formations_description_ranged_first_cavalry_on_right	[PH] TEST	false
+formations_name_infantry_first_cavalry_on_right	The Tiger's Right Claw	false
+formations_description_infantry_first_cavalry_on_left	[PH] TEST	false
+formations_tooltip_infantry_first_cavalry_on_right	A formation with a strong forward infantry core, best used when you have enough cavalry to support the right flank.	false
+formations_name_infantry_first_cavalry_on_flanks	The Eagles' Wings	false
+formations_description_infantry_first_cavalry_on_flanks	[PH] Carpenter's Square - Infantry First || Infantry First	false
+formations_tooltip_ranged_first_cavalry_on_right	A formation with a strong, forward core of missile troops, best used when defending and you have enough cavalry to support the right flank	false
+formations_description_ranged_first_cavalry_on_left	[PH] TEST	false
+formations_tooltip_ranged_first_cavalry_on_flanks	A well-balanced formation, best used when you are defending and are fielding a large cavalry force to support both flanks.	false
+formations_tooltip_infantry_first_cavalry_on_left	A formation with a strong, forward infantry core, best used when you have enough cavalry to support the left flank.	false
+formations_name_ranged_first_cavalry_on_right	The Crane's Right Wing	false
+formations_description_infantry_first_cavalry_on_right	[PH] TEST	false
+formations_tooltip_ranged_first_cavalry_on_left	A formation with a strong, forward core of missile troops, best used when defending and you you have enough cavalry to support the left flank	false
+formations_tooltip_infantry_first_cavalry_on_flanks	A well-balanced formation, best used when you are fielding a large cavalry force to support both flanks.	false
+formations_name_ranged_first_cavalry_on_flanks	The Cautious Dragon	false
+formations_description_ranged_first_cavalry_on_flanks	[PH] Carpenter's Square - Ranged First || Ranged at the front	false
+formations_name_infantry_first_cavalry_on_left	The Tiger's Left Claw	false

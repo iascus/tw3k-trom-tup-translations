@@ -1,0 +1,7 @@
+key	text	tooltip
+#Loc;1;text/db/victory_types__.loc		
+victory_types_display_name_3k_main_victory_type_long	Long Campaign Victory	false
+victory_types_display_name_3k_main_victory_type_ultimate	Ultimate Campaign Victory	false
+victory_types_display_name_3k_main_victory_type_mp_versus	Multiplayer Campaign Victory	false
+victory_types_display_name_3k_main_victory_type_short	Campaign Victory	false
+victory_types_display_name_3k_main_victory_type_mp_coop	Multiplayer Campaign Victory	false

@@ -222,7 +222,7 @@ hv_historical_ability_metal_01,A war cry from one warrior to another.,同袍兄�
 hv_historical_ability_metal_03,Nature's Ally,天侣,自然之友,unit_abilities_onscreen_name_hv_historical_ability_metal_03,hv_TEXT_skills_skill_ability__historical.loc.tsv
 hv_historical_ability_metal_03,"The forest provides a path, and surer footing, for the respectful.",敬爱山林，林即如家，山是前路。,森林為懂得尊重的人提供了通行路徑和更穩固的立足之地。,unit_abilities_tooltip_text_hv_historical_ability_metal_03,hv_TEXT_skills_skill_ability__historical.loc.tsv
 hv_historical_ability_scholar_01,One with Heaven,天遁,與天合一,unit_abilities_onscreen_name_hv_historical_ability_scholar_01,hv_TEXT_skills_skill_ability__historical.loc.tsv
-hv_historical_ability_scholar_01,Look up and you will see the sky; look inward and you will see heaven.,上观则为天，深察则为妙,往頭上看，看到的是天空，往心裡看，看到的便是黃天。,unit_abilities_tooltip_text_hv_historical_ability_scholar_01,hv_TEXT_skills_skill_ability__historical.loc.tsv
+hv_historical_ability_scholar_01,Look up and you will see the sky; look inward and you will see heaven.,上观则为天，深察则为妙。,上觀則爲天，深察則爲妙。,unit_abilities_tooltip_text_hv_historical_ability_scholar_01,hv_TEXT_skills_skill_ability__historical.loc.tsv
 hv_historical_ability_scholar_03,Targeted Strikes,扬刃,精準打擊,unit_abilities_onscreen_name_hv_historical_ability_scholar_03,hv_TEXT_skills_skill_ability__historical.loc.tsv
 hv_historical_ability_scholar_03,"A single shot, timed and aimed to perfection, outweighs a thousand wasted volleys.",精妙一击，宁缺毋滥,一千發虛擲的矢石，比不上一記時機拿捏得恰到好處的精準射擊。,unit_abilities_tooltip_text_hv_historical_ability_scholar_03,hv_TEXT_skills_skill_ability__historical.loc.tsv
 hv_historical_ability_veteran_02,One with the Land,地遁,與地合一,unit_abilities_onscreen_name_hv_historical_ability_veteran_02,hv_TEXT_skills_skill_ability__historical.loc.tsv
@@ -506,7 +506,7 @@ hv_ability_brotherhood,Years of fighting have solidified the faith these soldier
 hv_ability_bulwark,Defence Hardened,墨守,墨守,unit_abilities_onscreen_name_hv_ability_bulwark,hv_TEXT_unit_abilities.loc.tsv
 hv_ability_bulwark,Defense is the best attack.,金石之坚，牢不可破。,金石之堅，牢不可破。,unit_abilities_tooltip_text_hv_ability_bulwark,hv_TEXT_unit_abilities.loc.tsv
 hv_ability_captain_active,A shout to inspire soldiers.,军令如山，凡不听约束者斩无赦。,軍令如山，凡不聽約束者斬無赦。,unit_abilities_tooltip_text_hv_ability_captain_active,hv_TEXT_unit_abilities.loc.tsv
-hv_ability_captain_passive,A Secret Plan,密计,一條密計,unit_abilities_onscreen_name_hv_ability_captain_passive,hv_TEXT_unit_abilities.loc.tsv
+hv_ability_captain_passive,A Secret Plan,密计,密計,unit_abilities_onscreen_name_hv_ability_captain_passive,hv_TEXT_unit_abilities.loc.tsv
 hv_ability_captain_passive,“You're not brave. Men are brave.”,有锦囊密计，我方无忧！,有錦囊密計，我方無憂！,unit_abilities_tooltip_text_hv_ability_captain_passive,hv_TEXT_unit_abilities.loc.tsv
 hv_ability_counter_strike,Counter Strike,反击,反擊,unit_abilities_onscreen_name_hv_ability_counter_strike,hv_TEXT_unit_abilities.loc.tsv
 hv_ability_counter_strike,Attack is the best defence.,进攻就是最好的防守。,進攻就是最好的防禦。,unit_abilities_tooltip_text_hv_ability_counter_strike,hv_TEXT_unit_abilities.loc.tsv
@@ -588,7 +588,7 @@ hv_ability_strength_of_blackmountain,Strength of Black Mountain,黑山之力,黑
 hv_ability_strength_of_blackmountain,The Black Mountain bandits make their advance.,黑山匪徒开始进军。,黑山匪徒開始進軍。,unit_abilities_tooltip_text_hv_ability_strength_of_blackmountain,hv_TEXT_unit_abilities.loc.tsv
 hv_ability_stubborn,Stubborn,冥顽不灵,頑固執拗,unit_abilities_onscreen_name_hv_ability_stubborn,hv_TEXT_unit_abilities.loc.tsv
 hv_ability_stubborn,Make the impossible possible!,军纪严明，死战不退。,軍紀嚴明，死戰不退。,unit_abilities_tooltip_text_hv_ability_stubborn,hv_TEXT_unit_abilities.loc.tsv
-hv_ability_tactical_move,Tactical Advance,战术前进,戰術前進,unit_abilities_onscreen_name_hv_ability_tactical_move,hv_TEXT_unit_abilities.loc.tsv
+hv_ability_tactical_move,Tactical Advance,健步,健步,unit_abilities_onscreen_name_hv_ability_tactical_move,hv_TEXT_unit_abilities.loc.tsv
 hv_ability_tactical_move,Speed is the essence of war.,兵贵神速。,兵貴神速。,unit_abilities_tooltip_text_hv_ability_tactical_move,hv_TEXT_unit_abilities.loc.tsv
 hv_ability_tactical_stance_defensive,Defensive Stance,防御姿态,防禦姿態,unit_abilities_onscreen_name_hv_ability_tactical_stance_defensive,hv_TEXT_unit_abilities.loc.tsv
 hv_ability_tactical_stance_defensive,The unit inspires nearby soldiers to fight more cautiously.,此部队激励附近士卒更谨慎地战斗。,此單位激勵附近士卒更謹慎地戰鬥。,unit_abilities_tooltip_text_hv_ability_tactical_stance_defensive,hv_TEXT_unit_abilities.loc.tsv

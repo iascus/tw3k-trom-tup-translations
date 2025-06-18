@@ -1,0 +1,24 @@
+key	text	tooltip
+#Loc;1;text/db/campaign_politics_strings__.loc		
+campaign_politics_strings_string_fail_money	You do not have enough money.	false
+campaign_politics_strings_string_assassinate_result_target_killed	The target character was killed.	false
+campaign_politics_strings_string_adopt_fail_party_leader	Heads of parties cannot be adopted.	false
+campaign_politics_strings_string_get_into_position_rank_requirement	This character must be rank %n or higher.	false
+campaign_politics_strings_string_bribe_desc	Bribe this character to bring him over to your party. The target character will lose gravitas if he accepts.	false
+campaign_politics_strings_string_assassinate_fail_faction_leader	You cannot assassinate your faction leader.	false
+campaign_politics_strings_string_assassinate_result_target_wounded	The target character was wounded.	false
+campaign_politics_strings_string_get_into_position_age_and_rank_requirement	This character must be at least %n years old and rank %n or higher.	false
+campaign_politics_strings_string_get_into_position_desc	Use your influence to promote this character to a higher office.	false
+campaign_politics_strings_string_assassinate_wife_desc	Attempt to have the wife of this character assassinated.	false
+campaign_politics_strings_string_power_cost	Influence: %d	false
+campaign_politics_strings_string_blackmail_gravitas_loss	%n Gravitas	false
+campaign_politics_strings_string_adoption_accepted_desc	Character adopted	false
+campaign_politics_strings_string_money_cost	Cost: %d	false
+campaign_politics_strings_string_fail_power	You do not have enough influence.	false
+campaign_politics_strings_string_divorce_desc	Force this character to divorce his wife.	false
+campaign_politics_strings_string_assassinate_desc	Attempt to have this character assassinated.	false
+campaign_politics_strings_string_marry_desc	Arrange a marriage between this man and one of your distant relatives. This event will win influence for the weaker party.	false
+campaign_politics_strings_string_spread_rumours_desc	Spread rumours about this character to decrease his gravitas.	false
+campaign_politics_strings_string_bribe_fail_party_leader	Heads of parties cannot be bribed.	false
+campaign_politics_strings_string_adopt_desc	Adopt this character into your party.	false
+campaign_politics_strings_string_get_into_position_age_requirement	This character must be at least %n years old.	false

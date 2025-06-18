@@ -1,0 +1,1495 @@
+key	text	tooltip
+#Loc;1;text/db/random_localisation_strings__.loc		
+random_localisation_strings_string_ep_dyn_frontend_map_help_text_description	This lets you choose between one of three heroic battlefields. Choose your favourite location and make a stand!	false
+random_localisation_strings_string_MILITARY_FORCE_FOOD_FACTOR_UNITS	Units	false
+random_localisation_strings_string_network_error_incompatible_map_version	Incorrect version of map	false
+random_localisation_strings_string_recharge_context_blocked	\\n\\n[[col:red]]Recharge blocked[[/col]]	false
+random_localisation_strings_string_3k_dlc06_ceo_character_nanman_skills_water_cunning_shaman_rites_objective	{{tr:dlc06_nanman_skills_unlock_condition}} {{tr:dlc06_nanman_skills_shaman_rites_objective}}	false
+random_localisation_strings_string_highlight_text_unit_upgrade_selection	New to Total War: WARHAMMER, some characters have a selection of mounts and upgrades available to them. Selecting these icons will assign the chosen mount and upgrades for the battle ahead.	false
+random_localisation_strings_string_FACTION_PROVINCE_FOOD_FACTOR_TECHNOLOGIES	Technology	false
+random_localisation_strings_string_art_active	Left-click to research this technology. 	false
+random_localisation_strings_string_MILITARY_FORCE_FOOD_FACTOR_STANCE	Stance	false
+random_localisation_strings_string_diplomacy_language_changed	Diplomacy language changed	false
+random_localisation_strings_string_zdummy_undercover_character_target_faction_request_administrator_position_additional_action_cancel	Seems that there is some furore around this event. Let the dust settle for a moment.	false
+random_localisation_strings_string_DX12	DX12 (BETA)	false
+random_localisation_strings_string_fatigue_very_tired	Very tired	false
+random_localisation_strings_string_3k_main_tutorial_mode_fe_timeline_description	From here you can filter characters and choose at which date you would like to start your campaign. \\n\\n  {{tr:tw_3k_mandate}} \\n {{tr:tw_3k_main}}  \\n {{tr:tw_3k_a_world_betrayed}}  \\n {{tr:tw_3k_fate_of_the_emperor}} \\n {{tr:tw_3k_eight_princes}}	false
+random_localisation_strings_string_food_production	Production	false
+random_localisation_strings_string_resource_value	Resource value: {{tr:icon_money}}	false
+random_localisation_strings_string_tooltip_raise_lord_convalescence_cause_conversion	PLACEHOLDER	false
+random_localisation_strings_string_3k_dlc05_tutorial_mode_spy_extraction_title	When one of your [[b]]spies[[/b]] is serving as a [[b]]general[[/b]]  in an [[b]]enemy army[[/b]]  and one of your armies engages them in the field, you may choose to [[b]]extract[[/b]]  the spy [[b]]before the battle[[/b]], thereby diminishing your opponent’s strength.Extracting your spy before a battle [[b]]costs money[[/b]] and requires that the spy possess a certain amount of [[b]]cover[[/b]] – and [[b]]undercover network[[/b]] – in the enemy faction.Simple [[b]]extraction[[/b]] will have your spy [[b]]disband[[/b]] their [[b]]retinue[[/b]] and [[b]]return to your faction[[/b]], diminishing the enemy’s strength.With [[b]]greater cover and undercover network[[/b]] at the spy’s disposal, you may order the spy to [[b]]extract and reinforce[[/b]], which orchestrates the [[b]]defection of their entire retinue[[/b]] to your cause, ready to [[b]]join you[[/b]] in the [[b]]upcoming battle[[/b]] and greatly disadvantaging the enemy!You may find that you would rather [[b]]wait[[/b]] for a more opportune moment and order your spy to [[b]]remain undercover[[/b]], or if you have misjudged the resources at your disposal you may not be able to afford to extract them; plan accordingly!	false
+random_localisation_strings_string_ep_tutorial_mode_storybook_current_alignment_title	ph	false
+random_localisation_strings_string_finances_tribute_expenditure_breakdown_faction	%S (turns remaining %d)	false
+random_localisation_strings_string_ability_phase_mask_major_casualties	[[col:red]]Major Casualties[[/col]]	false
+random_localisation_strings_string_description	Description	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_infopanel_title	Information Panel	false
+random_localisation_strings_string_ability_phase_mask_freeze_fatigue	[[col:green]]Stops fatigue gain[[/col]]	false
+random_localisation_strings_string_pre_battle_siege_equipment_totals_tooltip	Constructing siege items: %d\\nConstructed siege items: %d	false
+random_localisation_strings_string_trade_agreement_tooltip_sea_routes	A sea trade route will link your two capitals.	false
+random_localisation_strings_string_3k_main_tutorial_mode_battle_duelbtn_description	This button allows you to initiate [[b]]duels[[/b]] with characters in an enemy alliance. Winning duels will have a significant impact on the morale of forces and can be a deciding factor in battle.\\n\\nPressing this button will show you a list of enemies you can [[b]]challenge[[/b]]. For a duel to occur, a challenge must be [[b]]accepted[[/b]], and in some cases, the enemy might [[b]]reject[[/b]] the challenge.\\n\\nFor each character you can challenge, the possible [[b]]outcome[[/b]] of the duel will be highlighted. Some duels are about life or death and will only conclude when one of the combatants falls, while others are merely concerned with demonstrating one's battle prowess, or about the honourable contest between duellists.\\n\\nBy default, other soldiers will respect a duel and will [[b]]not interfere[[/b]]. You can order units to attack the enemy duellist, but this will be seen as a [[b]]dishonourable[[/b]] act and will have a negative morale effect on your forces. However, it can be the only way to save your hero's life.\\n\\nYou can also [[b]]run away[[/b]] from an ongoing duel – an equally dishonourable act.\\n\\nBuffing your hero with other characters while a duel is ongoing is [[b]]not dishonourable[[/b]], however, and can be a strong strategy for improving your duellist.	false
+random_localisation_strings_string_rebel_faction_name_override	Rebels	false
+random_localisation_strings_string_your_ally	Your ally: 	false
+random_localisation_strings_string_network_error_dropped	You have lost connection to the game. 	false
+random_localisation_strings_string_effect_bundle_time	Seasons Remaining	false
+random_localisation_strings_string_quit_game_main	You are about to quit the game. Are you sure?	false
+random_localisation_strings_string_trade_route_tooltip_raid_value	Trade route raid value:	false
+random_localisation_strings_string_year_format	%d CE	false
+random_localisation_strings_string_tooltip_replenishment_cap	Every unit has limited hit point regeneration in battle	false
+random_localisation_strings_string_unit_stat_bonus_melee_superior	Superior melee	false
+random_localisation_strings_string_land_combatant_winning	Unit winning	false
+random_localisation_strings_string_mp_ready_error_spectator	[[col:red]]Waiting on players to start battle.[[/col]]	false
+random_localisation_strings_string_unit_concerned_general_fled_recently	General fled recently	false
+random_localisation_strings_string_character_details_rank_2	Current rank: 2 (maximum 6)||A character's rank shows their overall level of skill, with each star representing one rank level.||New rank levels are achieved by gaining experience. With each new level you will be able to pick additional skills.	false
+random_localisation_strings_string_round_id_early_may	Early May	false
+random_localisation_strings_string_FACTION_PROVINCE_FOOD_FACTOR_CHARACTERS	Characters	false
+random_localisation_strings_string_FACTION_FOOD_FACTOR_CHARACTERS	Characters	false
+random_localisation_strings_string_June	text_rejected	false
+random_localisation_strings_string_duration	Duration	false
+random_localisation_strings_string_prebattle_popup_defection_02	Some of your armies have defected and will now oppose you on the battlefield!	false
+random_localisation_strings_string_power_category_1	Terrifying	false
+random_localisation_strings_string_land_combatant_losing_slightly	Unit losing slightly	false
+random_localisation_strings_string_late	Late	false
+random_localisation_strings_string_REGION_FOOD_FACTOR_RAIDING	Raiding	false
+random_localisation_strings_string_fatigue_winded_undead	[[col:fatigue_winded]]Fading[[/col]]	false
+random_localisation_strings_string_self	Self	false
+random_localisation_strings_string_network_message_you_dropped	You have lost connection to the game. 	false
+random_localisation_strings_string_finance_tooltip_taxes	Income from buildings.	false
+random_localisation_strings_string_opponent_refuses_surrender_title	Surrender Refused	false
+random_localisation_strings_string_unit_upgrade_incorrect_stance	You cannot upgrade this unit as your army is not in the correct stance.	false
+random_localisation_strings_string_campaign_difficulty0	Easy	false
+random_localisation_strings_string_military_force_legacy_name_rebel_army	Rebel Army	false
+random_localisation_strings_string_ability_requires_friendly_target	Target own units or any allies	false
+random_localisation_strings_string_campaign_difficulty1	Normal	false
+random_localisation_strings_string_multiplayer_waiting_reconnect	Waiting for players...	false
+random_localisation_strings_string_fe_recruitment_card_tooltip_command_clash_land	You cannot recruit this unit until you have a general in your army	false
+random_localisation_strings_string_skill_locked_single_parent	\\n\\n[[col:red]]Available after unlocking "%S".[[/col]]	false
+random_localisation_strings_string_3k_main_tutorial_mode_battle_destruction_description	This value shows the relative [[b]]destruction level[[/b]] of this settlement.\\n\\n[[img:help_mode_battle_destruction_level]][[/img]] [[b]]Destruction level[[/b]] increases when buildings are [[b]]set on fire[[/b]] and areas of the settlement are being [[b]]destroyed[[/b]].\\n\\nHigh levels of destruction will cause a [[b]]morale penalty[[/b]] for the defender.	false
+random_localisation_strings_string_trade_status_tooltip_value_potential	\\nPotential value:	false
+random_localisation_strings_string_player_stats_ranked_land_battles_lost	Ranked land battles lost	false
+random_localisation_strings_string_expert	Very Hard	false
+random_localisation_strings_string_building_under_construction_damaged_demolish	Click here to cancel repair of unfinished buildings.	false
+random_localisation_strings_string_mp_ready_error_no_land_defender_for_coastal_battle	[[col:red]]The defender in a coastal battle must have at least one land unit.[[/col]]	false
+random_localisation_strings_string_morale_amok	[[col:red]]Running Amok[[/col]]	false
+random_localisation_strings_string_food_consumption	Consumption	false
+random_localisation_strings_string_unit_concerned_recent_casualties	Recent casualties	false
+random_localisation_strings_string_tile_upgrade_none	None	false
+random_localisation_strings_string_REGION_FOOD_FACTOR_TECHNOLOGIES	Technology	false
+random_localisation_strings_string_campaign_type_world_domination	Domination Campaign	false
+random_localisation_strings_string_unit_hero_duel_won	Duel Won	false
+random_localisation_strings_string_finance_header_scripted	Scripted	false
+random_localisation_strings_string_finance_header_other	Background income	false
+random_localisation_strings_string_campaign_difficulty3	Very Hard	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_weather_description	From here you can change the atmospheric conditions of a battle: the season, time of day and weather.	false
+random_localisation_strings_string_round_id_late_april	Late April	false
+random_localisation_strings_string_unhappy	Unhappy	false
+random_localisation_strings_string_finances_commerce_raiding_income	From trade route raiding	false
+random_localisation_strings_string_attacking	ATTACKING	false
+random_localisation_strings_string_3k_main_tutorial_mode_battle_army_title	Retinues & Units	false
+random_localisation_strings_string_event_log_battle_victory_major_decisive	Decisive Victory	false
+random_localisation_strings_string_military_force_legacy_name_prefix_navy	Classis	false
+random_localisation_strings_string_unit_stat_bonus_accuracy_improved	Improved accuracy	false
+random_localisation_strings_string_seconds_abbreviated	s	false
+random_localisation_strings_string_trade_agreement_tooltip_export_route_count	Sea export routes remaining - You: %d/%d  Them: %d/%d ||This is based on trade ports in the capital's commandery.	false
+random_localisation_strings_string_ruined	Ruined	false
+random_localisation_strings_string_missile_damage_time_explanation	\\n\\nDamage value shown is damage over %u seconds	false
+random_localisation_strings_string_esc_menu_legendary_cannot_save	You cannot save games when playing in legendary difficulty, instead the game will automatically save during the end turn process.	false
+random_localisation_strings_string_unlimited	Unlimited	false
+random_localisation_strings_string_phase	Phase	false
+random_localisation_strings_string_technology_bonuses_tooltip	Research rate:	false
+random_localisation_strings_string_invalid_army_setup_local	Your army setup is invalid.	false
+random_localisation_strings_string_trade_status_tooltip_cannot_trade_not_allowed	[[col:red]]Cannot trade\\nThis faction does not trade.[[/col]]	false
+random_localisation_strings_string_fatigue_active_undead	Active	false
+random_localisation_strings_string_zdummy_undercover_character_target_faction_request_general_position_additional_action_title	Force of Arms	false
+random_localisation_strings_string_military_force_legacy_name_prefix_army	Legio	false
+random_localisation_strings_string_CARD_STAT_BEST_1V1_SKILL_NAVAL	Best all-time skill rating 1v1 naval	false
+random_localisation_strings_string_prebattle_banners_wh_main_dwf_dwarfs	Runes & Banners	false
+random_localisation_strings_string_chat_help_text	HELP\\nCommand format: /command argument1 argument2 \\nYou can cycle through suggestions with the UP/DOWN keys, and press TAB to select a suggestion (for chat commands and player names).\\n\\nAvailable commands:\\n	false
+random_localisation_strings_string_morale_shaken	Shaken	false
+random_localisation_strings_string_3k_main_tutorial_mode_fe_character_groups_description	From here you can choose which set of characters you would like to see.	false
+random_localisation_strings_string_finance_header_recruitment	Recruitment	false
+random_localisation_strings_string_Empty_building_warning	\\n\\nIf you leave this site undeveloped for too long, slums will appear.	false
+random_localisation_strings_string_at_peace	At Peace	false
+random_localisation_strings_string_unit_encouraged_inspired_by_unit_ability	Inspired by ability	false
+random_localisation_strings_string_heir	Heir	false
+random_localisation_strings_string_trade_agreement_tooltip_existing_route_shifted	One of your current sea trade routes is eligible for diversion over land.||Another sea route from your capital may be established.	false
+random_localisation_strings_string_slaves_percent	Immigrant percent	false
+random_localisation_strings_string_famous_battle_defeated_by	Defeated by:	false
+random_localisation_strings_string_fatigue_tired	Tired	false
+random_localisation_strings_string_load_game_build_number_unknown	Unknown build number	false
+random_localisation_strings_string_romance	Romance	false
+random_localisation_strings_string_ep_tutorial_mode_storybook_tabs_description	ph	false
+random_localisation_strings_string_difficulty_modifier	Difficulty modifier	false
+random_localisation_strings_string_REGION_FOOD_FACTOR_BUILDINGS	Buildings	false
+random_localisation_strings_string_mp_coop_partner_defeated	Your co-op partner has been defeated; the game will end now.	false
+random_localisation_strings_string_ping_attack	Attack here!	false
+random_localisation_strings_string_zdummy_undercover_character_target_faction_request_general_position_additional_action_confirm	Let's Dance!	false
+random_localisation_strings_string_player_stats_campaign_land_battles_won	Campaign land battles won	false
+random_localisation_strings_string_limited	Limited	false
+random_localisation_strings_string_resource	Resource	false
+random_localisation_strings_string_marked_for_dismantling	Marked for demolition	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_teamone_title	Player Panel	false
+random_localisation_strings_string_round_id_late_august	Late August	false
+random_localisation_strings_string_recharge_context_improved	\\n\\n[[col:green]]Recharge improved[[/col]]	false
+random_localisation_strings_string_xp	XP: 	false
+random_localisation_strings_string_save_fail	Save Failed	false
+random_localisation_strings_string_finances_background_income	Base income	false
+random_localisation_strings_string_region_specialty_holy_site	text_rejected	false
+random_localisation_strings_string_3k_dlc05_tutorial_mode_sun_ce_legacy_of_wu_sets_description	This panel contains the list of Legacy Of Wu Ambitions sets. By clicking on any of them, you can read more about the individual ambitiont. Sets that have been completed will apear with an golden icon.\\n\\nAt the top of the panel is a search-bar and filter for "Completed", "In Process" or "Failed" sets.	false
+random_localisation_strings_string_gfx_aa_2x2	2x	false
+random_localisation_strings_string_REGION_FOOD_FACTOR_FERTILITY	Fertility	false
+random_localisation_strings_string_trade_status_tooltip_cannot	[[col:red]]Cannot trade[[/col]]	false
+random_localisation_strings_string_round_id_early_january	Early January	false
+random_localisation_strings_string_unit_replacement_string	replace	false
+random_localisation_strings_string_3k_dlc05_tutorial_mode_sun_ce_legacy_of_wu_items_title	Legacy Of Wu – Ambition Description	false
+random_localisation_strings_string_chat_telestration_msg	Telestration message sent	false
+random_localisation_strings_string_stance_food_stolen	Food stolen from region: %n	false
+random_localisation_strings_string_character_experience_progress_bar	Experience gained at this level:	false
+random_localisation_strings_string_road	Road	false
+random_localisation_strings_string_player_stats_total_men_dead	Troops killed in battle (friend or foe)	false
+random_localisation_strings_string_military_force_legacy_name_garrison_navy	Garrison Fleet	false
+random_localisation_strings_string_multiplayer_time_up_title	Time's up!	false
+random_localisation_strings_string_importing	Importing	false
+random_localisation_strings_string_attacker_direction_east	East	false
+random_localisation_strings_string_round_id_september	September	false
+random_localisation_strings_string_cast_range_tooltip	Maximum distance the spell can be cast.	false
+random_localisation_strings_string_at_war	At War	false
+random_localisation_strings_string_3k_dlc05_tutorial_mode_lu_bu_greatest_warriors_sets_decription	This panel contains the list of Greatest Warrior target sets. By clicking on any of them, you can read more of the individual target. Sets that have been completed will apear with an golden icon.\\n\\n At the top of the panel is a search-bar and filter for "Completed", "In Process" or "Failed" sets.	false
+random_localisation_strings_string_FACTION_FOOD_FACTOR_BASE_FOOD	Base Food	false
+random_localisation_strings_string_network_error_desync	There was a desync in the game, exiting...	false
+random_localisation_strings_string_unit_concerned_army_destruction	Army losses	false
+random_localisation_strings_string_prebattle_popup_defection_01	Defection!	false
+random_localisation_strings_string_unit_upgrade_tooltip_too_many_abilities	[[col:red]]You have reached the maximum number of abilities (6) for this unit.[[/col]]	false
+random_localisation_strings_string_player_stats_best_3v3_skill	Best all time skill rating 3v3 land	false
+random_localisation_strings_string_cost	Cost: {{tr:icon_money}}	false
+random_localisation_strings_string_stat_base_value	Base Value	false
+random_localisation_strings_string_3k_dlc05_tutorial_mode_sun_ce_legacy_of_wu_hud_description	View the ambitions that Sun Ce needs to achieve in order to forge the Legacy Of Wu and avoid his death.	false
+random_localisation_strings_string_player_stats_ranked_naval_battles_lost	Ranked naval battles lost	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_mapsettings_title	Map Settings	false
+random_localisation_strings_string_high	High	false
+random_localisation_strings_string_3k_dlc05_tutorial_mode_lu_bu_greatest_warriors_items_decription	On this panel you can read who you need to defeat in battle. Each target has an individual reward and a special reward for defating all the characters.\\n\\nBy double-clicking on the target or clicking on the magnifying glass, you will be taken to the target location.	false
+random_localisation_strings_string_finance_tooltip_building_upkeep	Expenses on maintaining buildings.	false
+random_localisation_strings_string_agent_recruitment_click_to_recruit	{{tr:agent_recruitment_click_to_recruit}}	false
+random_localisation_strings_string_missing_content_for_load	Unable to load. This save game was created from a DLC that is not currently installed:	false
+random_localisation_strings_string_player_stats_best_4v4_skill	Best all time skill rating 4v4 land	false
+random_localisation_strings_string_ep_dyn_frontend_wood_help_text_description	 {{tr:ep_dyn_WOOD}} heroes are resilient melee combatants that are exceptional at withstanding enemy attacks, and many of their upgrades allow them to defend or heal their allies. 	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_mapdetails_description	From here, you can alter the co-ordinates to more accurately select a map and see an aerial view of the map you have selected. You can also mark a map as a favourite and display all other favourite maps you have created.	false
+random_localisation_strings_string_shots_per_volley	Shots per Volley	false
+random_localisation_strings_string_fe_unit_card_tooltip_land	Left-click to select. \\nDouble left-click to remove.\\nRight-click for information.||Cards can be dragged to a new location to re-order them within the army.	false
+random_localisation_strings_string_gfx_aa_taa	TAA	false
+random_localisation_strings_string_modifier_icon_tooltip_magical	Magical Attacks||This unit inflicts magical attacks which can harm units that are protected from regular physical attacks.	false
+random_localisation_strings_string_finance_header_vassals	Vassals	false
+random_localisation_strings_string_network_message_no_clients_left	Client left the game	false
+random_localisation_strings_string_finance_header_dismantled_buildings	Dismantled buildings	false
+random_localisation_strings_string_stat_can_target_buildings	Can damage buildings	false
+random_localisation_strings_string_prestige_category_4	Moderate	false
+random_localisation_strings_string_unit_encouraged_fortification	Inside fort	false
+random_localisation_strings_string_increasing	Improving	false
+random_localisation_strings_string_reveal	Reveal	false
+random_localisation_strings_string_weakness_fire_tooltip	[[col:red]]%d%%[[/col]] FIRE RESISTANCE\\n\\nDamage taken by flaming attacks is altered by this amount.	false
+random_localisation_strings_string_diplomacy_panel_hostage_held	Your hostage held:	false
+random_localisation_strings_string_trade_post	Trade post	false
+random_localisation_strings_string_applied_on_restart	This will be applied when you next restart Total War: Three Kingdoms.	false
+random_localisation_strings_string_ability_tooltip_disabled_when	Disabled if	false
+random_localisation_strings_string_finance_header_civic	Civic	false
+random_localisation_strings_string_diplomacy_button_no_trade_agreement_to_cancel	There is no trade agreement to cancel.	false
+random_localisation_strings_string_relative_mana_tooltip	The balance of total available Magic for each alliance.	false
+random_localisation_strings_string_prestige_category_5	Weak	false
+random_localisation_strings_string_3k_main_tutorial_mode_battle_infotoggle_description	This toggles the unit [[b]]info panel[[/b]]. Inspect this panel to review a unit's [[b]]statistics[[/b]] or [[b]]compare[[/b]] two units. Use the [[b]]tooltips[[/b]] on the info panel itself to understand each individual statistic.\\n\\nTo compare two units, [[b]]pin[[/b]] an info panel by selecting a unit, then mousing over a different one.	false
+random_localisation_strings_string_trade_agreement_tooltip_no_route_them	[[col:red]]A route from their commanderies cannot be established.[[/col]]	false
+random_localisation_strings_string_network_error_incompatible_exe	Incompatible executable version	false
+random_localisation_strings_string_mp_ready_error_battle_type_desync	[[col:red]]The battle type selected doesn't match the map selected.[[/col]]	false
+random_localisation_strings_string_ability_fire_at_will	TOGGLE FIRE-AT-WILL\\n\\nFire-at-will allows units to fire at enemies within range whenever they see fit.	false
+random_localisation_strings_string_unit_concerned_surprised	Surprised by hidden enemy	false
+random_localisation_strings_string_stat_base_reload_time	Base reload time	false
+random_localisation_strings_string_zdummy_undercover_character_target_faction_request_administrator_position_description	Petition the faction leader to be granted an administrator position.	false
+random_localisation_strings_string_battle_invalid_ship_docking_point	Another ship is already heading to this destination. You must find an alternate landing point.	false
+random_localisation_strings_string_unknown	Unknown	false
+random_localisation_strings_string_3k_dlc06_ceo_character_nanman_skills_fire_instinct_prudence_objective	{{tr:dlc06_nanman_skills_unlock_condition}} {{tr:dlc06_nanman_skills_prudence_objective}}	false
+random_localisation_strings_string_round_id_early_december	Early December	false
+random_localisation_strings_string_StratHudbutton_Cannot_Enlist_General1	You have the maximum number of generals already.	false
+random_localisation_strings_string_region_specialty_stone	text_rejected	false
+random_localisation_strings_string_fatigue_very_tired_undead	[[col:red]]Drained[[/col]]	false
+random_localisation_strings_string_ep_dyn_character_details_available_heal_help_text_description	This section lists the instant healing abilities available to this hero. These healing abilities allow you to quickly refresh the HP of any hero who has suffered heavy damage.	false
+random_localisation_strings_string_military_force_legacy_name_pirate_navy	Pirate Fleet	false
+random_localisation_strings_string_opponent_accepts_surrender_title	Surrender Accepted	false
+random_localisation_strings_string_player_stats_mp_consecutive_naval	Number of consecutive naval battles won	false
+random_localisation_strings_string_FACTION_FOOD_FACTOR_RECENT_BATTLES	Recent Battles	false
+random_localisation_strings_string_happy	Happy	false
+random_localisation_strings_string_midday	Midday	false
+random_localisation_strings_string_dlc_purchase_body	Thank you. Please restart Total War: Three Kingdoms to download and play this DLC pack.	false
+random_localisation_strings_string_tile_upgrade_settlement_level1	Level 01	false
+random_localisation_strings_string_win_chance_high	High	false
+random_localisation_strings_string_character_details_rank_4	Current rank: 4 (maximum 6)||A character's rank shows their overall level of skill, with each star representing one rank level.||New rank levels are achieved by gaining experience. With each new level you will be able to pick additional skills.	false
+random_localisation_strings_string_player_stats_decisive_victories	Number of decisive victories	false
+random_localisation_strings_string_season_summer	Summer	false
+random_localisation_strings_string_gfx_high	High	false
+random_localisation_strings_string_battle_regroup_position_marker	Regroup position	false
+random_localisation_strings_string_3k_main_tutorial_mode_battle_duels_description	This is the status panel for an [[b]]ongoing duel[[/b]], which allows you to keep track of its [[b]]progress[[/b]] and [[b]]strength comparison[[/b]]. If your hero is falling behind, it might be best to [[b]]intervene[[/b]] or [[b]]withdraw[[/b]] from the duel.\\n\\n(Romance mode only) Also consider [[b]]buffing[[/b]] your duellist by using the [[b]]special abilities[[/b]] of other heroes in your army.	false
+random_localisation_strings_string_unit_concerned_extended_casualties	Casualties sustained 	false
+random_localisation_strings_string_zdummy_undercover_character_target_faction_request_minister_position_additional_action_confirm	Trust the minister to remain onside.	false
+random_localisation_strings_string_FACTION_PROVINCE_FOOD_FACTOR_EVENTS_IN_REGIONS	Region Events	false
+random_localisation_strings_string_auto_save_filename	Auto-save	false
+random_localisation_strings_string_character_role_admiral	[[img:icon_admiral]][[/img]]Admiral	false
+random_localisation_strings_string_player_stats_best_streak	Best streak	false
+random_localisation_strings_string_settlement_colon	Settlement:	false
+random_localisation_strings_string_unit_encouraged_in_column_formation	In column formation	false
+random_localisation_strings_string_round_id_july	July	false
+random_localisation_strings_string_region_specialty_prime_forest	text_rejected	false
+random_localisation_strings_string_ep_tutorial_mode_storybook_next_milestone_description	ph	false
+random_localisation_strings_string_military_force_legacy_name_garrison_army	Garrison Army	false
+random_localisation_strings_string_player_stat_men_killed	Total troops killed or captured	false
+random_localisation_strings_string_ping_notification	Attention!	false
+random_localisation_strings_string_REGION_FOOD_FACTOR_RECENT_BATTLE	Recent Battles	false
+random_localisation_strings_string_network_error_join_failed_no_stats	Failed to join game: Player statistics unavailable	false
+random_localisation_strings_string_allied	Allied	false
+random_localisation_strings_string_gfx_aa_16x16	16x	false
+random_localisation_strings_string_region_specialty_philosophical_tradition	text_rejected	false
+random_localisation_strings_string_unit_concerned_recent_casualties_damage	Recent damage	false
+random_localisation_strings_string_ability_defend	Toggle Guard Mode||This will put your troops on the defensive. Guard mode makes your unit hold position. Even if an enemy unit routs, it will remain in position and hold the line.	false
+random_localisation_strings_string_ability_left_click_cast	Left-click to activate	false
+random_localisation_strings_string_error_chat_command_failed	Invalid chat command	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_mapsettings_description	This menu allows you to choose and customise your map; you can select map presets, the settlement level and density, how many buildings there are and the level of escalation damage when under siege.	false
+random_localisation_strings_string_cpu	CPU	false
+random_localisation_strings_string_skill_locked_single_parent_multiple_points	\\n\\n[[col:red]]Available after spending %d skill points on the previous skill.[[/col]]	false
+random_localisation_strings_string_unit_concerned_projectiles_overhead	Projectiles overhead	false
+random_localisation_strings_string_quit_battle_cant_withdraw_warning	[[col:dark_r]]As you cannot withdraw from this battle, conceding defeat will lose the entirety of this force![[/col]]	false
+random_localisation_strings_string_fatigue_winded	Winded	false
+random_localisation_strings_string_3k_main_tutorial_mode_info_title	Info Overlay	false
+random_localisation_strings_string_zdummy_undercover_character_target_faction_request_general_position_description	Petition the faction leader to be granted the position of general.	false
+random_localisation_strings_string_finance_header_total_income	Total Income	false
+random_localisation_strings_string_default_victory_condition	{{tr:victory_condition}}	false
+random_localisation_strings_string_cannot_reinforce_at_night	[[col:red]]This force cannot reinforce during a night battle.[[/col]]	false
+random_localisation_strings_string_3k_main_tutorial_mode_battle_speedcontrols_title	Speed Controls	false
+random_localisation_strings_string_tooltip_raise_lord_convalescence_cause_retirement	[[col:red]]This general was recently replaced. They will be available for recruitment in %d turns.[[/col]]	false
+random_localisation_strings_string_enemy	Enemy	false
+random_localisation_strings_string_Unit_not_replenishing_09	[[col:red]]- This horde is not in [[img:icon_encamp_stance]][[/img]]Encamp stance.[[/col]]	false
+random_localisation_strings_string_3k_dlc06_ceo_character_nanman_skills_metal_expertise_cave_defender_objective	{{tr:dlc06_nanman_skills_unlock_condition}} {{tr:dlc06_nanman_skills_cave_defender_objective}}	false
+random_localisation_strings_string_ability_details	Ability details	false
+random_localisation_strings_string_controls_empty	<Empty>	false
+random_localisation_strings_string_unit_concerned_fatigue_tired	Tired	false
+random_localisation_strings_string_invalid_army_setup_alliance	A player has an invalid army setup	false
+random_localisation_strings_string_imperium	Imperium	false
+random_localisation_strings_string_player_stats_campaign_battles_fought_personally	Campaign battles fought personally	false
+random_localisation_strings_string_character_details_rank_5	Current rank: 5 (maximum 6)||A character's rank shows their overall level of skill, with each star representing one rank level.||New rank levels are achieved by gaining experience. With each new level you will be able to pick additional skills.	false
+random_localisation_strings_string_difficulty_level_3	Hard	false
+random_localisation_strings_string_fatigue_tired_undead	[[col:fatigue_tired]]Diminished[[/col]]	false
+random_localisation_strings_string_low	Low	false
+random_localisation_strings_string_ping_none	No ping	false
+random_localisation_strings_string_ally_attacked_ally_attacking	Your ally declares war!	false
+random_localisation_strings_string_records	Records	false
+random_localisation_strings_string_gfx_med	Medium	false
+random_localisation_strings_string_Unit_not_replenishing_01	[[col:red]]This unit is not replenishing because:[[/col]]	false
+random_localisation_strings_string_Unit_not_replenishing_04	[[col:red]]- It is under siege.[[/col]]	false
+random_localisation_strings_string_finance_header_total_upkeep	Total Upkeep	false
+random_localisation_strings_string_trade_route_state_enemy	(Enemy)	false
+random_localisation_strings_string_3k_dlc05_tutorial_mode_lu_bu_greatest_warriors_hud_description	View the targets that Lü Bu needs to defeat in order to become the greatest warrior in China.	false
+random_localisation_strings_string_fe_recruitment_card_tooltip_cap_reached_land	You are unable to add anymore units of this type as you have reached the limit of %d per army.	false
+random_localisation_strings_string_trade_status_tooltip_value	\\nCurrent value:	false
+random_localisation_strings_string_mp_ready_error_invalid_army_index	[[col:red]]The selected army is already taken. Please select another before declaring readiness.[[/col]]	false
+random_localisation_strings_string_fire_damage	[[img:ui/skins/default/modifier_icon_flaming.png]][[/img]]Fire Damage	false
+random_localisation_strings_string_friends	Friends	false
+random_localisation_strings_string_zdummy_undercover_character_target_faction_request_general_position_additional_action_description	Your spy has been called out by another officer, who suspects their deceit. At a feast, they have challenged your agent to a sword dance, knowing that they themselves are very accomplished. With some strong acting, your spy may be able to convince the onlookers, but failure could lead to exposure.	false
+random_localisation_strings_string_game	Game	false
+random_localisation_strings_string_network_message_confirm_quit	Confirm quit?	false
+random_localisation_strings_string_influence	Influence:	false
+random_localisation_strings_string_FACTION_PROVINCE_FOOD_FACTOR_ARMIES	Armies	false
+random_localisation_strings_string_network_message_player_dropped_end	has been dropped from the game; the game will now end.	false
+random_localisation_strings_string_load_campaign	Load Campaign Game	false
+random_localisation_strings_string_3k_main_tutorial_mode_fe_map_description	From here you can choose which character you would like to play as. Use {{tr:left_click_icon}} to select a character. It also shows the selected character's current status in the campaign.	false
+random_localisation_strings_string_character_type_title_general	General	false
+random_localisation_strings_string_unit_concerned_frightened_horses	Frightened horses	false
+random_localisation_strings_string_ability_phase_mask_minor_casualties	[[col:red]]Minor Casualties[[/col]]	false
+random_localisation_strings_string_nearby_enemies	Affects enemies in range	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_topbar_description	From here, you can swap between customising your army and the battle map. You can also return to the Main Menu.	false
+random_localisation_strings_string_finance_header_total_expenses	Total Expenses	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_battle_options_title	Options	false
+random_localisation_strings_string_3k_main_fe_tutorial_mode_characters_title	Characters	false
+random_localisation_strings_string_pre-battle_multiplayer_auto_resolve	Delegate	false
+random_localisation_strings_string_miscast	Miscast chance	false
+random_localisation_strings_string_unit_encouraged_flanks_secure	Flanks secure	false
+random_localisation_strings_string_zdummy_undercover_character_target_faction_request_administrator_position_additional_action_confirm	Send another letter and attempt to discredit this political rival.	false
+random_localisation_strings_string_ability_effect_applied_instant	Instantly affects targets in area	false
+random_localisation_strings_string_building_construction_blocked_by_character	Unable to expand. You must ensure you have a building in the previous slot and check there are no nearby characters blocking the expansion.	false
+random_localisation_strings_string_audio_provider_8_1	8.1 discrete	false
+random_localisation_strings_string_zdummy_undercover_character_target_faction_request_general_position_title	Request Position: General	false
+random_localisation_strings_string_unit_stat_bonus_morale_exceptional	Exceptional morale	false
+random_localisation_strings_string_army_trapped_in_enemy_ZOC	\\n[[col:red]]This force is inside an enemy zone of control and cannot move. Attacking the enemy is its only option.[[/col]]	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_teamtwo_description	From here, you can choose characters, add or remove them, and switch teams. You can also swap between being the attacker and the defender in the battle.	false
+random_localisation_strings_string_building_under_construction_damaged_cancel_repair	[[col:yellow]]Cancelling the repair of this unfinished building will leave it in a damaged state. Construction on it will not start again until it has been repaired.[[/col]]	false
+random_localisation_strings_string_September	September	false
+random_localisation_strings_string_character_role_retainer	Retainer	false
+random_localisation_strings_string_gfx_postmode_historic	Records	false
+random_localisation_strings_string_dx12_inactive_tooltip	To run DirectX® 12 (BETA) you must be running Windows 10 and have a DirectX® 12 compatible graphics card.	false
+random_localisation_strings_string_player_stat_battles_won	Battles won	false
+random_localisation_strings_string_event_log_battle_defeat_major_decisive	Decisive Defeat	false
+random_localisation_strings_string_player_stats_men_lost	Troops lost	false
+random_localisation_strings_string_May	text_rejected	false
+random_localisation_strings_string_public	Public	false
+random_localisation_strings_string_finance_header_construction_building	Building construction	false
+random_localisation_strings_string_cancel_repair_building	This building will be repaired once your turn has ended. Left-click to cancel repair order.	false
+random_localisation_strings_string_weather_tooltips_snow	Snow||Units take longer to recover from fatigue when idle.	false
+random_localisation_strings_string_multiplayer_time_up	You have run out of time and your turn is over.	false
+random_localisation_strings_string_gfx_ultra	Ultra	false
+random_localisation_strings_string_ping_move	Move here!	false
+random_localisation_strings_string_recruitment_travel_time	Once recruited, joining this army will take additional turns:	false
+random_localisation_strings_string_ep_dyn_score_help_text_description	This panel shows you:\\n• Your current score.\\n• The bonus score you will earn if you complete the wave now. This bonus will decrease over time.\\n• The current wave number. Dynasty mode will continue until either the end of Wave 30, 1 hour has passed, or all your heroes have fallen.\\n• The number of enemies left to kill or rout to complete the current wave.	false
+random_localisation_strings_string_round_id_late_june	Late June	false
+random_localisation_strings_string_land_not_in_combat	Not in combat	false
+random_localisation_strings_string_prestige_category_2	Majestic	false
+random_localisation_strings_string_gfx_drop_low	Low	false
+random_localisation_strings_string_confirm_delete_title	Confirm Delete	false
+random_localisation_strings_string_purchase_dialog_txt	Extra downloadable content is required to join this game.	false
+random_localisation_strings_string_Feature_unavailable	Unavailable in this campaign	false
+random_localisation_strings_string_audio_provider_srs_circle_surround	SRS Circle Surround	false
+random_localisation_strings_string_autosaving	Auto-saving...	false
+random_localisation_strings_string_finance_header_cancelled_recruitment	Cancelled recruitment	false
+random_localisation_strings_string_ep_dyn_frontend_unit_size_help_text_title	Unit Size Settings	false
+random_localisation_strings_string_player_stats_best_4v4_placement	Best ladder placement 4v4 land	false
+random_localisation_strings_string_round_id_february	February	false
+random_localisation_strings_string_Unit_not_replenishing_05	[[col:red]]- You are bankrupt.[[/col]]	false
+random_localisation_strings_string_prestige_category_6	Feeble	false
+random_localisation_strings_string_player_stats_most_men_lost	Most troops lost in a battle	false
+random_localisation_strings_string_attrition_cold_immune	Units in your army are immune from winter attrition.	false
+random_localisation_strings_string_no	No	false
+random_localisation_strings_string_finance_header_battle_kills	Battle kills	false
+random_localisation_strings_string_decline_breaks_alliance_defender	Decline (breaks alliance with defender)	false
+random_localisation_strings_string_stat_men_hp	Troop HP	false
+random_localisation_strings_string_audio_provider_mono	Mono	false
+random_localisation_strings_string_nearby_allies	Affects allies in range	false
+random_localisation_strings_string_tooltip_content_alert	New content available!	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_infopanel_description	Information on any selected unit or general is displayed here.	false
+random_localisation_strings_string_morale_impetuous	Impetuous	false
+random_localisation_strings_string_skill_locked_multi_parent	\\n\\n[[col:red]]Available after spending %d skill points in the previous group.[[/col]]	false
+random_localisation_strings_string_3k_dlc05_tutorial_mode_sun_ce_legacy_of_wu_hud_title	Legacy Of Wu – Faction Specialisation	false
+random_localisation_strings_string_stat_mount_hp	Mount HP	false
+random_localisation_strings_string_gfx_filtering_bi	Bilinear	false
+random_localisation_strings_string_finance_header_ransom_battle_captive	Captive	false
+random_localisation_strings_string_finance_header_civil_war	Civil War	false
+random_localisation_strings_string_ship_card_red_destroyed	This ship was destroyed in battle.	false
+random_localisation_strings_string_target	Target	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_army_enemy_title	Army Panel	false
+random_localisation_strings_string_sea_region_control_status_controlled	(Controlled)	false
+random_localisation_strings_string_building_under_construction_damaged_repair	Repair unfinished building.	false
+random_localisation_strings_string_benchmark_dialog_title	Exit Benchmark	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_weather_title	Weather	false
+random_localisation_strings_string_hitpoints_replenishment_per_turn	[[img:icon_hp]][[/img]]Hit points replenished per turn: 	false
+random_localisation_strings_string_player_stats_total_mp_naval_battles_completed	Total multiplayer naval battles completed	false
+random_localisation_strings_string_unit_concerned_attacked_by_artillery	Attacked by artillery	false
+random_localisation_strings_string_unit_concerned_damaged_by_artillery	Damaged by artillery	false
+random_localisation_strings_string_battle_difficulty0	Easy	false
+random_localisation_strings_string_round_id_december	December	false
+random_localisation_strings_string_unknown_unit_state	Some of this unit's details are unknown. Moving closer may reveal more information. [[img:icon_hero]][[/img]]Heroes have a higher chance of discerning army details.	false
+random_localisation_strings_string_morale_turn_until_rebellion	At the current rate of decline, this army will rebel in %n turns.	false
+random_localisation_strings_string_file_load_failed	Load failed	false
+random_localisation_strings_string_morale	{{tr:morale}}	false
+random_localisation_strings_string_3k_main_tutorial_mode_battle_top_bar2_description	These are a unit's or character's special abilities.\\n\\n[[img:help_mode_battle_context_formations]][[/img]] Units are able to enter [[b]]formations[[/b]] that provide tactical abilities for certain situations. Investigate the [[b]]tooltip[[/b]] of a given formation to learn more about them.\\n\\n[[img:help_mode_battle_special_ability]][[/img]] (Romance mode only) Characters can unlock powerful [[b]]special abilities[[/b]] that can change the course of battle. Depending on a character's background, they can cause [[b]]direct damage[[/b]], while other abilities are either [[b]]buffs[[/b]] for friendly troops, or [[b]]debuffs[[/b]] that can be used against the enemy.\\n\\n[[img:help_mode_battle_skirmish]][[/img]] [[b]]Skirmish[[/b]] mode is available to most [[b]]ranged units[[/b]]. It means that the unit will try to [[b]]stay away from enemies[[/b]] and will retreat if they come too close.	false
+random_localisation_strings_string_finance_header_ransom_battle_captives	Captives	false
+random_localisation_strings_string_finance_tooltip_recruitment	Expenses on recruiting new units.	false
+random_localisation_strings_string_tile_upgrade_settlement_level3	Level 03	false
+random_localisation_strings_string_battle_difficulty2	Hard	false
+random_localisation_strings_string_small	Small	false
+random_localisation_strings_string_attacker	Attacker	false
+random_localisation_strings_string_building_construction_requires_main_slot_upgrade	{{tr:building_construction_requires_main_slot_upgrade}}	false
+random_localisation_strings_string_zdummy_undercover_character_target_faction_request_minister_position_additional_action_cancel	This minister cannot be trusted, so our representative should greak off all contact.	false
+random_localisation_strings_string_3k_dlc05_tutorial_mode_bandit_network_header_description	The [[b]]bandit network[[/b]] allows bandit factions to acquire bonuses and a variety of new units that will help shape their military and economic success throughout a campaign. \\n\\nEach node represents a group based within the associated province, establishing a connection to one of these groups takes time, and requires that you already have a connection to an adjacent group. If you own one of the regions, in the associated province, you will be able to expand your local bandit network more quickly. \\n\\nThere are four major groups, further sub-divided by the five elements:\\n\\n[[img:help_mode_tech_dlc05_outcasts_&_outlaws_axe]][[/img]] , [[img:help_mode_tech_dlc05_outcasts_&_outlaws_bow]][[/img]] , [[img:help_mode_tech_dlc05_outcasts_&_outlaws_shield]][[/img]] , [[img:help_mode_tech_dlc05_outcasts_&_outlaws_spear]][[/img]] , [[img:help_mode_tech__dlc05_outcasts_&_outlaws_sword]][[/img]] [[b]]Outcasts & Outlaws[[/b]] are the local bandit groups and other outsiders through which you will be able to increase your banditry income and reduce recruitment costs, as well as gain access to Han infantry, staple units and some that are particular to the major bandit clans.\\n\\n [[img:help_mode_tech_dlc05_clandestine_&_corrupt_magistrate_seal]][[/img]] , [[img:help_mode_tech_dlc05_clandestine_&_corrupt_fan]][[/img]] , [[img:help_mode_tech_dlc05_clandestine_&_corrupt_farmer_tools]][[/img]] , [[img:help_mode_tech_dlc05_clandestine_&_corrupt_industrial_tools]][[/img]] , [[img:help_mode_tech_dlc05_clandestine_&_corrupt_merchant_purse]][[/img]] [[b]]Clandestine & Corrupt[[/b]]: parties of otherwise more official individuals who operate outside the law will help you improve your administrative capabilities and your income from “traditional” sources, as well as grant you access to more elite units.\\n\\n[[img:help_mode_tech_dlc05_tribes_&_tradition_desert]][[/img]] , [[img:help_mode_tech_dlc05_tribes_&_tradition_forest]][[/img]] , [[img:help_mode_tech_dlc05_tribes_&_tradition_mountain]][[/img]] , [[img:help_mode_tech_dlc05_tribes_&_tradition_river]][[/img]] , [[img:help_mode_tech_dlc05_tribes_&_tradition_rolling_hills]][[/img]] [[b]]Tribes & Tradition[[/b]] still carry a lot of influence along the fringes of China, scions of the downtrodden or forgotten who will help improve your military effectiveness and looting capabilities, as well as granting you access to unique tribal units.\\n\\n[[img:help_mode_tech_dlc05_faith_and_folly_dragon]][[/img]] , [[img:help_mode_tech_dlc05_faith_and_folly_man]][[/img]] , [[img:help_mode_tech_dlc05_faith_and_folly_phoenix]][[/img]] , [[img:help_mode_tech_dlc05_faith_and_folly_tortoise]][[/img]] [[b]]Faith & Folly[[/b]] dictate the lives of many throughout the lands, from the remnants of the Yellow Turban rebellion and beyond; for all their unconventional principles, they can nonetheless help you maintain control of corruption and characters, as well as granting you access to some equally unconventional units.	false
+random_localisation_strings_string_network_message_vac_you_kicked	You were kicked from the game due to VAC authentication failure.	false
+random_localisation_strings_string_diplomacy_button_need_access_to_cancel_access	There is no military access to cancel.	false
+random_localisation_strings_string_delayed	Delayed	false
+random_localisation_strings_string_audio_provider_stereo_speakers	Stereo speakers	false
+random_localisation_strings_string_trade_lost	Not exported. Upgrade your ports to earn more money by exporting these commodities.	false
+random_localisation_strings_string_unit_concerned_melee_contact	Melee contact	false
+random_localisation_strings_string_fe_recruitment_card_tooltip_unit_group_cap_reached	It is not possible to add any more units of this category as you have reached the limit of %d per army.	false
+random_localisation_strings_string_network_error_wrong_player	You cannot resume a game in which you were not originally involved.	false
+random_localisation_strings_string_finance_header_fleet_upkeep	Fleet Upkeep	false
+random_localisation_strings_string_Scupper	Scupper||Scupper unused ships to save upkeep costs. 	false
+random_localisation_strings_string_finance_header_diplomacy	Diplomacy	false
+random_localisation_strings_string_button_cancel_slot_instruction_active	Click this button to cancel any action on the currently selected item.	false
+random_localisation_strings_string_network_error_no_steam	text_rejected	false
+random_localisation_strings_string_neutral	Neutral	false
+random_localisation_strings_string_port	Port	false
+random_localisation_strings_string_power_ranking_tooltip_player	This is your faction's strength ranking, rated against all existing factions.	false
+random_localisation_strings_string_round_id_late_november	Late November	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_teamtwo_title	Player Panel	false
+random_localisation_strings_string_map_wide	Map-wide	false
+random_localisation_strings_string_trade_agreement_tooltip_neighbour	An overland trade route will link your two capitals.	false
+random_localisation_strings_string_event_log_battle_defeat_minor_close	Close Defeat	false
+random_localisation_strings_string_time_days	days	false
+random_localisation_strings_string_advice_level_flavor_text	China is wrought by chaos. The Han dynasty falls and tyrants rise. You are thrust into this madness by the whim of heaven, but what do you know of war? You are chosen to lead China, either to salvation or destruction. Let Total War begin!	false
+random_localisation_strings_string_network_message_host_left	The host has left the game.	false
+random_localisation_strings_string_player_stats_most_men_killed	Most troops killed in a battle	false
+random_localisation_strings_string_chat_intro_text	Type /help for a list of available chat shortcuts for your current game area.	false
+random_localisation_strings_string_unit_card_lost_men_disbanded	The unit has suffered too many casualties and has been disbanded.	false
+random_localisation_strings_string_tooltip_raise_lord_wounded	[[col:red]]This character is currently wounded and is convalescing. They will be available for recruitment in %d turns.[[/col]]	false
+random_localisation_strings_string_StratHudbutton_limited_unit_type	You can only own a limited number of these items. You currently have %d of %d.	false
+random_localisation_strings_string_player_stats_ships_lost	Ships lost	false
+random_localisation_strings_string_network_error_join_failed_password	Failed to join game: Invalid password specified	false
+random_localisation_strings_string_ep_dyn_heroes_help_text_description	This section allows you to select a hero and view or upgrade their abilities. The number on their portrait indicates how many available upgrade points they have to spend.\\n\\nIn a single-player battle you can select all heroes and purchase upgrades for all of them. In a multiplayer battle you can only select and upgrade your own hero.	false
+random_localisation_strings_string_trade_node_tooltip_supply_to_other	supplied to their capital	false
+random_localisation_strings_string_power_category_3	Strong	false
+random_localisation_strings_string_damaged	Damaged	false
+random_localisation_strings_string_difficulty_level_1	Easy	false
+random_localisation_strings_string_agent_recruitment_insufficient_money	[[col:red]]Cannot recruit. You have insufficient funds.[[/col]]	false
+random_localisation_strings_string_3k_dlc04_start_pos_victory_condition_tooltip_text	Victory conditions:\\n\\nStandard: Defeat all other enemies, then become emperor and eliminate all other emperors by taking their seats of power. As the Yellow Turbans, this means destroying all factions loyal to the Han.\\n\\nCo-operative: combine your strength by signing a shared mandate diplomatic deal.\\n\\nHead-to-Head: destroy the other player or compete with one another to be the first to meet the victory conditions.	false
+random_localisation_strings_string_network_message_content_not_owned	You were kicked from the game due to the host selecting a DLC-specific map you do not own.	false
+random_localisation_strings_string_unit_stat_bonus_charge_exceptional	Exceptional charge	false
+random_localisation_strings_string_wealth_category_6	Destitute	false
+random_localisation_strings_string_prebattle_title_default	{{tr:prebattle_title_default}}	false
+random_localisation_strings_string_player_stats_enemy_generals_killed	Enemy generals killed	false
+random_localisation_strings_string_round_id_late_december	Late December	false
+random_localisation_strings_string_retreat	Retreat	false
+random_localisation_strings_string_defeat	Defeat	false
+random_localisation_strings_string_3k_dlc06_ceo_character_nanman_skills_fire_instinct_warmonger_objective	{{tr:dlc06_nanman_skills_unlock_condition}} {{tr:dlc06_nanman_skills_warmonger_objective}}	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_units_title	Units	false
+random_localisation_strings_string_player_stat_battles_lost	Battles lost	false
+random_localisation_strings_string_copy_protection_message	text_rejected	false
+random_localisation_strings_string_finance_header_construction_other	Other construction	false
+random_localisation_strings_string_benchmark_dialog_body	Do you want to exit the current benchmark?	false
+random_localisation_strings_string_art_unavailable	Left-click to set a goal for this technology.||The technologies required to unlock this will be researched automatically.	false
+random_localisation_strings_string_unit_concerned_casualties_damage	Damage sustained	false
+random_localisation_strings_string_random	Random	false
+random_localisation_strings_string_agent_recruitment_reduced_changed_bodyguard	Not enough money to commission full new bodyguard - the current one will be depleted.	false
+random_localisation_strings_string_unit_encouraged_army_supported	Supporting army	false
+random_localisation_strings_string_recruitment_from	This unit can be recruited from:	false
+random_localisation_strings_string_pre-battle_multiplayer_retreat	Retreat	false
+random_localisation_strings_string_battle_difficulty4	Legendary	false
+random_localisation_strings_string_FACTION_FOOD_FACTOR_RAIDING	Raiding	false
+random_localisation_strings_string_3k_dlc05_tutorial_mode_lu_bu_greatest_warriors_items_title	Greatest Warrior – Target Description	false
+random_localisation_strings_string_state_religion_change_active	Can change religion	false
+random_localisation_strings_string_Middle	text_rejected	false
+random_localisation_strings_string_unit_concerned_flanks_exposed_multiple	Flanks exposed	false
+random_localisation_strings_string_Completed	Completed	false
+random_localisation_strings_string_StratHudbutton_Cannot_Recruit_Unit8	You cannot recruit this unit until you have studied and mastered the required art for it.	false
+random_localisation_strings_string_finances_tribute_expenditure	To others	false
+random_localisation_strings_string_unit_encouraged_winning	Winning current combat	false
+random_localisation_strings_string_full	Full	false
+random_localisation_strings_string_tile_upgrade_settlement_escalation2	Escalation level 2	false
+random_localisation_strings_string_August	text_rejected	false
+random_localisation_strings_string_duel_effect_interrupt_description	[[col:red]]Interrupting a duel will have consequences[[/col]]	false
+random_localisation_strings_string_3k_main_campaign_map_victory_condition_tooltip_text	Victory conditions:\\n\\nStandard: become emperor and eliminate all other emperors by taking their seats of power\\n\\nCo-operative: combine your strength by signing a shared mandate diplomatic deal.\\n\\nHead-to-Head: destroy the other player or compete with one another to be the first to meet the victory conditions.	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_topbar_title	Maps & Armies	false
+random_localisation_strings_string_mp_ready_error_no_opposition	[[col:red]]You cannot declare ready as you have no opposition[[/col]]	false
+random_localisation_strings_string_prebattle_description_tunnel_intercepted	{{tr:prebattle_description_tunnel_intercepted}}	false
+random_localisation_strings_string_mp_ready_error_too_many_armies	[[col:red]]You cannot declare readiness as there are too many players for the selected map.\\nEither change the map or remove some players.[[/col]]	false
+random_localisation_strings_string_tax_level_3	High	false
+random_localisation_strings_string_large	Large	false
+random_localisation_strings_string_network_error_stats_no_steam	text_rejected	false
+random_localisation_strings_string_versus	vs.	false
+random_localisation_strings_string_controls_load_key_list	Load Keys List	false
+random_localisation_strings_string_ship_card_red_captured	This ship was captured by the enemy!	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_battle_options_description	This menu allows you to customise the parameters of the battle itself – how big the units will be, the difficulty level, and how long the battle will last. You can also select whether or not to fight in Romance mode and turn on battle realism. You can also enable large armies, giving everyone in the battle access to more troops.\\n\\nCrucially, you can also begin the battle from here.	false
+random_localisation_strings_string_REGION_FOOD_FACTOR_HORDES	Hordes	false
+random_localisation_strings_string_ability_loose	Toggle Loose Formation||Loose formation spreads units out, making them much harder to hit with missiles, but greatly reduces their ability to resist charges.	false
+random_localisation_strings_string_left_click_bb	Left-click to view in building browser.	false
+random_localisation_strings_string_DX11	DX11	false
+random_localisation_strings_string_right_click_info	Right-click for further information	false
+random_localisation_strings_string_Unit_is_suffering_attrition	In winter, units in enemy territory will suffer losses due to attrition. Move the unit outside of the enemy area to stop further attrition.	false
+random_localisation_strings_string_morale_surrendered	Surrendered	false
+random_localisation_strings_string_controls_save_key_list	Save Key List	false
+random_localisation_strings_string_3k_dlc06_ceo_character_nanman_skills_water_cunning_missile_chief_objective	{{tr:dlc06_nanman_skills_unlock_condition}} {{tr:dlc06_nanman_skills_missile_chief_objective}}	false
+random_localisation_strings_string_StratHudbutton_Cannot_Embark/Disembark2	This fleet is too far from the shore or port.	false
+random_localisation_strings_string_StratHudbutton_Cannot_Enlist_General0	Cannot enlist general	false
+random_localisation_strings_string_finance_header_tribute	Tribute	false
+random_localisation_strings_string_ability_tooltip_phase	%d seconds / [[img:ui/skins/default/icon_cooldown.png]][[/img]]%d seconds	false
+random_localisation_strings_string_ep_tutorial_mode_storybook_tabs_title	ph	false
+random_localisation_strings_string_finance_header_payload	Event Outcomes	false
+random_localisation_strings_string_ep_dyn_frontend_wood_help_text_title	 {{tr:ep_dyn_WOOD}} - Melee Support	false
+random_localisation_strings_string_morale_impetuous_undead	Impetuous	false
+random_localisation_strings_string_unit_encouraged_inspired	Encouraged by nearby unit	false
+random_localisation_strings_string_cannot_build_tech_required	[[col:red]]Required {{tr:3k_tr_technology}} needs to be researched before this building can be constructed:[[/col]]	false
+random_localisation_strings_string_agent_recruitment_reduced_bodyguard	Not enough money - bodyguard will be depleted.	false
+random_localisation_strings_string_trade_agreement_tooltip_no_route_you	[[col:red]]The ports in your home commanderies are at full capacity.||A sea route from your capital cannot be established.[[/col]]	false
+random_localisation_strings_string_network_error_internal_controller_disconnection	There is a disconnection to the online service	false
+random_localisation_strings_string_CARD_STAT_BEST_1V1_LADDER_PLACEMENT_NAVAL	Best ladder placement 1v1 naval	false
+random_localisation_strings_string_the_selected_item_may_not_be_dismantled	[[col:red]]The selected item may not be demolished.[[/col]]	false
+random_localisation_strings_string_ep_dyn_frontend_setup_and_leaderboards_help_text_title	Setup & Leaderboards	false
+random_localisation_strings_string_finance_tooltip_commerce_raiding	Income from armies using [[img:icon_raiding_stance]][[/img]]Raiding stance.	false
+random_localisation_strings_string_tile_upgrade_encampment	Encampment	false
+random_localisation_strings_string_ally	Ally	false
+random_localisation_strings_string_event_log_battle_victory_minor_close	Close Victory	false
+random_localisation_strings_string_network_message_confirm_quit_host	Confirm quit? The game will end for everyone.	false
+random_localisation_strings_string_campaign_difficulty4	Legendary	false
+random_localisation_strings_string_cannot_enter_enemy_zoc	You cannot enter an enemy force’s zone of control except to make an attack.	false
+random_localisation_strings_string_StratHudbutton_Cannot_Recruit_Unit1	There is no path available from this unit's place of recruitment to the recruiting force.	false
+random_localisation_strings_string_metre_abbreviation	m	false
+random_localisation_strings_string_error_legendary_save_load_disabled	Quick-save/load is disabled on legendary difficulty	false
+random_localisation_strings_string_ability_disembark_from_ship	Disembark||Disembark from your ship.	false
+random_localisation_strings_string_difficulty_change_confirmation	Are you sure want to change your difficulty?	false
+random_localisation_strings_string_network_error_incompatible_data	Incompatible data	false
+random_localisation_strings_string_3k_dlc05_tutorial_mode_lu_bu_greatest_warriors_hud_title	Greatest Warriors – Faction Specialisation	false
+random_localisation_strings_string_unit_concerned_casualties	Casualties sustained	false
+random_localisation_strings_string_Ship_is_suffering_attrition	This ship is suffering attrition as it is on the high seas. Move the ship outside of the attritional area to prevent this from happening.	false
+random_localisation_strings_string_finance_tooltip_liege_lord	Expenses paid to your overlord.	false
+random_localisation_strings_string_network_error_join_failed	Failed to join the selected game	false
+random_localisation_strings_string_over_x_seconds	(Over %d seconds)	false
+random_localisation_strings_string_3k_main_tutorial_mode_battle_duels_title	Duel Information	false
+random_localisation_strings_string_quit_battle	You are about to quit this battle. Are you sure?	false
+random_localisation_strings_string_unit_encouraged_on_the_hill	On high ground	false
+random_localisation_strings_string_unit_hero_duel_lost_honorably	Duel Lost with Honour	false
+random_localisation_strings_string_indestructible	Indestructible	false
+random_localisation_strings_string_finance_header_agent_action	Agent Actions	false
+random_localisation_strings_string_ally_attacked_ally_defending	Your ally has been attacked!	false
+random_localisation_strings_string_3k_main_tutorial_mode_battle_army_description	This is your army, consisting of your retinues and units. Use this area to review your forces in battle and keep an eye out for notifications.\\n\\n[[img:help_mode_battle_ability_timer]][[/img]] This is the [[b]]ability timer[[/b]] for this character's special abilities.\\n\\n[[img:help_mode_battle_retinue]][[/img]] This icon indicates which units belong to this character's [[b]]retinue[[/b]], or, when selecting a non-character, indicates the character that this unit [[b]]belongs to[[/b]].\\n\\n[[i]]Left-click to select a unit. Ctrl+left-click will allow you to select multiple units. Double left-click will zoom to the unit.\\n\\nPress Ctrl+# to create a control group incorporating all your selected units.[[/i]]	false
+random_localisation_strings_string_replace_force_commander	This force needs leadership now its commander is gone. Who will answer the call?	false
+random_localisation_strings_string_network_message_player_left	has left the game.	false
+random_localisation_strings_string_ep_dyn_frontend_fire_help_text_description	 {{tr:ep_dyn_FIRE}} heroes excel at dealing damage to large groups of enemies, but lack strong defences and have limited ranged damage options.	false
+random_localisation_strings_string_will_lose_at_end	You will lose if the time runs out	false
+random_localisation_strings_string_morale_routing	Routing	false
+random_localisation_strings_string_num_projectiles	Number of Projectiles	false
+random_localisation_strings_string_event_log_battle_defeat_close_phyrric	Valiant Defeat	false
+random_localisation_strings_string_mp_ready_error_ai_no_siege_units	[[col:red]]AI players must have some infantry or artillery units capable of assaulting fortifications.[[/col]]	false
+random_localisation_strings_string_zdummy_undercover_character_target_faction_request_minister_position_description	Petition the faction leader to be granted a high position.	false
+random_localisation_strings_string_season_winter	Winter	false
+random_localisation_strings_string_trade_route_tooltip_local_neutral	(yours shared with others)	false
+random_localisation_strings_string_player_stats_best_2v2_skill	Best all time skill rating 2v2 land	false
+random_localisation_strings_string_player_stats_total_mp_naval_battles_won	Total multiplayer naval battles won	false
+random_localisation_strings_string_overwrite_title	Overwrite File?	false
+random_localisation_strings_string_unit_encouraged_settlement	Defending a city	false
+random_localisation_strings_string_play_battle	Fight Battles	false
+random_localisation_strings_string_finance_tooltip_payload	Income from missions, random incidents and dilemmas.	false
+random_localisation_strings_string_network_error_join_failed_no_response	Failed to join game: No response from host	false
+random_localisation_strings_string_network_message_steam_connection_lost	Connection to your client was lost.	false
+random_localisation_strings_string_exit_theatre_tooltip	Exit theatre here	false
+random_localisation_strings_string_year	Year	false
+random_localisation_strings_string_hudbutton_studying_turns_until_completion	Turns until completion:	false
+random_localisation_strings_string_left_click_pin	\\nLeft-click to pin info panel	false
+random_localisation_strings_string_attacker_direction_south	South	false
+random_localisation_strings_string_zdummy_undercover_character_target_faction_request_administrator_position_additional_action_description	Your spy's attempts to ingratiate themselves have drawn the attention of one of their political rivals - having the ear of their lord, their requests were dismissed out of hand. Your agent can attempt to further press their case, but it could lead to their discovery.	false
+random_localisation_strings_string_can_siege_tooltip	[[b]]SIEGE ATTACKER[[/b]]\\n\\n This unit can attack gates or walls, allowing you to instantly launch a siege battle without having to wait for towers or battering rams to be built.	false
+random_localisation_strings_string_ability_drop_siege_equipment	Drop Siege Equipment||Drops your current siege equipment.	false
+random_localisation_strings_string_allied_forces	Your Alliance	false
+random_localisation_strings_string_finance_tooltip_raided	Income lost from enemy armies using [[img:icon_raiding_stance]][[/img]]Raiding stance.	false
+random_localisation_strings_string_land_combatant_losing_big	Unit losing decisively	false
+random_localisation_strings_string_recharge_change	[[img:ui/skins/default/icon_cooldown.png]][[/img]]Ability Recharge (seconds)	false
+random_localisation_strings_string_MILITARY_FORCE_FOOD_FACTOR_CHARACTERS	Characters	false
+random_localisation_strings_string_3k_main_tutorial_mode_battle_destruction_title	Settlement Destruction	false
+random_localisation_strings_string_treasury_tooltip_description_expenditure_politics	Finances spent on political activities such as political actions or assignments.	false
+random_localisation_strings_string_medium	Balanced	false
+random_localisation_strings_string_modifier_icon_tooltip_armour_piercing	Armour-piercing||The damage of armour-piercing weapons mostly ignores the target's armour, making them the ideal choice against heavily-armoured enemies. They often inflict less damage in total though, making them less efficient against weakly armoured targets.	false
+random_localisation_strings_string_load_success	Load succeeded	false
+random_localisation_strings_string_ep_tutorial_mode_storybook_next_milestone_title	ph	false
+random_localisation_strings_string_unit_concerned_attacked_by_projectile	Under missile fire	false
+random_localisation_strings_string_mp_ready_error_no_units	[[col:red]]You must select some units before declaring readiness.[[/col]]	false
+random_localisation_strings_string_battle_draw	Draw||The only winner here is the Blood God.	false
+random_localisation_strings_string_outbreak_chance	Outbreak chance	false
+random_localisation_strings_string_ep_dyn_character_details_available_active_help_text_description	This is a list of all of the active abilities that can be unlocked.\\n\\nThe number on the top right of each icon is the points cost to unlock it. Purchased abilities will be added to the section above. Any abilities unlocked here are permanently unlocked for the rest of the battle.\\n\\nActive abilities are effects that require player input to trigger. They typically cause great damage to targeted enemies and restore hit points to targeted allies. Hover over the ability icons for more details.	false
+random_localisation_strings_string_round_id_early_august	Early August	false
+random_localisation_strings_string_ally_attacked_ally_attack_ally	Your allies at war with each other!	false
+random_localisation_strings_string_StratHudbutton_Construction_Site	Undeveloped land||You can create new construction sites here.	false
+random_localisation_strings_string_chat_ping_msg	Ping placed	false
+random_localisation_strings_string_ep_dyn_frontend_map_help_text_title	Map Selection	false
+random_localisation_strings_string_error_chat_room_invalid	Chat Error||Invalid chat room.	false
+random_localisation_strings_string_prestige_category_1	Sublime	false
+random_localisation_strings_string_tile_upgrade_settlement_escalation1	Escalation level 1	false
+random_localisation_strings_string_treasury_tooltip_description_expenditure_events	Unfortunate events and dilemma choices have depleted the treasury this season.	false
+random_localisation_strings_string_fatigue	Fatigue	false
+random_localisation_strings_string_move_options_vassal_cannot_declare_war	text_rejected	false
+random_localisation_strings_string_audio_provider_7_1	7.1 discrete	false
+random_localisation_strings_string_player_stats_campaigns_completed	Campaigns completed	false
+random_localisation_strings_string_spell_details	Spell details	false
+random_localisation_strings_string_finance_header_trade	Trade	false
+random_localisation_strings_string_whisper	Private Message	false
+random_localisation_strings_string_finance_header_colonise	Colonise	false
+random_localisation_strings_string_3k_main_tutorial_mode_battle_top_bar_description	These are general [[b]]commands[[/b]] for the units in your army.\\n\\n[[img:help_mode_battle_context_run]][[/img]] [[b]]Run speed[[/b]] is turned on by default. It can be worth [[b]]turning it off[[/b]], however, if you need to prevent units becoming [[b]]fatigued[[/b]] while traversing the map.\\n\\n[[img:help_mode_battle_context_halt]][[/img]] [[b]]Halt[[/b]] instantly [[b]]cancels all orders[[/b]] and makes a unit [[b]]stop[[/b]] all movement and attacks. This can be used to stop artillery from continuing to fire into a settlement during a siege battle.\\n\\n[[img:help_mode_battle_context_toggle_group]][[/img]][[b]]Toggle group[[/b]] generates a [[b]]control group[[/b]] incorporating all [[b]]selected units[[/b]].\\n\\n[[img:help_mode_battle_context_guard]][[/img]][[b]]Guard mode[[/b]] can be activated to order a unit to [[b]]stand its ground[[/b]]. This means it will [[b]]not pursue[[/b]] its enemy but rather [[b]]defend[[/b]] its current position.\\n\\n[[img:help_mode_battle_context_melee_mode]][[/img]] [[b]]Melee mode[[/b]] orders a unit to attack in melee instead of its ranged weapon. This can be useful to [[b]]conserve ammunition[[/b]], or if you want units to [[b]]charge[[/b]] into the enemy's ranks.	false
+random_localisation_strings_string_overwrite_legendary_save_warning_title	Overwrite exsisting legendary save?	false
+random_localisation_strings_string_round_id_early_february	Early February	false
+random_localisation_strings_string_night	Night	false
+random_localisation_strings_string_Historic	Historic Battle	false
+random_localisation_strings_string_CAMPAIGN_POLITICS_ACTION_TYPE_GET_INTO_POSITION	Secure Promotion	false
+random_localisation_strings_string_3k_dlc05_tutorial_mode_spy_extraction_description	SPY EXTRACTION	false
+random_localisation_strings_string_ability_auto_reject_duels	Automatically reject any proposed duels	false
+random_localisation_strings_string_ep_dyn_character_details_current_active_abilities_help_text_title	Unlocked Active Abilities	false
+random_localisation_strings_string_effect_bundle_target_local	Commandery:	false
+random_localisation_strings_string_FACTION_FOOD_FACTOR_HORDES	Hordes	false
+random_localisation_strings_string_CARD_STAT_BEST_4V4_LADDER_PLACEMENT_NAVAL	Best ladder placement 4v4 naval	false
+random_localisation_strings_string_prebattle_title_intercept	{{tr:prebattle_title_intercept}}	false
+random_localisation_strings_string_StratHudbutton_Cannot_Build2	[[col:red]]Cannot build. This settlement is under siege.[[/col]]	false
+random_localisation_strings_string_unit_details_rank	Rank:	false
+random_localisation_strings_string_network_error_kicked	The host kicked you from the game.	false
+random_localisation_strings_string_player_disconnected	has disconnected.	false
+random_localisation_strings_string_content_locked	Content Locked	false
+random_localisation_strings_string_player_stats_best_clan_ladder_placement	text_rejected	false
+random_localisation_strings_string_network_error_dlc_not_owned	You cannot join this game as you do not own the necessary content.	false
+random_localisation_strings_string_character_role_governor	[[img:icon_overseer]][[/img]]Overseer	false
+random_localisation_strings_string_finance_tooltip_construction	Expenses on constructing and upgrading buildings.	false
+random_localisation_strings_string_ability_tooltip_invalid_usages	Cannot use if	false
+random_localisation_strings_string_tax_level_4	Extortionate	false
+random_localisation_strings_string_event_log_battle_victory_close_phyrric	Pyrrhic Victory	false
+random_localisation_strings_string_formatted_minutes_plural	%d Minutes	false
+random_localisation_strings_string_incompatible_version	Host's game version differs from yours; you will not be able to join this game	false
+random_localisation_strings_string_3k_main_fe_tutorial_mode_characters	From here you can choose between the many playable characters in Total War™: THREE KINGDOMS. Each character is assigned to a specific group to help you navigate, and each group is different depending on the time period you select from the timeline at the bottom-centre of the screen. \\n\\n Each character offers a different playstyle, and varying starting difficulty; these variations will be detailed on the right of the screen.	false
+random_localisation_strings_string_December	text_rejected	false
+random_localisation_strings_string_ability_phase_mask_cant_move	[[col:red]]Immobilised[[/col]]	false
+random_localisation_strings_string_ep_dyn_frontend_metal_help_text_title	 {{tr:ep_dyn_METAL}} - Single Target Damage	false
+random_localisation_strings_string_finance_header_military	Military	false
+random_localisation_strings_string_tooltip_disband_unit	Disband	false
+random_localisation_strings_string_fleet_status_transit2	En route to:	false
+random_localisation_strings_string_famous_battle_victory_over	Victory over:	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_powerbar_title	Balance of Power Bar	false
+random_localisation_strings_string_diplomacy_button_need_alliance_to_request_alliance	There is no alliance to cancel.	false
+random_localisation_strings_string_ultra	Ultra	false
+random_localisation_strings_string_prebattle_underground_terrain_type	{{tr:prebattle_underground_terrain_type}}	false
+random_localisation_strings_string_art_already_researched	You have already researched this technology.	false
+random_localisation_strings_string_audio_provider_4_0	4.0 discrete	false
+random_localisation_strings_string_MILITARY_FORCE_FOOD_FACTOR_TECHNOLOGIES	Technology	false
+random_localisation_strings_string_resource_exporting_percentage_zero	A trade route is required to export this resource.	false
+random_localisation_strings_string_oppressed_by	Feels oppressed by	false
+random_localisation_strings_string_MILITARY_FORCE_FOOD_FACTOR_RAIDING	Raiding	false
+random_localisation_strings_string_treasury_tooltip_description_other	Fortuante events have recently increased the wealth of your treasury.	false
+random_localisation_strings_string_weight_grouping_container	%1 %2	false
+random_localisation_strings_string_round_id_january	January	false
+random_localisation_strings_string_capital	Faction Capital	false
+random_localisation_strings_string_tile_upgrade_settlement_level2	Level 02	false
+random_localisation_strings_string_gfx_downgraded	WARNING! Graphics memory is running low, so graphics have been downgraded this session. Tick 'unlimited video memory' in the advanced graphics options to override this by using system memory for graphics, but slowdowns may happen if you don’t have much system memory. In that case, un-tick the box and reduce the texture quality setting.	false
+random_localisation_strings_string_campaign_type_short	Short Campaign	false
+random_localisation_strings_string_ping_standard	Look here!	false
+random_localisation_strings_string_ability_requires_enemy_general_target	Target enemy general	false
+random_localisation_strings_string_power_ranking_tooltip	This is their faction's strength ranking, rated against all existing factions.	false
+random_localisation_strings_string_morale_shattered	Shattered	false
+random_localisation_strings_string_defender	Defender	false
+random_localisation_strings_string_allied_mencount	Allied troop count	false
+random_localisation_strings_string_enemy_mencount	Enemy troop count	false
+random_localisation_strings_string_always	Always	false
+random_localisation_strings_string_FACTION_FOOD_FACTOR_ARMIES	Armies	false
+random_localisation_strings_string_CARD_STAT_BEST_4V4_SKILL_NAVAL	Best all-time skill rating 4v4 naval	false
+random_localisation_strings_string_day	Day	false
+random_localisation_strings_string_CAMPAIGN_POLITICS_ACTION_TYPE_SPREAD_RUMOURS	Spread Rumours	false
+random_localisation_strings_string_action_result_type_critical_success	Critical Success	false
+random_localisation_strings_string_seconds	seconds	false
+random_localisation_strings_string_easy	[[col:green]]Stable[[/col]]	false
+random_localisation_strings_string_character_panel_loyalty_honour_negative	Negative Factors	false
+random_localisation_strings_string_bribe_nonhostile_panel_title	Manipulation Attempt	false
+random_localisation_strings_string_attacker_direction_west	West	false
+random_localisation_strings_string_total_value	Income: {{tr:icon_income}}	false
+random_localisation_strings_string_prebattle_title_tunnel_intercepted	{{tr:prebattle_title_tunnel_intercepted}}	false
+random_localisation_strings_string_victory	Victory	false
+random_localisation_strings_string_November	text_rejected	false
+random_localisation_strings_string_cannot_recruit_insufficient_funds	You have insufficient funds to recruit this unit.	false
+random_localisation_strings_string_tech_required_for_construction	text_rejected	false
+random_localisation_strings_string_3k_main_tutorial_mode_fe_timeline_title	Timeline	false
+random_localisation_strings_string_auto_resolve	Delegate	false
+random_localisation_strings_string_finance_header_excess_food	Excess food	false
+random_localisation_strings_string_REGION_FOOD_FACTOR_EVENTS	Events	false
+random_localisation_strings_string_ep_tutorial_mode_storybook_event_list_description	ph	false
+random_localisation_strings_string_ability_formed_attack	Formation Attack||The unit will try to stay in formation when in melee.	false
+random_localisation_strings_string_ep_dyn_stats_help_text_title	Placeholder	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_mapdetails_title	Map Details	false
+random_localisation_strings_string_campaign_autoresolver_tooltip_stance_land_balanced	Balanced Stance||When using the balanced battle stance, units will receive no bonuses or penalties.	false
+random_localisation_strings_string_ability_left_click_toggle_overcast	Left-click to enable [[col:magic]]overcast[[/col]] targeting	false
+random_localisation_strings_string_attrition_immunity	[[b]]ATTRITION IMMUNITY[[/b]]\\n\\n This unit is immune to the following types of attrition:	false
+random_localisation_strings_string_load_fail	Load failed	false
+random_localisation_strings_string_range	Effect Range	false
+random_localisation_strings_string_ep_dyn_frontend_setup_and_leaderboards_help_text_description	These tabs let you toggle between setting up and playing a new game in Dynasty mode and viewing your high scores on the global leaderboards. 	false
+random_localisation_strings_string_ability_requires_higher_loadout	[[col:red]]Requires higher rank[[/col]]	false
+random_localisation_strings_string_custom_battle_unit_tooltip_need_loadout	\\n[[col:red]]Cannot recruit. Retinue commander needs the loadout: %S[[/col]]	false
+random_localisation_strings_string_will_draw_at_end	You will draw if the time runs out	false
+random_localisation_strings_string_tax_level_0	Minimal	false
+random_localisation_strings_string_region_colon	Region:	false
+random_localisation_strings_string_max_units	max:	false
+random_localisation_strings_string_StratHudbutton_Cannot_Recruit_Unit6	The population is too small for recruitment; you must wait until it grows.	false
+random_localisation_strings_string_finance_header_prize_ships	Prize Ships	false
+random_localisation_strings_string_ep_dyn_frontend_fire_help_text_title	 {{tr:ep_dyn_FIRE}} - Wide Area Damage	false
+random_localisation_strings_string_3k_main_tutorial_mode_info_description	To toggle the info overlay press <F1> or the [[img:ui/skins/default/icon_info.png]] button. The overlay can also be closed by pressing any button on the keyboard.	false
+random_localisation_strings_string_agent_recruitment_insufficient_money_for_different_bodyguard	[[col:red]]You have insufficient funds.[[/col]]	false
+random_localisation_strings_string_unlock_agent_action_to_embed_in_army	Unlock the following action to embed within this army: 	false
+random_localisation_strings_string_cancel_recruitment_header	Cancel Recruitment	false
+random_localisation_strings_string_button_quit_default	CONCEDE DEFEAT	false
+random_localisation_strings_string_decrease_experience	Decrease experience	false
+random_localisation_strings_string_trade_route_state_player	(Yours)	false
+random_localisation_strings_string_3k_main_tutorial_mode_battle_speedcontrols_description	You can alter the [[b]]speed of time[[/b]] in battle with these controls. 	false
+random_localisation_strings_string_guerrilla_cant_deploy	Only units with [[img:icon_guerrilla]][[/im]]guerrilla deployment ability can deploy outside your deployment zone.	false
+random_localisation_strings_string_character_details_rank_6	Current rank: 6 (maximum 6)||A character's rank shows their overall level of skill, with each star representing one rank level.||New rank levels are achieved by gaining experience. With each new level you will be able to pick additional skills.	false
+random_localisation_strings_string_resource_long_term	Long-term partnership: {{tr:icon_income}}%n||As this trade agreement is long-standing, a bonus to the trade income is being supplied. This will slowly increase over time.	false
+random_localisation_strings_string_audio_transmit_mode_push	Push to talk	false
+random_localisation_strings_string_clear_advice_warning	You are about to clear your advice history. Are you sure?	false
+random_localisation_strings_string_CAMPAIGN_POLITICS_ACTION_TYPE_MARRIAGE	Marriage	false
+random_localisation_strings_string_ability_tooltip_recharge_context	Recharge if	false
+random_localisation_strings_string_3k_main_tutorial_mode_fe_faction_info_title	Faction Summary	false
+random_localisation_strings_string_bonus	Bonus:	false
+random_localisation_strings_string_building_under_construction_damaged_cannot	No unfinished buildings are damaged 	false
+random_localisation_strings_string_agent_recruitment_no_candidates	[[col:red]]There are no agent candidates available to recruit.[[/col]]	false
+random_localisation_strings_string_network_error_join_failed_incompatible	Failed to join game: Incompatible versions	false
+random_localisation_strings_string_uniform_editor_custom	Custom	false
+random_localisation_strings_string_difficulty_level_2	Normal	false
+random_localisation_strings_string_test	test	false
+random_localisation_strings_string_ability_phase_mask_kill_self	[[col:red]]Kill Self[[/col]]	false
+random_localisation_strings_string_finance_header_postbattle_loot	Post-battle Loot	false
+random_localisation_strings_string_zdummy_undercover_character_target_faction_request_minister_position_additional_action_description	Moving up in an enemy faction is difficult, and made more so when your spy needs to keep their cover intact. A slightly dubious minister has offered to carry your agent's letter, if they explain the real reason why they want such a high position. Trusting them may be the only way up, but they may betray your spy.	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_characters_description	From here, you can customise the generals belonging to each retinue. Select a general after selecting a retinue and double-click to add them to that retinue..	false
+random_localisation_strings_string_network_error_host_failed	Failed to host game	false
+random_localisation_strings_string_warning_graphics_upgrade	Some settings may not be applied until the next time a campaign or battle is launched. Continue?	false
+random_localisation_strings_string_custom_battle_unit_tooltip_retinue_cap	\\n[[col:red]]Cannot recruit. Retinue is full.[[/col]]	false
+random_localisation_strings_string_yes	Yes	false
+random_localisation_strings_string_fleet_status_transit1	In transit	false
+random_localisation_strings_string_StratHudbutton_cannot_repairShip_noport	Cannot repair||You can only repair ships at a port.	false
+random_localisation_strings_string_reinforcements	Reinforcements	false
+random_localisation_strings_string_effect_bundle_tooltip	Current effects||Successfully completing missions and facing certain game events will trigger short-term effects for your faction or territories.	false
+random_localisation_strings_string_predicted_income_explanation	This is the amount of {{tr:icon_income}}income you are expected to receive in the next turn.	false
+random_localisation_strings_string_unit_stat_bonus_morale_improved	Improved morale	false
+random_localisation_strings_string_stat_xp_value	XP bonus	false
+random_localisation_strings_string_unit_stat_bonus_charge_improved	Improved charge	false
+random_localisation_strings_string_MILITARY_FORCE_FOOD_FACTOR_FERTILITY	Fertility	false
+random_localisation_strings_string_shortcut	Shortcut	false
+random_localisation_strings_string_audio_provider_5_1	5.1 discrete	false
+random_localisation_strings_string_gunners	text_rejected	false
+random_localisation_strings_string_network_message_vac_player_kicked	has been kicked from the game due to VAC authentication failure.	false
+random_localisation_strings_string_weather_tooltips_dry	Dry||No adverse effects.	false
+random_localisation_strings_string_ep_dyn_frontend_hero_info_help_text_title	Unit Information	false
+random_localisation_strings_string_hudbutton_studying_name	Studying:	false
+random_localisation_strings_string_resistance_fire_tooltip	Fire Resistance: %d%%||Damage of [[img:ui/skins/default/modifier_icon_flaming.png]][[/img]]flaming attacks is reduced by this amount.	false
+random_localisation_strings_string_resistance_physical_tooltip	Physical Resistance: %d%%||Damage of non-magical attacks is reduced by this amount.	false
+random_localisation_strings_string_finance_header_raiding	Raiding	false
+random_localisation_strings_string_treasury_tooltip_description_expenditure_spies	Activities of subterfuge and espionage and their cost this season.	false
+random_localisation_strings_string_StratHudbutton_Cannot_Recruit_Unit0	[[col:red]]Cannot recruit unit.[[/col]]	false
+random_localisation_strings_string_mp_ready_error_duplicate_characters	[[col:red]]Cannot begin the battle with duplicate characters in armies[[/col]]	false
+random_localisation_strings_string_network_message_player_dropped	has been dropped from the game.	false
+random_localisation_strings_string_unit_concerned_extended_casualties_damage	Damage sustained	false
+random_localisation_strings_string_trade_status_tooltip_already_trading	Already trading	false
+random_localisation_strings_string_finance_header_battle_destruction	Battle destruction	false
+random_localisation_strings_string_region_specialty_iron_mining	text_rejected	false
+random_localisation_strings_string_army_recruitment_limit_reached	[[col:red]]You have recruited the maximum number of units into this army.[[/col]]	false
+random_localisation_strings_string_3k_dlc06_fealty_panel_description	Fealties represent the innate traditions and culture of the Nanman. They are assimilated from destroyed enemy factions, and shared between vassals and allies. Once a Fealty is gained, it can only be lost upon the death of the tribe. Gathering them all will unlock the last tiers of the Reforms tree, and set you on the path to ultimate victory!	false
+random_localisation_strings_string_FACTION_PROVINCE_FOOD_FACTOR_RAIDING	Raiding	false
+random_localisation_strings_string_action_result_type_guaranteed	[Placeholder]	false
+random_localisation_strings_string_cannot_build_resource_required	[[col:red]]Required resources need to be acquired before this building can be constructed:[[/col]]	false
+random_localisation_strings_string_ep_dyn_stats_help_text_description	Placeholder	false
+random_localisation_strings_string_growth_rate	Growth per turn	false
+random_localisation_strings_string_treasury_tooltip_description_expenditure_other	General expenditure this season.	false
+random_localisation_strings_string_unit_hero_duel_won_convincingly	Duel Won Swiftly	false
+random_localisation_strings_string_network_error_incompatible_missing_map	Map not found	false
+random_localisation_strings_string_unit_encouraged_general_nearby	General nearby	false
+random_localisation_strings_string_diplomacy_button_cannot_trade_embargo	There are no trade routes to declare an embargo against.	false
+random_localisation_strings_string_StratHudbutton_Cannot_Enlist_General2	There are no candidates from which to pick a general.	false
+random_localisation_strings_string_3k_main_tutorial_mode_battle_capturescore_title	Capture Score	false
+random_localisation_strings_string_unit_card_lost_general_disbanded	The general has been killed and his unit disbanded.	false
+random_localisation_strings_string_prebattle_banners	Banners	false
+random_localisation_strings_string_unit_concerned_enemy_controls_land	The enemy is in control of the battlefield - you must attack on land!	false
+random_localisation_strings_string_REGION_FOOD_FACTOR_BASE_FOOD	Base Food	false
+random_localisation_strings_string_unit_concerned_general_incapacitated	General incapacitated	false
+random_localisation_strings_string_effects	Effects	false
+random_localisation_strings_string_unit_stat_bonus_morale_superior	Superior morale	false
+random_localisation_strings_string_unit_encouraged_enemy_routing	Enemy routing	false
+random_localisation_strings_string_type	Type	false
+random_localisation_strings_string_ep_dyn_frontend_earth_help_text_description	 {{tr:ep_dyn_EARTH}} heroes are flexible warriors who can deal damage and support allies from afar, but are also capable in melee.	false
+random_localisation_strings_string_3k_main_tutorial_mode_battle_top_bar_title	Unit Commands	false
+random_localisation_strings_string_3k_dlc06_ceo_character_nanman_skills_fire_instinct_butcher_objective	{{tr:dlc06_nanman_skills_unlock_condition}} {{tr:dlc06_nanman_skills_butcher_objective}}	false
+random_localisation_strings_string_wealth_category_2	Rich	false
+random_localisation_strings_string_upkeep_cost	Upkeep Cost	false
+random_localisation_strings_string_mp_ready_error_no_faction	[[col:red]]Player faction set[[/col]]	false
+random_localisation_strings_string_Unit_not_replenishing_03	[[col:red]]- There is no [[img:icon_general]][[/img]]general leading this army.[[/col]]	false
+random_localisation_strings_string_owner_colon	Owner:	false
+random_localisation_strings_string_unit_concerned_under_friendly_fire	Under friendly fire	false
+random_localisation_strings_string_trade_agreement_tooltip_embargoed	Embargo prevents trade agreement	false
+random_localisation_strings_string_time_hours	hours	false
+random_localisation_strings_string_pre-battle_multiplayer_play_as_ai	Play as AI	false
+random_localisation_strings_string_3k_dlc06_ceo_character_nanman_skills_wood_resolve_infantry_chief_objective	{{tr:dlc06_nanman_skills_unlock_condition}} {{tr:dlc06_nanman_skills_infantry_chief_objective}}	false
+random_localisation_strings_string_trade_route_tooltip_neutral	(others)	false
+random_localisation_strings_string_July	text_rejected	false
+random_localisation_strings_string_ep_dyn_character_details_passive_abilities_help_text_description	This section lists the passive abilities that can be unlocked.\\n\\nThe number on the top-right of each icon is the points cost to unlock it. Purchased abilities will be added to the section above. Any abilities unlocked here will be permanently unlocked for the rest of the battle.\\n\\nPassive abilities are effects that automatically trigger when certain conditions are met. Hover over the ability icons for more details.	false
+random_localisation_strings_string_unit_concerned_settlement_destruction	Settlement damage	false
+random_localisation_strings_string_ep_dyn_character_details_current_active_abilities_help_text_description	This section lists the active abilities you have unlocked for this hero.\\n\\nActive abilities are effects that require player input to trigger. Active abilities typically cause great damage to targeted enemies and restore HP to targeted allies. Hover over the ability icons for more details.	false
+random_localisation_strings_string_advice_level_new_to_three_kingdoms	I HAVE PLAYED TOTAL WAR BEFORE	false
+random_localisation_strings_string_character_details_rank_1	Current rank: 1 (maximum 6)||A character's rank shows their overall level of skill, with each star representing one rank level.||New rank levels are achieved by gaining experience. With each new level you will be able to pick additional skills.	false
+random_localisation_strings_string_finance_header_agent_actions	[[img:icon_hero]][[/img]]Hero Actions	false
+random_localisation_strings_string_StratHudbutton_Cannot_Recruit_Unit10	You haven't got the required resource for recruiting this unit.	false
+random_localisation_strings_string_opponent_accepts_surrender_body	The defending force has complied with your demand of surrender!	false
+random_localisation_strings_string_3k_dlc06_ceo_character_nanman_skills_earth_authority_cavalry_chief_objective	{{tr:dlc06_nanman_skills_unlock_condition}} {{tr:dlc06_nanman_skills_cavalry_chief_objective}}	false
+random_localisation_strings_string_level_level_level_level	Level	false
+random_localisation_strings_string_February	text_rejected	false
+random_localisation_strings_string_CAMPAIGN_POLITICS_ACTION_TYPE_ADOPT	Adopt	false
+random_localisation_strings_string_one_minute	1 Minute	false
+random_localisation_strings_string_unit_encouraged_fortification_breach	Position still defensible	false
+random_localisation_strings_string_campaign_type_long	Long Campaign	false
+random_localisation_strings_string_audio_transmit_mode_always	Always on	false
+random_localisation_strings_string_resync_filename	resync	false
+random_localisation_strings_string_blockaded	[[col:red]]Obstructed[[/col]]	false
+random_localisation_strings_string_difficulty_level_4	Very Hard	false
+random_localisation_strings_string_audio_provider_6_1	6.1 discrete	false
+random_localisation_strings_string_finance_tooltip_ransom_battle_captives	Income from ransoming captives.	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_character_rank_title	Character Rank	false
+random_localisation_strings_string_ep_dyn_skills_help_text_title	Placeholder	false
+random_localisation_strings_string_network_message_kicked_by_host	You were kicked by the host.	false
+random_localisation_strings_string_cannot_show_projectile_stats	\\n\\n(Cannot display projectile stats when multiple units are selected with different projectiles.)	false
+random_localisation_strings_string_mp_ready_error_no_commander	[[col:red]]You must add a general before starting the battle.	false
+random_localisation_strings_string_sea_region_control_status_shared	(Shared)	false
+random_localisation_strings_string_finances_vassal_income	Total from vassals	false
+random_localisation_strings_string_3k_dlc05_start_pos_victory_condition_tooltip_text	Victory conditions:\\n\\nStandard: Defeat all other enemies, then become emperor and eliminate all other emperors by taking their seats of power.\\n\\nCo-operative: combine your strength by signing a shared mandate diplomatic deal.\\n\\nHead-to-Head: destroy the other player or compete with one another to be the first to meet the victory conditions.	false
+random_localisation_strings_string_network_error_join_failed_game_not_found	Failed to join game: Game not found	false
+random_localisation_strings_string_action_result_type_failure	Failure	false
+random_localisation_strings_string_StratHudbutton_Cannot_Enlist_General4	Your army is already full, to recruit a general  you must disband one of your units.	false
+random_localisation_strings_string_desolate	Ruins	false
+random_localisation_strings_string_treasury_tooltip_description_events	Income and financial gain from fortunate events.	false
+random_localisation_strings_string_sea_region_control_status_neutral	(Neutral)	false
+random_localisation_strings_string_valid_spell_target_manual_aim	Hold down ALT to manually aim.	false
+random_localisation_strings_string_StratHudbutton_Damaged_Building	Damaged Building||[[col:yellow]]Until repaired, this building's effects are diminished and it cannot be upgraded or downgraded.[[/col]]	false
+random_localisation_strings_string_StratHudbutton_Ruined_Building	Ruined Building||[[col:yellow]]Until repaired, this building is ineffective.[[/col]]	false
+random_localisation_strings_string_3k_dlc06_ceo_character_nanman_skills_metal_expertise_tribal_hero_objective	{{tr:dlc06_nanman_skills_unlock_condition}} {{tr:dlc06_nanman_skills_tribal_hero_objective}}	false
+random_localisation_strings_string_finance_tooltip_trade	Income from trade agreements made with other factions.	false
+random_localisation_strings_string_unit_stat_bonus_charge_superior	Superior charge	false
+random_localisation_strings_string_campaign_autoresolver_tooltip_stance_siege_defensive	Protective Stance||Your units will assume a defensive position, and will attempt to retreat if things get out of control.\\n\\nThis stance is usually more effective when you have missile superiority.\\n\\nExpect lower casualties on both sides.	false
+random_localisation_strings_string_campaign_type_co_op_long	Co-operative Long	false
+random_localisation_strings_string_wealth_category_5	Meagre	false
+random_localisation_strings_string_food_percent	Production %	false
+random_localisation_strings_string_March	text_rejected	false
+random_localisation_strings_string_stat_base_damage	Base damage	false
+random_localisation_strings_string_network_message_not_responding_client	One or more players are not responding; would you like to continue waiting or leave the game?	false
+random_localisation_strings_string_trade_node_tooltip_supply_to_you	supplied to your capital	false
+random_localisation_strings_string_prebattle_popup_defection_03	Some of the enemy's armies have defected and will now join you on the battlefield!	false
+random_localisation_strings_string_building_culture_conversion	Conversion cost due to local culture	false
+random_localisation_strings_string_finance_tooltip_postbattle_loot	Income from winning battles.	false
+random_localisation_strings_string_agent_deployment_effects_warning	[[col:yellow]]When deploying additional [[img:icon_hero]][[/img]]Heroes of the same type, this effect will not increase.[[/col]]	false
+random_localisation_strings_string_April	text_rejected	false
+random_localisation_strings_string_cancel_construction_header	Cancel construction	false
+random_localisation_strings_string_recharge_rate	Recharge: 1 power per %S seconds	false
+random_localisation_strings_string_unit_concerned_friends_routing	Friends routing	false
+random_localisation_strings_string_sea_region_control_status_contested	[[col:red]](Contested)[[/col]]	false
+random_localisation_strings_string_network_message_desynch	A synchronisation error has occurred; the game will now end.	false
+random_localisation_strings_string_agent_cannot_act_settlement_full	PLACEHOLDER	false
+random_localisation_strings_string_battle_time_remaining	Time remaining:	false
+random_localisation_strings_string_FACTION_FOOD_FACTOR_TECHNOLOGIES	Technology	false
+random_localisation_strings_string_win_chance_none	None	false
+random_localisation_strings_string_gfx_aa_mlaa	FXAA	false
+random_localisation_strings_string_all	All	false
+random_localisation_strings_string_player_stats_campaign_land_battles_lost	Campaign land battles lost	false
+random_localisation_strings_string_fatigue_fresh_undead	[[col:green]]Animated[[/col]]	false
+random_localisation_strings_string_stat_explosion_damage_ap	Explosive armour-piercing damage	false
+random_localisation_strings_string_round_id_late_september	Late September	false
+random_localisation_strings_string_ep_dyn_character_details_available_active_help_text_title	Available Active Abilities	false
+random_localisation_strings_string_dlc_menu_button_offline	You must be online to view DLC packs.	false
+random_localisation_strings_string_multiplayer_play_battle	Play Battle	false
+random_localisation_strings_string_network_error_authentication_failed	You are not authorised to play	false
+random_localisation_strings_string_3k_main_tutorial_mode_battle_duelbtn_title	Initiate Duels	false
+random_localisation_strings_string_Unit_not_replenishing_02	[[col:red]]- Recent events[[/col]]	false
+random_localisation_strings_string_ability_requires_enemy_target	Target any enemy	false
+random_localisation_strings_string_resistance_ward_save_tooltip	Damage Resistance: %d%%||Any type of damage is reduced by this amount.	false
+random_localisation_strings_string_unit_encouraged_overwhelming_friendly_units	Superior local force	false
+random_localisation_strings_string_building_insufficent_development_points_number	[[col:red]]You need %n [[img:icon_pop_surplus]][[/img]]population surplus.[[/col]]	false
+random_localisation_strings_string_reinforcement_arrows	Any arrows indicate forces that can reinforce this army in battle.	false
+random_localisation_strings_string_button_cancel_slot_instruction_inactive	You must select an item before using this button.	false
+random_localisation_strings_string_finance_header_raided	Raiding	false
+random_localisation_strings_string_effect_bundle_from_event	Event:	false
+random_localisation_strings_string_3k_main_tutorial_mode_battle_radar_title	Radar Map	false
+random_localisation_strings_string_advice_level_info_text	What is your experience of Total War? This choice impacts the amount and type of advice you receive in-game, and your starting difficulty.	false
+random_localisation_strings_string_Failed	Failed	false
+random_localisation_strings_string_character_role_deceased	Deceased Character	false
+random_localisation_strings_string_pre-battle_multiplayer_spectate	Spectate	false
+random_localisation_strings_string_projectile_range	Projectile Range	false
+random_localisation_strings_string_tile_upgrade_settlement_no_escalation	No escalation	false
+random_localisation_strings_string_ancillary_unlocking_next_turn	[[col:yellow]]Household member/object in transit. It will take effect as of the next turn.[[/col]]	false
+random_localisation_strings_string_network_error_title	Error	false
+random_localisation_strings_string_ability_skirmish	TOGGLE SKIRMISH MODE\\n\\nIn skirmish mode, units will keep a safe distance from the enemy.	false
+random_localisation_strings_string_finance_header_unit_upkeep	Unit Upkeep	false
+random_localisation_strings_string_3k_notifications_options_not_available	You can change these settings during campaign gameplay.	false
+random_localisation_strings_string_FACTION_PROVINCE_FOOD_FACTOR_BUILDINGS_IN_REGIONS	Buildings	false
+random_localisation_strings_string_CARD_STAT_BEST_2V2_SKILL_NAVAL	Best all-time skill rating 2v2 naval	false
+random_localisation_strings_string_MILITARY_FORCE_FOOD_FACTOR_BUILDINGS	Buildings	false
+random_localisation_strings_string_3k_dlc05_tutorial_mode_lu_bu_greatest_warriors_sets_title	Greatest Warriors – Target Set List	false
+random_localisation_strings_string_shot_duration	Reload time	false
+random_localisation_strings_string_prebattle_popup_defection_04	Some of the enemy's armies have defected and will join you on the battlefield, however some of yours have also defected and will now oppose you!	false
+random_localisation_strings_string_treasury_tooltip_description_diplomacy	Instant diplomatic payments from other factions.	false
+random_localisation_strings_string_wall_strength	Wall Strength	false
+random_localisation_strings_string_normal	Normal	false
+random_localisation_strings_string_prebattle_title_ambush	{{tr:prebattle_title_ambush}}	false
+random_localisation_strings_string_gfx_filtering_ani4x	Anisotropic 4x	false
+random_localisation_strings_string_region_specialty_artisans	text_rejected	false
+random_localisation_strings_string_default	Default	false
+random_localisation_strings_string_experience_progress	XP required for next level: %d\\nThis is the unit's progress towards gaining the next XP rank.	false
+random_localisation_strings_string_unit_concerned_fatigue_very_tired_undead	Drained	false
+random_localisation_strings_string_gfx_low	Low	false
+random_localisation_strings_string_save_success	Save succeeded	false
+random_localisation_strings_string_num_breaches	Number of Breaches	false
+random_localisation_strings_string_unit_stat_bonus_accuracy_superior	Superior accuracy	false
+random_localisation_strings_string_3k_dlc05_tutorial_mode_sun_ce_legacy_of_wu_items_description	On this panel you can read what you need to do, in order to gain ambitions.\\n\\nBy double-clicking on the target or clicking on the magnifying glass, you will be taken to the target location.	false
+random_localisation_strings_string_error_chat_room_failed	Chat Error||Failed to create chat room.	false
+random_localisation_strings_string_ep_dyn_character_details_passive_abilities_help_text_title	Available Passive Abilities	false
+random_localisation_strings_string_3k_dlc05_tutorial_mode_sun_ce_legacy_of_wu_sets_title	Legacy Of Wu – Ambition Set List	false
+random_localisation_strings_string_corruption_details_description	{{tr:corruption_tooltip}}	false
+random_localisation_strings_string_StratHudbutton_cannot_disembark_here	Cannot disembark||You cannot disembark here, the land is inaccessible.	false
+random_localisation_strings_string_Married	text_rejected	false
+random_localisation_strings_string_button_quit_replay	EXIT REPLAY	false
+random_localisation_strings_string_dlc_purchase_title	DLC acquired	false
+random_localisation_strings_string_unit_concerned_fatigue_tired_undead	Diminished	false
+random_localisation_strings_string_network_error_join_failed_invalid_game_code	Failed to join game: Invalid game code	false
+random_localisation_strings_string_StratHudButton_Cannot_Demolish0	[[col:red]]You cannot afford to demolish this building.[[/col]]	false
+random_localisation_strings_string_CAMPAIGN_POLITICS_ACTION_TYPE_ASSASSINATE_WIFE	Assassinate Wife	false
+random_localisation_strings_string_network_message_waiting_for_response	Waiting for a response from a network player.	false
+random_localisation_strings_string_farm	Farm	false
+random_localisation_strings_string_treasury_tooltip_description_expenditure_recruitment	Finances spent on recruitment this season.	false
+random_localisation_strings_string_gfx_postmode_romance	Romance	false
+random_localisation_strings_string_repair_cost	Repair cost: {{tr:icon_money}}	false
+random_localisation_strings_string_round_id_november	November	false
+random_localisation_strings_string_power_category_2	Mighty	false
+random_localisation_strings_string_siege_turns_to_surrender	\\nTurns remaining before surrender:	false
+random_localisation_strings_string_unit_concerned_general_recently_died	General recently died	false
+random_localisation_strings_string_Construction_site	Construction Site	false
+random_localisation_strings_string_fe_recruitment_card_tooltip_land	Left-click to select.\\nRight-click for information.\\nDouble left-click or drag to force to add.	false
+random_localisation_strings_string_overwrite_msg	You are attempting to save over an existing file, overwrite it?	false
+random_localisation_strings_string_attrition_heat_immune	Units in your army are immune from desert attrition.	false
+random_localisation_strings_string_reduced_unit_limit_msg	The host has reduced the maximum unit setting causing some to be removed from your setup.	false
+random_localisation_strings_string_audio_provider_directsound_3d_hardware	DirectSound 3D hardware	false
+random_localisation_strings_string_military_force_legacy_name_transport_fleet	Transport Fleet	false
+random_localisation_strings_string_trade_route_tooltip_enemy	(enemy)	false
+random_localisation_strings_string_ability_left_click_enable_targetting	Left-click to enable targeting	false
+random_localisation_strings_string_settlement_strength	Settlement Strength	false
+random_localisation_strings_string_Recruit_Travel_Turns	Recruitment turns||The left-hand number shows the number of turns needed to recruit this unit.||The right-hand number shows the number of turns this unit takes to reach its recruiting general.||Generals can recruit units in the field. Recruited units are transported directly to his location.	false
+random_localisation_strings_string_opponent_demands_surrender_body	The attacking force demands that you surrender!	false
+random_localisation_strings_string_gfx_aa_4x4	4x	false
+random_localisation_strings_string_tooltip_dlc	Expand your Total War: Three Kingdoms experience with: %S\\n\\nLeft-click to go to Steam page.	false
+random_localisation_strings_string_land_combatant_even	combat even	false
+random_localisation_strings_string_round_id_august	August	false
+random_localisation_strings_string_player_stats_ranked_land_battles_won	Ranked land battles won	false
+random_localisation_strings_string_FACTION_PROVINCE_FOOD_FACTOR_EDICTS	Edicts	false
+random_localisation_strings_string_bribe_nonhostile_description	You are attempting to manipulate a non-hostile agent into joining your faction. This is an act of war.\\nHow will you proceed?	false
+random_localisation_strings_string_fatigue_fresh	Fresh	false
+random_localisation_strings_string_Unit_not_replenishing_07	[[col:red]]- This army is in foreign territory.[[/col]]	false
+random_localisation_strings_string_trade_route_tooltip_local_enemy	(yours shared with enemy)	false
+random_localisation_strings_string_win_chance_moderate	Moderate	false
+random_localisation_strings_string_exporting	Exporting:	false
+random_localisation_strings_string_ep_dyn_frontend_character_select_help_text_title	Hero Selection	false
+random_localisation_strings_string_reliability	Trustworthiness	false
+random_localisation_strings_string_campaign_type_co_op_short	Co-operative Short	false
+random_localisation_strings_string_stat_bonus_elephant	Bonus vs elephant	false
+random_localisation_strings_string_round_id_early_june	Early June	false
+random_localisation_strings_string_auto_save_filename_legendary	Auto-save (Legendary)	false
+random_localisation_strings_string_3k_dlc06_ceo_character_nanman_skills_earth_authority_hit_and_run_objective	{{tr:dlc06_nanman_skills_unlock_condition}} {{tr:dlc06_nanman_skills_hit_and_run_objective}}	false
+random_localisation_strings_string_StratHud_Building_Card_Recruit_Queued	Left-click to remove a building from the queue, right-click for further information.	false
+random_localisation_strings_string_duel_invalid_reason_ai_will_reject	Doesn't want to duel	false
+random_localisation_strings_string_round_id_october	October	false
+random_localisation_strings_string_finance_tooltip_tribute	Expenses on tributes paid to other factions.	false
+random_localisation_strings_string_unit_upgrade_insufficient_funds	You do not have enough funds in your treasury to upgrade this unit.	false
+random_localisation_strings_string_unit_concerned_night_battle_unprepared	Unprepared for night battle	false
+random_localisation_strings_string_player_stats_total_mp_land_battles_won	Total multiplayer land battles won	false
+random_localisation_strings_string_diplomacy_panel_hostage_given	Their hostage given:	false
+random_localisation_strings_string_occupied_building	Occupied building	false
+random_localisation_strings_string_state_religion_change_inactive_not_enough_support	Cannot change religion, not enough support	false
+random_localisation_strings_string_treasury_tooltip_description_expenditure_diplomacy	Instant payments to other factions in diplomacy.	false
+random_localisation_strings_string_will_win_at_end	You will win if the time runs out	false
+random_localisation_strings_string_morale_confident	Confident	false
+random_localisation_strings_string_finance_header_building_upkeep	Building upkeep	false
+random_localisation_strings_string_ability_dismount	Toggle Mount||Mounted units must dismount to completely capture victory points.	false
+random_localisation_strings_string_unit_generic_left_click	Left-click to select	false
+random_localisation_strings_string_network_error_host_disconnected	The host has left the game	false
+random_localisation_strings_string_finance_header_abandoning_region	Abandoning Region	false
+random_localisation_strings_string_mp_ready_error_no_map_selected	[[col:red]]No map has been selected[[/col]]	false
+random_localisation_strings_string_StratHudbutton_demolish	Demolish building	false
+random_localisation_strings_string_building_insufficent_development_points	You don’t have enough [[img:icon_pop_surplus]][[/img]]population surplus.||Upgrade your settlements to increase your [[img:icon_growth]][[/img]]growth rate.	false
+random_localisation_strings_string_character_role_wife	Wife	false
+random_localisation_strings_string_character_type_title_brother	Brother	false
+random_localisation_strings_string_damage	Damage	false
+random_localisation_strings_string_power_category_6	Feeble	false
+random_localisation_strings_string_unit_card_lost_hero_disbanded	text_rejected	false
+random_localisation_strings_string_treasury_tooltip_description_construction	Income from downgrading and demolishing buildings.	false
+random_localisation_strings_string_total_numeric	Total	false
+random_localisation_strings_string_action_result_type_success	Success	false
+random_localisation_strings_string_finance_header_liege_lord	Master	false
+random_localisation_strings_string_player_stats_mp_consecutive_land	Number of consecutive land battles won	false
+random_localisation_strings_string_finance_details_header_other	other	false
+random_localisation_strings_string_unit_concerned_outnumbered	Forces outnumbered by the enemy	false
+random_localisation_strings_string_StratHudbutton_Cannot_Build0	[[col:red]]Cannot build[[/col]]	false
+random_localisation_strings_string_unit_stat_bonus_armour_superior	Superior armour	false
+random_localisation_strings_string_stat_explosion_damage	Explosive base damage	false
+random_localisation_strings_string_burst	Shots per volley	false
+random_localisation_strings_string_ability_change_formation_spacing	Loose Spacing||Loose spacing minimises casualties when under heavy fire, but makes the unit more vulnerable in melee and to charges. 	false
+random_localisation_strings_string_ep_tutorial_mode_storybook_current_alignment_description	ph	false
+random_localisation_strings_string_stat_shield	Shield value	false
+random_localisation_strings_string_character_type_title_sonandheir	Son & Heir	false
+random_localisation_strings_string_ep_dyn_character_details_available_heal_help_text_title	Available Healing Abilities	false
+random_localisation_strings_string_unit_concerned_fatigue_exhausted	Exhaustion	false
+random_localisation_strings_string_network_message_player_left_end	has left the game; the game will now end.	false
+random_localisation_strings_string_morale_wavering	Wavering	false
+random_localisation_strings_string_no_repairs_required	No repairs required	false
+random_localisation_strings_string_trade_status_tooltip_cannot_at_war	[[col:red]]Cannot trade\\nYou are at war with this faction.[[/col]]	false
+random_localisation_strings_string_fatigue_active	Active	false
+random_localisation_strings_string_resistance_magic_tooltip	Magic Resistance: %d%%||Damage of [[img:ui/skins/default/modifier_icon_magical.png]][[/img]]magical attacks is reduced by this amount.	false
+random_localisation_strings_string_trade_route	Trade route	false
+random_localisation_strings_string_audio_provider_windows_default	Windows default	false
+random_localisation_strings_string_resource_importing_from	Importing from:	false
+random_localisation_strings_string_click_to_show_on_map	Click to show on map	false
+random_localisation_strings_string_confirm_delete_msg	This will delete all selected files. Continue?	false
+random_localisation_strings_string_cooldown	Cooldown	false
+random_localisation_strings_string_cancel	Cancel	false
+random_localisation_strings_string_stat_bonus_cavalry	Bonus vs cavalry	false
+random_localisation_strings_string_quit_warning	If you quit now you will lose all unsaved progress	false
+random_localisation_strings_string_character_role_candidate	Candidate	false
+random_localisation_strings_string_3k_main_tutorial_mode_fe_character_groups_title	Characters	false
+random_localisation_strings_string_multiplayer_blocked	Your "Multiplayer" privilege is set to Blocked.	false
+random_localisation_strings_string_event_log_battle_draw	Draw	false
+random_localisation_strings_string_prebattle_banners_wh_main_chs_chaos	Marks of Chaos & Banners	false
+random_localisation_strings_string_3k_dlc06_ceo_character_nanman_skills_wood_resolve_marshal_objective	{{tr:dlc06_nanman_skills_unlock_condition}} {{tr:dlc06_nanman_skills_marshal_objective}}	false
+random_localisation_strings_string_hard	[[col:red]]Demanding[[/col]]	false
+random_localisation_strings_string_pre-battle_multiplayer_undecided	Undecided	false
+random_localisation_strings_string_cast_range	[[img:ui/skins/default/icon_distance_to_target.png]][[/img]]	false
+random_localisation_strings_string_prebattle_description_tunnel_intercept	{{tr:prebattle_description_tunnel_intercept}}	false
+random_localisation_strings_string_duel_effect_disengage_title	DISENGAGE FROM DUEL	false
+random_localisation_strings_string_round_id_early_april	Early April	false
+random_localisation_strings_string_StratHud_Unit_Card_Recruit_Selection	Left-click to recruit this unit, right-click for further information.	false
+random_localisation_strings_string_ep_dyn_character_details_current_passive_help_text_title	Unlocked Passive Abilities	false
+random_localisation_strings_string_attrition_heat	This is an area of ATTRITION. Armies will suffer losses here due to the extreme heat.	false
+random_localisation_strings_string_ability_phase_mask_unbreakable	[[col:green]]Unbreakable[[/col]]	false
+random_localisation_strings_string_FACTION_PROVINCE_FOOD_FACTOR_HORDES	Hordes	false
+random_localisation_strings_string_MILITARY_FORCE_FOOD_FACTOR_EVENTS	Events	false
+random_localisation_strings_string_StratHud_Unit_Card_Recruit_Queued	Left-click to remove unit from queue, right-click for further information.	false
+random_localisation_strings_string_cannot_dismantle_ruin	[[col:red]]This building cannot be demolished.[[/col]]	false
+random_localisation_strings_string_Single	Single	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_powerbar_description	This bar details the current balance of power between teams – the bar will shift left and right depending on which team is more powerful. The better the balance, the more enjoyable the battle is likely to be! 	false
+random_localisation_strings_string_trade_agreement_tooltip_no_sea_routes	[[col:red]]The ports in their capital are at full capacity.||A sea route from their capital cannot be established.[[/col]]	false
+random_localisation_strings_string_power_category_4	Moderate	false
+random_localisation_strings_string_warning_ancillary_swap	This item or follower is currently assigned to %S. Are you sure want to remove and reassign it to this character?	false
+random_localisation_strings_string_round_id_early_march	Early March	false
+random_localisation_strings_string_battle_difficulty1	Normal	false
+random_localisation_strings_string_campaing_public_order_tooltip_header	{{tr:public_order}} Details	false
+random_localisation_strings_string_duel_effect_interrupt_title	INTERRUPT DUEL	false
+random_localisation_strings_string_StratHudbutton_cannot_repair_nocash	Cannot repair||You have insufficient funds.||Disband an unused unit or increase taxes to raise funds. 	false
+random_localisation_strings_string_ability_blocked	Blocked	false
+random_localisation_strings_string_ability_release_animals	RELEASE ANIMALS\\n\\nUnleash the beasts of war! The animals can only be released when you are close enough to the enemy, and will attack the closest unit to them.	false
+random_localisation_strings_string_unit_encouraged_rallied_by_unit_ability	Rallied by ability	false
+random_localisation_strings_string_campaign_autoresolver_tooltip_stance_naval_aggressive	Aggressive Stance||Your units will try to rush the enemy. This stance is usually more effective when the enemy has missile superiority.\\n\\nRetreat will be more difficult for both sides.\\n\\nExpect higher casualties.	false
+random_localisation_strings_string_character_role_general	[[img:icon_general]][[/img]]General	false
+random_localisation_strings_string_ep_dyn_abilities_help_text_discription	Placeholder	false
+random_localisation_strings_string_skill_next_level	Next level:	false
+random_localisation_strings_string_modifier_icon_tooltip_bonus_vs_infantry	Bonus vs. Infantry||This unit inflicts additional damage when fighting enemies that are man-sized or smaller.	false
+random_localisation_strings_string_destroy_transported_title	Disbanding	false
+random_localisation_strings_string_demo_battle_unavailable	This option is limited to key battles in the demo. You must auto-resolve this battle.	false
+random_localisation_strings_string_Unit_not_replenishing_10	[[col:red]]- Enemy army in region is blocking replenishment.[[/col]]	false
+random_localisation_strings_string_campaign_intro_warning	This Lord's campaign does not feature an opening battle, are you sure you want to continue?\\n\\nSelect a Lord with a campaign introduction to learn the basics of Total War: WARHAMMER.	false
+random_localisation_strings_string_tooltip_raise_lord_convalescence_cause_hunted_down	PLACEHOLDER	false
+random_localisation_strings_string_Children	Children:	false
+random_localisation_strings_string_cannot_build_insufficient_funds	[[col:red]]You have insufficient funds to order this construction.[[/col]]	false
+random_localisation_strings_string_round_id_late_february	Late February	false
+random_localisation_strings_string_audio_quality_changed	Audio quality changed	false
+random_localisation_strings_string_prestige_category_3	Respected	false
+random_localisation_strings_string_resource_not_acquired	[[col:red]]This resource is not yet acquired.[[/col]]	false
+random_localisation_strings_string_undercover_character_upkeep	Undercover Character Upkeep	false
+random_localisation_strings_string_unit_stat_bonus_armour_exceptional	Exceptional armour	false
+random_localisation_strings_string_agent_recruitment_no_settlment_selected	No settlement selected in which to recruit an agent.	false
+random_localisation_strings_string_player_stats_generals_lost	Generals lost	false
+random_localisation_strings_string_wealth_category_1	Spectacular	false
+random_localisation_strings_string_none	Minimal	false
+random_localisation_strings_string_trade_route_tooltip_other_factions	Others	false
+random_localisation_strings_string_finance_tooltip_unit_upkeep	Expenses on maintaining units.	false
+random_localisation_strings_string_wealth	Wealth	false
+random_localisation_strings_string_CAMPAIGN_POLITICS_ACTION_TYPE_DIVORCE	Divorce	false
+random_localisation_strings_string_unaffordable	Unaffordable	false
+random_localisation_strings_string_attrition_sea	Ships that move here will suffer attrition	false
+random_localisation_strings_string_FACTION_FOOD_FACTOR_FERTILITY	Fertility	false
+random_localisation_strings_string_round_id_late_october	Late October	false
+random_localisation_strings_string_ep_dyn_frontend_water_help_text_title	 {{tr:ep_dyn_WATER}} - Ranged Support	false
+random_localisation_strings_string_ep_dyn_skills_help_text_description	Placeholder	false
+random_localisation_strings_string_stance_food_consumption	Food consumption from region: %n	false
+random_localisation_strings_string_pre-battle_multiplayer_play_battle	Play Battle	false
+random_localisation_strings_string_finance_header_director	Director	false
+random_localisation_strings_string_building_under_construction_damaged	This unfinished building is damaged and all construction on it has halted. Select it and click the repair button to fix it and continue the construction.	false
+random_localisation_strings_string_Cancelled	Cancelled	false
+random_localisation_strings_string_finance_tooltip_looting	Income from plundering settlements.	false
+random_localisation_strings_string_battle_difficulty3	Very Hard	false
+random_localisation_strings_string_weather_tooltips_rain	Rain||Archers may not use flaming arrows. It is more difficult to set fire to buildings and ships, and units take longer to recover from fatigue when idle.	false
+random_localisation_strings_string_gfx_filtering_ani8x	Anisotropic 8x	false
+random_localisation_strings_string_skills_num_points	points in	false
+random_localisation_strings_string_unit_stat_bonus_armour_improved	Improved armour	false
+random_localisation_strings_string_character_role_son	Son	false
+random_localisation_strings_string_save_old_version	This save is from a different version of the game. Loading it may result in crashes, bugs and possible corruption of your save.	false
+random_localisation_strings_string_zdummy_undercover_character_target_faction_request_administrator_position_title	Request Position: Administrator	false
+random_localisation_strings_string_wealth_category_3	Affluent	false
+random_localisation_strings_string_zdummy_undercover_character_target_faction_request_general_position_additional_action_cancel	Best to bow out gracefully and wait for another opportunity.	false
+random_localisation_strings_string_fortification	Fortification	false
+random_localisation_strings_string_custom_battle_unit_tooltip_remove	\\nDouble left-click to remove unit	false
+random_localisation_strings_string_region_specialty_naval_tradition	text_rejected	false
+random_localisation_strings_string_campaign_difficulty_description_4	Manual saves not allowed in campaign. Orders cannot be issued when a battle is paused.	false
+random_localisation_strings_string_network_error_join_failed_rejected	Failed to join game: Rejected by host	false
+random_localisation_strings_string_treasury_tooltip_description_expenditure_construction	Expenditure on building construction this season.	false
+random_localisation_strings_string_modifier_icon_tooltip_flaming	Flaming Attacks||This unit inflicts flaming attacks which can do additional damage against units that are vulnerable to fire.	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_army_enemy_control_title	Army Control Panel	false
+random_localisation_strings_string_FACTION_FOOD_FACTOR_EDICTS	Edicts	false
+random_localisation_strings_string_mp_ready_error_ffa_needs_4_teams	[[col:red]]Free for all requires 4 teams[[/col]]	false
+random_localisation_strings_string_campaign_autoresolver_tooltip_stance_naval_balanced	Balanced Stance||When using the balanced battle stance, units will receive no bonuses or penalties.	false
+random_localisation_strings_string_every_x_seconds	(Every %d second)	false
+random_localisation_strings_string_trade_agreement_tooltip_no_borders	[[col:red]]The ports in your home province are at full capacity.||A sea route from your capital cannot be established.[[/col]]	false
+random_localisation_strings_string_declare_war_ally_not_requested_help	This ally has not requested your assistance in this war.	false
+random_localisation_strings_string_character_type_title_son	Son	false
+random_localisation_strings_string_region_specialty_smithing	text_rejected	false
+random_localisation_strings_string_trade_node_tooltip_base_supply	supplies to be gained from first trade ship	false
+random_localisation_strings_string_ability_left_click_cancel_targetting	Left-click to cancel targeting	false
+random_localisation_strings_string_ep_dyn_frontend_unit_size_help_text_description	This setting allows you to scale the size of the enemy units, as well as the health of heroes (both player and enemy heroes). Push this setting higher to create truly epic battles!\\n\\n{{tr:ep_dyn_performance_alert}}Larger unit sizes may affect performance.	false
+random_localisation_strings_string_action_result_type_opportune_failure	Opportune Failure	false
+random_localisation_strings_string_unit_concerned_fighting_cavalry	Fighting cavalry	false
+random_localisation_strings_string_player_stats_enemy_units_wiped_out	Most enemy units wiped out	false
+random_localisation_strings_string_fatigue_exhausted_undead	Debilitated	false
+random_localisation_strings_string_duel_effect_runaway_title	RETREAT FROM DUEL	false
+random_localisation_strings_string_finance_header_disaster	Disaster	false
+random_localisation_strings_string_round_id_late_january	Late January	false
+random_localisation_strings_string_network_message_if_not_wait_game_ends	If you choose not to wait, the game will end for everyone	false
+random_localisation_strings_string_player_stat_battles_started	Battles started	false
+random_localisation_strings_string_chat_prefix_team	[to team]	false
+random_localisation_strings_string_3k_main_tutorial_mode_fe_faction_info_description	From here you can see a breakdown of all the relevant information pertaining to your selected faction, including their playstyle and starting difficulty. Each faction's unique mechanic and resource is also broken down here, detailing how it works and how it may be best used in the campaign. \\n\\n Any unique units, buildings, reforms and characters of note are also detailed here. \\n\\n By selecting the Character tab, you can also learn more information about each faction's starting historical situation. \\n\\n There are noteworthy changes between each faction's starting year.	false
+random_localisation_strings_string_skill_current_level	Current level:	false
+random_localisation_strings_string_recruitment_cost	Recruitment Cost	false
+random_localisation_strings_string_finance_header_expenses	Expenses	false
+random_localisation_strings_string_enemy_mana	Enemy Winds of Magic recharge	false
+random_localisation_strings_string_StratHudbutton_cannot_enlist_full	Cannot enlist a general||You already have a full quota of generals.	false
+random_localisation_strings_string_settlement_spy_info_no_info	No spy information available	false
+random_localisation_strings_string_finance_header_mines	Mines	false
+random_localisation_strings_string_gate_with_oil	(with oil)	false
+random_localisation_strings_string_Unit_replenishment_complete_in	Turns until this unit is fully replenished: 	false
+random_localisation_strings_string_ep_dyn_frontend_earth_help_text_title	 {{tr:ep_dyn_EARTH}} - All Rounder	false
+random_localisation_strings_string_round_id_march	March	false
+random_localisation_strings_string_finance_header_looting	Looting	false
+random_localisation_strings_string_character_details_rank_3	Current rank: 3 (maximum 6)||A character's rank shows their overall level of skill, with each star representing one rank level.||New rank levels are achieved by gaining experience. With each new level you will be able to pick additional skills.	false
+random_localisation_strings_string_region_capital	Settlement	false
+random_localisation_strings_string_round_id_may	May	false
+random_localisation_strings_string_button_quit_skip	SKIP BATTLE	false
+random_localisation_strings_string_campaign_type_one_vs_one	Head to Head	false
+random_localisation_strings_string_audio_provider_dolby_surround	Dolby surround	false
+random_localisation_strings_string_round_id_early_october	Early October	false
+random_localisation_strings_string_cancel_demolish_building_once_settled	[[col:yellow]]This horde needs to be placed into the [[img:icon_encamp_stance]][[/img]]Encamp stance in order to finish demolishing this building. Left-click to cancel the order.[[/col]]	false
+random_localisation_strings_string_fe_unit_card_tooltip_minimal_land	Left-click to select. \\nRight-click for information.||Cards can be dragged to a new location to re-order them within the army.	false
+random_localisation_strings_string_gfx_filtering_ani16x	Anisotropic 16x	false
+random_localisation_strings_string_tile_upgrade_settlement_level4	Level 04	false
+random_localisation_strings_string_warning_players_without_dlc	You are about to select map containing DLC content that some players in the lobby do not own. This will result in them being kicked. Do you wish to proceed?	false
+random_localisation_strings_string_finances_other_income	Income from other sources.	false
+random_localisation_strings_string_CARD_STAT_BEST_3V3_LADDER_PLACEMENT_NAVAL	Best ladder placement 3v3 naval	false
+random_localisation_strings_string_character_role_politician	[[img:icon_protagonist]][[/img]]Protagonist	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_characters_title	Generals	false
+random_localisation_strings_string_attacker_direction_north	North	false
+random_localisation_strings_string_finances_vassal_income_breakdown_faction	%S	false
+random_localisation_strings_string_unit_concerned_losing	Losing currently	false
+random_localisation_strings_string_gfx_aa_8x8	8x	false
+random_localisation_strings_string_around_self	Around self	false
+random_localisation_strings_string_finance_header_technologies	Technologies	false
+random_localisation_strings_string_constant	Permanent	false
+random_localisation_strings_string_event_log_battle_defeat_heroic_crushing	Crushing Defeat	false
+random_localisation_strings_string_resource_tariffs	Tariffs: {{tr:icon_income}} %n||Tariffs are taxes imposed on foreign merchants that visit your realm to trade. These are not affected by tradable resources and provide a base income from every trade agreement you have.	false
+random_localisation_strings_string_game_aborted	Game aborted	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_army_title	Army Panel	false
+random_localisation_strings_string_quick_save	Quick-save	false
+random_localisation_strings_string_agent_recruitment_insufficient_dev_points	[[col:red]]You do not have enough population surplus here to raise a new host.[[/col]]	false
+random_localisation_strings_string_CapturePoint	Capture Point Battle	false
+random_localisation_strings_string_round_id_april	April	false
+random_localisation_strings_string_raided	Raided	false
+random_localisation_strings_string_3k_dlc06_ceo_character_nanman_skills_water_cunning_stalker_objective	{{tr:dlc06_nanman_skills_unlock_condition}} {{tr:dlc06_nanman_skills_stalker_objective}}	false
+random_localisation_strings_string_StratHudbutton_Cannot_Recruit_Unit5	The recruitment building for this unit is damaged and must be repaired first.	false
+random_localisation_strings_string_mp_ready_error_overspend	[[col:red]]Unable to declare readiness as a player has spent too much on their army setup.[[/col]]	false
+random_localisation_strings_string_unit_encouraged_general_rallying_nearby	General rallying nearby	false
+random_localisation_strings_string_mouse_over	Mouse-over	false
+random_localisation_strings_string_audio_provider_stereo_headphones	Stereo headphones	false
+random_localisation_strings_string_unit_concerned_enemy_numbers	Faster and stronger enemies nearby	false
+random_localisation_strings_string_unit_encouraged_charging	Charging	false
+random_localisation_strings_string_error_chat_room_connection_failure	Chat Error||Failed to connect to chat room.	false
+random_localisation_strings_string_agent_cannot_act_force_full	[[col:red]]Cannot embed [[img:icon_hero]][[/img]]Hero. This force already has the maximum number of units within it.[[/col]]	false
+random_localisation_strings_string_tooltip_vehicle_health	Vehicle Health	false
+random_localisation_strings_string_unit_concerned_general_dead	General dead	false
+random_localisation_strings_string_event_log_battle_victory_heroic_crushing	Heroic Victory	false
+random_localisation_strings_string_ep_dyn_frontend_water_help_text_description	 {{tr:ep_dyn_WATER}} heroes tend to be more fragile than others, but excel at ranged warfare. They possess numerous skills that can heal or support their allies, or weaken the enemy.	false
+random_localisation_strings_string_finance_header_income	Income	false
+random_localisation_strings_string_player_stats_best_3v3_placement	Best ladder placement 3v3 land	false
+random_localisation_strings_string_tax_level_2	Normal	false
+random_localisation_strings_string_gfx_on	On	false
+random_localisation_strings_string_abandon_tooltip	Click to abandon this settlement on the next turn. This will generate %d income.	false
+random_localisation_strings_string_units_upgrade_no_upgrade_available	There are no upgrades for this unit available.	false
+random_localisation_strings_string_character_details_panel_max	Maximum	false
+random_localisation_strings_string_trade_route_state_shared	(Shared)	false
+random_localisation_strings_string_network_error_join_failed_game_full	Failed to join game: Game full	false
+random_localisation_strings_string_battle_time_limit	%d Minutes	false
+random_localisation_strings_string_fe_unit_card_tooltip_no_dupe_land	Left-click to select. \\nDouble left-click to remove.||Cards can be dragged to a new location to re-order them within the army.	false
+random_localisation_strings_string_finance_header_commerce_raiding	Raiding	false
+random_localisation_strings_string_unit_generic_right_click	Right-click for further information	false
+random_localisation_strings_string_finance_header_difficulty_setting	Difficulty Setting	false
+random_localisation_strings_string_zdummy_undercover_character_target_faction_request_minister_position_title	Request Position: Minister	false
+random_localisation_strings_string_save_old_version_loading_warning	The save you are trying to load is from a different version of the game. Loading this may result in crashes, bugs and possible corruption of your save. Are you sure you want to continue?	false
+random_localisation_strings_string_stat_ap_damage	Armour-piercing damage	false
+random_localisation_strings_string_ep_dyn_heroes_help_text_title	Hero Selection	false
+random_localisation_strings_string_prev_game	Previous Game	false
+random_localisation_strings_string_October	text_rejected	false
+random_localisation_strings_string_campaign_autoresolver_tooltip_stance_land_aggressive	Aggressive Stance||Your units will try to rush the enemy. This stance is usually more effective when the enemy has missile superiority.\\n\\nRetreat will be more difficult for both sides.\\n\\nExpect higher casualties.	false
+random_localisation_strings_string_cancel_construction_confirmation	This building is being constructed, are you sure you wish to demolish it?	false
+random_localisation_strings_string_ep_dyn_frontend_metal_help_text_description	 {{tr:ep_dyn_METAL}} heroes are exceptional duellists, capable of evading powerful attacks entirely and causing great damage to enemy heroes at both close and long range.	false
+random_localisation_strings_string_quit_negotiation_for_quick_deal	You must end your current negotiation to make quick deals.	false
+random_localisation_strings_string_ability_naval_fire_at_will	Toggle Fire On/Off||When toggled off, the selected ship will stop firing and be unable to fire until toggled on again.	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_units_description	From here, you can select units for each retinue in your armies. Each unit has a cost, and the higher your general’s rank, the more units will be available.	false
+random_localisation_strings_string_finance_tooltip_other	Income from other sources.	false
+random_localisation_strings_string_ping_defend	Defend here!	false
+random_localisation_strings_string_tax_level_1	Low	false
+random_localisation_strings_string_gfx_aa_taa_high	TAA High	false
+random_localisation_strings_string_gfx_filtering_ani2x	Anisotropic 2x	false
+random_localisation_strings_string_player_stats_best_1v1_placement	Best ladder placement 1v1 land	false
+random_localisation_strings_string_demo_save_disabled	Saving is temporarily disabled.||The game will auto-save throughout the campaign.	false
+random_localisation_strings_string_producing	Producing	false
+random_localisation_strings_string_unit_concerned_fatigue_exhausted_undead	Debilitated	false
+random_localisation_strings_string_FACTION_PROVINCE_FOOD_FACTOR_EVENTS	Commandery Events	false
+random_localisation_strings_string_unit_concerned_rear_attacked	Attacked in the rear	false
+random_localisation_strings_string_modifier_icon_tooltip_shield	Shielded||This unit has a shield and will block %d%% of all small-arms missile fire hitting it from the front.	false
+random_localisation_strings_string_character_role_daughter	Daughter	false
+random_localisation_strings_string_cannot_recruit_queue_full	Your recruitment queue is full, remove other items in order to queue this unit.	false
+random_localisation_strings_string_mp_ready_error_ai_invalid_army_index	[[col:red]]An AI player has been assigned an army that is already taken. Please assign it another before declaring readiness.[[/col]]	false
+random_localisation_strings_string_you	You	false
+random_localisation_strings_string_finance_header_quest_battle_teleport	Quest battle teleport	false
+random_localisation_strings_string_mp_ready_error_no_siege_units	[[col:red]]You must select some infantry or artillery units capable of assaulting fortifications.[[/col]]	false
+random_localisation_strings_string_resource_exporting_percentage_not_full	Increasing trade routes will increase the percentage of this resource you can export.	false
+random_localisation_strings_string_siege_turns_to_attrition	Turns remaining before garrison will run out of supplies:	false
+random_localisation_strings_string_unit_card_lost_men_captured	This unit has been captured by the enemy.	false
+random_localisation_strings_string_3k_main_tutorial_mode_fe_map_title	Map	false
+random_localisation_strings_string_finance_header_actions	Actions	false
+random_localisation_strings_string_move_options_multiplayer_cannot_declare_war	You cannot declare war against your multiplayer co-op partner.	false
+random_localisation_strings_string_prebattle_title_tunnel_intercept	{{tr:prebattle_title_tunnel_intercept}}	false
+random_localisation_strings_string_mp_ready_error_no_ai_faction	[[col:red]]AI faction not set[[/col]]	false
+random_localisation_strings_string_wealth_category_4	Moderate	false
+random_localisation_strings_string_ep_tutorial_mode_storybook_event_list_title	ph	false
+random_localisation_strings_string_unit_stat_bonus_melee_improved	Improved melee	false
+random_localisation_strings_string_win_chance_low	Low	false
+random_localisation_strings_string_player_stats_friendly_units_rallied	Most friendly units rallied	false
+random_localisation_strings_string_campaign_autoresolver_tooltip_stance_defensive	Protective Stance||Your units will assume a defensive position, and will attempt to retreat if things get out of control.\\n\\nThis stance is usually more effective when you have missile superiority.\\n\\nExpect lower casualties on both sides.	false
+random_localisation_strings_string_vo_language_changed	Voice-over language changed	false
+random_localisation_strings_string_player_stat_battles_finished	Battles finished	false
+random_localisation_strings_string_StratHudbutton_Cannot_Recruit_Unit4	You cannot recruit a unit here while you are under siege	false
+random_localisation_strings_string_famous_battle_battle_of	Battle of	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_army_enemy_description	This is the current composition of the army. It can be added to, removed from or ranked up as funds allow. Select a retinue, then double-click on a general in the Generals panel to add that general to the retinue.	false
+random_localisation_strings_string_network_error_join_failed_missing_save_game	Failed to join game: Failed to find required save game.	false
+random_localisation_strings_string_Unit_replenishing_in_friendly_territory	Replenishment is improved because you are in friendly territory.	false
+random_localisation_strings_string_unit_concerned_flank_attacked	Attacked in flank	false
+random_localisation_strings_string_skill_locked_rank_quest	\\n\\n[[col:red]]This quest will automatically begin at rank %d.[[/col]]	false
+random_localisation_strings_string_StratHudbutton_Cannot_Recruit_Unit7	You have already recruited the maximum number of this unit.	false
+random_localisation_strings_string_Empty_building	Construction slot||You can construct new buildings here.	false
+random_localisation_strings_string_round_id_late_march	Late March	false
+random_localisation_strings_string_round_id_early_november	Early November	false
+random_localisation_strings_string_StratHudbutton_cannot_navy_repair_nocash	Cannot repair||You have insufficient funds.||Disband an unused unit or increase taxes to raise funds. 	false
+random_localisation_strings_string_tooltip_raise_lord_convalescence_cause_assasination	[[col:red]]This character was recently wounded in an assassination attempt. They will be available for recruitment in %d turns.[[/col]]	false
+random_localisation_strings_string_season_spring	Spring	false
+random_localisation_strings_string_ability_tooltip_cannot_target_alt	Target if	false
+random_localisation_strings_string_player_stats_best_1v1_skill	Best all time skill rating 1v1 land	false
+random_localisation_strings_string_directx_version_changed	Direct X version changed. This will be applied when you next restart Total War: Three Kingdoms.	false
+random_localisation_strings_string_FACTION_FOOD_FACTOR_BUILDINGS	Buildings	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_army_description	This is the current composition of the army. It can be added to, removed from or ranked up as funds allow.	false
+random_localisation_strings_string_technology_disabled_by_buildings	Required buildings	false
+random_localisation_strings_string_increase_experience	Increase experience	false
+random_localisation_strings_string_art_being_researched	You are currently researching this technology.	false
+random_localisation_strings_string_player_stats_total_mp_land_battles_completed	Total multiplayer land battles completed	false
+random_localisation_strings_string_3k_dlc06_ceo_character_nanman_skills_wood_resolve_role_model_objective	{{tr:dlc06_nanman_skills_unlock_condition}} {{tr:dlc06_nanman_skills_role_model_objective}}	false
+random_localisation_strings_string_network_error_host	Failed to host game	false
+random_localisation_strings_string_prebattle_title_intercepted	{{tr:prebattle_title_intercepted}}	false
+random_localisation_strings_string_food_breakdown	Food Details	false
+random_localisation_strings_string_tooltip_raise_lord_once_per_turn_per_province_limit_reached	{{tr:tooltip_raise_lord_once_per_turn_per_province_limit_reached}}	false
+random_localisation_strings_string_StratHudbutton_cannot_enlist_nocash	Cannot enlist a general||You have insufficient funds.	false
+random_localisation_strings_string_finance_tooltip_agent_actions	Expenses on covert actions initiated by your [[img:icon_hero]][[/img]]Heroes.	false
+random_localisation_strings_string_attrition_cold	In winter, armies will suffer losses due to attrition if they are in enemy territory. 	false
+random_localisation_strings_string_cannot_begin_battle_map_downloading	Cannot begin downloading	false
+random_localisation_strings_string_StratHudButton_Cannot_Demolish1	[[col:red]]You cannot demolish settlements and ports, roads, or speciality buildings at their base levels.[[/col]]	false
+random_localisation_strings_string_StratHudbutton_Cannot_Enlist_General3	Your fleet is already full, to recruit an admiral  you must scupper one of your ships.	false
+random_localisation_strings_string_Unit_Card_Generic_Function	Left-click to select, right-click for further information	false
+random_localisation_strings_string_trade_status_tooltip_can	Can trade	false
+random_localisation_strings_string_ability_tooltip_cannot_target	Cannot target if	false
+random_localisation_strings_string_campaign_type_prestige	Prestige Victory	false
+random_localisation_strings_string_3k_dlc05_tutorial_mode_bandit_network_header_title	Bandit Network	false
+random_localisation_strings_string_cost_sort	Sort by cost	false
+random_localisation_strings_string_StratHud_Building_Card_Recruit_Selection	Left-click to construct this building, right-click for further information.	false
+random_localisation_strings_string_Unit_not_replenishing_08	[[col:red]]- This navy is in hostile waters.[[/col]]	false
+random_localisation_strings_string_early	Early	false
+random_localisation_strings_string_other	Other	false
+random_localisation_strings_string_reason	Reason:	false
+random_localisation_strings_string_FACTION_FOOD_FACTOR_EVENTS	Events	false
+random_localisation_strings_string_ep_dyn_frontend_hero_info_help_text_description	This panel shows you the important battle statistics and abilities of the selected unit.	false
+random_localisation_strings_string_miscast_tooltip	There is a chance that when an upgrade spell is cast, a miscast will occur, damaging the caster.	false
+random_localisation_strings_string_gfx_filtering_tri	Trilinear	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_character_rank_description	From here, you can increase your general’s rank. This will cost more but will make them more powerful, and allow a wider variety of units to be recruited.	false
+random_localisation_strings_string_imbued_effects	Imbued Effects	false
+random_localisation_strings_string_pre_battle_siege_equipment_totals_tooltip_cap	\\nCap: %d	false
+random_localisation_strings_string_fatigue_exhausted	Exhausted	false
+random_localisation_strings_string_StratHudbutton_Cannot_Embark/Disembark1	The land here is inaccessible.	false
+random_localisation_strings_string_round_id_late_may	Late May	false
+random_localisation_strings_string_MILITARY_FORCE_FOOD_FACTOR_BASE_FOOD	Base Food	false
+random_localisation_strings_string_sanitation	Sanitation	false
+random_localisation_strings_string_land_combatant_winning_slightly	Unit winning slightly	false
+random_localisation_strings_string_under_repair	Under repair	false
+random_localisation_strings_string_round_id_early_july	Early July	false
+random_localisation_strings_string_cannot_merge_agent_not_enough_action_points	This agent hasn't enough action points to reach the other force.	false
+random_localisation_strings_string_state_religion_change_inactive_faction_leader_already_changed	Already changed religion	false
+random_localisation_strings_string_network_error_steam_disconnect	You have been disconnected from Steam. Please restart Steam to continue.	false
+random_localisation_strings_string_ability_board_ship	Board Ship||Your troops carry out a boarding action against the enemy ship.	false
+random_localisation_strings_string_tooltip_free_content_alert	New free content available!	false
+random_localisation_strings_string_advice_level_new_to_total_war	I AM NEW TO TOTAL WAR	false
+random_localisation_strings_string_finance_header_upkeep	Upkeep	false
+random_localisation_strings_string_3k_dlc07_no_narrative_events	Alert: This character has no narrative events during this campaign.	false
+random_localisation_strings_string_treasury_tooltip_description_military	Instant income from military exploits.	false
+random_localisation_strings_string_prebattle_legendary_cannot_save	You cannot save before a battle on legendary difficulty.	false
+random_localisation_strings_string_gfx_custom	Customised	false
+random_localisation_strings_string_Unit_not_replenishing_06	[[col:red]]- There is a local food shortage.[[/col]]	false
+random_localisation_strings_string_difficulty_level_5	Legendary	false
+random_localisation_strings_string_destroy_transported_warning	Are you sure you wish to disband the selection?	false
+random_localisation_strings_string_player_is_mp_co_op_ally_and_cannot_attack	Cannot attack your multiplayer co-operative ally.	false
+random_localisation_strings_string_3k_main_tutorial_mode_battle_top_bar2_title	Unit Abilities	false
+random_localisation_strings_string_character_details_panel_min	Minimum	false
+random_localisation_strings_string_FACTION_PROVINCE_FOOD_FACTOR_FERTILITY	Fertility	false
+random_localisation_strings_string_player_stats_enemy_ships_sunk	Enemy ships sunk	false
+random_localisation_strings_string_advice_language_changed	Advice language changed	false
+random_localisation_strings_string_duel_effect_runaway_description	[[col:red]]The general will leave the battlefield[[/col]]	false
+random_localisation_strings_string_public_order	Current {{tr:public_order}}	false
+random_localisation_strings_string_January	text_rejected	false
+random_localisation_strings_string_siege_suffering_attrition	This settlement's garrison has run out of supplies and is suffering [[img:icon_attrition]][[/img]]attrition.	false
+random_localisation_strings_string_episodic_restriction	Restricted for first turn	false
+random_localisation_strings_string_gfx_extreme	Extreme	false
+random_localisation_strings_string_winds_of_magic_strength	[[img:ui/skins/default/icon_mana.png]][[/img]]Winds of Magic	false
+random_localisation_strings_string_unit_stat_bonus_melee_exceptional	Exceptional melee	false
+random_localisation_strings_string_decreasing	Deteriorating	false
+random_localisation_strings_string_opponent_refuses_surrender_body	The defending force refuses to comply with your demand of surrender!	false
+random_localisation_strings_string_sea_region_control_status_hostile	[[col:red]](Hostile)[[/col]]	false
+random_localisation_strings_string_weather_tooltips_fog	Fog||Reduced visibility. All ships and missile units fire with reduced accuracy and range, and enemy units are concealed by fog at long distances.	false
+random_localisation_strings_string_sound_system_changed	Sound system changed	false
+random_localisation_strings_string_zdummy_undercover_character_target_faction_request_minister_position_additional_action_title	The Highest Echelons	false
+random_localisation_strings_string_ability_effect_updates_every_frame	Only acts on targets when in area	false
+random_localisation_strings_string_finance_header_taxes	{{tr:taxes}}	false
+random_localisation_strings_string_campaign_radar_sort_by_speciality	Sort by speciality	false
+random_localisation_strings_string_cancel_recruitment_confirmation	This unit is in the process of being recruited, are you sure you wish to cancel recruiting it?	false
+random_localisation_strings_string_region_specialty_gold_mining	text_rejected	false
+random_localisation_strings_string_weather_tooltips_storm	Sandstorm|| It takes more to ignite ships, buildings, and deployable defences.	false
+random_localisation_strings_string_CARD_STAT_BEST_3V3_SKILL_NAVAL	Best all-time skill rating 3v3 naval	false
+random_localisation_strings_string_3k_main_tutorial_mode_battle_capturescore_description	Victory in a settlement battle is determined by [[b]]victory points[[/b]].\\n\\n[[img:help_mode_battle_capture_points]][[/img]] Once the attacker is in control of the victory point by [[b]]capturing[[/b]] it with his own units, this number will start to [[b]]tick down[[/b]]. As long as the defender is in control of the victory point, this number will remain [[b]]static[[/b]].\\n\\nOnce this number [[b]]reaches 0[[/b]], the attacker has won the battle and captured the city.	false
+random_localisation_strings_string_duel_effect_disengage_description	[[col:green]]You have survived for the required time. Disengage now to gain positive effects.[[/col]]	false
+random_localisation_strings_string_Classic	Land Battle	false
+random_localisation_strings_string_unit_encouraged_general_alive	General alive	false
+random_localisation_strings_string_land_combatant_losing	Unit losing	false
+random_localisation_strings_string_melee_defence	Melee Defence	false
+random_localisation_strings_string_defending	DEFENDING	false
+random_localisation_strings_string_ep_dyn_frontend_character_select_help_text_description	Create a team of three heroes by double {{tr:left_click_icon}}ing on their portrait in the groups below. You can replace a hero in your team by double {{tr:left_click_icon}}ing their icon in the assembled team.\\n\\nIt is highly recommended to take at least one {{tr:ep_dyn_WOOD}} or {{tr:ep_dyn_WATER}} hero for healing abilities.	false
+random_localisation_strings_string_unit_concerned_fatigue_very_tired	Very tired	false
+random_localisation_strings_string_agent_help_string_agent_cap_reached	[[col:red]]Cannot recruit. You are already fielding the current maximum number of this type of [[img:icon_hero]][[/img]]Hero.[[/col]]	false
+random_localisation_strings_string_town	Town	false
+random_localisation_strings_string_magic_damage	[[img:ui/skins/default/modifier_icon_magical.png]][[/img]]Magical Damage	false
+random_localisation_strings_string_3k_dlc06_ceo_character_nanman_skills_metal_expertise_flurry_objective	{{tr:dlc06_nanman_skills_unlock_condition}} {{tr:dlc06_nanman_skills_flurry_objective}}	false
+random_localisation_strings_string_campaign_type_co_op	Co-op	false
+random_localisation_strings_string_reduced_unit_limit_msg_sp	You have reduced the maximum unit setting, causing some to be removed from your setup.	false
+random_localisation_strings_string_diplomacy_undiscovered_clan_mon	Undiscovered Faction	false
+random_localisation_strings_string_gfx_drop_ultra	Ultra	false
+random_localisation_strings_string_power_category_5	Weak	false
+random_localisation_strings_string_unit_concerned_flanks_exposed_single	Exposed flank	false
+random_localisation_strings_string_duel_invalid_reason_too_far_away	Out of range	false
+random_localisation_strings_string_morale_eager	Eager	false
+random_localisation_strings_string_find_match	Find Match	false
+random_localisation_strings_string_corrupted_save_file	This save is corrupted.	false
+random_localisation_strings_string_trade_route_state_neutral	(Neutral)	false
+random_localisation_strings_string_FACTION_PROVINCE_FOOD_FACTOR_BASE_FOOD	Base food	false
+random_localisation_strings_string_you_cannot_afford_to_repair_this_item	[[col:red]]You cannot afford to repair this building.\\nCost: {{tr:icon_money}}[[/col]]	false
+random_localisation_strings_string_contact_effect	Contact Effects	false
+random_localisation_strings_string_CAMPAIGN_POLITICS_ACTION_TYPE_BRIBE	Bribe	false
+random_localisation_strings_string_modifier_icon_tooltip_bonus_vs_large	Bonus vs. Large||This unit inflicts additional damage when fighting enemies that are cavalry-sized or larger.	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_army_control_title	Army Control Panel	false
+random_localisation_strings_string_morale_fighting_to_death	Fighting to the death	false
+random_localisation_strings_string_network_error_incompatible_mod	Incompatible mod version	false
+random_localisation_strings_string_region_specialty_horses	text_rejected	false
+random_localisation_strings_string_network_message_not_responding_host	One or more players are not responding; would you like to continue waiting or drop them?	false
+random_localisation_strings_string_never	Never	false
+random_localisation_strings_string_unit_concerned_fear_enemy_unit	Frightened by enemy unit	false
+random_localisation_strings_string_weather_storm	Sandstorm	false
+random_localisation_strings_string_province_colon	Commandery:	false
+random_localisation_strings_string_zdummy_undercover_character_target_faction_request_administrator_position_additional_action_title	The Greasy Pole	false
+random_localisation_strings_string_round_id_late_july	Late July	false
+random_localisation_strings_string_player_stats_best_2v2_placement	Best ladder placement 2v2 land	false
+random_localisation_strings_string_unit_encouraged_kills	Kills inflicted on enemy	false
+random_localisation_strings_string_unit_concerned_discouraged_by_unit_ability	Discouraged by ability	false
+random_localisation_strings_string_gfx_off	Off	false
+random_localisation_strings_string_unit_hero_duel_lost	Duel Lost	false
+random_localisation_strings_string_network_error_join_failed_error	Failed to join game: Unspecified error	false
+random_localisation_strings_string_save_old_version_loading_warning_title	[[col:red]]OLD SAVE VERSION DETECTED[[/col]]	false
+random_localisation_strings_string_power_ranking	Strength Rank	false
+random_localisation_strings_string_invalid_spell_target	[[col:red]]Invalid target.[[/col]]Valid targets: 	false
+random_localisation_strings_string_StratHudbutton_cannot_demolish	[[col:red]]You cannot demolish settlements and ports, roads, or speciality buildings at their base levels.[[/col]]	false
+random_localisation_strings_string_network_error_join_failed_priviledges	Failed to Join Game: Your "Multiplayer" privilege is set to Blocked.	false
+random_localisation_strings_string_valid_spell_target	Left-click to activate, Right-click to cancel.	false
+random_localisation_strings_string_campaign_autoresolver_tooltip_stance_siege_balanced	Balanced Stance||When using the balanced battle stance, units will receive no bonuses or penalties.	false
+random_localisation_strings_string_Cannot_reinforce_artillery	Siege weapons cannot join the battle as reinforcements	false
+random_localisation_strings_string_ep_dyn_abilities_help_text_title	Placeholder	false
+random_localisation_strings_string_stat_bonus_infantry	Bonus vs infantry	false
+random_localisation_strings_string_tooltip_disband_lord	Replace general	false
+random_localisation_strings_string_season_autumn	Autumn	false
+random_localisation_strings_string_StratHudbutton_Cannot_Build3	[[col:red]]You must repair the first building in the chain before constructing another.[[/col]]	false
+random_localisation_strings_string_unit_stat_bonus_accuracy_exceptional	Exceptional accuracy	false
+random_localisation_strings_string_opponent_demands_surrender_title	Surrender Demanded	false
+random_localisation_strings_string_resistance_missile_tooltip	Missile Resistance: %d%%||Damage of missile attacks is reduced by this amount.	false
+random_localisation_strings_string_custom_battle_unit_tooltip_recruit	\\nDouble left-click to recruit into selected retinue	false
+random_localisation_strings_string_trade_node_tooltip_predicted_supply	estimated supplies to be gained	false
+random_localisation_strings_string_deployable_not_allowed_in_battle_type	This deployable can't be used with the current battle type.	false
+random_localisation_strings_string_right_click_building_browser	Right-click to view in building browser	false
+random_localisation_strings_string_network_error_join_failed_closed_game	Failed to join game: Game in progress	false
+random_localisation_strings_string_prebattle_reinforcing_army	Reinforcing army	false
+random_localisation_strings_string_tooltip_raise_lord_convalescence_cause_battle	[[col:red]]This character was recently wounded in battle. They will be available for recruitment in %d turns.[[/col]]	false
+random_localisation_strings_string_siege_of	Siege of	false
+random_localisation_strings_string_battle_warning_returning_to_postbattle	Exiting battle in:	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_army_enemy_control_description	From here, you can:\\n• Save an army template\\n• Load an army template\\n• Delete an army\\n• Randomise the army (randomising an army will affect its size, composition and available funds. Randomising will also delete any existing army).\\n• View the army's remaining funds	false
+random_localisation_strings_string_CARD_STAT_BEST_2V2_LADDER_PLACEMENT_NAVAL	Best ladder placement 2v2 naval	false
+random_localisation_strings_string_button_quit_won	END BATTLE	false
+random_localisation_strings_string_morale_broken	Broken	false
+random_localisation_strings_string_CAMPAIGN_POLITICS_ACTION_TYPE_ASSASSINATE	Assassinate	false
+random_localisation_strings_string_corruption_details	Corruption Details	false
+random_localisation_strings_string_graphics_settings_require_restart	The new settings will be applied once the game has been re-started.	false
+random_localisation_strings_string_player_stats_campaign_naval_battles_lost	Campaign naval battles lost	false
+random_localisation_strings_string_finance_header_subjugation	Subjugation	false
+random_localisation_strings_string_causes	Imbues	false
+random_localisation_strings_string_finance_header_post_battle_loot	Post-battle Loot	false
+random_localisation_strings_string_ep_dyn_character_details_current_passive_help_text_description	This section lists the passive abilities you have unlocked for this hero.\\n\\nPassive abilities are effects that automatically trigger when certain conditions are met. Hover over the ability icons for more details.	false
+random_localisation_strings_string_ep_dyn_score_help_text_title	Scoreboard	false
+random_localisation_strings_string_finance_tooltip_vassals	Income from factions that are your vassals.	false
+random_localisation_strings_string_recruitment_unavailable	This unit is unavailable for the following reasons:	false
+random_localisation_strings_string_campaign_difficulty2	Hard	false
+random_localisation_strings_string_dlc_menu_button_own_all	You own all available DLC packs.	false
+random_localisation_strings_string_fe_unit_card_tooltip_cap_land	Units of this type are capped to %d per army.	false
+random_localisation_strings_string_click_to_mark_current_selection_for_dismantling	Demolish Building||This will remove the building, allowing you to construct a new building in its place.	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_teamone_description	From here, you can choose characters, add or remove them, and switch teams. You can also swap between being the attacker and the defender in the battle.	false
+random_localisation_strings_string_cpu_player	CPU %d	false
+random_localisation_strings_string_3k_main_tooltip_academy	Click to open Total War Academy in your browser	false
+random_localisation_strings_string_character_panel_loyalty_honour_positive	Positive Factors	false
+random_localisation_strings_string_allied_mana	Allied Winds of Magic recharge	false
+random_localisation_strings_string_ship_card_red_general_killed	The general of this ship was killed in battle.	false
+random_localisation_strings_string_mp_ready_error_no_ai_units	[[col:red]]You must select units for the AI armies before declaring readiness.[[/col]]	false
+random_localisation_strings_string_finance_details_tooltip_other	Any other miscellaneous sources.	false
+random_localisation_strings_string_must_negotiate_with_master	Can only request this action through this faction's master: 	false
+random_localisation_strings_string_player_is_vassal_and_cannot_attack	text_rejected	false
+random_localisation_strings_string_StratHudButton_Cannot_Recruit_Unit11	No recruitment points available	false
+random_localisation_strings_string_finance_header_construction	Construction	false
+random_localisation_strings_string_ability_tooltip_invalid_usages_alt	Can use if	false
+random_localisation_strings_string_right_click_spell_browser	[[img:ui/skins/default/icon_spell_browser_02.png]][[/img]]Right-click to view in the spell browser.	false
+random_localisation_strings_string_StratHudbutton_Cannot_Recruit_Unit2	[[col:red]]You have insufficient funds.[[/col]]	false
+random_localisation_strings_string_StratHudbutton_Cannot_Enlist_General5	You cannot afford to recruit a general. Cost:	false
+random_localisation_strings_string_ground	Ground	false
+random_localisation_strings_string_campaign_autoresolver_tooltip_stance_naval_defensive	Protective Stance||Your units will assume a defensive position, and will attempt to retreat if things get out of control.\\n\\nThis stance is usually more effective when you have missile superiority.\\n\\nExpect lower casualties on both sides.	false
+random_localisation_strings_string_unit_upgrade_tooltip_cannot_afford	[[col:red]]You cannot afford this upgrade.[[/col]]	false
+random_localisation_strings_string_melee_attack	Melee Attack	false
+random_localisation_strings_string_player_stats_campaign_naval_battles_won	Campaign naval battles won	false
+random_localisation_strings_string_season_harvest	Harvest	false
+random_localisation_strings_string_undecided	Undecided	false
+random_localisation_strings_string_recharge_depleted	[[col:red]]Charge depleted[[/col]]	false
+random_localisation_strings_string_year_season_format	{season} {year}	false
+random_localisation_strings_string_skills_requires	Requires	false
+random_localisation_strings_string_round_id_june	June	false
+random_localisation_strings_string_StratHudbutton_Cannot_Embark/Disembark0	Cannot embark/disembark	false
+random_localisation_strings_string_round_id_early_september	Early September	false
+random_localisation_strings_string_action_result_type_critical_failure	Critical Failure	false
+random_localisation_strings_string_campaign_autoresolver_tooltip_stance_siege_aggressive	Aggressive Stance||Your units will try to rush the enemy. This stance is usually more effective when the enemy has missile superiority.\\n\\nRetreat will be more difficult for both sides\\n\\nExpect higher casualties.	false
+random_localisation_strings_string_resource_exporting_percentage	Exporting:	false
+random_localisation_strings_string_predicted_income	Predicted income	false
+random_localisation_strings_string_unit_encouraged_settlement_plaza	Defending a victory point	false
+random_localisation_strings_string_3k_main_tutorial_mode_battle_radar_description	This is the battlefield [[b]]tactical map[[/b]]. Use it to maintain an overview of bigger battles and to plan manoeuvres on a larger scale.	false
+random_localisation_strings_string_tooltip_raise_lord_unavailable	[[col:red]]This legendary general will be available for recruitment at a later time.[[/col]]	false
+random_localisation_strings_string_mp_ready_error_team_has_no_players	[[col:red]]All teams must have at least one player.[[/col]]	false
+random_localisation_strings_string_quit_disband_units	If you quit now you could lose your units	false
+random_localisation_strings_string_unknown_ship_state	Some of this squadron's details are unknown. Moving closer may reveal more information.	false
+random_localisation_strings_string_Naval	Naval Battle	false
+random_localisation_strings_string_Siege	Siege Battle	false
+random_localisation_strings_string_ability_tooltip_disabled_when_alt	Active if	false
+random_localisation_strings_string_3k_main_tutorial_mode_custombattle_army_control_description	From here you can:\\n• Save an army template\\n• Load an army template\\n• Delete an army\\n• Randomise the army (which will affect its size, composition and available funds – randomising will also delete any existing army).\\n• View the army's remaining funds	false
+random_localisation_strings_string_player_withdrawn	This player has withdrawn, the AI will take control of their army.	false
+random_localisation_strings_string_technology_disabled_by	Disabled by	false
+random_localisation_strings_string_win_chance_very_high	Very High	false
+random_localisation_strings_string_StratHudbutton_Cannot_Build1	You cannot afford to construct this. Cost:	false
+random_localisation_strings_string_Unit_replenishing_in_stance	Replenishment is improved because of your stance.	false
+random_localisation_strings_string_player_stats_ranked_naval_battles_won	Ranked naval battles won	false
+random_localisation_strings_string_8p_start_pos_victory_condition_tooltip_text	Victory conditions:\\n\\nStandard: reach the rank of Victorious Prince.\\n\\nCo-operative: combine your strength by signing a shared mandate diplomatic deal.\\n\\nHead-to-Head: destroy the other player or compete with one another to be the first to meet the victory conditions.	false
+random_localisation_strings_string_ability_left_click_cant_overcast	\\n[[col:red]](Cannot currently afford overcast)[[/col]]	false
+random_localisation_strings_string_morale_steady	Steady	false
+random_localisation_strings_string_cancel_demolish_building	This building will be demolished once your turn has ended. Left-click to cancel the order.	false
+random_localisation_strings_string_land_combatant_winning_big	Unit winning decisively	false
+random_localisation_strings_string_skill_locked_rank	\\n\\n[[col:red]]Available at rank %d.[[/col]]	false
+random_localisation_strings_string_3k_notifications_options_text	Customise your notifications by toggle them on or off. These settings are saved in your campaign save game.	false
+random_localisation_strings_string_gfx_v_high	Very High	false
+random_localisation_strings_string_3k_main_tutorial_mode_battle_infotoggle_title	Information Toggle	false
+random_localisation_strings_string_3k_dlc06_ceo_character_nanman_skills_earth_authority_tireless_soul_objective	{{tr:dlc06_nanman_skills_unlock_condition}} {{tr:dlc06_nanman_skills_tireless_soul_objective}}	false
+random_localisation_strings_string_overwrite_legendary_save_warning_text	Starting a new game on legendary will overwrite your current legendary save. Do you still want to continue?	false
+random_localisation_strings_string_ability_abandon_artillery_engines	Drop Artillery or Engines||Drops your current siege engine or artillery piece.	false
+random_localisation_strings_string_FACTION_PROVINCE_FOOD_FACTOR_RECENT_BATTLES	Recent Battles	false
+random_localisation_strings_string_queued_building_blocked_by_stance	[[col:yellow]]This horde needs to be placed into the [[img:icon_encamp_stance]][[/img]]Encamp stance in order to finish constructing this building. Left-click to cancel the construction.[[/col]]	false
+random_localisation_strings_string_custom_battle_unit_tooltip_matchmade_cant_afford	\\n[[col:red]]Cannot recruit. Cannot overspend in match-made battles.[[/col]]	false

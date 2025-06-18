@@ -1,0 +1,6 @@
+key	text	tooltip
+#Loc;1;text/db/ceo_rarities__.loc		
+ceo_rarities_rarity_name_exceptional	Exceptional	false
+ceo_rarities_rarity_name_common	Common	false
+ceo_rarities_rarity_name_unique	Unique	false
+ceo_rarities_rarity_name_refined	Refined	false

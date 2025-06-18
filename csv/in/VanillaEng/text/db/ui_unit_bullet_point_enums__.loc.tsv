@@ -1,0 +1,120 @@
+key	text	tooltip
+#Loc;1;text/db/ui_unit_bullet_point_enums__.loc		
+ui_unit_bullet_point_enums_onscreen_name_weakness_poor_melee	Poor in melee	false
+ui_unit_bullet_point_enums_onscreen_name_battlefield_role_flank_defence	Role: anti-cavalry	false
+ui_unit_bullet_point_enums_onscreen_name_strength_splash_attacks	Splash attacks	false
+ui_unit_bullet_point_enums_onscreen_name_strength_fire_damage	Deals fire damage	false
+ui_unit_bullet_point_enums_onscreen_name_strength_ignores_ground	Crosses all terrain	false
+ui_unit_bullet_point_enums_tooltip_weakness_poor_melee	This unit is poor when fighting hand-to-hand. Try to keep it away from enemy formations.	false
+ui_unit_bullet_point_enums_tooltip_strength_blocks_melee	This unit is highly skilled in parrying and dodging incoming melee attacks.	false
+ui_unit_bullet_point_enums_tooltip_strength_bonus_vs_shield	This unit causes extra damage against shielded enemies.	false
+ui_unit_bullet_point_enums_tooltip_strength_slayer_of_heroes	When fighting against heroes on the battlefield they will find their skills and prowess much improved.	false
+ui_unit_bullet_point_enums_tooltip_weakness_missile_defence	This unit is unshielded and therefore has little defence against missile attacks.	false
+ui_unit_bullet_point_enums_onscreen_name_strength_encourage	Encourages allies	false
+ui_unit_bullet_point_enums_tooltip_strength_movement_ranged_cavalry	Mounted archers use their impressive speed and manoeuvrability to stay out of reach of the enemy and encircle unprotected units.	false
+ui_unit_bullet_point_enums_onscreen_name_strength_charge_infantry	Good charge	false
+ui_unit_bullet_point_enums_tooltip_strength_missile_defence_weapon	This unit's training has reached a level where they can even deflect missiles without a shield!	false
+ui_unit_bullet_point_enums_onscreen_name_weakness_armour_piercing	Vulnerable to piercing damage	false
+ui_unit_bullet_point_enums_tooltip_strength_armour_piercing_ranged	This unit's missiles are heavily tipped to drill through the strongest armour, but will still be deflected by shields.	false
+ui_unit_bullet_point_enums_tooltip_strength_poison_attacks	The weapons of this unit are coated in poison, inflicting lingering armour-ignoring damage on foes that are hit.	false
+ui_unit_bullet_point_enums_onscreen_name_strength_elephants	Elephant unit	false
+ui_unit_bullet_point_enums_tooltip_weakness_movement	This unit is slower than others, meaning it can be outmanoeuvred and attacked in its vulnerable flanks.	false
+ui_unit_bullet_point_enums_onscreen_name_battlefield_role_backline	Role: rear line	false
+ui_unit_bullet_point_enums_tooltip_weakness_low_armour	This unit is only armoured with light cloth, making it vulnerable when engaged.	false
+ui_unit_bullet_point_enums_tooltip_battlefield_role_assault	This unit excels at charging enemy frontlines, slaying all in their path.	false
+ui_unit_bullet_point_enums_onscreen_name_strength_fatigue_immune	Fatigue immunity	false
+ui_unit_bullet_point_enums_onscreen_name_battlefield_role_anti_range	Role: anti-missile	false
+ui_unit_bullet_point_enums_onscreen_name_strength_morale	Good morale	false
+ui_unit_bullet_point_enums_onscreen_name_strength_expendable	Expendable	false
+ui_unit_bullet_point_enums_tooltip_strength_cause_scare	This unit is terrifying to its foes and reduces the morale of nearby enemies.	false
+ui_unit_bullet_point_enums_onscreen_name_weakness_cavalry	Weak against cavalry	false
+ui_unit_bullet_point_enums_tooltip_strength_guerrilla_deploy	These units have the advantage of being able to deploy behind enemy lines to strike at unexpecting targets.	false
+ui_unit_bullet_point_enums_tooltip_strength_mighty_knockback	Causes extra damage when knocking enemies back.	false
+ui_unit_bullet_point_enums_tooltip_placeholder	placeholder	false
+ui_unit_bullet_point_enums_onscreen_name_strength_poison_attacks	Poisoned weapons	false
+ui_unit_bullet_point_enums_tooltip_battlefield_role_support	Best kept away from the fighting, this unit can bestow positive effects upon other units.	false
+ui_unit_bullet_point_enums_onscreen_name_placeholder	placeholder	false
+ui_unit_bullet_point_enums_onscreen_name_weakness_unruly	Unruly	false
+ui_unit_bullet_point_enums_tooltip_strength_armour	Heavy armour protects this unit from most damage, but armour-piercing weapons will still pose a threat to them.	false
+ui_unit_bullet_point_enums_tooltip_battlefield_role_bombardment	Ordnance units excel at scything down enemies, particularly when on high ground and protected by infantry.	false
+ui_unit_bullet_point_enums_onscreen_name_battlefield_role_assault	Role: assault	false
+ui_unit_bullet_point_enums_onscreen_name_strength_melee_secondary	Good in melee	false
+ui_unit_bullet_point_enums_onscreen_name_strength_cause_scare	Causes scare	false
+ui_unit_bullet_point_enums_onscreen_name_battlefield_role_skirmishing	Role: skirmishers	false
+ui_unit_bullet_point_enums_tooltip_strength_encourage	This unit is led by a person of great renown, who inspires the morale of those around them.	false
+ui_unit_bullet_point_enums_tooltip_weakness_charge_reflect_spears	This unit's speed and mass will work against it if charging the pointy end of enemy spears!	false
+ui_unit_bullet_point_enums_tooltip_strength_armour_piercing_melee	This unit's weapons allow it to pierce even the strongest enemy armour.	false
+ui_unit_bullet_point_enums_onscreen_name_weakness_cannot_assume_formations	Cannot adopt advanced formations	false
+ui_unit_bullet_point_enums_onscreen_name_strength_has_ranged	Has ranged weapon	false
+ui_unit_bullet_point_enums_onscreen_name_weakness_small_unit_size	Small unit	false
+ui_unit_bullet_point_enums_onscreen_name_weakness_low_armour	Paltry armour	false
+ui_unit_bullet_point_enums_tooltip_weakness_small_unit_size	This unit consists of few men, making them easily overwhelmed.	false
+ui_unit_bullet_point_enums_onscreen_name_strength_animal_handler	Has wild animals	false
+ui_unit_bullet_point_enums_onscreen_name_strength_armour	Good armour	false
+ui_unit_bullet_point_enums_onscreen_name_strength_guerrilla_deploy	Guerrilla deployment	false
+ui_unit_bullet_point_enums_onscreen_name_weakness_charge_reflect_spears	Vulnerable to spears	false
+ui_unit_bullet_point_enums_tooltip_weakness_cannot_assume_formations	These soldiers are not disciplined enough to adopt advanced formations.	false
+ui_unit_bullet_point_enums_tooltip_strength_splash_attacks	Individuals in this unit swing their weapons in a wide arc and are thus able to hit multiple foes at once.	false
+ui_unit_bullet_point_enums_tooltip_strength_bonus_vs_mounted	This unit is trained to fight against mounted enemies.	false
+ui_unit_bullet_point_enums_onscreen_name_weakness_missile_defence	Weak against missile attacks	false
+ui_unit_bullet_point_enums_tooltip_battlefield_role_anti_range	A shielded and fast-moving unit that absorbs missile fire to charge into vulnerable missile units.	false
+ui_unit_bullet_point_enums_tooltip_battlefield_role_flank_defence	These units are strong against flanking units such as cavalry, so are best used to protect vulnerable flanks.	false
+ui_unit_bullet_point_enums_onscreen_name_battlefield_role_support	Role: support	false
+ui_unit_bullet_point_enums_onscreen_name_battlefield_role_frontline	Role: frontline	false
+ui_unit_bullet_point_enums_onscreen_name_battlefield_role_flanking	Role: flanking	false
+ui_unit_bullet_point_enums_tooltip_strength_elephants	Elephants are large, fearsome beasts, able to plow through infantry and damage buildings and gates.	false
+ui_unit_bullet_point_enums_onscreen_name_strength_slayer_of_heroes	Slayer of Heroes	false
+ui_unit_bullet_point_enums_tooltip_strength_morale	This unit will keep fighting even when others have already routed.	false
+ui_unit_bullet_point_enums_onscreen_name_battlefield_role_supression	Role: suppression	false
+ui_unit_bullet_point_enums_onscreen_name_strength_ranged_ap	Heavy missile attacks	false
+ui_unit_bullet_point_enums_tooltip_strength_has_ranged	This unit has a ranged weapon that can soften up enemies before engaging in hand-to-hand combat.	false
+ui_unit_bullet_point_enums_tooltip_battlefield_role_backline	These troops are best placed at the rear of an army, where they can cause damage from a position of relative safety.	false
+ui_unit_bullet_point_enums_tooltip_strength_charge_infantry	Incredible tenacity and a sharp weapon make this infantry unit strong whilst charging.	false
+ui_unit_bullet_point_enums_onscreen_name_strength_unbreakable	Unbreakable	false
+ui_unit_bullet_point_enums_onscreen_name_strength_armour_piercing_ranged	Good against armour	false
+ui_unit_bullet_point_enums_tooltip_battlefield_role_all_rounder	Be it on the frontline, flanking, or when manning ordnance, this versatile unit excels in most positions.	false
+ui_unit_bullet_point_enums_tooltip_strength_ranged_ap	This unit has powerful ranged attacks that can pierce armoured foes with ease.	false
+ui_unit_bullet_point_enums_onscreen_name_weakness_poor_sustain	Low damage	false
+ui_unit_bullet_point_enums_tooltip_weakness_cavalry	This unit is very vulnerable to cavalry charges, especially to the flanks.	false
+ui_unit_bullet_point_enums_tooltip_strength_expendable	An inexpensive unit of easily replaced individuals that can be sacrificed for the greater cause.	false
+ui_unit_bullet_point_enums_onscreen_name_strength_missile_defence_shield	Missile defence	false
+ui_unit_bullet_point_enums_onscreen_name_strength_armour_piercing_melee	Good against armour	false
+ui_unit_bullet_point_enums_onscreen_name_strength_damage_buildings	Damage buildings	false
+ui_unit_bullet_point_enums_onscreen_name_strength_charge_cavalry	Good charge	false
+ui_unit_bullet_point_enums_tooltip_battlefield_role_frontline	Frontline units are tough and able to withstand a beating; they will hold to the end, while others around flee. They are also adept at charging into enemy frontline units.	false
+ui_unit_bullet_point_enums_onscreen_name_weakness_movement	Easily outmanoeuvred	false
+ui_unit_bullet_point_enums_onscreen_name_weakness_raider	Raider	false
+ui_unit_bullet_point_enums_tooltip_strength_unbreakable	This unit has an unshakable resolve and will fight to the bitter end.	false
+ui_unit_bullet_point_enums_onscreen_name_strength_oil_arrows	Oil arrows	false
+ui_unit_bullet_point_enums_onscreen_name_battlefield_role_bombardment	Role: bombardment	false
+ui_unit_bullet_point_enums_onscreen_name_strength_missile_defence_weapon	Missile defence	false
+ui_unit_bullet_point_enums_tooltip_weakness_armour_piercing	This unit's heavy armour is no protection against armour-piercing weapons.	false
+ui_unit_bullet_point_enums_tooltip_weakness_poor_sustain	This unit will consistently cause low damage; it will therefore take time for them to deal with enemy units.	false
+ui_unit_bullet_point_enums_onscreen_name_strength_bonus_vs_mounted	Good against mounted	false
+ui_unit_bullet_point_enums_tooltip_strength_melee_secondary	While the bow is this unit's primary weapon, it can also hold its own in melee.	false
+ui_unit_bullet_point_enums_onscreen_name_strength_ranged	Missile attack	false
+ui_unit_bullet_point_enums_tooltip_strength_melee	This unit is highly skilled in melee and wears its enemies down through sustained hand-to-hand combat.	false
+ui_unit_bullet_point_enums_tooltip_strength_fatigue_immune	This unit is immune to fatigue, and will carry on fighting when others have succumbed to exhaustion.	false
+ui_unit_bullet_point_enums_tooltip_strength_ignores_ground	An intimate knowledge of the land enables this unit to move freely across any terrain, whether that means fording rivers, navigating forests or traversing deserts.	false
+ui_unit_bullet_point_enums_onscreen_name_strength_melee	Good in melee	false
+ui_unit_bullet_point_enums_tooltip_strength_ranged	This unit excels at destroying lightly-armoured enemies, raining death upon them from a safe distance.	false
+ui_unit_bullet_point_enums_tooltip_strength_damage_buildings	 These units cause untold damage to infrastructure by hurling heavy projectiles at enemy fortifications.	false
+ui_unit_bullet_point_enums_tooltip_weakness_raider	Raiders feel most at home in towns and villages, where they can use their torches for their favourite activity - burning things down!	false
+ui_unit_bullet_point_enums_onscreen_name_strength_bonus_vs_shield	Good against shields	false
+ui_unit_bullet_point_enums_tooltip_strength_missile_defence_shield	These troops carry shields to protect them from incoming missiles, but offer little defence against artillery.	false
+ui_unit_bullet_point_enums_tooltip_battlefield_role_flanking	Fast, agile and devastating - flanking units can turn the tide of battle with a well-timed charge or by routing enemy missile units.	false
+ui_unit_bullet_point_enums_tooltip_battlefield_role_supression	These units harry the enemy, slowing them down through the use of advanced tactics and weaponry.	false
+ui_unit_bullet_point_enums_tooltip_battlefield_role_skirmishing	Skirmishers serve to distract and soften up enemy troops, and are almost impossible to run down as they harass their targets.	false
+ui_unit_bullet_point_enums_onscreen_name_weakness_morale	Poor morale	false
+ui_unit_bullet_point_enums_onscreen_name_battlefield_role_all_rounder	Role: all-rounder	false
+ui_unit_bullet_point_enums_tooltip_strength_charge_cavalry	This unit has a superior, devastating charge attack compared to other flanking units.	false
+ui_unit_bullet_point_enums_tooltip_weakness_unruly	These soldiers obey only their own passions. They may charge without orders and act erratically on the battlefield!	false
+ui_unit_bullet_point_enums_tooltip_strength_movement_melee_cavalry	Melee cavalry use their speed to outmanoeuvre their enemies, striking at exposed flanks and vulnerable units.	false
+ui_unit_bullet_point_enums_onscreen_name_strength_blocks_melee	Blocks melee attacks	false
+ui_unit_bullet_point_enums_onscreen_name_strength_movement_melee_cavalry	Mobility	false
+ui_unit_bullet_point_enums_onscreen_name_strength_mighty_knockback	Mighty Knockback	false
+ui_unit_bullet_point_enums_tooltip_strength_animal_handler	This unit has a number of animals under its control. Once unleashed these animals will bite, claw and maul enemies.	false
+ui_unit_bullet_point_enums_tooltip_weakness_morale	This unit is likely to flee quickly when it suffers casualties or is involved in a losing battle.	false
+ui_unit_bullet_point_enums_tooltip_strength_oil_arrows	This unit's oil arrows spatter flame over their targets upon impact, causing devastation over a larger area.	false
+ui_unit_bullet_point_enums_tooltip_strength_fire_damage	This unit uses fire attacks to burn all those who come too close. Whether through conditioning or protective materials, this unit is resistant to fire damage.	false
+ui_unit_bullet_point_enums_onscreen_name_strength_movement_ranged_cavalry	Mobility	false

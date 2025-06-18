@@ -1,0 +1,30 @@
+key	text	tooltip
+#Loc;1;text/db/projectile_shot_type_enum__.loc		
+projectile_shot_type_enum_tooltip_text_artillery_poison	A rotting carcass that will sicken and fatigue the target.	false
+projectile_shot_type_enum_onscreen_name_artillery_flammable	Flammable Round	false
+projectile_shot_type_enum_onscreen_name_small_arm_flaming	Flaming Shot	false
+projectile_shot_type_enum_onscreen_name_small_arm_heavy	Heavy Shot	false
+projectile_shot_type_enum_tooltip_text_artillery_whistling	A container of vile effluent that will terrify and demoralise the target.	false
+projectile_shot_type_enum_onscreen_name_artillery_default	Standard Round	false
+projectile_shot_type_enum_onscreen_name_small_arm_default	Standard Shot	false
+projectile_shot_type_enum_tooltip_text_oil	Some burning oil...	false
+projectile_shot_type_enum_tooltip_text_small_arm_extended	Has greater range but causes less damage.	false
+projectile_shot_type_enum_onscreen_name_small_arm_extended	Extended Shot	false
+projectile_shot_type_enum_tooltip_text_small_arm_flaming	Does more damage, but is less powerful against armour and slower to reload. Can cause buildings and some vegetation to catch fire.	false
+projectile_shot_type_enum_onscreen_name_small_arm_poison	Poison Shot	false
+projectile_shot_type_enum_onscreen_name_artillery_poison	Animal Carcass	false
+projectile_shot_type_enum_onscreen_name_oil	Burning Oil	false
+projectile_shot_type_enum_tooltip_text_small_arm_default	This is the standard shot type for this unit.	false
+projectile_shot_type_enum_onscreen_name_torch	Torch	false
+projectile_shot_type_enum_onscreen_name_small_arm_whistling	Whistling Shot	false
+projectile_shot_type_enum_tooltip_text_artillery_default	This is the standard shot type for this unit.	false
+projectile_shot_type_enum_tooltip_text_torch	A torch...	false
+projectile_shot_type_enum_tooltip_text_small_arm_whistling	Causes less damage but has a fearsome sound. Adversely affects the morale, melee attack & firing rate of targets & any unit they pass over.	false
+projectile_shot_type_enum_onscreen_name_artillery_explosive	Explosive Round	false
+projectile_shot_type_enum_tooltip_text_artillery_explosive	Does more damage than Standard Round, but is less accurate. Most effective against infantry.	false
+projectile_shot_type_enum_onscreen_name_artillery_whistling	Bucket	false
+projectile_shot_type_enum_tooltip_text_small_arm_poison	Reduces enemy melee attack and defence, and fatigues the target unit. Does less damage.	false
+projectile_shot_type_enum_tooltip_text_artillery_flammable	Does more damage, but is less accurate and slower. Can cause buildings to catch fire.	false
+projectile_shot_type_enum_tooltip_text_explosives	An explosive pot...	false
+projectile_shot_type_enum_tooltip_text_small_arm_heavy	Causes greater damage but has shorter range & reduced accuracy.	false
+projectile_shot_type_enum_onscreen_name_explosives	Explosive Pot	false

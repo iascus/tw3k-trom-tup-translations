@@ -1,0 +1,431 @@
+key	text	tooltip
+#Loc;1;text/db/mission_text__.loc		
+mission_text_text_mis_activity_control_n_provinces_client_including	Maintain control of %n {{tr:map_provinces}} including the following, either by direct ownership or through vassals and military allies: 	false
+mission_text_text_mis_activity_own_n_naval_units_progress	Current naval units: %n	false
+mission_text_text_payload_grant_agent_multi	Characters: 	false
+mission_text_text_mis_activity_hold_entirety_of_n_provinces_including_less_than_n	Hold %n {{tr:map_provinces}} in their entirety, including the following: 	false
+mission_text_text_mis_activity_subjugate_n_factions	Defeat %n different factions by capturing or razing their last remaining settlement.	false
+mission_text_text_mis_activity_control_n_ports_nooption_including_n	Control the following %n port settlements either by direct ownership or through military allies: 	false
+mission_text_text_mis_abort_faction_destroyed	This faction has been destroyed.	false
+mission_text_text_mis_activity_convert_region	Spread your religion to the majority of this {{tr:map_province}}: 	false
+mission_text_text_mis_deploy_x_agents_to_y_regions_owned_by_z_subculture	Deploy %1%  character(s) in %2% {{tr:map_provinces}} owned by the following subculture: %3%	false
+mission_text_text_mis_demand_tribute_any_faction	Receive %n in diplomatic tribute from any faction.	false
+mission_text_text_mis_activity_dont_have_co_op_ally	Don't have an alliance with the other human player	false
+mission_text_text_mis_activity_control_n_provinces_satrapy_including	Maintain control of %n {{tr:map_provinces}} including the following, either by direct ownership or through vassals and military allies: 	false
+mission_text_text_mis_maintain_at_least_x_religion_in_all_provinces	Maintain at least %n% of the following corruption across all {{tr:map_provinces}}:	false
+mission_text_text_mis_assassinate_x_characters_of_type_from_subculture	Carry out a successful assassination attempt against %1% %2% belonging to the following race:	false
+mission_text_text_generic_current_total_out_of	Current total: %n / %n	false
+mission_text_text_mis_activity_own_at_least_one_source_of_each_resource	Hold at least one of every strategic resource.	false
+mission_text_text_mis_activity_hold_entirety_of_n_provinces_1_of_many	Hold the entirety of at least one of the following {{tr:map_provinces}}: 	false
+mission_text_text_mis_ensure_no_military_persence	Ensure that the following factions have no military presence within your territory: 	false
+mission_text_text_3k_dlc06_scripted_play_kingmaker	As a vassal of an emperor, make sure all other emperors are destroyed.	false
+mission_text_text_mis_convert_state_religion	Convert your state to the following religion: 	false
+mission_text_text_mis_own_n_provinces	Own the entirety of %n {{tr:map_provinces}}.	false
+mission_text_text_mis_activity_achieve_victory	Achieve any of the three victory conditions.	false
+mission_text_text_mis_activity_loot_sack_n_settlements_including	Loot or sack %n different settlements including the following: 	false
+mission_text_text_mis_end_civil_war	Successfully crush a civil war.	false
+mission_text_text_payload_family_influence	Party Influence: 	false
+mission_text_text_mis_activity_control_n_provinces_client_including_n	Maintain control of the following %n {{tr:map_provinces}}, either by direct ownership or through vassals and military allies: 	false
+mission_text_text_mis_assign_character_to_post_specific	Assign the following character to %n:	false
+mission_text_text_objective_all_3_main_description	"Abandon all hope."	false
+mission_text_text_mis_hinder_settlement	Use a [[img:icon_hero]][[/img]]Hero to perform an action against the following settlement:	false
+mission_text_text_3k_dlc06_scripted_know_ten_factions	Know 10 factions	false
+mission_text_text_mis_activity_research_n_techs_of_type_x_coop	Research %n reforms (excludes co-operative ally's reforms)	false
+mission_text_text_mis_activity_own_a_port_adjoining_sea_regions	Hold a port settlement adjoining each of the following sea regions:	false
+mission_text_text_mis_defeat_army_and_take_captives_x_times_no_target	Defeat armies and take captives %1% times from any faction	false
+mission_text_text_mis_defeat_n_armies_with_character_victory_type	Using %2%'s army, defeat %1% armies or garrisons, achieving a %3%.	false
+mission_text_text_mis_activity_raid_region_specific	Raid the following {{tr:map_region}}: 	false
+mission_text_text_mis_activity_control_n_provinces_nooption_including_at_least_n	Control at least %n of the following {{tr:map_provinces}} either by direct ownership or through military allies: 	false
+mission_text_text_objective_status_fail	Chapter Objective Failed!	false
+mission_text_text_mis_activity_attack_force_of_enemy_of_faction	Attack a force belonging to any of the following enemies of	false
+mission_text_text_mis_meet_other_objectives_without_allying_with_factions	Meet other objectives without allying with the following factions:	false
+mission_text_text_mis_complete_n_missions_of_category_specific	Complete %n of the following:	false
+mission_text_text_mis_perform_assignment_specific	Send any character on the following assignment:	false
+mission_text_text_mis_activity_defeat_force_any	Defeat an enemy force	false
+mission_text_text_objective_all_3_main_heading	Chapter III: Devastation	false
+mission_text_text_mis_activity_research_tech_type	Research the following reforms:	false
+mission_text_text_mis_activity_raze_sack_n_settlements_including	Raze or sack %n settlements including:	false
+mission_text_text_mis_activity_construct_building_in_region	Construct or upgrade a building in %n	false
+mission_text_text_mis_defeat_army_and_take_captives_x_times_faction_target	Defeat armies and take captives %1% times from faction %2%	false
+mission_text_text_objective_status_success	Chapter Objective Successful!	false
+mission_text_text_mis_give_tribute_specific_faction	Give %n in diplomatic tribute to the following faction: 	false
+mission_text_text_mis_activity_treasury_at_least_x	At the start of your turn, have a {{tr:treasury}} of {{tr:icon_treasury}}%n.	false
+mission_text_text_mis_meet_other_objectives_for_x_turns	Meet all other objectives for %n turns.	false
+mission_text_text_mis_construct_n_buildings_including	Construct the %n following buildings: 	false
+mission_text_text_mis_construct_n_of_specific_building	Construct the %n following buildings: 	false
+mission_text_text_mis_activity_subjugate_faction	Capture and occupy the last remaining settlement of this faction: 	false
+mission_text_text_mis_activity_recruit_unit_region	Recruit a unit in the following {{tr:map_province}}: 	false
+mission_text_text_mis_activity_attack_army_of_enemy_of_faction_invade	Attack an invading army belonging to any of the following enemies of	false
+mission_text_text_objective_all_5_main_heading	Chapter V: Absolution	false
+mission_text_text_mis_activity_own_n_regions	Hold %n settlements.	false
+mission_text_text_mis_activity_control_n_regions_nooption_including	Control %n settlements either by direct ownership or through military allies, including the following: 	false
+mission_text_text_mis_activity_trade_income_at_least_x	At the end of your turn, have a trade income of at least {{tr:icon_income}}%n	false
+mission_text_text_mis_activity_control_n_ports_client_including_n	Control the following %n port settlements either by direct ownership or through vassals and military allies: 	false
+mission_text_text_objective_all_1_main_description	"They made ready for war."	false
+mission_text_text_mis_complete_n_missions_of_category	Complete %n missions	false
+mission_text_text_mis_activity_own_n_ports	Hold %n port settlements.	false
+mission_text_text_mis_activity_control_n_regions_nooption_including_at_least_n_solo	Control at least %n of the following settlements by direct ownership: 	false
+mission_text_text_mis_activity_fight_set_piece_battle	Bring an army to the highlighted location and prepare for battle.	false
+mission_text_text_mis_outcome_success_clan	"This is an auspicious day: we have successfully accomplished our mission and can now reap the benefits!"	false
+mission_text_text_payload_grant_unit_single	Unit: 	false
+mission_text_text_mis_destroy_factions_n_of	Destroy %n of the following faction(s):	false
+mission_text_text_mis_activity_loot_sack_n_settlements_1_of_1	Loot or sack the following settlement: 	false
+mission_text_text_mis_give_ceo_to_character_any	Give any item to %n	false
+mission_text_text_mis_trade_income_at_least_x	At the end of your turn, have a trade income of at least {{tr:icon_income}}%n	false
+mission_text_text_mis_activity_occupy_loot_raze_or_sack_n_settlements	Occupy, loot, raze or sack %n different settlements.	false
+mission_text_text_mis_activity_control_n_provinces_satrapy_1_of_many	Maintain control of at least one of the following {{tr:map_provinces}}, either by direct ownership or through vassals and military allies: 	false
+mission_text_text_mis_deploy_x_agents_to_y_regions_owned_by_z_faction	Deploy %1% character(s) in %2% {{tr:map_provinces}} owned by the following faction: %3%	false
+mission_text_text_mis_activity_construct_building_region	Construct a building in the following settlement: 	false
+mission_text_text_mis_have_no_active_missions_of_category	Ensure that there are no active grudges remaining in The Great Book of Grudges.	false
+mission_text_text_mis_have_character_wounded	Ensure that the following character is in a wounded state:	false
+mission_text_text_mis_activity_hold_entirety_of_n_provinces	Hold %n {{tr:map_provinces}} in their entirety.	false
+mission_text_text_mis_activity_control_n_regions_nooption_including_at_least_n	Control at least %n of the following settlements either by direct ownership or through military allies: 	false
+mission_text_text_mis_activity_eliminate_in_battle_any	Eliminate any general in battle.	false
+mission_text_text_mis_abort_containing_region_captured_allied	The {{tr:map_region }} which contains the target has been captured by an allied faction.	false
+mission_text_text_mis_abort_your_region_lost_rebels	You have lost this settlement to the rebels.	false
+mission_text_text_mis_activity_research_n_techs_of_type_x	Research %n reforms.	false
+mission_text_text_mis_meet_other_objectives_within_x_turns	Meet all other objectives within %n turns	false
+mission_text_text_mis_activity_control_n_regions_client	Control %n settlements either by direct ownership or through vassals and military allies.	false
+mission_text_text_mis_activity_defeat_force_of_enemy_of_faction	Defeat a force belonging to any of the following enemies of	false
+mission_text_text_mis_activity_hold_entirety_of_n_provinces_including_n	Hold the entirety of all the following {{tr:map_provinces}}: 	false
+mission_text_text_mis_assign_general_any	Assign a character to a general post.	false
+mission_text_text_generic_current_income	Current income: {{tr:icon_income}}%n	false
+mission_text_text_mis_carry_out_n_political_actions_including	Carry out %n political actions including the following: 	false
+mission_text_text_mis_activity_trade_income_at_least_x_targetted	At the end of your turn the following faction should have trade income of at least {{tr:icon_income}}%n	false
+mission_text_text_mis_construct_n_buildings	Construct %n buildings: 	false
+mission_text_text_mis_activity_achieve_victory_1	Achieve the victory condition.	false
+mission_text_text_mis_abort_region_became_allied	You have become allied with the owner of this settlement.	false
+mission_text_text_mis_outcome_success	Mission Successful!	false
+mission_text_text_mis_activity_raid_region	Raid any settlement or trade route.	false
+mission_text_text_mis_activity_construct_buildings_in_n_chains	Construct a building from each of the following chains: 	false
+mission_text_text_mis_activity_defeat_navy_faction	Defeat a fleet belonging to the following faction in battle: 	false
+mission_text_text_generic_current_2_totals	Current total: %n / %n	false
+mission_text_text_mis_activity_defeat_army_any	Engage any army in battle.	false
+mission_text_text_mis_assign_governer_post_any	Assign a character to an administrator post.	false
+mission_text_text_mis_activity_own_n_units	Recruit and maintain a total of %n units at the start of a new turn.	false
+mission_text_text_mis_activity_assassinate_any	Carry out a successful assassination attempt against any character.	false
+mission_text_text_mis_activity_mp_competitive	Defeat your opponent either by completely destroying their faction, or by holding the following key settlements at the start of your turn: 	false
+mission_text_text_mis_activity_assassinate_character_of_enemy_of_faction	Carry out a successful assassination of a character belonging to any of the following enemies of	false
+mission_text_text_grudges_status_fail	Grudge Failed!	false
+mission_text_text_mis_activity_control_n_regions	Control %n settlements (either by direct ownership or through vassals).	false
+mission_text_text_mis_activity_establish_empire	Establish the Roman Empire.	false
+mission_text_text_3k_dlc04_scripted_defeat_the_yellow_turbans	Defeat the Yellow Turban Rebellion by defeating the Zhang Brothers and their followers.	false
+mission_text_text_mis_abort_faction_has_no_enemies	This faction no longer has enemies for you to target.	false
+mission_text_text_mis_have_at_least_x_religion_in_provinces	Maintain at least %n% of the following corruption in the specified {{tr:map_provinces}}: 	false
+mission_text_text_objective_all_1_main_heading	Chapter I: Preparation	false
+mission_text_text_mis_defeat_n_armies_of_faction_with_character	Using %2%'s army, defeat %1% armies or garrisons belonging to the following faction:	false
+mission_text_text_mis_have_n_units_of_class_in_army	Have %1% units of %2% in the following character's army:	false
+mission_text_text_mis_activity_defeat_army_invade	Defeat an invading army belonging to the following faction in battle: 	false
+mission_text_text_mis_stay_horde	Ensure that your faction is migrating when this chapter concludes.	false
+mission_text_text_mis_pooled_resource_income_at_least_x_faction	At the start of your turn, have at least %2% %1% income	false
+mission_text_text_mis_activity_achieve_victory_2	Achieve one of the victory conditions.	false
+mission_text_text_mis_have_at_least_x_public_order_in_provinces	Maintain at least %n {{tr:public_order}} in the following {{tr:map_provinces}}: 	false
+mission_text_text_mis_activity_attack_navy_any	Attack a navy in battle.	false
+mission_text_text_mis_activity_control_n_ports_nooption_including	Control %n port settlements either by direct ownership or through military allies, including the following: 	false
+mission_text_text_mis_activity_attack_navy_of_enemy_of_faction	Attack a fleet belonging to any of the following enemies of	false
+mission_text_text_mis_activity_attack_army_faction	Attack an army belonging to the following faction in battle: 	false
+mission_text_text_mis_activity_research_n_civil_techs	Research %n civil technologies.	false
+mission_text_text_mis_defeat_n_armies_with_character	Using %2%'s army, defeat %1% armies or garrisons.	false
+mission_text_text_mis_activity_control_n_ports_satrapy_including	Control %n port settlements either by direct ownership or through vassals and military allies, including the following: 	false
+mission_text_text_mis_activity_own_n_provinces_with_cultural_dominance	Hold at least one settlement in %n {{tr:map_provinces}} in which your religion is dominant.	false
+mission_text_text_mis_event_issuer_europeans	Issuing faction: 	false
+mission_text_text_mis_activity_own_n_units_specific	Maintain a total of %n units of the following type: 	false
+mission_text_text_mis_construct_n_of_building_chain	Construct %n buildings from the following chains: 	false
+mission_text_text_mis_perform_assignment_any_province_target	Send any character to %n on any assignment	false
+mission_text_text_mis_outcome_abort_description	Due to the following unforeseen circumstances, you are no longer able to accomplish this mission: 	false
+mission_text_text_mis_activity_attack_force_faction	Attack a force belonging to the following faction in battle: 	false
+mission_text_text_mis_activity_attack_force_any	Attack any force in battle.	false
+mission_text_text_payload_character_gravitas	Gravitas:	false
+mission_text_text_mis_activity_attack_navy_faction	Attack a navy belonging to the following faction in battle: 	false
+mission_text_text_mis_hinder_settlement_of_subculture	Use a [[img:icon_hero]][[/img]]Hero to perform an action against a settlement belonging to the following race:	false
+mission_text_text_mis_activity_control_n_regions_client_including_n	Control the following %n settlements either by direct ownership or through vassals and military allies: 	false
+mission_text_text_mis_give_ceo_to_character_one_of_many	Give any of the following items to %n:	false
+mission_text_text_mis_no_more_than_x_religion_in_all_provinces	Ensure that there is no more than %n% of the following corruption across all {{tr:map_provinces}}.	false
+mission_text_text_title_missions_and_quests	Missions & Quests	false
+mission_text_text_mis_activity_raze_sack_n_settlements_religion	Raze or sack %n different settlements belonging to the following religion: 	false
+mission_text_text_mis_become_world_leader	Become an emperor of China	false
+mission_text_text_mis_activity_defeat_army_specific	Engage the following general's army in battle: 	false
+mission_text_text_mis_reach_specified_turn	Reach the following turn: 	false
+mission_text_text_mis_construct_n_buildings_from	Ensure that %n of the following buildings have been constructed: 	false
+mission_text_text_mis_achieve_character_level_no_generals	Reach rank %2% with %1% [[img:icon_hero]][[/img]]Hero(es).	false
+mission_text_text_mis_defeat_n_armies	Defeat %n armies or garrisons.	false
+mission_text_text_3k_ytr_emperor_ascension_scripted	Declare a new Yellow Sky emperor after achieving enlightenment	false
+mission_text_text_mis_perform_assignment_any_with_province_and_character	Send %n to %n on any assignment	false
+mission_text_text_mis_activity_income_at_least_x_targetted	At the end of your turn the following faction should have an income of at least {{tr:icon_income}}%n	false
+mission_text_text_mis_activity_control_n_regions_satrapy	Control %n settlements either by direct ownership or through vassals and military allies.	false
+mission_text_text_mis_activity_sabotage_building_faction	Use an agent against a settlement belonging to the following faction: 	false
+mission_text_text_mis_activity_capture_region	Capture and occupy the following settlement: 	false
+mission_text_text_3k_dlc06_scripted_own_nanman_regions	Control all 21 Nanman Lands counties.	false
+mission_text_text_mis_activity_make_alliance_any	Forge a defensive or military alliance with any faction.	false
+mission_text_text_mis_activity_raise_fleet	Raise a fleet.	false
+mission_text_text_mis_region_text	%2%, %1%	false
+mission_text_text_mis_activity_raid_enemy_of_faction	Raid a {{tr:map_region}} belonging to any of the following enemies of	false
+mission_text_text_mis_defeat_n_armies_of_subculture_victory_type	Defeat %1% armies or garrisons from the following subculture, achieving a %2%:	false
+mission_text_text_mis_activity_capture_region_any	Capture and occupy any settlement.	false
+mission_text_text_mis_demand_tribute_specific_faction	Receive %n in diplomatic tribute from the following faction: 	false
+mission_text_text_mis_own_embed_agent_in_army	Embed a %n [[img:icon_hero]][[/img]]Hero into the following [[img:icon_general]][[/img]]Lord's army:	false
+mission_text_text_mis_defeat_n_armies_of_faction_with_character_victory_type	Using %2%'s army, defeat %1% armies or garrisons belonging to the following faction, achieving a %3%:	false
+mission_text_text_mis_activity_eliminate_in_battle_of_enemy_of_faction	In battle, eliminate a [[img:icon_general]][[/img]]general belonging to any of the following enemies of	false
+mission_text_text_mis_activity_own_n_units_specific_co_op	Together with your co-operative ally, maintain a total of %n units of the following type: 	false
+mission_text_text_mis_defeat_n_armies_victory_type	Defeat %1% armies or garrisons, achieving a %2%.	false
+mission_text_text_mis_research_n_techs_including	Research %n reforms.	false
+mission_text_text_mis_activity_construct_n_buildings_from	Ensure that %n of the following buildings have been constructed: 	false
+mission_text_text_mis_assassinate_x_characters_from_faction	Carry out a successful assassination attempt against %n characters belonging to the following faction:	false
+mission_text_text_mis_activity_control_n_regions_client_including	Control %n settlements either by direct ownership or through vassals and military allies, including the following: 	false
+mission_text_text_mis_activity_make_satrap_of_faction	Make a vassal of the following faction: 	false
+mission_text_text_objective_status_issued	Chapter Objective Issued!	false
+mission_text_text_mis_give_ceo_to_faction_any	Equip any faction item.	false
+mission_text_text_generic_current_total_money_out_of	{{tr:icon_money}}%n / %n	false
+mission_text_text_mis_activity_form_alliance_with	Forge an alliance with the following faction: %n	false
+mission_text_text_mis_activity_control_n_provinces_nooption_including	Maintain control of %n {{tr:map_provinces}} including the following, either by direct ownership or through military allies: 	false
+mission_text_text_mis_activity_raid_subculture_with_character	Raid any {{tr:map_region}} belonging to the following subculture: %n with the following character's army:	false
+mission_text_text_mis_activity_research_tech	Research a reforms in the following category: 	false
+mission_text_text_payload_diplomacy	Relations with this faction will be affected: 	false
+mission_text_text_3k_dlc06_scripted_unite_the_tribes	Gain the Fealties of all Nanman Tribes	false
+mission_text_text_mis_activity_raze_or_conquer_n_settlements	Capture and occupy or raze %n different settlements before your opponent, or destroy their faction.	false
+mission_text_text_mis_give_ceo_to_character_one	Give the following item to %n:	false
+mission_text_text_mis_activity_own_a_region_in_n_provinces_1_of_1	Hold at least one settlement in the following {{tr:map_province}}: 	false
+mission_text_text_mis_abort_char_died	This character has died.	false
+mission_text_text_mis_event_time	Turns remaining: 	false
+mission_text_text_mis_hire_character_target	Hire the following character: %1%	false
+mission_text_text_mis_reach_x_loyalty_for_character	Reach at least %1% satisfaction for %2%	false
+mission_text_text_mis_no_more_than_x_religion_in_provinces	Ensure that there is no more than %n% of the following corruption in the specified {{tr:map_provinces}}: 	false
+mission_text_text_3k_dlc04_scripted_defeat_the_han_empire	Defeat the Han Empire and win the war.	false
+mission_text_text_mis_activity_mp_competitive_involves_horde	Defeat your opponent by completely destroying their faction.	false
+mission_text_text_mis_activity_recruit_agent_any	Recruit %n character(s).	false
+mission_text_text_mis_activity_control_n_provinces_client_including_at_least_n	Control at least %n of the following {{tr:map_provinces}} either by direct ownership or through vassals and military allies: 	false
+mission_text_text_mis_activity_construct_building_chain_in_region	Construct a building from the following chain in %n:	false
+mission_text_text_mis_assassinate_x_characters_of_type_from_faction	Carry out a successful assassination attempt against %1% characters of %2% type belonging to the following faction:	false
+mission_text_text_mis_activity_control_n_regions_client_including_at_least_n	Control at least %n of the following settlements either by direct ownership or through vassals and military allies: 	false
+mission_text_text_mis_activity_control_n_ports_satrapy_including_n	Control the following %n port settlements either by direct ownership or through vassals and military allies: 	false
+mission_text_text_quest_status_abort	Quest Aborted!	false
+mission_text_text_mis_activity_have_n_satrapies	Become the master of %n vassals.	false
+mission_text_text_mis_abort_char_faction_destroyed	The faction to which this character belonged has been destroyed.	false
+mission_text_text_mis_move_any_character_to_region	Move any character to the following {{tr:map_region}}:	false
+mission_text_text_mis_activity_raze_sack_n_settlements_1_of_1	Raze or sack the following settlement:	false
+mission_text_text_mis_pooled_resource_income_at_least_x_region	At the start of your turn, have at least %2% %1% income in the following region:	false
+mission_text_text_mis_recruit_n_units_from	Recruit and maintain a total of %n at the start of a new turn.	false
+mission_text_text_mis_activity_income_at_least_x	At the end of your turn, have an income of at least {{tr:icon_income}}%n	false
+mission_text_text_mis_outcome_abort	Mission Aborted!	false
+mission_text_text_mis_activity_own_n_mercenary_units	Maintain %n mercenary units.	false
+mission_text_text_mis_activity_recruit_agent	Recruit the following character: 	false
+mission_text_text_mis_construct_no_buildings_type	Ensure that you possess none of the following buildings: 	false
+mission_text_text_mis_activity_control_n_provinces_nooption_including_n	Maintain control of the following %n {{tr:map_provinces}}, either by direct ownership or through military allies: 	false
+mission_text_text_mis_activity_lift_blockade_port	Lift the blockade upon the following port settlement: 	false
+mission_text_text_mis_activity_raise_force	Raise a force.	false
+mission_text_text_mis_activity_attack_army_any	Attack any army in battle.	false
+mission_text_text_mis_fight_set_piece_battle_required_character_specific	Win the following battle with %n's army:	false
+mission_text_text_mis_assassinate_x_characters	Carry out a successful assassination attempt against %n characters.	false
+mission_text_text_mis_activity_control_n_regions_nooption_including_solo	Control %n settlements by direct ownership, including the following: 	false
+mission_text_text_mis_activity_assassinate_char	Carry out a successful assassination attempt against following character: 	false
+mission_text_text_mis_activity_defeat_navy_of_enemy_of_faction	Defeat a fleet belonging to any of the following enemies of	false
+mission_text_text_mis_activity_raise_army_region	Raise an army at the following settlement: 	false
+mission_text_text_mis_activity_subjugate_faction_satrapy	Defeat this faction by capturing or razing its last remaining settlement, or become its master by making it your vassal: 	false
+mission_text_text_grudges_status_issued	Grudge Issued!	false
+mission_text_text_mis_achieve_global_food_surpluss	Achieve global food surplus, current value: 	false
+mission_text_text_mis_activity_control_n_provinces_including	Maintain control of %n {{tr:map_provinces}} including the following, either by direct ownership or through vassals: 	false
+mission_text_text_mis_move_character_to_region	Move %n to the following {{tr:map_region}}:	false
+mission_text_text_mis_activity_defeat_force_faction	Defeat a force belonging to the following faction in battle:	false
+mission_text_text_mis_activity_control_n_regions_exclude_allies_including	Control %n settlements by direct ownership, including the following: 	false
+mission_text_text_mis_activity_control_n_ports_satrapy	Control %n port settlements either by direct ownership or through vassals and military allies.	false
+mission_text_text_generic_current_total_out_of_coop	Current combined total: %n / %n	false
+mission_text_text_mis_abort_region_lost	The target {{tr:map_region }} has been lost.	false
+mission_text_text_mis_activity_own_n_regions_including	Hold %n settlements, including the following: 	false
+mission_text_text_mis_defeat_n_armies_of_faction	Defeat %1% armies or garrisons from the following faction:	false
+mission_text_text_mis_maintain_at_least_x_political_power	Ensure that you have at least %n% political power.	false
+mission_text_text_objective_status_abort	Chapter Objective Aborted!	false
+mission_text_text_mis_destroy_all_world_leaders	Conquer and control all emperor seats	false
+mission_text_text_mis_activity_own_n_naval_units	Maintain %n naval units.	false
+mission_text_text_mis_activity_control_n_provinces	Maintain control of %n {{tr:map_provinces}}, either by direct ownership or through vassals.	false
+mission_text_text_payload_fame	Prestige:	false
+mission_text_text_mis_activity_own_n_provinces_with_cultural_dominance_including	Hold at least one settlement in %n {{tr:map_provinces}} in which your religion is dominant, including the following: 	false
+mission_text_text_mis_bonus_completed	Bonus objectives completed: %n / %n	false
+mission_text_text_mis_pooled_resource_total_at_least_x_province	At the start of your turn, have at least %2% %1% in the following province:	false
+mission_text_text_mis_activity_liberate_regions_to_faction	Liberate %n {{tr:map_regions}} to the following faction: %n	false
+mission_text_text_mis_activity_fully_own_n_sea_regions	Have complete control over %n sea {{tr:map_region }}.	false
+mission_text_text_mis_pooled_resource_total_at_least_x_region	At the start of your turn, have at least %2% %1% in the following region:	false
+mission_text_text_mis_hire_character	Hire a character	false
+mission_text_text_mis_activity_capture_region_faction	Capture and occupy a settlement belonging to the following faction: 	false
+mission_text_text_mis_perform_assignment_specific_with_character	Send %n on the following assignment:	false
+mission_text_text_mis_activity_own_n_units_progress	Current units: %n	false
+mission_text_text_mis_give_ceo_to_faction_one	Equip the following to your faction:	false
+mission_text_text_mis_activity_own_a_region_in_n_provinces_including	Hold at least one settlement in %n individual {{tr:map_provinces}}, including the following: 	false
+mission_text_text_payload_rebellion_slaves	Slave revolt!	false
+mission_text_text_mis_activity_make_alliance_faction	Forge a defensive or military alliance with the following faction: 	false
+mission_text_text_mis_assign_character_to_post	Assign a character to %n	false
+mission_text_text_mis_assign_general_character	Assign %1% to a general post.	false
+mission_text_text_mis_activity_form_alliance_with_any	Forge an alliance with any of the following factions:	false
+mission_text_text_mis_activity_research_n_techs_of_type_x_progress	Current reforms researched: %n	false
+mission_text_text_mis_abort_not_invading	This faction is no longer invading your territory.	false
+mission_text_text_mis_activity_own_a_region_in_n_provinces_including_n	Hold at least one settlement in the following {{tr:map_provinces}}: 	false
+mission_text_text_mis_activity_hold_entirety_of_n_provinces_1_of_1	Hold the entirety of the following {{tr:map_province}}: 	false
+mission_text_text_mis_construct_building_in_provinces	Construct the specified building in the following {{tr:map_provinces}}: 	false
+mission_text_text_mis_activity_own_n_types_of_mercenary_units	Maintain %n different types of mercenary units.	false
+mission_text_text_mis_limit_faction_to_regions	Ensure that any military presence belonging to the %n faction exists only in the following {{tr:map_region}}:	false
+mission_text_text_mis_activity_own_a_region_in_n_provinces	Hold at least one settlement in %n individual {{tr:map_provinces}}.	false
+mission_text_text_mis_activity_control_n_regions_exclude_allies	Control %n settlements by direct ownership.	false
+mission_text_text_mis_activity_attain_faction_progression_level	Reach faction rank %n	false
+mission_text_text_payload_buildings_damaged	Buildings in this settlement have been damaged.	false
+mission_text_text_mis_activity_control_n_regions_including	Control %n settlements (either by direct ownership or through vassals) including the following: 	false
+mission_text_text_mis_embed_spy	Embed a spy in the following faction:	false
+mission_text_text_mis_abort_your_region_lost	You have lost this settlement to another faction.	false
+mission_text_text_quest_status_fail	Quest Failed!	false
+mission_text_text_objective_all_2_main_heading	Chapter II: Desolation	false
+mission_text_text_mis_meet_other_objectives_without_allying_with_faction	Meet other objectives without allying with the following faction: %n	false
+mission_text_text_mis_activity_control_n_regions_nooption_including_n_solo	Control the following %n settlements by direct ownership: 	false
+mission_text_text_mis_activity_raid_faction	Raid a settlement or trade route belonging to the following faction: 	false
+mission_text_text_mis_activity_defeat_fleet_specific	Defeat the following general's fleet in battle: 	false
+mission_text_text_mis_activity_construct_building_chain	Construct a building from the following chain: 	false
+mission_text_text_mis_activity_attack_army_of_enemy_of_faction	Attack an army belonging to any of the following enemies of	false
+mission_text_text_objective_all_5_main_description	"The day of reckoning has come."	false
+mission_text_text_mis_keep_army_in_provinces	Maintain a military presence in each of the following {{tr:map_provinces}}: 	false
+mission_text_text_mis_event_activity	Task: 	false
+mission_text_text_mis_destroy_factions	Destroy the following faction(s):	false
+mission_text_text_mis_activity_sabotage_force_faction	Use an agent against an army belonging to the following faction: 	false
+mission_text_text_mis_activity_raze_sack_n_settlements_of_subculture	Raze or sack %n different settlements belonging to the following subculture:	false
+mission_text_text_objective_all_4_main_description	"There will be no mercy for the wicked."	false
+mission_text_text_mis_activity_control_n_ports_client	Control %n port settlements either by direct ownership or through vassals and military allies.	false
+mission_text_text_payload_grant_unit_multi	Units: 	false
+mission_text_text_objective_all_4_main_heading	Chapter IV: Retribution	false
+mission_text_text_quest_status_issued	Quest Issued!	false
+mission_text_text_mis_abort_destroyed	The target has been destroyed.	false
+mission_text_text_mis_activity_achieve_victory_3	Achieve one of the victory conditions.	false
+mission_text_text_mis_activity_subjugate_n_factions_satrapy	Defeat %n different factions by capturing or razing their last remaining settlement, or become their master by making them vassals.	false
+mission_text_text_mis_abort_region_captured_allied	This settlement has been captured by an allied faction.	false
+mission_text_text_mis_assassinate_x_characters_from_subculture	Carry out a successful assassination attempt against %n characters belonging to the following race:	false
+mission_text_text_mis_activity_blockade_faction	Blockade a port settlement belonging to the following faction: 	false
+mission_text_text_mis_pooled_resource_income_at_least_x_province	At the start of your turn, have at least %2% %1% income in the following province:	false
+mission_text_text_mis_perform_assignment_specific_with_province_and_character	Send %n to %n on the following assignment:	false
+mission_text_text_mis_earn_at_least_x_from_raiding	Earn the following amount from raiding:	false
+mission_text_text_mis_activity_control_n_provinces_puppet_including_all	Maintain control of all of the following {{tr:map_provinces}}, either by direct ownership or through vassals and military allies: 	false
+mission_text_text_mis_activity_control_n_provinces_satrapy_including_at_least_n	Control at least %n of the following {{tr:map_provinces}} either by direct ownership or through vassals and military allies: 	false
+mission_text_text_mis_defeat_n_armies_of_faction_victory_type	Defeat %1% armies or garrisons from the following faction, achieving a %2%:	false
+mission_text_text_mis_give_ceo_to_faction_one_of_many	Equip any of the following to your faction:	false
+mission_text_text_mis_activity_defeat_force_raiding_any	Defeat any raiding force in battle: 	false
+mission_text_text_mis_defeat_n_armies_of_subculture_with_character_victory_type	Using %2%'s army, defeat %1% armies or garrisons belonging to the following subculture, achieving a %3%:	false
+mission_text_text_mis_activity_control_n_ports_nooption	Control %n port settlements either by direct ownership or through military allies.	false
+mission_text_text_mis_outcome_success_shogun	"Our allies have sent an envoy. They are most grateful that we have been able to accomplish the task."	false
+mission_text_text_mis_activity_control_n_regions_nooption_solo	Control %n settlements by direct ownership.	false
+mission_text_text_quest_status_success	Quest Successful!	false
+mission_text_text_mis_activity_form_alliance_with_all	Forge an alliance with all of the following factions:	false
+mission_text_text_mis_activity_own_n_types_of_mercenary_units_co_op	Together with your co-operative ally, maintain %n different types of mercenary units.	false
+mission_text_text_mis_activity_construct_building_chains_in_region	Construct a building from all of the following chains in %n:	false
+mission_text_text_mis_perform_assignment_specific_province_target	Send any character to %n on the following assignment:	false
+mission_text_text_mis_activity_raise_fleet_region	Raise a fleet at the following settlement: 	false
+mission_text_text_mis_abort_subculture_destroyed	Mission failed, subculture destroyed	false
+mission_text_text_mis_activity_defeat_navy_any	Defeat any fleet in battle.	false
+mission_text_text_mis_activity_confederate_faction	Make the following faction join your confederation: 	false
+mission_text_text_mis_activity_raze_sack_n_settlements	Raze or sack %n settlements.	false
+mission_text_text_mis_activity_control_n_provinces_satrapy	Maintain control of %n {{tr:map_provinces}}, either by direct ownership or through vassals and military allies.	false
+mission_text_text_mis_activity_eliminate_in_battle_char	Eliminate the following general in battle: 	false
+mission_text_text_mis_give_tribute_any_faction	Give %n in diplomatic tribute to any faction. 	false
+mission_text_text_mis_activity_recruit_unit_type	Recruit the following type of unit: 	false
+mission_text_text_mis_activity_control_n_regions_exclude_allies_including_n	Control the following %n settlements by direct ownership: 	false
+mission_text_text_mis_defeat_n_armies_of_subculture	Defeat %1% armies or garrisons from the following subculture:	false
+mission_text_text_generic_current_total	Current total: %n	false
+mission_text_text_mis_activity_loot_sack_n_settlements	Loot or sack %n different settlements.	false
+mission_text_text_mis_activity_lift_blockade_any	Lift any blockade.	false
+mission_text_text_mis_fight_set_piece_battle_required_character	Win the following battle:	false
+mission_text_text_mis_reach_specified_date	Reach the following date: 	false
+mission_text_text_mis_defeat_n_armies_of_subculture_with_character	Using %2%'s army, defeat %1% armies or garrisons belonging to the following subculture:	false
+mission_text_text_mis_pooled_resource_income_at_least_x_faction_target	At the start of your turn the following faction should have at least %2% %1% income	false
+mission_text_text_mis_activity_sabotage_force_invade	Use an agent against the following invading army: 	false
+mission_text_text_mis_issued_objective	Objective Issued!	false
+mission_text_text_mis_construct_building	Ensure that the following building has been constructed: 	false
+mission_text_text_mis_outcome_fail_description	The mission deadline has elapsed.	false
+mission_text_text_mis_activity_raise_army	Raise an army.	false
+mission_text_text_mis_activity_control_n_provinces_satrapy_including_n	Maintain control of the following %n {{tr:map_provinces}}, either by direct ownership or through vassals and military allies: 	false
+mission_text_text_mis_activity_control_n_provinces_client_1_of_many	Maintain control of at least one of the following {{tr:map_provinces}}, either by direct ownership or through vassals and military allies: 	false
+mission_text_text_mis_activity_sabotage_building	Use an agent against the following settlement: 	false
+mission_text_text_mis_outcome_fail	Mission Failed!	false
+mission_text_text_mis_have_n_units_of_type_in_army	Have %1% %2% unit(s) in the following character's army:	false
+mission_text_text_mis_pooled_resource_total_at_least_x_faction_target	At the start of your turn the following faction should have at least %2% %1%	false
+mission_text_text_mis_abort_faction_became_allied	You have become allied to this faction.	false
+mission_text_text_mis_activity_control_n_regions_satrapy_including_at_least_n	Control at least %n of the following settlements either by direct ownership or through vassals and military allies: 	false
+mission_text_text_mis_construct_n_buildings_in_region_including	Construct the %n following buildings in %n: 	false
+mission_text_text_mis_event_issuer_shogun	Issuing faction: 	false
+mission_text_text_mis_activity_control_n_regions_satrapy_including	Control %n settlements either by direct ownership or through vassals and military allies, including the following: 	false
+mission_text_text_mis_activity_sabotage_force_any	Use an agent against any army.	false
+mission_text_text_mis_deploy_agent_type_in_province	Deploy a %n character(s) in the following {{tr:map_province}}:	false
+mission_text_text_mis_activity_own_n_units_co_op	Together with your co-operative ally, maintain %n units in total.	false
+mission_text_text_mis_activity_have_n_allies	Have a defensive or military alliance with %n factions.	false
+mission_text_text_mis_pooled_resource_total_at_least_x_faction	At the start of your turn, have at least %2% %1%	false
+mission_text_text_mis_activity_end_rebellion	Crush the uprising in the following settlement: 	false
+mission_text_text_mis_activity_own_n_naval_units_co_op	Together with your co-operative ally, maintain %n naval units.	false
+mission_text_text_mis_have_at_least_x_public_order_in_all_provinces	Maintain at least %n {{tr:public_order}} across all {{tr:map_provinces}}.	false
+mission_text_text_mis_activity_defeat_army_of_enemy_of_faction_invade	Engage an invading army belonging to any of the following enemies of	false
+mission_text_text_title_grudges_and_quests	Grudges & Quests	false
+mission_text_text_mis_activity_control_n_regions_satrapy_including_n	Control the following %n settlements either by direct ownership or through vassals and military allies: 	false
+mission_text_text_mis_activity_hold_entirety_of_n_provinces_including	Hold the entirety of at least %n of the following {{tr:map_provinces}}: 	false
+mission_text_text_mis_activity_control_n_provinces_nooption_1_of_many	Maintain control of at least one of the following {{tr:map_provinces}}, either by direct ownership or through military allies: 	false
+mission_text_text_mis_assign_governer_post_character	Assign %1% to an administrator post.	false
+mission_text_text_mis_pooled_resource_income_at_least_x_force	At the start of your turn, have at least %2% %1% income in the following military force:	false
+mission_text_text_mis_achieve_character_level_type	Reach rank %2% with %1% %3% character(s).	false
+mission_text_text_mis_activity_defeat_army_faction	Engage an army belonging to the following faction in battle: 	false
+mission_text_text_mis_activity_control_n_regions_nooption	Control %n settlements either by direct ownership or through military allies.	false
+mission_text_text_mis_activity_defeat_army_of_enemy_of_faction	Engage an army belonging to any of the following enemies of	false
+mission_text_text_mis_activity_have_n_confederated_factions	Have %n factions join your confederation.	false
+mission_text_text_mis_activity_own_n_ports_including	Hold %n port settlements, including the following: 	false
+mission_text_text_mis_activity_control_n_provinces_client	Maintain control of %n {{tr:map_provinces}}, either by direct ownership or through vassals and military allies.	false
+mission_text_text_mis_activity_research_n_military_techs	Research %n military technologies.	false
+mission_text_text_mis_complete_quest_chain	Complete %n quest chain(s).	false
+mission_text_text_mis_construct_n_of_specific_building_chain	Construct %n buildings from the following chains: 	false
+mission_text_text_mis_mission_added	This mission has been added to your missions list.	false
+mission_text_text_mis_bonus_added	New bonus objectives have been added!	false
+mission_text_text_mis_activity_research_one_tech	Research a reform.	false
+mission_text_text_grudges_status_abort	Grudge Aborted!	false
+mission_text_text_mis_activity_control_n_ports_client_including	Control %n port settlements either by direct ownership or through vassals and military allies, including the following: 	false
+mission_text_text_payload_unlock_building	Enables the construction of: 	false
+mission_text_text_mis_construct_n_of_buildings	Construct %n of each of the following buildings: 	false
+mission_text_text_mis_activity_raze_sack_n_settlements_of_enemy_of_faction	Raze or sack a settlement belonging to any of the following enemies of %n	false
+mission_text_text_mis_event_description	Details: 	false
+mission_text_text_mis_perform_assignment_any	Send any character on assignment	false
+mission_text_text_mis_activity_construct_building	Ensure that the following building has been constructed: 	false
+mission_text_text_mis_activity_have_co_op_ally	Be allied with the other human player	false
+mission_text_text_mis_achieve_character_level	Reach rank %2% with %1% character(s).	false
+mission_text_text_mis_pooled_resource_total_at_least_x_force	At the start of your turn, have at least %2% %1% in the following military force:	false
+mission_text_text_mis_abort_char_reassigned_faction	This character has moved to another faction.	false
+mission_text_text_mis_abort_region_captured_neutral	This settlement has been captured by a neutral faction.	false
+mission_text_text_mis_outcome_success_europeans	"Our allies have sent an envoy. They are most grateful that we have been able to accomplish the task."	false
+mission_text_text_mis_activity_own_n_regions_1_of_1	Capture the following settlement:	false
+mission_text_text_mis_assassinate_x_characters_of_type	Carry out a successful assassination attempt against %1% characters of %2% type.	false
+mission_text_text_mis_earn_at_least_x_from_building_wealth	Produce the following amount of wealth from all buildings: %n	false
+mission_text_text_payload_rebellion	Rebellion!	false
+mission_text_text_3k_dlc06_scripted_have_a_treaty	Have a treaty with a faction (non-aggression pact, military access or trade agreement)	false
+mission_text_text_mis_activity_raze_or_conquer_n_settlements_coop	Between you and your co-op partner, raze or conquer at least %n different settlements.	false
+mission_text_text_objective_all_2_main_description	"Attila was born from darkness and despair."	false
+mission_text_text_mis_activity_raze_sack_n_settlements_religion_1_of_1	Raze or sack at least one settlement belonging to the following religion: 	false
+mission_text_text_mis_activity_assassinate_faction	Carry out a successful assassination attempt against a character belonging to the following faction: 	false
+mission_text_text_mis_have_n_units_of_any_of_type_in_army	Have %1% of any of the following unit(s):\\n%2%\\nIn the following character's army:	false
+mission_text_text_mis_destroy_factions_any_of	Destroy one of the following faction(s):	false
+mission_text_text_mis_activity_make_satrap_of_faction_any	Make a vassal of any faction.	false
+mission_text_text_mis_activity_attack_army_invade	Attack an invading army belonging to the following faction in battle: 	false
+mission_text_text_grudges_status_success	Grudge Removed!	false
+mission_text_text_mis_activity_blockade_port	Blockade the following port settlement: 	false
+mission_text_text_mis_activity_control_n_regions_nooption_including_n	Control the following %n settlements either by direct ownership or through military allies: 	false
+mission_text_text_mis_abort_containing_region_captured_neutral	The {{tr:map_region }} which contains the target has been captured by a neutral faction.	false
+mission_text_text_mis_abort_region_captured_self	You captured the target settlement.	false
+mission_text_text_3k_scripted_save_the_emperor	Save the Han emperor by delivering him from his captors	false
+mission_text_text_mis_activity_raid_subculture	Raid any {{tr:map_region}} belonging to the following subculture: %n	false
+mission_text_text_mis_abandon_n_regions_including	Abandon %n settlements including the following:	false
+mission_text_text_mis_activity_own_n_mercenary_units_co_op	Together with your co-operative ally, maintain %n mercenary units.	false
+mission_text_text_mis_have_n_agents_of_types	Maintain %n of the following characters: 	false
+mission_text_text_mis_trigger_waaaghs	Trigger %n Waaagh!	false
+mission_text_text_payload_treasury	{{tr:treasury}}: 	false
+mission_text_text_mis_character_has_x_influence	Obtain %n reputation with the following character:	false
+mission_text_text_mis_activity_eliminate_in_battle_faction	Eliminate a general belonging to the following faction in battle: 	false
+mission_text_text_generic_current_total_coop	Current combined total: %n	false
+mission_text_text_mis_own_resources	Obtain access to the following resource(s):	false
+mission_text_text_mis_event_reward	Reward: 	false
+mission_text_text_mis_activity_blockade_port_any	Blockade any port settlement.	false
+mission_text_text_mis_activity_capture_region_enemy_of_faction	Capture and occupy a settlement belonging to any of the following enemies of	false
+mission_text_text_mis_event_issuer_clan	Issuing faction: 	false
+mission_text_text_mis_perform_assignment_any_with_character	Send %n on any assignment	false
+mission_text_text_3k_dlc04_scripted_manipulate_factions	Manipulate any faction	false
+mission_text_text_payload_grant_agent_single	Character: 	false
+mission_text_text_mis_activity_sabotage_building_any	Use an agent against any settlement.	false
+mission_text_text_mis_activity_form_alliance	Forge an alliance with any faction	false
+mission_text_text_mis_issued	Mission Issued!	false
+mission_text_text_mis_activity_control_n_provinces_nooption	Maintain control of %n {{tr:map_provinces}}, either by direct ownership or through military allies.	false
+mission_text_text_construct_any_building	Construct or Upgrade a Building	false
+mission_text_text_mis_activity_confederate_faction_any	Make a faction join your confederation.	false

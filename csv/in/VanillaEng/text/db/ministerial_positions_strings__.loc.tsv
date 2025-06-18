@@ -1,0 +1,129 @@
+key	text	tooltip
+#Loc;1;text/db/ministerial_positions_strings__.loc		
+ministerial_positions_strings_on_screen_3k_dlc05_court_offices_underling_description	The underling attends to matters both civil and military in their assigned commanderies; matters that you cannot spare your attention for.	false
+ministerial_positions_strings_on_screen_3k_ytr_court_offices_heaven_lord_description	Originally a title held by Zhang Jue himself, the General of Heaven is responsible for ensuring the Will of Heaven is correctly interpreted and carried out.\\n\\nThis office can only be held by [[b]]scholar[[/b]] characters.\\n\\n[[col:scope_description]]Increases industry income and provides bonuses to local morale and public order[[/col]]	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_offices_next_in_line	Next in Line	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_liu_biao_academy_student_title	Student	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_minister_sun_ce_commander_wood	Director of Finance	false
+ministerial_positions_strings_on_screen_3k_dlc06_court_offices_nanman_seer_default_description	Only the wisest amongst the tribes are fit to advise their leader, and only a foolish leader would ignore their sage and tested advice.	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_minister_sun_ce_commander_fire_description	The director is responsible keeping the officers disciplined and in excellent shape.	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_chancellor	The {{tr:chancellor}} is the chief civil officer, the first of your appointed ministers and second only to you in the court hierarchy.	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_liu_biao_academy_tutor_title	Tutor	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_grand_commandant	The grand commandant is your commander-in-chief, with supreme operational oversight in military matters.\\n\\nCharacters in this position become part of your [[b]]faction council[[/b]].	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_minister_sun_ce_official_earth	Chancellor	false
+ministerial_positions_strings_on_screen_3k_ytr_court_offices_governor_description	Local leaders supervise life in the commanderies, ensuring that the people are provided with wisdom and guidance.	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_administrators	Power decentralised is power consolidated. Administrators oversee both civil and military matters within their assigned commanderies.	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_inspector_earth	Government Inspector	false
+ministerial_positions_strings_on_screen_3k_ytr_court_offices_land_great	Great Commander	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_minister_of_finance_description	At a modest salary of 2,000 shi, the minister of finance controls the imperial treasury, overseeing state expenses in conjunction with the minister steward.	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_inspector_water	Economic Inspector	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_offices_next_in_line_description	You must have a next-in-line to succeed you, in case the worst should happen.	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_minister_sun_ce_commander_earth	Director of Records	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_liu_biao_academy_scholar	Knowledge, once learned, must be passed on - that is the eternal duty of the scholar.	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_general_in_chief	Imperial Chancellor	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_offices_minister_negotiator_description	The unbending negotiator ensures your cultural differences do not negatively impact diplomatic relations whilst keeping your own ministers in line.	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_inspector_earth_description	There is much a general learns managing the logistics of an army.	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_offices_underling	Underling	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_minister_of_the_imperial_household_description	The minister of the imperial household is primarily concerned with the security of the head of the imperial family, both within and without the imperial palace. For this most important of tasks, they are paid 2,000 shi a year.	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_minister_sun_ce_commander_fire	Director of Officers	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_general_in_chief_description	The highest official position in the government, the imperial chancellor commands a salary of 10,000 shi and is responsible for each and every civil servant in the administration.	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_minister_sun_ce_official_water_description	The grand tutor advises officials in foreign affairs and personal conduct when dealing with envoys.\\n\\nCharacters in this position become part of your [[b]]faction council[[/b]].	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_offices_right_hand	Right Hand	false
+ministerial_positions_strings_on_screen_ep_court_office_sima_yue_military_emissary	Military Emissary	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_minister_earth_dong_zhuo	Counsellor	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_minister_water_han_empire	Grand Tutor	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_liu_biao_academy_tutor	To teach is to inspire the uninspired, and empower the powerless. It is selfless, and utterly vital.	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_inspector_water_description	Mathematics is the universal language of logic and this man studied the art well.	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_inspector_metal	Industrial Inspector	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_minister_of_ceremonies_description	Matters of the mystic and the supernatural fall under the purview of the minister of ceremonies, who commands a salary of 2,000 shi for their service to the empire.	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_minister_of_the_imperial_clan_description	The minister of the imperial clan is responsible - at 2,000 shi a year - for recording and reporting on the conduct of the imperial family.	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_minister_of_justice	Minister of Justice	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_grand_commandant_description	Commanding far more than just their impressive salary of 10,000 shi, the grand commandant is the supreme military commander of all imperial forces.	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_offices_faction_next_in_line_description	You must have an next-in-line to succeed you in case the worst should happen.	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_minister_coachman	Minister Coachman	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_grand_tutor_description	The grand tutor advises officials in foreign affairs and personal conduct when dealing with envoys.\\n\\nCharacters in this position become part of your [[b]]faction council[[/b]].	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_minister_wood_han_empire	Grand Director	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_liu_biao_academy_student	You have taken tentative steps towards enlightenment. As your understanding grows, so too does your skill.	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_minister_herald	Minister Herald	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_minister_herald_description	The minister herald draws a wage of 2,000 shi and acts as chief seneschal to the empire, receiving all dignitaries, state guests and members of the imperial family within the empire.	false
+ministerial_positions_strings_on_screen_3k_dlc06_nanman_court_offices_governor_default_description	The southlands of the Nanman are vast, bursting with myriad cultures and peoples. As a single leader cannot be everywhere at once, local chiefs are relied upon to maintain order and keep the peace.	false
+ministerial_positions_strings_on_screen_3k_dlc06_court_offices_nanman_minister_prime_minister	Advisor	false
+ministerial_positions_strings_on_screen_3k_ytr_court_offices_people_great	Great Healer 	false
+ministerial_positions_strings_on_screen_3k_dlc06_court_offices_nanman_minister_prime_minister_description	Only the most trusted and wise are seen as capable of advising their liege on matters of leadership.	false
+ministerial_positions_strings_on_screen_3k_ytr_court_offices_land_lord_description	This title was originally held by Zhang Bao. The General of the Land is responsible for all living things on earth.\\n\\nThis office can only be held by [[b]]veteran[[/b]] characters.\\n\\n[[col:scope_description]]Increases peasantry income and provides bonuses to local construction cost and retinue upkeep[[/col]]	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_offices_minister_master_of_arms	Master of Arms	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_grand_excellency	The grand excellency manages affairs of the treasury and oversees development projects in your commanderies. \\n\\nCharacters in this position become part of your [[b]]faction council[[/b]].	false
+ministerial_positions_strings_on_screen_ep_court_office_sima_yue_provincial_advisor	Provincial Advisor	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_minister_earth_han_empire	Chancellor	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_inspector_wood_description	Knowledge of the land is not only applicable to matters of warfare.	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_offices_minister_enforcer_description	The relentless enforcer gets the most out of your men on the battlefield whilst keeping those at home quiet.	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_offices_minister_enforcer	Relentless Enforcer	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_minister_of_the_guards_description	The minister of the guards is charged with matters of security, including the guards assigned to the imperial palaces. This duty comes with a salary of 2000 shi.	false
+ministerial_positions_strings_on_screen_3k_dlc06_court_offices_nanman_seer_default	Seer	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_minister_of_justice_description	As the chief legal officer of the state, the minister of justice is charged with reviewing and ruling on matter of both provicincial and imperial law. For his service, he is paid 2,000 shi.	false
+ministerial_positions_strings_on_screen_3k_dlc06_court_offices_nanman_tribal_council_default_description	The tribal council is a most venerated group, whose sage advice is cherished greatly by their leader. \\n\\n As you gain the fealty of more major tribes, the council will grow accordingly.	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_grand_tutor	Grand Tutor	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_inspector_metal_description	State enterprises provide employment opprtunities to give the common man promise of a better future.	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_offices_minister_negotiator	Unbending Negotiator 	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_inspector_fire	Military Inspector	false
+ministerial_positions_strings_on_screen_3k_ytr_court_offices_people_lord_description	Zhang Liang originally held this title. Its role is to be a bridge between heaven and earth and maintain harmony.\\n\\nThis office can only be held by [[b]]healer[[/b]] characters.\\n\\n[[col:scope_description]]Increases commerce income and provides bonuses to local populationi growth and replenishment[[/col]]	false
+ministerial_positions_strings_on_screen_3k_ytr_court_offices_heaven_great	Great Learned One	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_offices_right_hand_description	Your second in command - who are you to trust if you cannot trust them?	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_offices_minister_incense_master_description	The incense master is your ceremonial officer and oversees inductions into your service. They are the first of your appointed ministers and second only to you in the council hierarchy.	false
+ministerial_positions_strings_on_screen_3k_main_court_family_faction_heir	Faction Heir	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_minister_sun_ce_official_fire	Grand Commandant	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_minister_of_ceremonies	Minister of Ceremonies	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_faction_heir_description	You must have an heir to succeed you, chosen from your family or, failing that, your most loyal companion.	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_minister_sun_ce_official_metal_description	The grand architect is responsible for the construction, maintenance and repair of imperial and official buildings. \\n\\nCharacters in this position become part of your [[b]]faction council[[/b]].	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_offices_minister_master_of_arms_description	The master of arms has supreme strategic oversight over military matters, ensuring you get the most from your plundering.	false
+ministerial_positions_strings_on_screen_3k_dlc06_court_offices_nanman_tribal_council_default	Tribal Council	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_offices_minister_incense_master	Incense Master	false
+ministerial_positions_strings_on_screen_3k_ytr_court_offices_land_great_description	The great commander ensures that the people are reminded to live in harmony with the earth and encourages the virtue of frugality.\\n\\nThis office can only be held by [[b]]veteran[[/b]] characters.	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_minister_fire_han_empire	Grand Commandant	false
+ministerial_positions_strings_on_screen_3k_ytr_court_offices_people_great_description	The great healer is responsible for the well-being of the people. He espouses compassion and ensures the sick and the weak are tended to across the land.\\n\\nThis office can only be held by [[b]]healer[[/b]] characters.	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_minister_steward_description	The minister steward is charged with arrangement of the emperor's personal needs, from food and drink to health and entertainment. This duty comes with a salary of 2,000 shi.	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_grand_excellency_over_the_masses	Grand Excellency Over the Masses	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_minister_prime_minister	{{tr:prime_minister}}	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_inspector_fire_description	A man who can motivate the hearts of the people will be in no short supply of able men.	false
+ministerial_positions_strings_on_screen_3k_ytr_court_offices_land_lord	General of the Land	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_minister_sun_ce_official_wood	Grand Excellency	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_grand_excellency_of_works	Grand Excellency of Works	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_minister_sun_ce_commander_metal	Court Physician	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_grand_commandant	Grand Commandant	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_candidates	These are notable individuals, currently known to you, who are ready to offer their services to your faction. Recruit a candidate into an available role to bring them into your court.	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_minister_of_finance	Minister of Finance	false
+ministerial_positions_strings_on_screen_3k_dlc06_nanman_court_offices_governor_default	Cave Lord	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_minister_steward	Minister Steward	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_minister_sun_ce_official_wood_description	The grand excellency manages the affairs of the treasury and oversees development projects in your commanderies. \\n\\nCharacters in this position become part of your [[b]]faction council[[/b]].	false
+ministerial_positions_strings_on_screen_ep_court_office_sima_yue_military_emissary_description	This position is a military representative to the government, liaising between civic and military departments of the government.	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_minister_sun_ce_commander_water_description	Knowing of the activities of the entire realm falls to the investigator – even those occurring in foreign courts.	false
+ministerial_positions_strings_on_screen_3k_main_court_family_faction_leader	Faction Leader	false
+ministerial_positions_strings_on_screen_ep_court_office_sima_yue_provincial_advisor_description	The provincial advisor is a representative of the central government, sent to the commanderies to supervise and control.	false
+ministerial_positions_strings_on_screen_3k_ytr_court_offices_heaven_great_description	The great learned one is responsible for understanding the mysteries contained within the sacred scriptures, and the embodiment of humility.\\n\\nThis office can only be held by [[b]]scholar[[/b]] characters.	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_minister_sun_ce_official_earth_description	The {{tr:chancellor}} is the chief civil officer, the first of your appointed ministers and second only to you in the court hierarchy.	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_governor_default	Administrator	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_minister_sun_ce_official_fire_description	The grand commandant is your commander-in-chief, with supreme operational oversight in military matters.\\n\\nCharacters in this position become part of your [[b]]faction council[[/b]].	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_minister_metal_han_empire	Grand Excellency	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_minister_sun_ce_official_water	Grand Tutor	false
+ministerial_positions_strings_on_screen_placeholder	[PH]	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_minister_sun_ce_commander_metal_description	Through medical treatment and sound advice, the court physician maintain members of the court in their best shape.	false
+ministerial_positions_strings_on_screen_3k_ytr_court_offices_people_lord	General of the People	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_grand_excellency_over_the_masses_description	As the supreme authority for imperial law and political affairs, this grand excellency takes a not-insignificant salary of 10,000 shi for their work governing the populace.	false
+ministerial_positions_strings_on_screen_3k_ytr_court_offices_governor	Local Leaders	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_minister_of_the_imperial_clan	Minister of the Imperial Clan	false
+ministerial_positions_strings_on_screen_3k_ytr_court_offices_heaven_lord	General of Heaven	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_grand_director	The grand director is the head of the officials, overseeing community organisation in your commanderies.\\n\\nCharacters in this position become part of your [[b]]faction council[[/b]].	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_liu_biao_academy_scholar_title	Scholar	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_attendants	You need not spread yourself thinly to deal with every single matter under your jurisdiction. Attendants are members of your court who are currently on assignment, doing your bidding.	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_prime_minister_description	{{tr:prime_minister_description}} \\n\\nCharacters in this position become part of your [[b]]faction council[[/b]].	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_grand_excellency_of_works_description	The grand excellency of works presides of all imperial infrastructure and related projects, including the treasury. Needless to say, their 10,000 shi salary is well-earned.	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_minister_sun_ce_commander_earth_description	Through strict oversight, the director is able to appoint and remove inefficient officials.	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_minister_sun_ce_commander_water	Investigator of Transgressions	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_offices_minister_smuggler_description	The chief smuggler ensures your armies' pockets and bellies are full whilst raiding.	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_minister_sun_ce_official_metal	Grand Architect	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_minister_coachman_description	Drawing a modest salary of 2,000 shi, the minister coachman administers the use of horses and carriages from the imperial stables, as well as supplying the military with cavalry and all associated equipment.	false
+ministerial_positions_strings_on_screen_3k_main_court_offices_inspector_wood	Agricultural Inspector	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_minister_sun_ce_commander_wood_description	The director helps to maintain and investigate the treasury, ensuring that no-one is skimming off the top.	false
+ministerial_positions_strings_on_screen_3k_dlc05_court_offices_minister_smuggler	Chief Smuggler	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_minister_of_the_imperial_household	Minister of the Imperial Household	false
+ministerial_positions_strings_on_screen_3k_dlc04_court_offices_minister_of_the_guards	Minister of the Guards	false
