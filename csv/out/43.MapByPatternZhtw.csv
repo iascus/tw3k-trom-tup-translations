@@ -54,6 +54,7 @@ A furious strike that sends anyone nearby reeling.,3,,飽含怒火的一擊，�
 A group of unusual men sporting shaved heads disembark from a ship.  They claim to have journeyed from distant lands to spread the teachings of Buddha. Perhaps it will be worth supporting them?,1,從船上下來一群剃光頭的異人。他們自稱從遙遠地方來此傳播佛道。也許值得支持他們？,,hv_TEXT_events.loc.tsv
 "A heavy bow made of iron is not easy to use for ordinary archers. \\n\n The range is rather short due to the strong tension and heavy arrowheads, but the arrows will penetrate the enemy. \\n\n This unit is heavily armed with ironclad, and in close combat, it cuts enemy troops with direct distribution.",1,沉重的鐵弓，對普通弓箭手來說不容易使用。\\n\\n由於强大的張力和沉重的箭頭，射程很短，但箭頭會穿透敵人。\\n\\n這隻部隊裝備有鐵甲，在近距離戰鬥中，可以輕易砍殺敵軍。,,hv_TEXT_unit_long_desc.loc.tsv
 "A hero's resolve is not to seem the bravest, but to be it.",2,,英雄的決心並非裝模作樣，而是發自內心的勇氣。,z_dummy_hv_TEXT_non_deployable.loc.tsv
+A leader not only should acquire abled strategists but also the willingness to listen to their counsel.,2,,,!!path_to_unity__.loc.tsv
 "A letter was sent to Lady Wu of the famous Wu family in Jiangdong - no words, only a drawing of a dying tiger. Soon after, she came to visit you secretly and you brought her into your faction. Your time together reaffirms what’s said about Lady Wu - a practical approach and a devotion to her loved ones. You wonder if your family could be the benefactor of her piety. ",1,,,[04]__MTU_events___Concubine.loc.tsv
 A lifetime spent learning the ways of heaven will turn thoughts into belief.,2,畢生學習天道，便能將想法化為信念。,畢生學習天道，便能將想法化為信念。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 A look at the battlefield with remarkable insight.,4,,以非凡的觀察力縱觀戰場。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -80,6 +81,7 @@ A quiet but enthusiastic supporter.,1,安靜但熱情的支持者。,,z_dummy_hv
 "A reckless charge, inspiring but exhausting!",3,,悍然衝鋒，令人激賞，但也消耗氣力！,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 A regiment of the Northern Army will join your faction.,1,一個北軍兵團會加入您的勢力。,,hv_TEXT_events.loc.tsv
 A remarkable talent.,138,,才華橫溢,hv_TEXT_skills_additional.loc.tsv
+A return to the past when fun and carefree times were more prominent.,2,,,!!path_to_unity__.loc.tsv
 A second wind has come.,1,梵風再起，野火重來。,,hv_TEXT_effects_pooled_resource.loc.tsv
 A self-defense sword that Jian Yong used to carry in his travels.,1,,,[02]__MTU_items__Weapons.loc.tsv
 "A shabby warband requests to join your faction. After Lu Bu's defeat, his daughter Lu Ji seems to have been leading the survivors. However, granting them sanctuary may cause their enemies to come after us.",1,一隻殘軍請求加入您的勢力。呂布戰敗後，其女呂姬收攏潰卒。然而，接納他們可能會惹惱呂布之敵。,,hv_TEXT_events.loc.tsv
@@ -89,6 +91,7 @@ A shout to inspire soldiers.,1,,軍令如山，凡不聽約束者斬無赦。,hv
 "A single shot, timed and aimed to perfection, outweighs a thousand wasted volleys.",2,,一千發虛擲的矢石，比不上一記時機拿捏得恰到好處的精準射擊。,hv_TEXT_skills_skill_ability__historical.loc.tsv
 A special arrow containing a toxic substance.,2,,含有有毒物質的特殊箭頭。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 A splendid spear with a sharpness that could cut the sky.,1,,,[02]__MTU_items__Weapons.loc.tsv
+"A stable foothold is a must. Xu may not have been the place for you, but Jing will surely be a spring board towards all directions.",2,,,!!path_to_unity__.loc.tsv
 A successful hunt,1,狩獵成功,,hv_TEXT_events.loc.tsv
 "A surprise invasion is launched by the Xiongnu and the city is devastated. Many are wounded or captured during the assault. One of your military advisors informs you that Cai Yong's daughter, the last of his line, Cai Yan is among those captured by the barbarians. The Xiongnu chanyu Liu Bao has placed a sizeable ransom price on her head.\\n",1,,,[04]__MTU_events___Cai_family.loc.tsv
 "A surprise invasion is launched by the Xiongnu and your city is devastated. Many are wounded or captured during the assault. One of your military advisors informs you that Cai Yong's daughter, the last of his line, Cai Yan is among those captured by the barbarians. The Xiongnu chanyu Liu Bao has taken her and all the others back north with his horde.",1,,,[04]__MTU_events___Cai_family.loc.tsv
@@ -318,6 +321,7 @@ Active Debuff Enemy,14,敵方主動減益,,hv_TEXT_skills_skill_ability_name_des
 Active Debuff Enemy (Auto),1,敵方主動減益（自動）,,hv_TEXT_unit_abilities.loc.tsv
 Adamant Resolve,2,,堅定不移,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Adaptation is the only way to live.,1,,視情況變化而採因應之道。,hv_TEXT_unit_abilities.loc.tsv
+Adopted Son,1,,,hv_TEXT_events.loc.tsv
 Adoption Proposal to Guan Yu,1,,,[04]__MTU_events__Common.loc.tsv
 Advisor,1,謀士,,[01]__MTU_generals__Water_strategist.loc.tsv
 "After Dong Zhou's death at the hands of his adopted son Lu Bu, it was observed that the notable scholar Cai Yong mourned his passing. Upon hearing this, Wang Yun ordered troops to capture him and for his execution. ""Cai Yong mourned as the tyrant lie dead! It's clear his loyalty lied with Dong Zhou! Treason!"" exclaimed Wang Yun, madness in his eyes.\\n",1,,,[04]__MTU_events___Cai_family.loc.tsv
@@ -347,6 +351,8 @@ An inevitable rule to stabilize the turmoil.,2,嚴政方能定亂。,,hv_TEXT_po
 An outnumbered army will fight even harder. Skill trumps numbers.,2,,以寡擊眾之軍更能背水一戰。實力遠比數量重要。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 An untamable woman of the Trieu Dynasty who fights to see her people free.,1,,,[01]__MTU_generals__Wood_champion.loc.tsv
 Analyse Weakness,1,,分析弱點,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Ancestral Heartlands,2,,,!!path_to_unity__.loc.tsv
+Ancestral Homecoming,2,,,!!path_to_unity__.loc.tsv
 Anger pushes their limits.,1,,憤怒把他們逼至極限。,hv_TEXT_unit_abilities.loc.tsv
 Angry Scolding,4,,懿旨,[03]__MTU_skills__Active_debuff.loc.tsv
 Anguo,1,,,[05]__MTU_sys__Names.loc.tsv
@@ -360,9 +366,9 @@ Anti-Cavalry Tactics,15,,反騎兵戰術,hv_TEXT_skills_skill_ability__historica
 "Anti-Cavalry, Low Armour-Piercing Damage",23,反騎兵，穿甲傷害低,,hv_TEXT_unit_ui_group_VM.loc.tsv
 Archer of the West,2,,,[01]__MTU_generals__Metal_sentienl.loc.tsv
 "Archer of the West, Hua Lanli",1,,,[04]__MTU_events___Concubine.loc.tsv
-Archery Masters,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Archery Masters,1,,箭術高手,hv_TEXT_unit_text_replacements.loc.tsv
 Argumentative and annoying scholars.,1,好辯又煩人的學者。,,z_dummy_hv_TEXT_non_deployable.loc.tsv
-Arm of the Supreme Peace,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Arm of the Supreme Peace,1,,太平鐵臂軍,hv_TEXT_unit_text_replacements.loc.tsv
 "Armed with bow and sword, these disciplined riders enforce the will of their warlord.",1,佩戴劍弓，這些紀律嚴明的騎手執行他們主公的意志。,,hv_TEXT_unit_desc.loc.tsv
 "Armed with bow and sword, these hardy soldiers enforce the will of their warlord.",1,佩戴劍弓，這些硬朗的士兵執行他們主公的意志。,,hv_TEXT_unit_desc.loc.tsv
 Armour Breaker,3,,破甲,hv_TEXT_unit_abilities_hit_effects.loc.tsv
@@ -371,7 +377,7 @@ Armour broken.,1,,再堅韌的鎧甲也能被擊破。,hv_TEXT_unit_abilities_hi
 Armour protects precious warhorses from enemy projectiles.,2,,保護馬匹免於箭矢兵器的傷害。,hv_TEXT_unit_abilities.loc.tsv
 Army,3,,,hv_TEXT_etc.loc.tsv
 Army of the Great Banner,1,集兵練卒,,hv_TEXT_events.loc.tsv
-Artillery,4,遠程砲兵,,hv_TEXT_unit_ui_group_t1.loc.tsv
+Artillery,4,,,hv_TEXT_unit_ui_group_t1.loc.tsv
 Artillery (Buqu),1,,砲兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
 Artillery (Elite),1,,砲兵（精銳）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
 Artillery (Militia),1,,砲兵（義勇）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
@@ -390,6 +396,19 @@ Assignments,2,,,hv_TEXT_pooled_resource.loc.tsv
 "At no surprise to many, war has been declared between Yuan Shu and Liu Bei. At your next court meeting, your strategists and advisors debate whether their war is a blessing or a curse for your faction. One advisor, opposed to the war, puts forths that you invite generals from both factions to a feast and suggest they abide by Heaven’s command - by means of you attempting an extraordinary, if not impossible feat of shooting the plume off your halberd from a great distance. If the shot is successful, they must make peace.",1,,,[04]__MTU_events__Common.loc.tsv
 At the beginning of a new journey all must learn the new way.,1,,,hv_TEXT_building.loc.tsv
 "At the head of charge they draw their spears, driving home with a righteous cry!",1,,,hv_TEXT_unit_desc.loc.tsv
+"At the start of your turn, have Gongsun Zan be rank 8 or higher",1,,回合開始時公孫瓚達到等級8以上,!!path_to_unity__.loc.tsv
+"At the start of your turn, have Guan Yu be rank 5 or higher",1,,回合開始時關羽達到等級5以上,!!path_to_unity__.loc.tsv
+"At the start of your turn, have Huang Zhong be rank 8 or higher",1,,回合開始時黃忠達到等級8以上,!!path_to_unity__.loc.tsv
+"At the start of your turn, have Lady Mi be rank 8 or higher",1,,回合開始時麋夫人達到等級8以上,!!path_to_unity__.loc.tsv
+"At the start of your turn, have Liu Bei be rank 5 or higher",1,,回合開始時劉備達到等級5以上,!!path_to_unity__.loc.tsv
+"At the start of your turn, have Lu Zhi be rank 8 or higher",1,,回合開始時盧植達到等級8以上,!!path_to_unity__.loc.tsv
+"At the start of your turn, have Ma Chao be rank 8 or higher",1,,回合開始時馬超達到等級8以上,!!path_to_unity__.loc.tsv
+"At the start of your turn, have Pang Tong be rank 8 or higher",1,,回合開始時龐統達到等級8以上,!!path_to_unity__.loc.tsv
+"At the start of your turn, have Sun Ren be rank 8 or higher",1,,回合開始時孫仁達到等級8以上,!!path_to_unity__.loc.tsv
+"At the start of your turn, have Wei Yan be rank 8 or higher",1,,回合開始時魏延達到等級8以上,!!path_to_unity__.loc.tsv
+"At the start of your turn, have Zhang Fei be rank 5 or higher",1,,回合開始時張飛達到等級5以上,!!path_to_unity__.loc.tsv
+"At the start of your turn, have Zhao Yun be rank 8 or higher",1,,回合開始時趙雲達到等級8以上,!!path_to_unity__.loc.tsv
+"At the start of your turn, have Zhuge Liang be rank 8 or higher",1,,回合開始時諸葛亮達到等級8以上,!!path_to_unity__.loc.tsv
 Attached Building,1,,,hv_TEXT_building.loc.tsv
 Attack is the best defence.,1,,進攻就是最好的防禦。,hv_TEXT_unit_abilities.loc.tsv
 Attend,1,出席,,ifo_text_TWEAK.loc.tsv
@@ -399,16 +418,16 @@ Avenge,4,,逐北,[03]__MTU_skills___Splash_attack.loc.tsv
 "Average Hit Rate, High Armour-Piercing Damage",32,命中率一般，穿甲傷害高,,hv_TEXT_unit_ui_group_VM.loc.tsv
 "Average Hit Rate, Multi-Role",25,命中率一般，多重角色,,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 "Average Range, Low Armour-Piercing Damage, Fast Reload",3,一般距離，穿甲傷害低，射擊速率快,,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
-Azure Dragons,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Azure Dragons,1,,蒼龍軍,hv_TEXT_unit_text_replacements.loc.tsv
 Baby Protector,1,,,[02]__MTU_items__Weapons.loc.tsv
 Bandit,1,盜賊,,[01]__MTU_generals__Water_strategist.loc.tsv
 Bandit Follower,1,,,[01]__MTU_generals__Metal_sentienl.loc.tsv
-Bandit Hunters,1,,,hv_TEXT_unit_text_replacements.loc.tsv
-Bandit Marauders,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Bandit Hunters,1,,盜賊獵手,hv_TEXT_unit_text_replacements.loc.tsv
+Bandit Marauders,1,,盜賊掠奪者,hv_TEXT_unit_text_replacements.loc.tsv
 Bandit Queen,1,,,hv_TEXT_cb_loadout.loc.tsv
 Bandit Slayer,1,蕩寇將軍,,hv_TEXT_ceo_career.loc.tsv
 Bandit Spear Gang,1,,盜賊槍兵團,hv_TEXT_unit_text_replacements.loc.tsv
-Bandit Warriors,1,,盜賊戰士,hv_TEXT_unit_text_replacements.loc.tsv
+Bandit Warriors,1,,盜賊兵,hv_TEXT_unit_text_replacements.loc.tsv
 Bandit: Dead or Alive,3,,匪徒：你死我活,hv_TEXT_unit_abilities.loc.tsv
 Bandit: Deeply-Rooted,3,,匪徒：根深蒂固,hv_TEXT_unit_abilities.loc.tsv
 Bandit: Grievous Bite,4,,匪徒：重創撕咬,hv_TEXT_unit_abilities.loc.tsv
@@ -417,7 +436,7 @@ Bandit: Strike First,3,,匪徒：先發制人,hv_TEXT_unit_abilities.loc.tsv
 Banditry,1,劫盜序列,,hv_TEXT_building.loc.tsv
 Bandits Captain,1,,盜賊校尉,hv_TEXT_unit_text_replacements.loc.tsv
 Barded,3,,重馬鎧,hv_TEXT_unit_abilities.loc.tsv
-Barn Swallows,1,燕子兵,,hv_TEXT_unit_text_replacements.loc.tsv
+Barn Swallows,1,,燕子兵,hv_TEXT_unit_text_replacements.loc.tsv
 Battle Hardened (Cavalry),3,,久經沙場（騎兵）,hv_TEXT_unit_abilities.loc.tsv
 Battle Hardened (Melee),3,,久經沙場（近戰）,hv_TEXT_unit_abilities.loc.tsv
 Battle Hardened (Ranged),3,,久經沙場（遠程）,hv_TEXT_unit_abilities.loc.tsv
@@ -441,7 +460,7 @@ Binding Fury,3,,怒不可抑,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Black Mountain,1,黑山,,hv_TEXT_pooled_resource.loc.tsv
 Black Mountain / Opportunistic Alignment,1,黑山 / 趨利之盟,,hv_TEXT_frontend_features.loc.tsv
 Black Mountain Brotherhood,3,,手足,hv_TEXT_unit_abilities.loc.tsv
-Black Mountain Marauders,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Black Mountain Marauders,1,,黑山掠奪者,hv_TEXT_unit_text_replacements.loc.tsv
 Black Mountain Raider Cavalry,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Black Mountain Raiders,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Black Mountain bandits exploit the chaos to bolster their numbers.,2,黑山贼乘乱以增其之数。,,hv_TEXT_pooled_resource.loc.tsv
@@ -456,7 +475,7 @@ Blazing Roar,1,,燃燒之吼,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Blazing Saddles,1,,炙熱馬鞍,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "Blessed with prodigious foresight, Yan Xiang forsees perils and pitfalls long before they arise.",1,,,[01]__MTU_generals__Water_strategist.loc.tsv
 Blood Rush,4,,虎翼,[03]__MTU_skills__Passive_buff.loc.tsv
-Blood Seekers,1,嗜血兵,,hv_TEXT_unit_text_replacements.loc.tsv
+Blood Seekers,1,,嗜血兵,hv_TEXT_unit_text_replacements.loc.tsv
 Blood Thirst,3,,嗜血成性,hv_TEXT_unit_abilities.loc.tsv
 "Blood boiling in anger, Zhang Fei called his daughter over and shouted at her, his booming voice like thunder. She had drank his precious wine, after all, and a lesson must be taught. However, the ever-defiant Zhang Xueer would not sit in silence - she scolded her father for drinking too much and said she didn’t care if he was upset!",1,,,[04]__MTU_events___daughter.loc.tsv
 Bloody Fury,1,,鮮血之怒,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -465,9 +484,9 @@ Blossoming Beauty,4,,天仙,[03]__MTU_skills__Passive_buff.loc.tsv
 Blowpipes (Buqu),2,,吹箭兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
 Blowpipes (Elite),2,,吹箭兵（精銳）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
 Blowpipes (Militia),2,,吹箭兵（義勇）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
-Blue Turbans,1,青巾兵,,hv_TEXT_unit_text_replacements.loc.tsv
+Blue Turbans,1,,青巾兵,hv_TEXT_unit_text_replacements.loc.tsv
 Bolster,3,,支持,hv_TEXT_unit_abilities.loc.tsv
-Bomb Slingers,1,爆彈兵,,hv_TEXT_unit_text_replacements.loc.tsv
+Bomb Slingers,1,,爆彈兵,hv_TEXT_unit_text_replacements.loc.tsv
 "Born from refugees and those peoples who would not submit to the Han empire, these White Tiger Strays have thrown their lot with Yan Baihu, hoping to safeguard their independance. Wearing bad equipment, the most valuable thing they offer to their commanders is their lives; to sell dearly as better men win the battle for them.",1,白虎流浪兵乃是不願屈服於漢帝國的逃亡者的後代。他們投身於嚴白虎的旗下，希望捍衛他們的自由。身著破爛裝備，他們能做的貢獻只有他們的生命，寄希望於其他精兵來贏得戰鬥。,,hv_TEXT_unit_long_desc.loc.tsv
 "Born to hold the line, This warrior shrugs off attacks as if they were nothing!",3,,此人是天生的護衛將才，所有攻擊對他來說都不痛不癢！,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Bosom Buddy,1,,,[01]__MTU_generals__Metal_sentienl.loc.tsv
@@ -486,12 +505,13 @@ Brawl,5,,毆打,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Brawn of Yangan,4,,鬥牛,[03]__MTU_skills___Splash_attack.loc.tsv
 Breakthrough,3,,突破,hv_TEXT_unit_abilities.loc.tsv
 Bring the fight to them and they will hold their ground.,4,,一旦交鋒，他們能堅守陣地。,hv_TEXT_unit_abilities.loc.tsv
-Bringers of Peace,1,,,hv_TEXT_unit_text_replacements.loc.tsv
-Bringers of Righteousness,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Bringers of Peace,1,,安良軍,hv_TEXT_unit_text_replacements.loc.tsv
+Bringers of Righteousness,1,,正道使者,hv_TEXT_unit_text_replacements.loc.tsv
 Broad Knowledge,7,,淵博,[03]__MTU_skills__Passive_buff.loc.tsv
 Brute Power,9,,蠻力,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Buddhism,1,,,hv_TEXT_etc.loc.tsv
 Buildings,6,建築,,hv_TEXT_pooled_resource.loc.tsv
+Buji,2,,不其,!!path_to_unity__.loc.tsv
 Bulldoze,4,,橫衝直撞,hv_TEXT_unit_abilities.loc.tsv
 Bullheaded Wrath,6,,浴血,[03]__MTU_skills__Passive_buff.loc.tsv
 Buqu Archers,1,,部曲弓兵,hv_TEXT_unit_text_replacements.loc.tsv
@@ -507,7 +527,7 @@ Buqu Sabre Cavalry,1,,部曲刀騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 Buqu Sabre Infantry,1,,部曲持刀步兵,hv_TEXT_unit_text_replacements.loc.tsv
 Buqu Spearmen,1,,部曲長槍兵,hv_TEXT_unit_text_replacements.loc.tsv
 Buqu Swordsmen of Yuan,1,,部曲袁氏劍兵,hv_TEXT_unit_text_replacements.loc.tsv
-Buqu of the Left General,1,左將軍部曲,,hv_TEXT_unit_text_replacements.loc.tsv
+Buqu of the Left General,1,,左將軍部曲,hv_TEXT_unit_text_replacements.loc.tsv
 Burning Soul,5,,燃燒元神,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Bustling (12),2,,,hv_TEXT_effects_pooled_resource.loc.tsv
 Bustling (13),2,,,hv_TEXT_effects_pooled_resource.loc.tsv
@@ -517,6 +537,7 @@ Busy (11),2,,,hv_TEXT_effects_pooled_resource.loc.tsv
 Busy (9),2,,,hv_TEXT_effects_pooled_resource.loc.tsv
 Buy nothing,1,不買任何東西,,hv_TEXT_events.loc.tsv
 "By anticipating the enemy’s movement, Yan Xiang is able to outmaneuver and catch them off-guard.",2,,,[03]__MTU_skills__Active_debuff.loc.tsv
+"By his resolve to ensure peace in his time, Liu Bei must grow as a worthy warlord in this time of chaos to achieve such a path.",2,,,!!path_to_unity__.loc.tsv
 "By the time the victim is aware of what has happened, it is already too late.",1,,等到敵人發現之時就已爲時已晚。,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 Cai Yan,2,,蔡琰,[01]__MTU_generals__Water_strategist.loc.tsv
 Cai Yan is free once more.,1,,,hv_TEXT_events.loc.tsv
@@ -531,11 +552,46 @@ Calm Down,1,,鎮靜,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 Calm Reload,5,,冷靜裝填,hv_TEXT_unit_abilities.loc.tsv
 Caltrops,3,,蒺藜,hv_TEXT_unit_abilities.loc.tsv
 Cao Ang's Armour,1,,曹昂的護甲,hv_TEXT_ceo_career.loc.tsv
-Cao Cao,1,,曹操,hv_TEXT_cb_loadout.loc.tsv
+Cao Cao,2,,曹操,hv_TEXT_cb_loadout.loc.tsv
 Cao Cao's ordered mind encourages his forces to more efficient action!,1,,曹操的聰明睿智能使他的部隊行動更有效率！,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Cao Cao's presence unnerves the enemy general!,2,,曹操在場，敵將備受壓制！,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
-Captain,1,校尉,,hv_TEXT_unit_text_replacements.loc.tsv
-Captain of Yuan House,1,袁氏校尉,,hv_TEXT_unit_text_replacements.loc.tsv
+Captain,1,,校尉,hv_TEXT_unit_text_replacements.loc.tsv
+Captain of Yuan House,1,,袁氏校尉,hv_TEXT_unit_text_replacements.loc.tsv
+Capture 10 settlements with Liu Bei as commander,1,,,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Buji,1,,佔領不其，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Chang'an,1,,佔領長安，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Chengdu,1,,佔領成都，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Danqu,1,,佔領宕渠，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Dongwu,1,,佔領東武，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Gaoyou,1,,佔領高郵，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Haixi,1,,佔領海西，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Hanchang,1,,佔領漢昌，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Hanjia,1,,佔領漢嘉，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Hongnong,1,,佔領弘農，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Huaiyin,1,,佔領淮陰，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Huarong,1,,,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Jiangdu,1,,佔領江都，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Jiangling,1,,,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Jiangzhou,1,,佔領江州，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Kaiyang,1,,佔領開陽，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Langzhong,1,,佔領閬中，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Lantian,1,,佔領藍田，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Linju,1,,佔領臨沮，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Linyuan,1,,佔領臨沅，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Luocheng,1,,佔領洛城，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Luoyang,1,,佔領洛陽，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Luxian,1,,佔領呂縣，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Pengcheng,1,,佔領彭城，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Quren,1,,佔領朐忍，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Tanxian,1,,佔領郯縣，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Xiangyang,1,,佔領襄陽，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Xiapi,1,,佔領下邳，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Xiling,1,,佔領西陵，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Xiyang,1,,佔領西陽，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Xuexian,1,,佔領薛縣，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Yong'an,1,,佔領永安，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Zitong,1,,佔領梓潼，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+Capture or have at the start of your turn Zizhong,1,,佔領資中，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
 Carefully approach and go for the throat.,3,,惡狼謹慎出擊，直奔咽喉。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Causes temporary social turmoil,1,,,hv_TEXT_effects_technology.loc.tsv
 Cautious Approach,4,,匿形,[03]__MTU_skills__Passive_buff.loc.tsv
@@ -546,7 +602,8 @@ Cement your rule with legitimacy! Build an Imperial City that will be the envy o
 Champion of Xiliang,4,,斷蛟,[03]__MTU_skills___Splash_attack.loc.tsv
 Chancellor,1,,,[01]__MTU_generals__Water_strategist.loc.tsv
 Chancellor of Chen,1,,,[01]__MTU_generals__Wood_champion.loc.tsv
-Chanters,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Chang'an,2,,長安,!!path_to_unity__.loc.tsv
+Chanters,1,,念咒班,hv_TEXT_unit_text_replacements.loc.tsv
 Character Joins: Dong Bai,1,人物來投：董白,,hv_TEXT_events.loc.tsv
 Character born: Guan Xing,1,,,[04]__MTU_events__Born.loc.tsv
 Character born: Guan Yinping,1,,,[04]__MTU_events__Born.loc.tsv
@@ -564,12 +621,14 @@ Chen Peacekeepers for recruitment: %+n,1,,,hv_TEXT_effects_unit_cap.loc.tsv
 Chen Repeating Crossbow Defenders,1,,陳國連弩衛,hv_TEXT_unit_text_replacements.loc.tsv
 Chen Royal Guard Cavalry,1,,陳國羽林騎,hv_TEXT_unit_text_replacements.loc.tsv
 Chen Spear Defenders,1,,陳國槍衛,hv_TEXT_unit_text_replacements.loc.tsv
-Cheng Pu,1,,,hv_TEXT_cb_loadout.loc.tsv
-Children of the forest,1,森林之子,,hv_TEXT_unit_text_replacements.loc.tsv
+Cheng Pu,1,,程普,hv_TEXT_cb_loadout.loc.tsv
+Chengdu,2,,成都,!!path_to_unity__.loc.tsv
+Childhood Memories,2,,,!!path_to_unity__.loc.tsv
+Children of the forest,1,,森林之子,hv_TEXT_unit_text_replacements.loc.tsv
 China will be ruled by might,1,,,hv_TEXT_events_rules.loc.tsv
 China will be ruled by virtue,1,,,hv_TEXT_events_rules.loc.tsv
 Choose the targets to focus fire.,6,,選定目標集中射擊。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Chosen of the Eight Immortals,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Chosen of the Eight Immortals,1,,八仙傳人,hv_TEXT_unit_text_replacements.loc.tsv
 Chunyu Qiong,3,,淳于瓊,hv_TEXT_cb_loadout.loc.tsv
 Chunyu Qiong finally came to his senses! He is no longer a drunkard but a general who can lead an army.,1,,,hv_TEXT_events.loc.tsv
 Chunyu Qiong sobers up,1,,,hv_TEXT_events.loc.tsv
@@ -616,7 +675,7 @@ Court Management,1,宮廷管理,,hv_TEXT_skills_additional.loc.tsv
 Covers ally troops to retreat safely.,1,,掩護友軍安全撤離。,hv_TEXT_unit_abilities.loc.tsv
 Coward,7,,懦夫,[03]__MTU_skills__Passive_buff.loc.tsv
 Crippling Strike,4,,摧心,[03]__MTU_skills___Projectile.loc.tsv
-Crossbow Artillery,4,弩炮,,hv_TEXT_unit_ui_group_t1.loc.tsv
+Crossbow Artillery,4,,,hv_TEXT_unit_ui_group_t1.loc.tsv
 Crossbow Artillery (Buqu),1,,弩砲兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
 Crossbow Artillery (Elite),1,,弩砲兵（精銳）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
 Crossbow Artillery (Militia),1,,弩砲兵（義勇）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
@@ -636,10 +695,11 @@ Cultural friction has caused inter-ethnic conflict between Wuhuan barbarians and
 Cultural friction has caused inter-ethnic conflict between Xiongnu barbarians and Han settlers. The turmoil is pushing many to leave the region.,2,,,hv_TEXT_events.loc.tsv
 Culture Blooms ,1,,,[04]__MTU_events___Cai_family.loc.tsv
 Cunning,2,,智謀,z_dummy_hv_TEXT_non_deployable.loc.tsv
-Cunning Monkeys,1,狡猴兵,,hv_TEXT_unit_text_replacements.loc.tsv
+Cunning Monkeys,1,,狡猴兵,hv_TEXT_unit_text_replacements.loc.tsv
 Cut down enemies by making an arc with a blade,4,,使出一記弧形揮砍殺傷敵人,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 DEBUG GUY,1,校尉,,hv_TEXT_cb_loadout.loc.tsv
 "Da Qiao, the elder of the Two Qiaos of Jiangdong, a famous beauty and skilled musician, has come to your faction. You know of her skill as a musician and ask her to sing for you. Her soothing tones wash over you and you cannot help, but consider making her your concubine.",1,,,[04]__MTU_events___Concubine.loc.tsv
+Danqu,2,,宕渠,!!path_to_unity__.loc.tsv
 Danyang Archers,1,,丹陽弓兵,hv_TEXT_unit_text_replacements.loc.tsv
 Danyang Spearmen,1,,丹陽長槍兵,hv_TEXT_unit_text_replacements.loc.tsv
 Danyang Troop Barrack,1,丹陽部隊軍營,,hv_TEXT_building.loc.tsv
@@ -657,8 +717,10 @@ Decay,8,,,hv_TEXT_pooled_resource.loc.tsv
 Decline His Offer,1,,,[04]__MTU_events___Cai_family.loc.tsv
 Decrease,7,降低,,hv_TEXT_pooled_resource.loc.tsv
 Defeat,2,,,hv_TEXT_pooled_resource.loc.tsv
+Defeat Cao Cao,1,,,!!path_to_unity__.loc.tsv
+Defeat Lu Bu,1,,,!!path_to_unity__.loc.tsv
 Defence Hardened,3,,墨守,hv_TEXT_unit_abilities.loc.tsv
-Defenders of Earth,2,,,hv_TEXT_unit_text_replacements.loc.tsv
+Defenders of Earth,2,,后土衛,hv_TEXT_unit_text_replacements.loc.tsv
 Defense is the best attack.,1,,金石之堅，牢不可破。,hv_TEXT_unit_abilities.loc.tsv
 Defensive Stance,3,,防禦姿態,hv_TEXT_unit_abilities.loc.tsv
 Deft Touch,4,,龍韜,[03]__MTU_skills__Active_buff.loc.tsv
@@ -668,11 +730,11 @@ Desperate Stand,3,,背水一戰,hv_TEXT_unit_abilities.loc.tsv
 Desperation soon leads to violence.,2,,萬般無奈之下，唯有殊死一搏。,hv_TEXT_unit_abilities.loc.tsv
 "Despite being a renowned scholar, Cai Yong was executed. Compromised men could not be allowed to further stifle the Han's flame.\\n\\n",1,,,[04]__MTU_events___Cai_family.loc.tsv
 "Despite being extremely agitated that Zhang Xueer had drank his favorite wine, Zhang Fei held back his rage. He explained that wine of such quality was hard to come by and, if she ever felt the need to try his wine again, that she better invite him to drink, too!",1,,,[04]__MTU_events___daughter.loc.tsv
-Destroyers of Treachery,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Destroyers of Treachery,1,,蕩寇軍,hv_TEXT_unit_text_replacements.loc.tsv
 Determination and grit allow all attacks to be dodged.,2,,抱有足夠的決心與膽識便可避開所有攻勢。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Devastating Roar,1,,毀滅之吼,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Devoted Mother,2,躬親主母,,hv_TEXT_ceo_career.loc.tsv
-Dian Wei,1,,,hv_TEXT_cb_loadout.loc.tsv
+Dian Wei,1,,典韋,hv_TEXT_cb_loadout.loc.tsv
 Diao Chan,1,,貂蟬,[dummy]__MTU_dummy.loc.tsv
 Diao Chan's Silk Raiment,1,,貂蟬的丝服,[dummy]__MTU_dummy.loc.tsv
 Diao Chan's beauty is enough to destroy a country in a moment.,1,貂蟬之美足以覆國。,,[dummy]__MTU_dummy.loc.tsv
@@ -703,13 +765,17 @@ Dong Min's Armour,1,,董旻的護甲,[02]__MTU_items__Armour.loc.tsv
 Dong Peishan’s Onyx Emroidered Garment,1,,,[02]__MTU_items__Armour.loc.tsv
 Dong Zhuo,1,,董卓,hv_TEXT_cb_loadout.loc.tsv
 Dong Zhuo's Command,5,,相令,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Dongzhoubing Defenders,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Dongwu,2,,東武,!!path_to_unity__.loc.tsv
+Dongzhoubing Defenders,1,,東州兵衛士,hv_TEXT_unit_text_replacements.loc.tsv
+Dongzhoubing Defenders: for recruitment: %+n,1,,可招募東州兵衛士數：%+n,hv_TEXT_effects_unit_cap.loc.tsv
 Dongzhoubing Marksmen,1,,東州兵射手,hv_TEXT_unit_text_replacements.loc.tsv
+Dongzhoubing Marksmen: for recruitment: %+n,1,,可招募東州兵射手數：%+n,hv_TEXT_effects_unit_cap.loc.tsv
 Double Sword Dance,4,,劍舞,[03]__MTU_skills___Splash_attack.loc.tsv
 "Dozens of books scattered and walked into the mess, and Guan Yu quietly pursuaded Guan Yinping, who was crying. After crying for a long time in father's arms, Guan Yu soothed his daughter and cleaned up the room little by little and started repairing the bookshelf.",1,,,[04]__MTU_events___daughter.loc.tsv
 Dragon Rising,3,,覺醒之龍,hv_TEXT_unit_abilities.loc.tsv
-Dragonlings,1,少龍兵,,hv_TEXT_unit_text_replacements.loc.tsv
-Drifting Warmongers,1,漂流戰販,,hv_TEXT_unit_text_replacements.loc.tsv
+Dragon units for recruitment: %+n,1,可招募五龍軍數：%+n,,hv_TEXT_effects_ceo.loc.tsv
+Dragonlings,1,,少龍兵,hv_TEXT_unit_text_replacements.loc.tsv
+Drifting Warmongers,1,,漂流戰販,hv_TEXT_unit_text_replacements.loc.tsv
 "Driven by unshakeable belief in victory, units surge forward with a spirited charge, their morale soaring as they close in on the enemy, embodying the fervor of a determined assault.",1,,懷著必勝的信念，軍隊奮勇前進，齊心衝鋒。他們的士氣在逼近敵軍時更加高漲，勇猛之勢洶湧而來，無可阻擋。,hv_TEXT_unit_abilities.loc.tsv
 Dual Wield Hafted Weapon Cavalry (Buqu),2,,雙斧騎兵（部曲）,hv_TEXT_unit_ui_group_t2.loc.tsv
 Dual Wield Hafted Weapon Cavalry (Elite),2,,雙斧騎兵（精銳）,hv_TEXT_unit_ui_group_t3.loc.tsv
@@ -728,6 +794,7 @@ Dual Wield Sword Infantry (Elite),7,,雙劍步兵（精銳）,hv_TEXT_unit_ui_gr
 Dual Wield Sword Infantry (Militia),6,,雙劍步兵（義勇）,hv_TEXT_unit_ui_group_t1.loc.tsv
 Duke or Grand Master,1,,,hv_TEXT_etc.loc.tsv
 "Each character in Sun Ce's faction grants him shared expertise points once they reach rank 5. At ranks 9, 12 and 15 they generate one extra point respectively.",2,孫策勢力中每位人物在達到5級后均會與他分享專長點。在9級、12級和15級時他們分別會產生一個額外的點數。,,hv_TEXT_etc.loc.tsv
+Earning Experience,2,,,!!path_to_unity__.loc.tsv
 Earth-shattering Strike,5,,天崩地裂,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Earthen Rampart,4,,大地堡壘,hv_TEXT_skills_skill_ability__historical.loc.tsv
 "Echoing the glory of Chu, the great axes these men wield will make short work of their shielded foes.",1,這些人所揮的大斧是楚國的榮耀，即使是持盾的敵人亦命不久矣。,,hv_TEXT_unit_desc.loc.tsv
@@ -743,7 +810,7 @@ Elephants (Militia),3,,象兵（義勇）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 Elite Archers,1,,精銳弓兵,hv_TEXT_unit_text_replacements.loc.tsv
 Elite Crossbowmen,1,,精銳弩兵,hv_TEXT_unit_text_replacements.loc.tsv
 Elite General,2,良將,,[01]__MTU_generals__Wood_champion.loc.tsv
-Elite Guards of the Eight Talents,1,八才劍衛,,hv_TEXT_unit_text_replacements.loc.tsv
+Elite Guards of the Eight Talents,1,,八才劍衛,hv_TEXT_unit_text_replacements.loc.tsv
 Elite Ji Infantry,1,,精銳戟兵,hv_TEXT_unit_text_replacements.loc.tsv
 Elite Lancer Cataphracts,1,,精銳長槍鐵甲騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 Elite Lancer Cavalry,1,,精銳槍騎,hv_TEXT_unit_text_replacements.loc.tsv
@@ -801,7 +868,7 @@ Every person has their own path.,138,,各行其道,hv_TEXT_skills_additional.loc
 Eviscerate,5,,剔骨,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "Excellent Ji wielders, these soldiers are loyal to Liu Bao to protect the honor of Jing province.",1,精通戟術的卓越戟兵，忠心耿耿地為劉表保衛荊州的榮譽。,,hv_TEXT_unit_desc.loc.tsv
 Exemplar,4,,為人典範,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Exemplars of the Tao,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Exemplars of the Tao,1,,求道模範,hv_TEXT_unit_text_replacements.loc.tsv
 Exemplary Strike,4,,搗穴,[03]__MTU_skills___Splash_attack.loc.tsv
 Expertise,2,,專精,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Fa Zheng,1,,法正,hv_TEXT_cb_loadout.loc.tsv
@@ -811,7 +878,7 @@ Falcon,1,,,[02]__MTU_items__Bow.loc.tsv
 False Retreat,4,,血鬥,[03]__MTU_skills__Passive_buff.loc.tsv
 "Famed for setting the ambush that killed Sun Jian, Huang Zu guards the Yangtze, lying in wait and striking at the most opportune moment.",1,,,[01]__MTU_generals__Wood_champion.loc.tsv
 Fan the flames of war with inextinguishable anger.,3,,以不滅的怒氣煽動戰火。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Fanatics,1,狂信徒,,hv_TEXT_unit_text_replacements.loc.tsv
+Fanatics,1,,狂信徒,hv_TEXT_unit_text_replacements.loc.tsv
 Fanged Flurry,4,,猛蛇,[03]__MTU_skills___Splash_attack.loc.tsv
 Fanged Viper,1,,,[02]__MTU_items__Weapons.loc.tsv
 Fatal Attraction,4,,嫵媚,[03]__MTU_skills__Active_debuff.loc.tsv
@@ -830,13 +897,14 @@ Fighting revitalises them.,1,,戰鬥使他們重煥活力。,hv_TEXT_unit_abilit
 Fire Archers: for recruitment: %+n,1,,可招募火矢弓兵數：%+n,hv_TEXT_effects_unit_cap.loc.tsv
 Fire Bomb,3,,火油彈,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Fire Control,11,,穿楊,hv_TEXT_skills_skill_ability__historical.loc.tsv
-Fire Fiends,1,火煞兵,,hv_TEXT_unit_text_replacements.loc.tsv
+Fire Fiends,1,,火煞兵,hv_TEXT_unit_text_replacements.loc.tsv
 Fire Resistance: %d%%||Damage of flaming attacks is reduced by this amount.,1,,,hv_TEXT_etc.loc.tsv
 Fire explosive bolts to demoralise hostile units.,1,,扔擲爆裂彈來打擊敵軍士氣。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Fire whilst moving,1,,,hv_TEXT_unit_ui_bullet.loc.tsv
 First Characteristic,208,,特性一,hv_TEXT_skills_additional.loc.tsv
 Fist of the Righteous,4,,正氣,[03]__MTU_skills___Splash_attack.loc.tsv
-Fists of the Bandit Queen,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Fists of the Bandit Queen,1,,盜賊女王拳勇團,hv_TEXT_unit_text_replacements.loc.tsv
+Five Tiger Generals,2,五虎上將,,!!path_to_unity__.loc.tsv
 Fixing together and telling her about the fault,1,,,[04]__MTU_events___daughter.loc.tsv
 Flame Breathing,3,,吐火,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 Flame Sling,1,擲火,,hv_TEXT_unit_ui_bullet.loc.tsv
@@ -869,18 +937,21 @@ Foul Wits,4,,遠矚,[03]__MTU_skills__Passive_debuff.loc.tsv
 Free-spirited Heroine,2,,,[01]__MTU_generals__Wood_champion.loc.tsv
 Frenzy,7,,狂暴,[03]__MTU_skills__Passive_buff.loc.tsv
 Friend,1,,,[01]__MTU_generals__Metal_sentienl.loc.tsv
+From Humble Beginnings,2,,,!!path_to_unity__.loc.tsv
 From the Ashes,1,,死灰復燃,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Frontier Assault Cavalry,1,,北疆突擊騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 Frontier Lancer Cavalry,1,,北疆槍騎,hv_TEXT_unit_text_replacements.loc.tsv
 Frontline Observation,7,,前線查探,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Fury of Beihai Assaults,1,,北海之怒衝鋒兵,hv_TEXT_unit_text_replacements.loc.tsv
 Fury of Beihai Marksmen,1,,北海之怒射手,hv_TEXT_unit_text_replacements.loc.tsv
+Gain Colonel of the Northern Army for each objective completed,1,,,hv_TEXT_effects_ceo.loc.tsv
 Gain military benefits at the expense of the relations with other factions.,1,獲得軍事增益，但也會惡化與其他勢力的關係。,,hv_TEXT_frontend_features.loc.tsv
-Gallants of the People,1,,,hv_TEXT_unit_text_replacements.loc.tsv
-Gan Ning,1,,,hv_TEXT_cb_loadout.loc.tsv
+Gallants of the People,1,,護民勇士,hv_TEXT_unit_text_replacements.loc.tsv
+Gan Ning,1,,甘寧,hv_TEXT_cb_loadout.loc.tsv
 "Gan Ning moves ever faster, as fire spreads through the forest.",1,,甘寧有如燎原野火，動作越發迅捷。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Gao Gan's Armour,1,,高幹的護甲,hv_TEXT_ceo_career.loc.tsv
-Gao Shun,1,,,hv_TEXT_cb_loadout.loc.tsv
+Gao Shun,1,,高順,hv_TEXT_cb_loadout.loc.tsv
+Gaoyou,2,,高郵,!!path_to_unity__.loc.tsv
 Garrison Reinforcement,1,駐軍補員,,hv_TEXT_skills_additional.loc.tsv
 Garrisoned armies will support the administration of the local county.,1,駐軍會協助縣內行政事宜。,,hv_TEXT_effects_pooled_resource.loc.tsv
 Gathering Volunteers,1,召集義勇,,hv_TEXT_skills_additional.loc.tsv
@@ -899,32 +970,33 @@ Glaive Infantry (Elite),7,,大刀步兵（精銳）,hv_TEXT_unit_ui_group_t3_VM.
 Glaive Infantry (Militia),7,,大刀步兵（義勇）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 God of War,1,,武聖,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "Goddess of Fire, Lady Zhurong",1,,,[04]__MTU_events___Concubine.loc.tsv
-Gong Du,1,,,hv_TEXT_cb_loadout.loc.tsv
-Gongsun Zan,1,,,hv_TEXT_cb_loadout.loc.tsv
+Gong Du,1,,龔都,hv_TEXT_cb_loadout.loc.tsv
+Gongsun Zan,2,,公孫瓚,hv_TEXT_cb_loadout.loc.tsv
 Good against armour,1,,,hv_TEXT_unit_ui_bullet.loc.tsv
 Good against shields,1,,,hv_TEXT_unit_ui_bullet.loc.tsv
 Goshawk,1,,,[02]__MTU_items__Bow.loc.tsv
-Goshawk Cavalry,1,蒼鷹突騎,,hv_TEXT_unit_text_replacements.loc.tsv
+Goshawk Cavalry,1,,蒼鷹突騎,hv_TEXT_unit_text_replacements.loc.tsv
 Governor,2,太守,,hv_TEXT_cb_loadout.loc.tsv
+Grand Strategists,2,,,!!path_to_unity__.loc.tsv
 "Great danger hides in the early mist of day. Phantoms that will maim their prey, or whose choking gass leaves them gasping for air.",1,,,hv_TEXT_unit_desc.loc.tsv
 Greedy Tyrant,3,,,[01]__MTU_generals__Earth_commander.loc.tsv
 Grenade!,2,,爆彈,hv_TEXT_unit_abilities.loc.tsv
 "Guan Yinping tried to swing her father's Green Dragon Crescent Blade secretly, but accidentally broke the bookshelf that her father had cherished. Guan Yu came into the room late at night to read a book and found this ridiculous situation. Guan Yu was worried about how to talk.",1,,,[04]__MTU_events___daughter.loc.tsv
 Guan Yinping's Armour,1,,,[02]__MTU_items__Armour.loc.tsv
 "Guan Yinping, the precious daughter of peerless Guan Yu, now calls our faction home. Her charm is undeniable, but the apple did not fall far from the tree in the matters of the battlefield, she’s both stoic beauty and a force to be reckoned with. Thus, it’s no surprise that men across the realm desperately seek her hand, but few had the courage or fitting status to dare to approach her legendary father. As for you ...",1,,,[04]__MTU_events___Concubine.loc.tsv
-Guan Yu,1,,,hv_TEXT_cb_loadout.loc.tsv
+Guan Yu,2,,關羽,hv_TEXT_cb_loadout.loc.tsv
 "Guan Yu's face, which seems to have nothing to turn redder, burned redder. But rather than getting angry, he's not gonna know what she did wrong.\\nhe wanted Yinping to feel it for herself.  So Guan Yu instructed Guan Yinping to take care of the mess herself.",1,,,[04]__MTU_events___daughter.loc.tsv
 Guanxibing Spearmen,1,,關西長槍兵,hv_TEXT_unit_text_replacements.loc.tsv
 Guanxibing Swordsmen,1,,關西劍兵,hv_TEXT_unit_text_replacements.loc.tsv
 Guardian,7,,衛足,[03]__MTU_skills__Active_buff.loc.tsv
 Guardian of the People,2,,,[01]__MTU_generals__Wood_champion.loc.tsv
 Guardians of Jing,3,,能武,hv_TEXT_unit_abilities.loc.tsv
-Guardians of the Land,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Guardians of the Land,1,,土地衛士,hv_TEXT_unit_text_replacements.loc.tsv
 Gunpowder,1,,,hv_TEXT_unit_ui_bullet.loc.tsv
 Gunpowder Infantry (Buqu),3,,火器步兵（部曲）,hv_TEXT_unit_ui_group_t2.loc.tsv
 Gunpowder Infantry (Elite),3,,火器步兵（精銳）,hv_TEXT_unit_ui_group_t3.loc.tsv
 Gunpowder Infantry (Militia),3,,火器步兵（義勇）,hv_TEXT_unit_ui_group_t1.loc.tsv
-Guo Jia,1,,,hv_TEXT_cb_loadout.loc.tsv
+Guo Jia,1,,郭嘉,hv_TEXT_cb_loadout.loc.tsv
 Guo Si's Armour,1,,郭汜的護甲,hv_TEXT_ceo_career.loc.tsv
 Guoda,1,,,[05]__MTU_sys__Names.loc.tsv
 Hafted Weapon Cavalry (Buqu),7,,持斧騎兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
@@ -936,6 +1008,7 @@ Hafted Weapon Infantry (Elite),19,,持斧步兵（精銳）,hv_TEXT_unit_ui_grou
 Hafted Weapon Infantry (Militia),16,,持斧步兵（義勇）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 Hail of Arrows,2,,箭如雨下,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "Hailing from Taishan, these women have coated their arrow points in a special ointment, made from poisonous herbs native to the region. In battle, A volley from these archers will soon leave the enemy gasping for air as the poison very quickly spreads through their veins. A wise commander will use these soldiers to spread terror through the enemy ranks, yet keep them well-protected: they are vulnerable to cavalry, as their range is limited.",1,這些女弓手源自泰山，在箭頭上塗抹了一種由該地區特有的毒草製成的特殊膏劑。在戰鬥中，這些弓手的箭雨很快會讓敵人因毒素快速傳播而窒息。明智的領軍會利用這些士兵在敵軍中播撒恐怖，但也要保護好她們：她們的射程有限，無法應對騎兵。,,hv_TEXT_unit_long_desc.loc.tsv
+Haixi,2,,海西,!!path_to_unity__.loc.tsv
 Halberd Infantry (Buqu),1,,持戟步兵（部曲）,hv_TEXT_unit_ui_group_t2.loc.tsv
 Halberd Infantry (Elite),2,,持戟步兵（精銳）,hv_TEXT_unit_ui_group_t3.loc.tsv
 Halberd Infantry (Militia),1,,持戟步兵（義勇）,hv_TEXT_unit_ui_group_t1.loc.tsv
@@ -943,16 +1016,18 @@ Half Barded,3,,輕馬鎧,hv_TEXT_unit_abilities.loc.tsv
 Hamstring,4,,削斷腿筋,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Han Provincial Repeating Crossbowmen,1,,州屬連弩兵,hv_TEXT_unit_text_replacements.loc.tsv
 Han Provincial Spearmen,1,,州屬長槍兵,hv_TEXT_unit_text_replacements.loc.tsv
-Han Sui,1,,,hv_TEXT_cb_loadout.loc.tsv
+Han Sui,1,,韓遂,hv_TEXT_cb_loadout.loc.tsv
+Hanchang,2,,漢昌,!!path_to_unity__.loc.tsv
 Hand-Ji Infantry (Buqu),2,,手戟步兵（部曲）,hv_TEXT_unit_ui_group_t2.loc.tsv
 Hand-Ji Infantry (Elite),2,,手戟步兵（精銳）,hv_TEXT_unit_ui_group_t3.loc.tsv
 Hand-Ji Infantry (Militia),2,,手戟步兵（義勇）,hv_TEXT_unit_ui_group_t1.loc.tsv
-Handmaid Guards,1,護衛侍女,,hv_TEXT_unit_text_replacements.loc.tsv
+Handmaid Guards,1,,護衛侍女,hv_TEXT_unit_text_replacements.loc.tsv
+Hanjia,2,,漢嘉,!!path_to_unity__.loc.tsv
 "Hardened Xiliang soldies, these elite spearmen will hold the line against all comers.",1,這些精銳矛兵是百經錘煉的西涼戰士，會堅守陣地對抗所有來敵。,,hv_TEXT_unit_desc.loc.tsv
 "Having defended their home for long enough, even militia may grow to rival professional soldiers.",1,,,hv_TEXT_unit_desc.loc.tsv
 "Having fled from their homes, these craftsmen and artisans turn their skills to the defence of their new home and master. \\n\\n Having been selected as the brightest from the many refugees flooding his lands, these engineers serve Tao Qian to the best of their ability. Wielding crossbows, they provide support from afar and will deploy smoke bombs and caltrops when an enemy strays too close. However, these men are not proper soldiers and should not be relied upon to hold the line in melee.",1,這些工匠逃離了家園，用他們的技能來保衛新家和新主公。\\n\\n陶謙從眾多湧入他領地的難民中挑選出最傑出的工匠，全力為他效力。他們從遠處用弩提供支援。當敵人接近時，他們會使用煙霧彈和鐵蒺藜。然而，這些人並非正規士兵，在近戰中無法堅守陣線。,,hv_TEXT_unit_long_desc.loc.tsv
-He Man,1,,,hv_TEXT_cb_loadout.loc.tsv
-He Yi,1,,,hv_TEXT_cb_loadout.loc.tsv
+He Man,1,,何曼,hv_TEXT_cb_loadout.loc.tsv
+He Yi,1,,何儀,hv_TEXT_cb_loadout.loc.tsv
 He was also a bandit once.,1,,,hv_TEXT_ceo_career.loc.tsv
 He was loved by everyone.,1,,,hv_TEXT_ceo_career.loc.tsv
 Heart Seeker,1,,一箭穿心,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -978,12 +1053,12 @@ Her dignity and wisdom are already renown near and far.,1,,孫吳國太爲人剛
 Her knowledge spreads to fellow generals around her like the veins of a stream.,2,,沒人能不被蔡文姬渾身上下都散發着的學識所影響。,[03]__MTU_skills__Passive_buff.loc.tsv
 Her swords are fast and unpredictable like two rogue waves sweeping across the ocean.,1,,,[02]__MTU_items__Weapons.loc.tsv
 Herald,1,,先驅,z_dummy_hv_TEXT_non_deployable.loc.tsv
-Heroic Outlaws,1,英勇匪徒,,hv_TEXT_unit_text_replacements.loc.tsv
-Hidden Assaults,1,隱秘突擊兵,,hv_TEXT_unit_text_replacements.loc.tsv
+Heroic Outlaws,1,,英勇匪徒,hv_TEXT_unit_text_replacements.loc.tsv
+Hidden Assaults,1,,隱秘突擊兵,hv_TEXT_unit_text_replacements.loc.tsv
 Hidden Flow,1,,,[02]__MTU_items__Weapons.loc.tsv
-Hidden Snakes,1,隱蛇兵,,hv_TEXT_unit_text_replacements.loc.tsv
+Hidden Snakes,1,,隱蛇兵,hv_TEXT_unit_text_replacements.loc.tsv
 Hidden Snakes and Rapid Tigers Tally,1,隱蛇兵與虎賁軍虎符,,hv_TEXT_effects_ceo.loc.tsv
-Hidden Spear Assaults,1,隱槍突擊兵,,hv_TEXT_unit_text_replacements.loc.tsv
+Hidden Spear Assaults,1,,隱槍突擊兵,hv_TEXT_unit_text_replacements.loc.tsv
 "High Hit Rate, Average Armour-Piercing Damage",29,命中率高，穿甲傷害一般,,hv_TEXT_unit_ui_group_t1.loc.tsv
 "High Hit Rate, High Armour-Piercing Damage",13,命中率高，穿甲傷害高,,hv_TEXT_unit_ui_group_t1.loc.tsv
 "High morale unlocks their true potential, enhancing their prowess in the heat of battle.",2,,士氣高昂解鎖其真正潛力，在激烈戰鬥中提升其戰力。,hv_TEXT_unit_abilities.loc.tsv
@@ -998,6 +1073,7 @@ Home region of the Ironfist cavalry,1,鐵拳騎兵起源地,,hv_TEXT_region_army
 Home region of the Jingchu army,1,荊楚軍起源地,,hv_TEXT_region_army.loc.tsv
 Home region of the Xiliang army,1,西涼軍起源地,,hv_TEXT_region_army.loc.tsv
 Hometown Bow,1,,,[02]__MTU_items__Bow.loc.tsv
+Hongnong,2,,弘農,!!path_to_unity__.loc.tsv
 Hooves of Rage,3,,怒蹄,hv_TEXT_unit_abilities.loc.tsv
 Hope of Nam Viet,4,,民意,[03]__MTU_skills__Active_buff.loc.tsv
 Horse Breeding,1,養馬,,hv_TEXT_pooled_resource.loc.tsv
@@ -1007,7 +1083,7 @@ Horse Breeding: Heavenly,1,養馬：天助,,hv_TEXT_effects_pooled_resource.loc.
 Horse Breeding: Inadequate,1,養馬：不足,,hv_TEXT_effects_pooled_resource.loc.tsv
 Horse Breeding: Ordinary,1,養馬：普通,,hv_TEXT_effects_pooled_resource.loc.tsv
 Horse Breeding: Sufficient,1,養馬：有餘,,hv_TEXT_effects_pooled_resource.loc.tsv
-Horseback Huntsmen,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Horseback Huntsmen,1,,馬背獵人,hv_TEXT_unit_text_replacements.loc.tsv
 Hostess,1,女主人,,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Hou Jinting,2,,侯氏,[01]__MTU_generals__Water_strategist.loc.tsv
 Hou Jinting's Embroidered Garment,1,,侯氏的绣服,[02]__MTU_items__Armour.loc.tsv
@@ -1022,7 +1098,7 @@ House Servant Long Spearmen,1,,家僕長槍兵,hv_TEXT_unit_text_replacements.lo
 "House Servant Long Spearmen stand as the bulwark of noble estates' defenses, utilizing their two-handed spears with proficiency to form impenetrable lines against enemy advances. Primarily tasked with the crucial roles of holding territory and repelling cavalry charges, their disciplined formations and effective reach make them a formidable force against mounted foes. Trained to maximize the advantages of their spears, these servants are essential for maintaining the strategic integrity of the territories they guard, ensuring that even the most audacious cavalry assault is met with steadfast resistance.",1,家僕長槍兵負責守護士族莊園，手握雙手長矛組成不可逾越的防線。他們的主要任務是守護陣地，防止騎兵突襲，以嚴整隊形和長矛有力對抗騎兵，是領地防禦中不可或缺的一環。經過訓練，他們精通長矛，即便敵軍騎兵鋪天蓋地而來，他們也能堅定抵抗。,,hv_TEXT_unit_long_desc.loc.tsv
 House Servant Riders,1,,家僕騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 House Yuan's Officer,1,袁氏士官,,hv_TEXT_effects_ceo.loc.tsv
-Household Ji Guards of Yuan,1,袁氏家族戟衛,,hv_TEXT_unit_text_replacements.loc.tsv
+Household Ji Guards of Yuan,1,,袁氏家族戟衛,hv_TEXT_unit_text_replacements.loc.tsv
 How did the state of affairs end up so dire...,2,,梨花帶雨，我見猶憐。,[03]__MTU_skills__Active_buff.loc.tsv
 Hua Lanli,3,,華氏,hv_TEXT_cb_loadout.loc.tsv
 Hua Lanli's Leather Armour,1,,華氏的皮甲,[02]__MTU_items__Armour.loc.tsv
@@ -1032,17 +1108,21 @@ Hua Lanli’s pinpoint accuracy strikes fear in the enemy.,2,,,[03]__MTU_skills_
 Hua Xin,2,,華歆,[01]__MTU_generals__Water_strategist.loc.tsv
 Hua Xin knows and accepts that terrible acts must be committed to preserve his status within the hierarchy.,2,,高瞻之論還需配上願聽忠言之明主。,[03]__MTU_skills__Passive_debuff.loc.tsv
 Hua Xin’s Embroidered Suit,1,,華歆的华服,[02]__MTU_items__Armour.loc.tsv
-Huang Shao,1,,,hv_TEXT_cb_loadout.loc.tsv
-Huang Zhong,1,,,hv_TEXT_cb_loadout.loc.tsv
-Huang Zu,2,,,[01]__MTU_generals__Wood_champion.loc.tsv
+Huaiyin,2,,淮陰,!!path_to_unity__.loc.tsv
+Huang Shao,1,,黃邵,hv_TEXT_cb_loadout.loc.tsv
+Huang Zhong,2,,黃忠,hv_TEXT_cb_loadout.loc.tsv
+Huang Zu,2,,黃祖,[01]__MTU_generals__Wood_champion.loc.tsv
 "Huang Zu feigns retreat, only to rapidly re-engage the unsuspecting enemy and give his men the upperhand.",2,,即使是逆境之下，黃祖也不會退縮。,[03]__MTU_skills__Passive_buff.loc.tsv
 Huang Zu is famed to have placed the tiger of Jiangdong in his coffin,1,,黃祖最善於百步之外陰襲敵軍。,[03]__MTU_skills___Projectile.loc.tsv
 Huang Zu is famed to have put the Tiger of Jiangdong in his coffin.,1,,黃祖最善於百步之外陰襲敵軍。,[03]__MTU_skills___Projectile.loc.tsv
-Huang Zu's Armour,1,,,[02]__MTU_items__Armour.loc.tsv
+Huang Zu's Armour,1,,黃祖的護甲,[02]__MTU_items__Armour.loc.tsv
 Huanglao's Paragons,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Huarong,2,,,!!path_to_unity__.loc.tsv
 Hunting Area,3,,,hv_TEXT_building.loc.tsv
+Hurdles must be overcome in order to ensure peace.,2,,,!!path_to_unity__.loc.tsv
 Hurl a bundle of explosive fire bombs to knock down the enemy.,3,,扔擲爆裂火油彈來擊倒敵人。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 I have no choice but to pretend that I am a warrior who knows no fear.,1,,我别无选择，只能假装自己是一個無畏战士,hv_TEXT_unit_abilities.loc.tsv
+Idealist's Love Life,2,,,!!path_to_unity__.loc.tsv
 "If only strength can rule, then strength must be displayed often and in great abundance. And it must be used to make an example of fools who would believe otherwise. \\n\\n Trained in the Xiliang style of warfare, these disciplined warriors form the backbone of the ironfisted rule that Dong Zhuo and Lu Bu impose upon the Han. Skilled with both the bow and the sword, they habitually patrol the streets to put down any unrest. ",1,如果只有力量才能統治，那麼就必須經常充分地展現這樣的力量。必須用那些不信的傻瓜們來罰一儆百。\\n\\n這些經過西涼訓練的戰士，是董卓與呂布强加於漢朝的鐵腕統治的中堅力量。\\n\\n他們弓劍嫻熟，經常上街巡邏，平息騷亂。,,hv_TEXT_unit_long_desc.loc.tsv
 "If only strength can rule, then strength must be displayed often and in great abundance. And it must be used to make example of fools who would believe otherwise. \\n\\n Trained in the Xiliang style of warfare, these disciplined warriors form the backbone of the ironfisted rule that Dong Zhuo and Lu Bu impose upon the Han. Atop their steeds, they patrol the countryside, putting down any opposition with bow and sword. ",1,如果只有力量才能統治，那麼就必須經常充分地展現這樣的力量。必須用那些不信的傻瓜們來罰一儆百。\\n\\n這些經過西涼訓練的戰士，是董卓與呂布强加於漢朝的鐵腕統治的中堅力量。\\n\\n他們騎馬在鄉間巡邏，用弓劍擊倒任何敵人。,,hv_TEXT_unit_long_desc.loc.tsv
 "If the year is beyond 195 CE and the emperor token is still in play, then the Imperial Intrigue panel will become unlocked.",1,假如公元195年後象徵性的皇帝依然在位，到時候朝廷權謀面板將會解除鎖定。,,ifo_text_TWEAK.loc.tsv
@@ -1061,7 +1141,7 @@ Imperial Favour: A Gift from the Emperor,1,,,ifo_text_TWEAK.loc.tsv
 Imperial Favour: Ancestral Rite,1,皇帝寵信：祭祀儀式,,ifo_text_TWEAK.loc.tsv
 Imperial Favour: Banquet,1,皇帝寵信：皇家宴會,,ifo_text_TWEAK.loc.tsv
 Imperial General,2,,,[01]__MTU_generals__Fire_vanguard.loc.tsv
-Imperial Sword Guards,1,禁軍劍衛,,hv_TEXT_unit_text_replacements.loc.tsv
+Imperial Sword Guards,1,,禁軍劍衛,hv_TEXT_unit_text_replacements.loc.tsv
 Imperial ancestral rite ended,3,皇家祭祀儀式結束,,ifo_text_TWEAK.loc.tsv
 Imperial banquet ended without incident,1,皇家宴會結束，並無意外發生,,ifo_text_TWEAK.loc.tsv
 Imperious Presence,1,,霸氣逼人,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -1109,7 +1189,7 @@ Into the Breach,10,,乘隙而入,hv_TEXT_skills_skill_ability__historical.loc.ts
 Investigate,1,調查,,hv_TEXT_events.loc.tsv
 Invincible,2,,,[02]__MTU_items__Weapons.loc.tsv
 Inward Focus,1,,專注內在,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Iron Walls,1,鐵壁兵,,hv_TEXT_unit_text_replacements.loc.tsv
+Iron Walls,1,,鐵壁兵,hv_TEXT_unit_text_replacements.loc.tsv
 Ironfist Cavalry can be recruited when occupied,1,占據時可獲得鐵拳騎兵,,hv_TEXT_region_army.loc.tsv
 Ironfist Lancer Cataphracts,1,,鐵拳長槍鐵甲騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 Is heaven helping him?,1,,如有神助。,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
@@ -1119,6 +1199,7 @@ It causes fear.,1,,引發恐慌。,hv_TEXT_unit_abilities_hit_effects.loc.tsv
 It is empty.,1,,,[02]__MTU_items__Accessory.loc.tsv
 "It is not always the command that motivates, but the way it is given.",2,,能激勵人的不見得是命令的內容，也可能是發號施令的方法。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 It is the bear's teeth that the salmon faces at the end of the falls.,4,,鮭魚游至瀑底，等待的卻是熊的牙齒。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+It is time for a distant descendant of the Liu to return home and revitalise the dying Han.,2,,,!!path_to_unity__.loc.tsv
 It must be bullshit.,1,無稽之談。,,hv_TEXT_events.loc.tsv
 It seems you've offended the imperial court...,2,看來你得罪了朝廷……,,ifo_text_TWEAK.loc.tsv
 It was nothing more than a dream and you decide to let the memory fade away.,1,,,[04]__MTU_events__Common.loc.tsv
@@ -1129,8 +1210,8 @@ It's getting harder to find anyone who isn't a Black Mountain bandit.,1,四海�
 It's not a good place for a beautiful woman to stay.,6,,此處不宜美人久留。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "It's small and light, but its power is enormous.",1,,,[02]__MTU_items__Bow.loc.tsv
 It’s a good idea to not reveal your ambitions to the public.,1,,,[04]__MTU_events__Common.loc.tsv
-Jade Dragons,1,,,hv_TEXT_unit_text_replacements.loc.tsv
-Jaizi Raiders,1,甲子劫匪,,hv_TEXT_unit_text_replacements.loc.tsv
+Jade Dragons,1,,玉龍軍,hv_TEXT_unit_text_replacements.loc.tsv
+Jaizi Raiders,1,,甲子劫匪,hv_TEXT_unit_text_replacements.loc.tsv
 Javelin Throwers (Buqu),4,,擲鋋兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
 Javelin Throwers (Elite),4,,擲鋋兵（精銳）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
 Javelin Throwers (Militia),4,,擲鋋兵（義勇）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
@@ -1139,23 +1220,27 @@ Ji Cavalry (Buqu),5,,持戟騎兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.ts
 Ji Cavalry (Captain),1,,持戟騎兵（校尉）,hv_TEXT_unit_ui_group_VM.loc.tsv
 Ji Cavalry (Elite),5,,持戟騎兵（精銳）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
 Ji Cavalry (Militia),5,,持戟騎兵（義勇）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
-Ji Guards of the Eight Talents,1,八才戟衛,,hv_TEXT_unit_text_replacements.loc.tsv
+Ji Guards of the Eight Talents,1,,八才戟衛,hv_TEXT_unit_text_replacements.loc.tsv
+Ji Guards of the Eight Talents: for recruitment: %+n,1,,可招募八才戟衛數：%+n,hv_TEXT_effects_unit_cap.loc.tsv
 Ji Infantry (Buqu),7,,持戟步兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
 Ji Infantry (Captain),1,,持戟步兵（校尉）,hv_TEXT_unit_ui_group_VM.loc.tsv
 Ji Infantry (Elite),8,,持戟步兵（精銳）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
 Ji Infantry (Militia),7,,持戟步兵（義勇）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 Ji Ling,3,,纪灵,hv_TEXT_cb_loadout.loc.tsv
-Jia Xu,1,,,hv_TEXT_cb_loadout.loc.tsv
+Jia Xu,1,,賈詡,hv_TEXT_cb_loadout.loc.tsv
 Jian Yong,2,,簡雍,[01]__MTU_generals__Metal_sentienl.loc.tsv
 Jian Yong's Armour,1,,簡雍的護甲,[02]__MTU_items__Armour.loc.tsv
-Jianan Elite Vigilante,1,建安精銳巡守,,hv_TEXT_unit_text_replacements.loc.tsv
+Jianan Elite Vigilante,1,,建安精銳巡守,hv_TEXT_unit_text_replacements.loc.tsv
 Jianan Vigilante Archers,1,,建安巡守弓兵,hv_TEXT_unit_text_replacements.loc.tsv
 Jianan Vigilante Crossbowmen,1,,建安巡守弩兵,hv_TEXT_unit_text_replacements.loc.tsv
 Jianan Vigilante Hand-Ji Infantry,1,,建安巡守手戟兵,hv_TEXT_unit_text_replacements.loc.tsv
 Jianan Vigilante Repeating Crossbowmen,1,,建安巡守連弩兵,hv_TEXT_unit_text_replacements.loc.tsv
 Jiang Qin,3,,蔣欽,hv_TEXT_cb_loadout.loc.tsv
 Jiang Qin's Armour,1,,蔣欽的護甲,hv_TEXT_ceo_career.loc.tsv
-Jie Fan Infantry,1,解煩兵,,hv_TEXT_unit_text_replacements.loc.tsv
+Jiangdu,2,,江都,!!path_to_unity__.loc.tsv
+Jiangling,2,,,!!path_to_unity__.loc.tsv
+Jiangzhou,2,,江州,!!path_to_unity__.loc.tsv
+Jie Fan Infantry,1,,解煩兵,hv_TEXT_unit_text_replacements.loc.tsv
 Jingchu Buqu Archers,1,,荊楚部曲弓兵,hv_TEXT_unit_text_replacements.loc.tsv
 Jingchu Buqu Axemen,1,,荊楚部曲斧兵,hv_TEXT_unit_text_replacements.loc.tsv
 Jingchu Buqu Caltrop Throwers,1,,荊楚部曲蒺藜兵,hv_TEXT_unit_text_replacements.loc.tsv
@@ -1171,25 +1256,27 @@ Joint Shot,3,,齊射,hv_TEXT_unit_abilities.loc.tsv
 "Joyous occasion - A son has been born! New blood keeps the line strong, but may also give rise to jealousy if other siblings feel their own position is threatened.",1,,,[04]__MTU_events__Born.loc.tsv
 "Joyous occasion! A daughter has been born! New blood keeps the line strong, but may also give rise to jealousy if other siblings feel their own position is threatened. ",1,,,[04]__MTU_events__Born.loc.tsv
 Judgement,4,明察秋毫,明察秋毫,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Juggernaut,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Juggernaut,1,,火獸車,hv_TEXT_unit_text_replacements.loc.tsv
 Juggernaut (Buqu),1,,火獸車（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
 Juggernaut (Elite),1,,火獸車（精銳）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
 Juggernaut (Militia),1,,火獸車（義勇）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 Juque,1,,,[02]__MTU_items__Weapons.loc.tsv
 Just a Dream,1,,,[04]__MTU_events__Common.loc.tsv
+Kaiyang,2,,開陽,!!path_to_unity__.loc.tsv
 Khanda,1,坎達直劍,,hv_TEXT_ceo_weapon.loc.tsv
 Kidnapped Girl,1,,,[01]__MTU_generals__Water_strategist.loc.tsv
+Kill 100 units with your heir.,1,,,hv_TEXT_etc.loc.tsv
 Kill her,2,將她處死,,hv_TEXT_events.loc.tsv
 Kindness,1,,,[04]__MTU_events__Common.loc.tsv
-King Duosi,1,,,hv_TEXT_cb_loadout.loc.tsv
+King Duosi,1,,朵思大王,hv_TEXT_cb_loadout.loc.tsv
 King Duosi [[img:unit_elephant]][[/img]],1,,朵思大王[[img:unit_elephant]][[/img]],hv_TEXT_cb_loadout.loc.tsv
-King Meng Huo,1,,,hv_TEXT_cb_loadout.loc.tsv
+King Meng Huo,1,,孟獲大王,hv_TEXT_cb_loadout.loc.tsv
 King Meng Huo [[img:unit_elephant]][[/img]],1,,孟獲大王[[img:unit_elephant]][[/img]],hv_TEXT_cb_loadout.loc.tsv
-King Mulu,1,,,hv_TEXT_cb_loadout.loc.tsv
+King Mulu,1,,木鹿大王,hv_TEXT_cb_loadout.loc.tsv
 King Mulu [[img:unit_elephant]][[/img]],1,,木鹿大王[[img:unit_elephant]][[/img]],hv_TEXT_cb_loadout.loc.tsv
-King Shamoke,1,,,hv_TEXT_cb_loadout.loc.tsv
+King Shamoke,1,,沙摩柯大王,hv_TEXT_cb_loadout.loc.tsv
 King Shamoke [[img:unit_elephant]][[/img]],1,,沙摩柯大王[[img:unit_elephant]][[/img]],hv_TEXT_cb_loadout.loc.tsv
-King Wutugu,1,,,hv_TEXT_cb_loadout.loc.tsv
+King Wutugu,1,,兀突骨大王,hv_TEXT_cb_loadout.loc.tsv
 King Wutugu [[img:unit_elephant]][[/img]],1,,兀突骨大王[[img:unit_elephant]][[/img]],hv_TEXT_cb_loadout.loc.tsv
 King of Chen,1,,,hv_TEXT_cb_loadout.loc.tsv
 King of Shu,1,,,hv_TEXT_cb_loadout.loc.tsv
@@ -1202,7 +1289,7 @@ Knowledge of the Mind,4,,心之識見,hv_TEXT_skills_skill_skill_name_desc.loc.t
 Knowledge of the Spirit,4,,靈之識見,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Knowledge of the enemy weakens their defences.,3,,了解敵人，就能減弱他們的防禦。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Knowledge that your comrades will never abandon you brings tremendous comfort.,4,,知道同胞絕不會捨自己而去，能讓人大感安心。,hv_TEXT_skills_skill_ability__historical.loc.tsv
-Kong Rong,1,,,hv_TEXT_cb_loadout.loc.tsv
+Kong Rong,1,,孔融,hv_TEXT_cb_loadout.loc.tsv
 Lady,7,,,[dummy]__MTU_dummy.loc.tsv
 Lady Bian,1,,卞氏,[04]--------------------MTU_events--------------------.loc.tsv
 "Lady Bian, a concubine-turned-wife of Cao Cao, has been persuaded to join us. She is known throughout the realm as being unflappable amidst the chaos, dignified, and a shrewd diplomat. She has ascended since birth, not nefariously, but by unwavering character.  It is said that behind every powerful man is a powerful lady. Perhaps ...",1,,,[04]__MTU_events___Concubine.loc.tsv
@@ -1217,6 +1304,7 @@ Lady Liu,1,,劉氏,hv_TEXT_ceo_career.loc.tsv
 Lady Liu always cares about her family.,1,,,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Lady Liu's Robes,1,,劉氏的長袍,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Lady Liu’s Embroidered Garment,1,,劉氏的绣服,hv_TEXT_ceo_armour.loc.tsv
+Lady Mi,1,,,!!path_to_unity__.loc.tsv
 Lady Trieu,4,,趙嫗,hv_TEXT_cb_loadout.loc.tsv
 Lady Trieu [[img:unit_elephant]][[/img]],1,,趙嫗[[img:unit_elephant]][[/img]],hv_TEXT_cb_loadout.loc.tsv
 "Lady Trieu comes and, with her, a thunder that shakes the very Earth.",1,,,[02]__MTU_items__Accessory.loc.tsv
@@ -1225,23 +1313,24 @@ Lady Trieu's Armour,1,,趙嫗的護甲,[02]__MTU_items__Armour.loc.tsv
 Lady Wu,2,,吳氏,[01]__MTU_generals__Earth_commander.loc.tsv
 Lady Wu's Armour,1,,吳氏的護甲,[02]__MTU_items__Armour.loc.tsv
 "Lady Yuan Anyang, the elegant and eldest daughter of Yuan Shu, has joined us. All across China, young nobles desired to have her hand in marriage as the Yuan’s have held the highest government offices for four generations. These family traits seemed to have passed down - her adeptness at state affairs is truly remarkable! Such a youthful talent should not go to waste ...",1,,,[04]__MTU_events___Concubine.loc.tsv
-Lady Zhurong,1,,,hv_TEXT_cb_loadout.loc.tsv
+Lady Zhurong,1,,祝融夫人,hv_TEXT_cb_loadout.loc.tsv
 Lady Zhurong [[img:unit_elephant]][[/img]],1,,祝融夫人[[img:unit_elephant]][[/img]],hv_TEXT_cb_loadout.loc.tsv
 Lament,4,,慟哭,[03]__MTU_skills__Active_buff.loc.tsv
 Landlord,1,地主,,z_dummy_hv_TEXT_non_deployable.loc.tsv
+Langzhong,2,,閬中,!!path_to_unity__.loc.tsv
+Lantian,2,,藍田,!!path_to_unity__.loc.tsv
 Large Warehouse,1,大型倉庫,,hv_TEXT_building.loc.tsv
 Last Stand,4,,熊羆,[03]__MTU_skills__Passive_buff.loc.tsv
 Lazy bastard! Move it!,2,,你這廝，還不快接着走！,[03]__MTU_skills__Passive_buff.loc.tsv
 "Lead the Fight, Encourage, Support",9,身先士卒，鼓舞軍心,,hv_TEXT_unit_ui_group_VM.loc.tsv
 Leads and commands the retinues.,1,領導及指揮隨從。,,hv_TEXT_unit_desc.loc.tsv
 Legacy of Lu Bu,1,呂布餘部,,hv_TEXT_etc.loc.tsv
-Legacy of Tao Qian,1,陶謙餘部,,hv_TEXT_etc.loc.tsv
 Legacy of Yuan Shu,1,袁術餘部,,hv_TEXT_etc.loc.tsv
 Legend has it that the great swords forged by Ou Yezi protect the sword-handler.,1,,,[02]__MTU_items__Weapons.loc.tsv
 Legends speak of a woman who slips in and out of the shadows of Heishan...,2,,傳黑山有一女，能如遁跡匿影，來去自如。,[03]__MTU_skills__Active_buff.loc.tsv
 Let Them Fight,1,,,[04]__MTU_events__Common.loc.tsv
 Li Jue and Guo Si came to the capital with a huge army. They want avenge for their fallen master. The only thing they want is the neck of the killer.,1,李傕、郭汜帶著大軍殺到長安，要為死去的主公報仇，不取仇家的首級誓言不罷休。,,[dummy]__MTU_dummy.loc.tsv
-Li Ru,1,,,hv_TEXT_cb_loadout.loc.tsv
+Li Ru,1,,李儒,hv_TEXT_cb_loadout.loc.tsv
 Library Destroyer,1,,,[04]__MTU_events___daughter.loc.tsv
 Light Infantry,1,,,hv_TEXT_unit_ground_type.loc.tsv
 "Like Dad, Like Daughter",1,,,[04]__MTU_events___daughter.loc.tsv
@@ -1249,14 +1338,17 @@ Light Infantry,1,,,hv_TEXT_unit_ground_type.loc.tsv
 "Like father, like daughter - Lü Ji’s uncontrollable temper decimates the enemy.",2,,,[03]__MTU_skills___Splash_attack.loc.tsv
 "Like the weather, one's fortune may change by the evening.",1,,天有不測風雲，人有旦夕禍福。,hv_TEXT_skills_basic.loc.tsv
 Line Breaker,1,,,[02]__MTU_items__Weapons.loc.tsv
+Linju,2,,臨沮,!!path_to_unity__.loc.tsv
+Linyuan,2,,臨沅,!!path_to_unity__.loc.tsv
 Little Conqueror,1,,,hv_TEXT_cb_loadout.loc.tsv
 Liu Bao's demands are outrageous and your coffers are better emptied elsewhere. The last of Cai Yong's line remains amongst the Xiongnu.,1,,,[04]__MTU_events___Cai_family.loc.tsv
 "Liu Bao's elite swordsmen, embodying Jing province's martial spirit with unmatched blade mastery.",1,八才劍衛是劉表的菁英劍士，以無與倫比的刀劍技藝體現著荊州的武風。,,hv_TEXT_unit_desc.loc.tsv
-Liu Bei,1,,劉備,hv_TEXT_cb_loadout.loc.tsv
+Liu Bei,2,,劉備,hv_TEXT_cb_loadout.loc.tsv
+Liu Bei's charisma can draw in more than one woman.,2,,,!!path_to_unity__.loc.tsv
 "Liu Bei's loyal unit, the Oath Fellows wield glaives and share a strong bond, excelling in both offense and defense as they grow with their lord.",1,忠诚於劉備的部隊，結義弟兄手持大刀，情同手足，攻守俱佳，隨主人共同成長。,,hv_TEXT_unit_desc.loc.tsv
 Liu Bei's words drive his men to greatness!,1,,劉備的激昂言辭引領他的部下共創偉業！,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Liu Biao,1,,劉表,hv_TEXT_cb_loadout.loc.tsv
-Liu Chong,1,,,hv_TEXT_cb_loadout.loc.tsv
+Liu Chong,1,,劉寵,hv_TEXT_cb_loadout.loc.tsv
 "Liu Feng is brave, but his fate is intertwined with tragedy and downfall.",1,劉封性情剛猛，但命途多舛，終遭屈抑。,,hv_TEXT_ceo_career.loc.tsv
 Liu Feng's Armour,1,,劉封的護甲,hv_TEXT_ceo_career.loc.tsv
 Liu Zhang,1,,劉璋,hv_TEXT_cb_loadout.loc.tsv
@@ -1289,7 +1381,7 @@ Lost the throne!,1,,,hv_TEXT_events_rules.loc.tsv
 "Low Hit Rate, High Armour-Piercing Damage",9,命中率低，穿甲傷害高,,hv_TEXT_unit_ui_group_t1.loc.tsv
 "Low Hit Rate, High Armour-Piercing Damage, Break Enemy's Shield",21,命中率低，穿甲傷害高，破盾,,hv_TEXT_unit_ui_group_t1.loc.tsv
 "Low Hit Rate, Low Armour-Piercing Damage",3,命中率低，穿甲傷害低,,hv_TEXT_unit_ui_group_t1.loc.tsv
-Lu Bu,1,,呂布,hv_TEXT_cb_loadout.loc.tsv
+Lu Bu,2,,呂布,hv_TEXT_cb_loadout.loc.tsv
 Lu Bu will interpose in dispute between Yuan Shu and Liu Bei and will lead peace between them.,1,,,[04]__MTU_events__Common.loc.tsv
 Lu Bu's Retinues,1,呂布的隨從,,hv_TEXT_effects_events.loc.tsv
 Lu Bu's army follows your faction.,1,呂布之兵將追隨於您。,,hv_TEXT_events.loc.tsv
@@ -1300,19 +1392,23 @@ Lu Zheng never misses the prey.,2,,陸政的獵物對她來說猶如甕中捉鱉
 Lu Zheng's Leather Armour,1,,陸政的皮甲,[02]__MTU_items__Armour.loc.tsv
 "Lu Zheng, the chief strategist and confidant to the Bandit Queen Zheng Jiang, comes under your employ. Her brilliance in military affairs is matched only by her considerable skill with a bow. You spend an evening together with a robust wine and fulfilling conversation. Her mind is as sharp as her approach is pointed. You must notch and fire this one like an arrow from her Wind of Taiyuan bow; without question, your foes will be cut down before you.",1,,,[04]__MTU_events___Concubine.loc.tsv
 Lu Zheng’s steady and skilled hands know how to strike quickly.,2,,,[03]__MTU_skills__Passive_buff.loc.tsv
+Lu Zhi,1,,,!!path_to_unity__.loc.tsv
 Lucky Pearl,6,,松柏,[03]__MTU_skills__Passive_buff.loc.tsv
 Lucky Shot,3,,幸運一擊,hv_TEXT_unit_abilities.loc.tsv
 Luo Jun,3,,駱俊,hv_TEXT_cb_loadout.loc.tsv
 Luo Jun has survived several assassination attempts,1,,遭擾攘之時，值兵革之際。,[03]__MTU_skills__Passive_buff.loc.tsv
 Luo Jun has survived several attempts on his life.,2,,遭擾攘之時，值兵革之際。,[03]__MTU_skills__Passive_buff.loc.tsv
 Luo Jun's Armour,1,,駱俊的護甲,[02]__MTU_items__Armour.loc.tsv
+Luocheng,2,,洛城,!!path_to_unity__.loc.tsv
+Luoyang,2,,洛陽,!!path_to_unity__.loc.tsv
+Luxian,2,,呂縣,!!path_to_unity__.loc.tsv
 "Luxurious robes, fit for those who do not tread the battlefield.",1,,,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Lü Bu's furious gaze causes all to cower!,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Lü Ji,2,,呂姬,[01]__MTU_generals__Wood_champion.loc.tsv
 "Lü Ji, daughter of the “Warrior Without Equal” Lü Bu, has pledged her Starseeker Halberd to our cause! As the days pass in court and on the battlefield, her passion for combat and deep drive to be greatest is obvious. A Lü turned the world upside down once before, why not again. With a weapon like her in your hand, all you must do is point it toward your foes and see your own ambitions realized.",1,,,[04]__MTU_events___Concubine.loc.tsv
 "Lü Ji, gifted with uncanny martial talent and the ambition to hone her skills, wreaks havoc on the battlefield.",2,,,[03]__MTU_skills__Active_buff.loc.tsv
 Lü Ji’s Armour,1,,,[02]__MTU_items__Armour.loc.tsv
-Ma Chao,1,,,hv_TEXT_cb_loadout.loc.tsv
+Ma Chao,2,,馬超,hv_TEXT_cb_loadout.loc.tsv
 Ma Chao's internal strife manifests in bursts of rage; uncontrollable charges at the enemy!,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Ma Teng,1,,馬騰,hv_TEXT_cb_loadout.loc.tsv
 Ma Yunlu,2,,馬雲騄,[01]__MTU_generals__Metal_sentienl.loc.tsv
@@ -1368,18 +1464,19 @@ Medium Infantry,1,,,hv_TEXT_unit_ground_type.loc.tsv
 Melee Attack,29,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 Melee Attack (Auto),2,近戰攻擊（自動）,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 Melee Debuff,4,,,hv_TEXT_unit_abilities_hit_effects.loc.tsv
-Men of Thunder,1,雷霆軍,,hv_TEXT_unit_text_replacements.loc.tsv
-Men of the Forest,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Men of Thunder,1,,雷霆軍,hv_TEXT_unit_text_replacements.loc.tsv
+Men of the Forest,1,,森林之師,hv_TEXT_unit_text_replacements.loc.tsv
 Mercenary Archers,1,,僱傭弓兵,hv_TEXT_unit_text_replacements.loc.tsv
 Mercenary Axemen,1,,僱傭斧兵,hv_TEXT_unit_text_replacements.loc.tsv
 Mercenary Captain,1,,僱傭校尉,hv_TEXT_unit_text_replacements.loc.tsv
 Mercenary Cavalry,1,,僱傭騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 Mercy of the Forest,4,,瓊林,[03]__MTU_skills__Active_buff.loc.tsv
-Messengers of Heaven,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Messengers of Heaven,1,,天道使者,hv_TEXT_unit_text_replacements.loc.tsv
 Mettlesome Advance,6,,突飛猛進,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Might of the Valley: for recruitment: %+n,1,,可招募五谿豪傑數：%+n,hv_TEXT_effects_unit_cap.loc.tsv
 Mighty Thrust,1,,強勁衝鋒,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "Mighty, gnarled monoliths, the imposing peaks of China's south stand like sentinels against the unrelenting waters beyond. Amongst these hills and peaks, the Yue tribes eke out their continued existence; brought low from the once-proud past, they stand now against the threat of Han invasion from the north. Although they wield sword and shield, they are nothing like the professional warriors coming to face them. \\n\\n Yet, united behind one who purports to fight for their ideals, the Yue are able to summon themselves into something resembling their own strength – their legacy demands it!",1,高聳險奇的群山立於中原南方，與波濤洶湧的海洋相抗衡。在崇山峻嶺之間，越人仍世世代代勉力維生。他們曾有著輝煌的過往，如今則得力抗北方漢人入侵。儘管他們持有劍盾，但還遠不是精兵的敵手。\\n\\n然而在一名立志守護他們理念的奇人率領之下，越民團結一心，喚起自身的古老力量，為傳承而戰！,,hv_TEXT_unit_long_desc.loc.tsv
+Migratory Maneuvre,2,,,!!path_to_unity__.loc.tsv
 Military Control,1,,,hv_TEXT_effects_pooled_resource.loc.tsv
 Military Talent,6,軍事才能,,hv_TEXT_events.loc.tsv
 Military supplies were consumed to stabilise the settlement.,1,,,hv_TEXT_etc.loc.tsv
@@ -1388,7 +1485,7 @@ Militia Ji Infantry,1,,義勇戟兵,hv_TEXT_unit_text_replacements.loc.tsv
 Militia Long Axemen,1,,義勇長斧兵,hv_TEXT_unit_text_replacements.loc.tsv
 Militia Sabre Infantry,1,,義勇持刀步兵,hv_TEXT_unit_text_replacements.loc.tsv
 Militia armed with two-handed axes; a formidable but unskilled force capable of delivering powerful strikes.,1,手持雙手長斧的民兵；雖不熟練但力量強大，能夠發動有力的攻擊。,,hv_TEXT_unit_desc.loc.tsv
-Militia of Virtue,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Militia of Virtue,1,,修德義勇,hv_TEXT_unit_text_replacements.loc.tsv
 Missile Attack,18,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 Missile Debuff,8,,,hv_TEXT_unit_abilities_hit_effects.loc.tsv
 Mixed Missile (Shield),3,,混合遠程（持盾）,hv_TEXT_unit_abilities.loc.tsv
@@ -1415,7 +1512,7 @@ Mountains,5,,山陣,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "Much is expected from the Warrior Without Equal’s daughter, but the ravishing Lü Ji fights with both the skill and ferocity to live up to the Lü name.",1,,,[01]__MTU_generals__Wood_champion.loc.tsv
 Mud,1,泥地,,!hv_TEXT_system.loc.tsv
 Mud makes the movement and combat of all units inefficient.,1,泥地會使所有部隊的移動與戰鬥效率低下。,,!hv_TEXT_system.loc.tsv
-Multiple Bolt Crossbow,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Multiple Bolt Crossbow,1,,車弩,hv_TEXT_unit_text_replacements.loc.tsv
 My Friend!,1,,,[04]__MTU_events___Cai_family.loc.tsv
 "My dwelling is often covered by frost and snow,\\n\\nThe foreign winds bring again spring and summer",1,,,[02]__MTU_items__Accessory.loc.tsv
 NEXT REFORM IN [[b]]%n[[/b]],1,,,hv_TEXT_effects_technology.loc.tsv
@@ -1439,7 +1536,7 @@ No one wants troublemakers.,4,莫要引祸上身。,,hv_TEXT_events.loc.tsv
 Nobility,1,,龍髓,hv_TEXT_skills_basic.loc.tsv
 Noble Birth,2,,,[04]__MTU_events__Born.loc.tsv
 Nomad,3,,,hv_TEXT_building.loc.tsv
-Nomad Gang,1,游牧馬賊,,hv_TEXT_unit_text_replacements.loc.tsv
+Nomad Gang,1,,游牧馬賊,hv_TEXT_unit_text_replacements.loc.tsv
 None of the other warlords in China are as noble or accomplished as you are. Bring order to chaos and officers who were once loyal to the Han Dynasty will flock to your banner. Defeat your rivals and accumulate wealth to expand your power.,1,天下大亂，雄豪並起。主公若能運籌演謀，鞭撻宇內，忠於漢室之能人必來投效。以公之神武明哲而輔以大順，何向而不濟！,,hv_TEXT_events.loc.tsv
 North Wind,1,,,[02]__MTU_items__Bow.loc.tsv
 Northern Army Captains,1,北軍校尉,,hv_TEXT_events.loc.tsv
@@ -1453,10 +1550,12 @@ Northern Veteran Cataphracts,1,,北軍老練鐵甲騎兵,hv_TEXT_unit_text_repla
 Northern Veteran Ji Infantry,1,,北軍老練戟兵,hv_TEXT_unit_text_replacements.loc.tsv
 Northern Veteran Lancer Cataphracts,1,,北軍老練長槍鐵甲騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 Northern Veteran Sabre Infantry,1,,北軍老練持刀步兵,hv_TEXT_unit_text_replacements.loc.tsv
-Northern Veteran Spears,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Northern Veteran Spears,1,,北軍老練長槍兵,hv_TEXT_unit_text_replacements.loc.tsv
 Northern Veteran Zhanmajian Infantry,1,,北軍老練斬馬劍兵,hv_TEXT_unit_text_replacements.loc.tsv
 Not all of us get a second chance.,1,,不是所有人都有機會重來。,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
-Oath Fellows,1,結義弟兄,,hv_TEXT_unit_text_replacements.loc.tsv
+Not every strategy goes according to plan. One must always adapt to ensure survival and a chance to rebuild.,2,,,!!path_to_unity__.loc.tsv
+Oath Fellows,1,,結義弟兄,hv_TEXT_unit_text_replacements.loc.tsv
+Oath of the Peach Garden,2,,,!!path_to_unity__.loc.tsv
 "Of energetic and bright personality, she inherited her mother’s feminine charms but her father’s resilience and constitution. With a tiger for a father, only an Emperor will be a worthy husband.",1,,,[01]__MTU_generals__Fire_vanguard.loc.tsv
 Offensive Stance,3,,進攻姿態,hv_TEXT_unit_abilities.loc.tsv
 Oil Pot,4,,油罐,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -1485,7 +1584,7 @@ One with the People,8,,與人合一,hv_TEXT_skills_skill_ability__historical.loc
 One-Eyed Bandit,1,,,[01]__MTU_generals__Wood_champion.loc.tsv
 Only through sober and considered analysis can fragility be turned to unerring strength.,1,,只有透過審慎周詳的分析，才能化弱為強。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Onslaught,3,,猛攻,hv_TEXT_unit_abilities.loc.tsv
-Onyx Dragons,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Onyx Dragons,1,,黑龍軍,hv_TEXT_unit_text_replacements.loc.tsv
 Order of the Tyrant,4,,遮天,[03]__MTU_skills__Active_buff.loc.tsv
 Order to Advance,4,,軍令,[03]__MTU_skills__Active_buff.loc.tsv
 Organise your troops into a solid wall to deter horses. It's a simple but effective tactic.,9,,將士兵組成人墻來抵禦馬匹。此戰術簡單有效。,hv_TEXT_skills_skill_ability__historical.loc.tsv
@@ -1493,18 +1592,20 @@ Organised volleys prove more effective.,7,,依序射擊更為有效。,hv_TEXT_s
 Other ethnic groups influence,1,,,hv_TEXT_effects_building.loc.tsv
 "Our faction grows stronger! Lady Mi, of the wealthy and influential Mi clan, has joined us. Her family faithfully served Tao Qian for many years. She’s said to be a modest and loyal companion who is a boon to have at your side. The more thought you give to adding the daughter of a powerful Xuzhou family to your harem, the more enticing it seems.",1,,,[04]__MTU_events___Concubine.loc.tsv
 Outlaw,1,,,[01]__MTU_generals__Metal_sentienl.loc.tsv
-Outlaws of Black Mountain,1,黑山匪徒,,hv_TEXT_unit_text_replacements.loc.tsv
+Outlaws of Black Mountain,1,,黑山匪徒,hv_TEXT_unit_text_replacements.loc.tsv
 "Over the years, Zhao Yun has served dependably and become well-known for his courage, honor, and supreme martial skill. To reward him, you hold a ceremony with all your generals and advisors in attendance.\\n\\n “You have served me well, Zilong, and for this service, I bestow upon you the title of General of Tiger’s Might, rank of Tiger General, and this finely crafted armor.”",1,,,[04]__MTU_events__Common.loc.tsv
+Overcome Hurdles,2,,,!!path_to_unity__.loc.tsv
 Overcoming ,3,,剋服,hv_TEXT_unit_abilities.loc.tsv
 Overfight,3,,先登,hv_TEXT_unit_abilities.loc.tsv
 Overwhelmed,3,,壓倒,hv_TEXT_unit_abilities_hit_effects.loc.tsv
 Overwhelmming,4,,壓倒之勢,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Palace Guards,1,宮廷侍衛,,hv_TEXT_unit_text_replacements.loc.tsv
+Palace Guards,1,,宮廷侍衛,hv_TEXT_unit_text_replacements.loc.tsv
 Pang De,2,,龐德,[01]__MTU_generals__Wood_champion.loc.tsv
 "Pang De is an unrelenting force, whose avowed enemies know they must face him sooner or later.",1,,,[01]__MTU_generals__Wood_champion.loc.tsv
 Pang De marches to battle with an empty coffin in his vanguard. It will not remain empty.,2,,龐德要麼會取得勝利，要麼就是死戰入土。,[03]__MTU_skills__Active_buff.loc.tsv
 "Pang De promises only death - to his adversary, or to himself.",2,,龐德衝鋒時不顧自身死活，總是捷足先登。,[03]__MTU_skills__Passive_buff.loc.tsv
 Pang De's Armour,1,,龐德的護甲,[02]__MTU_items__Armour.loc.tsv
+Pang Tong,1,,龐統,!!path_to_unity__.loc.tsv
 "Pang Tong sacrifices himself, to aid his fellow brothers.",1,,龐統犧牲己身，協助同袍兄弟。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Parry,3,,格檔,hv_TEXT_unit_abilities_hit_effects.loc.tsv
 Passive Ally Buff,1,我方被動增益,,hv_TEXT_unit_abilities.loc.tsv
@@ -1514,13 +1615,17 @@ Passive Buff Self,86,自身被動增益,,hv_TEXT_unit_abilities.loc.tsv
 Passive Debuff,3,,,[03]__MTU_skills__Passive_debuff.loc.tsv
 Passive Debuff Enemy,8,敵方被動減益,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
 Passive buff Self,1,,,hv_TEXT_skills_skill_ability_name_desc.loc.tsv
+Path To Unity,10,一統天下,,hv_TEXT_effects_ceo.loc.tsv
+Path to Unity,3,一統天下,,!!path_to_unity__.loc.tsv
 Patience,1,耐心忍性,,[04]__MTU_events__Common.loc.tsv
 Pay the Chanyu's Price,1,,,[04]__MTU_events___Cai_family.loc.tsv
-Pearl Dragons,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Pearl Dragons,1,,玥龍軍,hv_TEXT_unit_text_replacements.loc.tsv
 Peasant Archers,1,,農民弓兵,hv_TEXT_unit_text_replacements.loc.tsv
 Peasant Spearmen,1,,農民長槍兵,hv_TEXT_unit_text_replacements.loc.tsv
 Peasant Warriors,1,,農民戰士,hv_TEXT_unit_text_replacements.loc.tsv
-Pei Yuanshao,1,,,hv_TEXT_cb_loadout.loc.tsv
+Pei Yuanshao,1,,裴元紹,hv_TEXT_cb_loadout.loc.tsv
+Pengcheng,2,,彭城,!!path_to_unity__.loc.tsv
+Pengcheng holds one of the most esteemed temples. It must be rescued from the clutches of yellow turban rebels and ambitious warmongers.,2,,,!!path_to_unity__.loc.tsv
 People of the Horse,5,,騏驥,[03]__MTU_skills__Passive_buff.loc.tsv
 People's Warband,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 "Perhaps out of admiration or to curry favour, a faction has put in a good word for you with the emperor. Talk of your exploits is is all that is on everyone's lips at the palace of late. ",1,也許是出於欽佩，也許是向您示好，有一勢力在皇帝面前爲你多加褒詞。最近在宮中人人都在談論您的功績。,,ifo_text_TWEAK.loc.tsv
@@ -1533,7 +1638,7 @@ Personal Bodyguard,4,,保帥,[03]__MTU_skills__Passive_buff.loc.tsv
 Phoenix's Beak,1,,,[02]__MTU_items__Weapons.loc.tsv
 Pike Wall - Ji Guards of the Eight Talents,3,,八才戟衛戟墻,hv_TEXT_unit_abilities.loc.tsv
 Pike Wall - White Feathers,3,,白毦兵戟墻,hv_TEXT_unit_abilities.loc.tsv
-Poachers,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Poachers,1,,盜獵兵,hv_TEXT_unit_text_replacements.loc.tsv
 Poem of Sorrow and Anger,1,,,[02]__MTU_items__Accessory.loc.tsv
 Poem of Sorrow and Anger\\n\\n遄征日遐邁\\nHome runs far away day by day\\n悠悠三千里\\nThree thousand miles far from here\\n何時復交會\\nWhen will we meet again\\n念我出腹子\\nOh dear my daughter..\\n胸臆為摧敗\\nHeart breaks down..,1,,,[02]__MTU_items__Accessory.loc.tsv
 Poets will sing about today.,2,,今日之戰將流芳百世。,hv_TEXT_skills_skill_ability_wu_brave.loc.tsv
@@ -1548,7 +1653,7 @@ Population,2,人口,,hv_TEXT_pooled_resource.loc.tsv
 Populous (15),2,,,hv_TEXT_effects_pooled_resource.loc.tsv
 Populous (16),2,,,hv_TEXT_effects_pooled_resource.loc.tsv
 Populous (17),2,,,hv_TEXT_effects_pooled_resource.loc.tsv
-Porcupine Crossbowmen,1,豪彘弩兵,,hv_TEXT_unit_text_replacements.loc.tsv
+Porcupine Crossbowmen,1,,豪彘弩兵,hv_TEXT_unit_text_replacements.loc.tsv
 Pounce,3,,猛撲,hv_TEXT_unit_abilities.loc.tsv
 "Power and Poise Personified, Lady Bian",1,,,[04]__MTU_events___Concubine.loc.tsv
 Powerful Charge,9,强力衝鋒,,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
@@ -1570,7 +1675,7 @@ Proof that the bearer has the authority to command Hidden Snakes and Rapid Tiger
 Proof that the bearer has the authority to command Jingchu troops.,1,,持此令牌者可以指揮荊楚單位。,hv_TEXT_effects_ceo.loc.tsv
 Protect me!,2,,將帥之安危豈可不保乎？,[03]__MTU_skills__Passive_buff.loc.tsv
 Protection of Black Mountain,3,,黑山之佑,hv_TEXT_unit_abilities.loc.tsv
-Protectors of Heaven,2,,,hv_TEXT_unit_text_replacements.loc.tsv
+Protectors of Heaven,2,,皇天衛,hv_TEXT_unit_text_replacements.loc.tsv
 Provides [[b]]Danyang Troop Captain[[/b]] recruitment charges,1,提供[[b]]丹陽部隊校尉[[/b]]招募次數,,hv_TEXT_effects_building.loc.tsv
 Provocation,4,,挑釁,[03]__MTU_skills__Active_debuff.loc.tsv
 Pulverize,3,,粉碎一擊,hv_TEXT_unit_abilities.loc.tsv
@@ -1600,6 +1705,7 @@ Queen of Black Mountain,2,,,[01]__MTU_generals__Metal_sentienl.loc.tsv
 "Queen of Black Mountain, Zheng Lan",1,,,[04]__MTU_events___Concubine.loc.tsv
 Quick Preparation,4,,旋踵,[03]__MTU_skills__Passive_buff.loc.tsv
 Quickfire,1,,連珠砲,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Quren,2,,朐忍,!!path_to_unity__.loc.tsv
 Rage of Black Mountain,3,,黑山之怒,hv_TEXT_unit_abilities.loc.tsv
 Rage of Lü Bu,1,,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Rage of Lü Ji,4,,,[03]__MTU_skills___Splash_attack.loc.tsv
@@ -1611,7 +1717,7 @@ Rally the Troops,1,,集結兵馬,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Rampage,1,,,hv_TEXT_unit_ui_bullet.loc.tsv
 Ranged Attack,3,,,[03]__MTU_skills___Projectile.loc.tsv
 Rapid Fire,1,速射,,hv_TEXT_etc.loc.tsv
-Rapid Tiger Infantry,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Rapid Tiger Infantry,1,,虎賁軍,hv_TEXT_unit_text_replacements.loc.tsv
 Ravine Warriors: for recruitment: %+n,1,,可招募洞兵數：%+n,hv_TEXT_effects_unit_cap.loc.tsv
 Reach,1,,有志竟成,hv_TEXT_skills_basic.loc.tsv
 Ready to colour the world once again.,1,野火燎原，不可向邇。,,hv_TEXT_effects_pooled_resource.loc.tsv
@@ -1623,10 +1729,10 @@ Rebels Against the Bandit Queen,1,,,[04]__MTU_events__Common.loc.tsv
 "Recently, there have been reports of a Wu army having been defeated. The rumor is that a Nam Viet woman named Lady Trieu led the forces against Wu. This news has spread like wildfire throughout China and become the topic of much deliberation between scholars and commonfolk alike. Time will tell whether you have gained a strong ally or perhaps a dangerous enemy.",1,,,[04]__MTU_events__Common.loc.tsv
 Reckless Onslaught,3,,魯莽猛攻,hv_TEXT_unit_abilities.loc.tsv
 Reckless Strike,2,,蠻橫猛擊,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Reclaimers,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Reclaimers,1,,回收兵,hv_TEXT_unit_text_replacements.loc.tsv
 Recruit,1,招募,,hv_TEXT_pooled_resource.loc.tsv
 "Recruited by Liu Bei during his time as ""General of the Left"", these soldiers now are loyal to their general and will fight to see his vision fulfilled. The Han shall be restored, and they will unleash a barrage of arrows upon any rebel who would see the Han extinguished. And And if their foes would close the distance, they shall find that they are equally skilled in melee combat, unless they fight cavalry.  ",1,這些士兵為劉備任左將軍時招募，盡忠盡職，願為漢室復興而戰。他們會向任何逆賊放出箭雨，也嫻熟於近戰，只是無法應付騎兵。,,hv_TEXT_unit_long_desc.loc.tsv
-Redeemed Outlaws,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Redeemed Outlaws,1,,贖罪囚徒,hv_TEXT_unit_text_replacements.loc.tsv
 Reduces the negative influence of the other ethnic groups,1,,,hv_TEXT_effects_technology.loc.tsv
 Refuse,3,,,hv_TEXT_events.loc.tsv
 Refuse their demands,1,拒不交人,,[dummy]__MTU_dummy.loc.tsv
@@ -1637,11 +1743,12 @@ Reject Paying the Ransom,1,,,[04]__MTU_events___Cai_family.loc.tsv
 Relentless fire from Hua Lanli pins the enemy back.,2,,明槍好躲，暗箭難防。,[03]__MTU_skills___Projectile.loc.tsv
 Remnants of Lu Bu's faction have joined us. We may focus on military redeployment.,1,,,hv_TEXT_effects_events.loc.tsv
 Remnants of Yuan Shu's faction have joined us. We may focus on military redeployment.,1,,,hv_TEXT_effects_events.loc.tsv
-Ren Xia,1,任俠,,hv_TEXT_unit_text_replacements.loc.tsv
+Ren Xia,1,,任俠,hv_TEXT_unit_text_replacements.loc.tsv
 Replaces unit: {{tr:hv_unit_buqu_of_the_left}} ({{tr:hv_unit_buqu_archers}}),1,替換單位：{{tr:hv_unit_buqu_of_the_left}}（{{tr:hv_unit_buqu_archers}}）,,hv_TEXT_skills_additional.loc.tsv
 Replaces unit: {{tr:hv_unit_destroyer_of_traitors}} ({{tr:hv_unit_elite_2h_spear_cavalry}}),1,替換單位：{{tr:hv_unit_destroyer_of_traitors}}（{{tr:hv_unit_elite_2h_spear_cavalry}}）,,hv_TEXT_skills_additional.loc.tsv
 Replaces unit: {{tr:hv_unit_handmaid_guard}},1,替換單位：{{tr:hv_unit_handmaid_guard}},,hv_TEXT_skills_additional.loc.tsv
 Replaces unit: {{tr:hv_unit_swallow_cavalry}} ({{tr:hv_unit_bandits_2h_spear_cavalry}}),1,替換單位：{{tr:hv_unit_swallow_cavalry}}（{{tr:hv_unit_bandits_2h_spear_cavalry}}）,,hv_TEXT_skills_additional.loc.tsv
+Rescue the Temple,2,,,!!path_to_unity__.loc.tsv
 Resolve,2,,決心,z_dummy_hv_TEXT_non_deployable.loc.tsv
 Resolve of the Righteous,2,,大義凜然,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Restore,5,,回復,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -1656,7 +1763,7 @@ Retreat Cover,3,,掩護撤退,hv_TEXT_unit_abilities.loc.tsv
 "Revenge is the act of passion, vengeance is an act of justice. For Zhang Bao, both are one and the same.",2,,敵軍勢窮，怎可不乘勝追擊？,[03]__MTU_skills___Splash_attack.loc.tsv
 "Revered for his allegiance to his Lord and his cause, Shen Pei shall never retreat as long as his Lord’s interests are threatened.",2,,,[03]__MTU_skills__Active_buff.loc.tsv
 "Ride, ride to ruin and the world's ending!",1,,冲啊！ 冲啊！ 为了捍卫天下！勇往直前！,hv_TEXT_unit_abilities.loc.tsv
-Righteous Vanguards,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Righteous Vanguards,1,,宣義先鋒,hv_TEXT_unit_text_replacements.loc.tsv
 River Viper,1,,,[01]__MTU_generals__Wood_champion.loc.tsv
 Roar of the Beast,1,,野獸咆哮,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Rosin Flaming Shot,3,,松脂,hv_TEXT_unit_abilities_hit_effects.loc.tsv
@@ -1678,7 +1785,7 @@ Scattered Shanyue Community,1,,,hv_TEXT_building.loc.tsv
 Scattered Wuhuan Community,1,,,hv_TEXT_building.loc.tsv
 Scattered Xiongnu Community,1,,,hv_TEXT_building.loc.tsv
 Scattering Blows,2,,潰散攻擊,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Scholar Warriors,1,學霸勇士,,hv_TEXT_unit_text_replacements.loc.tsv
+Scholar Warriors,1,,學霸勇士,hv_TEXT_unit_text_replacements.loc.tsv
 Scion,1,袁術之子,,hv_TEXT_ceo_career.loc.tsv
 Scout of Taiyuan,2,,,[01]__MTU_generals__Water_strategist.loc.tsv
 Scribe,1,主簿,,z_dummy_hv_TEXT_non_deployable.loc.tsv
@@ -1687,6 +1794,8 @@ Second Characteristic,138,,特性二,hv_TEXT_skills_additional.loc.tsv
 Second Marquis,1,,,hv_TEXT_etc.loc.tsv
 Second Wind,3,,重振旗鼓,hv_TEXT_unit_abilities.loc.tsv
 Secretary,1,,,[01]__MTU_generals__Water_strategist.loc.tsv
+Securing Xu would be a major step towards your desire of unity.,2,,,!!path_to_unity__.loc.tsv
+Securing a Province,2,,,!!path_to_unity__.loc.tsv
 "Selecting this will open the Imperial Intrigue panel, which governs all the mechanics which become active once Emperor Xian comes of age in 195 CE, introducing a struggle over the influence of the new imperial power.",1,選取之後將會打開朝廷權謀面板，統管獻帝於公元195年成年後開放使用的所有機制，代表著新任皇權所面臨的政治角力。,,ifo_text_TWEAK.loc.tsv
 Sell Horses,1,賣馬,,hv_TEXT_pooled_resource.loc.tsv
 Send Her Away,26,,,[04]__MTU_events___Concubine.loc.tsv
@@ -1776,14 +1885,15 @@ Special Treatment,1,,,[04]__MTU_events__Common.loc.tsv
 Special treatment draws the ire of those around you.,1,,,[04]__MTU_events__Common.loc.tsv
 Specially made crossbow bolts from Chen.,1,,陳國特製的弓弩，威力強大。,hv_TEXT_unit_abilities_hit_effects.loc.tsv
 Speed is the essence of war.,1,,兵貴神速。,hv_TEXT_unit_abilities.loc.tsv
-Spice Guards,1,香料護衛,,hv_TEXT_unit_text_replacements.loc.tsv
+Spice Guards,1,,香料護衛,hv_TEXT_unit_text_replacements.loc.tsv
 Spiritualized Rage,1,,,[01]__MTU_generals__Water_strategist.loc.tsv
 Stability,1,,穩重如山,hv_TEXT_skills_basic.loc.tsv
+Stable Foothold,2,,,!!path_to_unity__.loc.tsv
 Staff Infantry (Buqu),3,,持杖步兵（部曲）,hv_TEXT_unit_ui_group_t2.loc.tsv
 Staff Infantry (Elite),3,,持杖步兵（精銳）,hv_TEXT_unit_ui_group_t3.loc.tsv
 Staff Infantry (Militia),4,,持杖步兵（義勇）,hv_TEXT_unit_ui_group_t1.loc.tsv
 Stalwart Defender,2,,步步為營,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Stalwart Shields,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Stalwart Shields,1,,堅盾衛士,hv_TEXT_unit_text_replacements.loc.tsv
 "Stalwart as the hills they were raised in, these Chu spearmen are an asset to any warlord.",1,,,hv_TEXT_unit_desc.loc.tsv
 Starseeker,1,,,[02]__MTU_items__Weapons.loc.tsv
 Static Infantry Formation,9,,,!hv_TEXT_system.loc.tsv
@@ -1815,8 +1925,8 @@ Suffered Woman,1,,,[01]__MTU_generals__Water_strategist.loc.tsv
 Suicide bomb!,1,,,hv_TEXT_unit_ui_bullet.loc.tsv
 Sun Ce,1,,孫策,hv_TEXT_cb_loadout.loc.tsv
 Sun Jian,1,,孫堅,hv_TEXT_cb_loadout.loc.tsv
-Sun Quan,1,,,hv_TEXT_cb_loadout.loc.tsv
-Sun Ren,1,,,hv_TEXT_cb_loadout.loc.tsv
+Sun Quan,1,,孫權,hv_TEXT_cb_loadout.loc.tsv
+Sun Ren,2,,孫仁,hv_TEXT_cb_loadout.loc.tsv
 "Sun Ren, born to a family of heroes and the daughter of legendary general Sun Jian, has joined your cause. Her prowess in martial combat is worthy of the name Sun. You meet the wildfire Lady Sun, flanked by a dozen of her personal handmaiden guard, in the courtyard. Her radiant beauty, strength, and intensity capture your imagination, giving thought to brighter days with Lady Sun as your concubine.",1,,,[04]__MTU_events___Concubine.loc.tsv
 "Sun Tzu said that one should always give an enemy room to escape, so that they do not fight with the fervour of the doomed. Yet for Gao Shun's elite force, Xian Chen Ying, being entirely surrounded is nothing but another dimension to slaughter. \\n\\n Renowned for their abilitiy to smash through enemy formations, Xian Chen Ying excel even when surrounded. The bodies will pile high, but Xian Chen Ying will still emerge from the pile victorious.",1,孫子曾言圍師必闕，以免敵軍臨危拚命。然而高順的精兵破寨軍卻認為身陷重圍也無妨，只管開殺便是。\\n\\n破寨軍以搗破敵陣的本事聞名，他們遭圍時反而更能發揮實力。哪怕沙場上屍首交疊成山，破寨軍總是能殺出重圍。,,hv_TEXT_unit_long_desc.loc.tsv
 Sundering Strike,1,,開山劈石,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -1841,13 +1951,14 @@ Sword Infantry (Elite),8,,持劍步兵（精銳）,hv_TEXT_unit_ui_group_t3_VM.l
 Sword Infantry (Militia),7,,持劍步兵（義勇）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 Tactical Advance,3,,,hv_TEXT_unit_abilities.loc.tsv
 Tactician's Design,1,,,[02]__MTU_items__Accessory.loc.tsv
-Taishan Batters,1,泰山連擊兵,,hv_TEXT_unit_text_replacements.loc.tsv
-Taishan Phantoms,1,泰山魅影兵,,hv_TEXT_unit_text_replacements.loc.tsv
-Taishan Poison Wind Archers,1,泰山毒風弓兵,,hv_TEXT_unit_text_replacements.loc.tsv
+Taishan Batters,1,,泰山連擊兵,hv_TEXT_unit_text_replacements.loc.tsv
+Taishan Phantoms,1,,泰山魅影兵,hv_TEXT_unit_text_replacements.loc.tsv
+Taishan Poison Wind Archers,1,,泰山毒風弓兵,hv_TEXT_unit_text_replacements.loc.tsv
 Taishi Ci,1,,,hv_TEXT_cb_loadout.loc.tsv
 Take her,2,予以接納,,hv_TEXT_events.loc.tsv
 Take out their archers. I'll meet you in the middle.,1,,解決掉他們的弓手，我們到中間會合。,hv_TEXT_unit_abilities.loc.tsv
 Tantrum,5,,痛斥,[03]__MTU_skills__Active_buff.loc.tsv
+Tanxian,2,,郯縣,!!path_to_unity__.loc.tsv
 Tao Qian,1,,陶謙,hv_TEXT_cb_loadout.loc.tsv
 Targeted Strikes,4,,精準打擊,hv_TEXT_skills_skill_ability__historical.loc.tsv
 Taunt enemy,1,,,hv_TEXT_unit_ui_bullet.loc.tsv
@@ -1875,6 +1986,7 @@ The Cataclysm,1,朝政混亂,,[dummy]__MTU_dummy.loc.tsv
 "The Deadly Beauty, Diaochan",1,,,[04]__MTU_events___Concubine.loc.tsv
 "The Delicate Flower, Lady Feng",1,,,[04]__MTU_events___Concubine.loc.tsv
 The Dragon's Gaze,1,,蛟龍怒目,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"The Eastern and Western Capitals, forever corrupted by sinister officials. Both must be saved and revitalised.",2,,,!!path_to_unity__.loc.tsv
 "The Elder Qiao of the Han Dynasty has two daughters, both of them fames for their beauty and artistic talents. The two daughters, Da Qiao and Xiao Qiao, will move to serve Sun Ce and Zhou Yu.\\n\\n“I deeply admir your prestige. I offer my daughters for marriage.”",1,,,[04]__MTU_events__Common.loc.tsv
 The Falcon’s arrows soar through the sky much like the bird of prey it’s named after.,1,,,[02]__MTU_items__Bow.loc.tsv
 The Force will be with you... always.,1,,老天保佑！,hv_TEXT_unit_abilities.loc.tsv
@@ -1885,6 +1997,7 @@ The Force will be with you... always.,1,,老天保佑！,hv_TEXT_unit_abilities.
 The Glory of the Han shall endure while these men have the strength to wield their halberds.,1,只要這些人有力量揮舞他們的戰戟，漢室的榮耀就將延續。,,hv_TEXT_unit_desc.loc.tsv
 The Han must be restored. These men shall follow their righteous general to the death to see it done.,1,漢室必須復興。這些人將誓死跟隨他們通曉大義的將軍。,,hv_TEXT_unit_desc.loc.tsv
 "The House Servant Archers represent the utilitarian backbone of defense for the noble estates of Jing Province. Their proficiency with the bow is matched by their intimate knowledge of the land they patrol, allowing them to use the terrain to their advantage in warding off threats. These archers are valued not for martial prestige but for their logistical ease and strategic placement, making them an efficient choice for maintaining the security of their masters' territories. Their ability to operate effectively with minimal supply demands underscores their role as indispensable defenders, proficient in leveraging their understanding of local geography for optimal protection.",1,家僕弓兵是荊州士族莊園防禦的支柱。他們對弓箭的精通與對土地的熟悉相輔相成，這使他們能夠利用地形優勢來擊退威脅。這些箭手並非以武藝而被重視，而是因其便於部署，補給簡單，所以是維護領地安全的高效選擇。他們只需很少補給即可有效運作，並且善於利用當地地形保護，是不可或缺的防禦力量。,,hv_TEXT_unit_long_desc.loc.tsv
+The Imperial Capitals,2,,,!!path_to_unity__.loc.tsv
 "The Ji Guards of the Eight Talents stand as paragons of martial prowess within Liu Bao's domain, wielding the Ji with unmatched skill. Selected for their loyalty and combat mastery, these guards are tasked with the defense of Jing province, utilizing their polearms to form an impregnable line against any who dare challenge their lord's authority. Their training emphasizes not just the art of the Ji but the values of courage and fidelity, making them a formidable force on the battlefield.",1,八才戟衛是劉表屬下武技卓越的楷模，揮戟之技無人能及。只有忠誠且善戰者才能入選，這些衛兵的任務是保衛荊州，手持長戟，築成堅不可摧之防線，抵禦任何敢挑戰他們主公權威的人。他們的訓練不僅強調武藝，亦會培養忠勇的信念。這使他們在戰場上成為一支可怕的力量。,,hv_TEXT_unit_long_desc.loc.tsv
 "The Jianan Elite Vigilante represents Beihai's mastery of mobile warfare, combining the lethal precision of crossbowmen with the agility of cavalry. This elite contingent is adept at harrying enemy lines, delivering swift strikes before evading retaliation. Their ease of use and effectiveness make them a formidable addition to Beihai's forces, capable of reinforcing the province's marksmen to dominate the battlefield from a distance. Their presence underscores Beihai's innovative approach to combat, blending speed and ranged lethality.",1,建安精銳巡守是北海的運動戰部隊，將弩手的致命精準與騎兵的敏捷相結合。這支精銳部隊擅長騷擾敵軍陣線，迅速發動打擊再後撤躲避反擊。他們靈活高效，是北海軍隊中的一支可怕力量，能夠援助該地的射手部隊，從遠處主導戰場。他們融合速度與遠程火力，突顯了北海在戰術上的創新。,,hv_TEXT_unit_long_desc.loc.tsv
 "The Jianan Vigilante Crossbowmen of Beihai stand as bulwarks against aggression, their crossbows a testament to the ingenuity and martial acumen of the region. Their ability to aim with deadly efficiency, coupled with the penetrating power of their bolts, makes them indispensable in repelling assaults. When positioned strategically, their coordinated fire ensures that any advance is met with formidable resistance, underpinning Beihai's defensive capabilities with unwavering strength.",1,北海的建安巡守弩兵是抵禦侵略的堡壘，他們的弩弓來自於此地工匠的才華。他們能夠精確瞄準，使用穿透力強的弩箭，這使他們在敵人來襲之時不可或缺。如果布置得當，他們的齊射可以阻擋任何人的前進。北海防禦能力正是依賴這支堅定的力量。,,hv_TEXT_unit_long_desc.loc.tsv
@@ -1995,6 +2108,7 @@ The people of Danyang have a reputation for bravery. Tao Qian has turned them in
 "The perfect weight and fit, tailored for this warrior of class and distinction.",30,重量適中且恰好合身，專為這名有頭有臉的戰士量身打造。,,[dummy]__MTU_dummy.loc.tsv
 "The phoenix beak strikes with a ferocity that has put many a man to ashes, never to rise again.",1,,,[02]__MTU_items__Weapons.loc.tsv
 The pillar is strongest at its base.,1,,柱之堅韌，以根基為最。,hv_TEXT_skills_basic.loc.tsv
+The pinnacles of unyielding loyalty and bravery to a revitalised Han.,2,,,!!path_to_unity__.loc.tsv
 "The pride of the Xiliang army, these armored horsemen will teach their enemy the meaning of “elite cavalry”.",1,作爲西涼軍的驕傲，這些重甲騎兵將教導他們的敵人“精銳騎兵”的含義。,,hv_TEXT_unit_desc.loc.tsv
 The quantity and quality of your warhorses is unmatched!,1,戰馬的數量與質量皆無與倫比！,,hv_TEXT_effects_pooled_resource.loc.tsv
 The responsibility that comes with authority should not be taken lightly.,2,,權威帶來的責任絕不能等閒視之。,z_dummy_hv_TEXT_non_deployable.loc.tsv
@@ -2091,6 +2205,7 @@ This legendary presence gives enemies pause.,1,,此人的傳奇風采使敵人�
 This man has learnt to overcome defeat.,3,,屢敗屢戰，無所畏懼。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 This man knows how to frighten enemies in the woods.,1,,神鬼莫測於樹林間震攝敵軍。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "This metropolis is marvellous to behold, a dense and vibrant collection of interesting people and wondrous places.",6,此都會不乏奇人異士和名勝古蹟，見者無不嘖嘖稱奇。,,hv_TEXT_effects_pooled_resource.loc.tsv
+"This oath sworn by these three strangers binds them ever stronger than the bonds of blood. Now they are sworn forever as brothers, until death does them apart.",2,,,!!path_to_unity__.loc.tsv
 "This shooter fires and fires, faster and faster, never relenting.",2,,此弓手不斷引弓放箭，越放越快，毫不留手。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "This special pearl, gifted by Zhang Fei, has protected Guan Yinping from all kinds of danger",2,,"「漫道無華爭俏麗,長青更勝一時芳。」",[03]__MTU_skills__Passive_buff.loc.tsv
 This town hums with an energy befitting a small yet well-established settlement.,6,此鎮麻雀雖小但五臟俱全，一片朝氣蓬勃的景況。,,hv_TEXT_effects_pooled_resource.loc.tsv
@@ -2125,7 +2240,7 @@ Thunderous Blow,4,,霆擊,[03]__MTU_skills___Splash_attack.loc.tsv
 Thunderous sounds and exploding flames agitate the enemy.,1,,,hv_TEXT_unit_ui_bullet.loc.tsv
 Tiger & Leopard Cataphracts,1,,虎豹鐵甲騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 Tiger & Leopard Cavalry,1,,虎豹騎兵,hv_TEXT_unit_text_replacements.loc.tsv
-Tiger Cubs,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Tiger Cubs,1,,少虎騎,hv_TEXT_unit_text_replacements.loc.tsv
 Tiger General,2,,,[01]__MTU_generals__Metal_sentienl.loc.tsv
 Tiger Hides,3,,虎皮,hv_TEXT_unit_abilities.loc.tsv
 Tiger Suppression,4,,伏虎,[03]__MTU_skills___Projectile.loc.tsv
@@ -2147,7 +2262,7 @@ Trample,3,,踐踏,[03]__MTU_skills___Splash_attack.loc.tsv
 Transition,3,,攻防轉換,hv_TEXT_unit_abilities.loc.tsv
 "Treasured Tigress, Guan Yinping",1,,,[04]__MTU_events___Concubine.loc.tsv
 "Treat your men as you would your own beloved sons. And they will follow you into the deepest valley. \\n\\n Serving the heirs of Sun Tzu, these men would willingly follow them into heirs and certain death. Armed with a light glaive and medium armor, these men can hold their own in a variety of situations, facing down cavalry or infantry with equal skill. Their versatility has caused them to be fondly called “problem solvers” by their commanders and are given great respect, which they repay with loyalty.",1,視卒如嬰兒，故可以與之赴深。\\n\\n這些士兵侍奉孫武傳人，甘心追隨他們踏上征程，無懼死亡。手持輕戟，身穿中甲，這些士兵能夠應對各種情勢，同樣熟練地對抗騎兵或步兵。他們的多種能力使他們深受將領器重，稱其爲“解煩”，而他們則以忠誠報答。,,hv_TEXT_unit_long_desc.loc.tsv
-Trebuchet,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Trebuchet,1,,投石機,hv_TEXT_unit_text_replacements.loc.tsv
 Tribal hunters can provide us with additional food.,1,部落獵人可爲我們提供額外的食物。,,hv_TEXT_building.loc.tsv
 Troops reinforce where they are and solidify their defenses.,1,,部隊原地守衛鞏固防禦。,hv_TEXT_unit_abilities.loc.tsv
 "True strength lies not in the mind or body, but within the spirit.",2,,真正的力量不在身體也不在心思，而是在靈魂中。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -2156,11 +2271,11 @@ Tu,1,,,[05]__MTU_sys__Names.loc.tsv
 Turn back,1,回去,,hv_TEXT_events.loc.tsv
 Turning Tide,6,,逆轉乾坤,hv_TEXT_unit_abilities.loc.tsv
 Turning the Tide,1,,力挽狂瀾,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Two Blades,1,雙刃兵,,hv_TEXT_unit_text_replacements.loc.tsv
+Two Blades,1,,雙刃兵,hv_TEXT_unit_text_replacements.loc.tsv
 "Two bandits came to you with a proposal. “If we work together, we can rid ourselves of that Zheng Jiang bitch.” They indeed possessed formidable presence and determination to back their confidence. They desire to overthrow the queen they once served.\\n\\n They offered their assistance, but not without a price. They will require compensation for their part.",1,,,[04]__MTU_events__Common.loc.tsv
 Two-Headed Dragon,4,,龍虎,[03]__MTU_skills__Passive_buff.loc.tsv
 Tyrant,1,暴君,,hv_TEXT_cb_loadout.loc.tsv
-Tyrant Slayers,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Tyrant Slayers,1,,除暴軍,hv_TEXT_unit_text_replacements.loc.tsv
 Tyrant's Gaze,4,,狼視,[03]__MTU_skills__Passive_buff.loc.tsv
 Unbreakable Faith,4,,鐵壁,[03]__MTU_skills__Passive_buff.loc.tsv
 "Under Zhang Xun’s leadership, his army is truly invincible.",2,,,[03]__MTU_skills__Active_buff.loc.tsv
@@ -2196,6 +2311,7 @@ Unlocks elite Northern Army Captain Retinues,1,解鎖精銳北軍校尉隨從,,h
 Unlocks elite royal guards,1,,,hv_TEXT_events_rules.loc.tsv
 Unlocks special abilities for black mountain bandit units,1,解鎖黑山匪徒單位特殊能力,,hv_TEXT_effects_pooled_resource.loc.tsv
 Unlocks unit for Yan Baihu: {{tr:hv_unit_white_tiger_warriors}},1,為嚴白虎解鎖單位：{{tr:hv_unit_white_tiger_warriors}},,hv_TEXT_effects_events.loc.tsv
+Unlocks unit: Dongzhoubing units,1,,解除單位鎖定：東州兵,hv_TEXT_effects_ceo.loc.tsv
 Unlocks unit: {{tr:hv_tr_earth}} units,1,,解除單位鎖定：{{tr:hv_tr_earth}}單位,hv_TEXT_skills_additional.loc.tsv
 Unlocks unit: {{tr:hv_tr_fire}} units,1,,解除單位鎖定：{{tr:hv_tr_fire}}單位,hv_TEXT_skills_additional.loc.tsv
 Unlocks unit: {{tr:hv_tr_metal}} units,1,,解除單位鎖定：{{tr:hv_tr_metal}}單位,hv_TEXT_skills_additional.loc.tsv
@@ -2203,22 +2319,25 @@ Unlocks unit: {{tr:hv_tr_water}} units,1,,解除單位鎖定：{{tr:hv_tr_water}
 Unlocks unit: {{tr:hv_tr_wood}} units,1,,解除單位鎖定：{{tr:hv_tr_wood}}單位,hv_TEXT_skills_additional.loc.tsv
 Unlocks unit: {{tr:hv_unit_bomb_thrower}},2,,解除單位鎖定：{{tr:hv_unit_bomb_thrower}},hv_TEXT_skills_additional.loc.tsv
 Unlocks unit: {{tr:hv_unit_buqu_archer_cavalry}},1,,解除單位鎖定：{{tr:hv_unit_buqu_archer_cavalry}},hv_TEXT_skills_additional.loc.tsv
-Unlocks unit: {{tr:hv_unit_dan_yang_archers}},1,,解除單位鎖定：{{tr:hv_unit_dan_yang_archers}},hv_TEXT_effects_ceo.loc.tsv
-Unlocks unit: {{tr:hv_unit_dan_yang_infantry}},1,,解除單位鎖定：{{tr:hv_unit_dan_yang_infantry}},hv_TEXT_effects_ceo.loc.tsv
-Unlocks unit: {{tr:hv_unit_dan_yang_spearmen}},1,,解除單位鎖定：{{tr:hv_unit_dan_yang_spearmen}},hv_TEXT_effects_ceo.loc.tsv
+Unlocks unit: {{tr:hv_unit_buqu_of_the_left}},2,,解除單位鎖定：{{tr:hv_unit_buqu_of_the_left}},hv_TEXT_effects_ceo.loc.tsv
+Unlocks unit: {{tr:hv_unit_dan_yang_archers}},2,,解除單位鎖定：{{tr:hv_unit_dan_yang_archers}},hv_TEXT_effects_ceo.loc.tsv
+Unlocks unit: {{tr:hv_unit_dan_yang_infantry}},2,,解除單位鎖定：{{tr:hv_unit_dan_yang_infantry}},hv_TEXT_effects_ceo.loc.tsv
+Unlocks unit: {{tr:hv_unit_dan_yang_spearmen}},2,,解除單位鎖定：{{tr:hv_unit_dan_yang_spearmen}},hv_TEXT_effects_ceo.loc.tsv
 Unlocks unit: {{tr:hv_unit_enforcer_archer_cavalry}},2,,解除單位鎖定：{{tr:hv_unit_enforcer_archer_cavalry}},hv_TEXT_effects_events.loc.tsv
-Unlocks unit: {{tr:hv_unit_fellows_of_the_oath}},1,,解除單位鎖定：{{tr:hv_unit_fellows_of_the_oath}},hv_TEXT_skills_additional.loc.tsv
+Unlocks unit: {{tr:hv_unit_fellows_of_the_oath}},2,,解除單位鎖定：{{tr:hv_unit_fellows_of_the_oath}},hv_TEXT_effects_ceo.loc.tsv
 Unlocks unit: {{tr:hv_unit_goshawk_cavalry}},1,,解除單位鎖定：{{tr:hv_unit_goshawk_cavalry}},hv_TEXT_skills_additional.loc.tsv
 Unlocks unit: {{tr:hv_unit_hidden_2h_spearmen}},1,,解除單位鎖定：{{tr:hv_unit_hidden_2h_spearmen}},hv_TEXT_skills_additional.loc.tsv
 Unlocks unit: {{tr:hv_unit_hidden_assault_infantry}},1,,解除單位鎖定：{{tr:hv_unit_hidden_assault_infantry}},hv_TEXT_skills_additional.loc.tsv
 Unlocks unit: {{tr:hv_unit_hidden_snakes}},2,,解除單位鎖定：{{tr:hv_unit_hidden_snakes}},hv_TEXT_effects_events.loc.tsv
 Unlocks unit: {{tr:hv_unit_iron_fists_of_the_bandit_queen}},1,,解除單位鎖定：{{tr:hv_unit_iron_fists_of_the_bandit_queen}},hv_TEXT_skills_additional.loc.tsv
+Unlocks unit: {{tr:hv_unit_ji_guards_of_the_eight_talents}},1,,解除單位鎖定：{{tr:hv_unit_ji_guards_of_the_eight_talents}},hv_TEXT_effects_ceo.loc.tsv
 Unlocks unit: {{tr:hv_unit_juggernaut}},1,,解除單位鎖定：{{tr:hv_unit_juggernaut}},hv_TEXT_skills_additional.loc.tsv
 Unlocks unit: {{tr:hv_unit_militia_2h_axemen}},1,,解除單位鎖定：{{tr:hv_unit_militia_2h_axemen}},hv_TEXT_skills_additional.loc.tsv
 Unlocks unit: {{tr:hv_unit_militia_scout_cavalry}},1,,解除單位鎖定：{{tr:hv_unit_militia_scout_cavalry}},hv_TEXT_skills_additional.loc.tsv
 Unlocks unit: {{tr:hv_unit_militia_white_tiger_outlaws}},1,,解除單位鎖定：{{tr:hv_unit_militia_white_tiger_outlaws}},hv_TEXT_skills_additional.loc.tsv
 Unlocks unit: {{tr:hv_unit_rapid_tigers}},2,,解除單位鎖定：{{tr:hv_unit_rapid_tigers}},hv_TEXT_effects_events.loc.tsv
 "Unlocks unit: {{tr:hv_unit_sogd_warriors}}, {{tr:hv_unit_sogd_barded_cavalry}}",1,,"解除單位鎖定：{{tr:hv_unit_sogd_warriors}}, {{tr:hv_unit_sogd_barded_cavalry}}",hv_TEXT_effects_ceo.loc.tsv
+Unlocks unit: {{tr:hv_unit_sword_guards_of_the_eight_talents}},1,,解除單位鎖定：{{tr:hv_unit_sword_guards_of_the_eight_talents}},hv_TEXT_effects_ceo.loc.tsv
 Unlocks unit: {{tr:hv_unit_white_horse_fellows}},2,,解除單位鎖定：{{tr:hv_unit_white_horse_fellows}},hv_TEXT_skills_additional.loc.tsv
 Unlocks unit: {{tr:hv_unit_white_tiger_bandits}},1,,解除單位鎖定：{{tr:hv_unit_white_tiger_bandits}},hv_TEXT_skills_additional.loc.tsv
 Unlocks unit: {{tr:hv_unit_white_tiger_guardsmen}},1,,解除單位鎖定：{{tr:hv_unit_white_tiger_guardsmen}},hv_TEXT_skills_additional.loc.tsv
@@ -2227,18 +2346,20 @@ Unlocks unit: {{tr:hv_unit_xian_chen_ying_2h_sabre}},1,,解除單位鎖定：{{t
 Unlocks unit: {{tr:hv_unit_xian_chen_ying}},1,,解除單位鎖定：{{tr:hv_unit_xian_chen_ying}},hv_TEXT_skills_additional.loc.tsv
 Unlocks unit: {{tr:hv_unit_xiliang_elite_enforcers}},2,,解除單位鎖定：{{tr:hv_unit_xiliang_elite_enforcers}},hv_TEXT_effects_events.loc.tsv
 Unlocks unit: {{tr:hv_unit_yuan_ji_guards}},2,,解除單位鎖定：{{tr:hv_unit_yuan_ji_guards}},hv_TEXT_skills_additional.loc.tsv
+Unlocks unit: {{tr:hv_unit_yuan_rong_crossbowmen}},1,,解除單位鎖定：{{tr:hv_unit_yuan_rong_crossbowmen}},hv_TEXT_effects_ceo.loc.tsv
 Unlocks unit: {{tr:hv_unit_yuan_sword_infantry}},2,,解除單位鎖定：{{tr:hv_unit_yuan_sword_infantry}},hv_TEXT_skills_additional.loc.tsv
 Unstable Han dynasty,1,漢室式微,,hv_TEXT_effect_faction.loc.tsv
 Unstoppable,1,,無人可擋,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Unwed Warrior,4,,處子,[03]__MTU_skills__Passive_buff.loc.tsv
 Unyielding Earth,1,,不屈之土,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Upon nearby enemy unit routing nearby own units recieve a morale buff.,1,周遭敵軍單位潰逃時，賦予周遭我方單位士氣增強效果。,周遭敵軍單位潰逃時，賦予周遭我方單位士氣增強效果。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Upstart Warlord,2,,,!!path_to_unity__.loc.tsv
 Using Furious Beast,13,使用怒獸,,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 "Using Various Weapons, Multi-Role",49,使用多種武器，多重角色,,hv_TEXT_unit_ui_group_t1.loc.tsv
 "Using her graceful beauty, she stuns all those around her.",1,,她運用美色，迷得周圍所有人動彈不得。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Using violence to settle personal scores only causes backlash from those around you.,1,,,[04]__MTU_events__Common.loc.tsv
 Veil of Darkness,4,,黑暗之幕,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Venerable Wu,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Venerable Wu,1,,聖巫軍,hv_TEXT_unit_text_replacements.loc.tsv
 Vengeance,1,,有仇必報,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Vermilion Comet,4,,流星,[03]__MTU_skills__Passive_buff.loc.tsv
 "Versatile raiders armed with sabers and flame shots, adept at causing chaos and immune to Nanman's terrain challenges.",1,靈活的劫匪，手持軍刀和火焰彈，擅長製造混亂，無視南蠻地形的懲罰。,,hv_TEXT_unit_desc.loc.tsv
@@ -2253,23 +2374,24 @@ Vigilante Barracks,1,,,hv_TEXT_building.loc.tsv
 Vigilante Posts,1,,,hv_TEXT_building.loc.tsv
 Vigilantes patrol the region and harass enemy armies.,1,巡守衛隊在此地域巡邏，騷擾敵軍。,,hv_TEXT_building.loc.tsv
 Vigor of a Warrior,8,,熱血,[03]__MTU_skills__Passive_buff.loc.tsv
-Virtous Noblemen,1,名門賢士,,hv_TEXT_unit_text_replacements.loc.tsv
+Virtous Noblemen,1,,名門賢士,hv_TEXT_unit_text_replacements.loc.tsv
 "Virtue cannot be acquired, only nurtured.",1,,修德非一蹴可幾，須時刻培養。,hv_TEXT_skills_basic.loc.tsv
 Wall of Steel,7,,精甲,hv_TEXT_unit_abilities.loc.tsv
-Wandering Artisans,1,游方藝匠,,hv_TEXT_unit_text_replacements.loc.tsv
+Wandering Artisans,1,,游方藝匠,hv_TEXT_unit_text_replacements.loc.tsv
 "Wang Kuang’s spouse, Yijian Liting, has found her way to us. She’s as renowned for her courage in combat as she is her perseverance. As you share private moments with her, you find her desire to excel in all aspects of life to be admirable. Women, true of heart and ambitious, must be appreciated. Perhaps, she would be a fine concubine - making capable sons and daughters.",1,,,[04]__MTU_events___Concubine.loc.tsv
 "Wang Yun went to them obediently and left these words.\\n\\n ""It was my wish to make the country peaceful. I didn't, so I sacrifice myself. The litte emperor has shown kindness to me, and I can't stand to live a miserable life.""",1,王允自行降於李郭。\\n\\n王允奏曰：“臣本為社稷計。事至此，陛下不惜已臣，以誤國家。臣請下見二賊。”,,[dummy]__MTU_dummy.loc.tsv
 Wang Yun's order was stayed. The renowned scholar would record the history of the Han as recompense for his wrongdoing.,1,,,[04]__MTU_events___Cai_family.loc.tsv
 Warehouse,1,,,hv_TEXT_building.loc.tsv
 Warlord,8,諸侯,,[01]__MTU_generals__Water_strategist.loc.tsv
 Warning Shot,2,,警告射擊,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Warrior Monks,1,武僧,,hv_TEXT_unit_text_replacements.loc.tsv
+Warrior Monks,1,,武僧,hv_TEXT_unit_text_replacements.loc.tsv
 Warrior Without Equal,1,武藝無雙,,hv_TEXT_cb_loadout.loc.tsv
 Warriors of Danyang,1,丹陽戰士,,hv_TEXT_events.loc.tsv
+Warriors of Jing,2,,,!!path_to_unity__.loc.tsv
 Warriors of Jingchu,1,荊楚戰士,,hv_TEXT_events.loc.tsv
 Warriors of Xiliang,1,西涼戰士,,hv_TEXT_events.loc.tsv
 Wars are a costly endeavour and one cannot hope to end this chaos without a sizable treasury. Show all under heaven that you possess China's wealth.,6,興師十萬，日费千金。國用不足則不能平亂。掌控舉國之財，而後昭示天下。,,hv_TEXT_events.loc.tsv
-Watchmen of the Peace,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Watchmen of the Peace,1,,和平守衛,hv_TEXT_unit_text_replacements.loc.tsv
 Way of the Wind,1,,預測風向,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 We are reaping the benefits of military rule.,1,軍事統治已成效斐然。,,hv_TEXT_effects_pooled_resource.loc.tsv
 "We have contacted the Xiongnu and verified that the kidnapped woman is indeed Cai Yan. She has become the concubine of a Xiongnu chieftain. However, the Xiongnu offer to release Cai Yan for a significant sum of gold.",1,,,hv_TEXT_events.loc.tsv
@@ -2280,7 +2402,7 @@ We've run into problems paying the troops with the new coin. We have no choice b
 We've run into problems purchasing grain with the new coin. We have no choice but to wait for farmers to adjust to the new standard.,1,由於新幣發行，買糧時出現問題。我們別無選擇，只能等到農民們適應新的標準。,,hv_TEXT_events.loc.tsv
 Wedge of Jieqiao,3,,楔形陣,[03]__MTU_skills___Effect.loc.tsv
 Weeping Woman,2,,,[01]__MTU_generals__Earth_commander.loc.tsv
-Wei Yan,1,,,hv_TEXT_cb_loadout.loc.tsv
+Wei Yan,2,,魏延,hv_TEXT_cb_loadout.loc.tsv
 Wen Chou,1,,文醜,hv_TEXT_cb_loadout.loc.tsv
 "What a sight to behold! Lady Trieu, on the back of a rare, white elephant, enters through your gates escorted by a convoy. After much consideration, she has chosen to join your faction. It’s a great victory to add a woman of such strength, spirit, and conviction. You ask Lady Trieu for her hand in marriage, but are quickly rebuffed. One night, after a feast, Lady Trieu approaches you and accepts your proposal. Together, you could drive out the imposters and conquer the country.",1,,,[04]__MTU_events___Concubine.loc.tsv
 "What kind of men are these, who are not soldiers, yet wear elite armour? Bloody men, who have earned their weaponry through victory and pillaging.",1,這些人并非軍士，卻穿著精良的鎧甲。他們的裝備來自於血腥的勝利和洗劫。,,hv_TEXT_unit_desc.loc.tsv
@@ -2303,8 +2425,8 @@ Wen Chou,1,,文醜,hv_TEXT_cb_loadout.loc.tsv
 "While fighting against countless foes on the battlefield, Zhao Yun acquires a sword that glows blue and has a sharp edge.",1,,,[04]__MTU_events__Common.loc.tsv
 "Whilst all Yellow Turban warriors are happy to wade into the heart of battle, the Gallants of the People were made to hold the frontline against enemies - to be anywhere else would be to waste their talent and ardour. \\n\\n They are heavily-armoured, though not as heavily plated as some other warriors, yet with great axe they are able to push back the advancing foe whilst deflecting blows. Where their mail may falter, their fanaticism never will.",1,黃巾軍志士個個不怕衝鋒陷陣，但是護民勇士尤其適合固守陣線，要是挪作他用可就浪費了他們一身的本領和熱忱。\\n\\n他們身披重甲，也許不若其他鐵甲兵士防禦周全，但可仰賴手中大斧抵擋敵軍、化解攻勢。正所謂甲冑可破，鬥志不渝。,,hv_TEXT_unit_desc.loc.tsv
 Whistling arrows,1,,,hv_TEXT_unit_ui_bullet.loc.tsv
-White Feathers,1,白毦兵,,hv_TEXT_unit_text_replacements.loc.tsv
-White Horse Fellows,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+White Feathers,1,,白毦兵,hv_TEXT_unit_text_replacements.loc.tsv
+White Horse Fellows,1,,白馬義從,hv_TEXT_unit_text_replacements.loc.tsv
 White Horse Fellows Officer,1,白馬義從士官,,hv_TEXT_effects_ceo.loc.tsv
 White Horse Fellows Shot,3,,白馬,hv_TEXT_unit_abilities_hit_effects.loc.tsv
 White Horse General,1,,,[01]__MTU_generals__Wood_champion.loc.tsv
@@ -2316,19 +2438,23 @@ White Tiger Raiders,1,,白虎劫匪,hv_TEXT_unit_text_replacements.loc.tsv
 White Tiger Slingers,1,,白虎投石兵,hv_TEXT_unit_text_replacements.loc.tsv
 White Tiger Strays,1,,白虎流浪兵,hv_TEXT_unit_text_replacements.loc.tsv
 White Tiger Tamers,1,,白虎馴獸師,hv_TEXT_unit_text_replacements.loc.tsv
-White Wave Horsemen,1,,,hv_TEXT_unit_text_replacements.loc.tsv
-White Wave Veterans,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+White Wave Horsemen,1,,白波騎兵,hv_TEXT_unit_text_replacements.loc.tsv
+White Wave Veterans,1,,白波老兵,hv_TEXT_unit_text_replacements.loc.tsv
 Whitewater,4,激流湧升,激流湧升,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Who can defend against that which he cannot see?,2,,出其不備，攻其不意。,[03]__MTU_skills__Passive_buff.loc.tsv
 Wild Cry,4,,斷喝,[03]__MTU_skills__Active_debuff.loc.tsv
 Wildfire Raider,1,,野火劫匪,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Win 1 duel as Liu Bei,1,,,!!path_to_unity__.loc.tsv
+Win 1 duels with your heir.,1,,,hv_TEXT_etc.loc.tsv
 Win a battle where one of your generals personally kills 300 or more soldiers,2,贏得一場您的一名將領親自殺敵三百人的戰鬥,,!hv_TEXT_system.loc.tsv
 Win before [[b]][[{{CcoBattleDuel:FormatTime(TargetTimeRemaining)}}]][[/b]],1,在[[b]]{{CcoBattleDuel:FormatTime(TargetTimeRemaining)}}[[/b]]內獲勝,,hv_TEXT_etc.loc.tsv
 Wind of Taiyuan,1,,,[02]__MTU_items__Bow.loc.tsv
 Wind of the North,3,,北風,hv_TEXT_unit_abilities.loc.tsv
 Wisdom of the River,3,,河之智慧,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Wisdom of the Waterfall,6,,飛泉之智,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+"Wishing to preserve the Liu lineage, Liu Bei adopted the son of a righteous warrior as his own. Liu Feng is known for his courage and decisiveness, and his martial ability is beyond question. Now that he is part of the family, it may be time to entrust him with greater responsibility.",1,,,hv_TEXT_events.loc.tsv
 "With Hand-ji and shield, these Xiliang warriors will bring death to the enemy.",1,佩戴盾與手戟，這些西涼勇士為敵人帶來殺身之禍。,,hv_TEXT_unit_desc.loc.tsv
+"With Shu secured, the road to unity is getting ever closer.",2,,,!!path_to_unity__.loc.tsv
 "With a mighty cleave, Zhang Fei rends his foes' defences.",1,,張飛強力劈擊，撕裂敵人的防線。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "With a mighty sweep, Lü Bu strikes all around him.",1,呂布猛力一擊，徹底掃平周遭一眾敵軍。,,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "With a shout, this man spurs on their horse. The warrior can plough into enemies with such force that scores of men go flying.",2,,此人高呼一聲，策馬飛奔。他衝入敵陣的勁道之強，足以將大批士兵一舉震飛。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -2346,6 +2472,7 @@ With each volley their shots become ever more powerful and accurate.,1,,下一�
 "With the Invincible Spear in-hand, who could dare to stop Zhao Yun?",1,,,[02]__MTU_items__Weapons.loc.tsv
 "With the many wars that ravage China, militias everywhere have sprung up to defend their home and livelihood from bandits, yellow turbans, and invading warlords. Tempered by hard-won experience, these men have become adepts at war by survival.  Equally skilled in melee as with the bow, they over time bought horses to level the playing field with the more professional troops they often face. Many of these veterans now flock to the banners of the warlords, providing a rapid response force fit for a variety of situations.",1,天下紛亂，各地義勇蜂起，捍衛家園免受盜匪、黃巾和諸侯的侵襲。這些人久經戰陣，嫻熟於生存之道，既可近戰亦可使弓。他們積攢馬匹，使自己在戰場上能夠與更强的軍隊平起平坐。許多這樣的老兵如今歸附於諸侯旗下，可以迅速出擊應對各種情勢。,,hv_TEXT_unit_long_desc.loc.tsv
 With these numbers you can accomplish great things.,1,兵多將廣，可成大事。,,hv_TEXT_effects_pooled_resource.loc.tsv
+"With this famed warriors from Jing, the bonds of unity of peace further strengthens.",2,,,!!path_to_unity__.loc.tsv
 Wolf,5,,惡狼,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Wolf Pack: for recruitment: %+n,1,,可招募群狼兵數：%+n,hv_TEXT_effects_unit_cap.loc.tsv
 Words of Encouragement,4,,振奮,[03]__MTU_skills__Passive_buff.loc.tsv
@@ -2361,13 +2488,15 @@ Wuhuan Tribal Herd,1,,,hv_TEXT_building.loc.tsv
 Wuhuan Tribe,3,,,hv_TEXT_building.loc.tsv
 Wuhuan horsemanship is unparalleled.,1,,烏桓馬術天下無雙。,hv_TEXT_unit_abilities.loc.tsv
 Wuling Fighters: for recruitment: %+n,1,,可招募武陵鬥士數：%+n,hv_TEXT_effects_unit_cap.loc.tsv
-Xiahou Dun,1,,,hv_TEXT_cb_loadout.loc.tsv
+Xiahou Dun,1,,夏侯惇,hv_TEXT_cb_loadout.loc.tsv
 "Xiahou Dun fights best in the thick of it, but may lose his composure.",1,,夏侯惇在情況危急時反而能發揮最強實力，不過他也容易因此失去理智。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Xiahou Yuan,1,,,hv_TEXT_cb_loadout.loc.tsv
+Xiahou Yuan,1,,夏侯淵,hv_TEXT_cb_loadout.loc.tsv
 Xianbei Mounted Archers,1,,鮮卑弓騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 Xianchenying Guards,1,,,hv_TEXT_unit_text_replacements.loc.tsv
 Xianchenying Vanguards,1,,陷陣營先鋒,hv_TEXT_unit_text_replacements.loc.tsv
+Xiangyang,2,,襄陽,!!path_to_unity__.loc.tsv
 "Xiao Qiao, the younger of the Two Qiaos of Jiangdong, a famous beauty and skillful musician, has joined your faction. You recall hearing of her adeptness with a zither and ask her to play for you. She plucks at the strings of her zither and your heart alike and, when she is finished, you relax in your seat and contemplate making her your concubine.",1,,,[04]__MTU_events___Concubine.loc.tsv
+Xiapi,2,,下邳,!!path_to_unity__.loc.tsv
 Xiezhi Roar,1,,獬豸咆嘯,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Xiliang Buqu Crossbowmen,1,,西涼部曲弩兵,hv_TEXT_unit_text_replacements.loc.tsv
 Xiliang Buqu Hand-Ji Infantry,1,,西涼部曲手戟兵,hv_TEXT_unit_text_replacements.loc.tsv
@@ -2385,6 +2514,7 @@ Xiliang Elite Spearmen,1,,西涼精銳長槍兵,hv_TEXT_unit_text_replacements.l
 Xiliang Elite Zhanmajian Infantry,1,,西涼精銳斬馬劍兵,hv_TEXT_unit_text_replacements.loc.tsv
 Xiliang Veterancy - Melee,3,,西涼老兵 - 近戰,hv_TEXT_unit_abilities.loc.tsv
 Xiliang Veterancy - Ranged,3,,西涼老兵 - 遠程,hv_TEXT_unit_abilities.loc.tsv
+Xiling,2,,西陵,!!path_to_unity__.loc.tsv
 Xiongnu Javelineer,1,,匈奴擲鋋兵,hv_TEXT_unit_text_replacements.loc.tsv
 Xiongnu Lancer Cataphracts,1,,匈奴長槍鐵甲騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 Xiongnu Mounted Archers,1,,匈奴弓騎兵,hv_TEXT_unit_text_replacements.loc.tsv
@@ -2392,47 +2522,50 @@ Xiongnu Tribal Camp,1,,,hv_TEXT_building.loc.tsv
 Xiongnu Tribal Herd,1,,,hv_TEXT_building.loc.tsv
 Xiongnu Tribe,3,,,hv_TEXT_building.loc.tsv
 Xiongnu's Invasion,2,,,[04]__MTU_events___Cai_family.loc.tsv
-Xu Chu,1,,,hv_TEXT_cb_loadout.loc.tsv
-Xu Huang,1,,,hv_TEXT_cb_loadout.loc.tsv
+Xiyang,2,,西陽,!!path_to_unity__.loc.tsv
+Xu Chu,1,,許褚,hv_TEXT_cb_loadout.loc.tsv
+Xu Huang,1,,徐晃,hv_TEXT_cb_loadout.loc.tsv
 Xueer,1,,,[05]__MTU_sys__Names.loc.tsv
-Xun You,1,,,hv_TEXT_cb_loadout.loc.tsv
-Xun Yu,1,,,hv_TEXT_cb_loadout.loc.tsv
+Xuexian,2,,薛縣,!!path_to_unity__.loc.tsv
+Xun You,1,,荀攸,hv_TEXT_cb_loadout.loc.tsv
+Xun Yu,1,,荀彧,hv_TEXT_cb_loadout.loc.tsv
 Xun Yu has the power to influence the emperor. No one doubts his reputation.,2,,「吾之子房也。」,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "Xun Yu openly criticized you for seeking power, saying you should be focusing on the restoration of Han dynasty. He even had the gall to say that because of your pursuit of power, you will never see a good end. \\n\\n You were furious, but you could not openly express it, since he was an old friend and a loyal servant.",1,荀彧進言，指責你專權跋扈，不以輔佐漢室為重。\\n\\n您很憤怒，但又不能公開表達，因為你們結交已久，他是你一位心腹。,,[dummy]__MTU_dummy.loc.tsv
 "Xun Yu recognized the meaning of your ""gift"" and made the last choice. You regretted your choice when you heard that he was dead, but it was too late.",1,荀彧見到了空食盒，明白了你的意思，於是服毒自盡。你聽到消息，懊悔不已，但爲時已晚。,,[dummy]__MTU_dummy.loc.tsv
 Xun Yu's Opposition,1,荀彧諍諫,,[dummy]__MTU_dummy.loc.tsv
 "Xun Yu, a renowned strategist, has come to you to offer you his service. Many lords have offered him to join their side, but he rejected all the offers and decided to be a part of your ambition. You were thrilled to accept that someone so talented had come to you.",1,荀彧年少即以王佐之才出名。他曾從事於袁紹，但覺得袁紹不能成大事，於是投奔於你。你和他交談後非常高興，說他是你的子房。,,[dummy]__MTU_dummy.loc.tsv
 Xun Yu’s firm and unbroken will is an example to all soldiers.,2,,,[03]__MTU_skills__Passive_buff.loc.tsv
-Yan Baihu,1,,,hv_TEXT_cb_loadout.loc.tsv
+Yan Baihu,1,,嚴白虎,hv_TEXT_cb_loadout.loc.tsv
 Yan Baihu can recruit generic [[b]]Han units[[/b]] with Bandit Network.,1,嚴白虎可通過盜賊人脈招募普通 [[b]]漢軍單位[[/b]]。,,hv_TEXT_frontend_features.loc.tsv
 Yan Baihu may now recruit {{tr:hv_unit_white_tiger_warriors}}.,1,嚴白虎現可招募{{tr:hv_unit_white_tiger_warriors}}。,,hv_TEXT_events.loc.tsv
 Yan Liang,1,,顏良,hv_TEXT_cb_loadout.loc.tsv
 Yan Xiang,2,,閻象,[01]__MTU_generals__Water_strategist.loc.tsv
 Yan Xiang's Embroidered Garment,1,,閻象的绣服,[02]__MTU_items__Armour.loc.tsv
 Yan Xiang’s calculated and prudent counsel prevails again and again.,2,,,[03]__MTU_skills__Active_buff.loc.tsv
-Yan Yu,1,,,hv_TEXT_cb_loadout.loc.tsv
+Yan Yu,1,,嚴輿,hv_TEXT_cb_loadout.loc.tsv
 Yaoguai Hunters,1,,,hv_TEXT_unit_text_replacements.loc.tsv
-Ye Overwatch Vanguards,1,鄴城守望先鋒,,hv_TEXT_unit_text_replacements.loc.tsv
-Ye Shock Vanguards,1,鄴城突擊先鋒,,hv_TEXT_unit_text_replacements.loc.tsv
+Ye Overwatch Vanguards,1,,鄴城守望先鋒,hv_TEXT_unit_text_replacements.loc.tsv
+Ye Shock Vanguards,1,,鄴城突擊先鋒,hv_TEXT_unit_text_replacements.loc.tsv
 Years of fighting have solidified the faith these soldiers have in each other.,1,,軍團的成員皆長年共處的夥伴，對彼此充滿了信念。,hv_TEXT_unit_abilities.loc.tsv
 Years of fighting the steppe tribes have shaped these Xiliang spear-riders into a deadly force.,1,草原部落多年的戰鬥已將這些西涼騎兵塑造成了一支致命的力量。,,hv_TEXT_unit_desc.loc.tsv
-Yellow Dragons,1,,,hv_TEXT_unit_text_replacements.loc.tsv
-Yellow Sky Heralds,1,,,hv_TEXT_unit_text_replacements.loc.tsv
-Yellow Turban Archers,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Yellow Dragons,1,,黃龍軍,hv_TEXT_unit_text_replacements.loc.tsv
+Yellow Sky Heralds,1,,黃天開路軍,hv_TEXT_unit_text_replacements.loc.tsv
+Yellow Turban Archers,1,,黃巾軍弓兵,hv_TEXT_unit_text_replacements.loc.tsv
 Yellow Turban Cult,2,,,hv_TEXT_building.loc.tsv
 Yellow Turban Hall,1,,,hv_TEXT_building.loc.tsv
-Yellow Turban Horsemen,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Yellow Turban Horsemen,1,,黃巾軍騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 Yellow Turban Lodge,1,,,hv_TEXT_building.loc.tsv
-Yellow Turban Spearmen,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Yellow Turban Spearmen,1,,黃巾軍長槍兵,hv_TEXT_unit_text_replacements.loc.tsv
 Yellow Turban Synod,1,,,hv_TEXT_building.loc.tsv
 Yellow Turban Warband,1,黃巾軍,,hv_TEXT_events.loc.tsv
-Yellow Turban Warriors,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Yellow Turban Warriors,1,,黃巾軍戰士,hv_TEXT_unit_text_replacements.loc.tsv
 Yellow Turbans Captain,1,,黃巾軍校尉,hv_TEXT_unit_text_replacements.loc.tsv
 Yijan Liting's Armour,1,,,[02]__MTU_items__Armour.loc.tsv
 Yijian Liting,2,,伊健麗婷,[01]__MTU_generals__Metal_sentienl.loc.tsv
 Yijian Liting is both relentless and persistent in her approach.,2,,持久且不衰，伊健麗婷永不放棄。,[03]__MTU_skills___Splash_attack.loc.tsv
 Yijian Liting’s eyes never rest. She is always aware of her enemy’s movements.,1,,,[01]__MTU_generals__Metal_sentienl.loc.tsv
-You Shi,1,游師騎兵,,hv_TEXT_unit_text_replacements.loc.tsv
+Yong'an,2,,永安,!!path_to_unity__.loc.tsv
+You Shi,1,,游師騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 You agree with your men and prepare to descend.,1,你同意下人的意見，準備下山。,,hv_TEXT_events.loc.tsv
 You allow them to join your cause. ,2,收納他們加入旗下。,,hv_TEXT_events.loc.tsv
 "You are furious because you found out your old friend and trusted servant, Xun Yu, has turned his back against you. He does not oppose you publicly for the time being, but you are certain he will betray you the first chance he gets. \\n\\n It's time to choose. You can send him a ""gift."" when he receives your ""gift,"" he who shares a deep friendship with you will know the meaning of it...",1,您之所以憤怒，是因為您發現您的心腹荀彧有了異心。雖然他沒有公開反對您，您相信他一有機會便会反叛。\\n\\n您可以送他一個空食盒。他看到後就會明白您的意思。,,[dummy]__MTU_dummy.loc.tsv
@@ -2440,6 +2573,7 @@ You are rather taken with a fine steed.,1,您被一匹好馬吸引住了。,,hv_
 You are rather taken with a peculiar sword.,1,您被一柄怪劍吸引住了。,,hv_TEXT_events.loc.tsv
 You are royal. Act like it.,1,,您是皇帝，就該有皇帝的樣子。,hv_TEXT_skills_basic.loc.tsv
 You are the only one who can bring lasting peace to China. Everyone must obey your will.,2,,,hv_TEXT_events_rules.loc.tsv
+You began as an individual without land to call home. Xu is a vast place with many friendly towards you.,2,,,!!path_to_unity__.loc.tsv
 You can't go back empty-handed.,1,不能空手而歸。,,hv_TEXT_events.loc.tsv
 You can't target yourself. ,1,不能指向自己。,,ifo_text_TWEAK.loc.tsv
 "You could not allow the last of the talented Cai Yong's children to be taken hostage, but the others are unhappy about the special treatment.",1,,,[04]__MTU_events___Cai_family.loc.tsv
@@ -2507,7 +2641,7 @@ Your followers are few.,1,跟隨您的人寥寥無幾。,,hv_TEXT_effects_pooled
 "Your messengers report a remarkable story. A trader spotted a Han woman living amongst the Xiongnu and identified her as Cai Yan, the daughter of the grand scholar Cai Yong. It seems she was forced to marry a chieftain of the Xiongnu. Perhaps someone could convince this chieftain to free Cai Yan. One of your scouts has already left to investigate...",3,信使來報，有商販在匈奴營中發現一位中土女眷，正是名士蔡邕之女蔡琰，已沦为匈奴左賢王女奴。匈奴王或許願意放了蔡琰，你的一個探子已經前去調查……,,hv_TEXT_events.loc.tsv
 Your spirit will be remembered forever.,3,,將士們的所做所爲將流芳百世！,[03]__MTU_skills__Passive_buff.loc.tsv
 Youthful Vigor,4,,稚虎,[03]__MTU_skills__Passive_buff.loc.tsv
-Youxia,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Youxia,1,,遊俠,hv_TEXT_unit_text_replacements.loc.tsv
 Yuan,1,,,[05]__MTU_sys__Names.loc.tsv
 Yuan Anyang,2,,袁氏,[01]__MTU_generals__Water_strategist.loc.tsv
 Yuan Anyang's Silver Embroidered Garments,1,,袁氏的银色绣服,[02]__MTU_items__Armour.loc.tsv
@@ -2517,49 +2651,51 @@ Yuan Rong Crossbow,1,元戎弩,,hv_TEXT_events.loc.tsv
 Yuan Rong Crossbowmen,1,,元戎弩兵,hv_TEXT_unit_text_replacements.loc.tsv
 Yuan Shang,1,,袁尚,hv_TEXT_cb_loadout.loc.tsv
 Yuan Shao,1,,袁紹,hv_TEXT_cb_loadout.loc.tsv
-Yuan Shu,1,,,hv_TEXT_cb_loadout.loc.tsv
+Yuan Shu,1,,袁術,hv_TEXT_cb_loadout.loc.tsv
 Yuan Shu's army follows your faction.,1,袁術之兵將追隨於您。,,hv_TEXT_events.loc.tsv
 Yuan Tan,1,,袁譚,hv_TEXT_cb_loadout.loc.tsv
 Yuan Yao's Armour,1,,袁耀的護甲,hv_TEXT_ceo_career.loc.tsv
 Yue Freemen,1,,越族鄉野游勇,hv_TEXT_unit_text_replacements.loc.tsv
-Yue Jin,1,,,hv_TEXT_cb_loadout.loc.tsv
+Yue Jin,1,,樂進,hv_TEXT_cb_loadout.loc.tsv
 Yue Remnants,1,,越族殘黨,hv_TEXT_unit_text_replacements.loc.tsv
 Yunlu,1,,,[05]__MTU_sys__Names.loc.tsv
 Zang Ba's Armour,1,,臧霸的護甲,hv_TEXT_ceo_career.loc.tsv
-Zealots of the Way,1,,,hv_TEXT_unit_text_replacements.loc.tsv
+Zealots of the Way,1,,狂信道士,hv_TEXT_unit_text_replacements.loc.tsv
 Zhang Bang's Armour,1,,張方的護甲,hv_TEXT_ceo_career.loc.tsv
 "Zhang Bao charges mightily into the enemy, heedless of any dangers.",2,,「亮以張苞爲虎翼將軍，杖前右護衛使。」,[03]__MTU_skills__Passive_buff.loc.tsv
-Zhang Bao's Armour,1,張苞的護甲,,[02]__MTU_items__Armour.loc.tsv
+Zhang Bao's Armour,1,,張苞的護甲,[02]__MTU_items__Armour.loc.tsv
 Zhang Fang,3,,張方,hv_TEXT_cb_loadout.loc.tsv
-Zhang Fei,1,,,hv_TEXT_cb_loadout.loc.tsv
+Zhang Fei,2,,張飛,hv_TEXT_cb_loadout.loc.tsv
 Zhang Fei's burly howl can rout an entire regiment!,1,,張飛仰天長嘯，使敵軍士氣潰散！,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Zhang He,1,,,hv_TEXT_cb_loadout.loc.tsv
-Zhang Kai,1,,,hv_TEXT_cb_loadout.loc.tsv
-Zhang Liao,1,,,hv_TEXT_cb_loadout.loc.tsv
-Zhang Lu's Armour,1,,,hv_TEXT_ceo_career.loc.tsv
+Zhang He,1,,張郃,hv_TEXT_cb_loadout.loc.tsv
+Zhang Kai,1,,張闓,hv_TEXT_cb_loadout.loc.tsv
+Zhang Liao,1,,張遼,hv_TEXT_cb_loadout.loc.tsv
+Zhang Lu's Armour,1,,張魯的護甲,hv_TEXT_ceo_career.loc.tsv
 Zhang Xueer,2,,張氏,[01]__MTU_generals__Fire_vanguard.loc.tsv
 Zhang Xueer's Armour,1,,張氏的護甲,[02]__MTU_items__Armour.loc.tsv
 "Zhang Xueer, the daughter of the wild Zhang Fei, has joined our faction. Upon meeting the young maiden, it was difficult to fathom that such a vision could be the offspring of the acclaimed general known for drinking excessively and flying into an uncontrollable rage. Soon, however, you could see her father through those feminine charms - the defiance in her voice or the courage to take on any task, no matter the difficulty or danger. And now, a choice of potential peril, the wrath of her legendary father and fierce brother, or, perhaps, endless reward.",1,,,[04]__MTU_events___Concubine.loc.tsv
 Zhang Xun,3,,張勳,hv_TEXT_cb_loadout.loc.tsv
 Zhang Xun's Armour,1,,張勳的護甲,[02]__MTU_items__Armour.loc.tsv
-Zhang Yan,1,,,hv_TEXT_cb_loadout.loc.tsv
-Zhao Yun,1,,,hv_TEXT_cb_loadout.loc.tsv
+Zhang Yan,1,,張燕,hv_TEXT_cb_loadout.loc.tsv
+Zhao Yun,2,,趙雲,hv_TEXT_cb_loadout.loc.tsv
 "Zhao Yun has been appointed ""Tiger General""",1,,,[04]__MTU_events__Common.loc.tsv
 Zhao Yun’s Mighty Tiger Armour,1,,,[02]__MTU_items__Armour.loc.tsv
 Zheng Jiang,1,,,hv_TEXT_cb_loadout.loc.tsv
 "Zheng Jiang has selected her most ferocious bandits to act as her ‘Fists of the Bandit Queen’; their role is to act as shock-troops, sneaking behind enemy lines to terrify foes with surprise attacks early in the battle. \\n\\n Each carries a heavy fu axe in each hand, and the wounds dealt by them can be catastrophic. Striking terror requires these troops to be without fear themselves, but also means they can tend to be undisciplined and difficult to control once their blood is hot with battle",1,鄭姜親自挑選最兇悍的盜賊組成她的「盜賊女王拳勇團」。他們擔任突襲隊，在戰鬥開始時悄悄繞到敵方戰線後方進行突襲。 \\n\\n 拳勇團個個雙手持斧，能將敵人砍成重傷。要令敵人驚懼，自己需先無畏，不過這也代表一旦戰至鬥志沸騰，他們將無視紀律，難以控制。,,hv_TEXT_unit_long_desc.loc.tsv
 Zheng Lan,2,,鄭蘭,[01]__MTU_generals__Metal_sentienl.loc.tsv
 Zheng Lan's Armour,1,,鄭蘭的護甲,[02]__MTU_items__Armour.loc.tsv
-Zhong Royal Guard Cavalry,1,仲氏羽林騎,,hv_TEXT_unit_text_replacements.loc.tsv
-Zhou Tai,1,,,hv_TEXT_cb_loadout.loc.tsv
+Zhong Royal Guard Cavalry,1,,仲氏羽林騎,hv_TEXT_unit_text_replacements.loc.tsv
+Zhou Tai,1,,周泰,hv_TEXT_cb_loadout.loc.tsv
 Zhou Yu,2,,周瑜,hv_TEXT_cb_loadout.loc.tsv
 Zhou Yu's zeal is enough to inspire others.,2,,「性度恢廓，實奇才也。」,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 "Zhou Yu, also known as “Mei Zhou Long” for his striking appearance and loyalty, was befriended by Sun Ce at an early age. Young Zhou Yu once successfully persuaded Sun Ce and Lady Wu to move closer and become neighbors. Now, with war raging throughout the Han Empire, it’s time for Zhou Yu to join Sun Ce.",1,,,[04]__MTU_events__Common.loc.tsv
 Zhou the Youth,6,,美周郎,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Zhu Tu and Zhu Beng have witnessed first-hand how power steadily corrupted their former friend Zheng Jiang.,2,,不臣之士，話裏藏刀。,[03]__MTU_skills__Active_buff.loc.tsv
-Zhuge Liang,1,,諸葛亮,hv_TEXT_cb_loadout.loc.tsv
+Zhuge Liang,2,,諸葛亮,hv_TEXT_cb_loadout.loc.tsv
 Zhuge Liang has brilliantly engineered a new weapon. It is a crossbow that fires several bolts simultaneously to overwhelm the enemy.,1,諸葛亮精心設計出一種新武器。這是一種能夠同時射出多枚箭矢的弩弓，可以壓制敵人。,,hv_TEXT_events.loc.tsv
 Zhuge Liang predicts the wind through study of the world.,1,,諸葛亮對自然萬物觀察細微而能預知風向。,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
+Zitong,2,,梓潼,!!path_to_unity__.loc.tsv
+Zizhong,2,,資中,!!path_to_unity__.loc.tsv
 Zong Bu,1,宗部序列,,hv_TEXT_building.loc.tsv
 Zou Yuan,1,,鄒氏,[01]__MTU_generals__Water_strategist.loc.tsv
 [[b]]%+n%[[/b]] additional melee hit bonus,3,,近戰命中加成[[b]]%+n%[[/b]],hv_TEXT_etc.loc.tsv
@@ -2737,6 +2873,8 @@ Zou Yuan,1,,鄒氏,[01]__MTU_generals__Water_strategist.loc.tsv
 [[b]]Nanman[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Initial unit available[[/col]]\\n• Ravine Warriors\\n• Southern Elephants\\n• War Elephants\\n\\n[[col:flavour]][[i]]The courageous warriors of Southern China are finally ready to carve out their place in the world.[[/col]][[/i]],1,[[b]]南蠻[[/b]]\\n[[col:scope_description]]基本軍隊[[/col]]\\n\\n[[col:yellow]]起始可用兵種[[/col]]\\n•八納洞兵\\n•南蠻象兵\\n•戰象\\n\\n[[col:flavour]][[i]]南中勇士各個袒臂揮拳，要去開疆闢土。[[/col]][[/i]],,hv_TEXT_frontend_features.loc.tsv
 [[b]]Nanman[[/b]]\\n[[col:scope_description]]Base army[[/col]]\\n\\n[[col:yellow]]Initial unit available[[/col]]\\n• Wuling Fighters\\n• Wuling Slingers\\n• Might of the Valley\\n\\n[[col:flavour]][[i]]The courageous warriors of Southern China are finally ready to carve out their place in the world.[[/col]][[/i]],1,[[b]]南蠻[[/b]]\\n[[col:scope_description]]基本軍隊[[/col]]\\n\\n[[col:yellow]]起始可用兵種[[/col]]\\n•武陵戰士\\n•武陵投石兵\\n•五溪蠻兵\\n\\n[[col:flavour]][[i]]南中勇士各個袒臂揮拳，要去開疆闢土。[[/col]][[/i]],,hv_TEXT_frontend_features.loc.tsv
 "[[b]]Pang De[[/b]]\\nWhite Horse General\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]Pang De is an unrelenting force, whose avowed enemies know they must face him sooner or later.[[/col]][[/i]]",3,[[b]]龐德[[/b]]\\n白馬將軍\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]龐德戒昭果毅，敵者必討[[/col]][[/i]],,hv_TEXT_frontend_features.loc.tsv
+[[b]]Path to Unity[[/b]],1,[[b]]一統天下[[/b]],,!!path_to_unity__.loc.tsv
+[[b]]Path to Unity[[/b]]\\n[[col:scope_description]]Faction feature[[/col]]\\n\\n[[i]]Liu Bei's Path to Unity is a set of unique objectives. Achieving designated objectives gives access to a wide range of faction-wide bonuses or access to additional unique units.[[/i]]\\n\\n[[i]][[col:flavour]]The way towards unity and everlasting peace should be achieved through compassion and cohesion.[[/col]][[/i]],1,,,!!path_to_unity__.loc.tsv
 "[[b]]Qu Gong[[/b]]\\nOne-Eyed Bandit\\n\\nGeneral type: {{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]When your eye for banditry and mischief is this good, you don’t need both eyes.[[/col]][[/i]]",3,[[b]]瞿恭[[/b]]\\n獨眼山賊\\n\\n將領類型：{{tr:3k_general_type_wood}}\\n\\n[[col:flavour]][[i]]只有一隻眼睛都可以如此爲非作歹，難道還需要另外一隻不成？[[/col]][[/i]],,hv_TEXT_frontend_features.loc.tsv
 "[[b]]Sell Horses[[/b]]\\n[[col:scope_description]]Economic assignment[[/col]]\\n\\n[[col:green]]+[[/col]] Income from commerce\\n\\n[[col:flavour]][[i]]Your attendant will sell the horses you've bred, for a fine sum.[[/col]][[/i]]",1,,,hv_TEXT_frontend_features.loc.tsv
 [[b]]Stratocracy[[/b]] is this faction's unique resource.\\n\\n[[i]][[col:flavour]] An inevitable rule to stabilize the turmoil. [[/col]],1,[[b]]軍政[[/b]]是此派系的獨特資源。\\n\\n[[i]][[col:flavour]]嚴政方能定亂。[[/col]],,hv_TEXT_frontend_features.loc.tsv
@@ -2798,6 +2936,72 @@ xiongnu_02_short_description,1,,,hv_TEXT_building.loc.tsv
 {{tr:3k_dlc07_unit_wood_northern_spear_guards}},1,,{{tr:3k_dlc07_unit_wood_northern_spear_guards}},hv_TEXT_unit_name.loc.tsv
 {{tr:3k_dlc07_unit_wood_northern_veteran_ji_infantry}},1,,{{tr:3k_dlc07_unit_wood_northern_veteran_ji_infantry}},hv_TEXT_unit_name.loc.tsv
 {{tr:3k_dlc07_unit_wood_northern_veteran_spears}},1,,{{tr:3k_dlc07_unit_wood_northern_veteran_spears}},hv_TEXT_unit_name.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_achieve_liu_bei_duel}},2,,{{tr:3k_main_ceo_liu_bei_unity_achieve_liu_bei_duel}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_achieve_liu_bei_settlement}},2,,{{tr:3k_main_ceo_liu_bei_unity_achieve_liu_bei_settlement}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_defeat_cao_cao}},2,,{{tr:3k_main_ceo_liu_bei_unity_defeat_cao_cao}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_defeat_lu_bu}},2,,{{tr:3k_main_ceo_liu_bei_unity_defeat_lu_bu}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_gongsun_zan}},2,,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_gongsun_zan}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_guan_yu}},2,,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_guan_yu}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_huang_zhong}},2,,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_huang_zhong}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_lady_mi}},2,,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_lady_mi}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_lady_sun}},2,,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_lady_sun}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_liu_bei}},2,,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_liu_bei}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_lu_zhi}},2,,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_lu_zhi}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_ma_chao}},2,,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_ma_chao}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_pang_tong}},2,,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_pang_tong}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_wei_yan}},2,,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_wei_yan}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_zhang_fei}},2,,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_zhang_fei}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_zhao_yun}},2,,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_zhao_yun}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_zhuge_liang}},2,,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_zhuge_liang}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_ba_capital}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_ba_capital}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_ba_farm}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_ba_farm}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_badong_capital}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_badong_capital}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_badong_iron_mine}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_badong_iron_mine}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_badong_lumber_yard}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_badong_lumber_yard}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_baxi_capital}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_baxi_capital}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_baxi_farm}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_baxi_farm}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_baxi_tool_maker}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_baxi_tool_maker}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_donghai_capital}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_donghai_capital}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_donghai_fishing_port}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_donghai_fishing_port}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_guangling_capital}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_guangling_capital}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_guangling_farm}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_guangling_farm}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_guangling_trade_port}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_guangling_trade_port}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_jiangxia_capital}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_jiangxia_capital}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_jiangxia_farm}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_jiangxia_farm}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_jingzhao_capital}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_jingzhao_capital}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_jingzhao_jade_mine}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_jingzhao_jade_mine}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_langye_capital}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_langye_capital}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_langye_fishing_port}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_langye_fishing_port}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_langye_lumber_yard}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_langye_lumber_yard}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_luoyang_capital}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_luoyang_capital}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_luoyang_trade_port}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_luoyang_trade_port}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_nan_capital}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_nan_capital}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_nan_livestock}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_nan_livestock}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_pengcheng_capital}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_pengcheng_capital}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_pengcheng_temple}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_pengcheng_temple}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_shu_armour_craftsmen}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_shu_armour_craftsmen}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_shu_capital}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_shu_capital}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_shu_farm}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_shu_farm}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_shu_salt_mine}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_shu_salt_mine}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_xiangyang_capital}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_xiangyang_capital}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_xiangyang_tool_maker}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_xiangyang_tool_maker}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_xiapi_capital}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_xiapi_capital}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_ceo_liu_bei_unity_secure_xiapi_farm}},2,,{{tr:3k_main_ceo_liu_bei_unity_secure_xiapi_farm}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_startpos_label_cao_cao_header}},2,,{{tr:3k_main_startpos_label_cao_cao_header}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_startpos_label_gongsun_zan_header}},2,,{{tr:3k_main_startpos_label_gongsun_zan_header}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_startpos_label_guan_yu_header}},2,,{{tr:3k_main_startpos_label_guan_yu_header}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_startpos_label_huang_zhong_header}},2,,{{tr:3k_main_startpos_label_huang_zhong_header}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_startpos_label_lady_mi_header}},2,,{{tr:3k_main_startpos_label_lady_mi_header}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_startpos_label_lady_sun_header}},2,,{{tr:3k_main_startpos_label_lady_sun_header}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_startpos_label_liu_bei_header}},2,,{{tr:3k_main_startpos_label_liu_bei_header}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_startpos_label_lu_bu_header}},2,,{{tr:3k_main_startpos_label_lu_bu_header}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_startpos_label_lu_zhi_header}},2,,{{tr:3k_main_startpos_label_lu_zhi_header}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_startpos_label_ma_chao_header}},2,,{{tr:3k_main_startpos_label_ma_chao_header}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_startpos_label_pang_tong_header}},2,,{{tr:3k_main_startpos_label_pang_tong_header}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_startpos_label_wei_yan_header}},2,,{{tr:3k_main_startpos_label_wei_yan_header}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_startpos_label_zhang_fei_header}},2,,{{tr:3k_main_startpos_label_zhang_fei_header}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_startpos_label_zhao_yun_header}},2,,{{tr:3k_main_startpos_label_zhao_yun_header}},!!path_to_unity__.loc.tsv
+{{tr:3k_main_startpos_label_zhuge_liang_header}},2,,{{tr:3k_main_startpos_label_zhuge_liang_header}},!!path_to_unity__.loc.tsv
 {{tr:hv_unit_azure_dragons}},1,,{{tr:hv_unit_azure_dragons}},hv_TEXT_unit_name.loc.tsv
 {{tr:hv_unit_azure_dragons}} for recruitment: %+n,1,,可招募{{tr:hv_unit_azure_dragons}}數：%+n,hv_TEXT_effects_unit_cap.loc.tsv
 {{tr:hv_unit_bandits_2h_spear_cavalry}},1,,{{tr:hv_unit_bandits_2h_spear_cavalry}},hv_TEXT_unit_name.loc.tsv
@@ -3107,7 +3311,7 @@ xiongnu_02_short_description,1,,,hv_TEXT_building.loc.tsv
 {{tr:hv_unit_white_tiger_guardsmen}} for recruitment: %+n,1,,可招募{{tr:hv_unit_white_tiger_guardsmen}}數：%+n,hv_TEXT_effects_unit_cap.loc.tsv
 {{tr:hv_unit_white_tiger_warriors}},1,,{{tr:hv_unit_white_tiger_warriors}},hv_TEXT_unit_name.loc.tsv
 {{tr:hv_unit_white_tiger_warriors}} for recruitment: %+n,1,,可招募{{tr:hv_unit_white_tiger_warriors}}數：%+n,hv_TEXT_effects_unit_cap.loc.tsv
-{{tr:hv_unit_white_tiger_warriors}} for recruitment: +1,1,,可招募{{tr:hv_unit_white_tiger_warriors}}數：+1,hv_TEXT_events.loc.tsv
+{{tr:hv_unit_white_tiger_warriors}} for recruitment: +1,1,{{tr:hv_unit_white_tiger_warriors}}部署量：+1,,hv_TEXT_events.loc.tsv
 {{tr:hv_unit_wuhuan_barded_cavalry}},1,,{{tr:hv_unit_wuhuan_barded_cavalry}},hv_TEXT_unit_name.loc.tsv
 {{tr:hv_unit_wuhuan_barded_cavalry}} for recruitment: %+n,1,,可招募{{tr:hv_unit_wuhuan_barded_cavalry}}數：%+n,hv_TEXT_effects_unit_cap.loc.tsv
 {{tr:hv_unit_wuhuan_cavalry}},1,,{{tr:hv_unit_wuhuan_cavalry}},hv_TEXT_unit_name.loc.tsv

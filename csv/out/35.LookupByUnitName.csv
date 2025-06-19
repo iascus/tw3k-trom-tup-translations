@@ -28,21 +28,27 @@ Bandit Hunters,山贼猎人,盜賊獵手,Vanilla,False
 Bandit Marauders,山贼劫匪,盜賊掠奪者,Vanilla,False
 Bandit Raiders,山贼劫掠者,盜賊劫匪,Vanilla,False
 Bandit Warriors,山贼勇士,盜賊兵,Vanilla,False
+Barn Swallows,燕子兵,燕子兵,Lookup,False
 "Best used to counter missile units, but vulnerable in melee.",最善于反制远程部队，但在近战中较为脆弱,最善於反制遠程單位，但在近戰中很脆弱。,Vanilla,False
 "Best used to engage enemy generals; however, weaker against units. Best grouped with retinues of Spear Infantry and Glaive Infantry.",最善对抗敌军将领，但对抗部队能力欠佳。最好配合持矛步兵或大刀步兵部曲,最善於與敵軍將領作戰，但不擅長與一般單位作戰。最適合與持槍步兵和大刀步兵部曲一同編組。,Vanilla,False
 Black Mountain Hunters,黑山猎手,黑山獵人,Vanilla,False
 Black Mountain Marauders,黑山劫匪,黑山掠奪者,Vanilla,False
 Black Mountain Outlaws,黑山贼徒,黑山匪徒,Vanilla,False
+Blood Seekers,嗜血兵,嗜血兵,Lookup,False
 Blowpipes,吹箭手,吹箭兵,Vanilla,False
+Blue Turbans,青巾兵,青巾兵,Lookup,False
+Bomb Slingers,爆弹兵,爆彈兵,Lookup,False
 Bow Cavalry,弓骑兵,持弓騎兵,Vanilla,False
 Bow Infantry,弓步兵,持弓步兵,Vanilla,False
 Bringers of Peace,布和军,安良軍,Vanilla,False
 Bringers of Righteousness,布义军,正道使者,Vanilla,False
+Buqu of the Left General,左将军部曲,左將軍部曲,Lookup,False
 Caltrop Throwers,蒺藜手,蒺藜兵,Lookup,False
 Camp Crushers,陷阵死士,破寨軍,Vanilla,False
 Cao Pi,曹丕,曹丕,Vanilla,False
 Cao Ren,曹仁,曹仁,Vanilla,False
 Captain,伯长,校尉,Lookup,False
+Captain of Yuan House,袁氏伯长,袁氏校尉,Lookup,False
 Cataphracts,铁骑,鐵甲騎兵,Vanilla,False
 Cavalry,骑兵,騎兵,Lookup,False
 Cavalry Defectors,变节骑兵,叛逃騎兵,Lookup,False
@@ -51,6 +57,7 @@ Chen Gong,陈宫,陳宮,Vanilla,False
 Chen Peacekeepers,陈郡泰平卫士,陳國衛平軍,Vanilla,False
 Chen Royal Guard,陈郡羽林军,陳國親軍,Vanilla,False
 Cheng Pu,程普,程普,Vanilla,False
+Children of the forest,森林之子,森林之子,Lookup,False
 Chosen of the Eight Immortals,八公神兵,八仙傳人,Vanilla,False
 Chu Infantry,楚国步兵,楚國步兵,Vanilla,False
 Chu Spearmen,楚国矛兵,楚國長槍兵,Vanilla,False
@@ -62,6 +69,7 @@ Crossbow Defenders,弩卫,弩衛,Lookup,False
 Crossbow Infantry,弩步兵,持弩步兵,Vanilla,False
 Crossbow Peacekeepers,泰平弩卫,衛平弩兵,Lookup,False
 Crossbowmen,弩兵,弩兵,Vanilla,False
+Cunning Monkeys,狡猴兵,狡猴兵,Lookup,False
 Da Qiao,大乔,大喬,Vanilla,False
 Dao Infantry Captain,持刀伯长,持刀步兵校尉,Vanilla,False
 Dao Swordguard Cavalry,宿卫刀骑兵,持刀劍衛騎兵,Vanilla,False
@@ -73,8 +81,12 @@ Destroyers of Treachery,平叛义军,蕩寇軍,Vanilla,False
 Dian Wei,典韦,典韋,Vanilla,False
 Dongzhoubing Defenders,东州卫军,東州兵衛士,Vanilla,False
 Dongzhoubing Marksmen,东州射声士,東州兵射手,Vanilla,False
+Dragon units,五龙军,五龍軍,Lookup,False
+Dragonlings,少龙兵,少龍兵,Lookup,False
+Drifting Warmongers,漂流战贩,漂流戰販,Lookup,False
 Elephants,战象,象兵,Vanilla,False
 Elephants move with purpose. For those in their way? Woe.,象群行进的目的明确。至于螳臂当车之人？自然是悲剧收场。,象群行進時意志堅定，至於阻其去路之人，則只有悲劇下場。,Vanilla,False
+Elite Guards of the Eight Talents,八才剑卫,八才劍衛,Lookup,False
 Empress He,何皇后,何皇后,Vanilla,False
 "Excels at attacking unarmoured opponents, but very vulnerable to cavalry charges.",擅长攻击轻甲部队，但十分惧怕骑兵冲锋,擅長攻擊輕裝目標，但非常害怕騎兵衝鋒。,Vanilla,False
 "Excels at attacking unarmoured opponents, but vulnerable in melee.",擅长对付轻甲部队，但在近战中较为脆弱,擅長攻擊輕裝目標，但在近戰中很脆弱。,Vanilla,False
@@ -94,8 +106,10 @@ Excels at locking down enemy generals or holding a chokepoint for a long period 
 "Excels at wearing down enemies without shields, but vulnerable in melee.",擅长打击轻甲部队，但在近战中较为脆弱,擅長削弱無盾的敵人，但在近戰中很脆弱。,Vanilla,False
 Exemplars of the Tao,道一贤人,求道模範,Vanilla,False
 Fa Zheng,法正,法正,Vanilla,False
+Fanatics,狂信徒,狂信徒,Lookup,False
 Fervent Defenders,狂烈卫士,至誠衛士,Vanilla,False
 Fire Archers,火箭手,火矢弓兵,Vanilla,False
+Fire Fiends,火煞兵,火煞兵,Lookup,False
 Fists of the Bandit Queen,魁首前军,盜賊女王拳勇團,Vanilla,False
 Flying Riders,摧锋飞骑,飛騎,Vanilla,False
 Followers of the Flame,火神信徒,火神信徒,Vanilla,False
@@ -112,6 +126,7 @@ Generic Nanman,普通南蛮将领,一般（南蠻）,Vanilla,False
 Generic Water,水系将军,一般（水）,Vanilla,False
 Glaive & Bow Infantry,刀弓兵,大刀步兵與弓兵,Vanilla,False
 Glaive Infantry,大刀步兵,大刀步兵,Vanilla,False
+Goshawk Cavalry,苍鹰突骑,蒼鷹突騎,Lookup,False
 Guan Yu,关羽,關羽,Vanilla,False
 Guardians of the Land,捍地军,土地衛士,Vanilla,False
 Guardsmen,卫士,衛兵,Lookup,False
@@ -121,6 +136,7 @@ Halberd Infantry,持戟步兵,持戟步兵,Vanilla,False
 Halberd Peacekeepers,泰平戟卫,衛平戟兵,Lookup,False
 Hand-Ji Infantry,手戟兵,手戟兵,Lookup,False
 Handmaid Guard,烈女侍骑,護衛侍女,Vanilla,False
+Handmaid Guards,护卫侍女,護衛侍女,Lookup,False
 He Jin,何进,何進,Vanilla,False
 He Man,何曼,何曼,Vanilla,False
 Heavy Cataphracts,重装铁骑,重型鐵甲騎兵,Vanilla,False
@@ -131,9 +147,14 @@ Heavy Repeating Crossbowmen,重装连弩兵,重型連弩兵,Vanilla,False
 Heavy Spear Guards,重装持矛亲卫,重型長槍衛兵,Vanilla,False
 Heavy Tiger & Leopard Cavalry,重装虎豹骑,虎豹鐵騎,Vanilla,False
 Heavy Xiliang Cavalry,重装西凉骑兵,西涼鐵騎,Vanilla,False
+Heroic Outlaws,英勇匪徒,英勇匪徒,Lookup,False
+Hidden Assaults,隐秘突击兵,隱秘突擊兵,Lookup,False
 Hidden Axes,隐斧军,隱密斧兵,Vanilla,False
+Hidden Snakes,隐蛇兵,隱蛇兵,Lookup,False
+Hidden Spear Assaults,隐枪突击兵,隱槍突擊兵,Lookup,False
 Hidden Vipers,吹箭手,隱蛇兵,Vanilla,False
 Horseback Huntsmen,猎骑兵,馬背獵人,Vanilla,False
+Household Ji Guards of Yuan,袁氏家族戟卫,袁氏家族戟衛,Lookup,False
 Huang Gai,黄盖,黃蓋,Vanilla,False
 Huang Zhong,黄忠,黃忠,Vanilla,False
 Huangfu Song,皇甫嵩,皇甫嵩,Vanilla,False
@@ -147,8 +168,11 @@ Imperial Lancer Cavalry,羽林枪骑,羽林槍騎,Vanilla,False
 Imperial Palace Cavalry,羽林弩骑,虎賁騎,Vanilla,False
 Imperial Palace Crossbowmen,禁卫弩兵,虎賁弩兵,Vanilla,False
 Imperial Sword Guard,虎贲剑卫,虎賁刀衛,Vanilla,False
+Imperial Sword Guards,禁军佩剑守卫,禁軍劍衛,Lookup,False
 Infantry of Jing,荆州步兵,荊州步兵,Vanilla,False
+Iron Walls,铁壁兵,鐵壁兵,Lookup,False
 Jade Dragons,玉龙军,玉龍軍,Vanilla,False
+Jaizi Raiders,甲子劫匪,甲子劫匪,Lookup,False
 Javelin Spear Guards,掷矛卫士,擲鋋衛兵,Vanilla,False
 Javelin Throwers,投枪手,擲鋋兵,Vanilla,False
 Javelineer,投枪手,擲鋋兵,Lookup,False
@@ -156,6 +180,7 @@ Javelineers,投枪手,擲鋋兵,Lookup,False
 Javelin Spearmen,投矛兵,擲槍兵,Vanilla,False
 Ji Cavalry,戟骑兵,戟騎兵,Lookup,False
 Ji Defectors,变节戟兵,持戟叛逃兵,Vanilla,False
+Ji Guards of the Eight Talents,八才戟卫,八才戟衛,Lookup,False
 Ji Infantry,戟步兵,戟兵,Vanilla,False
 Ji Infantry Captain,持戟步兵伯长,戟兵校尉,Vanilla,False
 Ji Militia,戟民兵,義勇戟兵,Vanilla,False
@@ -164,7 +189,9 @@ Jian Cavalry Captain,持剑骑兵伯长,持劍騎兵校尉,Vanilla,False
 Jian Infantry Captain,持剑步兵伯长,持劍步兵校尉,Vanilla,False
 Jian Sword Guard Cavalry,佩剑守卫骑兵,劍衛騎兵,Vanilla,False
 Jian Sword Guards,佩剑守卫,劍衛,Vanilla,False
+Jianan Elite Vigilante,建安精锐巡守,建安精銳巡守,Lookup,False
 Jiazi Raiders,甲子劫匪,甲子劫匪,Vanilla,False
+Jie Fan Infantry,解烦兵,解煩兵,Lookup,False
 Juggernaut,木兽,火獸車,Vanilla,False
 King Meng Huo,孟获大王,孟獲大王,Vanilla,False
 Lady Zhen,甄夫人,甄夫人,Vanilla,False
@@ -184,6 +211,7 @@ Ma Chao,马超,馬超,Vanilla,False
 Marksmen,射声士,射手,Lookup,False
 Melee Cavalry,近战骑兵,近戰騎兵,Vanilla,False
 Melee Infantry,近战步兵,近戰步兵,Vanilla,False
+Men of Thunder,雷霆军,雷霆軍,Lookup,False
 Men of the Forest,深林军,森林之師,Vanilla,False
 Mercenary Archers,雇佣弓箭手,僱傭弓兵,Vanilla,False
 Mercenary Archers Captain,雇佣弓箭手伯长,僱傭弓兵校尉,Vanilla,False
@@ -211,6 +239,7 @@ Nanman Warriors Captain,南蛮勇士,南蠻戰士校尉,Vanilla,False
 Nanzhong Champions,南中精锐,南中鬥士,Vanilla,False
 Nanzhong Elephants,南中象兵,南中象兵,Vanilla,False
 Nanzhong Spearmen,南中矛兵,南中長槍兵,Vanilla,False
+Nomad Gang,游牧马贼,游牧馬賊,Lookup,False
 Northern Ji Infantry,北军戟步兵,北軍戟兵,Vanilla,False
 Northern Ji Infantry Captain,北军戟步兵伯长,北軍戟兵校尉,Vanilla,False
 Northern Lancer Cavalry,北军戟骑兵,北軍槍騎,Vanilla,False
@@ -228,7 +257,10 @@ Northern Veteran Lancers,北军持戟宿骑,北軍老練槍騎,Vanilla,False
 Northern Veteran Sabre Cavalry,北军持刀宿骑,北軍老練刀騎兵,Vanilla,False
 Northern Veteran Sabre Infantry,北军持刀宿卫,北軍老練持刀步兵,Vanilla,False
 Northern Veteran Spears,北军持矛宿卫,北軍老練長槍兵,Vanilla,False
+Oath Fellows,结义弟兄,結義弟兄,Lookup,False
 Onyx Dragons,黑龙军,黑龍軍,Vanilla,False
+Outlaws of Black Mountain,黑山匪徒,黑山匪徒,Lookup,False
+Palace Guards,宫廷侍卫,宮廷侍衛,Lookup,False
 Pang Tong,庞统,龐統,Vanilla,False
 Pearl Dragons,白龙军,玥龍軍,Vanilla,False
 Peasant Archers,农人弓手,農民弓兵,Vanilla,False
@@ -241,6 +273,7 @@ Pei Yuanshao,裴元绍,裴元紹,Vanilla,False
 People's Warband,黎首军,百姓兵團,Vanilla,False
 Poachers,偷猎者,盜獵兵,Vanilla,False
 Polearm Infantry,长柄武器步兵,長兵器步兵,Vanilla,False
+Porcupine Crossbowmen,豪彘弩兵,豪彘弩兵,Lookup,False
 Protectors of Heaven,乾天卫军,皇天衛,Vanilla,False
 Qi Crossbowmen,齐国弩兵,齊國弩兵,Vanilla,False
 Qi Guardsmen,齐国宿卫,齊國衛兵,Vanilla,False
@@ -264,6 +297,7 @@ Ravine Warriors,八纳洞兵,洞兵,Vanilla,False
 Reclaimers,敛拾队,回收兵,Vanilla,False
 Redeemed Outlaws,收编贼徒,贖罪囚徒,Vanilla,False
 Remnants,余党,殘黨,Lookup,False
+Ren Xia,任侠,任俠,Lookup,False
 Repeating Crossbow Defenders,连弩卫,連弩衛,Lookup,False
 Repeating Crossbowmen,连弩兵,連弩兵,Vanilla,False
 Riders,骑手,騎兵,Lookup,False
@@ -276,6 +310,7 @@ Sabre Infantry,持刀步兵,持刀步兵,Vanilla,False
 Sabre Militia,持刀民兵,義勇佩刀兵,Vanilla,False
 Sanjiang Poison Darts,三江毒箭手,三江毒鏢兵,Vanilla,False
 Sanjiang Poison Spears,三江毒矛手,三江毒槍兵,Vanilla,False
+Scholar Warriors,学霸勇士,學霸勇士,Lookup,False
 Scholar-warriors,文武军,學究戰士,Vanilla,False
 Shield Bearers,持盾者,持盾者,Lookup,False
 Shields of the South,南境盾手,南方之盾,Vanilla,False
@@ -299,6 +334,7 @@ Spear Infantry,持矛步兵,持槍步兵,Vanilla,False
 Spear Warriors,持矛勇士,長槍戰士,Vanilla,False
 Spearmen,矛兵,長槍兵,Lookup,False
 Spearmen Gang,矛兵团,長槍兵團,Vanilla,False
+Spice Guards,香料护卫,香料護衛,Lookup,False
 Stalwart Shields,坚盾卫士,堅盾衛士,Vanilla,False
 Strays,流浪兵,流浪兵,Lookup,False
 Sun Quan,孙权,孫權,Vanilla,False
@@ -307,6 +343,9 @@ Sword Cavalry,剑骑兵,持劍騎兵,Vanilla,False
 Sword Infantry,剑步兵,持劍步兵,Vanilla,False
 Swordsmen,剑兵,劍兵,Lookup,False
 Swordsmen of Yuan,袁氏剑兵,袁氏劍兵,Lookup,False
+Taishan Batters,泰山连击兵,泰山連擊兵,Lookup,False
+Taishan Phantoms,泰山魅影兵,泰山魅影兵,Lookup,False
+Taishan Poison Wind Archers,泰山毒风弓兵,泰山毒風弓兵,Lookup,False
 Tamers,驯兽师,馴獸師,Lookup,False
 Territorial Archers,义勇弓手,護土弓兵,Vanilla,False
 Territorial Spearmen,义勇矛兵,護土長槍兵,Vanilla,False
@@ -322,6 +361,7 @@ Tiger Slingers,猛虎投石兵,猛虎投石兵,Vanilla,False
 Tiger Warriors,猛虎战士,猛虎戰士,Vanilla,False
 To commune with the beasts is to inherit their strength.,与野兽心意相通，即可号令其力。,與禽獸心意相通，即可號令其力。,Vanilla,False
 Trebuchet,霹雳车,投石機,Vanilla,False
+Two Blades,双刃兵,雙刃兵,Lookup,False
 Tyrant Slayers,除暴义兵,除暴軍,Vanilla,False
 Valley Tribesmen,五溪部民,五谿族眾,Vanilla,False
 Vanguards,先锋,先鋒,Lookup,False
@@ -329,8 +369,11 @@ Venerable Wu,神巫,聖巫軍,Vanilla,False
 "Very assault-oriented unit, but vulnerable to missile attacks.",极具攻击性的部队，但面对远程攻击较为脆弱,專精於突襲的單位，但非常害怕遠程攻擊。,Vanilla,False
 Veteran,宿将,老兵,Vanilla,False
 Veterans,宿卫,老兵,Lookup,False
+Virtous Noblemen,名门贤士,名門賢士,Lookup,False
 Virtuous Noblemen,贤贵军,名門賢士,Vanilla,False
+Wandering Artisans,游方艺匠,游方藝匠,Lookup,False
 War Elephants,战象,戰象兵,Vanilla,False
+Warrior Monks,武僧,武僧,Lookup,False
 Warriors,勇士,戰士,Lookup,False
 Warriors of Xu,徐国勇士,徐州勇士,Vanilla,False
 Warriors of Ye,邺国勇士,鄴城勇士,Vanilla,False
@@ -338,6 +381,7 @@ Warriors of the Left,左阵军,左軍戰士,Vanilla,False
 Watchmen of the Peace,卫平军,和平守衛,Vanilla,False
 Wei Yan,魏延,魏延,Vanilla,False
 Wen Chou,文丑,文醜,Vanilla,False
+White Feathers,白毦兵,白毦兵,Lookup,False
 White Horse Fellows,白马义从,白馬義從,Vanilla,False
 White Horse Raiders,白马游骑,白馬突襲隊,Vanilla,False
 White Tiger Raiders,白虎掠袭者,白虎劫匪,Vanilla,False
@@ -366,6 +410,8 @@ Xun Yu,荀彧,荀彧,Vanilla,False
 Yan Baihu,严白虎,嚴白虎,Vanilla,False
 Yan Liang,颜良,顏良,Vanilla,False
 Yan Yu,严舆,嚴輿,Vanilla,False
+Ye Overwatch Vanguards,邺城守望先锋,鄴城守望先鋒,Lookup,False
+Ye Shock Vanguards,邺城突击先锋,鄴城突擊先鋒,Lookup,False
 Ye Vanguard Crossbows,邺国先登弩手,鄴城先鋒弩兵,Vanilla,False
 Ye Vanguard Spearmen,邺国先登矛卫,鄴城先鋒長槍兵,Vanilla,False
 Yellow Dragons,黄龙军,黃龍軍,Vanilla,False
@@ -379,6 +425,7 @@ Yellow Turban Warriors,黄巾战士,黃巾軍戰士,Vanilla,False
 Yellow Turban Warriors Captain,黄巾战士伯长,黃巾軍戰士校尉,Vanilla,False
 Yi Archers,益州弓箭手,益州弓兵,Vanilla,False
 Yi Marksmen,益州神射手,益州射手,Vanilla,False
+You Shi,游师骑兵,游師騎兵,Lookup,False
 Youxia,游侠,遊俠,Vanilla,False
 Yu Jin,于禁,于禁,Vanilla,False
 Yuan Shang,袁尚,袁尚,Vanilla,False
@@ -394,6 +441,7 @@ Zhang Liao,张辽,張遼,Vanilla,False
 Zhang Zhao,张昭,張昭,Vanilla,False
 Zhanmajian Infantry,斩马劲卒,斬馬劍兵,Vanilla,False
 Zhao Yun,赵云,趙雲,Vanilla,False
+Zhong Royal Guard Cavalry,仲氏羽林骑,仲氏羽林騎,Lookup,False
 Zhou Tai,周泰,周泰,Vanilla,False
 Zhou Yu,周瑜,周瑜,Vanilla,False
 Zhuge Liang,诸葛亮,諸葛亮,Vanilla,False

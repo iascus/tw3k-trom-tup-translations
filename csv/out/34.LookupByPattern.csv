@@ -1,9 +1,5 @@
 KeyPattern,TextPattern,zh-cn,zh-tw
-,"^Unlocks (?P<unit_type>[a-zA-Z, ]+) \[\[col:scope_description\]\]\(own retinue\)\[\[/col\]\]",解锁{unit_type}[[col:scope_description]]（我方部曲）[[/col]],解除{unit_type}的鎖定[[col:scope_description]]（我方部曲）[[/col]]
-,^(?P<repl>{{.*}}) for recruitment: %\+n$,可招募的{repl}：%+n,可招募{repl}數：%+n
-,^(?P<repl>{{.*}}) for recruitment: \+1$,可招募的{repl}：+1,可招募{repl}數：+1
 ,^(?P<repl>{{.*}})$,{repl},{repl}
-,^(?P<unit_name>[a-zA-Z ]+): for recruitment: %\+n$,可招募的{unit_name}：%+n,可招募{unit_name}數：%+n
 ,^\[\[b\]\]%\+n%\[\[/b\]\] (?P<text_fragment>[a-zA-Z ]+) for (?P<unit_type>[a-zA-Z :{}_]+) units$,{unit_type}部队{text_fragment}[[b]]%+n%[[/b]],{unit_type}單位{text_fragment}[[b]]%+n%[[/b]]
 ,^\[\[b\]\]%\+n%\[\[/b\]\] (?P<text_fragment>[a-zA-Z ]+) for (?P<unit_type>[a-zA-Z :{}_]+),{unit_type}{text_fragment}[[b]]%+n%[[/b]],{unit_type}{text_fragment}[[b]]%+n%[[/b]]
 ,^\[\[b\]\]%\+n%\[\[/b\]\] (?P<text_fragment>[a-zA-Z -]+)$,{text_fragment}[[b]]%+n%[[/b]],{text_fragment}[[b]]%+n%[[/b]]
@@ -14,19 +10,28 @@ KeyPattern,TextPattern,zh-cn,zh-tw
 ^ceo_nodes_.*_armour_unique$,^(?P<character>[a-zA-Z ]+)['’]s (?P<text_fragment>[a-zA-Z ]+)$,{character}的{text_fragment},{character}的{text_fragment}
 ^ceo_nodes_description_.*,^Proof that the bearer has the authority to command (?P<unit_type>[a-zA-Z ]+).,持此令牌者可以指挥{unit_type}。,持此令牌者可以指揮{unit_type}。
 ^ceo_nodes_description_.*,^Proof that the bearer has the authority to command (?P<unit_type>[a-zA-Z]+) troops.,持此令牌者可以指挥{unit_type}部队。,持此令牌者可以指揮{unit_type}單位。
+^ceo_nodes_title_3k_main_ceo_liu_bei_unity,(?P<region>[a-zA-Z ']+),{region},{region}
 ^custom_battle_loadouts_name_hv_.*,^(?P<character>[a-zA-Z :_/\[\]]+)$,{character},{character}
+^effects_description_.*,^(?P<repl>{{.*}}) for recruitment: %\+n$,可招募的{repl}：%+n,可招募{repl}數：%+n
+^effects_description_.*,^(?P<repl>{{.*}}) for recruitment: \+1$,可招募的{repl}：+1,可招募{repl}數：+1
+^effects_description_.*,^(?P<unit_name>[a-zA-Z ]+): for recruitment: %\+n$,可招募的{unit_name}：%+n,可招募{unit_name}數：%+n
 ^effects_description_.*,^Ability: (?P<skill>[-a-zA-Z ']+)$,技能：{skill},技能：{skill}
+^effects_description_.*,"^Unlocks (?P<unit_type>[a-zA-Z, ]+) \[\[col:scope_description\]\]\(own retinue\)\[\[/col\]\]",解锁{unit_type}[[col:scope_description]]（我方部曲）[[/col]],解除{unit_type}的鎖定[[col:scope_description]]（我方部曲）[[/col]]
 ^effects_description_.*,^Unlocks (?P<unit_type>[a-zA-Z ]+) units \[\[col:scope_description\]\]\(own retinue\)\[\[/col\]\],解锁{unit_type}单位[[col:scope_description]]（我方部曲）[[/col]],解除{unit_type}單位的鎖定[[col:scope_description]]（我方部曲）[[/col]]
 ^effects_description_.*,^Unlocks assignment: (?P<text_fragment>.*)$,解锁任务：{text_fragment},解鎖任務：{text_fragment}
+^effects_description_.*,^Unlocks unit: (?P<unit_type>[-a-zA-Z ]+) units$,解锁部队：{unit_type},解除單位鎖定：{unit_type}
 ^effects_description_.*,^Unlocks unit: (?P<repl>{{.*}}) units$,解锁部队：{repl}部队,解除單位鎖定：{repl}單位
 ^effects_description_.*,^Unlocks unit: (?P<repl>{{.*}})$,解锁部队：{repl},解除單位鎖定：{repl}
 ^land_units_onscreen_name_3k_.*,^(?P<character>[a-zA-Z ü]+)$,{character},{character}
+^ui_text_replacements_localised_text_.*,"^At the start of your turn, have (?P<character>[a-zA-Z ü]+) be rank (?P<repl>[0-9]+) or higher",回合开始时，让{character}达到等级{repl}以上,回合開始時{character}達到等級{repl}以上
 ^ui_text_replacements_localised_text_.*,^(?P<repl>\[\[.*\]\]) (?P<text_fragment>[a-zA-Z]+),{repl} {text_fragment},{repl} {text_fragment}
 ^ui_text_replacements_localised_text_.*,^(?P<unit_type>Black Mountain Bandits|Enforcer Troop|Fury of Beihai|Han Provincial|House Servant|Jianan Vigilante|Local Noble|Southern Foreign|Tiger & Leopard|White Tiger|Yellow Turbans|Yuan Rong) (?P<unit_name>[-a-zA-Z ]+),{unit_type}{unit_name},{unit_type}{unit_name}
 ^ui_text_replacements_localised_text_.*,^(?P<unit_type>[a-zA-Z]+) (?P<unit_name>[-a-zA-Z ]+),{unit_type}{unit_name},{unit_type}{unit_name}
 ^ui_text_replacements_localised_text_.*,^(?P<unit_type>[a-zA-Z]+) (?P<unit_tier>[a-zA-Z]+) (?P<unit_name>[-a-zA-Z ]+),{unit_type}{unit_tier}{unit_name},{unit_type}{unit_tier}{unit_name}
+^ui_text_replacements_localised_text_.*,^(?P<unit_name>[-a-zA-Z ]+)$,{unit_name},{unit_name}
+^ui_text_replacements_localised_text_.*,^Capture or have at the start of your turn (?P<region>[a-zA-Z ']+),在回合开始时，占据或拥有{region},佔領{region}，或在回合開始時擁有該地
 ^ui_unit_group_parents_onscreen_name_.*,^(?P<unit_type>[a-zA-Z]+) (?P<unit_name>[-a-zA-Z ]+),{unit_type}{unit_name},{unit_type}{unit_name}
 ^ui_unit_groupings_onscreen_.*,^(?P<unit_type>[-a-zA-Z &]+) \((?P<unit_tier>[a-zA-Z ]+)\),{unit_type}（{unit_tier}）,{unit_type}（{unit_tier}）
 campaign_payload_ui_details_.*,^You may now recruit (?P<unit_type>[a-zA-Z :{}_]+) units$,你现在可以招募：{unit_type}部队,您現在可以招募：{unit_type}單位
 campaign_payload_ui_details_.*,^You may now recruit (?P<unit_type>[a-zA-Z :{}_]+)$,你现在可以招募：{unit_type},您現在可以招募：{unit_type}
-campaign_payload_ui_details_.*,^You may now recruit (?P<unit_type>[a-zA-Z :{}_]+)\.$,你现在可以招募：{unit_type}。,您現在可以招募：{unit_type}。
+campaign_payload_ui_details_.*,^You may now recruit (?P<unit_type>[a-zxA-Z :{}_]+)\.$,你现在可以招募：{unit_type}。,您現在可以招募：{unit_type}。

@@ -136,6 +136,8 @@ campaign_effect_scopes_localised_text_hv_scope_dummy_character_unlock_units_rank
 campaign_effect_scopes_localised_text_hv_scope_dummy_character_unlock_units_rank_royal_guards,[[col:scope_description]](when this character's rank is 11 or higher)[[/col]],True,,,,hv_TEXT_effect_scope.loc.tsv
 campaign_effect_scopes_localised_text_region_to_force_own_in_adjacent_regions,[[col:scope_description]](adjacent all {{tr:map_regions}})[[/col]],True,,,,hv_TEXT_effects_building.loc.tsv
 campaign_localised_strings_string_3k_dlc07_captains_armoury_whitewater_title,A Secret Plan,True,,,,hv_TEXT_effects_skills.loc.tsv
+campaign_localised_strings_string_3k_dlc07_liu_yan_ambition_task_win_duels_objective,Win 1 duels with your heir.,False,,,,hv_TEXT_etc.loc.tsv
+campaign_localised_strings_string_3k_dlc07_liu_yan_ambition_task_win_duels_records_objective,Kill 100 units with your heir.,False,,,,hv_TEXT_etc.loc.tsv
 campaign_localised_strings_string_3k_dlc07_tutorial_mode_imperial_hud_description,"Selecting this will open the Imperial Intrigue panel, which governs all the mechanics which become active once Emperor Xian comes of age in 195 CE, introducing a struggle over the influence of the new imperial power.",False,,,,ifo_text_TWEAK.loc.tsv
 campaign_localised_strings_string_dlc07_imperial_intrigue_panel_invalid_self_target,You can't target yourself. ,False,,,,ifo_text_TWEAK.loc.tsv
 campaign_localised_strings_string_military_force_morale_effect_bonus_value_animosity,Congestion,False,,,,hv_TEXT_effect_faction.loc.tsv
@@ -385,6 +387,22 @@ cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_white_tiger
 cdir_events_dilemma_choice_details_localised_choice_title_hv_dilemma_white_tiger_02SECOND,You agree with your men and prepare to descend.,False,,,,hv_TEXT_events.loc.tsv
 cdir_events_dilemma_choice_details_localised_choice_title_mtu_dilemma_suggestion_of_rebel_sistersFIRST,"They will help us, but there’s no such thing as a free lunch. You should keep your promise.",True,,,,[04]__MTU_events__Common.loc.tsv
 cdir_events_dilemma_choice_details_localised_choice_title_mtu_dilemma_suggestion_of_rebel_sistersSECOND,You reject their offer and send them away.,True,,,,[04]__MTU_events__Common.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_capitals,"The Eastern and Western Capitals, forever corrupted by sinister officials. Both must be saved and revitalised.",False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_five_tiger_generals,The pinnacles of unyielding loyalty and bravery to a revitalised Han.,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_jing_1,Not every strategy goes according to plan. One must always adapt to ensure survival and a chance to rebuild.,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_jing_2,"A stable foothold is a must. Xu may not have been the place for you, but Jing will surely be a spring board towards all directions.",False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_leader,"By his resolve to ensure peace in his time, Liu Bei must grow as a worthy warlord in this time of chaos to achieve such a path.",False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_memories,A return to the past when fun and carefree times were more prominent.,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_overcoming_fears,Hurdles must be overcome in order to ensure peace.,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_peach_garden,"This oath sworn by these three strangers binds them ever stronger than the bonds of blood. Now they are sworn forever as brothers, until death does them apart.",False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_pengcheng,Pengcheng holds one of the most esteemed temples. It must be rescued from the clutches of yellow turban rebels and ambitious warmongers.,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_shu_1,It is time for a distant descendant of the Liu to return home and revitalise the dying Han.,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_shu_2,"With Shu secured, the road to unity is getting ever closer.",False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_strategists,A leader not only should acquire abled strategists but also the willingness to listen to their counsel.,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_warriors_of_jing,"With this famed warriors from Jing, the bonds of unity of peace further strengthens.",False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_wives,Liu Bei's charisma can draw in more than one woman.,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_xu_1,You began as an individual without land to call home. Xu is a vast place with many friendly towards you.,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_xu_2,Securing Xu would be a major step towards your desire of unity.,False,,,,!!path_to_unity__.loc.tsv
 ceo_equipped_set_bonuses_description_3k_main_item_set_celestial_fury2,The heavens themselves will punish the unjust.,True,ceo_equipped_set_bonuses_description_3k_main_item_set_celestial_fury,不义者天自罚之,不義之人自有天罰。,[02]__MTU_items__Accessory.loc.tsv
 ceo_equipped_set_bonuses_description_3k_main_item_set_lord_of_fire,The battlefield is your stage.,False,,,,hv_TEXT_etc.loc.tsv
 ceo_equipped_set_bonuses_description_3k_main_item_set_tacticians_design2,"The 36 Strategems, realised.",True,ceo_equipped_set_bonuses_description_3k_main_item_set_tacticians_design,千百韬略尽见矣,三十六計，盡在囊中。,[02]__MTU_items__Accessory.loc.tsv
@@ -392,6 +410,22 @@ ceo_equipped_set_bonuses_description_3k_mtu_item_set_changshan_zhaozilong,"The B
 ceo_equipped_set_bonuses_description_3k_mtu_item_set_eight_principle_of_yong,"Write the word ""Yong(永)"" again and again. You may feel calm and your spirit step higher.",True,,,,[02]__MTU_items__Accessory.loc.tsv
 ceo_equipped_set_bonuses_description_3k_mtu_item_set_invincible,"With the Invincible Spear in-hand, who could dare to stop Zhao Yun?",True,,,,[02]__MTU_items__Weapons.loc.tsv
 ceo_equipped_set_bonuses_description_3k_mtu_item_set_sorrow_and_anger,Poem of Sorrow and Anger\\n\\n遄征日遐邁\\nHome runs far away day by day\\n悠悠三千里\\nThree thousand miles far from here\\n何時復交會\\nWhen will we meet again\\n念我出腹子\\nOh dear my daughter..\\n胸臆為摧敗\\nHeart breaks down..,True,,,,[02]__MTU_items__Accessory.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_capitals,The Imperial Capitals,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_five_tiger_generals,Five Tiger Generals,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_jing_1,Migratory Maneuvre,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_jing_2,Stable Foothold,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_leader,Path to Unity,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_memories,Childhood Memories,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_overcoming_fears,Overcome Hurdles,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_peach_garden,Oath of the Peach Garden,False,achievements_title_TK_ACHIEVEMENT_FIGHT_BATTLE_WITH_LU_BEI_GUAN_YU_ZHANG_FEI_SAME_SIDE,桃园之誓,桃園三結義,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_pengcheng,Rescue the Temple,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_shu_1,Ancestral Homecoming,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_shu_2,Ancestral Heartlands,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_strategists,Grand Strategists,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_warriors_of_jing,Warriors of Jing,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_wives,Idealist's Love Life,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_xu_1,From Humble Beginnings,False,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_xu_2,Securing a Province,False,,,,!!path_to_unity__.loc.tsv
 ceo_equipped_set_bonuses_title_3k_main_item_set_celestial_fury2,Celestial Fury,True,ceo_equipped_set_bonuses_title_3k_main_item_set_celestial_fury,天怒将军,天怒,[02]__MTU_items__Accessory.loc.tsv
 ceo_equipped_set_bonuses_title_3k_main_item_set_lord_of_fire,Lord of the Battlefield,False,,,,hv_TEXT_etc.loc.tsv
 ceo_equipped_set_bonuses_title_3k_main_item_set_tacticians_design2,Tactician's Design,True,ceo_equipped_set_bonuses_title_3k_main_item_set_tacticians_design,龙韬虎略,軍師的佈局,[02]__MTU_items__Accessory.loc.tsv
@@ -404,6 +438,108 @@ ceo_nodes_description_3k_dlc05_ancillary_title_blood_dragon_01,Win a battle wher
 ceo_nodes_description_3k_dlc05_ancillary_title_blood_dragon_locked_00,Win a battle where one of your generals personally kills 300 or more soldiers,False,,,,!hv_TEXT_system.loc.tsv
 ceo_nodes_description_3k_dlc07_ancillary_weapon_emperor_xian_weapon_unique,"A blade that is a beauty to behold. Inlaid with gold and embellished with shark skin, this blade is fit for a royal family.",False,,,,hv_TEXT_skills_basic.loc.tsv
 ceo_nodes_description_3k_main_ancillary_lady_diao_chans_armour_unique,"The perfect weight and fit, tailored for this warrior of class and distinction.",True,,,,[dummy]__MTU_dummy.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_achieve_liu_bei_duel_00,{{tr:3k_main_ceo_liu_bei_unity_achieve_liu_bei_duel}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_achieve_liu_bei_duel_01,{{tr:3k_main_ceo_liu_bei_unity_achieve_liu_bei_duel}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_achieve_liu_bei_settlement_00,{{tr:3k_main_ceo_liu_bei_unity_achieve_liu_bei_settlement}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_achieve_liu_bei_settlement_01,{{tr:3k_main_ceo_liu_bei_unity_achieve_liu_bei_settlement}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_defeat_cao_cao_00,{{tr:3k_main_ceo_liu_bei_unity_defeat_cao_cao}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_defeat_cao_cao_01,{{tr:3k_main_ceo_liu_bei_unity_defeat_cao_cao}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_defeat_lu_bu_00,{{tr:3k_main_ceo_liu_bei_unity_defeat_lu_bu}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_defeat_lu_bu_01,{{tr:3k_main_ceo_liu_bei_unity_defeat_lu_bu}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_gongsun_zan_00,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_gongsun_zan}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_gongsun_zan_01,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_gongsun_zan}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_guan_yu_00,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_guan_yu}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_guan_yu_01,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_guan_yu}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_huang_zhong_00,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_huang_zhong}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_huang_zhong_01,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_huang_zhong}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_lady_mi_00,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_lady_mi}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_lady_mi_01,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_lady_mi}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_lady_sun_00,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_lady_sun}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_lady_sun_01,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_lady_sun}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_liu_bei_00,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_liu_bei}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_liu_bei_01,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_liu_bei}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_lu_zhi_00,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_lu_zhi}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_lu_zhi_01,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_lu_zhi}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_ma_chao_00,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_ma_chao}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_ma_chao_01,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_ma_chao}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_pang_tong_00,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_pang_tong}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_pang_tong_01,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_pang_tong}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_wei_yan_00,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_wei_yan}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_wei_yan_01,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_wei_yan}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_zhang_fei_00,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_zhang_fei}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_zhang_fei_01,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_zhang_fei}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_zhao_yun_00,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_zhao_yun}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_zhao_yun_01,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_zhao_yun}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_zhuge_liang_00,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_zhuge_liang}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_recruit_high_level_zhuge_liang_01,{{tr:3k_main_ceo_liu_bei_unity_recruit_high_level_zhuge_liang}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_ba_capital_00,{{tr:3k_main_ceo_liu_bei_unity_secure_ba_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_ba_capital_01,{{tr:3k_main_ceo_liu_bei_unity_secure_ba_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_ba_farm_00,{{tr:3k_main_ceo_liu_bei_unity_secure_ba_farm}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_ba_farm_01,{{tr:3k_main_ceo_liu_bei_unity_secure_ba_farm}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_badong_capital_00,{{tr:3k_main_ceo_liu_bei_unity_secure_badong_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_badong_capital_01,{{tr:3k_main_ceo_liu_bei_unity_secure_badong_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_badong_iron_mine_00,{{tr:3k_main_ceo_liu_bei_unity_secure_badong_iron_mine}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_badong_iron_mine_01,{{tr:3k_main_ceo_liu_bei_unity_secure_badong_iron_mine}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_badong_lumber_yard_00,{{tr:3k_main_ceo_liu_bei_unity_secure_badong_lumber_yard}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_badong_lumber_yard_01,{{tr:3k_main_ceo_liu_bei_unity_secure_badong_lumber_yard}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_baxi_capital_00,{{tr:3k_main_ceo_liu_bei_unity_secure_baxi_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_baxi_capital_01,{{tr:3k_main_ceo_liu_bei_unity_secure_baxi_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_baxi_farm_00,{{tr:3k_main_ceo_liu_bei_unity_secure_baxi_farm}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_baxi_farm_01,{{tr:3k_main_ceo_liu_bei_unity_secure_baxi_farm}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_baxi_tool_maker_00,{{tr:3k_main_ceo_liu_bei_unity_secure_baxi_tool_maker}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_baxi_tool_maker_01,{{tr:3k_main_ceo_liu_bei_unity_secure_baxi_tool_maker}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_donghai_capital_00,{{tr:3k_main_ceo_liu_bei_unity_secure_donghai_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_donghai_capital_01,{{tr:3k_main_ceo_liu_bei_unity_secure_donghai_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_donghai_fishing_port_00,{{tr:3k_main_ceo_liu_bei_unity_secure_donghai_fishing_port}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_donghai_fishing_port_01,{{tr:3k_main_ceo_liu_bei_unity_secure_donghai_fishing_port}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_guangling_capital_00,{{tr:3k_main_ceo_liu_bei_unity_secure_guangling_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_guangling_capital_01,{{tr:3k_main_ceo_liu_bei_unity_secure_guangling_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_guangling_farm_00,{{tr:3k_main_ceo_liu_bei_unity_secure_guangling_farm}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_guangling_farm_01,{{tr:3k_main_ceo_liu_bei_unity_secure_guangling_farm}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_guangling_trade_port_00,{{tr:3k_main_ceo_liu_bei_unity_secure_guangling_trade_port}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_guangling_trade_port_01,{{tr:3k_main_ceo_liu_bei_unity_secure_guangling_trade_port}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_jiangxia_capital_00,{{tr:3k_main_ceo_liu_bei_unity_secure_jiangxia_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_jiangxia_capital_01,{{tr:3k_main_ceo_liu_bei_unity_secure_jiangxia_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_jiangxia_farm_00,{{tr:3k_main_ceo_liu_bei_unity_secure_jiangxia_farm}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_jiangxia_farm_01,{{tr:3k_main_ceo_liu_bei_unity_secure_jiangxia_farm}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_jingzhao_capital_00,{{tr:3k_main_ceo_liu_bei_unity_secure_jingzhao_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_jingzhao_capital_01,{{tr:3k_main_ceo_liu_bei_unity_secure_jingzhao_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_jingzhao_jade_mine_00,{{tr:3k_main_ceo_liu_bei_unity_secure_jingzhao_jade_mine}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_jingzhao_jade_mine_01,{{tr:3k_main_ceo_liu_bei_unity_secure_jingzhao_jade_mine}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_langye_capital_00,{{tr:3k_main_ceo_liu_bei_unity_secure_langye_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_langye_capital_01,{{tr:3k_main_ceo_liu_bei_unity_secure_langye_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_langye_fishing_port_00,{{tr:3k_main_ceo_liu_bei_unity_secure_langye_fishing_port}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_langye_fishing_port_01,{{tr:3k_main_ceo_liu_bei_unity_secure_langye_fishing_port}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_langye_lumber_yard_00,{{tr:3k_main_ceo_liu_bei_unity_secure_langye_lumber_yard}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_langye_lumber_yard_01,{{tr:3k_main_ceo_liu_bei_unity_secure_langye_lumber_yard}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_luoyang_capital_00,{{tr:3k_main_ceo_liu_bei_unity_secure_luoyang_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_luoyang_capital_01,{{tr:3k_main_ceo_liu_bei_unity_secure_luoyang_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_luoyang_trade_port_00,{{tr:3k_main_ceo_liu_bei_unity_secure_luoyang_trade_port}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_luoyang_trade_port_01,{{tr:3k_main_ceo_liu_bei_unity_secure_luoyang_trade_port}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_nan_capital_00,{{tr:3k_main_ceo_liu_bei_unity_secure_nan_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_nan_capital_01,{{tr:3k_main_ceo_liu_bei_unity_secure_nan_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_nan_livestock_00,{{tr:3k_main_ceo_liu_bei_unity_secure_nan_livestock}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_nan_livestock_01,{{tr:3k_main_ceo_liu_bei_unity_secure_nan_livestock}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_pengcheng_capital_00,{{tr:3k_main_ceo_liu_bei_unity_secure_pengcheng_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_pengcheng_capital_01,{{tr:3k_main_ceo_liu_bei_unity_secure_pengcheng_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_pengcheng_temple_00,{{tr:3k_main_ceo_liu_bei_unity_secure_pengcheng_temple}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_pengcheng_temple_01,{{tr:3k_main_ceo_liu_bei_unity_secure_pengcheng_temple}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_shu_armour_craftsmen_00,{{tr:3k_main_ceo_liu_bei_unity_secure_shu_armour_craftsmen}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_shu_armour_craftsmen_01,{{tr:3k_main_ceo_liu_bei_unity_secure_shu_armour_craftsmen}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_shu_capital_00,{{tr:3k_main_ceo_liu_bei_unity_secure_shu_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_shu_capital_01,{{tr:3k_main_ceo_liu_bei_unity_secure_shu_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_shu_farm_00,{{tr:3k_main_ceo_liu_bei_unity_secure_shu_farm}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_shu_farm_01,{{tr:3k_main_ceo_liu_bei_unity_secure_shu_farm}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_shu_salt_mine_00,{{tr:3k_main_ceo_liu_bei_unity_secure_shu_salt_mine}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_shu_salt_mine_01,{{tr:3k_main_ceo_liu_bei_unity_secure_shu_salt_mine}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_xiangyang_capital_00,{{tr:3k_main_ceo_liu_bei_unity_secure_xiangyang_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_xiangyang_capital_01,{{tr:3k_main_ceo_liu_bei_unity_secure_xiangyang_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_xiangyang_tool_maker_00,{{tr:3k_main_ceo_liu_bei_unity_secure_xiangyang_tool_maker}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_xiangyang_tool_maker_01,{{tr:3k_main_ceo_liu_bei_unity_secure_xiangyang_tool_maker}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_xiapi_capital_00,{{tr:3k_main_ceo_liu_bei_unity_secure_xiapi_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_xiapi_capital_01,{{tr:3k_main_ceo_liu_bei_unity_secure_xiapi_capital}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_xiapi_farm_00,{{tr:3k_main_ceo_liu_bei_unity_secure_xiapi_farm}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_description_3k_main_ceo_liu_bei_unity_secure_xiapi_farm_01,{{tr:3k_main_ceo_liu_bei_unity_secure_xiapi_farm}},False,,,,!!path_to_unity__.loc.tsv
 ceo_nodes_description_3k_main_ceo_node_career_historical_lady_diao_chan_01,Diao Chan's beauty is enough to destroy a country in a moment.,False,,,,[dummy]__MTU_dummy.loc.tsv
 ceo_nodes_description_3k_mtu_ancillary_accessory_eight_principles_of_yong,"This book is the basis of all calligraphy and created by Cai Yong, who made his name as a master calligrapher.",True,,,,[02]__MTU_items__Accessory.loc.tsv
 ceo_nodes_description_3k_mtu_ancillary_accessory_poem_of_sorrow_and_anger,"My dwelling is often covered by frost and snow,\\n\\nThe foreign winds bring again spring and summer",True,,,,[02]__MTU_items__Accessory.loc.tsv
@@ -519,6 +655,108 @@ ceo_nodes_description_hv_mtu_ancillary_zang_bas_armour_unique,"The perfect weigh
 ceo_nodes_description_hv_mtu_ceo_node_career_historical_liu_feng_01,"Liu Feng is brave, but his fate is intertwined with tragedy and downfall.",False,,,,hv_TEXT_ceo_career.loc.tsv
 ceo_nodes_title_3k_dlc04_ceo_node_career_historical_lady_cai_yan_wenji_01,Tragic Writer,False,,,,[01]__MTU_generals__Water_strategist.loc.tsv
 ceo_nodes_title_3k_main_ancillary_lady_diao_chans_armour_unique,Diao Chan's Silk Raiment,True,,,,[dummy]__MTU_dummy.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_achieve_liu_bei_duel_00,Earning Experience,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_achieve_liu_bei_duel_01,Earning Experience,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_achieve_liu_bei_settlement_00,Upstart Warlord,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_achieve_liu_bei_settlement_01,Upstart Warlord,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_defeat_cao_cao_00,{{tr:3k_main_startpos_label_cao_cao_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_defeat_cao_cao_01,{{tr:3k_main_startpos_label_cao_cao_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_defeat_lu_bu_00,{{tr:3k_main_startpos_label_lu_bu_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_defeat_lu_bu_01,{{tr:3k_main_startpos_label_lu_bu_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_gongsun_zan_00,{{tr:3k_main_startpos_label_gongsun_zan_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_gongsun_zan_01,{{tr:3k_main_startpos_label_gongsun_zan_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_guan_yu_00,{{tr:3k_main_startpos_label_guan_yu_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_guan_yu_01,{{tr:3k_main_startpos_label_guan_yu_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_huang_zhong_00,{{tr:3k_main_startpos_label_huang_zhong_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_huang_zhong_01,{{tr:3k_main_startpos_label_huang_zhong_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_lady_mi_00,{{tr:3k_main_startpos_label_lady_mi_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_lady_mi_01,{{tr:3k_main_startpos_label_lady_mi_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_lady_sun_00,{{tr:3k_main_startpos_label_lady_sun_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_lady_sun_01,{{tr:3k_main_startpos_label_lady_sun_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_liu_bei_00,{{tr:3k_main_startpos_label_liu_bei_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_liu_bei_01,{{tr:3k_main_startpos_label_liu_bei_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_lu_zhi_00,{{tr:3k_main_startpos_label_lu_zhi_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_lu_zhi_01,{{tr:3k_main_startpos_label_lu_zhi_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_ma_chao_00,{{tr:3k_main_startpos_label_ma_chao_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_ma_chao_01,{{tr:3k_main_startpos_label_ma_chao_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_pang_tong_00,{{tr:3k_main_startpos_label_pang_tong_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_pang_tong_01,{{tr:3k_main_startpos_label_pang_tong_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_wei_yan_00,{{tr:3k_main_startpos_label_wei_yan_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_wei_yan_01,{{tr:3k_main_startpos_label_wei_yan_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_zhang_fei_00,{{tr:3k_main_startpos_label_zhang_fei_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_zhang_fei_01,{{tr:3k_main_startpos_label_zhang_fei_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_zhao_yun_00,{{tr:3k_main_startpos_label_zhao_yun_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_zhao_yun_01,{{tr:3k_main_startpos_label_zhao_yun_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_zhuge_liang_00,{{tr:3k_main_startpos_label_zhuge_liang_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_recruit_high_level_zhuge_liang_01,{{tr:3k_main_startpos_label_zhuge_liang_header}},False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_ba_capital_00,Jiangzhou,False,regions_battle_name_3k_main_bajun_capital,江州,江州,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_ba_capital_01,Jiangzhou,False,regions_battle_name_3k_main_bajun_capital,江州,江州,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_ba_farm_00,Danqu,False,regions_battle_name_3k_main_bajun_resource_1,宕渠,宕渠,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_ba_farm_01,Danqu,False,regions_battle_name_3k_main_bajun_resource_1,宕渠,宕渠,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_badong_capital_00,Yong'an,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_badong_capital_01,Yong'an,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_badong_iron_mine_00,Quren,False,regions_battle_name_3k_main_badong_resource_1,朐忍,朐忍,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_badong_iron_mine_01,Quren,False,regions_battle_name_3k_main_badong_resource_1,朐忍,朐忍,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_badong_lumber_yard_00,Linyuan,False,regions_battle_name_3k_main_badong_resource_2,临沅,臨沅,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_badong_lumber_yard_01,Linyuan,False,regions_battle_name_3k_main_badong_resource_2,临沅,臨沅,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_baxi_capital_00,Langzhong,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_baxi_capital_01,Langzhong,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_baxi_farm_00,Zitong,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_baxi_farm_01,Zitong,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_baxi_tool_maker_00,Hanchang,False,regions_battle_name_3k_main_baxi_resource_1,汉昌,漢昌,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_baxi_tool_maker_01,Hanchang,False,regions_battle_name_3k_main_baxi_resource_1,汉昌,漢昌,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_donghai_capital_00,Tanxian,False,regions_battle_name_3k_main_donghai_capital,郯县,郯縣,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_donghai_capital_01,Tanxian,False,regions_battle_name_3k_main_donghai_capital,郯县,郯縣,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_donghai_fishing_port_00,Haixi,False,regions_battle_name_3k_main_donghai_resource_1,海西,海西,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_donghai_fishing_port_01,Haixi,False,regions_battle_name_3k_main_donghai_resource_1,海西,海西,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_guangling_capital_00,Huaiyin,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_guangling_capital_01,Huaiyin,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_guangling_farm_00,Gaoyou,False,regions_battle_name_3k_main_guangling_resource_1,高邮,高郵,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_guangling_farm_01,Gaoyou,False,regions_battle_name_3k_main_guangling_resource_1,高邮,高郵,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_guangling_trade_port_00,Jiangdu,False,regions_battle_name_3k_main_guangling_resource_2,江都,江都,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_guangling_trade_port_01,Jiangdu,False,regions_battle_name_3k_main_guangling_resource_2,江都,江都,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_jiangxia_capital_00,Xiling,False,campaign_battle_presets_onscreen_name_3k_main_battle_preset_settlement_city_d,西陵,西陵,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_jiangxia_capital_01,Xiling,False,campaign_battle_presets_onscreen_name_3k_main_battle_preset_settlement_city_d,西陵,西陵,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_jiangxia_farm_00,Xiyang,False,regions_battle_name_3k_main_jiangxia_resource_1,西阳,西陽,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_jiangxia_farm_01,Xiyang,False,regions_battle_name_3k_main_jiangxia_resource_1,西阳,西陽,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_jingzhao_capital_00,Chang'an,False,campaign_battle_presets_onscreen_name_3k_main_battle_preset_settlement_city_a,长安,長安,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_jingzhao_capital_01,Chang'an,False,campaign_battle_presets_onscreen_name_3k_main_battle_preset_settlement_city_a,长安,長安,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_jingzhao_jade_mine_00,Lantian,False,regions_battle_name_3k_main_changan_resource_1,蓝田,藍田,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_jingzhao_jade_mine_01,Lantian,False,regions_battle_name_3k_main_changan_resource_1,蓝田,藍田,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_langye_capital_00,Dongwu,False,regions_battle_name_3k_main_langye_capital,东武,東武,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_langye_capital_01,Dongwu,False,regions_battle_name_3k_main_langye_capital,东武,東武,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_langye_fishing_port_00,Buji,False,regions_battle_name_3k_main_langye_resource_2,不其,不其,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_langye_fishing_port_01,Buji,False,regions_battle_name_3k_main_langye_resource_2,不其,不其,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_langye_lumber_yard_00,Kaiyang,False,regions_battle_name_3k_main_langye_resource_1,开阳,開陽,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_langye_lumber_yard_01,Kaiyang,False,regions_battle_name_3k_main_langye_resource_1,开阳,開陽,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_luoyang_capital_00,Luoyang,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_luoyang_capital_01,Luoyang,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_luoyang_trade_port_00,Hongnong,False,regions_battle_name_3k_main_luoyang_resource_1,弘农,弘農,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_luoyang_trade_port_01,Hongnong,False,regions_battle_name_3k_main_luoyang_resource_1,弘农,弘農,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_nan_capital_00,Jiangling,False,ceo_nodes_title_3k_dlc05_ceo_sun_ce_ambition_secure_jiangling_capital_00,江陵,江陵,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_nan_capital_01,Jiangling,False,ceo_nodes_title_3k_dlc05_ceo_sun_ce_ambition_secure_jiangling_capital_00,江陵,江陵,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_nan_livestock_00,Huarong,False,ceo_nodes_title_3k_dlc05_ceo_sun_ce_ambition_secure_jiangling_livestock_00,华容,華容,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_nan_livestock_01,Huarong,False,ceo_nodes_title_3k_dlc05_ceo_sun_ce_ambition_secure_jiangling_livestock_00,华容,華容,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_pengcheng_capital_00,Pengcheng,False,factions_screen_name_3k_main_faction_penchang,彭城,彭城,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_pengcheng_capital_01,Pengcheng,False,factions_screen_name_3k_main_faction_penchang,彭城,彭城,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_pengcheng_temple_00,Luxian,False,regions_battle_name_3k_main_penchang_resource_1,鲁县,呂縣,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_pengcheng_temple_01,Luxian,False,regions_battle_name_3k_main_penchang_resource_1,鲁县,呂縣,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_shu_armour_craftsmen_00,Hanjia,False,regions_battle_name_3k_main_chengdu_resource_1,汉嘉,漢嘉,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_shu_armour_craftsmen_01,Hanjia,False,regions_battle_name_3k_main_chengdu_resource_1,汉嘉,漢嘉,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_shu_capital_00,Chengdu,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_shu_capital_01,Chengdu,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_shu_farm_00,Luocheng,False,regions_battle_name_3k_main_chengdu_resource_2,雒城,洛城,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_shu_farm_01,Luocheng,False,regions_battle_name_3k_main_chengdu_resource_2,雒城,洛城,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_shu_salt_mine_00,Zizhong,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_shu_salt_mine_01,Zizhong,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_xiangyang_capital_00,Xiangyang,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_xiangyang_capital_01,Xiangyang,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_xiangyang_tool_maker_00,Linju,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_xiangyang_tool_maker_01,Linju,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_xiapi_capital_00,Xiapi,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_xiapi_capital_01,Xiapi,False,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_xiapi_farm_00,Xuexian,False,start_pos_settlements_onscreen_name_settlement:3k_dlc06_xiapi_resource_11011947909,薛县,薛縣,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_secure_xiapi_farm_01,Xuexian,False,start_pos_settlements_onscreen_name_settlement:3k_dlc06_xiapi_resource_11011947909,薛县,薛縣,!!path_to_unity__.loc.tsv
 ceo_nodes_title_3k_main_ceo_node_career_historical_lady_diao_chan_01,Femme Fatale,False,,,,[dummy]__MTU_dummy.loc.tsv
 ceo_nodes_title_3k_mtu_ancillary_accessory_eight_principles_of_yong,Flying White,True,,,,[02]__MTU_items__Accessory.loc.tsv
 ceo_nodes_title_3k_mtu_ancillary_accessory_poem_of_sorrow_and_anger,Poem of Sorrow and Anger,True,,,,[02]__MTU_items__Accessory.loc.tsv
@@ -639,12 +877,21 @@ ceo_nodes_title_hv_ceo_node_career_non_deployable_type_5,Local Celebrity,True,,,
 ceo_nodes_title_hv_ceo_node_career_non_deployable_type_6,Scribe,True,,,,z_dummy_hv_TEXT_non_deployable.loc.tsv
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_advanced,Marquis or Chancellor of State,False,,,,hv_TEXT_etc.loc.tsv
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_basic,Second Marquis,False,campaign_localised_strings_string_3k_main_faction_summary_title_second_marquis_title,伯,伯爵,hv_TEXT_etc.loc.tsv
-ceo_nodes_title_hv_ceo_node_faction_rank_unlock_dan_yang,Legacy of Tao Qian,False,,,,hv_TEXT_etc.loc.tsv
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_buqu_of_the_left,Path To Unity,True,,,,hv_TEXT_effects_ceo.loc.tsv
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_dan_yang,Path To Unity,True,,,,hv_TEXT_effects_ceo.loc.tsv
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_danyang_buqu,Path To Unity,True,,,,hv_TEXT_effects_ceo.loc.tsv
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_danyang_elite,Path To Unity,True,,,,hv_TEXT_effects_ceo.loc.tsv
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_dongzhoubing,Path To Unity,True,,,,hv_TEXT_effects_ceo.loc.tsv
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_dragons,Path To Unity,True,,,,hv_TEXT_effects_ceo.loc.tsv
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_eight_talent_buqu,Path To Unity,True,,,,hv_TEXT_effects_ceo.loc.tsv
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_eight_talent_elite,Path To Unity,True,,,,hv_TEXT_effects_ceo.loc.tsv
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_elite,Duke or Grand Master,False,,,,hv_TEXT_etc.loc.tsv
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_elite_oath,Path To Unity,True,,,,hv_TEXT_effects_ceo.loc.tsv
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_legacy_lu_bu,Legacy of Lu Bu,False,,,,hv_TEXT_etc.loc.tsv
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_legacy_yuan_shu,Legacy of Yuan Shu,False,,,,hv_TEXT_etc.loc.tsv
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_monk,Buddhism,False,religions_onscreen_3k_main_buddhist,佛教,佛教,hv_TEXT_etc.loc.tsv
 ceo_nodes_title_hv_ceo_node_faction_rank_unlock_qingzhou,Conquest Yellow Turbans,False,,,,hv_TEXT_etc.loc.tsv
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_yuan_rong,Path To Unity,True,,,,hv_TEXT_effects_ceo.loc.tsv
 ceo_nodes_title_hv_mtu_ancillary_liu_fengs_armour_unique,Liu Feng's Armour,False,,,,hv_TEXT_ceo_career.loc.tsv
 ceo_nodes_title_hv_mtu_ancillary_lu_sus_armour_unique,Lu Su's Armour,False,,,,hv_TEXT_ceo_career.loc.tsv
 ceo_nodes_title_hv_mtu_ancillary_zang_bas_armour_unique,Zang Ba's Armour,False,,,,hv_TEXT_ceo_career.loc.tsv
@@ -2836,6 +3083,8 @@ effects_description_3k_main_dummy_faction_progression_emperor_proclamation_info,
 effects_description_3k_main_effect_character_stat_mod_melee_attack,[[b]]%+n%[[/b]] additional melee hit bonus,True,,,,hv_TEXT_etc.loc.tsv
 effects_description_3k_main_effect_character_stat_mod_missile_damage_cavalry_missile,[[b]]%+n%[[/b]] ranged damage for missile cavalry,True,,,,[03]__MTU_skills___Effect.loc.tsv
 effects_description_3k_main_effect_enable_projectile_fire_artillery,Enables: Flaming Shot (Trebuchet),True,,,,hv_TEXT_effects_skills.loc.tsv
+effects_description_3k_main_effect_unit_cap_water_dongzhoubing_marksmen,Dongzhoubing Marksmen: for recruitment: %+n,True,,,,hv_TEXT_effects_unit_cap.loc.tsv
+effects_description_3k_main_effect_unit_cap_wood_dongzhoubing_defenders,Dongzhoubing Defenders: for recruitment: %+n,True,,,,hv_TEXT_effects_unit_cap.loc.tsv
 effects_description_3k_main_effect_unit_stats_ammunition_cavalry_missile,[[b]]%+n%[[/b]] ammunition for missile cavalry,True,,,,[03]__MTU_skills___Effect.loc.tsv
 effects_description_3k_main_effect_unit_stats_unit_hit_chance,[[b]]%+n%[[/b]] additional melee hit bonus,True,,,,hv_TEXT_etc.loc.tsv
 effects_description_3k_main_skill_advance,Active Buff: Order to Advance,True,,,,[03]__MTU_skills__Active_buff.loc.tsv
@@ -2943,7 +3192,9 @@ effects_description_hv_building_effect_replenishment_danyang,[[b]]%+n%[[/b]] rep
 effects_description_hv_dummy_effect_enforcer_archers_unlock,Unlocks unit: {{tr:hv_unit_xiliang_elite_enforcers}},False,,,,hv_TEXT_effects_events.loc.tsv
 effects_description_hv_dummy_effect_enforcer_mounted_archers_unlock,Unlocks unit: {{tr:hv_unit_enforcer_archer_cavalry}},False,,,,hv_TEXT_effects_events.loc.tsv
 effects_description_hv_dummy_effect_hidden_snakes_unlock,Unlocks unit: {{tr:hv_unit_hidden_snakes}},False,,,,hv_TEXT_effects_events.loc.tsv
+effects_description_hv_dummy_effect_northern_army_officer,Gain Colonel of the Northern Army for each objective completed,True,,,,hv_TEXT_effects_ceo.loc.tsv
 effects_description_hv_dummy_effect_rapid_tigers_unlock,Unlocks unit: {{tr:hv_unit_rapid_tigers}},False,,,,hv_TEXT_effects_events.loc.tsv
+effects_description_hv_dummy_effect_unlock_all_dragon_units,Dragon units for recruitment: %+n,True,,,,hv_TEXT_effects_ceo.loc.tsv
 effects_description_hv_dummy_effect_white_tiger_warriors_unlock,Unlocks unit for Yan Baihu: {{tr:hv_unit_white_tiger_warriors}},False,,,,hv_TEXT_effects_events.loc.tsv
 effects_description_hv_dummy_effect_ytr_resurrection,"When your faction reached Enlightened, there will be Yellow Turban rebellion across China.",True,,,,hv_TEXT_effects_pooled_resource.loc.tsv
 effects_description_hv_effect_army_stockpiles,[[b]]%+n[[/b]] reserves ,True,effects_description_3k_main_effect_province_supply_stockpile_abs_passive,储备[[b]]%+n[[/b]] ,存糧[[b]]%+n[[/b]] ,hv_TEXT_etc.loc.tsv
@@ -2965,6 +3216,7 @@ effects_description_hv_effect_dummy_burning_mace,"Once equipped, this item can't
 effects_description_hv_effect_dummy_coin_confuse_event,Causes temporary social turmoil,True,,,,hv_TEXT_effects_technology.loc.tsv
 effects_description_hv_effect_dummy_danyang_army_region,Danyang troop tally can be earned when occupied,True,,,,hv_TEXT_region_army.loc.tsv
 effects_description_hv_effect_dummy_danyang_unlock,Unlocks Danyang units [[col:scope_description]](own retinue)[[/col]],True,,,,hv_TEXT_effects_ceo.loc.tsv
+effects_description_hv_effect_dummy_fellows_of_the_oath_unlock,Unlocks unit: {{tr:hv_unit_fellows_of_the_oath}},True,,,,hv_TEXT_effects_ceo.loc.tsv
 effects_description_hv_effect_dummy_imperial_not_recruitable,Locks Might Royal Guard units,True,,,,hv_TEXT_events_rules.loc.tsv
 effects_description_hv_effect_dummy_imperial_recruitable,Unlocks Might Royal Guard units,True,,,,hv_TEXT_events_rules.loc.tsv
 effects_description_hv_effect_dummy_ironfist_army_region,Ironfist Cavalry can be recruited when occupied,True,,,,hv_TEXT_region_army.loc.tsv
@@ -2979,8 +3231,16 @@ effects_description_hv_effect_dummy_officer_warning,"Once equipped, this item ca
 effects_description_hv_effect_dummy_protectors_not_recruitable,Locks Virtue Royal Guard units,True,,,,hv_TEXT_events_rules.loc.tsv
 effects_description_hv_effect_dummy_protectors_recruitable,Unlocks Virtue Royal Guard units,True,,,,hv_TEXT_events_rules.loc.tsv
 effects_description_hv_effect_dummy_sogd_unlock,Unlocks Sogd units [[col:scope_description]](own retinue)[[/col]],True,,,,hv_TEXT_effects_ceo.loc.tsv
+effects_description_hv_effect_dummy_unlock_buqu_of_the_left,Unlocks unit: {{tr:hv_unit_buqu_of_the_left}},True,,,,hv_TEXT_effects_ceo.loc.tsv
+effects_description_hv_effect_dummy_unlock_dan_yang_archers,Unlocks unit: {{tr:hv_unit_dan_yang_archers}},True,,,,hv_TEXT_effects_ceo.loc.tsv
+effects_description_hv_effect_dummy_unlock_dan_yang_infantry,Unlocks unit: {{tr:hv_unit_dan_yang_infantry}},True,,,,hv_TEXT_effects_ceo.loc.tsv
+effects_description_hv_effect_dummy_unlock_dan_yang_spearmen,Unlocks unit: {{tr:hv_unit_dan_yang_spearmen}},True,,,,hv_TEXT_effects_ceo.loc.tsv
+effects_description_hv_effect_dummy_unlock_dongzhoubing,Unlocks unit: Dongzhoubing units,True,,,,hv_TEXT_effects_ceo.loc.tsv
 effects_description_hv_effect_dummy_unlock_duelist_expert_ui,This hero gets a great bonus in duels. ,True,,,,hv_TEXT_skills_additional.loc.tsv
 effects_description_hv_effect_dummy_unlock_duelist_ui,This hero gets a bonus in duels. ,True,,,,hv_TEXT_skills_additional.loc.tsv
+effects_description_hv_effect_dummy_unlock_eight_talent_buqu,Unlocks unit: {{tr:hv_unit_ji_guards_of_the_eight_talents}},True,,,,hv_TEXT_effects_ceo.loc.tsv
+effects_description_hv_effect_dummy_unlock_eight_talent_elite,Unlocks unit: {{tr:hv_unit_sword_guards_of_the_eight_talents}},True,,,,hv_TEXT_effects_ceo.loc.tsv
+effects_description_hv_effect_dummy_unlock_oath,Unlocks unit: {{tr:hv_unit_buqu_of_the_left}},True,,,,hv_TEXT_effects_ceo.loc.tsv
 effects_description_hv_effect_dummy_unlock_unit_bomb_thrower,Unlocks unit: {{tr:hv_unit_bomb_thrower}},True,,,,hv_TEXT_skills_additional.loc.tsv
 effects_description_hv_effect_dummy_unlock_unit_buqu_archer_cavalry,Unlocks unit: {{tr:hv_unit_buqu_archer_cavalry}},True,,,,hv_TEXT_skills_additional.loc.tsv
 effects_description_hv_effect_dummy_unlock_unit_buqu_of_the_left,Replaces unit: {{tr:hv_unit_buqu_of_the_left}} ({{tr:hv_unit_buqu_archers}}),True,,,,hv_TEXT_skills_additional.loc.tsv
@@ -3009,6 +3269,7 @@ effects_description_hv_effect_dummy_unlock_unit_xian_chen_ying_2h,Unlocks unit: 
 effects_description_hv_effect_dummy_unlock_unit_yuan_ji_guards,Unlocks unit: {{tr:hv_unit_yuan_ji_guards}},True,,,,hv_TEXT_skills_additional.loc.tsv
 effects_description_hv_effect_dummy_unlock_unit_yuan_rong_crossbowmen,Unlocks unit: {{tr:hv_unit_bomb_thrower}},True,,,,hv_TEXT_skills_additional.loc.tsv
 effects_description_hv_effect_dummy_unlock_unit_yuan_swordsmen,Unlocks unit: {{tr:hv_unit_yuan_sword_infantry}},True,,,,hv_TEXT_skills_additional.loc.tsv
+effects_description_hv_effect_dummy_unlock_yuan_rong,Unlocks unit: {{tr:hv_unit_yuan_rong_crossbowmen}},True,,,,hv_TEXT_effects_ceo.loc.tsv
 effects_description_hv_effect_dummy_xiliang_army_region,Colonel of the Xiliang Army can be earned when occupied,True,,,,hv_TEXT_region_army.loc.tsv
 effects_description_hv_effect_dummy_xiliang_army_unlock,Unlocks Xiliang Army Buqu units [[col:scope_description]](own retinue)[[/col]],True,,,,hv_TEXT_effects_ceo.loc.tsv
 effects_description_hv_effect_dummy_xiliang_army_unlock_elite,Unlocks Xiliang Army Elite units [[col:scope_description]](own retinue)[[/col]],True,,,,hv_TEXT_effects_ceo.loc.tsv
@@ -3155,6 +3416,7 @@ effects_description_hv_effect_unit_cap_iron_fists_of_the_bandit_queen,{{tr:hv_un
 effects_description_hv_effect_unit_cap_ironfist_barded_2h_spear_cavalry,{{tr:hv_unit_ironfist_barded_2h_spear_cavalry}} for recruitment: %+n,True,,,,hv_TEXT_effects_unit_cap.loc.tsv
 effects_description_hv_effect_unit_cap_jade_dragons,{{tr:hv_unit_jade_dragons}} for recruitment: %+n,True,,,,hv_TEXT_effects_unit_cap.loc.tsv
 effects_description_hv_effect_unit_cap_jei_fan_infantry,{{tr:hv_unit_jei_fan_infantry}} for recruitment: %+n,True,,,,hv_TEXT_effects_unit_cap.loc.tsv
+effects_description_hv_effect_unit_cap_ji_guards_of_the_eight_talents,Ji Guards of the Eight Talents: for recruitment: %+n,True,,,,hv_TEXT_effects_unit_cap.loc.tsv
 effects_description_hv_effect_unit_cap_jianan_archers,{{tr:hv_unit_jianan_archers}} for recruitment: %+n,True,,,,hv_TEXT_effects_unit_cap.loc.tsv
 effects_description_hv_effect_unit_cap_jianan_crossbowmen,{{tr:hv_unit_jianan_crossbowmen}} for recruitment: %+n,True,,,,hv_TEXT_effects_unit_cap.loc.tsv
 effects_description_hv_effect_unit_cap_jianan_crossbowmen_cavalry,{{tr:hv_unit_jianan_crossbowmen_cavalry}} for recruitment: %+n,True,,,,hv_TEXT_effects_unit_cap.loc.tsv
@@ -3561,6 +3823,7 @@ frontend_faction_leader_unique_characters_localised_description_hv_frontend_lady
 frontend_faction_leader_unique_characters_localised_description_hv_frontend_lady_liu_limin_190,[[b]]Lady Liu[[/b]]\\nDevoted Mother\\n\\nGeneral type: {{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]Lady Liu constantly worries about her family. Perhaps she worries too much.[[/col]][[/i]],True,,,,hv_TEXT_frontend_features.loc.tsv
 frontend_faction_leader_unique_characters_localised_description_hv_frontend_lady_liu_limin_194,[[b]]Lady Liu[[/b]]\\nDevoted Mother\\n\\nGeneral type: {{tr:3k_general_type_earth}}\\n\\n[[col:flavour]][[i]]Lady Liu constantly worries about her family. Perhaps she worries too much.[[/col]][[/i]],True,,,,hv_TEXT_frontend_features.loc.tsv
 frontend_faction_leader_unique_features_localised_description_3k_main_unique_features_governors_proclamation,[[b]]Loyalty to the Han[[/b]]\\n[[col:scope_description]]Path to victory[[/col]]\\n\\n[[col:red]]Requires high prestige for creating an emperor seat[[/col]]\\nCan gain prestige with imperial favours\\n\\n[[col:flavour]][[i]]Ambition is tamed by respect and loyalty towards the Han and its emperors.[[/col]][[/i]],False,,,,hv_TEXT_frontend_features.loc.tsv
+frontend_faction_leader_unique_features_localised_description_3k_main_unique_features_liu_bei_confederate,[[b]]Path to Unity[[/b]]\\n[[col:scope_description]]Faction feature[[/col]]\\n\\n[[i]]Liu Bei's Path to Unity is a set of unique objectives. Achieving designated objectives gives access to a wide range of faction-wide bonuses or access to additional unique units.[[/i]]\\n\\n[[i]][[col:flavour]]The way towards unity and everlasting peace should be achieved through compassion and cohesion.[[/col]][[/i]],False,,,,!!path_to_unity__.loc.tsv
 frontend_faction_leader_unique_features_localised_description_3k_main_unique_features_sun_jian_fealty,"[[b]]Mercenary Outpost[[/b]]\\n[[col:scope_description]]Add-on building[[/col]]\\n\\n[[col:yellow]]Grants access to Mercenaries[[/col]]\\n[[col:green]]+[[/col]] Income from commerce\\n[[col:green]]+[[/col]] Replenishment\\n\\n[[col:flavour]][[i]]Without inheriting authority, wealth's greatest use is for attaining power, so the brave can serve China regardless of their heritage.[[/col]][[/i]]",False,,,,hv_TEXT_frontend_features.loc.tsv
 frontend_faction_leader_unique_features_localised_description_3k_ytr_unique_features_gong_du_building,"[[b]]Guerilla Warfare[[/b]]\\n[[col:scope_description]]Military building chain[[/col]]\\n\\n[[col:green]]+[[/col]] Post-battle loot income\\n[[col:green]]+[[/col]] Military supplies\\n[[col:green]]+[[/col]] Replenishment in foreign land\\n\\n[[col:flavour]][[i]]When fighting a greater opponent, remain flexible and use cunning and surprise.[[/col]][[/i]]",False,,,,hv_TEXT_frontend_features.loc.tsv
 frontend_faction_leader_unique_features_localised_description_hv_frontend_ambush_attack,[[b]]Can ambush when attacking[[/b]]\\n\\n [[col:flavour]][[i]]This faction can ambush when attacking.[[/col]][[/i]] ,True,,,,hv_TEXT_frontend_features.loc.tsv
@@ -3612,6 +3875,22 @@ incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_banquet
 incidents_localised_description_3k_dlc07_child_emperor_incident_imperial_grace,The emperor thinks highly of you. His majesty has decided to gift you a small fortune in honour of your contributions to the state.,False,,,,ifo_text_TWEAK.loc.tsv
 incidents_localised_description_3k_dlc07_child_emperor_scripted_incident_political_scheme_bad,"Slander! A rival warlord is spreading malicious rumours at the imperial court, causing Emperor Xian to doubt our loyalty to the Han.",False,,,,ifo_text_TWEAK.loc.tsv
 incidents_localised_description_3k_dlc07_child_emperor_scripted_incident_political_scheme_good,"Perhaps out of admiration or to curry favour, a faction has put in a good word for you with the emperor. Talk of your exploits is is all that is on everyone's lips at the palace of late. ",False,,,,ifo_text_TWEAK.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_capitals,"The Eastern and Western Capitals, forever corrupted by sinister officials. Both must be saved and revitalised.",False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_five_tiger_generals,The pinnacles of unyielding loyalty and bravery to a revitalised Han.,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_jing_1,Not every strategy goes according to plan. One must always adapt to ensure survival and a chance to rebuild.,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_jing_2,"A stable foothold is a must. Xu may not have been the place for you, but Jing will surely be a spring board towards all directions.",False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_leader,"By his resolve to ensure peace in his time, Liu Bei must grow as a worthy warlord in this time of chaos to achieve such a path.",False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_memories,A return to the past when fun and carefree times were more prominent.,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_overcoming_fears,Hurdles must be overcome in order to ensure peace.,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_peach_garden,"This oath sworn by these three strangers binds them ever stronger than the bonds of blood. Now they are sworn forever as brothers, until death does them apart.",False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_pengcheng,Pengcheng holds one of the most esteemed temples. It must be rescued from the clutches of yellow turban rebels and ambitious warmongers.,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_shu_1,It is time for a distant descendant of the Liu to return home and revitalise the dying Han.,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_shu_2,"With Shu secured, the road to unity is getting ever closer.",False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_strategists,A leader not only should acquire abled strategists but also the willingness to listen to their counsel.,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_warriors_of_jing,"With this famed warriors from Jing, the bonds of unity of peace further strengthens.",False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_wives,Liu Bei's charisma can draw in more than one woman.,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_xu_1,You began as an individual without land to call home. Xu is a vast place with many friendly towards you.,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_xu_2,Securing Xu would be a major step towards your desire of unity.,False,,,,!!path_to_unity__.loc.tsv
 incidents_localised_description_3k_main_char_historical_xun_yu_disappointed_cao_cao,"Xun Yu openly criticized you for seeking power, saying you should be focusing on the restoration of Han dynasty. He even had the gall to say that because of your pursuit of power, you will never see a good end. \\n\\n You were furious, but you could not openly express it, since he was an old friend and a loyal servant.",False,,,,[dummy]__MTU_dummy.loc.tsv
 incidents_localised_description_3k_main_char_historical_xun_yu_join_cao_cao,"Xun Yu, a renowned strategist, has come to you to offer you his service. Many lords have offered him to join their side, but he rejected all the offers and decided to be a part of your ambition. You were thrilled to accept that someone so talented had come to you.",True,,,,[dummy]__MTU_dummy.loc.tsv
 incidents_localised_description_3k_mtu_global_event_cai_yong_death_incident_npc,"After Dong Zhou's death at the hands of his adopted son Lu Bu, it was observed that the notable scholar Cai Yong mourned his passing. Upon hearing this, Wang Yun ordered troops to capture him and for his execution. ""Cai Yong mourned as the tyrant lie dead! It's clear his loyalty lied with Dong Zhou! Treason!"" exclaimed Wang Yun, madness in his eyes.\\n",True,,,,[04]__MTU_events___Cai_family.loc.tsv
@@ -3621,6 +3900,7 @@ incidents_localised_description_3k_mtu_global_event_moh_cai_family_move_190_inci
 incidents_localised_description_3k_mtu_global_event_precognitive_dream_incident,"One lady in our faction dreams of the birth of her beautiful child last night.\\n\\n\\n\\n ""My Lord, I saw a twin-tailed comet last night as well. The dream may prove true.""\\n",True,,,,[04]__MTU_events___Cai_family.loc.tsv
 incidents_localised_description_3k_mtu_global_event_xiong_nu_kidnaps_cai_yan_incident_pc,"A surprise invasion is launched by the Xiongnu and your city is devastated. Many are wounded or captured during the assault. One of your military advisors informs you that Cai Yong's daughter, the last of his line, Cai Yan is among those captured by the barbarians. The Xiongnu chanyu Liu Bao has taken her and all the others back north with his horde.",True,,,,[04]__MTU_events___Cai_family.loc.tsv
 incidents_localised_description_3k_mtu_global_event_zhao_yun_becomes_zhenjun_general,"Over the years, Zhao Yun has served dependably and become well-known for his courage, honor, and supreme martial skill. To reward him, you hold a ceremony with all your generals and advisors in attendance.\\n\\n “You have served me well, Zilong, and for this service, I bestow upon you the title of General of Tiger’s Might, rank of Tiger General, and this finely crafted armor.”",True,,,,[04]__MTU_events__Common.loc.tsv
+incidents_localised_description_hv_dummy_hv_incident_liu_feng,"Wishing to preserve the Liu lineage, Liu Bei adopted the son of a righteous warrior as his own. Liu Feng is known for his courage and decisiveness, and his martial ability is beyond question. Now that he is part of the family, it may be time to entrust him with greater responsibility.",False,,,,hv_TEXT_events.loc.tsv
 incidents_localised_description_hv_event_cao_cao_qingzhou,"The yellow turban warband is crushed. Hailing from Qingzhou, the survivors offer their servitude. Cao Cao gathers them under his banner and dubs them Qingzhou Troops.",True,,,,hv_TEXT_events.loc.tsv
 incidents_localised_description_hv_event_coin_confuse_1,All economic activities have been hampered by the minting of a new coin. We have no choice but to wait for merchants to adjust to the new standard.,False,,,,hv_TEXT_events.loc.tsv
 incidents_localised_description_hv_event_coin_confuse_2,We've run into problems purchasing grain with the new coin. We have no choice but to wait for farmers to adjust to the new standard.,False,,,,hv_TEXT_events.loc.tsv
@@ -3687,6 +3967,22 @@ incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_banquet_resul
 incidents_localised_title_3k_dlc07_child_emperor_incident_imperial_grace,Imperial Favour: A Gift from the Emperor,False,incidents_localised_title_3k_dlc07_child_emperor_incident_high_favour_supply_money,天子宠信：天子恩赐,皇帝寵信：皇帝賜禮,ifo_text_TWEAK.loc.tsv
 incidents_localised_title_3k_dlc07_child_emperor_scripted_incident_political_scheme_bad,Political Maneuvering,False,,,,ifo_text_TWEAK.loc.tsv
 incidents_localised_title_3k_dlc07_child_emperor_scripted_incident_political_scheme_good,Political Maneuvering,False,,,,ifo_text_TWEAK.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_capitals,The Imperial Capitals,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_five_tiger_generals,Five Tiger Generals,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_jing_1,Migratory Maneuvre,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_jing_2,Stable Foothold,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_leader,Path to Unity,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_memories,Childhood Memories,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_overcoming_fears,Overcome Hurdles,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_peach_garden,Oath of the Peach Garden,False,achievements_title_TK_ACHIEVEMENT_FIGHT_BATTLE_WITH_LU_BEI_GUAN_YU_ZHANG_FEI_SAME_SIDE,桃园之誓,桃園三結義,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_pengcheng,Rescue the Temple,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_shu_1,Ancestral Homecoming,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_shu_2,Ancestral Heartlands,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_strategists,Grand Strategists,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_warriors_of_jing,Warriors of Jing,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_wives,Idealist's Love Life,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_xu_1,From Humble Beginnings,False,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_xu_2,Securing a Province,False,,,,!!path_to_unity__.loc.tsv
 incidents_localised_title_3k_main_char_historical_xun_yu_disappointed_cao_cao,Xun Yu's Opposition,False,,,,[dummy]__MTU_dummy.loc.tsv
 incidents_localised_title_3k_main_char_historical_xun_yu_join_cao_cao,Hegemon's Aide,True,ceo_nodes_title_3k_main_ceo_node_career_historical_xun_yu_01,王佐之才,王佐之才,[dummy]__MTU_dummy.loc.tsv
 incidents_localised_title_3k_mtu_global_event_cai_yong_death_incident_npc,A Remarkable Writer Laments ,True,,,,[04]__MTU_events___Cai_family.loc.tsv
@@ -3696,6 +3992,7 @@ incidents_localised_title_3k_mtu_global_event_moh_cai_family_move_190_incident,C
 incidents_localised_title_3k_mtu_global_event_precognitive_dream_incident,Precognitive Dream,True,,,,[04]__MTU_events___Cai_family.loc.tsv
 incidents_localised_title_3k_mtu_global_event_xiong_nu_kidnaps_cai_yan_incident_pc,Xiongnu's Invasion,True,,,,[04]__MTU_events___Cai_family.loc.tsv
 incidents_localised_title_3k_mtu_global_event_zhao_yun_becomes_zhenjun_general,Tiger General,True,ceo_nodes_title_3k_main_ceo_node_trait_physical_shu_tiger_general_01,五虎上将,五虎將,[04]__MTU_events__Common.loc.tsv
+incidents_localised_title_hv_dummy_hv_incident_liu_feng,Adopted Son,False,,,,hv_TEXT_events.loc.tsv
 incidents_localised_title_hv_event_cao_cao_qingzhou,Qingzhou Troops,True,,,,hv_TEXT_events.loc.tsv
 incidents_localised_title_hv_event_coin_confuse_1,The New Coin Causes Confusion!,False,,,,hv_TEXT_events.loc.tsv
 incidents_localised_title_hv_event_coin_confuse_2,The New Coin Causes Confusion!,False,,,,hv_TEXT_events.loc.tsv
@@ -4527,7 +4824,7 @@ ui_character_assignments_localised_title_hv_ui_info_assignment_replenishment_gar
 ui_character_assignments_localised_title_hv_ui_info_assignment_reserve_replenishment,Gathering Volunteers,True,,,,hv_TEXT_skills_additional.loc.tsv
 ui_character_assignments_localised_title_hv_ui_info_assignment_satisfaction_and_gdp,Court Management,True,,,,hv_TEXT_skills_additional.loc.tsv
 ui_character_assignments_localised_title_hv_ui_info_assignment_supervise_construction,Supervise Construction,True,campaign_localised_strings_string_3k_main_court_assignment_supervise_construction_title,督建,監管興造,hv_TEXT_skills_additional.loc.tsv
-ui_character_assignments_localised_title_ui_character_assignments_localised_description_hv_ui_info_assignment_surplus_markets,Surplus Markets,True,ui_character_assignments_localised_title_3k_main_assignment_ui_info_metal_surplus_markets,街市繁荣,販售盈餘,hv_TEXT_skills_additional.loc.tsv
+ui_character_assignments_localised_title_hv_ui_info_assignment_surplus_markets,Surplus Markets,True,ui_character_assignments_localised_title_3k_main_assignment_ui_info_metal_surplus_markets,街市繁荣,販售盈餘,hv_TEXT_skills_additional.loc.tsv
 ui_text_replacements_localised_text_3k_dlc07_hv_unit_northern_elite_2h_sword_infantry,Northern Veteran Zhanmajian Infantry,True,,,,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_3k_dlc07_unit_earth_northern_sabre_cavalry,Northern Sabre Cavalry,True,land_units_onscreen_name_3k_dlc07_unit_earth_northern_sabre_cavalry,北军持刀骑兵,北軍刀騎兵,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_3k_dlc07_unit_earth_northern_veteran_sabre_cavalry,Northern Veteran Cataphracts,True,,,,hv_TEXT_unit_text_replacements.loc.tsv
@@ -4543,12 +4840,79 @@ ui_text_replacements_localised_text_3k_dlc07_unit_wood_northern_ji_infantry,Nort
 ui_text_replacements_localised_text_3k_dlc07_unit_wood_northern_spear_guards,Northern Spearmen,True,,,,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_3k_dlc07_unit_wood_northern_veteran_ji_infantry,Northern Veteran Ji Infantry,True,land_units_onscreen_name_3k_dlc07_unit_wood_northern_veteran_ji_infantry,北军持戟宿卫,北軍老練戟兵,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_3k_dlc07_unit_wood_northern_veteran_spears,Northern Veteran Spears,True,land_units_onscreen_name_3k_dlc07_unit_wood_northern_veteran_spears,北军持矛宿卫,北軍老練長槍兵,hv_TEXT_unit_text_replacements.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_achieve_liu_bei_duel,Win 1 duel as Liu Bei,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_achieve_liu_bei_settlement,Capture 10 settlements with Liu Bei as commander,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_defeat_cao_cao,Defeat Cao Cao,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_defeat_lu_bu,Defeat Lu Bu,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_recruit_high_level_gongsun_zan,"At the start of your turn, have Gongsun Zan be rank 8 or higher",False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_recruit_high_level_guan_yu,"At the start of your turn, have Guan Yu be rank 5 or higher",False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_recruit_high_level_huang_zhong,"At the start of your turn, have Huang Zhong be rank 8 or higher",False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_recruit_high_level_lady_mi,"At the start of your turn, have Lady Mi be rank 8 or higher",False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_recruit_high_level_lady_sun,"At the start of your turn, have Sun Ren be rank 8 or higher",False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_recruit_high_level_liu_bei,"At the start of your turn, have Liu Bei be rank 5 or higher",False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_recruit_high_level_lu_zhi,"At the start of your turn, have Lu Zhi be rank 8 or higher",False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_recruit_high_level_ma_chao,"At the start of your turn, have Ma Chao be rank 8 or higher",False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_recruit_high_level_pang_tong,"At the start of your turn, have Pang Tong be rank 8 or higher",False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_recruit_high_level_wei_yan,"At the start of your turn, have Wei Yan be rank 8 or higher",False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_recruit_high_level_zhang_fei,"At the start of your turn, have Zhang Fei be rank 5 or higher",False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_recruit_high_level_zhao_yun,"At the start of your turn, have Zhao Yun be rank 8 or higher",False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_recruit_high_level_zhuge_liang,"At the start of your turn, have Zhuge Liang be rank 8 or higher",False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_ba_capital,Capture or have at the start of your turn Jiangzhou,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_ba_farm,Capture or have at the start of your turn Danqu,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_badong_capital,Capture or have at the start of your turn Yong'an,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_badong_iron_mine,Capture or have at the start of your turn Quren,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_badong_lumber_yard,Capture or have at the start of your turn Linyuan,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_baxi_capital,Capture or have at the start of your turn Langzhong,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_baxi_farm,Capture or have at the start of your turn Zitong,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_baxi_tool_maker,Capture or have at the start of your turn Hanchang,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_donghai_capital,Capture or have at the start of your turn Tanxian,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_donghai_fishing_port,Capture or have at the start of your turn Haixi,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_guangling_capital,Capture or have at the start of your turn Huaiyin,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_guangling_farm,Capture or have at the start of your turn Gaoyou,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_guangling_trade_port,Capture or have at the start of your turn Jiangdu,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_jiangxia_capital,Capture or have at the start of your turn Xiling,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_jiangxia_farm,Capture or have at the start of your turn Xiyang,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_jingzhao_capital,Capture or have at the start of your turn Chang'an,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_jingzhao_jade_mine,Capture or have at the start of your turn Lantian,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_langye_capital,Capture or have at the start of your turn Dongwu,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_langye_fishing_port,Capture or have at the start of your turn Buji,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_langye_lumber_yard,Capture or have at the start of your turn Kaiyang,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_luoyang_capital,Capture or have at the start of your turn Luoyang,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_luoyang_trade_port,Capture or have at the start of your turn Hongnong,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_nan_capital,Capture or have at the start of your turn Jiangling,False,ui_text_replacements_localised_text_3k_dlc05_ceo_sun_ce_ambition_jiangling_capital_desc,在回合开始时，占据或拥有江陵,佔領江陵，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_nan_livestock,Capture or have at the start of your turn Huarong,False,ui_text_replacements_localised_text_3k_dlc05_ceo_sun_ce_ambition_jiangling_livestock_desc,在回合开始时，占据或拥有华容,佔領華容，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_pengcheng_capital,Capture or have at the start of your turn Pengcheng,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_pengcheng_temple,Capture or have at the start of your turn Luxian,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_shu_armour_craftsmen,Capture or have at the start of your turn Hanjia,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_shu_capital,Capture or have at the start of your turn Chengdu,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_shu_farm,Capture or have at the start of your turn Luocheng,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_shu_salt_mine,Capture or have at the start of your turn Zizhong,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_xiangyang_capital,Capture or have at the start of your turn Xiangyang,False,ui_text_replacements_localised_text_3k_dlc05_ceo_sun_ce_ambition_xiangyang_capital_desc,在回合开始时，占据或拥有襄阳,佔領襄陽，或在回合開始時擁有該地,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_xiangyang_tool_maker,Capture or have at the start of your turn Linju,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_xiapi_capital,Capture or have at the start of your turn Xiapi,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_secure_xiapi_farm,Capture or have at the start of your turn Xuexian,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_startpos_label_cao_cao_header,Cao Cao,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_startpos_label_gongsun_zan_header,Gongsun Zan,False,factions_screen_adjective_3k_main_faction_gongsun_zan,公孙瓒,公孫瓚,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_startpos_label_guan_yu_header,Guan Yu,False,land_units_onscreen_name_3k_main_general_wood_guan_yu,关羽,關羽,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_startpos_label_huang_zhong_header,Huang Zhong,False,land_units_onscreen_name_3k_main_general_metal_huang_zhong,黄忠,黃忠,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_startpos_label_lady_mi_header,Lady Mi,False,names_name_173475566,糜夫人,麋夫人,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_startpos_label_lady_sun_header,Sun Ren,False,land_units_onscreen_name_3k_main_general_fire_lady_sun,孙仁,孫仁,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_startpos_label_liu_bei_header,Liu Bei,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_startpos_label_lu_bu_header,Lu Bu,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_startpos_label_lu_zhi_header,Lu Zhi,False,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_startpos_label_ma_chao_header,Ma Chao,False,land_units_onscreen_name_3k_main_general_fire_ma_chao,马超,馬超,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_startpos_label_pang_tong_header,Pang Tong,False,land_units_onscreen_name_3k_cp01_general_water_pang_tong,庞统,龐統,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_startpos_label_wei_yan_header,Wei Yan,False,land_units_onscreen_name_3k_dlc06_general_wood_wei_yan,魏延,魏延,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_startpos_label_zhang_fei_header,Zhang Fei,False,land_units_onscreen_name_3k_main_general_fire_zhang_fei,张飞,張飛,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_startpos_label_zhao_yun_header,Zhao Yun,False,land_units_onscreen_name_3k_main_general_metal_zhao_yun,赵云,趙雲,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_startpos_label_zhuge_liang_header,Zhuge Liang,False,,,,!!path_to_unity__.loc.tsv
 ui_text_replacements_localised_text_emperor_description_kong_rong,"Once a governor faction leader has earned enough prestige to be named king, the three strongest warlords will proclaim themselves emperor, which will make their capitals seats of great power.\\n\\n[[b]]Victory condition[[/b]]: Unite China by bringing all emperor seats under your control and by owning {{tr:victory_condition_regions_count}} {{tr:map_regions}}.",False,,,,!hv_TEXT_system.loc.tsv
 ui_text_replacements_localised_text_emperor_description_liu_biao,"Once a governor faction leader has earned enough prestige to be named king, the three strongest warlords will proclaim themselves emperor, which will make their capitals seats of great power.\\n\\n[[b]]Victory condition[[/b]]: Unite China by bringing all emperor seats under your control and by owning {{tr:victory_condition_regions_count}} {{tr:map_regions}}.",False,,,,!hv_TEXT_system.loc.tsv
 ui_text_replacements_localised_text_emperor_description_ma_teng,"Once a governor faction leader has earned enough prestige to be named king, the three strongest warlords will proclaim themselves emperor, which will make their capitals seats of great power.\\n\\n[[b]]Victory condition[[/b]]: Unite China by bringing all emperor seats under your control and by owning {{tr:victory_condition_regions_count}} {{tr:map_regions}}.",False,,,,!hv_TEXT_system.loc.tsv
 ui_text_replacements_localised_text_emperor_description_mp_kong_rong,"Once a governor faction leader has earned enough prestige to be named king, the three strongest warlords will proclaim themselves emperor, which will make their capitals seats of great power.\\n\\n[[b]]Victory Condition[[/b]]\\nUnite China by bringing all emperor seats under your control.\\n\\n[[b]]Victory Types[[/b]]\\nStandard: become emperor and eliminate all other emperors by taking their seats of power.\\n\\nCo-operative: combine your strength by signing a shared mandate diplomatic deal.\\n\\nHead-to-Head: destroy the other player, or compete with one another to be the first to meet the victory conditions.",False,,,,!hv_TEXT_system.loc.tsv
 ui_text_replacements_localised_text_emperor_description_mp_liu_biao,"Once a governor faction leader has earned enough prestige to be named king, the three strongest warlords will proclaim themselves emperor, which will make their capitals seats of great power.\\n\\n[[b]]Victory Condition[[/b]]\\nUnite China by bringing all emperor seats under your control.\\n\\n[[b]]Victory Types[[/b]]\\nStandard: become emperor and eliminate all other emperors by taking their seats of power.\\n\\nCo-operative: combine your strength by signing a shared mandate diplomatic deal.\\n\\nHead-to-Head: destroy the other player, or compete with one another to be the first to meet the victory conditions.",False,,,,!hv_TEXT_system.loc.tsv
 ui_text_replacements_localised_text_emperor_description_mp_ma_teng,"Once a governor faction leader has earned enough prestige to be named king, the three strongest warlords will proclaim themselves emperor, which will make their capitals seats of great power.\\n\\n[[b]]Victory Condition[[/b]]\\nUnite China by bringing all emperor seats under your control.\\n\\n[[b]]Victory Types[[/b]]\\nStandard: become emperor and eliminate all other emperors by taking their seats of power.\\n\\nCo-operative: combine your strength by signing a shared mandate diplomatic deal.\\n\\nHead-to-Head: destroy the other player, or compete with one another to be the first to meet the victory conditions.",False,,,,!hv_TEXT_system.loc.tsv
+ui_text_replacements_localised_text_faction_ancillaries_button_liu_bei,Path to Unity,False,,,,!!path_to_unity__.loc.tsv
 ui_text_replacements_localised_text_hv_tr_earth,[[img:ui/skins/default/character_bust_element_earth.png]][[/img]] Earth,True,,,,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_hv_tr_fire,[[img:ui/skins/default/character_bust_element_fire.png]][[/img]] Fire,True,,,,hv_TEXT_unit_text_replacements.loc.tsv
 ui_text_replacements_localised_text_hv_tr_metal,[[img:ui/skins/default/character_bust_element_metal.png]][[/img]] Metal,True,,,,hv_TEXT_unit_text_replacements.loc.tsv
@@ -5906,6 +6270,7 @@ uied_component_texts_localised_string_bullet_point_1_NewState_Text_3388e0c7,"If 
 uied_component_texts_localised_string_bullet_point_2_NewState_Text_54004a,"Each character in Sun Ce's faction grants him shared expertise points once they reach rank 5. At ranks 9, 12 and 15 they generate one extra point respectively.",False,,,,hv_TEXT_etc.loc.tsv
 uied_component_texts_localised_string_bullet_point_2_NewState_Text_54004aa,"Each character in Sun Ce's faction grants him shared expertise points once they reach rank 5. At ranks 9, 12 and 15 they generate one extra point respectively.",False,,,,hv_TEXT_etc.loc.tsv
 uied_component_texts_localised_string_bullet_point_2_NewState_Text_a4e16b75,"Unlocked in 195 CE. Once this is unlocked, you can use imperial favour to preform [[b]]imperial decrees[[/b]]",False,,,,ifo_text_TWEAK.loc.tsv
+uied_component_texts_localised_string_button_faction_ancillaries_list_Tooltip_1b0021,[[b]]Path to Unity[[/b]],True,,,,!!path_to_unity__.loc.tsv
 uied_component_texts_localised_string_button_replace_unit_Tooltip_1b8282,Unit List,True,,,,!hv_TEXT_system.loc.tsv
 uied_component_texts_localised_string_label_text_false_Text_2a000e,Win before [[b]][[{{CcoBattleDuel:FormatTime(TargetTimeRemaining)}}]][[/b]],False,,,,hv_TEXT_etc.loc.tsv
 uied_component_texts_localised_string_pre_unlock_active_Text_c2076aa9,Unlocked when Emperor Xian comes of age in 195 CE,False,,,,ifo_text_TWEAK.loc.tsv

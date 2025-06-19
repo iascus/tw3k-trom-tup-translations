@@ -236,3 +236,5 @@ incidents_localised_description_hv_incident_cai_yan_dlc07	Your messengers report
 incidents_localised_title_hv_incident_ytr_resurrection	The Yellow Turban Rises Again	true
 incidents_localised_description_hv_incident_ytr_resurrection	Once again the flames begin to burn. Now we are ready to destroy the Han dynasty. Our forces are strong, and the old comrades who had to live in hiding will also appear and respond to us. Let's make sure that Zhang Jue's unfulfilled dream come true.	true
 campaign_payload_ui_details_description_hv_incident_ytr_resurrection	Thousands of comrades across China will rise against oppression.	true
+incidents_localised_description_hv_dummy_hv_incident_liu_feng	Wishing to preserve the Liu lineage, Liu Bei adopted the son of a righteous warrior as his own. Liu Feng is known for his courage and decisiveness, and his martial ability is beyond question. Now that he is part of the family, it may be time to entrust him with greater responsibility.	false
+incidents_localised_title_hv_dummy_hv_incident_liu_feng	Adopted Son	false

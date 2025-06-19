@@ -52,3 +52,26 @@ effects_description_hv_effect_dummy_burning_mace	Once equipped, this item can't 
 		true
 effects_description_hv_effect_dummy_xiliang_army_unlock_elite	Unlocks Xiliang Army Elite units [[col:scope_description]](own retinue)[[/col]]	true
 effects_description_hv_effect_dummy_northern_army_unlock_elite	Unlocks Northern Army Elite units [[col:scope_description]](own retinue)[[/col]]	true
+		false
+effects_description_hv_dummy_effect_northern_army_officer	Gain Colonel of the Northern Army for each objective completed	true
+effects_description_hv_dummy_effect_unlock_all_dragon_units	Dragon units for recruitment: %+n	true
+effects_description_hv_effect_dummy_unlock_buqu_of_the_left	Unlocks unit: {{tr:hv_unit_buqu_of_the_left}}	true
+effects_description_hv_effect_dummy_unlock_oath	Unlocks unit: {{tr:hv_unit_buqu_of_the_left}}	true
+effects_description_hv_effect_dummy_unlock_dan_yang_archers	Unlocks unit: {{tr:hv_unit_dan_yang_archers}}	true
+effects_description_hv_effect_dummy_unlock_dan_yang_infantry	Unlocks unit: {{tr:hv_unit_dan_yang_infantry}}	true
+effects_description_hv_effect_dummy_unlock_dan_yang_spearmen	Unlocks unit: {{tr:hv_unit_dan_yang_spearmen}}	true
+effects_description_hv_effect_dummy_unlock_dongzhoubing	Unlocks unit: Dongzhoubing units	true
+effects_description_hv_effect_dummy_unlock_eight_talent_buqu	Unlocks unit: {{tr:hv_unit_ji_guards_of_the_eight_talents}}	true
+effects_description_hv_effect_dummy_unlock_eight_talent_elite	Unlocks unit: {{tr:hv_unit_sword_guards_of_the_eight_talents}}	true
+effects_description_hv_effect_dummy_unlock_yuan_rong	Unlocks unit: {{tr:hv_unit_yuan_rong_crossbowmen}}	true
+effects_description_hv_effect_dummy_fellows_of_the_oath_unlock	Unlocks unit: {{tr:hv_unit_fellows_of_the_oath}}	true
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_buqu_of_the_left	Path To Unity	true
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_dan_yang	Path To Unity	true
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_danyang_buqu	Path To Unity	true
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_danyang_elite	Path To Unity	true
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_dongzhoubing	Path To Unity	true
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_dragons	Path To Unity	true
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_eight_talent_buqu	Path To Unity	true
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_eight_talent_elite	Path To Unity	true
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_elite_oath	Path To Unity	true
+ceo_nodes_title_hv_ceo_node_faction_rank_unlock_yuan_rong	Path To Unity	true

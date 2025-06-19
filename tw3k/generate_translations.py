@@ -295,12 +295,24 @@ class LookupBySkill(LookupFile):
     step_no = 37
 
 
-class LookupByCharacter(LookupFile):
+class LookupByCharacter(LookupFilePlusVanilla):
     step_no = 38
+    vanilla_files = [
+        'factions',
+        'land_units',
+    ]
+
+
+class LookupByRegion(LookupFilePlusVanilla):
+    step_no = 39
+    vanilla_files = [
+        'campaign_battle_presets',
+        'regions',
+    ]
 
 
 class LookupByTextFragment(LookupFile):
-    step_no = 39
+    step_no = 40
 
 
 class VanillaTranslations(Step):
@@ -334,6 +346,7 @@ class MapByPatternZhcn(Step):
         'lookup_by_unit_type': LookupByUnitType,
         'lookup_by_skill': LookupBySkill,
         'lookup_by_character': LookupByCharacter,
+        'lookup_by_region': LookupByRegion,
         'lookup_by_text_fragment': LookupByTextFragment,
     }
 
@@ -366,6 +379,7 @@ class MapByPatternZhcn(Step):
         lookup_by_unit_name = self._get_lookup_dict(self.lookup_by_unit_name)
         lookup_by_skill = self._get_lookup_dict(self.lookup_by_skill)
         lookup_by_character = self._get_lookup_dict(self.lookup_by_character)
+        lookup_by_region = self._get_lookup_dict(self.lookup_by_region)
         lookup_by_text_vanilla = self.vanilla_translations.data[['Text', self.lang_col]].dropna().set_index('Text')[self.lang_col].to_dict()
         lookup_by_text_vanilla.update(lookup_by_text.to_dict()['MappedByText'])
         lookup_by_text = lookup_by_text_vanilla
@@ -393,6 +407,7 @@ class MapByPatternZhcn(Step):
                     found = self._lookup(found, matched, 'unit_name', lookup_by_unit_name)
                     found = self._lookup(found, matched, 'skill', lookup_by_skill)
                     found = self._lookup(found, matched, 'character', lookup_by_character)
+                    found = self._lookup(found, matched, 'region', lookup_by_region)
                     if found.keys() == matched.keys():
                         data.loc[text, 'MappedByPattern'] = replacement.format(**found)
 
@@ -695,6 +710,7 @@ def main():
             LookupByUnitType,
             LookupBySkill,
             LookupByCharacter,
+            LookupByRegion,
             LookupByTextFragment,
             VanillaTranslations,
             MapByPatternZhcn,

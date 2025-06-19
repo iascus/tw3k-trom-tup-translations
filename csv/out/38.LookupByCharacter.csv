@@ -1,72 +1,2720 @@
-eng,zh-cn,zh-tw
-Cai Yan,蔡琰,蔡琰
-Cao Ang,曹昂,曹昂
-Cao Cao,曹操,曹操
-Chen Deng,陈登,陳登
-Chunyu Qiong,淳于琼,淳于瓊
-Diao Chan,貂蝉,貂蟬
-Dong Bai,董白,董白
-Dong Min,董旻,董旻
-Dong Zhuo,董卓,董卓
-Fa Zheng,法正,法正
-Gao Gan,高干,高幹
-Guo Si,郭汜,郭汜
-Hou Jinting,侯氏,侯氏
-Hua Lanli,华氏,華氏
-Hua Xin,华歆,華歆
-Ji Ling,纪灵,纪灵
-Jian Yong,简雍,簡雍
-Jiang Qin,蒋钦,蔣欽
-King Duosi [[img:unit_elephant]][[/img]],朵思大王[[img:unit_elephant]][[/img]],朵思大王[[img:unit_elephant]][[/img]]
-King Meng Huo [[img:unit_elephant]][[/img]],孟获大王[[img:unit_elephant]][[/img]],孟獲大王[[img:unit_elephant]][[/img]]
-King Mulu [[img:unit_elephant]][[/img]],木鹿大王[[img:unit_elephant]][[/img]],木鹿大王[[img:unit_elephant]][[/img]]
-King Shamoke [[img:unit_elephant]][[/img]],沙摩柯大王[[img:unit_elephant]][[/img]],沙摩柯大王[[img:unit_elephant]][[/img]]
-King Wutugu [[img:unit_elephant]][[/img]],兀突骨大王[[img:unit_elephant]][[/img]],兀突骨大王[[img:unit_elephant]][[/img]]
-Lady Bian,卞氏,卞氏
-Lady Cai,蔡氏,蔡氏
-Lady Dong,董氏,董氏
-Lady Du,杜氏,杜氏
-Lady Feng,冯氏,馮氏
-Lady Liu,刘氏,劉氏
-Lady Trieu [[img:unit_elephant]][[/img]],赵妪[[img:unit_elephant]][[/img]],趙嫗[[img:unit_elephant]][[/img]]
-Lady Trieu,赵妪,趙嫗
-Lady Wu,吴氏,吳氏
-Lady Zhurong [[img:unit_elephant]][[/img]],祝融夫人[[img:unit_elephant]][[/img]],祝融夫人[[img:unit_elephant]][[/img]]
-Liu Bei,刘备,劉備
-Liu Biao,刘表,劉表
-Liu Feng,刘封,劉封
-Liu Zhang,刘璋,劉璋
-Lu Bu,吕布,呂布
-Lu Su,鲁肃,魯肅
-Lu Zheng,陆政,陸政
-Luo Jun,骆俊,駱俊
-Lü Ji,吕姬,呂姬
-Ma Teng,马腾,馬騰
-Ma Yunlu,马云禄,馬雲騄
-Pang De,庞德,龐德
-Qu Gong,瞿恭,瞿恭
-Shen Pei,审配,審配
-Shi Xie,士燮,士燮
-Sima Yi,司马懿,司馬懿
-Sun Ce,孙策,孫策
-Sun Jian,孙坚,孫堅
-Tao Qian,陶谦,陶謙
-Wen Chou,文丑,文醜
-Wu Anguo,武安国,武安囯
-Yan Liang,颜良,顏良
-Yan Xiang,阎象,閻象
-Yijian Liting,伊健丽婷,伊健麗婷
-Yuan Anyang,袁氏,袁氏
-Yuan Shang,袁尚,袁尚
-Yuan Shao,袁绍,袁紹
-Yuan Tan,袁谭,袁譚
-Yuan Yao,袁耀,袁耀
-Zang Ba,臧霸,臧霸
-Zhang Bang,张方,張方
-Zhang Fang,张方,張方
-Zhang Xueer,张氏,張氏
-Zhang Xun,张勋,張勳
-Zheng Lan,郑兰,鄭蘭
-Zhou Yu,周瑜,周瑜
-Zhuge Liang,诸葛亮,諸葛亮
-Zou Yuan,邹氏,鄒氏
+eng,zh-cn,zh-tw,Source,Duplicated
+Ahuinan,阿会喃,阿會喃,Vanilla,False
+Ahuinan Renegades,阿会喃乱军,阿會喃叛黨,Vanilla,False
+Ahuinan Separatists,阿会喃叛党,阿會喃獨立勢力,Vanilla,False
+Ahuinan Separatists Renegades,阿会喃叛党乱军,阿會喃獨立勢力叛黨,Vanilla,False
+Anding Commandery,安定豪强,安定郡,Vanilla,False
+Anding Commandery Renegades,安定豪强乱军,安定郡叛黨,Vanilla,False
+Anding Separatist Renegades,安定叛党乱军,安定獨立勢力叛黨,Vanilla,False
+Anding Separatists,安定叛党,安定獨立勢力,Vanilla,False
+Anding Separatists Renegades,安定叛党乱军,安定獨立勢力叛黨,Vanilla,False
+Anping,安平,安平,Vanilla,False
+Anping Commandery,安平豪强,安平郡,Vanilla,False
+Anping Commandery Renegades,安平豪强乱军,安平郡叛黨,Vanilla,False
+Anping Commandery Separatists,安平豪强叛党,安平郡獨立勢力,Vanilla,False
+Anping Commandery Separatists Renegades,安平豪强叛党乱军,安平郡獨立勢力叛黨,Vanilla,False
+Anping Separatist Renegades,安平叛党乱军,安平獨立勢力叛黨,Vanilla,False
+Anping Separatists,安平叛党,安平獨立勢力,Vanilla,False
+Archer Captain,弓兵伯长,弓兵校尉,Vanilla,False
+Archer Defectors,变节弓手,持弓叛逃兵,Vanilla,False
+Archer Gang,射手队,弓兵團,Vanilla,False
+Archer Militia,弓箭民兵,義勇弓兵,Vanilla,False
+Archers,弓箭手,弓兵,Vanilla,False
+Archers of Jing,荆州弓手,荊州弓兵,Vanilla,False
+Archery Masters,神箭团,箭術高手,Vanilla,False
+Arm of the Supreme Peace,太平铁臂军,太平鐵臂軍,Vanilla,False
+Ascetics of the Way,天道苦行者,苦修道士,Vanilla,False
+Axe Band,持斧战团,斧兵團,Vanilla,False
+Axe Throwers,飞斧兵,飛斧手,Vanilla,False
+Azure Dragons,青龙军,蒼龍軍,Vanilla,False
+Ba,巴郡,巴,Vanilla,False
+Ba Commandery,巴郡豪强,巴郡,Vanilla,False
+Ba Commandery Renegades,巴郡豪强乱军,巴郡叛黨,Vanilla,False
+Ba Commandery Separatists,巴郡豪强叛党,巴郡獨立勢力,Vanilla,False
+Ba Commandery Separatists Renegades,巴郡豪强叛党乱军,巴郡獨立勢力叛黨,Vanilla,False
+Ba Separatists,巴郡叛党,巴獨立勢力,Vanilla,False
+Badong,巴东,巴東,Vanilla,False
+Badong Commandery,巴东豪强,巴東郡,Vanilla,False
+Badong Commandery Renegades,巴东豪强乱军,巴東郡叛黨,Vanilla,False
+Badong Separatist Renegades,巴东叛党乱军,巴東獨立勢力叛黨,Vanilla,False
+Badong Separatists,巴东叛党,巴東獨立勢力,Vanilla,False
+Badong Separatists Renegades,巴东叛党乱军,巴東獨立勢力叛黨,Vanilla,False
+Bandit Gang,山贼团,盜賊團,Vanilla,False
+Bandit Hunters,山贼猎人,盜賊獵手,Vanilla,False
+Bandit Marauders,山贼劫匪,盜賊掠奪者,Vanilla,False
+Bandit Raiders,山贼劫掠者,盜賊劫匪,Vanilla,False
+Bandit Warriors,山贼勇士,盜賊兵,Vanilla,False
+Baxi Commandery,巴西豪强,巴西郡,Vanilla,False
+Baxi Commandery Renegades,巴西豪强乱军,巴西郡叛黨,Vanilla,False
+Baxi Separatist Renegades,巴西叛党乱军,巴西獨立勢力叛黨,Vanilla,False
+Baxi Separatists,巴西叛党,巴西獨立勢力,Vanilla,False
+Baxi Separatists Renegades,巴西叛党乱军,巴西獨立勢力叛黨,Vanilla,False
+Beihai,北海,北海,Vanilla,False
+Beihai Commandery,北海豪强,北海郡,Vanilla,False
+Beihai Commandery Renegades,北海豪强乱军,北海郡叛黨,Vanilla,False
+Beihai Commandery Separatists,北海豪强叛党,北海郡獨立勢力,Vanilla,False
+Beihai Commandery Separatists Renegades,北海豪强叛党乱军,北海郡獨立勢力叛黨,Vanilla,False
+Beihai Separatist Renegades,北海叛党乱军,北海獨立勢力叛黨,Vanilla,False
+Beihai Separatists,北海叛党,北海獨立勢力,Vanilla,False
+Bian Zhang,边章,邊章,Vanilla,False
+Bian Zhang Renegades,边章乱军,邊章叛黨,Vanilla,False
+Bian Zhang Separatist Renegades,边章叛党乱军,邊章獨立勢力叛黨,Vanilla,False
+Bian Zhang Separatists,边章叛党,邊章獨立勢力,Vanilla,False
+Bing,并,并,Vanilla,False
+Bing Separatists,并州叛党,并獨立勢力,Vanilla,False
+Black Mountain Hunters,黑山猎手,黑山獵人,Vanilla,False
+Black Mountain Marauders,黑山劫匪,黑山掠奪者,Vanilla,False
+Black Mountain Outlaws,黑山贼徒,黑山匪徒,Vanilla,False
+Bohai Commandery,勃海豪强,渤海郡,Vanilla,False
+Bohai Commandery Renegades,勃海豪强乱军,渤海郡叛黨,Vanilla,False
+Bohai Separatist Renegades,勃海叛党乱军,渤海獨立勢力叛黨,Vanilla,False
+Bohai Separatists,勃海叛党,渤海獨立勢力,Vanilla,False
+Bohai Separatists Renegades,勃海叛党乱军,渤海獨立勢力叛黨,Vanilla,False
+Bringers of Peace,布和军,安良軍,Vanilla,False
+Bringers of Righteousness,布义军,正道使者,Vanilla,False
+Cai,蔡氏,蔡,Vanilla,False
+Cai Mao,蔡瑁,蔡瑁,Vanilla,False
+Cai Mao Renegades,蔡瑁乱军,蔡瑁叛黨,Vanilla,False
+Cai Mao Separatists Renegades,蔡瑁叛党乱军,蔡瑁獨立勢力叛黨,Vanilla,False
+Cai Separatists,蔡氏叛党,蔡獨立勢力,Vanilla,False
+Cai Yan,蔡琰,蔡琰,Lookup,False
+Camp Crushers,陷阵死士,破寨軍,Vanilla,False
+Cangwu,苍梧,蒼梧,Vanilla,False
+Cangwu Commandery,苍梧豪强,蒼梧郡,Vanilla,False
+Cangwu Commandery Renegades,苍梧豪强乱军,蒼梧郡叛黨,Vanilla,False
+Cangwu Commandery Separatists,苍梧豪强叛党,蒼梧郡獨立勢力,Vanilla,False
+Cangwu Commandery Separatists Renegades,苍梧豪强叛党乱军,蒼梧郡獨立勢力叛黨,Vanilla,False
+Cangwu Separatist Renegades,苍梧叛党乱军,蒼梧獨立勢力叛黨,Vanilla,False
+Cangwu Separatists,苍梧叛党,蒼梧獨立勢力,Vanilla,False
+Cao Ang,曹昂,曹昂,Lookup,False
+Cao Cao,曹操,曹操,Vanilla,False
+Cao Cao Renegades,曹操乱军,曹操叛黨,Vanilla,False
+Cao Cao Separatists,曹操叛党,曹操獨立勢力,Vanilla,False
+Cao Cao Separatists Renegades,曹操叛党乱军,曹操獨立勢力叛黨,Vanilla,False
+Cao Pi,曹丕,曹丕,Vanilla,False
+Cao Ren,曹仁,曹仁,Vanilla,False
+Cao Song,曹嵩,曹嵩,Vanilla,False
+Cao Song Renegades,曹嵩乱军,曹嵩叛黨,Vanilla,False
+Cao Song Separatist Renegades,曹嵩叛党乱军,曹嵩獨立勢力叛黨,Vanilla,False
+Cao Song Separatists,曹嵩叛党,曹嵩獨立勢力,Vanilla,False
+Cataphracts,铁骑,鐵甲騎兵,Vanilla,False
+Changsha Commandery,长沙豪强,長沙郡,Vanilla,False
+Changsha Commandery Renegades,长沙豪强乱军,長沙郡叛黨,Vanilla,False
+Changsha Commandery Separatists,长沙豪强叛党,長沙郡獨立勢力,Vanilla,False
+Changsha Commandery Separatists Renegades,长沙豪强叛党乱军,長沙郡獨立勢力叛黨,Vanilla,False
+Changsha Separatist Renegades,长沙叛党乱军,長沙獨立勢力叛黨,Vanilla,False
+Changsha Separatists,长沙叛党,長沙獨立勢力,Vanilla,False
+Chanters,诵经团,念咒班,Vanilla,False
+Chao,巢,巢,Vanilla,False
+Chao Separatists,巢叛党,巢獨立勢力,Vanilla,False
+Chen,陈,陳,Vanilla,False
+Chen Commandery,陈郡豪强,陳郡,Vanilla,False
+Chen Commandery Renegades,陈郡豪强乱军,陳郡叛黨,Vanilla,False
+Chen Commandery Separatists,陈郡豪强叛党,陳郡獨立勢力,Vanilla,False
+Chen Commandery Separatists Renegades,陈郡豪强叛党乱军,陳郡獨立勢力叛黨,Vanilla,False
+Chen Deng,陈登,陳登,Vanilla,False
+Chen Deng Renegades,陈登乱军,陳登叛黨,Vanilla,False
+Chen Deng Separatist Renegades,陈登叛党乱军,陳登獨立勢力叛黨,Vanilla,False
+Chen Deng Separatists,陈登叛党,陳登獨立勢力,Vanilla,False
+Chen Gong,陈宫,陳宮,Vanilla,False
+Chen Gui,陈珪,陳珪,Vanilla,False
+Chen Gui Renegades,陈珪乱军,陳珪叛黨,Vanilla,False
+Chen Gui Separatist Renegades,陈珪叛党乱军,陳珪獨立勢力叛黨,Vanilla,False
+Chen Gui Separatists,陈珪叛党,陳珪獨立勢力,Vanilla,False
+Chen Peacekeepers,陈郡泰平卫士,陳國衛平軍,Vanilla,False
+Chen Royal Guard,陈郡羽林军,陳國親軍,Vanilla,False
+Chen Separatists,陈叛党,陳獨立勢力,Vanilla,False
+Cheng Pu,程普,程普,Vanilla,False
+Chenjun Commandery,陈郡豪强,陳郡,Vanilla,False
+Chenjun Commandery Renegades,陈郡豪强乱军,陳郡叛黨,Vanilla,False
+Chenjun Separatist Renegades,陈郡叛党乱军,陳郡獨立勢力叛黨,Vanilla,False
+Chenjun Separatists,陈郡叛党,陳郡獨立勢力,Vanilla,False
+Chosen of the Eight Immortals,八公神兵,八仙傳人,Vanilla,False
+Chu,楚,楚,Vanilla,False
+Chu Gong,褚贡,褚貢,Vanilla,False
+Chu Gong Renegades,褚贡乱军,褚貢叛黨,Vanilla,False
+Chu Gong Separatist Renegades,褚贡叛党乱军,褚貢獨立勢力叛黨,Vanilla,False
+Chu Gong Separatists,褚贡叛党,褚貢獨立勢力,Vanilla,False
+Chu Infantry,楚国步兵,楚國步兵,Vanilla,False
+Chu Separatists,楚叛党,楚獨立勢力,Vanilla,False
+Chu Spearmen,楚国矛兵,楚國長槍兵,Vanilla,False
+Chunyu Qiong,淳于琼,淳于瓊,Lookup,False
+Civilian,百姓,百姓,Vanilla,False
+Crossbowmen,弩兵,弩兵,Vanilla,False
+Da Qiao,大乔,大喬,Vanilla,False
+Dai,代郡,代,Vanilla,False
+Dai Separatists,代叛党,代獨立勢力,Vanilla,False
+Daijun Commandery,代郡豪强,代郡,Vanilla,False
+Daijun Commandery Renegades,代郡豪强乱军,代郡叛黨,Vanilla,False
+Daijun Separatist Renegades,代郡叛党乱军,代郡獨立勢力叛黨,Vanilla,False
+Daijun Separatists,代郡叛党,代郡獨立勢力,Vanilla,False
+Daijun Separatists Renegades,代郡叛党乱军,代郡獨立勢力叛黨,Vanilla,False
+Danyang,丹阳,丹陽,Vanilla,False
+Danyang Commandery,丹阳豪强,丹陽郡,Vanilla,False
+Danyang Commandery Renegades,丹阳豪强乱军,丹陽郡叛黨,Vanilla,False
+Danyang Separatists,丹阳叛党,丹陽獨立勢力,Vanilla,False
+Danyang Separatists Renegades,丹阳叛党乱军,丹陽獨立勢力叛黨,Vanilla,False
+Dao Infantry Captain,持刀伯长,持刀步兵校尉,Vanilla,False
+Dao Swordguard Cavalry,宿卫刀骑兵,持刀劍衛騎兵,Vanilla,False
+Dao Swordguards,持刀宿卫,持刀劍衛,Vanilla,False
+Defenders of Earth,坤地护军,后土衛,Vanilla,False
+Defenders of Hebei,河北卫军,冀州衛士,Vanilla,False
+Defenders of the Empire,戍国卫士,衛國軍,Vanilla,False
+Destroyers of Treachery,平叛义军,蕩寇軍,Vanilla,False
+Dian Wei,典韦,典韋,Vanilla,False
+Diao Chan,貂蝉,貂蟬,Lookup,False
+Ding Yuan,丁原,丁原,Vanilla,False
+Ding Yuan Renegades,丁原乱军,丁原叛黨,Vanilla,False
+Ding Yuan Separatist Renegades,丁原叛党乱军,丁原獨立勢力叛黨,Vanilla,False
+Ding Yuan Separatists,丁原叛党,丁原獨立勢力,Vanilla,False
+Dong Bai,董白,董白,Lookup,False
+Dong Commandery,东郡豪强,東郡,Vanilla,False
+Dong Commandery Renegades,东郡豪强乱军,東郡叛黨,Vanilla,False
+Dong He,董和,董和,Vanilla,False
+Dong He Renegades,董和乱军,董和叛黨,Vanilla,False
+Dong He Separatist Renegades,董和叛党乱军,董和獨立勢力叛黨,Vanilla,False
+Dong He Separatists,董和叛党,董和獨立勢力,Vanilla,False
+Dong Min,董旻,董旻,Lookup,False
+Dong Separatists,董氏叛党,董卓獨立勢力,Vanilla,False
+Dong Zhuo,董卓,董卓,Vanilla,False
+Dong Zhuo Renegades,董卓乱军,董卓叛黨,Vanilla,False
+Dong Zhuo Separatists,董卓叛党,董卓獨立勢力,Vanilla,False
+Dong Zhuo Separatists Renegades,董卓叛党乱军,董卓獨立勢力叛黨,Vanilla,False
+Donghai,东海,東海,Vanilla,False
+Donghai Commandery,东海豪强,東海郡,Vanilla,False
+Donghai Commandery Renegades,东海豪强乱军,東海郡叛黨,Vanilla,False
+Donghai Commandery Separatists,东海豪强叛党,東海郡獨立勢力,Vanilla,False
+Donghai Commandery Separatists Renegades,东海豪强叛党乱军,東海郡獨立勢力叛黨,Vanilla,False
+Donghai Separatist Renegades,东海叛党乱军,東海獨立勢力叛黨,Vanilla,False
+Donghai Separatists,东海叛党,東海獨立勢力,Vanilla,False
+Dongjun,东郡豪强,東,Vanilla,False
+Dongjun Commandery,东郡豪强,東郡,Vanilla,False
+Dongjun Commandery Renegades,东郡豪强乱军,東郡叛黨,Vanilla,False
+Dongjun Separatist Renegades,东郡叛党乱军,東郡獨立勢力叛黨,Vanilla,False
+Dongjun Separatists,东郡叛党,東郡獨立勢力,Vanilla,False
+Dongjun Separatists Renegades,东郡叛党乱军,東獨立勢力叛黨,Vanilla,False
+Donglai Commandery,东莱豪强,東萊郡,Vanilla,False
+Donglai Commandery Renegades,东莱豪强乱军,東萊郡叛黨,Vanilla,False
+Donglai Commandery Separatists,东莱豪强叛党,東萊郡獨立勢力,Vanilla,False
+Donglai Commandery Separatists Renegades,东莱豪强叛党乱军,東萊郡獨立勢力叛黨,Vanilla,False
+Donglai Separatist Renegades,东莱叛党乱军,東萊獨立勢力叛黨,Vanilla,False
+Donglai Separatists,东莱叛党,東萊獨立勢力,Vanilla,False
+Dongtuna,董荼那,董荼那,Vanilla,False
+Dongtuna Renegades,董荼那乱军,董荼那叛黨,Vanilla,False
+Dongtuna Separatists,董荼那叛党,董荼那獨立勢力,Vanilla,False
+Dongtuna Separatists Renegades,董荼那叛党乱军,董荼那獨立勢力叛黨,Vanilla,False
+Dongzhoubing Defenders,东州卫军,東州兵衛士,Vanilla,False
+Dongzhoubing Marksmen,东州射声士,東州兵射手,Vanilla,False
+Duke of Lanling,兰陵公国,蘭陵公,Vanilla,False
+Duke of Lanling Renegades,兰陵公国乱军,蘭陵公叛黨,Vanilla,False
+Duke of Lanling Separatist Renegades,兰陵公国叛党乱军,蘭陵公獨立勢力叛黨,Vanilla,False
+Duke of Lanling Separatists,兰陵公国叛党,蘭陵公獨立勢力,Vanilla,False
+Eastern Wu,东吴,東吳,Vanilla,False
+Eastern Wu Renegades,东吴乱军,東吳叛黨,Vanilla,False
+Eastern Wu Separatist Renegades,东吴叛党乱军,東吳獨立勢力叛黨,Vanilla,False
+Eastern Wu Separatists,东吴叛党,東吳獨立勢力,Vanilla,False
+Empress He,何皇后,何皇后,Vanilla,False
+Exemplars of the Tao,道一贤人,求道模範,Vanilla,False
+Fervent Defenders,狂烈卫士,至誠衛士,Vanilla,False
+Fire Archers,火箭手,火矢弓兵,Vanilla,False
+Fists of the Bandit Queen,魁首前军,盜賊女王拳勇團,Vanilla,False
+Flying Riders,摧锋飞骑,飛騎,Vanilla,False
+Followers of the Flame,火神信徒,火神信徒,Vanilla,False
+Fuling,涪陵,涪陵,Vanilla,False
+Fuling Commandery,涪陵豪强,涪陵郡,Vanilla,False
+Fuling Commandery Renegades,涪陵豪强乱军,涪陵郡叛黨,Vanilla,False
+Fuling Commandery Separatists,涪陵豪强叛党,涪陵郡獨立勢力,Vanilla,False
+Fuling Commandery Separatists Renegades,涪陵豪强叛党乱军,涪陵郡獨立勢力叛黨,Vanilla,False
+Fuling Separatist Renegades,涪陵叛党乱军,涪陵獨立勢力叛黨,Vanilla,False
+Fuling Separatists,涪陵叛党,涪陵獨立勢力,Vanilla,False
+Fury of Beihai,北海之怒,北海之怒,Vanilla,False
+Gallants of the People,人统雄豪,護民勇士,Vanilla,False
+Gan Ning,甘宁,甘寧,Vanilla,False
+Gao Gan,高干,高幹,Vanilla,False
+Gao Gan Renegades,高干乱军,高幹叛黨,Vanilla,False
+Gao Gan Separatists,高干叛党,高幹獨立勢力,Vanilla,False
+Gao Gan Separatists Renegades,高干乱军,高幹獨立勢力叛黨,Vanilla,False
+Gao Shun,高顺,高順,Vanilla,False
+Gaoliang,高凉,高涼,Vanilla,False
+Gaoliang Commandery,高凉豪强,高涼郡,Vanilla,False
+Gaoliang Commandery Renegades,高凉豪强乱军,高涼郡叛黨,Vanilla,False
+Gaoliang Separatist Renegades,高凉叛党乱军,高涼獨立勢力叛黨,Vanilla,False
+Gaoliang Separatists,高凉叛党,高涼獨立勢力,Vanilla,False
+Gaoliang Separatists Renegades,高凉叛党乱军,高涼獨立勢力叛黨,Vanilla,False
+Generic Earth,土系将军,一般（土）,Vanilla,False
+Generic Fire,火系将军,一般（火）,Vanilla,False
+Generic Metal,金系将军,一般（金）,Vanilla,False
+Generic Nanman,普通南蛮将领,一般（南蠻）,Vanilla,False
+Generic Water,水系将军,一般（水）,Vanilla,False
+Gong Du,龚都,龔都,Vanilla,False
+Gong Du Renegades,龚都乱军,龔都叛黨,Vanilla,False
+Gong Du Yellow Turbans,龚都黄巾军,龔都黃巾軍,Vanilla,False
+Gongsun Du,公孙度,公孫度,Vanilla,False
+Gongsun Du Renegades,公孙度乱军,公孫度叛黨,Vanilla,False
+Gongsun Du Separatists,公孙度叛党,公孫度獨立勢力,Vanilla,False
+Gongsun Du Separatists Renegades,公孙度叛党乱军,公孫度獨立勢力叛黨,Vanilla,False
+Gongsun Zan,公孙瓒,公孫瓚,Vanilla,False
+Gongsun Zan Renegades,公孙瓒乱军,公孫瓚叛黨,Vanilla,False
+Gongsun Zan Separatists,公孙瓒叛党,公孫瓚獨立勢力,Vanilla,False
+Gongsun Zan Separatists Renegades,公孙瓒叛党乱军,公孫瓚獨立勢力叛黨,Vanilla,False
+Guan Yu,关羽,關羽,Vanilla,False
+Guangling,广陵,廣陵,Vanilla,False
+Guangling Commandery,广陵豪强,廣陵郡,Vanilla,False
+Guangling Commandery Renegades,广陵豪强乱军,廣陵郡叛黨,Vanilla,False
+Guangling Commandery Separatists,广陵豪强叛党,廣陵郡獨立勢力,Vanilla,False
+Guangling Commandery Separatists Renegades,广陵豪强叛党乱军,廣陵郡獨立勢力叛黨,Vanilla,False
+Guangling Separatist Renegades,广陵叛党乱军,廣陵獨立勢力叛黨,Vanilla,False
+Guangling Separatists,广陵叛党,廣陵獨立勢力,Vanilla,False
+Guangyang Commandery,广阳豪强,廣陽郡,Vanilla,False
+Guangyang Commandery Renegades,广阳豪强乱军,廣陽郡叛黨,Vanilla,False
+Guangyang Commandery Separatists,广阳豪强叛党,廣陽郡獨立勢力,Vanilla,False
+Guangyang Commandery Separatists Renegades,广阳豪强叛党乱军,廣陽郡獨立勢力叛黨,Vanilla,False
+Guangyang Separatists,广阳叛党,廣陽獨立勢力,Vanilla,False
+Guardians of the Land,捍地军,土地衛士,Vanilla,False
+Guo Jia,郭嘉,郭嘉,Vanilla,False
+Guo Si,郭汜,郭汜,Lookup,False
+Guzhu,孤竹,孤竹,Vanilla,False
+Guzhu Separatists,孤竹叛党,孤竹獨立勢力,Vanilla,False
+Han Dynasty,汉朝,漢朝,Vanilla,False
+Han Dynasty Renegades,汉朝乱军,漢朝叛黨,Vanilla,False
+Han Dynasty Separatist Renegades,汉朝叛党乱军,漢朝獨立勢力叛黨,Vanilla,False
+Han Dynasty Separatists,汉朝叛党,漢朝獨立勢力,Vanilla,False
+Han Empire Renegades,汉帝国乱军,大漢叛黨,Vanilla,False
+Han Empire Separatists,大汉叛党,大漢獨立勢力,Vanilla,False
+Han Empire Separatists Renegades,汉帝国乱军,大漢獨立勢力叛黨,Vanilla,False
+Han Fu,韩馥,韓馥,Vanilla,False
+Han Fu Renegades,韩馥乱军,韓馥叛黨,Vanilla,False
+Han Fu Separatist Renegades,韩馥叛党乱军,韓馥獨立勢力叛黨,Vanilla,False
+Han Fu Separatists,韩馥叛党,韓馥獨立勢力,Vanilla,False
+Han Fu Separatists Renegades,韩馥叛党乱军,韓馥獨立勢力叛黨,Vanilla,False
+Han Sui,韩遂,韓遂,Vanilla,False
+Han Sui Renegades,韩遂乱军,韓遂叛黨,Vanilla,False
+Han Sui Separatists,韩遂叛党,韓遂獨立勢力,Vanilla,False
+Han Sui Separatists Renegades,韩遂乱军,韓遂獨立勢力叛黨,Vanilla,False
+Handmaid Guard,烈女侍骑,護衛侍女,Vanilla,False
+Hanning,汉宁,漢寧,Vanilla,False
+Hanning Separatists,汉宁叛党,漢寧獨立勢力,Vanilla,False
+Hanzhong,汉中,漢中,Vanilla,False
+Hanzhong Commandery,汉中豪强,漢中郡,Vanilla,False
+Hanzhong Commandery Renegades,汉中豪强乱军,漢中郡叛黨,Vanilla,False
+Hanzhong Separatist Renegades,汉中叛党乱军,漢中獨立勢力叛黨,Vanilla,False
+Hanzhong Separatists,汉中叛党,漢中獨立勢力,Vanilla,False
+Hanzhong Separatists Renegades,汉中叛党乱军,漢中獨立勢力叛黨,Vanilla,False
+He Jin,何进,何進,Vanilla,False
+He Man,何曼,何曼,Vanilla,False
+He Yi,何仪,何儀,Vanilla,False
+He Yi Renegades,何仪乱军,何儀叛黨,Vanilla,False
+He Yi Yellow Turbans,何仪黄巾军,何儀黃巾軍,Vanilla,False
+Heavy Cataphracts,重装铁骑,重型鐵甲騎兵,Vanilla,False
+Heavy Crossbowmen,重装弩兵,重型弩兵,Vanilla,False
+Heavy Ji Infantry,重装戟步兵,重戟兵,Vanilla,False
+Heavy Mounted Archers,重装骑射手,重型弓騎兵,Vanilla,False
+Heavy Repeating Crossbowmen,重装连弩兵,重型連弩兵,Vanilla,False
+Heavy Spear Guards,重装持矛亲卫,重型長槍衛兵,Vanilla,False
+Heavy Tiger & Leopard Cavalry,重装虎豹骑,虎豹鐵騎,Vanilla,False
+Heavy Xiliang Cavalry,重装西凉骑兵,西涼鐵騎,Vanilla,False
+Hedong,河东,河東,Vanilla,False
+Hedong Commandery,河东豪强,河東郡,Vanilla,False
+Hedong Commandery Renegades,河东豪强乱军,河東郡叛黨,Vanilla,False
+Hedong Commandery Separatists,河东豪强叛党,河東郡獨立勢力,Vanilla,False
+Hedong Commandery Separatists Renegades,河东豪强叛党乱军,河東郡獨立勢力叛黨,Vanilla,False
+Hedong Separatist Renegades,河东叛党乱军,河東獨立勢力叛黨,Vanilla,False
+Hedong Separatists,河东叛党,河東獨立勢力,Vanilla,False
+Heishan,,黑山,Vanilla,False
+Heishan Separatists,黑山叛党,黑山獨立勢力,Vanilla,False
+Henei Commandery,河内豪强,河內郡,Vanilla,False
+Henei Commandery Renegades,河内豪强乱军,河內郡叛黨,Vanilla,False
+Henei Separatist Renegades,河内叛党乱军,河內獨立勢力叛黨,Vanilla,False
+Henei Separatists,河内叛党,河內獨立勢力,Vanilla,False
+Henei Separatists Renegades,河内叛党乱军,河內獨立勢力叛黨,Vanilla,False
+Hepu,合浦,合浦,Vanilla,False
+Hepu Commandery,合浦豪强,合浦郡,Vanilla,False
+Hepu Commandery Renegades,合浦豪强乱军,合浦郡叛黨,Vanilla,False
+Hepu Commandery Separatists,合浦豪强叛党,合浦郡獨立勢力,Vanilla,False
+Hepu Commandery Separatists Renegades,合浦豪强叛党乱军,合浦郡獨立勢力叛黨,Vanilla,False
+Hepu Separatist Renegades,合浦叛党乱军,合浦獨立勢力叛黨,Vanilla,False
+Hepu Separatists,合浦叛党,合浦獨立勢力,Vanilla,False
+Hidden Axes,隐斧军,隱密斧兵,Vanilla,False
+Hidden Vipers,吹箭手,隱蛇兵,Vanilla,False
+Horseback Huntsmen,猎骑兵,馬背獵人,Vanilla,False
+Hou Jinting,侯氏,侯氏,Lookup,False
+Hua,华,華,Vanilla,False
+Hua Lanli,华氏,華氏,Lookup,False
+Hua Xin,华歆,華歆,Vanilla,False
+Hua Xin Renegades,华歆乱军,華歆叛黨,Vanilla,False
+Hua Xin Separatist Renegades,华歆叛党乱军,華歆獨立勢力叛黨,Vanilla,False
+Hua Xin Separatists,华歆叛党,華歆獨立勢力,Vanilla,False
+Huainan,淮南,淮南,Vanilla,False
+Huainan Commandery,淮南豪强,淮南郡,Vanilla,False
+Huainan Commandery Renegades,淮南豪强乱军,淮南郡叛黨,Vanilla,False
+Huainan Commandery Separatists,淮南豪强叛党,淮南郡獨立勢力,Vanilla,False
+Huainan Commandery Separatists Renegades,淮南豪强叛党乱军,淮南郡獨立勢力叛黨,Vanilla,False
+Huainan Separatists,淮南叛党,淮南獨立勢力,Vanilla,False
+Huang Gai,黄盖,黃蓋,Vanilla,False
+Huang Shao,黄邵,黃邵,Vanilla,False
+Huang Shao Renegades,黄邵乱军,黃邵叛黨,Vanilla,False
+Huang Shao Yellow Turbans,黄邵黄巾军,黃邵黃巾軍,Vanilla,False
+Huang Zhong,黄忠,黃忠,Vanilla,False
+Huang Zu,黄祖,黃祖,Vanilla,False
+Huang Zu Renegades,黄祖乱军,黃祖叛黨,Vanilla,False
+Huang Zu Separatists,黄祖叛党,黃祖獨立勢力,Vanilla,False
+Huang Zu Separatists Renegades,黄祖乱军,黃祖獨立勢力叛黨,Vanilla,False
+Huangfu Song,皇甫嵩,皇甫嵩,Vanilla,False
+Huanglao's Paragons,黄老贤圣,黃老仙軍,Vanilla,False
+Imperial Defenders,中护军,禁軍衛士,Vanilla,False
+Imperial Gate Guards,期门禁军,宮門衛士,Vanilla,False
+Imperial Guard Captain,宿卫禁军伯长,禁軍校尉,Vanilla,False
+Imperial Guards,宿卫禁军,禁軍,Vanilla,False
+Imperial Household Cavalry,羽林骑,羽林騎,Vanilla,False
+Imperial Lancer Cavalry,羽林枪骑,羽林槍騎,Vanilla,False
+Imperial Palace Cavalry,羽林弩骑,虎賁騎,Vanilla,False
+Imperial Palace Crossbowmen,禁卫弩兵,虎賁弩兵,Vanilla,False
+Imperial Sword Guard,虎贲剑卫,虎賁刀衛,Vanilla,False
+Infantry of Jing,荆州步兵,荊州步兵,Vanilla,False
+Jade Dragons,玉龙军,玉龍軍,Vanilla,False
+Javelin Spear Guards,掷矛卫士,擲鋋衛兵,Vanilla,False
+Javelin Throwers,投枪手,擲鋋兵,Vanilla,False
+Javelin Spearmen,投矛兵,擲槍兵,Vanilla,False
+Ji Defectors,变节戟兵,持戟叛逃兵,Vanilla,False
+Ji Infantry,戟步兵,戟兵,Vanilla,False
+Ji Infantry Captain,持戟步兵伯长,戟兵校尉,Vanilla,False
+Ji Ling,纪灵,纪灵,Lookup,False
+Ji Militia,戟民兵,義勇戟兵,Vanilla,False
+Jia Long,贾龙,賈龍,Vanilla,False
+Jia Long Renegades,贾龙乱军,賈龍叛黨,Vanilla,False
+Jia Long Separatists,贾龙叛党,賈龍獨立勢力,Vanilla,False
+Jia Long Separatists Renegades,贾龙乱军,賈龍獨立勢力叛黨,Vanilla,False
+Jia Xu,贾诩,賈詡,Vanilla,False
+Jian Cavalry Captain,持剑骑兵伯长,持劍騎兵校尉,Vanilla,False
+Jian Infantry Captain,持剑步兵伯长,持劍步兵校尉,Vanilla,False
+Jian Sword Guard Cavalry,佩剑守卫骑兵,劍衛騎兵,Vanilla,False
+Jian Sword Guards,佩剑守卫,劍衛,Vanilla,False
+Jian Yong,简雍,簡雍,Lookup,False
+Jiang Qin,蒋钦,蔣欽,Lookup,False
+Jiangxia,江夏,江夏,Vanilla,False
+Jiangxia Commandery,江夏豪强,江夏郡,Vanilla,False
+Jiangxia Commandery Renegades,江夏豪强乱军,江夏郡叛黨,Vanilla,False
+Jiangxia Commandery Separatists,江夏豪强叛党,江夏郡獨立勢力,Vanilla,False
+Jiangxia Commandery Separatists Renegades,江夏豪强叛党乱军,江夏郡獨立勢力叛黨,Vanilla,False
+Jiangxia Separatist Renegades,江夏叛党乱军,江夏獨立勢力叛黨,Vanilla,False
+Jiangxia Separatists,江夏叛党,江夏獨立勢力,Vanilla,False
+Jiangyang Commandery,江阳豪强,江陽郡,Vanilla,False
+Jiangyang Commandery Renegades,江阳豪强乱军,江陽郡叛黨,Vanilla,False
+Jiangyang Separatist Renegades,江阳叛党乱军,江陽獨立勢力叛黨,Vanilla,False
+Jiangyang Separatists,江阳叛党,江陽獨立勢力,Vanilla,False
+Jiangyang Separatists Renegades,江阳叛党乱军,江陽獨立勢力叛黨,Vanilla,False
+Jiangyang Tribes,江阳部族,江陽部族,Vanilla,False
+Jiangyang Tribes Renegades,江阳部族乱军,江陽部族叛黨,Vanilla,False
+Jiangyang Tribes Separatists,江阳部族叛党,江陽部族獨立勢力,Vanilla,False
+Jiangyang Tribes Separatists Renegades,江阳部族叛党乱军,江陽部族獨立勢力叛黨,Vanilla,False
+Jianning Commandery,建宁豪强,建寧郡,Vanilla,False
+Jianning Commandery Renegades,建宁豪强乱军,建寧郡叛黨,Vanilla,False
+Jianning Commandery Separatists,建宁豪强叛党,建寧郡獨立勢力,Vanilla,False
+Jianning Commandery Separatists Renegades,建宁豪强叛党乱军,建寧郡獨立勢力叛黨,Vanilla,False
+Jianning Separatist Renegades,建宁叛党乱军,建寧獨立勢力叛黨,Vanilla,False
+Jianning Separatists,建宁叛党,建寧獨立勢力,Vanilla,False
+Jianning Tribes,建宁部族,建寧部族,Vanilla,False
+Jianning Tribes Renegades,建宁部族乱军,建寧部族叛黨,Vanilla,False
+Jianning Tribes Separatists,建宁部族叛党,建寧部族獨立勢力,Vanilla,False
+Jianning Tribes Separatists Renegades,建宁部族叛党乱军,建寧部族獨立勢力叛黨,Vanilla,False
+Jianwei,犍为,犍為,Vanilla,False
+Jianwei Separatists,犍为叛党,犍為獨立勢力,Vanilla,False
+Jiaozhi,交趾,交趾,Vanilla,False
+Jiaozhi Commandery,交趾豪强,交趾郡,Vanilla,False
+Jiaozhi Commandery Renegades,交趾豪强乱军,交趾郡叛黨,Vanilla,False
+Jiaozhi Commandery Separatists,交趾豪强叛党,交趾郡獨立勢力,Vanilla,False
+Jiaozhi Commandery Separatists Renegades,交趾豪强叛党乱军,交趾郡獨立勢力叛黨,Vanilla,False
+Jiaozhi Separatist Renegades,交趾叛党乱军,交趾獨立勢力叛黨,Vanilla,False
+Jiaozhi Separatists,交趾叛党,交趾獨立勢力,Vanilla,False
+Jiaozhi Tribes,交趾部族,交趾部族,Vanilla,False
+Jiaozhi Tribes Renegades,交趾部族乱军,交趾部族叛黨,Vanilla,False
+Jiaozhi Tribes Separatists,交趾部族叛党,交趾部族獨立勢力,Vanilla,False
+Jiaozhi Tribes Separatists Renegades,交趾部族叛党乱军,交趾部族獨立勢力叛黨,Vanilla,False
+Jiazi Raiders,甲子劫匪,甲子劫匪,Vanilla,False
+Jin Empire,晋帝国,大晉,Vanilla,False
+Jin Empire Renegades,晋帝国乱军,大晉叛黨,Vanilla,False
+Jin Empire Separatist Renegades,晋帝国叛党乱军,大晉獨立勢力叛黨,Vanilla,False
+Jin Empire Separatists,晋帝国叛党,大晉獨立勢力,Vanilla,False
+Jincheng,金城,金城,Vanilla,False
+Jincheng Commandery,金城豪强,金城郡,Vanilla,False
+Jincheng Commandery Renegades,金城豪强乱军,金城郡叛黨,Vanilla,False
+Jincheng Separatist Renegades,金城叛党乱军,金城獨立勢力叛黨,Vanilla,False
+Jincheng Separatists,金城叛党,金城獨立勢力,Vanilla,False
+Jincheng Separatists Renegades,金城叛党乱军,金城獨立勢力叛黨,Vanilla,False
+Jingzhao,京兆,京兆,Vanilla,False
+Jingzhao Commandery,京兆豪强,京兆郡,Vanilla,False
+Jingzhao Commandery Renegades,京兆豪强乱军,京兆郡叛黨,Vanilla,False
+Jingzhao Separatist Renegades,京兆叛党乱军,京兆獨立勢力叛黨,Vanilla,False
+Jingzhao Separatists,京兆叛党,京兆獨立勢力,Vanilla,False
+Jinhuansanjie,金环三结,金環三結,Vanilla,False
+Jinhuansanjie Renegades,金环三结乱军,金環三結叛黨,Vanilla,False
+Jinhuansanjie Separatists,金环三结叛党,金環三結獨立勢力,Vanilla,False
+Jinhuansanjie Separatists Renegades,金环三结叛党乱军,金環三結獨立勢力叛黨,Vanilla,False
+Jiuzhen,九真,九真,Vanilla,False
+Jiuzhen Commandery,九真郡国,九真郡,Vanilla,False
+Jiuzhen Commandery Renegades,九真郡国乱军,九真郡叛黨,Vanilla,False
+Jiuzhen Commandery Separatists,九真郡国叛党,九真郡獨立勢力,Vanilla,False
+Jiuzhen Commandery Separatists Renegades,九真郡国叛党乱军,九真郡獨立勢力叛黨,Vanilla,False
+Jiuzhen Separatists,九真叛党,九真獨立勢力,Vanilla,False
+Juggernaut,木兽,火獸車,Vanilla,False
+King Duosi,朵思大王,朵思大王,Vanilla,False
+King Duosi Renegades,朵思大王乱军,朵思大王叛黨,Vanilla,False
+King Duosi Separatists,朵思大王叛党,朵思大王獨立勢力,Vanilla,False
+King Duosi Separatists Renegades,朵思大王叛党乱军,朵思大王獨立勢力叛黨,Vanilla,False
+King Duosi [[img:unit_elephant]][[/img]],朵思大王[[img:unit_elephant]][[/img]],朵思大王[[img:unit_elephant]][[/img]],Lookup,False
+King Meng Huo,孟获大王,孟獲大王,Vanilla,False
+King Meng Huo [[img:unit_elephant]][[/img]],孟获大王[[img:unit_elephant]][[/img]],孟獲大王[[img:unit_elephant]][[/img]],Lookup,False
+King Mulu,木鹿大王,木鹿大王,Vanilla,False
+King Mulu Renegades,木鹿大王乱军,木鹿大王叛黨,Vanilla,False
+King Mulu Separatists,木鹿大王叛党,木鹿大王獨立勢力,Vanilla,False
+King Mulu Separatists Renegades,木鹿大王叛党乱军,木鹿大王獨立勢力叛黨,Vanilla,False
+King Mulu [[img:unit_elephant]][[/img]],木鹿大王[[img:unit_elephant]][[/img]],木鹿大王[[img:unit_elephant]][[/img]],Lookup,False
+King Shamoke,沙摩柯大王,沙摩柯大王,Vanilla,False
+King Shamoke Renegades,沙摩柯大王乱军,沙摩柯大王叛黨,Vanilla,False
+King Shamoke Separatists,沙摩柯大王叛党,沙摩柯大王獨立勢力,Vanilla,False
+King Shamoke Separatists Renegades,沙摩柯大王叛党乱军,沙摩柯大王獨立勢力叛黨,Vanilla,False
+King Shamoke [[img:unit_elephant]][[/img]],沙摩柯大王[[img:unit_elephant]][[/img]],沙摩柯大王[[img:unit_elephant]][[/img]],Lookup,False
+King Wutugu,兀突骨大王,兀突骨大王,Vanilla,False
+King Wutugu Renegades,兀突骨大王乱军,兀突骨大王叛黨,Vanilla,False
+King Wutugu Separatists,兀突骨大王叛党,兀突骨大王獨立勢力,Vanilla,False
+King Wutugu Separatists Renegades,兀突骨大王叛党乱军,兀突骨大王獨立勢力叛黨,Vanilla,False
+King Wutugu [[img:unit_elephant]][[/img]],兀突骨大王[[img:unit_elephant]][[/img]],兀突骨大王[[img:unit_elephant]][[/img]],Lookup,False
+Kong Rong,孔融,孔融,Vanilla,False
+Kong Rong Renegades,孔融乱军,孔融叛黨,Vanilla,False
+Kong Rong Separatists,孔融叛党,孔融獨立勢力,Vanilla,False
+Kong Rong Separatists Renegades,孔融叛党乱军,孔融獨立勢力叛黨,Vanilla,False
+Kong Zhou,孔伷,孔伷,Vanilla,False
+Kong Zhou Renegades,孔伷乱军,孔伷叛黨,Vanilla,False
+Kong Zhou Separatists Renegades,孔伷乱军,孔伷獨立勢力叛黨,Vanilla,False
+Kuaiji,会稽,會稽,Vanilla,False
+Kuaiji Commandery,会稽豪强,會稽郡,Vanilla,False
+Kuaiji Commandery Renegades,会稽豪强乱军,會稽郡叛黨,Vanilla,False
+Kuaiji Separatist Renegades,会稽叛党乱军,會稽獨立勢力叛黨,Vanilla,False
+Kuaiji Separatists,会稽叛党,會稽獨立勢力,Vanilla,False
+Kuaiji Separatists Renegades,会稽叛党乱军,會稽獨立勢力叛黨,Vanilla,False
+Lady Bian,卞氏,卞氏,Lookup,False
+Lady Cai,蔡氏,蔡氏,Lookup,False
+Lady Dong,董氏,董氏,Lookup,False
+Lady Du,杜氏,杜氏,Lookup,False
+Lady Feng,冯氏,馮氏,Lookup,False
+Lady Liu,刘氏,劉氏,Lookup,False
+Lady Mi,糜夫人,麋夫人,Lookup,False
+Lady Trieu,赵妪,趙嫗,Lookup,False
+Lady Trieu [[img:unit_elephant]][[/img]],赵妪[[img:unit_elephant]][[/img]],趙嫗[[img:unit_elephant]][[/img]],Lookup,False
+Lady Wu,吴氏,吳氏,Lookup,False
+Lady Zhen,甄夫人,甄夫人,Vanilla,False
+Lady Zhurong,祝融夫人,祝融夫人,Vanilla,False
+Lady Zhurong Renegades,祝融夫人乱军,祝融夫人叛黨,Vanilla,False
+Lady Zhurong Separatists,祝融夫人叛党,祝融夫人獨立勢力,Vanilla,False
+Lady Zhurong Separatists Renegades,祝融夫人叛党乱军,祝融夫人獨立勢力叛黨,Vanilla,False
+Lady Zhurong [[img:unit_elephant]][[/img]],祝融夫人[[img:unit_elephant]][[/img]],祝融夫人[[img:unit_elephant]][[/img]],Lookup,False
+Lance Cavalry,戟骑兵,長槍騎兵,Vanilla,False
+Lance Cavalry Captain,戟骑兵伯长,長槍騎兵校尉,Vanilla,False
+Langye,琅琊,琅邪,Vanilla,False
+Langye Commandery,琅琊豪强,琅邪郡,Vanilla,False
+Langye Commandery Renegades,琅琊豪强乱军,琅邪郡叛黨,Vanilla,False
+Langye Commandery Separatists,琅琊豪强叛党,琅邪郡獨立勢力,Vanilla,False
+Langye Commandery Separatists Renegades,琅琊豪强叛党乱军,琅邪郡獨立勢力叛黨,Vanilla,False
+Langye Separatist Renegades,琅琊叛党乱军,琅邪獨立勢力叛黨,Vanilla,False
+Langye Separatists,琅琊叛党,琅邪獨立勢力,Vanilla,False
+Lean Commandery,乐安豪强,樂安郡,Vanilla,False
+Lean Commandery Renegades,乐安豪强乱军,樂安郡叛黨,Vanilla,False
+Lean Commandery Separatists,乐安豪强叛党,樂安郡獨立勢力,Vanilla,False
+Lean Commandery Separatists Renegades,乐安豪强叛党乱军,樂安郡獨立勢力叛黨,Vanilla,False
+Lean Separatists,乐安叛党,樂安獨立勢力,Vanilla,False
+Li Ru,李儒,李儒,Vanilla,False
+Li Shu,李术,李術,Vanilla,False
+Li Shu Renegades,李术乱军,李術叛黨,Vanilla,False
+Li Shu Separatist Renegades,李术叛党乱军,李術獨立勢力叛黨,Vanilla,False
+Li Shu Separatists,李术叛党,李術獨立勢力,Vanilla,False
+Liang,凉,涼,Vanilla,False
+Liang Rebels,凉州叛军,涼州反抗軍,Vanilla,False
+Liang Renegades,凉州叛党,涼州叛黨,Vanilla,False
+Liang Separatist Renegades,凉州叛党乱军,涼州獨立勢力叛黨,Vanilla,False
+Liaodong,辽东,遼東,Vanilla,False
+Liaodong Renegades,辽东乱军,遼東叛黨,Vanilla,False
+Liaodong Separatist Renegades,辽东叛党乱军,遼東獨立勢力叛黨,Vanilla,False
+Liaodong Separatists,辽东叛党,遼東獨立勢力,Vanilla,False
+Lingling,零陵,零陵,Vanilla,False
+Lingling Commandery,零陵豪强,零陵郡,Vanilla,False
+Lingling Commandery Renegades,零陵豪强乱军,零陵郡叛黨,Vanilla,False
+Lingling Separatist Renegades,零陵叛党乱军,零陵獨立勢力叛黨,Vanilla,False
+Lingling Separatists,零陵叛党,零陵獨立勢力,Vanilla,False
+Lingling Separatists Renegades,零陵叛党乱军,零陵獨立勢力叛黨,Vanilla,False
+Linhai Commandery,临海豪强,臨海郡,Vanilla,False
+Linhai Commandery Renegades,临海豪强乱军,臨海郡叛黨,Vanilla,False
+Linhai Separatists,临海叛党,臨海獨立勢力,Vanilla,False
+Linhai Separatists Renegades,临海叛党乱军,臨海獨立勢力叛黨,Vanilla,False
+Liu Bei,刘备,劉備,Vanilla,False
+Liu Bei Renegades,刘备乱军,劉備叛黨,Vanilla,False
+Liu Bei Separatists,刘备叛党,劉備獨立勢力,Vanilla,False
+Liu Bei Separatists Renegades,刘备乱军,劉備獨立勢力叛黨,Vanilla,False
+Liu Biao,刘表,劉表,Vanilla,False
+Liu Biao Renegades,刘表乱军,劉表叛黨,Vanilla,False
+Liu Biao Separatists,刘表叛党,劉表獨立勢力,Vanilla,False
+Liu Biao Separatists Renegades,刘表叛党乱军,劉表獨立勢力叛黨,Vanilla,False
+Liu Chong,刘宠,劉寵,Vanilla,False
+Liu Dai,刘岱,劉岱,Vanilla,False
+Liu Dai Renegades,刘岱乱军,劉岱叛黨,Vanilla,False
+Liu Dai Separatists,刘岱叛党,劉岱獨立勢力,Vanilla,False
+Liu Dai Separatists Renegades,刘岱乱军,劉岱獨立勢力叛黨,Vanilla,False
+Liu Feng,刘封,劉封,Lookup,False
+Liu Hong,刘宏,劉洪,Vanilla,False
+Liu Hong Renegades,刘宏乱军,劉洪叛黨,Vanilla,False
+Liu Hong Separatist Renegades,刘宏叛党乱军,劉洪獨立勢力叛黨,Vanilla,False
+Liu Hong Separatists,刘宏叛党,劉洪獨立勢力,Vanilla,False
+Liu Xun,刘勋,劉勳,Vanilla,False
+Liu Xun Renegades,刘勋乱军,劉勳叛黨,Vanilla,False
+Liu Xun Separatist Renegades,刘勋叛党乱军,劉勳獨立勢力叛黨,Vanilla,False
+Liu Xun Separatists,刘勋叛党,劉勳獨立勢力,Vanilla,False
+Liu Yan,刘焉,劉焉,Vanilla,False
+Liu Yan Renegades,刘焉乱军,劉焉叛黨,Vanilla,False
+Liu Yan Separatists,刘焉叛党,劉焉獨立勢力,Vanilla,False
+Liu Yan Separatists Renegades,刘焉乱军,劉焉獨立勢力叛黨,Vanilla,False
+Liu Yao,刘繇,劉繇,Vanilla,False
+Liu Yao Renegades,刘繇乱军,劉繇叛黨,Vanilla,False
+Liu Yao Separatists,刘繇叛党,劉繇獨立勢力,Vanilla,False
+Liu Yao Separatists Renegades,刘繇乱军,劉繇獨立勢力叛黨,Vanilla,False
+Liu Yu,刘虞,劉虞,Vanilla,False
+Liu Yu Renegades,刘虞乱军,劉虞叛黨,Vanilla,False
+Liu Yu Separatists,刘虞叛党,劉虞獨立勢力,Vanilla,False
+Liu Yu Separatists Renegades,刘虞乱军,劉虞獨立勢力叛黨,Vanilla,False
+Liu Zhang,刘璋,劉璋,Vanilla,False
+Liyang Daring Infantry,黎阳死士,黎陽死士步兵,Vanilla,False
+Looters,掳掠者,劫匪,Vanilla,False
+Lu,鲁,魯,Vanilla,False
+Lu Bu,吕布,呂布,Lookup,False
+Lu Kang,陆康,陸康,Vanilla,False
+Lu Kang Renegades,陆康乱军,陸康叛黨,Vanilla,False
+Lu Kang Separatist Renegades,陆康叛党乱军,陸康獨立勢力叛黨,Vanilla,False
+Lu Kang Separatists,陆康叛党,陸康獨立勢力,Vanilla,False
+Lu Separatists,鲁叛党,魯獨立勢力,Vanilla,False
+Lu Su,鲁肃,魯肅,Lookup,False
+Lu Zheng,陆政,陸政,Lookup,False
+Lu Zhi,卢植,盧植,Vanilla,False
+Lu Zhi Renegades,卢植乱军,盧植叛黨,Vanilla,False
+Lu Zhi Separatist Renegades,卢植叛党乱军,盧植獨立勢力叛黨,Vanilla,False
+Lu Zhi Separatists,卢植叛党,盧植獨立勢力,Vanilla,False
+Lujiang Commandery,庐江豪强,廬江郡,Vanilla,False
+Lujiang Commandery Renegades,庐江豪强乱军,廬江郡叛黨,Vanilla,False
+Lujiang Commandery Separatists,庐江豪强叛党,廬江郡獨立勢力,Vanilla,False
+Lujiang Commandery Separatists Renegades,庐江豪强叛党乱军,廬江郡獨立勢力叛黨,Vanilla,False
+Lujiang Separatist Renegades,庐江叛党乱军,廬江獨立勢力叛黨,Vanilla,False
+Lujiang Separatists,庐江叛党,廬江獨立勢力,Vanilla,False
+Luling Commandery,庐陵豪强,廬陵郡,Vanilla,False
+Luling Commandery Renegades,庐陵豪强乱军,廬陵郡叛黨,Vanilla,False
+Luling Separatist Renegades,庐陵叛党乱军,廬陵獨立勢力叛黨,Vanilla,False
+Luling Separatists,庐陵叛党,廬陵獨立勢力,Vanilla,False
+Luling Separatists Renegades,庐陵叛党乱军,廬陵獨立勢力叛黨,Vanilla,False
+Luo Jun,骆俊,駱俊,Lookup,False
+Luoyang Commandery,洛阳豪强,洛陽郡,Vanilla,False
+Luoyang Commandery Renegades,洛阳豪强乱军,洛陽郡叛黨,Vanilla,False
+Luoyang Commandery Separatists,洛阳豪强叛党,洛陽郡獨立勢力,Vanilla,False
+Luoyang Commandery Separatists Renegades,洛阳豪强叛党乱军,洛陽郡獨立勢力叛黨,Vanilla,False
+Luoyang Separatist Renegades,洛阳叛党乱军,洛陽獨立勢力叛黨,Vanilla,False
+Luoyang Separatists,洛阳叛党,洛陽獨立勢力,Vanilla,False
+Lü Bu,吕布,呂布,Vanilla,False
+Lü Bu Renegades,吕布乱军,呂布叛黨,Vanilla,False
+Lü Bu Separatist Renegades,吕布叛党乱军,呂布獨立勢力叛黨,Vanilla,False
+Lü Bu Separatists,吕布叛党,呂布獨立勢力,Vanilla,False
+Lü Ji,吕姬,呂姬,Lookup,False
+Ma Chao,马超,馬超,Vanilla,False
+Ma Teng,马腾,馬騰,Vanilla,False
+Ma Teng Renegades,马腾乱军,馬騰叛黨,Vanilla,False
+Ma Teng Separatists,马腾叛党,馬騰獨立勢力,Vanilla,False
+Ma Teng Separatists Renegades,马腾叛党乱军,馬騰獨立勢力叛黨,Vanilla,False
+Ma Yunlu,马云禄,馬雲騄,Lookup,False
+Mangyachang,忙牙长,忙牙長,Vanilla,False
+Mangyachang Renegades,忙牙长乱军,忙牙長叛黨,Vanilla,False
+Mangyachang Separatists,忙牙长叛党,忙牙長獨立勢力,Vanilla,False
+Mangyachang Separatists Renegades,忙牙长叛党乱军,忙牙長獨立勢力叛黨,Vanilla,False
+Men of the Forest,深林军,森林之師,Vanilla,False
+Meng Huo,孟获,孟獲,Vanilla,False
+Meng Huo Renegades,孟获乱军,孟獲叛黨,Vanilla,False
+Meng Huo Separatists,孟获叛党,孟獲獨立勢力,Vanilla,False
+Meng Huo Separatists Renegades,孟获叛党乱军,孟獲獨立勢力叛黨,Vanilla,False
+Mercenary Archers,雇佣弓箭手,僱傭弓兵,Vanilla,False
+Mercenary Archers Captain,雇佣弓箭手伯长,僱傭弓兵校尉,Vanilla,False
+Mercenary Cavalry,雇佣骑兵,僱傭騎兵,Vanilla,False
+Mercenary Cavalry Captain,雇佣骑兵伯长,僱傭騎兵校尉,Vanilla,False
+Mercenary Infantry,雇佣步兵,僱傭步兵,Vanilla,False
+Mercenary Infantry Captain,雇佣步兵伯长,僱傭步兵校尉,Vanilla,False
+Messengers of Heaven,天命谕使,天道使者,Vanilla,False
+Might of the Valley,五溪蛮兵,五谿豪傑,Vanilla,False
+Militia of Virtue,贞义兵,修德義勇,Vanilla,False
+Mounted Archers,骑乘弓箭手,弓騎兵,Vanilla,False
+Mounted Crossbows,弩骑兵,弩騎兵,Vanilla,False
+Mounted Lancer Defectors,变节戟骑兵,持槍叛逃騎兵,Vanilla,False
+Mounted Lancer Militia,骑乘持戟民兵,義勇長槍騎兵,Vanilla,False
+Mounted Sabre Defectors,变节持刀骑兵,持刀叛逃騎兵,Vanilla,False
+Mounted Sabre Militia,骑乘持刀民兵,義勇刀騎兵,Vanilla,False
+Multiple Bolt Crossbow,连发巨弩,車弩,Vanilla,False
+Nan,南郡,南郡,Vanilla,False
+Nan Commandery,南郡豪强,南郡,Vanilla,False
+Nan Commandery Renegades,南郡豪强乱军,南郡叛黨,Vanilla,False
+Nan Commandery Separatists,南郡豪强叛党,南郡獨立勢力,Vanilla,False
+Nan Commandery Separatists Renegades,南郡豪强叛党乱军,南郡獨立勢力叛黨,Vanilla,False
+Nan Separatists,南郡叛党,南獨立勢力,Vanilla,False
+Nanhai,南海,南海,Vanilla,False
+Nanhai Commandery,南海豪强,南海郡,Vanilla,False
+Nanhai Commandery Renegades,南海豪强乱军,南海郡叛黨,Vanilla,False
+Nanhai Separatist Renegades,南海叛党乱军,南海獨立勢力叛黨,Vanilla,False
+Nanhai Separatists,南海叛党,南海獨立勢力,Vanilla,False
+Nanhai Separatists Renegades,南海叛党乱军,南海獨立勢力叛黨,Vanilla,False
+Nanman Rebels,南蛮叛军,南蠻叛軍,Vanilla,False
+Nanman Slingers,南蛮投石兵,南蠻投石兵,Vanilla,False
+Nanman Spearmen,南蛮矛兵,南蠻長槍兵,Vanilla,False
+Nanman Warriors,南蛮战士,南蠻戰士,Vanilla,False
+Nanman Warriors Captain,南蛮勇士,南蠻戰士校尉,Vanilla,False
+Nanyang,南阳,南陽,Vanilla,False
+Nanyang Commandery,南阳豪强,南陽郡,Vanilla,False
+Nanyang Commandery Renegades,南阳豪强乱军,南陽郡叛黨,Vanilla,False
+Nanyang Commandery Separatists,南阳豪强叛党,南陽郡獨立勢力,Vanilla,False
+Nanyang Commandery Separatists Renegades,南阳豪强叛党乱军,南陽郡獨立勢力叛黨,Vanilla,False
+Nanyang Separatist Renegades,南阳叛党乱军,南陽獨立勢力叛黨,Vanilla,False
+Nanyang Separatists,南阳叛党,南陽獨立勢力,Vanilla,False
+Nanzhong Champions,南中精锐,南中鬥士,Vanilla,False
+Nanzhong Elephants,南中象兵,南中象兵,Vanilla,False
+Nanzhong Spearmen,南中矛兵,南中長槍兵,Vanilla,False
+Nie,聂,聶,Vanilla,False
+Nie Separatists,涅叛党,聶獨立勢力,Vanilla,False
+Noble Rebels,士族叛军,官員叛軍,Vanilla,False
+Northern Ji Infantry,北军戟步兵,北軍戟兵,Vanilla,False
+Northern Ji Infantry Captain,北军戟步兵伯长,北軍戟兵校尉,Vanilla,False
+Northern Jian'an,北建安,北建安,Vanilla,False
+Northern Jian'an Commandery,北建安豪强,北建安郡,Vanilla,False
+Northern Jian'an Commandery Renegades,北建安豪强乱军,北建安郡叛黨,Vanilla,False
+Northern Jian'an Separatists,北建安叛党,北建安獨立勢力,Vanilla,False
+Northern Jian'an Separatists Renegades,北建安叛党乱军,北建安獨立勢力叛黨,Vanilla,False
+Northern Lancer Cavalry,北军戟骑兵,北軍槍騎,Vanilla,False
+Northern Lancer Cavalry Captain,北军戟骑伯长,北軍槍騎校尉,Vanilla,False
+Northern Mounted Archers,北军胡骑,北軍弓騎兵,Vanilla,False
+Northern Mounted Raiders,北军游骑,北軍突襲騎兵,Vanilla,False
+Northern Sabre Cavalry,北军持刀骑兵,北軍刀騎兵,Vanilla,False
+Northern Sabre Cavalry Captain,北军刀骑伯长,北軍刀騎兵校尉,Vanilla,False
+Northern Sabre Infantry,北军持刀步兵,北軍持刀步兵,Vanilla,False
+Northern Sabre Infantry Captain,北军持刀步兵伯长,北軍持刀步兵校尉,Vanilla,False
+Northern Spear Guard Captain,北军持矛亲卫伯长,北軍長槍衛兵校尉,Vanilla,False
+Northern Spear Guards,北军持矛亲卫,北軍長槍衛兵,Vanilla,False
+Northern Veteran Ji Infantry,北军持戟宿卫,北軍老練戟兵,Vanilla,False
+Northern Veteran Lancers,北军持戟宿骑,北軍老練槍騎,Vanilla,False
+Northern Veteran Sabre Cavalry,北军持刀宿骑,北軍老練刀騎兵,Vanilla,False
+Northern Veteran Sabre Infantry,北军持刀宿卫,北軍老練持刀步兵,Vanilla,False
+Northern Veteran Spears,北军持矛宿卫,北軍老練長槍兵,Vanilla,False
+Northern Wu,北吴,北吳,Vanilla,False
+Northern Wu Renegades,北吴乱军,北吳叛黨,Vanilla,False
+Northern Wu Separatist Renegades,北吴叛党乱军,北吳獨立勢力叛黨,Vanilla,False
+Northern Wu Separatists,北吴叛党,北吳獨立勢力,Vanilla,False
+Onyx Dragons,黑龙军,黑龍軍,Vanilla,False
+Pang De,庞德,龐德,Lookup,False
+Pang Tong,庞统,龐統,Vanilla,False
+Pearl Dragons,白龙军,玥龍軍,Vanilla,False
+Peasant Archers,农人弓手,農民弓兵,Vanilla,False
+Peasant Band,农民战团,民兵團,Vanilla,False
+Peasant Raiders,农民游骑,農民突襲隊,Vanilla,False
+Peasant Spearmen,农人矛手,農民長槍兵,Vanilla,False
+Peasant Volunteers,农人志士,農民義軍,Vanilla,False
+Peasant Warriors,农人战士,農民戰士,Vanilla,False
+Pei Yuanshao,裴元绍,裴元紹,Vanilla,False
+Pengcheng,彭城,彭城,Vanilla,False
+Pengcheng Commandery,彭城豪强,彭城郡,Vanilla,False
+Pengcheng Commandery Renegades,彭城豪强乱军,彭城郡叛黨,Vanilla,False
+Pengcheng Separatist Renegades,彭城叛党乱军,彭城獨立勢力叛黨,Vanilla,False
+Pengcheng Separatists,彭城叛党,彭城獨立勢力,Vanilla,False
+Pengcheng Separatists Renegades,彭城叛党乱军,彭城獨立勢力叛黨,Vanilla,False
+People's Warband,黎首军,百姓兵團,Vanilla,False
+Pingyuan,平原,平原,Vanilla,False
+Pingyuan Commandery,平原豪强,平原郡,Vanilla,False
+Pingyuan Commandery Renegades,平原豪强乱军,平原郡叛黨,Vanilla,False
+Pingyuan Commandery Separatists,平原豪强叛党,平原郡獨立勢力,Vanilla,False
+Pingyuan Commandery Separatists Renegades,平原豪强叛党乱军,平原郡獨立勢力叛黨,Vanilla,False
+Pingyuan Separatist Renegades,平原叛党乱军,平原獨立勢力叛黨,Vanilla,False
+Pingyuan Separatists,平原叛党,平原獨立勢力,Vanilla,False
+Poachers,偷猎者,盜獵兵,Vanilla,False
+Poyang Commandery,鄱阳豪强,鄱陽郡,Vanilla,False
+Poyang Commandery Renegades,鄱阳豪强乱军,鄱陽郡叛黨,Vanilla,False
+Poyang Separatist Renegades,鄱阳叛党乱军,鄱陽獨立勢力叛黨,Vanilla,False
+Poyang Separatists,鄱阳叛党,鄱陽獨立勢力,Vanilla,False
+Poyang Separatists Renegades,鄱阳叛党乱军,鄱陽獨立勢力叛黨,Vanilla,False
+Prince Liu Chong,陈王刘宠,陳王劉寵,Vanilla,False
+Prince Liu Chong Renegades,刘宠乱军,陳王劉寵叛黨,Vanilla,False
+Prince Liu Chong Separatist Renegades,刘宠叛党乱军,陳王劉寵獨立勢力叛黨,Vanilla,False
+Prince Liu Chong Separatists,刘宠叛党,陳王劉寵獨立勢力,Vanilla,False
+Prince of Ba,巴王,巴王,Vanilla,False
+Prince of Ba Renegades,巴王乱军,巴王叛黨,Vanilla,False
+Prince of Ba Separatist Renegades,巴王叛党乱军,巴王獨立勢力叛黨,Vanilla,False
+Prince of Ba Separatists,巴王叛党,巴王獨立勢力,Vanilla,False
+Prince of Badong,巴东王,巴東王,Vanilla,False
+Prince of Badong Renegades,巴东王乱军,巴東王叛黨,Vanilla,False
+Prince of Badong Separatist Renegades,巴东王叛党乱军,巴東王獨立勢力叛黨,Vanilla,False
+Prince of Badong Separatists,巴东王叛党,巴東王獨立勢力,Vanilla,False
+Prince of Beihai,北海王,北海王,Vanilla,False
+Prince of Beihai Renegades,北海王乱军,北海王叛黨,Vanilla,False
+Prince of Beihai Separatist Renegades,北海王叛党乱军,北海王獨立勢力叛黨,Vanilla,False
+Prince of Beihai Separatists,北海王叛党,北海王獨立勢力,Vanilla,False
+Prince of Cangwu,苍梧王,蒼梧王,Vanilla,False
+Prince of Cangwu Renegades,苍梧王乱军,蒼梧王叛黨,Vanilla,False
+Prince of Cangwu Separatist Renegades,苍梧王叛党乱军,蒼梧王獨立勢力叛黨,Vanilla,False
+Prince of Changle,长乐王,長樂王,Vanilla,False
+Prince of Changle Renegades,长乐王乱军,長樂王叛黨,Vanilla,False
+Prince of Changle Separatist Renegades,长乐王叛党乱军,長樂王獨立勢力叛黨,Vanilla,False
+Prince of Changle Separatists,长乐王叛党,長樂王獨立勢力,Vanilla,False
+Prince of Changsha,长沙王,長沙王,Vanilla,False
+Prince of Changsha Renegades,长沙王乱军,長沙王叛黨,Vanilla,False
+Prince of Changsha Separatist Renegades,长沙王叛党乱军,長沙王獨立勢力叛黨,Vanilla,False
+Prince of Changsha Separatists,长沙王叛党,長沙王獨立勢力,Vanilla,False
+Prince of Chang’an,长安王,長安王,Vanilla,False
+Prince of Chang’an Renegades,长安王乱军,長安王叛黨,Vanilla,False
+Prince of Chang’an Separatist Renegades,长安王叛党乱军,長安王獨立勢力叛黨,Vanilla,False
+Prince of Chang’an Separatists,长安王叛党,長安王獨立勢力,Vanilla,False
+Prince of Chengdu,成都王,成都王,Vanilla,False
+Prince of Chengdu Renegades,成都王乱军,成都王叛黨,Vanilla,False
+Prince of Chengdu Separatist Renegades,成都王叛党乱军,成都王獨立勢力叛黨,Vanilla,False
+Prince of Chengdu Separatists,成都王叛党,成都王獨立勢力,Vanilla,False
+Prince of Chenliu,陈留王,陳留王,Vanilla,False
+Prince of Chenliu Renegades,陈留王乱军,陳留王叛黨,Vanilla,False
+Prince of Chenliu Separatist Renegades,陈留王叛党乱军,陳留王獨立勢力叛黨,Vanilla,False
+Prince of Chenliu Separatists,陈留王叛党,陳留王獨立勢力,Vanilla,False
+Prince of Chu,楚王,楚王,Vanilla,False
+Prince of Chu Renegades,楚王乱军,楚王叛黨,Vanilla,False
+Prince of Chu Separatist Renegades,楚王叛党乱军,楚王獨立勢力叛黨,Vanilla,False
+Prince of Chu Separatists,楚王叛党,楚王獨立勢力,Vanilla,False
+Prince of Dai,代王,代王,Vanilla,False
+Prince of Dai Renegades,代王乱军,代王叛黨,Vanilla,False
+Prince of Dai Separatist Renegades,代王叛党乱军,代王獨立勢力叛黨,Vanilla,False
+Prince of Dai Separatists,代王叛党,代王獨立勢力,Vanilla,False
+Prince of Dongan,东安王,東安王,Vanilla,False
+Prince of Dongan Renegades,东安王乱军,東安王叛黨,Vanilla,False
+Prince of Dongan Separatist Renegades,东安王郡叛党乱军,東安王獨立勢力叛黨,Vanilla,False
+Prince of Dongan Separatists,东安王叛党,東安王獨立勢力,Vanilla,False
+Prince of Donghai,东海王,東海王,Vanilla,False
+Prince of Donghai Renegades,东海王乱军,東海王叛黨,Vanilla,False
+Prince of Donghai Separatist Renegades,东海王叛党乱军,東海王獨立勢力叛黨,Vanilla,False
+Prince of Donghai Separatists,东海王叛党,東海王獨立勢力,Vanilla,False
+Prince of Donglai,东莱王,東萊王,Vanilla,False
+Prince of Donglai Renegades,东莱王乱军,東萊王叛黨,Vanilla,False
+Prince of Donglai Separatist Renegades,东莱王叛党乱军,東萊王獨立勢力叛黨,Vanilla,False
+Prince of Donglai Separatists,东莱王叛党,東萊王獨立勢力,Vanilla,False
+Prince of Dongping,东平王,東平王,Vanilla,False
+Prince of Dongping Renegades,东平王乱军,東平王叛黨,Vanilla,False
+Prince of Dongping Separatist Renegades,东平王叛党乱军,東平王獨立勢力叛黨,Vanilla,False
+Prince of Dongping Separatists,东平王叛党,東平王獨立勢力,Vanilla,False
+Prince of Fanyang,范阳王,范陽王,Vanilla,False
+Prince of Fanyang Renegades,范阳王乱军,范陽王叛黨,Vanilla,False
+Prince of Fanyang Separatist Renegades,范阳王叛党乱军,范陽王獨立勢力叛黨,Vanilla,False
+Prince of Fanyang Separatists,范阳王叛党,范陽王獨立勢力,Vanilla,False
+Prince of Fuling,涪陵王,涪陵王,Vanilla,False
+Prince of Fuling Renegades,涪陵王乱军,涪陵王叛黨,Vanilla,False
+Prince of Fuling Separatist Renegades,涪陵王叛党乱军,涪陵王獨立勢力叛黨,Vanilla,False
+Prince of Fuling Separatists,涪陵王叛党,涪陵王獨立勢力,Vanilla,False
+Prince of Gaoliang,高凉王,高涼王,Vanilla,False
+Prince of Gaoliang Renegades,高凉王乱军,高涼王叛黨,Vanilla,False
+Prince of Gaoliang Separatist Renegades,高凉王叛党乱军,高涼王獨立勢力叛黨,Vanilla,False
+Prince of Gaoliang Separatists,高凉王叛党,高涼王獨立勢力,Vanilla,False
+Prince of Gaoyang,高阳王,高陽王,Vanilla,False
+Prince of Gaoyang Renegades,高阳王乱军,高陽王叛黨,Vanilla,False
+Prince of Gaoyang Separatist Renegades,高阳王叛党乱军,高陽王獨立勢力叛黨,Vanilla,False
+Prince of Gaoyang Separatists,高阳王叛党,高陽王獨立勢力,Vanilla,False
+Prince of Han,汉王,漢王,Vanilla,False
+Prince of Han Renegades,汉王乱军,漢王叛黨,Vanilla,False
+Prince of Han Separatist Renegades,汉王叛党乱军,漢王獨立勢力叛黨,Vanilla,False
+Prince of Han Separatists,汉王叛党,漢王獨立勢力,Vanilla,False
+Prince of Hejian,河间王,河間王,Vanilla,False
+Prince of Hejian Renegades,河间王乱军,河間王叛黨,Vanilla,False
+Prince of Hejian Separatist Renegades,河间王叛党乱军,河間王獨立勢力叛黨,Vanilla,False
+Prince of Hejian Separatists,河间王叛党,河間王獨立勢力,Vanilla,False
+Prince of Henei,河内王,河內王,Vanilla,False
+Prince of Henei Renegades,河内王乱军,河內王叛黨,Vanilla,False
+Prince of Henei Separatist Renegades,河内王叛党乱军,河內王獨立勢力叛黨,Vanilla,False
+Prince of Henei Separatists,河内王叛党,河內王獨立勢力,Vanilla,False
+Prince of Hepu,合浦王,合浦王,Vanilla,False
+Prince of Hepu Renegades,合浦王乱军,合浦王叛黨,Vanilla,False
+Prince of Hepu Separatist Renegades,合浦王叛党乱军,合浦王獨立勢力叛黨,Vanilla,False
+Prince of Hepu Separatists,合浦王叛党,合浦王獨立勢力,Vanilla,False
+Prince of Huainan,淮南王,淮南王,Vanilla,False
+Prince of Huainan Renegades,淮南王乱军,淮南王叛黨,Vanilla,False
+Prince of Huainan Separatist Renegades,淮南王叛党乱军,淮南王獨立勢力叛黨,Vanilla,False
+Prince of Huainan Separatists,淮南王叛党,淮南王獨立勢力,Vanilla,False
+Prince of Jiangling,江陵王,江陵王,Vanilla,False
+Prince of Jiangling Renegades,江陵王乱军,江陵王叛黨,Vanilla,False
+Prince of Jiangling Separatist Renegades,江陵王叛党乱军,江陵王獨立勢力叛黨,Vanilla,False
+Prince of Jiangling Separatists,江陵王叛党,江陵王獨立勢力,Vanilla,False
+Prince of Jiangxia,江夏王,江夏王,Vanilla,False
+Prince of Jiangxia Renegades,江夏王乱军,江夏王叛黨,Vanilla,False
+Prince of Jiangxia Separatist Renegades,江夏王叛党乱军,江夏王獨立勢力叛黨,Vanilla,False
+Prince of Jiangxia Separatists,江夏王叛党,江夏王獨立勢力,Vanilla,False
+Prince of Jiangyang,江阳王,江陽王,Vanilla,False
+Prince of Jiangyang Renegades,江阳王乱军,江陽王叛黨,Vanilla,False
+Prince of Jiangyang Separatist Renegades,江阳王叛党乱军,江陽王獨立勢力叛黨,Vanilla,False
+Prince of Jiangyang Separatists,江阳王叛党,江陽王獨立勢力,Vanilla,False
+Prince of Jian’an,建安王,建安王,Vanilla,False
+Prince of Jian’an Renegades,建安王乱军,建安王叛黨,Vanilla,False
+Prince of Jian’an Separatist Renegades,建安王叛党乱军,建安王獨立勢力叛黨,Vanilla,False
+Prince of Jian’an Separatists,建安王叛党,建安王獨立勢力,Vanilla,False
+Prince of Jiaozhi,交趾王,交趾王,Vanilla,False
+Prince of Jiaozhi Renegades,交趾王乱军,交趾王叛黨,Vanilla,False
+Prince of Jiaozhi Separatist Renegades,交趾王叛党乱军,交趾王獨立勢力叛黨,Vanilla,False
+Prince of Jiaozhi Separatists,交趾王叛党,交趾王獨立勢力,Vanilla,False
+Prince of Jincheng,金城王,金城王,Vanilla,False
+Prince of Jincheng Renegades,金城王乱军,金城王叛黨,Vanilla,False
+Prince of Jincheng Separatist Renegades,金城王叛党乱军,金城王獨立勢力叛黨,Vanilla,False
+Prince of Jincheng Separatists,金城王叛党,金城王獨立勢力,Vanilla,False
+Prince of Kuaiji,会稽王,會稽王,Vanilla,False
+Prince of Kuaiji Renegades,会稽王乱军,會稽王叛黨,Vanilla,False
+Prince of Kuaiji Separatist Renegades,会稽王叛党乱军,會稽王獨立勢力叛黨,Vanilla,False
+Prince of Kuaiji Separatists,会稽王叛党,會稽王獨立勢力,Vanilla,False
+Prince of Langye,琅琊王,琅邪王,Vanilla,False
+Prince of Langye Renegades,琅琊王乱军,琅邪王叛黨,Vanilla,False
+Prince of Langye Separatist Renegades,琅琊王叛党乱军,琅邪王獨立勢力叛黨,Vanilla,False
+Prince of Langye Separatists,琅琊王叛党,琅邪王獨立勢力,Vanilla,False
+Prince of Lean,乐安王,樂安王,Vanilla,False
+Prince of Lean Renegades,乐安王乱军,樂安王叛黨,Vanilla,False
+Prince of Lean Separatist Renegades,乐安王叛党乱军,樂安王獨立勢力叛黨,Vanilla,False
+Prince of Lean Separatists,乐安王叛党,樂安王獨立勢力,Vanilla,False
+Prince of Liang,梁王,梁王,Vanilla,False
+Prince of Liang Renegades,梁王乱军,梁王叛黨,Vanilla,False
+Prince of Liang Separatist Renegades,梁王叛党乱军,梁王獨立勢力叛黨,Vanilla,False
+Prince of Liang Separatists,梁王叛党,梁王獨立勢力,Vanilla,False
+Prince of Liaoxi,辽西王,遼西王,Vanilla,False
+Prince of Liaoxi Renegades,辽西王乱军,遼西王叛黨,Vanilla,False
+Prince of Liaoxi Separatist Renegades,辽西王叛党乱军,遼西王獨立勢力叛黨,Vanilla,False
+Prince of Liaoxi Separatists,辽西王叛党,遼西王獨立勢力,Vanilla,False
+Prince of Lingling,零陵王,零陵王,Vanilla,False
+Prince of Lingling Renegades,零陵王乱军,零陵王叛黨,Vanilla,False
+Prince of Lingling Separatist Renegades,零陵王叛党乱军,零陵王獨立勢力叛黨,Vanilla,False
+Prince of Lingling Separatists,零陵王叛党,零陵王獨立勢力,Vanilla,False
+Prince of Longxi,陇西王,隴西王,Vanilla,False
+Prince of Longxi Renegades,陇西王乱军,隴西王叛黨,Vanilla,False
+Prince of Longxi Separatist Renegades,陇西王叛党乱军,隴西王獨立勢力叛黨,Vanilla,False
+Prince of Longxi Separatists,陇西王叛党,隴西王獨立勢力,Vanilla,False
+Prince of Lujiang,庐江王,廬江王,Vanilla,False
+Prince of Lujiang Renegades,庐江王乱军,廬江王叛黨,Vanilla,False
+Prince of Lujiang Separatist Renegades,庐江王叛党乱军,廬江王獨立勢力叛黨,Vanilla,False
+Prince of Lujiang Separatists,庐江王叛党,廬江王獨立勢力,Vanilla,False
+Prince of Luling,庐陵王,廬陵王,Vanilla,False
+Prince of Luling Renegades,庐陵王乱军,廬陵王叛黨,Vanilla,False
+Prince of Luling Separatist Renegades,庐陵王叛党乱军,廬陵王獨立勢力叛黨,Vanilla,False
+Prince of Luling Separatists,庐陵王叛党,廬陵王獨立勢力,Vanilla,False
+Prince of Nanhai,南海王,南海王,Vanilla,False
+Prince of Nanhai Renegades,南海王乱军,南海王叛黨,Vanilla,False
+Prince of Nanhai Separatist Renegades,南海王叛党乱军,南海王獨立勢力叛黨,Vanilla,False
+Prince of Nanhai Separatists,南海王叛党,南海王獨立勢力,Vanilla,False
+Prince of Nanyang,南阳王,南陽王,Vanilla,False
+Prince of Nanyang Renegades,南阳王乱军,南陽王叛黨,Vanilla,False
+Prince of Nanyang Separatist Renegades,南阳王叛党乱军,南陽王獨立勢力叛黨,Vanilla,False
+Prince of Nanyang Separatists,南阳王叛党,南陽王獨立勢力,Vanilla,False
+Prince of Pengcheng,彭城王,彭城王,Vanilla,False
+Prince of Pengcheng Renegades,彭城王乱军,彭城王叛黨,Vanilla,False
+Prince of Pengcheng Separatist Renegades,彭城王叛党乱军,彭城王獨立勢力叛黨,Vanilla,False
+Prince of Pengcheng Separatists,彭城王叛党,彭城王獨立勢力,Vanilla,False
+Prince of Piling,毗陵王,毗陵王,Vanilla,False
+Prince of Piling Renegades,毗陵王乱军,毗陵王叛黨,Vanilla,False
+Prince of Piling Separatist Renegades,毗陵王叛党乱军,毗陵王獨立勢力叛黨,Vanilla,False
+Prince of Piling Separatists,毗陵王叛党,毗陵王獨立勢力,Vanilla,False
+Prince of Pingyuan,平原王,平原王,Vanilla,False
+Prince of Pingyuan Renegades,平原王乱军,平原王叛黨,Vanilla,False
+Prince of Pingyuan Separatist Renegades,平原王叛党乱军,平原王獨立勢力叛黨,Vanilla,False
+Prince of Pingyuan Separatists,平原王叛党,平原王獨立勢力,Vanilla,False
+Prince of Poyang,鄱阳王,鄱陽王,Vanilla,False
+Prince of Poyang Renegades,鄱阳王乱军,鄱陽王叛黨,Vanilla,False
+Prince of Poyang Separatist Renegades,鄱阳王叛党乱军,鄱陽王獨立勢力叛黨,Vanilla,False
+Prince of Poyang Separatists,鄱阳王叛党,鄱陽王獨立勢力,Vanilla,False
+Prince of Qi,齐王,齊王,Vanilla,False
+Prince of Qi Renegades,齐王乱军,齊王叛黨,Vanilla,False
+Prince of Qi Separatist Renegades,齐王叛党乱军,齊王獨立勢力叛黨,Vanilla,False
+Prince of Qi Separatists,齐王叛党,齊王獨立勢力,Vanilla,False
+Prince of Qiao,谯王,譙王,Vanilla,False
+Prince of Qiao Renegades,谯王乱军,譙王叛黨,Vanilla,False
+Prince of Qiao Separatist Renegades,谯王叛党乱军,譙王獨立勢力叛黨,Vanilla,False
+Prince of Qiao Separatists,谯王叛党,譙王獨立勢力,Vanilla,False
+Prince of Qin,秦王,秦王,Vanilla,False
+Prince of Qin Renegades,秦王乱军,秦王叛黨,Vanilla,False
+Prince of Qin Separatist Renegades,秦王叛党乱军,秦王獨立勢力叛黨,Vanilla,False
+Prince of Qin Separatists,秦王叛党,秦王獨立勢力,Vanilla,False
+Prince of Qinghe,清河王,清河王,Vanilla,False
+Prince of Qinghe Renegades,清河王乱军,清河王叛黨,Vanilla,False
+Prince of Qinghe Separatist Renegades,清河王叛党乱军,清河王獨立勢力叛黨,Vanilla,False
+Prince of Qinghe Separatists,清河王叛党,清河王獨立勢力,Vanilla,False
+Prince of Rencheng,任城王,任城王,Vanilla,False
+Prince of Rencheng Renegades,任城王乱军,任城王叛黨,Vanilla,False
+Prince of Rencheng Separatist Renegades,任城王叛党乱军,任城王獨立勢力叛黨,Vanilla,False
+Prince of Rencheng Separatists,任城王叛党,任城王獨立勢力,Vanilla,False
+Prince of Ru'nan,汝南王,汝南王,Vanilla,False
+Prince of Ru'nan Renegades,汝南王乱军,汝南王叛黨,Vanilla,False
+Prince of Ru'nan Separatist Renegades,汝南王叛党乱军,汝南王獨立勢力叛黨,Vanilla,False
+Prince of Ru'nan Separatists,汝南王叛党,汝南王獨立勢力,Vanilla,False
+Prince of Shunyang,顺阳王,順陽王,Vanilla,False
+Prince of Shunyang Renegades,顺阳王乱军,順陽王叛黨,Vanilla,False
+Prince of Shunyang Separatist Renegades,顺阳王叛党乱军,順陽王獨立勢力叛黨,Vanilla,False
+Prince of Shunyang Separatists,顺阳王叛党,順陽王獨立勢力,Vanilla,False
+Prince of Taiyuan,太原王,太原王,Vanilla,False
+Prince of Taiyuan Renegades,太原王乱军,太原王叛黨,Vanilla,False
+Prince of Taiyuan Separatist Renegades,太原王叛党乱军,太原王獨立勢力叛黨,Vanilla,False
+Prince of Taiyuan Separatists,太原王叛党,太原王獨立勢力,Vanilla,False
+Prince of Tong’an,同安王,同安王,Vanilla,False
+Prince of Tong’an Renegades,同安王乱军,同安王叛黨,Vanilla,False
+Prince of Tong’an Separatist Renegades,同安王叛党乱军,同安王獨立勢力叛黨,Vanilla,False
+Prince of Tong’an Separatists,同安王叛党,同安王獨立勢力,Vanilla,False
+Prince of Wu,吴王,吳王,Vanilla,False
+Prince of Wu Renegades,吴王乱军,吳王叛黨,Vanilla,False
+Prince of Wu Separatist Renegades,吴王叛党乱军,吳王獨立勢力叛黨,Vanilla,False
+Prince of Wu Separatists,吴王叛党,吳王獨立勢力,Vanilla,False
+Prince of Wudu,武都王,武都王,Vanilla,False
+Prince of Wudu Renegades,武都王乱军,武都王叛黨,Vanilla,False
+Prince of Wudu Separatist Renegades,武都王叛党乱军,武都王獨立勢力叛黨,Vanilla,False
+Prince of Wudu Separatists,武都王叛党,武都王獨立勢力,Vanilla,False
+Prince of Wuling,武陵王,武陵王,Vanilla,False
+Prince of Wuling Renegades,武陵王乱军,武陵王叛黨,Vanilla,False
+Prince of Wuling Separatist Renegades,武陵王叛党乱军,武陵王獨立勢力叛黨,Vanilla,False
+Prince of Wuling Separatists,武陵王叛党,武陵王獨立勢力,Vanilla,False
+Prince of Xiapi,下邳王,下邳王,Vanilla,False
+Prince of Xiapi Renegades,下邳王乱军,下邳王叛黨,Vanilla,False
+Prince of Xiapi Separatist Renegades,下邳王叛党乱军,下邳王獨立勢力叛黨,Vanilla,False
+Prince of Xiapi Separatists,下邳王叛党,下邳王獨立勢力,Vanilla,False
+Prince of Xihe,西河王,西河王,Vanilla,False
+Prince of Xihe Renegades,西河王乱军,西河王叛黨,Vanilla,False
+Prince of Xihe Separatist Renegades,西河王叛党乱军,西河王獨立勢力叛黨,Vanilla,False
+Prince of Xihe Separatists,西河王叛党,西河王獨立勢力,Vanilla,False
+Prince of Xindu,新都王,新都王,Vanilla,False
+Prince of Xindu Renegades,新都王乱军,新都王叛黨,Vanilla,False
+Prince of Xindu Separatist Renegades,新都王叛党乱军,新都王獨立勢力叛黨,Vanilla,False
+Prince of Xindu Separatists,新都王叛党,新都王獨立勢力,Vanilla,False
+Prince of Xinye,新野王,新野王,Vanilla,False
+Prince of Xinye Renegades,新野王乱军,新野王叛黨,Vanilla,False
+Prince of Xinye Separatist Renegades,新野王叛党乱军,新野王獨立勢力叛黨,Vanilla,False
+Prince of Xinye Separatists,新野王叛党,新野王獨立勢力,Vanilla,False
+Prince of Yan,燕王,燕王,Vanilla,False
+Prince of Yan Renegades,燕王乱军,燕王叛黨,Vanilla,False
+Prince of Yan Separatist Renegades,燕王叛党乱军,燕王獨立勢力叛黨,Vanilla,False
+Prince of Yan Separatists,燕王叛党,燕王獨立勢力,Vanilla,False
+Prince of Yangzhou,扬州王,揚州王,Vanilla,False
+Prince of Yangzhou Renegades,扬州王乱军,揚州王叛黨,Vanilla,False
+Prince of Yangzhou Separatist Renegades,扬州王叛党乱军,揚州王獨立勢力叛黨,Vanilla,False
+Prince of Yangzhou Separatists,扬州王叛党,揚州王獨立勢力,Vanilla,False
+Prince of Yanmen,雁门王,雁門王,Vanilla,False
+Prince of Yanmen Renegades,雁门王乱军,雁門王叛黨,Vanilla,False
+Prince of Yanmen Separatist Renegades,雁门王叛党乱军,雁門王獨立勢力叛黨,Vanilla,False
+Prince of Yanmen Separatists,雁门王叛党,雁門王獨立勢力,Vanilla,False
+Prince of Ye,邺王,鄴王,Vanilla,False
+Prince of Ye Renegades,邺王乱军,鄴王叛黨,Vanilla,False
+Prince of Ye Separatist Renegades,邺王叛党乱军,鄴王獨立勢力叛黨,Vanilla,False
+Prince of Ye Separatists,邺王叛党,鄴王獨立勢力,Vanilla,False
+Prince of Yiyang,益阳王,義陽王,Vanilla,False
+Prince of Yiyang Renegades,益阳王乱军,義陽王叛黨,Vanilla,False
+Prince of Yiyang Separatist Renegades,益阳王叛党乱军,義陽王獨立勢力叛黨,Vanilla,False
+Prince of Yiyang Separatists,益阳王叛党,義陽王獨立勢力,Vanilla,False
+Prince of Yizhou,益州王,益州王,Vanilla,False
+Prince of Yizhou Renegades,益州王乱军,益州王叛黨,Vanilla,False
+Prince of Yizhou Separatist Renegades,益州王叛党乱军,益州王獨立勢力叛黨,Vanilla,False
+Prince of Yizhou Separatists,益州王叛党,益州王獨立勢力,Vanilla,False
+Prince of Yuzhang,豫章王,豫章王,Vanilla,False
+Prince of Yuzhang Renegades,豫章王乱军,豫章王叛黨,Vanilla,False
+Prince of Yuzhang Separatist Renegades,豫章王叛党乱军,豫章王獨立勢力叛黨,Vanilla,False
+Prince of Yuzhang Separatists,豫章王叛党,豫章王獨立勢力,Vanilla,False
+Prince of Zangke,牂牁王,牂牁王,Vanilla,False
+Prince of Zangke Renegades,牂牁王乱军,牂牁王叛黨,Vanilla,False
+Prince of Zangke Separatist Renegades,牂牁王叛党乱军,牂牁王獨立勢力叛黨,Vanilla,False
+Prince of Zangke Separatists,牂牁王叛党,牂牁王獨立勢力,Vanilla,False
+Prince of Zhangwu,章武王,章武王,Vanilla,False
+Prince of Zhangwu Renegades,章武王乱军,章武王叛黨,Vanilla,False
+Prince of Zhangwu Separatist Renegades,章武王叛党乱军,章武王獨立勢力叛黨,Vanilla,False
+Prince of Zhangwu Separatists,章武王叛党,章武王獨立勢力,Vanilla,False
+Prince of Zhao,赵王,趙王,Vanilla,False
+Prince of Zhao Renegades,赵王乱军,趙王叛黨,Vanilla,False
+Prince of Zhao Separatist Renegades,赵王叛党乱军,趙王獨立勢力叛黨,Vanilla,False
+Prince of Zhao Separatists,赵王叛党,趙王獨立勢力,Vanilla,False
+Prince of Zhongshan,中山王,中山王,Vanilla,False
+Prince of Zhongshan Renegades,中山王乱军,中山王叛黨,Vanilla,False
+Prince of Zhongshan Separatist Renegades,中山王叛党乱军,中山王獨立勢力叛黨,Vanilla,False
+Prince of Zhongshan Separatists,中山王叛党,中山王獨立勢力,Vanilla,False
+Protectors of Heaven,乾天卫军,皇天衛,Vanilla,False
+Puyang Separatist Renegades,濮阳叛党乱军,濮陽獨立勢力叛黨,Vanilla,False
+Puyang Separatists,濮阳叛党,濮陽獨立勢力,Vanilla,False
+Qi,齐,齊,Vanilla,False
+Qi Crossbowmen,齐国弩兵,齊國弩兵,Vanilla,False
+Qi Guardsmen,齐国宿卫,齊國衛兵,Vanilla,False
+Qi Separatists,齐叛党,齊獨立勢力,Vanilla,False
+Qiang Archers,羌族弓手,羌族弓兵,Vanilla,False
+Qiang Hunters,羌族猎手,羌族獵人,Vanilla,False
+Qiang Marauders,羌族劫匪,羌族掠奪者,Vanilla,False
+Qiang Polearms,羌族矛兵,羌族槍兵,Vanilla,False
+Qiang Raiders,羌族掠袭骑兵,羌族突襲隊,Vanilla,False
+Qiang Warriors,羌族猛士,羌族兵,Vanilla,False
+Qiao Mao,桥瑁,橋瑁,Vanilla,False
+Qiao Mao Renegades,桥瑁乱军,橋瑁叛黨,Vanilla,False
+Qiao Mao Separatist Renegades,桥瑁叛党乱军,橋瑁獨立勢力叛黨,Vanilla,False
+Qiao Mao Separatists,桥瑁叛党,橋瑁獨立勢力,Vanilla,False
+Qingzhou Assault Infantry,青州锋锐,青州突襲步兵,Vanilla,False
+Qingzhou Halberds,青州戟兵,青州戟兵,Vanilla,False
+Qingzhou Spears,青州矛兵,青州長槍兵,Vanilla,False
+Qu Gong,瞿恭,瞿恭,Lookup,False
+RANDOM,,,Vanilla,False
+Raider Cavalry,突袭骑兵,劫匪騎兵,Vanilla,False
+Rapid Tiger Infantry,虎捷军,虎賁軍,Vanilla,False
+Ravine Warriors,八纳洞兵,洞兵,Vanilla,False
+Rebels,叛军,叛軍,Vanilla,False
+Reclaimers,敛拾队,回收兵,Vanilla,False
+Redeemed Outlaws,收编贼徒,贖罪囚徒,Vanilla,False
+Repeating Crossbowmen,连弩兵,連弩兵,Vanilla,False
+Righteous Vanguards,义烈先锋,宣義先鋒,Vanilla,False
+Runan,汝南,汝南,Vanilla,False
+Runan Commandery,汝南豪强,汝南郡,Vanilla,False
+Runan Commandery Renegades,汝南豪强乱军,汝南郡叛黨,Vanilla,False
+Runan Commandery Separatists,汝南豪强叛党,汝南郡獨立勢力,Vanilla,False
+Runan Commandery Separatists Renegades,汝南豪强叛党乱军,汝南郡獨立勢力叛黨,Vanilla,False
+Runan Separatist Renegades,汝南叛党乱军,汝南獨立勢力叛黨,Vanilla,False
+Runan Separatists,汝南叛党,汝南獨立勢力,Vanilla,False
+Sabre Cavalry,持刀骑兵,刀騎兵,Vanilla,False
+Sabre Defectors,变节刀兵,持刀叛逃兵,Vanilla,False
+Sabre Infantry,持刀步兵,持刀步兵,Vanilla,False
+Sabre Militia,持刀民兵,義勇佩刀兵,Vanilla,False
+Sanjiang Poison Darts,三江毒箭手,三江毒鏢兵,Vanilla,False
+Sanjiang Poison Spears,三江毒矛手,三江毒槍兵,Vanilla,False
+Scholar-warriors,文武军,學究戰士,Vanilla,False
+Shangdang,上党,上黨,Vanilla,False
+Shangdang Commandery,上党豪强,上黨郡,Vanilla,False
+Shangdang Commandery Renegades,上党豪强乱军,上黨郡叛黨,Vanilla,False
+Shangdang Separatist Renegades,上党叛党乱军,上黨獨立勢力叛黨,Vanilla,False
+Shangdang Separatists,上党叛党,上黨獨立勢力,Vanilla,False
+Shangdang Separatists Renegades,上党叛党乱军,上黨獨立勢力叛黨,Vanilla,False
+Shangyong,上庸,上庸,Vanilla,False
+Shangyong Commandery,上庸豪强,上庸郡,Vanilla,False
+Shangyong Commandery Renegades,上庸豪强乱军,上庸郡叛黨,Vanilla,False
+Shangyong Commandery Separatists,上庸豪强叛党,上庸郡獨立勢力,Vanilla,False
+Shangyong Commandery Separatists Renegades,上庸豪强叛党乱军,上庸郡獨立勢力叛黨,Vanilla,False
+Shangyong Separatist Renegades,上庸叛党乱军,上庸獨立勢力叛黨,Vanilla,False
+Shangyong Separatists,上庸叛党,上庸獨立勢力,Vanilla,False
+Shanyue Rebels,山越叛军,山越反抗軍,Vanilla,False
+Shanyue Renegades,山越乱军,山越叛黨,Vanilla,False
+Shanyue Separatist Renegades,山越叛党乱军,山越獨立勢力叛黨,Vanilla,False
+Shanyue Separatists,山越叛党,山越獨立勢力,Vanilla,False
+Shen Pei,审配,審配,Lookup,False
+Sheng Xian,盛宪,盛憲,Vanilla,False
+Sheng Xian Renegades,盛宪乱军,盛憲叛黨,Vanilla,False
+Sheng Xian Separatist Renegades,盛宪叛党乱军,盛憲獨立勢力叛黨,Vanilla,False
+Sheng Xian Separatists,盛宪叛党,盛憲獨立勢力,Vanilla,False
+Shi Hui,士徽,士徽,Vanilla,False
+Shi Hui Renegades,士徽乱军,士徽叛黨,Vanilla,False
+Shi Hui Separatist Renegades,士徽叛党乱军,士徽獨立勢力叛黨,Vanilla,False
+Shi Hui Separatists,士徽叛党,士徽獨立勢力,Vanilla,False
+Shi Wei,士䵋,士䵋,Vanilla,False
+Shi Wei Renegades,士䵋乱军,士䵋叛黨,Vanilla,False
+Shi Wei Separatist Renegades,士䵋叛党乱军,士䵋獨立勢力叛黨,Vanilla,False
+Shi Wei Separatists,士䵋叛党,士䵋獨立勢力,Vanilla,False
+Shi Wu,士武,士武,Vanilla,False
+Shi Wu Renegades,士武乱军,士武叛黨,Vanilla,False
+Shi Wu Separatist Renegades,士武叛党乱军,士武獨立勢力叛黨,Vanilla,False
+Shi Wu Separatists,士武叛党,士武獨立勢力,Vanilla,False
+Shi Xie,士燮,士燮,Vanilla,False
+Shi Xie Renegades,士燮乱军,士燮叛黨,Vanilla,False
+Shi Xie Separatists,士燮叛党,士燮獨立勢力,Vanilla,False
+Shi Xie Separatists Renegades,士燮叛党乱军,士燮獨立勢力叛黨,Vanilla,False
+Shi Yi,士壹,士壹,Vanilla,False
+Shi Yi Renegades,士壹乱军,士壹叛黨,Vanilla,False
+Shi Yi Separatist Renegades,士壹叛党乱军,士壹獨立勢力叛黨,Vanilla,False
+Shi Yi Separatists,士壹叛党,士壹獨立勢力,Vanilla,False
+Shields of the South,南境盾手,南方之盾,Vanilla,False
+Shoufang Commandery,朔方豪强,朔方郡,Vanilla,False
+Shoufang Commandery Renegades,朔方豪强乱军,朔方郡叛黨,Vanilla,False
+Shoufang Separatist Renegades,朔方叛党乱军,朔方獨立勢力叛黨,Vanilla,False
+Shoufang Separatists,朔方叛党,朔方獨立勢力,Vanilla,False
+Shu Commandery,蜀郡豪强,蜀郡,Vanilla,False
+Shu Commandery Renegades,蜀郡豪强乱军,蜀郡叛黨,Vanilla,False
+Shu Separatists,蜀郡叛党,蜀獨立勢力,Vanilla,False
+Shu Separatists Renegades,蜀郡叛党乱军,蜀獨立勢力叛黨,Vanilla,False
+Shu-Han,蜀汉,蜀漢,Vanilla,False
+Shu-Han Separatists,蜀汉叛党,蜀漢獨立勢力,Vanilla,False
+Shuofang Commandery,朔方豪强,朔方郡,Vanilla,False
+Shuofang Commandery Renegades,朔方豪强乱军,朔方郡叛黨,Vanilla,False
+Shuofang Separatists,朔方叛党,朔方獨立勢力,Vanilla,False
+Shuofang Separatists Renegades,朔方叛党乱军,朔方獨立勢力叛黨,Vanilla,False
+Sima Ai,司马乂,司馬乂,Vanilla,False
+Sima Jiong,司马冏,司馬冏,Vanilla,False
+Sima Liang,司马亮,司馬亮,Vanilla,False
+Sima Lun,司马伦,司馬倫,Vanilla,False
+Sima Wei,司马玮,司馬瑋,Vanilla,False
+Sima Yi,司马懿,司馬懿,Vanilla,False
+Sima Ying,司马颖,司馬穎,Vanilla,False
+Sima Yong,司马颙,司馬顒,Vanilla,False
+Sima Yue,司马越,司馬越,Vanilla,False
+Song,宋,宋,Vanilla,False
+Song Separatists,宋叛党,宋獨立勢力,Vanilla,False
+Southern Elephants,南蛮象兵,南方象兵,Vanilla,False
+Southern Jian'an,南建安,南建安,Vanilla,False
+Southern Jian'an Commandery,南建安豪强,南建安郡,Vanilla,False
+Southern Jian'an Commandery Renegades,南建安豪强乱军,南建安郡叛黨,Vanilla,False
+Southern Jian'an Commandery Separatists,南建安豪强叛党,南建安郡獨立勢力,Vanilla,False
+Southern Jian'an Commandery Separatists Renegades,南建安豪强叛党乱军,南建安郡獨立勢力叛黨,Vanilla,False
+Southern Jian'an Separatists,南建安叛党,南建安獨立勢力,Vanilla,False
+Spear Guards,持矛亲卫,長槍衛兵,Vanilla,False
+Spear Warriors,持矛勇士,長槍戰士,Vanilla,False
+Spearmen Gang,矛兵团,長槍兵團,Vanilla,False
+Stalwart Shields,坚盾卫士,堅盾衛士,Vanilla,False
+Sui,隋,遂,Vanilla,False
+Sui Separatists,隋叛党,遂獨立勢力,Vanilla,False
+Sun Ce,孙策,孫策,Vanilla,False
+Sun Jian,孙坚,孫堅,Vanilla,False
+Sun Jian Renegades,孙坚乱军,孫堅叛黨,Vanilla,False
+Sun Jian Separatists,孙坚叛党,孫堅獨立勢力,Vanilla,False
+Sun Jian Separatists Renegades,孙坚叛党乱军,孫堅獨立勢力叛黨,Vanilla,False
+Sun Quan,孙权,孫權,Vanilla,False
+Sun Ren,孙仁,孫仁,Vanilla,False
+Tai Bandits,郑姜,泰山盜賊,Vanilla,False
+Tai Separatists,郑姜叛党,泰山獨立勢力,Vanilla,False
+Taiyuan Commandery,太原豪强,太原郡,Vanilla,False
+Taiyuan Commandery Renegades,太原豪强乱军,太原郡叛黨,Vanilla,False
+Taiyuan Separatist Renegades,太原叛党乱军,太原獨立勢力叛黨,Vanilla,False
+Taiyuan Separatists,太原叛党,太原獨立勢力,Vanilla,False
+Taiyuan Separatists Renegades,太原叛党乱军,太原獨立勢力叛黨,Vanilla,False
+Tan,郯,郯,Vanilla,False
+Tan Separatists,郯叛党,郯獨立勢力,Vanilla,False
+Tang,唐,唐,Vanilla,False
+Tang Separatists,唐叛党,唐獨立勢力,Vanilla,False
+Tao Qian,陶谦,陶謙,Vanilla,False
+Tao Qian Renegades,陶谦乱军,陶謙叛黨,Vanilla,False
+Tao Qian Separatists,陶谦叛党,陶謙獨立勢力,Vanilla,False
+Tao Qian Separatists Renegades,陶谦乱军,陶謙獨立勢力叛黨,Vanilla,False
+Territorial Archers,义勇弓手,護土弓兵,Vanilla,False
+Territorial Spearmen,义勇矛兵,護土長槍兵,Vanilla,False
+The Land's Chosen,卫土猛士,地傑軍,Vanilla,False
+Thunder of Jian'an,建安雷霆军,建安之雷,Vanilla,False
+Tian,田,田,Vanilla,False
+Tian Kai,田楷,田楷,Vanilla,False
+Tian Kai Renegades,田楷乱军,田楷叛黨,Vanilla,False
+Tian Kai Separatist Renegades,田楷叛党乱军,田楷獨立勢力叛黨,Vanilla,False
+Tian Kai Separatists,田楷叛党,田楷獨立勢力,Vanilla,False
+Tiger & Leopard Cavalry,虎豹骑,虎豹騎兵,Vanilla,False
+Tiger Cubs,雏虎,少虎騎,Vanilla,False
+Tiger Guard,车下虎士,猛虎衛,Vanilla,False
+Tiger Slingers,猛虎投石兵,猛虎投石兵,Vanilla,False
+Tiger Warriors,猛虎战士,猛虎戰士,Vanilla,False
+Trebuchet,霹雳车,投石機,Vanilla,False
+Tu'An,土安,土安,Vanilla,False
+Tu'An Renegades,土安乱军,土安叛黨,Vanilla,False
+Tu'An Separatists,土安叛党,土安獨立勢力,Vanilla,False
+Tu'An Separatists Renegades,土安叛党乱军,土安獨立勢力叛黨,Vanilla,False
+Tyrant Slayers,除暴义兵,除暴軍,Vanilla,False
+Valley Tribesmen,五溪部民,五谿族眾,Vanilla,False
+Venerable Wu,神巫,聖巫軍,Vanilla,False
+Virtuous Noblemen,贤贵军,名門賢士,Vanilla,False
+Wang,王氏,王,Vanilla,False
+Wang Kuang,王匡,王匡,Vanilla,False
+Wang Kuang Renegades,王匡乱军,王匡叛黨,Vanilla,False
+Wang Kuang Separatists,王匡叛党,王匡獨立勢力,Vanilla,False
+Wang Kuang Separatists Renegades,王匡乱军,王匡獨立勢力叛黨,Vanilla,False
+Wang Lang,王朗,王朗,Vanilla,False
+Wang Lang Renegades,王朗乱军,王朗叛黨,Vanilla,False
+Wang Lang Separatists,王朗叛党,王朗獨立勢力,Vanilla,False
+Wang Lang Separatists Renegades,王朗乱军,王朗獨立勢力叛黨,Vanilla,False
+Wang Rui,王睿,王睿,Vanilla,False
+Wang Rui Renegades,王睿乱军,王睿叛黨,Vanilla,False
+Wang Rui Separatists,王睿叛党,王睿獨立勢力,Vanilla,False
+Wang Rui Separatists Renegades,王睿叛党乱军,王睿獨立勢力叛黨,Vanilla,False
+Wang Separatists,王氏叛党,王獨立勢力,Vanilla,False
+War Elephants,战象,戰象兵,Vanilla,False
+Warriors of Xu,徐国勇士,徐州勇士,Vanilla,False
+Warriors of Ye,邺国勇士,鄴城勇士,Vanilla,False
+Warriors of the Left,左阵军,左軍戰士,Vanilla,False
+Watchmen of the Peace,卫平军,和平守衛,Vanilla,False
+Wei,魏郡,魏,Vanilla,False
+Wei Commandery,魏郡豪强,魏郡,Vanilla,False
+Wei Commandery Renegades,魏郡豪强乱军,魏郡叛黨,Vanilla,False
+Wei Separatist Renegades,魏郡叛党乱军,魏獨立勢力叛黨,Vanilla,False
+Wei Yan,魏延,魏延,Vanilla,False
+Wen Chou,文丑,文醜,Vanilla,False
+White Horse Fellows,白马义从,白馬義從,Vanilla,False
+White Horse Raiders,白马游骑,白馬突襲隊,Vanilla,False
+White Tiger Raiders,白虎掠袭者,白虎劫匪,Vanilla,False
+White Tiger Warriors,白虎勇士,白虎軍,Vanilla,False
+White Tiger Yan,严白虎,嚴白虎,Vanilla,False
+White Wave Horsemen,白波骑兵,白波騎兵,Vanilla,False
+White Wave Veterans,白波旧部,白波老兵,Vanilla,False
+Wolf Pack,群狼,群狼兵,Vanilla,False
+Wu,吴,吳,Vanilla,False
+Wu Anguo,武安国,武安囯,Lookup,False
+Wu Jing,吴景,吳景,Vanilla,False
+Wu Jing Separatists,吴景叛党,吳景獨立勢力,Vanilla,False
+Wu Renegades,吴乱军,吳叛黨,Vanilla,False
+Wu Separatist Renegades,吴叛党乱军,吳獨立勢力叛黨,Vanilla,False
+Wu Separatists,吴叛党,吳獨立勢力,Vanilla,False
+Wudu Commandery,武都豪强,武都郡,Vanilla,False
+Wudu Commandery Renegades,武都豪强乱军,武都郡叛黨,Vanilla,False
+Wudu Commandery Separatists,武都豪强叛党,武都郡獨立勢力,Vanilla,False
+Wudu Commandery Separatists Renegades,武都豪强叛党乱军,武都郡獨立勢力叛黨,Vanilla,False
+Wudu Separatist Renegades,武都叛党乱军,武都獨立勢力叛黨,Vanilla,False
+Wudu Separatists,武都叛党,武都獨立勢力,Vanilla,False
+Wuguo Axe Throwers,乌戈飞斧兵,烏戈飛斧手,Vanilla,False
+Wuling,武陵,武陵,Vanilla,False
+Wuling Commandery,武陵豪强,武陵郡,Vanilla,False
+Wuling Commandery Renegades,武陵豪强乱军,武陵郡叛黨,Vanilla,False
+Wuling Fighters,武陵战士,武陵鬥士,Vanilla,False
+Wuling Separatist Renegades,武陵叛党乱军,武陵獨立勢力叛黨,Vanilla,False
+Wuling Separatists,武陵叛党,武陵獨立勢力,Vanilla,False
+Wuling Separatists Renegades,武陵叛党乱军,武陵獨立勢力叛黨,Vanilla,False
+Wuling Slingers,武陵投石兵,武陵投石兵,Vanilla,False
+Wuwei Commandery,武威豪强,武威郡,Vanilla,False
+Wuwei Commandery Renegades,武威豪强乱军,武威郡叛黨,Vanilla,False
+Wuwei Commandery Separatists,武威豪强叛党,武威郡獨立勢力,Vanilla,False
+Wuwei Commandery Separatists Renegades,武威豪强叛党乱军,武威郡獨立勢力叛黨,Vanilla,False
+Wuwei Separatist Renegades,武威叛党乱军,武威獨立勢力叛黨,Vanilla,False
+Wuwei Separatists,武威叛党,武威獨立勢力,Vanilla,False
+Xi'Ni,奚泥,奚泥,Vanilla,False
+Xi'Ni Renegades,奚泥乱军,奚泥叛黨,Vanilla,False
+Xi'Ni Separatists,奚泥叛党,奚泥獨立勢力,Vanilla,False
+Xi'Ni Separatists Renegades,奚泥叛党乱军,奚泥獨立勢力叛黨,Vanilla,False
+Xiahou Dun,夏侯惇,夏侯惇,Vanilla,False
+Xiahou Yuan,夏侯渊,夏侯淵,Vanilla,False
+Xianbei Horse Archers,鲜卑马弓手,鮮卑弓騎兵,Vanilla,False
+Xianbei Riders,鲜卑掠骑兵,鮮卑騎兵,Vanilla,False
+Xiangyang Commandery,襄阳豪强,襄陽郡,Vanilla,False
+Xiangyang Commandery Renegades,襄阳豪强乱军,襄陽郡叛黨,Vanilla,False
+Xiangyang Separatist Renegades,襄阳叛党乱军,襄陽獨立勢力叛黨,Vanilla,False
+Xiangyang Separatists,襄阳叛党,襄陽獨立勢力,Vanilla,False
+Xiangyang Separatists Renegades,襄阳叛党乱军,襄陽獨立勢力叛黨,Vanilla,False
+Xiao Qiao,小乔,小喬,Vanilla,False
+Xiapi,下邳,下邳,Vanilla,False
+Xiapi Renegades,下邳乱军,下邳叛黨,Vanilla,False
+Xiapi Separatist  Renegades,下邳叛党乱军,下邳獨立勢力叛黨,Vanilla,False
+Xiapi Separatists,下邳叛党,下邳獨立勢力,Vanilla,False
+Xihe,西河,西河,Vanilla,False
+Xihe Commandery,西河豪强,西河郡,Vanilla,False
+Xihe Commandery Renegades,西河豪强乱军,西河郡叛黨,Vanilla,False
+Xihe Commandery Separatists,西河豪强叛党,西河郡獨立勢力,Vanilla,False
+Xihe Commandery Separatists Renegades,西河豪强叛党乱军,西河郡獨立勢力叛黨,Vanilla,False
+Xihe Separatist Renegades,西河叛党乱军,西河獨立勢力叛黨,Vanilla,False
+Xihe Separatists,西河叛党,西河獨立勢力,Vanilla,False
+Xiliang Cavalry,西凉骑兵,西涼騎兵,Vanilla,False
+Xin Xuan,金旋,金旋,Vanilla,False
+Xin Xuan Renegades,金旋乱军,金旋叛黨,Vanilla,False
+Xin Xuan Separatist Renegades,金旋叛党乱军,金旋獨立勢力叛黨,Vanilla,False
+Xin Xuan Separatists,金旋叛党,金旋獨立勢力,Vanilla,False
+Xindu,新都,新都,Vanilla,False
+Xindu Commandery,新都豪强,新都郡,Vanilla,False
+Xindu Commandery Renegades,新都豪强乱军,新都郡叛黨,Vanilla,False
+Xindu Separatist Renegades,新都叛党乱军,新都獨立勢力叛黨,Vanilla,False
+Xindu Separatists,新都叛党,新都獨立勢力,Vanilla,False
+Xindu Separatists Renegades,新都叛党乱军,新都獨立勢力叛黨,Vanilla,False
+Xiongnu Cataphracts,匈奴铁骑,匈奴鐵甲騎兵,Vanilla,False
+Xiongnu Cavalry,匈奴骑兵,匈奴騎兵,Vanilla,False
+Xiongnu Noble Cavalry,匈奴贵族骑兵,匈奴貴族騎兵,Vanilla,False
+Xu,许,許,Vanilla,False
+Xu Chu,许褚,許褚,Vanilla,False
+Xu Gong,许贡,許貢,Vanilla,False
+Xu Gong Renegades,许贡乱军,許貢叛黨,Vanilla,False
+Xu Gong Separatist Renegades,许贡叛党乱军,許貢獨立勢力叛黨,Vanilla,False
+Xu Gong Separatists,许贡叛党,許貢獨立勢力,Vanilla,False
+Xu Huang,徐晃,徐晃,Vanilla,False
+Xu Raiders,徐国轻卒,徐州突襲隊,Vanilla,False
+Xu Shu,徐庶,徐庶,Vanilla,False
+Xu Zhao,许昭,許昭,Vanilla,False
+Xu Zhao Renegades,许昭乱军,許昭叛黨,Vanilla,False
+Xu Zhao Separatist Renegades,许昭叛党乱军,許昭獨立勢力叛黨,Vanilla,False
+Xu Zhao Separatists,许昭叛党,許昭獨立勢力,Vanilla,False
+Xue,薛,薛,Vanilla,False
+Xue Li,薛礼,薛禮,Vanilla,False
+Xue Li Renegades,薛礼乱军,薛禮叛黨,Vanilla,False
+Xue Li Separatist Renegades,薛礼叛党乱军,薛禮獨立勢力叛黨,Vanilla,False
+Xue Li Separatists,薛礼叛党,薛禮獨立勢力,Vanilla,False
+Xun,浚,荀,Vanilla,False
+Xun Separatists,浚叛党,荀獨立勢力,Vanilla,False
+Xun You,荀攸,荀攸,Vanilla,False
+Xun Yu,荀彧,荀彧,Vanilla,False
+Yan,燕,燕,Vanilla,False
+Yan Baihu,严白虎,嚴白虎,Vanilla,False
+Yan Liang,颜良,顏良,Vanilla,False
+Yan Separatists,燕叛党,燕獨立勢力,Vanilla,False
+Yan Xiang,阎象,閻象,Lookup,False
+Yan Yu,严舆,嚴輿,Vanilla,False
+Yang,杨,楊,Vanilla,False
+Yang Feng Separatist Renegades,杨奉叛党乱军,楊奉獨立勢力叛黨,Vanilla,False
+Yang Feng Separatists Renegades,杨锋叛党乱军,楊鋒獨立勢力叛黨,Vanilla,False
+Yanmen,雁门,雁門,Vanilla,False
+Yanmen Commandery,雁门豪强,雁門郡,Vanilla,False
+Yanmen Commandery Renegades,雁门豪强乱军,雁門郡叛黨,Vanilla,False
+Yanmen Separatist Renegades,雁门叛党乱军,雁門獨立勢力叛黨,Vanilla,False
+Yanmen Separatists,雁门叛党,雁門獨立勢力,Vanilla,False
+Yanmen Separatists Renegades,雁门叛党乱军,雁門獨立勢力叛黨,Vanilla,False
+Ye,邺,鄴,Vanilla,False
+Ye Commandery,邺豪强,鄴郡,Vanilla,False
+Ye Commandery Renegades,邺豪强乱军,鄴郡叛黨,Vanilla,False
+Ye Commandery Separatists,邺豪强叛党,鄴郡獨立勢力,Vanilla,False
+Ye Commandery Separatists Renegades,邺豪强叛党乱军,鄴郡獨立勢力叛黨,Vanilla,False
+Ye Separatist Renegades,邺叛党乱军,鄴獨立勢力叛黨,Vanilla,False
+Ye Separatists,邺叛党,鄴獨立勢力,Vanilla,False
+Ye Vanguard Crossbows,邺国先登弩手,鄴城先鋒弩兵,Vanilla,False
+Ye Vanguard Spearmen,邺国先登矛卫,鄴城先鋒長槍兵,Vanilla,False
+Yellow Dragons,黄龙军,黃龍軍,Vanilla,False
+Yellow Sky Heralds,黄天使团,黃天開路軍,Vanilla,False
+Yellow Turban Archers,黄巾弓手,黃巾軍弓兵,Vanilla,False
+Yellow Turban Archers Captain,黄巾弓手伯长,黃巾軍弓兵校尉,Vanilla,False
+Yellow Turban Horsemen,黄巾骑兵,黃巾軍騎兵,Vanilla,False
+Yellow Turban Rebels,黄巾乱军,黃巾軍,Vanilla,False
+Yellow Turban Spearmen,黄巾矛兵,黃巾軍長槍兵,Vanilla,False
+Yellow Turban Spearmen Captain,黄巾矛兵伯长,黃巾軍長槍兵校尉,Vanilla,False
+Yellow Turban Warriors,黄巾战士,黃巾軍戰士,Vanilla,False
+Yellow Turban Warriors Captain,黄巾战士伯长,黃巾軍戰士校尉,Vanilla,False
+Yi Archers,益州弓箭手,益州弓兵,Vanilla,False
+Yi Marksmen,益州神射手,益州射手,Vanilla,False
+Yijian Liting,伊健丽婷,伊健麗婷,Lookup,False
+Ying Shao,应劭,應劭,Vanilla,False
+Ying Shao Renegades,应劭乱军,應劭叛黨,Vanilla,False
+Ying Shao Separatist Renegades,应劭叛党乱军,應劭獨立勢力叛黨,Vanilla,False
+Ying Shao Separatists,应劭叛党,應劭獨立勢力,Vanilla,False
+Yingchuan,颍川,潁川,Vanilla,False
+Yingchuan Commandery,颍川豪强,潁川郡,Vanilla,False
+Yingchuan Commandery Renegades,颍川豪强乱军,潁川郡叛黨,Vanilla,False
+Yingchuan Separatist Renegades,颍川叛党乱军,潁川獨立勢力叛黨,Vanilla,False
+Yingchuan Separatists,颍川叛党,潁川獨立勢力,Vanilla,False
+Yingchuan Separatists Renegades,颍川叛党乱军,潁川獨立勢力叛黨,Vanilla,False
+Yizhou,益州,益州,Vanilla,False
+Yizhou Commandery Separatists,益州豪强叛党,益州郡獨立勢力,Vanilla,False
+Yizhou Commandery Separatists Renegades,益州豪强叛党乱军,益州郡獨立勢力叛黨,Vanilla,False
+Yongchang,永昌,永昌,Vanilla,False
+Yongchang Commandery,永昌郡国,永昌郡,Vanilla,False
+Yongchang Commandery Renegades,永昌郡国乱军,永昌郡叛黨,Vanilla,False
+Yongchang Commandery Separatists,永昌郡国叛党,永昌郡獨立勢力,Vanilla,False
+Yongchang Commandery Separatists Renegades,永昌郡国叛党乱军,永昌郡獨立勢力叛黨,Vanilla,False
+Yongchang Separatists,永昌叛党,永昌獨立勢力,Vanilla,False
+Yongchang Tribes,永昌部族,永昌部族,Vanilla,False
+Yongchang Tribes Renegades,永昌部族乱军,永昌部族叛黨,Vanilla,False
+Yongchang Tribes Separatists,永昌部族叛党,永昌部族獨立勢力,Vanilla,False
+Yongchang Tribes Separatists Renegades,永昌部族叛党乱军,永昌部族獨立勢力叛黨,Vanilla,False
+You are attacking a Anding Commandery force!,你正在攻击一支安定豪强的军队！,您正在攻擊安定郡的部隊！,Vanilla,False
+You are attacking a Anding Separatists military force!,你正在攻击一支安定叛党的军队！,您正在攻擊安定獨立勢力的部隊！,Vanilla,False
+You are attacking a Anping Commandery military force!,你正在攻击一支安平豪强的军队！,您正在攻擊安平郡的部隊！,Vanilla,False
+You are attacking a Anping Separatists military force!,你正在攻击一支安平叛党的军队！,您正在攻擊安平獨立勢力的部隊！,Vanilla,False
+You are attacking a Bajun Commandery military force!,你正在攻击一支巴郡豪强的军队！,您正在攻擊巴郡的部隊！,Vanilla,False
+You are attacking a Bajun Separatists military force!,你正在攻击一支巴郡叛党的军队！,您正在攻擊巴郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Beihai Commandery Separatists force!,你正在攻击一支北海豪强叛党的军队！,您正在攻擊北海郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Beihai Commandery force!,你正在攻击一支北海豪强的军队！,您正在攻擊北海郡的部隊！,Vanilla,False
+You are attacking a Beihai Commandery military force!,你正在攻击一支北海豪强的军队！,您正在攻擊北海郡的部隊！,Vanilla,False
+You are attacking a Beihai Separatists military force!,你正在攻击一支北海叛党的军队！,您正在攻擊北海獨立勢力的部隊！,Vanilla,False
+You are attacking a Bian Zhang Separatist military force!,,,Vanilla,False
+You are attacking a Bian Zhang military force!,,,Vanilla,False
+You are attacking a Bohai Commandery force!,你正在攻击一支勃海豪强的军队！,您正在攻擊渤海郡的部隊！,Vanilla,False
+You are attacking a Bohai Commandery military force!,你正在攻击一支勃海豪强的军队！,您正在攻擊渤海郡的部隊！,Vanilla,False
+You are attacking a Bohai Separatists force!,你正在攻击一支勃海叛党的军队！,您正在攻擊渤海獨立勢力的部隊！,Vanilla,False
+You are attacking a Bohai Separatists military force!,你正在攻击一支勃海叛党的军队！,您正在攻擊渤海獨立勢力的部隊！,Vanilla,False
+You are attacking a Bushan Commandery Separatists force!,你正在攻击一支郁林豪强叛党的军队！,您正在攻擊鬱林郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Bushan Commandery force!,你正在攻击一支郁林豪强的军队！,您正在攻擊鬱林郡的部隊！,Vanilla,False
+You are attacking a Bushan Commandery military force!,你正在攻击一支郁林豪强的军队！,您正在攻擊鬱林郡的部隊！,Vanilla,False
+You are attacking a Bushan Separatists military force!,你正在攻击一支郁林叛党的军队！,您正在攻擊鬱林獨立勢力的部隊！,Vanilla,False
+You are attacking a Cai Mao Separatists military force!,你正在攻击一支蔡瑁叛党的军队！,您正在攻擊蔡瑁軍獨立勢力的部隊！,Vanilla,False
+You are attacking a Cai Mao military force!,你正在攻击一支蔡瑁军的军队！,您正在攻擊蔡瑁軍的部隊！,Vanilla,False
+You are attacking a Cangwu Commandery Separatists force!,你正在攻击一支苍梧豪强叛党的军队！,您正在攻擊蒼梧郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Cangwu Commandery force!,你正在攻击一支苍梧豪强的军队！,您正在攻擊蒼梧郡的部隊！,Vanilla,False
+You are attacking a Cangwu Commandery military force!,你正在攻击一支苍梧豪强的军队！,您正在攻擊蒼梧郡的部隊！,Vanilla,False
+You are attacking a Cangwu Separatists military force!,你正在攻击一支苍梧叛党的军队！,您正在攻擊蒼梧獨立勢力的部隊！,Vanilla,False
+You are attacking a Cao Cao Separatist military force!,你正在攻击一支曹操叛党军的军队！,您正在攻擊曹操獨立勢力的部隊！,Vanilla,False
+You are attacking a Cao Cao military force!,你正在攻击一支曹操军的军队！,您正在攻擊曹操軍的部隊！,Vanilla,False
+You are attacking a Cao Song Separatist military force!,,,Vanilla,False
+You are attacking a Cao Song military force!,,,Vanilla,False
+You are attacking a Chang'an Commandery force!,你正在攻击一支长安豪强的军队！,您正在攻擊長安郡的部隊！,Vanilla,False
+You are attacking a Chang'an Commandery military force!,你正在攻击一支长安豪强的军队！,您正在攻擊長安郡的部隊！,Vanilla,False
+You are attacking a Chang'an Separatists force!,你正在攻击一支长安叛党的军队！,您正在攻擊長安獨立勢力的部隊！,Vanilla,False
+You are attacking a Chang'an Separatists military force!,你正在攻击一支长安叛党的军队！,您正在攻擊長安獨立勢力的部隊！,Vanilla,False
+You are attacking a Changsha Commandery Separatists force!,你正在攻击一支长沙豪强叛党的军队！,您正在攻擊長沙郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Changsha Commandery force!,你正在攻击一支长沙豪强的军队！,您正在攻擊長沙郡的部隊！,Vanilla,False
+You are attacking a Changsha Commandery military force!,你正在攻击一支长沙豪强的军队！,您正在攻擊長沙郡的部隊！,Vanilla,False
+You are attacking a Changsha Separatists military force!,你正在攻击一支长沙叛党的军队！,您正在攻擊長沙獨立勢力的部隊！,Vanilla,False
+You are attacking a Chen Commandery Separatists force!,你正在攻击一支陈郡豪强叛党的军队！,您正在攻擊陳郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Chen Commandery force!,你正在攻击一支陈郡豪强的军队！,您正在攻擊陳郡的部隊！,Vanilla,False
+You are attacking a Chen Deng Separatist military force!,,,Vanilla,False
+You are attacking a Chen Deng military force!,,,Vanilla,False
+You are attacking a Chen Gui Separatist military force!,,,Vanilla,False
+You are attacking a Chen Gui military force!,,,Vanilla,False
+You are attacking a Chengdu Commandery force!,你正在攻击一支成都豪强的军队！,您正在攻擊成都郡的部隊！,Vanilla,False
+You are attacking a Chengdu Commandery military force!,你正在攻击一支成都豪强的军队！,您正在攻擊成都郡的部隊！,Vanilla,False
+You are attacking a Chengdu Separatists force!,你正在攻击一支成都叛党的军队！,您正在攻擊成都獨立勢力的部隊！,Vanilla,False
+You are attacking a Chengdu Separatists military force!,你正在攻击一支成都叛党的军队！,您正在攻擊成都獨立勢力的部隊！,Vanilla,False
+You are attacking a Chenjun Commandery military force!,你正在攻击一支陈郡豪强的军队！,您正在攻擊陳郡的部隊！,Vanilla,False
+You are attacking a Chenjun Separatists military force!,你正在攻击一支陈郡叛党的军队！,您正在攻擊陳郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Chu Gong Separatist military force!,,,Vanilla,False
+You are attacking a Chu Gong military force!,,,Vanilla,False
+You are attacking a Daijun Commandery force!,你正在攻击一支代郡豪强的军队！,您正在攻擊代郡的部隊！,Vanilla,False
+You are attacking a Daijun Commandery military force!,你正在攻击一支代郡豪强的军队！,您正在攻擊代郡的部隊！,Vanilla,False
+You are attacking a Daijun Separatists force!,你正在攻击一支代郡叛党的军队！,您正在攻擊代郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Daijun Separatists military force!,你正在攻击一支代郡叛党的军队！,您正在攻擊代郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Ding Yuan Separatist military force!,,,Vanilla,False
+You are attacking a Ding Yuan military force!,,,Vanilla,False
+You are attacking a Dong He Separatist military force!,,,Vanilla,False
+You are attacking a Dong He military force!,,,Vanilla,False
+You are attacking a Dong Zhuo Separatist military force!,你正在攻击一支董卓叛党军的军队！,您正在攻擊董卓獨立勢力的部隊！,Vanilla,False
+You are attacking a Dong Zhuo military force!,你正在攻击一支董卓军的军队！,您正在攻擊董卓軍的部隊！,Vanilla,False
+You are attacking a Dong'ou Commandery military force!,你正在攻击一支东瓯豪强的军队！,您正在攻擊東甌郡的部隊！,Vanilla,False
+You are attacking a Dong'ou Separatists military force!,你正在攻击一支东瓯叛党的军队！,您正在攻擊東甌獨立勢力的部隊！,Vanilla,False
+You are attacking a Donghai Commandery Separatists force!,你正在攻击一支东海豪强叛党的军队！,您正在攻擊東海郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Donghai Commandery force!,你正在攻击一支东海豪强的军队！,您正在攻擊東海郡的部隊！,Vanilla,False
+You are attacking a Donghai Commandery military force!,你正在攻击一支东海豪强的军队！,您正在攻擊東海郡的部隊！,Vanilla,False
+You are attacking a Donghai Separatists military force!,你正在攻击一支东海叛党的军队！,您正在攻擊東海獨立勢力的部隊！,Vanilla,False
+You are attacking a Dongjun Commandery force!,你正在攻击一支东郡豪强的军队！,您正在攻擊東郡的部隊！,Vanilla,False
+You are attacking a Dongjun Commandery military force!,你正在攻击一支东郡豪强的军队！,您正在攻擊東郡的部隊！,Vanilla,False
+You are attacking a Dongjun Separatists force!,你正在攻击一支东郡叛党的军队！,您正在攻擊東郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Dongjun Separatists military force!,你正在攻击一支东郡叛党的军队！,您正在攻擊東郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Donglai Commandery Separatists force!,你正在攻击一支东莱豪强叛党的军队！,您正在攻擊東萊郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Donglai Commandery force!,你正在攻击一支东莱豪强的军队！,您正在攻擊東萊郡的部隊！,Vanilla,False
+You are attacking a Donglai Commandery military force!,你正在攻击一支东海豪强的军队！,您正在攻擊東萊郡的部隊！,Vanilla,False
+You are attacking a Donglai Separatists military force!,你正在攻击一支东海叛党的军队！,您正在攻擊東萊獨立勢力的部隊！,Vanilla,False
+You are attacking a Dongou Commandery force!,你正在攻击一支东瓯豪强的军队！,您正在攻擊東甌郡的部隊！,Vanilla,False
+You are attacking a Dongou Separatists force!,你正在攻击一支东瓯叛党的军队！,您正在攻擊東甌獨立勢力的部隊！,Vanilla,False
+You are attacking a Duke of Lanling Separatists military force!,你正在攻击一支兰陵叛党的军队！,您正在攻擊蘭陵公獨立勢力的部隊！,Vanilla,False
+You are attacking a Duke of Lanling military force!,你正在攻击一支兰陵豪强的军队！,您正在攻擊蘭陵公的部隊！,Vanilla,False
+You are attacking a Fuling Commandery Separatists force!,你正在攻击一支涪陵豪强叛党的军队！,您正在攻擊涪陵郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Fuling Commandery force!,你正在攻击一支涪陵豪强的军队！,您正在攻擊涪陵郡的部隊！,Vanilla,False
+You are attacking a Fuling Commandery military force!,你正在攻击一支涪陵豪强的军队！,您正在攻擊涪陵郡的部隊！,Vanilla,False
+You are attacking a Fuling Separatists military force!,你正在攻击一支涪陵叛党的军队！,您正在攻擊涪陵獨立勢力的部隊！,Vanilla,False
+You are attacking a Gaoliang Commandery force!,你正在攻击一支高凉豪强的军队！,您正在攻擊高涼郡的部隊！,Vanilla,False
+You are attacking a Gaoliang Commandery military force!,你正在攻击一支高凉豪强的军队！,您正在攻擊高涼郡的部隊！,Vanilla,False
+You are attacking a Gaoliang Separatists force!,你正在攻击一支高凉叛党的军队！,您正在攻擊高涼獨立勢力的部隊！,Vanilla,False
+You are attacking a Gaoliang Separatists military force!,你正在攻击一支高凉叛党的军队！,您正在攻擊高涼獨立勢力的部隊！,Vanilla,False
+You are attacking a Gaoliu Commandery military force!,,,Vanilla,False
+You are attacking a Gaoliu Separatist military force!,,,Vanilla,False
+You are attacking a Gong Du military force!,你正在攻击一支龚都的军队！,您正在攻擊龔都軍的部隊！,Vanilla,False
+You are attacking a Gongsun Du military force!,你正在攻击一支公孙度军的军队！,您正在攻擊公孫度軍的部隊！,Vanilla,False
+You are attacking a Gongsun Zan military force!,你正在攻击一支公孙瓒军的军队！,您正在攻擊公孫瓚軍的部隊！,Vanilla,False
+You are attacking a Han Dynasty Separatist military force!,,,Vanilla,False
+You are attacking a Han Dynasty military force!,,,Vanilla,False
+You are attacking a Han Fu Separatist military force!,,,Vanilla,False
+You are attacking a Han Fu military force!,你正在攻击一支韩馥军的军队！,您正在攻擊韓馥軍的部隊！,Vanilla,False
+You are attacking a Hanzhong Commandery force!,你正在攻击一支汉中豪强的军队！,您正在攻擊漢中郡的部隊！,Vanilla,False
+You are attacking a Hanzhong Commandery military force!,你正在攻击一支汉中豪强的军队！,您正在攻擊漢中郡的部隊！,Vanilla,False
+You are attacking a Hanzhong Separatists force!,你正在攻击一支汉中叛党的军队！,您正在攻擊漢中獨立勢力的部隊！,Vanilla,False
+You are attacking a Hanzhong Separatists military force!,你正在攻击一支汉中叛党的军队！,您正在攻擊漢中獨立勢力的部隊！,Vanilla,False
+You are attacking a He Yi military force!,你正在攻击一支何仪的军队！,您正在攻擊何儀軍的部隊！,Vanilla,False
+You are attacking a Hedong Commandery Separatists force!,你正在攻击一支河东豪强叛党的军队！,您正在攻擊河東郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Hedong Commandery force!,你正在攻击一支河东豪强的军队！,您正在攻擊河東郡的部隊！,Vanilla,False
+You are attacking a Hedong Commandery military force!,你正在攻击一支河东豪强的军队！,您正在攻擊河東郡的部隊！,Vanilla,False
+You are attacking a Hedong Separatists military force!,你正在攻击一支河东叛党的军队！,您正在攻擊河東獨立勢力的部隊！,Vanilla,False
+You are attacking a Hefei Commandery military force!,你正在攻击一支庐江豪强的军队！,您正在攻擊廬江郡的部隊！,Vanilla,False
+You are attacking a Hefei Separatist military force!,你正在攻击一支庐江豪强叛党的军队！,您正在攻擊廬江郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Hefei Separatists military force!,你正在攻击一支庐江叛党的军队！,您正在攻擊廬江獨立勢力的部隊！,Vanilla,False
+You are attacking a Henei Commandery force!,你正在攻击一支河内豪强的军队！,您正在攻擊河內郡的部隊！,Vanilla,False
+You are attacking a Henei Commandery military force!,你正在攻击一支河内豪强的军队！,您正在攻擊河內郡的部隊！,Vanilla,False
+You are attacking a Henei Separatists force!,你正在攻击一支河内叛党的军队！,您正在攻擊河內獨立勢力的部隊！,Vanilla,False
+You are attacking a Henei Separatists military force!,你正在攻击一支河内叛党的军队！,您正在攻擊河內獨立勢力的部隊！,Vanilla,False
+You are attacking a Hepu Commandery Separatists force!,你正在攻击一支合浦豪强叛党的军队！,您正在攻擊合浦郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Hepu Commandery force!,你正在攻击一支合浦豪强的军队！,您正在攻擊合浦郡的部隊！,Vanilla,False
+You are attacking a Hepu Commandery military force!,你正在攻击一支合浦豪强的军队！,您正在攻擊合浦郡的部隊！,Vanilla,False
+You are attacking a Hepu Separatists military force!,你正在攻击一支合浦叛党的军队！,您正在攻擊合浦獨立勢力的部隊！,Vanilla,False
+You are attacking a Huaiyin Commandery Separatists force!,你正在攻击一支广陵豪强叛党的军队！,您正在攻擊廣陵郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Huaiyin Commandery force!,你正在攻击一支广陵豪强的军队！,您正在攻擊廣陵郡的部隊！,Vanilla,False
+You are attacking a Huaiyin Commandery military force!,你正在攻击一支广陵豪强的军队！,您正在攻擊廣陵郡的部隊！,Vanilla,False
+You are attacking a Huaiyin Separatists military force!,你正在攻击一支广陵叛党的军队！,您正在攻擊廣陵獨立勢力的部隊！,Vanilla,False
+You are attacking a Huang Shao military force!,你正在攻击一支黄邵的军队！,您正在攻擊黃邵軍的部隊！,Vanilla,False
+You are attacking a Ji Commandery Separatists force!,你正在攻击一支幽州豪强叛党的军队！,您正在攻擊幽州郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Ji Commandery force!,你正在攻击一支幽州豪强的军队！,您正在攻擊幽州郡的部隊！,Vanilla,False
+You are attacking a Ji Commandery military force!,你正在攻击一支幽州豪强的军队！,您正在攻擊幽州郡的部隊！,Vanilla,False
+You are attacking a Ji Separatists military force!,你正在攻击一支幽州叛党的军队！,您正在攻擊幽州獨立勢力的部隊！,Vanilla,False
+You are attacking a Jian'an Commandery force!,你正在攻击一支建安豪强的军队！,您正在攻擊建安郡的部隊！,Vanilla,False
+You are attacking a Jian'an Separatists force!,你正在攻击一支建安叛党的军队！,您正在攻擊建安獨立勢力的部隊！,Vanilla,False
+You are attacking a Jianan Commandery military force!,你正在攻击一支建安豪强的军队！,您正在攻擊建安郡的部隊！,Vanilla,False
+You are attacking a Jianan Separatists military force!,你正在攻击一支建安叛党的军队！,您正在攻擊建安獨立勢力的部隊！,Vanilla,False
+You are attacking a Jiangxia Commandery Separatists force!,你正在攻击一支江夏豪强叛党的军队！,您正在攻擊江夏郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Jiangxia Commandery force!,你正在攻击一支江夏豪强的军队！,您正在攻擊江夏郡的部隊！,Vanilla,False
+You are attacking a Jiangxia Commandery military force!,你正在攻击一支江夏豪强的军队！,您正在攻擊江夏郡的部隊！,Vanilla,False
+You are attacking a Jiangxia Separatists military force!,你正在攻击一支江夏叛党的军队！,您正在攻擊江夏獨立勢力的部隊！,Vanilla,False
+You are attacking a Jiangyang Commandery force!,你正在攻击一支江阳豪强的军队！,您正在攻擊江陽郡的部隊！,Vanilla,False
+You are attacking a Jiangyang Commandery military force!,你正在攻击一支江阳豪强的军队！,您正在攻擊江陽郡的部隊！,Vanilla,False
+You are attacking a Jiangyang Separatists force!,你正在攻击一支江阳叛党的军队！,您正在攻擊江陽獨立勢力的部隊！,Vanilla,False
+You are attacking a Jiangyang Separatists military force!,你正在攻击一支江阳叛党的军队！,您正在攻擊江陽獨立勢力的部隊！,Vanilla,False
+You are attacking a Jiangzhou Commandery Separatists force!,你正在攻击一支巴郡豪强叛党的军队！,您正在攻擊巴郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Jiangzhou Commandery force!,你正在攻击一支巴郡豪强的军队！,您正在攻擊巴郡的部隊！,Vanilla,False
+You are attacking a Jianning Commandery Separatists force!,你正在攻击一支建宁豪强叛党的军队！,您正在攻擊建寧郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Jianning Commandery force!,你正在攻击一支建宁豪强的军队！,您正在攻擊建寧郡的部隊！,Vanilla,False
+You are attacking a Jianning Commandery military force!,你正在攻击一支建宁豪强的军队！,您正在攻擊建寧郡的部隊！,Vanilla,False
+You are attacking a Jianning Separatists military force!,你正在攻击一支建宁叛党的军队！,您正在攻擊建寧獨立勢力的部隊！,Vanilla,False
+You are attacking a Jianye Commandery force!,你正在攻击一支建业豪强的军队！,您正在攻擊建業郡的部隊！,Vanilla,False
+You are attacking a Jianye Commandery military force!,你正在攻击一支建邺豪强的军队！,您正在攻擊建業郡的部隊！,Vanilla,False
+You are attacking a Jianye Separatists force!,你正在攻击一支建业叛党的军队！,您正在攻擊建業獨立勢力的部隊！,Vanilla,False
+You are attacking a Jianye Separatists military force!,你正在攻击一支建邺叛党的军队！,您正在攻擊建業獨立勢力的部隊！,Vanilla,False
+You are attacking a Jiaozhi Commandery Separatists force!,你正在攻击一支交趾豪强叛党的军队！,您正在攻擊交趾郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Jiaozhi Commandery force!,你正在攻击一支交趾豪强的军队！,您正在攻擊交趾郡的部隊！,Vanilla,False
+You are attacking a Jiaozhi Commandery military force!,你正在攻击一支交趾豪强的军队！,您正在攻擊交趾郡的部隊！,Vanilla,False
+You are attacking a Jiaozhi Separatists military force!,你正在攻击一支交趾叛党的军队！,您正在攻擊交趾獨立勢力的部隊！,Vanilla,False
+You are attacking a Jin Empire Separatists military force!,你正在攻击一支晋帝国叛党的军队！,您正在攻擊大晉獨立勢力的部隊！,Vanilla,False
+You are attacking a Jin Empire military force!,你正在攻击一支晋帝国豪强的军队！,您正在攻擊大晉軍的部隊！,Vanilla,False
+You are attacking a Jincheng Commandery force!,你正在攻击一支金城豪强的军队！,您正在攻擊金城郡的部隊！,Vanilla,False
+You are attacking a Jincheng Commandery military force!,你正在攻击一支金城豪强的军队！,您正在攻擊金城郡的部隊！,Vanilla,False
+You are attacking a Jincheng Separatists force!,你正在攻击一支金城叛党的军队！,您正在攻擊金城獨立勢力的部隊！,Vanilla,False
+You are attacking a Jincheng Separatists military force!,你正在攻击一支金城叛党的军队！,您正在攻擊金城獨立勢力的部隊！,Vanilla,False
+You are attacking a Jingzhou Commandery Separatists force!,你正在攻击一支江陵豪强叛党的军队！,您正在攻擊荊州郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Jingzhou Commandery force!,你正在攻击一支江陵豪强的军队！,您正在攻擊荊州郡的部隊！,Vanilla,False
+You are attacking a Jingzhou Commandery military force!,你正在攻击一支荆州豪强的军队！,您正在攻擊荊州郡的部隊！,Vanilla,False
+You are attacking a Jingzhou Separatists military force!,你正在攻击一支荆州叛党的军队！,您正在攻擊荊州獨立勢力的部隊！,Vanilla,False
+You are attacking a Jiuzhen Commandery Separatists force!,你正在进攻一支九真郡国叛党的军队！,您正在攻擊九真郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Jiuzhen Commandery force!,你正在进攻一支九真郡国的军队！,您正在攻擊九真郡的部隊！,Vanilla,False
+You are attacking a Kong Rong Separatist military force!,你正在攻击一支孔融叛党军的军队！,您正在攻擊孔融獨立勢力的部隊！,Vanilla,False
+You are attacking a Kong Rong military force!,你正在攻击一支孔融军的军队！,您正在攻擊孔融軍的部隊！,Vanilla,False
+You are attacking a Kuaiji Commandery force!,你正在攻击一支会稽豪强的军队！,您正在攻擊會稽郡的部隊！,Vanilla,False
+You are attacking a Kuaiji Commandery military force!,你正在攻击一支会稽豪强的军队！,您正在攻擊會稽郡的部隊！,Vanilla,False
+You are attacking a Kuaiji Separatists force!,你正在攻击一支会稽叛党的军队！,您正在攻擊會稽獨立勢力的部隊！,Vanilla,False
+You are attacking a Kuaiji Separatists military force!,你正在攻击一支会稽叛党的军队！,您正在攻擊會稽獨立勢力的部隊！,Vanilla,False
+You are attacking a Langye Commandery Separatists force!,你正在攻击一支琅琊豪强叛党的军队！,您正在攻擊琅邪郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Langye Commandery force!,你正在攻击一支琅琊豪强的军队！,您正在攻擊琅邪郡的部隊！,Vanilla,False
+You are attacking a Langye Commandery military force!,你正在攻击一支琅琊豪强的军队！,您正在攻擊琅邪郡的部隊！,Vanilla,False
+You are attacking a Langye Separatists military force!,你正在攻击一支琅琊叛党的军队！,您正在攻擊琅邪獨立勢力的部隊！,Vanilla,False
+You are attacking a Langzhong Commandery force!,你正在攻击一支巴西豪强的军队！,您正在攻擊巴西郡的部隊！,Vanilla,False
+You are attacking a Langzhong Commandery military force!,你正在攻击一支巴西豪强的军队！,您正在攻擊巴西郡的部隊！,Vanilla,False
+You are attacking a Langzhong Separatists force!,你正在攻击一支巴西叛党的军队！,您正在攻擊巴西獨立勢力的部隊！,Vanilla,False
+You are attacking a Langzhong Separatists military force!,你正在攻击一支巴西叛党的军队！,您正在攻擊巴西獨立勢力的部隊！,Vanilla,False
+You are attacking a Li Shu Separatist military force!,,,Vanilla,False
+You are attacking a Li Shu military force!,,,Vanilla,False
+You are attacking a Liang Rebel military force!,,,Vanilla,False
+You are attacking a Liang Separatist military force!,,,Vanilla,False
+You are attacking a Lingling Commandery force!,你正在攻击一支零陵豪强的军队！,您正在攻擊零陵郡的部隊！,Vanilla,False
+You are attacking a Lingling Commandery military force!,你正在攻击一支零陵豪强的军队！,您正在攻擊零陵郡的部隊！,Vanilla,False
+You are attacking a Lingling Separatists force!,你正在攻击一支零陵叛党的军队！,您正在攻擊零陵獨立勢力的部隊！,Vanilla,False
+You are attacking a Lingling Separatists military force!,你正在攻击一支零陵叛党的军队！,您正在攻擊零陵獨立勢力的部隊！,Vanilla,False
+You are attacking a Liu Bei Separatist military force!,你正在攻击一支刘备叛党的军队！,您正在攻擊劉備獨立勢力的部隊！,Vanilla,False
+You are attacking a Liu Biao Separatist military force!,你正在攻击一支刘表叛党军的军队！,您正在攻擊劉表獨立勢力的部隊！,Vanilla,False
+You are attacking a Liu Biao military force!,你正在攻击一支刘表军的军队！,您正在攻擊劉表軍的部隊！,Vanilla,False
+You are attacking a Liu Hong Separatist military force!,,,Vanilla,False
+You are attacking a Liu Hong military force!,,,Vanilla,False
+You are attacking a Liu Xun Separatist military force!,,,Vanilla,False
+You are attacking a Liu Xun military force!,,,Vanilla,False
+You are attacking a Lu Kang Separatist military force!,,,Vanilla,False
+You are attacking a Lu Kang military force!,,,Vanilla,False
+You are attacking a Lu Zhi Separatist military force!,,,Vanilla,False
+You are attacking a Lu Zhi military force!,,,Vanilla,False
+You are attacking a Luling Commandery force!,你正在攻击一支庐陵豪强的军队！,您正在攻擊廬陵郡的部隊！,Vanilla,False
+You are attacking a Luling Commandery military force!,你正在攻击一支庐陵豪强的军队！,您正在攻擊廬陵郡的部隊！,Vanilla,False
+You are attacking a Luling Separatists force!,你正在攻击一支庐陵叛党的军队！,您正在攻擊廬陵獨立勢力的部隊！,Vanilla,False
+You are attacking a Luling Separatists military force!,你正在攻击一支庐陵叛党的军队！,您正在攻擊廬陵獨立勢力的部隊！,Vanilla,False
+You are attacking a Luoyang Commandery Separatists force!,你正在攻击一支洛阳豪强叛党的军队！,您正在攻擊洛陽郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Luoyang Commandery force!,你正在攻击一支洛阳豪强的军队！,您正在攻擊洛陽郡的部隊！,Vanilla,False
+You are attacking a Luoyang Commandery military force!,你正在攻击一支洛阳豪强的军队！,您正在攻擊洛陽郡的部隊！,Vanilla,False
+You are attacking a Luoyang Separatists military force!,你正在攻击一支洛阳叛党的军队！,您正在攻擊洛陽獨立勢力的部隊！,Vanilla,False
+You are attacking a Ma Teng Separatist military force!,你正在攻击一支马腾叛党军的军队！,您正在攻擊馬騰獨立勢力的部隊！,Vanilla,False
+You are attacking a Ma Teng military force!,你正在攻击一支马腾军的军队！,您正在攻擊馬騰軍的部隊！,Vanilla,False
+You are attacking a Nanhai Commandery force!,你正在攻击一支南海豪强的军队！,您正在攻擊南海郡的部隊！,Vanilla,False
+You are attacking a Nanhai Commandery military force!,你正在攻击一支南海豪强的军队！,您正在攻擊南海郡的部隊！,Vanilla,False
+You are attacking a Nanhai Separatists force!,你正在攻击一支南海叛党的军队！,您正在攻擊南海獨立勢力的部隊！,Vanilla,False
+You are attacking a Nanhai Separatists military force!,你正在攻击一支南海叛党的军队！,您正在攻擊南海獨立勢力的部隊！,Vanilla,False
+You are attacking a Nanyang Commandery Separatists force!,你正在攻击一支南阳豪强叛党的军队！,您正在攻擊南陽郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Nanyang Commandery force!,你正在攻击一支南阳豪强的军队！,您正在攻擊南陽郡的部隊！,Vanilla,False
+You are attacking a Nanyang Commandery military force!,你正在攻击一支南阳豪强的军队！,您正在攻擊南陽郡的部隊！,Vanilla,False
+You are attacking a Nanyang Separatists military force!,你正在攻击一支南阳叛党的军队！,您正在攻擊南陽獨立勢力的部隊！,Vanilla,False
+You are attacking a Pengcheng Commandery force!,你正在攻击一支彭城豪强的军队！,您正在攻擊彭城郡的部隊！,Vanilla,False
+You are attacking a Pengcheng Commandery military force!,你正在攻击一支彭城豪强的军队！,您正在攻擊彭城郡的部隊！,Vanilla,False
+You are attacking a Pengcheng Separatists force!,你正在攻击一支彭城叛党的军队！,您正在攻擊彭城獨立勢力的部隊！,Vanilla,False
+You are attacking a Pengcheng Separatists military force!,你正在攻击一支彭城叛党的军队！,您正在攻擊彭城獨立勢力的部隊！,Vanilla,False
+You are attacking a Pingyuan Commandery Separatists force!,你正在攻击一支平原豪强叛党的军队！,您正在攻擊平原郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Pingyuan Commandery force!,你正在攻击一支平原豪强的军队！,您正在攻擊平原郡的部隊！,Vanilla,False
+You are attacking a Pingyuan Commandery military force!,你正在攻击一支平原豪强的军队！,您正在攻擊平原郡的部隊！,Vanilla,False
+You are attacking a Pingyuan Separatists military force!,你正在攻击一支平原叛党的军队！,您正在攻擊平原獨立勢力的部隊！,Vanilla,False
+You are attacking a Player military force!,你正在攻击一支玩家的军队！,您正在攻擊玩家軍的部隊！,Vanilla,False
+You are attacking a Poyang Commandery force!,你正在攻击一支鄱阳豪强的军队！,您正在攻擊鄱陽郡的部隊！,Vanilla,False
+You are attacking a Poyang Commandery military force!,你正在攻击一支鄱阳豪强的军队！,您正在攻擊鄱陽郡的部隊！,Vanilla,False
+You are attacking a Poyang Separatists force!,你正在攻击一支鄱阳叛党的军队！,您正在攻擊鄱陽獨立勢力的部隊！,Vanilla,False
+You are attacking a Poyang Separatists military force!,你正在攻击一支鄱阳叛党的军队！,您正在攻擊鄱陽獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince Liu Chong Separatist military force!,,,Vanilla,False
+You are attacking a Prince Liu Chong military force!,,,Vanilla,False
+You are attacking a Prince of Beihai Separatists military force!,你正在攻击一支北海王叛党的军队！,您正在攻擊北海王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Beihai military force!,你正在攻击一支北海王的军队！,您正在攻擊北海王的部隊！,Vanilla,False
+You are attacking a Prince of Cangwu Separatists military force!,你正在攻击一支苍梧王叛党的军队！,您正在攻擊蒼梧王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Cangwu military force!,你正在攻击一支苍梧王的军队！,您正在攻擊蒼梧王的部隊！,Vanilla,False
+You are attacking a Prince of Changle Separatists military force!,你正在攻击一支长乐王叛党的军队！,您正在攻擊長樂王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Changle military force!,你正在攻击一支长乐王的军队！,您正在攻擊長樂王的部隊！,Vanilla,False
+You are attacking a Prince of Changsha Separatists military force!,你正在攻击一支长沙王叛党的军队！,您正在攻擊長沙王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Changsha military force!,你正在攻击一支长沙王的军队！,您正在攻擊長沙王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Chang’an Separatists military force!,你正在攻击一支长安王叛党的军队！,您正在攻擊長安王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Chang’an military force!,你正在攻击一支长安王的军队！,您正在攻擊長安王的部隊！,Vanilla,False
+You are attacking a Prince of Chengdu Separatists military force!,你正在攻击一支成都王叛党的军队！,您正在攻擊成都王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Chengdu military force!,你正在攻击一支成都王的军队！,您正在攻擊成都王的部隊！,Vanilla,False
+You are attacking a Prince of Chenliu Separatists military force!,你正在攻击一支陈留王叛党的军队！,您正在攻擊陳留王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Chenliu military force!,你正在攻击一支陈留王的军队！,您正在攻擊陳留王的部隊！,Vanilla,False
+You are attacking a Prince of Chu Separatists military force!,你正在攻击一支楚王叛党的军队！,您正在攻擊楚王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Chu military force!,你正在攻击一支楚王的军队！,您正在攻擊楚王的部隊！,Vanilla,False
+You are attacking a Prince of Dongan Separatists military force!,你正在攻击一支东安王叛党的军队！,您正在攻擊東安王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Dongan military force!,你正在攻击一支东安王的军队！,您正在攻擊東安王的部隊！,Vanilla,False
+You are attacking a Prince of Donghai Separatists military force!,你正在攻击一支东海王叛党的军队！,您正在攻擊東海王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Donghai military force!,你正在攻击一支东海王的军队！,您正在攻擊東海王的部隊！,Vanilla,False
+You are attacking a Prince of Donglai Separatists military force!,你正在攻击一支东莱王叛党的军队！,您正在攻擊東萊王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Donglai military force!,你正在攻击一支东莱王的军队！,您正在攻擊東萊王的部隊！,Vanilla,False
+You are attacking a Prince of Dongping Separatists military force!,你正在攻击一支东平王叛党的军队！,您正在攻擊東平王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Dongping military force!,你正在攻击一支东平王的军队！,您正在攻擊東平王的部隊！,Vanilla,False
+You are attacking a Prince of Fanyang Separatists military force!,你正在攻击一支范阳王叛党的军队！,您正在攻擊范陽王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Fanyang military force!,你正在攻击一支范阳王的军队！,您正在攻擊范陽王的部隊！,Vanilla,False
+You are attacking a Prince of Fuling Separatists military force!,你正在攻击一支涪陵王叛党的军队！,您正在攻擊涪陵王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Fuling military force!,你正在攻击一支涪陵王的军队！,您正在攻擊涪陵王的部隊！,Vanilla,False
+You are attacking a Prince of Gaoliang Separatists military force!,你正在攻击一支高凉王叛党的军队！,您正在攻擊高涼王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Gaoliang military force!,你正在攻击一支高凉王的军队！,您正在攻擊高涼王的部隊！,Vanilla,False
+You are attacking a Prince of Gaoliu Separatists military force!,你正在攻击一支代王叛党的军队！,您正在攻擊代王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Gaoliu military force!,你正在攻击一支代王的军队！,您正在攻擊代王的部隊！,Vanilla,False
+You are attacking a Prince of Gaoyang Separatists military force!,你正在攻击一支高阳王叛党的军队！,您正在攻擊高陽王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Gaoyang military force!,你正在攻击一支高阳王的军队！,您正在攻擊高陽王的部隊！,Vanilla,False
+You are attacking a Prince of Han Separatists military force!,你正在攻击一支汉王叛党的军队！,您正在攻擊漢王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Han military force!,你正在攻击一支汉王的军队！,您正在攻擊漢王的部隊！,Vanilla,False
+You are attacking a Prince of Hefei Separatists military force!,你正在攻击一支庐江王叛党的军队！,您正在攻擊廬江王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Hefei military force!,你正在攻击一支庐江王的军队！,您正在攻擊廬江王的部隊！,Vanilla,False
+You are attacking a Prince of Hejian Separatists military force!,你正在攻击一支河间王叛党的军队！,您正在攻擊河間王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Hejian military force!,你正在攻击一支河间王的军队！,您正在攻擊河間王的部隊！,Vanilla,False
+You are attacking a Prince of Henei Separatists military force!,你正在攻击一支河内王叛党的军队！,您正在攻擊河內王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Henei military force!,你正在攻击一支河内王的军队！,您正在攻擊河內王的部隊！,Vanilla,False
+You are attacking a Prince of Hepu Separatists military force!,你正在攻击一支合浦王叛党的军队！,您正在攻擊合浦王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Hepu military force!,你正在攻击一支合浦王的军队！,您正在攻擊合浦王的部隊！,Vanilla,False
+You are attacking a Prince of Huainan Separatists military force!,你正在攻击一支淮南王叛党的军队！,您正在攻擊淮南王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Huainan military force!,你正在攻击一支淮南王的军队！,您正在攻擊淮南王的部隊！,Vanilla,False
+You are attacking a Prince of Jiangling Separatists military force!,你正在攻击一支江陵王叛党的军队！,您正在攻擊江陵王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Jiangling military force!,你正在攻击一支江陵王的军队！,您正在攻擊江陵王的部隊！,Vanilla,False
+You are attacking a Prince of Jiangxia Separatists military force!,你正在攻击一支江夏王叛党的军队！,您正在攻擊江夏王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Jiangxia military force!,你正在攻击一支江夏王的军队！,您正在攻擊江夏王的部隊！,Vanilla,False
+You are attacking a Prince of Jiangyang Separatists military force!,你正在攻击一支江阳王叛党的军队！,您正在攻擊江陽王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Jiangyang military force!,你正在攻击一支江阳王的军队！,您正在攻擊江陽王的部隊！,Vanilla,False
+You are attacking a Prince of Jiangzhou Separatists military force!,你正在攻击一支巴王叛党的军队！,您正在攻擊巴王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Jiangzhou military force!,你正在攻击一支巴王的军队！,您正在攻擊巴王的部隊！,Vanilla,False
+You are attacking a Prince of Jian’an Separatists military force!,你正在攻击一支建安王叛党的军队！,您正在攻擊建安王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Jian’an military force!,你正在攻击一支建安王的军队！,您正在攻擊建安王的部隊！,Vanilla,False
+You are attacking a Prince of Jiaozhi Separatists military force!,你正在攻击一支交趾王叛党的军队！,您正在攻擊交趾王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Jiaozhi military force!,你正在攻击一支交趾王的军队！,您正在攻擊交趾王的部隊！,Vanilla,False
+You are attacking a Prince of Jincheng Separatists military force!,你正在攻击一支金城王叛党的军队！,您正在攻擊金城王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Jincheng military force!,你正在攻击一支金城王的军队！,您正在攻擊金城王的部隊！,Vanilla,False
+You are attacking a Prince of Kuaiji Separatists military force!,你正在攻击一支会稽王叛党的军队！,您正在攻擊會稽王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Kuaiji military force!,你正在攻击一支会稽王的军队！,您正在攻擊會稽王的部隊！,Vanilla,False
+You are attacking a Prince of Langye Separatists military force!,你正在攻击一支琅琊王的军队！,您正在攻擊琅邪王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Langyeang military force!,你正在攻击一支琅琊王叛党的军队！,您正在攻擊琅邪王的部隊！,Vanilla,False
+You are attacking a Prince of Lean Separatists military force!,你正在攻击一支乐安王叛党的军队！,您正在攻擊樂安王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Lean military force!,你正在攻击一支乐安王的军队！,您正在攻擊樂安王的部隊！,Vanilla,False
+You are attacking a Prince of Liang Separatists military force!,你正在攻击一支梁王叛党的军队！,您正在攻擊梁王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Liang military force!,你正在攻击一支梁王的军队！,您正在攻擊梁王的部隊！,Vanilla,False
+You are attacking a Prince of Liaoxi Separatists military force!,你正在攻击一支辽西王叛党的军队！,您正在攻擊遼西王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Liaoxi military force!,你正在攻击一支辽西王的军队！,您正在攻擊遼西王的部隊！,Vanilla,False
+You are attacking a Prince of Lingling Separatists military force!,你正在攻击一支零陵王叛党的军队！,您正在攻擊零陵王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Lingling military force!,你正在攻击一支零陵王的军队！,您正在攻擊零陵王的部隊！,Vanilla,False
+You are attacking a Prince of Longxi Separatists military force!,你正在攻击一支陇西王叛党的军队！,您正在攻擊隴西王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Longxi military force!,你正在攻击一支陇西王的军队！,您正在攻擊隴西王的部隊！,Vanilla,False
+You are attacking a Prince of Luling Separatists military force!,你正在攻击一支庐陵王叛党的军队！,您正在攻擊廬陵王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Luling military force!,你正在攻击一支庐陵王的军队！,您正在攻擊廬陵王的部隊！,Vanilla,False
+You are attacking a Prince of Nanhai Separatists military force!,你正在攻击一支南海王王叛党的军队！,您正在攻擊南海王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Nanhai military force!,你正在攻击一支南海王的军队！,您正在攻擊南海王的部隊！,Vanilla,False
+You are attacking a Prince of Nanyang Separatists military force!,你正在攻击一支南阳王叛党的军队！,您正在攻擊南陽王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Nanyang military force!,你正在攻击一支南阳王的军队！,您正在攻擊南陽王的部隊！,Vanilla,False
+You are attacking a Prince of Pengcheng Separatists military force!,你正在攻击一支彭城王叛党的军队！,您正在攻擊彭城王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Pengcheng military force!,你正在攻击一支彭城王的军队！,您正在攻擊彭城王的部隊！,Vanilla,False
+You are attacking a Prince of Piling Separatists military force!,你正在攻击一支毗陵王叛党的军队！,您正在攻擊毗陵王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Piling military force!,你正在攻击一支毗陵王的军队！,您正在攻擊毗陵王的部隊！,Vanilla,False
+You are attacking a Prince of Pingyuan Separatists military force!,你正在攻击一支平原王叛党的军队！,您正在攻擊平原王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Pingyuan military force!,你正在攻击一支平原王的军队！,您正在攻擊平原王的部隊！,Vanilla,False
+You are attacking a Prince of Poyang Separatists military force!,你正在攻击一支鄱阳王叛党的军队！,您正在攻擊鄱陽王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Poyang military force!,你正在攻击一支鄱阳王的军队！,您正在攻擊鄱陽王的部隊！,Vanilla,False
+You are attacking a Prince of Qi Separatists military force!,你正在攻击一支齐王叛党的军队！,您正在攻擊齊王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Qi military force!,你正在攻击一支齐王的军队！,您正在攻擊齊王的部隊！,Vanilla,False
+You are attacking a Prince of Qiao Separatists military force!,你正在攻击一支谯王叛党的军队！,您正在攻擊譙王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Qiao military force!,你正在攻击一支谯王的军队！,您正在攻擊譙王的部隊！,Vanilla,False
+You are attacking a Prince of Qin Separatists military force!,你正在攻击一支秦王叛党的军队！,您正在攻擊秦王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Qin military force!,你正在攻击一支秦王的军队！,您正在攻擊秦王的部隊！,Vanilla,False
+You are attacking a Prince of Qinghe Separatists military force!,你正在攻击一支清河王叛党的军队！,您正在攻擊清河王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Qinghe military force!,你正在攻击一支清河王的军队！,您正在攻擊清河王的部隊！,Vanilla,False
+You are attacking a Prince of Rencheng Separatists military force!,你正在攻击一支任城王叛党的军队！,您正在攻擊任城王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Rencheng military force!,你正在攻击一支任城王的军队！,您正在攻擊任城王的部隊！,Vanilla,False
+You are attacking a Prince of Ru'nan Separatists military force!,你正在攻击一支汝南王叛党的军队！,您正在攻擊汝南王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Ru'nan military force!,你正在攻击一支汝南王的军队！,您正在攻擊汝南王的部隊！,Vanilla,False
+You are attacking a Prince of Shouchun Separatists military force!,你正在攻击一支扬州王叛党的军队！,您正在攻擊揚州王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Shouchun military force!,你正在攻击一支扬州王的军队！,您正在攻擊揚州王的部隊！,Vanilla,False
+You are attacking a Prince of Shunyang Separatists military force!,你正在攻击一支顺阳王叛党的军队！,您正在攻擊順陽王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Shunyang military force!,你正在攻击一支顺阳王的军队！,您正在攻擊順陽王的部隊！,Vanilla,False
+You are attacking a Prince of Taiyuan Separatists military force!,你正在攻击一支太原王叛党的军队！,您正在攻擊太原王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Taiyuan military force!,你正在攻击一支太原王的军队！,您正在攻擊太原王的部隊！,Vanilla,False
+You are attacking a Prince of Tong’an Separatists military force!,你正在攻击一支同安王叛党的军队！,您正在攻擊同安王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Tong’an military force!,你正在攻击一支同安王的军队！,您正在攻擊同安王的部隊！,Vanilla,False
+You are attacking a Prince of Wu Separatists military force!,你正在攻击一支吴王叛党的军队！,您正在攻擊吳王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Wu military force!,你正在攻击一支吴王的军队！,您正在攻擊吳王的部隊！,Vanilla,False
+You are attacking a Prince of Wuling Separatists military force!,你正在攻击一支武陵王叛党的军队！,您正在攻擊武陵王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Wuling military force!,你正在攻击一支武陵王的军队！,您正在攻擊武陵王的部隊！,Vanilla,False
+You are attacking a Prince of Xiabian Separatists military force!,你正在攻击一支武都王叛党的军队！,您正在攻擊武都王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Xiabian military force!,你正在攻击一支武都王的军队！,您正在攻擊武都王的部隊！,Vanilla,False
+You are attacking a Prince of Xiapi Separatists military force!,你正在攻击一支下邳王叛党的军队！,您正在攻擊下邳王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Xiapi military force!,你正在攻击一支下邳王的军队！,您正在攻擊下邳王的部隊！,Vanilla,False
+You are attacking a Prince of Xihe Separatists military force!,你正在攻击一支西河王叛党的军队！,您正在攻擊西河王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Xihe military force!,你正在攻击一支西河王的军队！,您正在攻擊西河王的部隊！,Vanilla,False
+You are attacking a Prince of Xindu Separatists military force!,你正在攻击一支新都王叛党的军队！,您正在攻擊新都王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Xindu military force!,你正在攻击一支新都王的军队！,您正在攻擊新都王的部隊！,Vanilla,False
+You are attacking a Prince of Xinye Separatists military force!,你正在攻击一支新野王叛党的军队！,您正在攻擊新野王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Xinye military force!,你正在攻击一支新野王的军队！,您正在攻擊新野王的部隊！,Vanilla,False
+You are attacking a Prince of Yan Separatists military force!,你正在攻击一支燕王叛党的军队！,您正在攻擊燕王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Yan military force!,你正在攻击一支燕王的军队！,您正在攻擊燕王的部隊！,Vanilla,False
+You are attacking a Prince of Yanmen Separatists military force!,你正在攻击一支雁门王叛党的军队！,您正在攻擊雁門王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Yanmen military force!,你正在攻击一支雁门王的军队！,您正在攻擊雁門王的部隊！,Vanilla,False
+You are attacking a Prince of Ye Separatists military force!,你正在攻击一支邺王叛党的军队！,您正在攻擊鄴王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Ye military force!,你正在攻击一支邺王的军队！,您正在攻擊鄴王的部隊！,Vanilla,False
+You are attacking a Prince of Yiyang Separatist military force!,你正在攻击一支义阳王叛党的军队！,您正在攻擊義陽王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Yiyang military force!,你正在攻击一支义阳王的军队！,您正在攻擊義陽王的部隊！,Vanilla,False
+You are attacking a Prince of Yizhou Separatists military force!,你正在攻击一支益州王叛党的军队！,您正在攻擊益州王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Yizhou military force!,你正在攻击一支益州王的军队！,您正在攻擊益州王的部隊！,Vanilla,False
+You are attacking a Prince of Yong'an Separatists military force!,你正在攻击一支巴东叛党的军队！,您正在攻擊巴東王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Yong'an military force!,你正在攻击一支巴东王的军队！,您正在攻擊巴東王的部隊！,Vanilla,False
+You are attacking a Prince of Yuzhang Separatists military force!,你正在攻击一支豫章王叛党的军队！,您正在攻擊豫章王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Yuzhang military force!,你正在攻击一支豫章王的军队！,您正在攻擊豫章王的部隊！,Vanilla,False
+You are attacking a Prince of Zangke Separatists military force!,你正在攻击一支牂牁王叛党的军队！,您正在攻擊牂牁王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Zangke military force!,你正在攻击一支牂牁王的军队！,您正在攻擊牂牁王的部隊！,Vanilla,False
+You are attacking a Prince of Zhangwu Separatists military force!,你正在攻击一支章武王叛党的军队！,您正在攻擊章武王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Zhangwu military force!,你正在攻击一支章武王的军队！,您正在攻擊章武王的部隊！,Vanilla,False
+You are attacking a Prince of Zhao Separatists military force!,你正在攻击一支赵王叛党的军队！,您正在攻擊趙王獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Zhao military force!,你正在攻击一支赵王的军队！,您正在攻擊趙王的部隊！,Vanilla,False
+You are attacking a Prince of Zhongshan Separatists military force!,你正在攻击一支中山王叛党的军队！,您正在攻擊中山獨立勢力的部隊！,Vanilla,False
+You are attacking a Prince of Zhongshan military force!,你正在攻击一支中山王的军队！,您正在攻擊中山王的部隊！,Vanilla,False
+You are attacking a Puyang Commandery military force!,,,Vanilla,False
+You are attacking a Puyang Separatist military force!,,,Vanilla,False
+You are attacking a Qiao Mao Separatist military force!,,,Vanilla,False
+You are attacking a Qiao Mao military force!,,,Vanilla,False
+You are attacking a Runan Commandery Separatists force!,你正在攻击一支汝南豪强叛党的军队！,您正在攻擊汝南郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Runan Commandery force!,你正在攻击一支汝南豪强的军队！,您正在攻擊汝南郡的部隊！,Vanilla,False
+You are attacking a Runan Commandery military force!,你正在攻击一支汝南豪强的军队！,您正在攻擊汝南郡的部隊！,Vanilla,False
+You are attacking a Runan Separatists military force!,你正在攻击一支汝南叛党的军队！,您正在攻擊汝南獨立勢力的部隊！,Vanilla,False
+You are attacking a Shamoke Separatists military force!,,,Vanilla,False
+You are attacking a Shamoke military force!,,,Vanilla,False
+You are attacking a Shangdang Commandery force!,你正在攻击一支上党豪强的军队！,您正在攻擊上黨郡的部隊！,Vanilla,False
+You are attacking a Shangdang Commandery military force!,你正在攻击一支上党豪强的军队！,您正在攻擊上黨郡的部隊！,Vanilla,False
+You are attacking a Shangdang Separatists force!,你正在攻击一支上党叛党的军队！,您正在攻擊上黨獨立勢力的部隊！,Vanilla,False
+You are attacking a Shangdang Separatists military force!,你正在攻击一支上党叛党的军队！,您正在攻擊上黨獨立勢力的部隊！,Vanilla,False
+You are attacking a Shangyong Commandery Separatists force!,你正在攻击一支上庸豪强叛党的军队！,您正在攻擊上庸郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Shangyong Commandery force!,你正在攻击一支上庸豪强的军队！,您正在攻擊上庸郡的部隊！,Vanilla,False
+You are attacking a Shangyong Commandery military force!,你正在攻击一支上庸豪强的军队！,您正在攻擊上庸郡的部隊！,Vanilla,False
+You are attacking a Shangyong Separatists military force!,你正在攻击一支上庸叛党的军队！,您正在攻擊上庸獨立勢力的部隊！,Vanilla,False
+You are attacking a Shanyue Rebel military force!,,,Vanilla,False
+You are attacking a Shanyue Separatist military force!,,,Vanilla,False
+You are attacking a Shi Hui Separatist military force!,,,Vanilla,False
+You are attacking a Shi Hui military force!,,,Vanilla,False
+You are attacking a Shi Xie Separatist military force!,你正在攻击一支士燮叛党军的军队！,您正在攻擊士燮獨立勢力的部隊！,Vanilla,False
+You are attacking a Shi Xie military force!,你正在攻击一支士燮军的军队！,您正在攻擊士燮軍的部隊！,Vanilla,False
+You are attacking a Shouchun Commandery Separatists force!,你正在攻击一支扬州豪强叛党的军队！,您正在攻擊揚州郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Shouchun Commandery force!,你正在攻击一支扬州豪强的军队！,您正在攻擊揚州郡的部隊！,Vanilla,False
+You are attacking a Shouchun Commandery military force!,你正在攻击一支扬州豪强的军队！,您正在攻擊揚州郡的部隊！,Vanilla,False
+You are attacking a Shouchun Separatists military force!,你正在攻击一支扬州叛党的军队！,您正在攻擊揚州獨立勢力的部隊！,Vanilla,False
+You are attacking a Shoufang Commandery military force!,你正在攻击一支朔方豪强的军队！,您正在攻擊朔方郡的部隊！,Vanilla,False
+You are attacking a Shoufang Separatists military force!,你正在攻击一支朔方叛党的军队！,您正在攻擊朔方獨立勢力的部隊！,Vanilla,False
+You are attacking a Shuofang Commandery force!,你正在攻击一支朔方豪强的军队！,您正在攻擊朔方郡的部隊！,Vanilla,False
+You are attacking a Shuofang Separatists force!,你正在攻击一支朔方叛党的军队！,您正在攻擊朔方獨立勢力的部隊！,Vanilla,False
+You are attacking a Sun Jian Separatist military force!,你正在攻击一支孙坚叛党军的军队！,您正在攻擊孫堅獨立勢力的部隊！,Vanilla,False
+You are attacking a Sun Jian military force!,你正在攻击一支孙坚军的军队！,您正在攻擊孫堅軍的部隊！,Vanilla,False
+You are attacking a Taishan Commandery Separatists force!,你正在攻击一支泰山豪强叛党的军队！,您正在攻擊泰山郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Taishan Commandery force!,你正在攻击一支泰山豪强的军队！,您正在攻擊泰山郡的部隊！,Vanilla,False
+You are attacking a Taishan Commandery military force!,你正在攻击一支泰山豪强的军队！,您正在攻擊泰山郡的部隊！,Vanilla,False
+You are attacking a Taishan Separatists military force!,你正在攻击一支泰山叛党的军队！,您正在攻擊泰山獨立勢力的部隊！,Vanilla,False
+You are attacking a Taiyuan Commandery force!,你正在攻击一支太原豪强的军队！,您正在攻擊太原郡的部隊！,Vanilla,False
+You are attacking a Taiyuan Commandery military force!,你正在攻击一支太原豪强的军队！,您正在攻擊太原郡的部隊！,Vanilla,False
+You are attacking a Taiyuan Separatists force!,你正在攻击一支太原叛党的军队！,您正在攻擊太原獨立勢力的部隊！,Vanilla,False
+You are attacking a Taiyuan Separatists military force!,你正在攻击一支太原叛党的军队！,您正在攻擊太原獨立勢力的部隊！,Vanilla,False
+You are attacking a Tao Qian military force!,你正在攻击一支陶谦的军队！,您正在攻擊陶謙軍的部隊！,Vanilla,False
+You are attacking a Tong'an Commandery Separatists force!,你正在攻击一支同安豪强叛党的军队！,您正在攻擊同安郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Tong'an Commandery force!,你正在攻击一支同安豪强的军队！,您正在攻擊同安郡的部隊！,Vanilla,False
+You are attacking a Tongan Commandery military force!,你正在攻击一支同安豪强的军队！,您正在攻擊同安郡的部隊！,Vanilla,False
+You are attacking a Tongan Separatists military force!,你正在攻击一支同安叛党的军队！,您正在攻擊同安郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Wang Kuang military force!,你正在攻击一支王匡的军队！,您正在攻擊王匡軍的部隊！,Vanilla,False
+You are attacking a Wang Lang military force!,你正在攻击一支王朗的军队！,您正在攻擊王朗軍的部隊！,Vanilla,False
+You are attacking a Wang Rui military force!,,,Vanilla,False
+You are attacking a Wei Commandery military force!,,,Vanilla,False
+You are attacking a Wei Separatist military force!,,,Vanilla,False
+You are attacking a Weijun Commandery force!,你正在攻击一支魏郡豪强的军队！,您正在攻擊魏郡的部隊！,Vanilla,False
+You are attacking a Weijun Commandery military force!,你正在攻击一支魏郡豪强的军队！,您正在攻擊魏郡的部隊！,Vanilla,False
+You are attacking a Weijun Separatists force!,你正在攻击一支魏郡豪强叛党的军队！,您正在攻擊魏郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Weijun Separatists military force!,你正在攻击一支魏郡叛党的军队！,您正在攻擊魏郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Wuling Commandery force!,你正在攻击一支武陵豪强的军队！,您正在攻擊武陵郡的部隊！,Vanilla,False
+You are attacking a Wuling Commandery military force!,你正在攻击一支武陵豪强的军队！,您正在攻擊武陵郡的部隊！,Vanilla,False
+You are attacking a Wuling Separatists force!,你正在攻击一支武陵豪强叛党的军队！,您正在攻擊武陵獨立勢力的部隊！,Vanilla,False
+You are attacking a Wuling Separatists military force!,你正在攻击一支武陵叛党的军队！,您正在攻擊武陵獨立勢力的部隊！,Vanilla,False
+You are attacking a Wuwei Commandery Separatists force!,你正在攻击一支武威豪强叛党的军队！,您正在攻擊武威郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Wuwei Commandery force!,你正在攻击一支武威豪强的军队！,您正在攻擊武威郡的部隊！,Vanilla,False
+You are attacking a Wuwei Commandery military force!,你正在攻击一支武威豪强的军队！,您正在攻擊武威郡的部隊！,Vanilla,False
+You are attacking a Wuwei Separatists military force!,你正在攻击一支武威叛党的军队！,您正在攻擊武威獨立勢力的部隊！,Vanilla,False
+You are attacking a Xiabian Commandery Separatists force!,你正在攻击一支武都豪强叛党的军队！,您正在攻擊武都郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Xiabian Commandery force!,你正在攻击一支武都豪强的军队！,您正在攻擊武都郡的部隊！,Vanilla,False
+You are attacking a Xiabian Commandery military force!,你正在攻击一支武都豪强的军队！,您正在攻擊武都郡的部隊！,Vanilla,False
+You are attacking a Xiabian Separatists military force!,你正在攻击一支武都叛党的军队！,您正在攻擊武都獨立勢力的部隊！,Vanilla,False
+You are attacking a Xiangyang Commandery force!,你正在攻击一支襄阳豪强的军队！,您正在攻擊襄陽郡的部隊！,Vanilla,False
+You are attacking a Xiangyang Commandery military force!,你正在攻击一支襄阳豪强的军队！,您正在攻擊襄陽郡的部隊！,Vanilla,False
+You are attacking a Xiangyang Separatists force!,你正在攻击一支襄阳豪强叛党的军队！,您正在攻擊襄陽獨立勢力的部隊！,Vanilla,False
+You are attacking a Xiangyang Separatists military force!,你正在攻击一支襄阳叛党的军队！,您正在攻擊襄陽獨立勢力的部隊！,Vanilla,False
+You are attacking a Xihe Commandery Separatists force!,你正在攻击一支西河豪强叛党的军队！,您正在攻擊西河郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Xihe Commandery force!,你正在攻击一支西河豪强的军队！,您正在攻擊西河郡的部隊！,Vanilla,False
+You are attacking a Xihe Commandery military force!,你正在攻击一支西河豪强的军队！,您正在攻擊西河郡的部隊！,Vanilla,False
+You are attacking a Xihe Separatists military force!,你正在攻击一支西河叛党的军队！,您正在攻擊西河獨立勢力的部隊！,Vanilla,False
+You are attacking a Xin Xuan Separatist military force!,,,Vanilla,False
+You are attacking a Xin Xuan military force!,,,Vanilla,False
+You are attacking a Xindu Commandery force!,你正在攻击一支新都豪强的军队！,您正在攻擊新都郡的部隊！,Vanilla,False
+You are attacking a Xindu Commandery military force!,你正在攻击一支新都豪强的军队！,您正在攻擊新都郡的部隊！,Vanilla,False
+You are attacking a Xindu Separatists force!,你正在攻击一支新都豪强叛党的军队！,您正在攻擊新都獨立勢力的部隊！,Vanilla,False
+You are attacking a Xindu Separatists military force!,你正在攻击一支新都叛党的军队！,您正在攻擊新都獨立勢力的部隊！,Vanilla,False
+You are attacking a Xuchang Commandery force!,你正在攻击一支颍川豪强的军队！,您正在攻擊潁川郡的部隊！,Vanilla,False
+You are attacking a Xuchang Commandery military force!,你正在攻击一支颍川豪强的军队！,您正在攻擊潁川郡的部隊！,Vanilla,False
+You are attacking a Xuchang Separatists force!,你正在攻击一支颍川豪强叛党的军队！,您正在攻擊潁川獨立勢力的部隊！,Vanilla,False
+You are attacking a Xuchang Separatists military force!,你正在攻击一支颍川叛党的军队！,您正在攻擊潁川獨立勢力的部隊！,Vanilla,False
+You are attacking a Yanmen Commandery force!,你正在攻击一支雁门豪强的军队！,您正在攻擊雁門郡的部隊！,Vanilla,False
+You are attacking a Yanmen Commandery military force!,你正在攻击一支雁门豪强的军队！,您正在攻擊雁門郡的部隊！,Vanilla,False
+You are attacking a Yanmen Separatists force!,你正在攻击一支雁门豪强叛党的军队！,您正在攻擊雁門獨立勢力的部隊！,Vanilla,False
+You are attacking a Yanmen Separatists military force!,你正在攻击一支雁门叛党的军队！,您正在攻擊雁門獨立勢力的部隊！,Vanilla,False
+You are attacking a Ye Commandery Separatists force!,你正在攻击一支邺豪强叛党的军队！,您正在攻擊鄴郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Ye Commandery force!,你正在攻击一支邺豪强的军队！,您正在攻擊鄴郡的部隊！,Vanilla,False
+You are attacking a Ye Commandery military force!,你正在攻击一支邺豪强的军队！,您正在攻擊鄴郡的部隊！,Vanilla,False
+You are attacking a Ye Separatists military force!,你正在攻击一支邺叛党的军队！,您正在攻擊鄴郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Yellow Turban Rebels military force!,你正在攻击一支黄巾叛军的军队！,您正在攻擊黃巾軍的部隊！,Vanilla,False
+You are attacking a Ying Shao Separatist military force!,,,Vanilla,False
+You are attacking a Ying Shao military force!,,,Vanilla,False
+You are attacking a Yizhou Commandery Separatists force!,你正在攻击一支益州豪强叛党的军队！,您正在攻擊益州郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Yizhou Commandery force!,你正在攻击一支益州豪强的军队！,您正在攻擊益州郡的部隊！,Vanilla,False
+You are attacking a Yizhou Separatist military force!,,,Vanilla,False
+You are attacking a Yong'an Commandery force!,你正在攻击一支巴东豪强的军队！,您正在攻擊巴東郡的部隊！,Vanilla,False
+You are attacking a Yong'an Commandery military force!,你正在攻击一支巴东豪强的军队！,您正在攻擊巴東郡的部隊！,Vanilla,False
+You are attacking a Yong'an Separatists force!,你正在攻击一支巴东叛党的军队！,您正在攻擊巴東獨立勢力的部隊！,Vanilla,False
+You are attacking a Yong'an Separatists military force!,你正在攻击一支巴东叛党的军队！,您正在攻擊巴東獨立勢力的部隊！,Vanilla,False
+You are attacking a Yongchang Commandery Separatists force!,你正在进攻一支永昌郡国叛党的军队！,您正在攻擊永昌郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Yongchang Commandery force!,你正在进攻一支永昌郡国的军队！,您正在攻擊永昌郡的部隊！,Vanilla,False
+You are attacking a Youbeiping Commandery force!,你正在攻击一支右北平豪强的军队！,您正在攻擊右北平郡的部隊！,Vanilla,False
+You are attacking a Youbeiping Commandery military force!,你正在攻击一支右北平豪强的军队！,您正在攻擊右北平郡的部隊！,Vanilla,False
+You are attacking a Youbeiping Separatists force!,你正在攻击一支右北平豪强叛党的军队！,您正在攻擊右北平獨立勢力的部隊！,Vanilla,False
+You are attacking a Youbeiping Separatists military force!,你正在攻击一支右北平叛党的军队！,您正在攻擊右北平獨立勢力的部隊！,Vanilla,False
+You are attacking a Yu Commandery force!,你正在攻击一支豫豪强的军队！,您正在攻擊豫州郡的部隊！,Vanilla,False
+You are attacking a Yu Commandery military force!,你正在攻击一支豫豪强的军队！,您正在攻擊豫州郡的部隊！,Vanilla,False
+You are attacking a Yu Separatists force!,你正在攻击一支豫豪强叛党的军队！,您正在攻擊豫州獨立勢力的部隊！,Vanilla,False
+You are attacking a Yu Separatists military force!,你正在攻击一支豫叛党的军队！,您正在攻擊豫州獨立勢力的部隊！,Vanilla,False
+You are attacking a Yuan Shao Separatist military force!,你正在攻击一支袁绍叛党的军队！,您正在攻擊袁紹獨立勢力的部隊！,Vanilla,False
+You are attacking a Yuan Shao military force!,你正在攻击一支袁绍的军队！,您正在攻擊袁紹軍的部隊！,Vanilla,False
+You are attacking a Yuan Shu Separatist military force!,你正在攻击一支袁术叛党的军队！,您正在攻擊袁術獨立勢力的部隊！,Vanilla,False
+You are attacking a Yuan Shu military force!,你正在攻击一支袁术的军队！,您正在攻擊袁術軍的部隊！,Vanilla,False
+You are attacking a Yuan Xi Separatist military force!,,,Vanilla,False
+You are attacking a Yuan Xi military force!,,,Vanilla,False
+You are attacking a Yuan Yi Separatist military force!,,,Vanilla,False
+You are attacking a Yuan Yi military force!,,,Vanilla,False
+You are attacking a Yunnan Commandery Separatists force!,你正在进攻一支云南郡国叛党的军队！,您正在攻擊雲南郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Yunnan Commandery force!,你正在进攻一支云南郡国的军队！,您正在攻擊雲南郡的部隊！,Vanilla,False
+You are attacking a Yuzhang Commandery force!,你正在攻击一支豫章豪强的军队！,您正在攻擊豫章郡的部隊！,Vanilla,False
+You are attacking a Yuzhang Commandery military force!,你正在攻击一支豫章豪强的军队！,您正在攻擊豫章郡的部隊！,Vanilla,False
+You are attacking a Yuzhang Separatists force!,你正在攻击一支豫章豪强叛党的军队！,您正在攻擊豫章獨立勢力的部隊！,Vanilla,False
+You are attacking a Yuzhang Separatists military force!,你正在攻击一支豫章叛党的军队！,您正在攻擊豫章獨立勢力的部隊！,Vanilla,False
+You are attacking a Zangke Commandery Separatists force!,你正在攻击一支牂牁豪强叛党的军队！,您正在攻擊牂牁郡獨立勢力的部隊！,Vanilla,False
+You are attacking a Zangke Commandery force!,你正在攻击一支牂牁豪强的军队！,您正在攻擊牂牁郡的部隊！,Vanilla,False
+You are attacking a Zangke Commandery military force!,你正在攻击一支牂牁豪强的军队！,您正在攻擊牂牁郡的部隊！,Vanilla,False
+You are attacking a Zangke Separatists military force!,你正在攻击一支牂牁叛党的军队！,您正在攻擊牂牁獨立勢力的部隊！,Vanilla,False
+You are attacking a Zhai Rong military force!,你正在攻击一支笮融的军队！,您正在攻擊笮融軍的部隊！,Vanilla,False
+You are attacking a Zhang Bao Separatist military force!,,,Vanilla,False
+You are attacking a Zhang Bao military force!,,,Vanilla,False
+You are attacking a Zhang Chao military force!,你正在攻击一支张超的军队！,您正在攻擊張超軍的部隊！,Vanilla,False
+You are attacking a Zhang Jue Separatist military force!,,,Vanilla,False
+You are attacking a Zhang Jue military force!,,,Vanilla,False
+You are attacking a Zhang Liang Separatist military force!,,,Vanilla,False
+You are attacking a Zhang Liang military force!,,,Vanilla,False
+You are attacking a Zhang Meng Separatist military force!,,,Vanilla,False
+You are attacking a Zhang Meng military force!,,,Vanilla,False
+You are attacking a Zhang Xiu Separatist military force!,,,Vanilla,False
+You are attacking a Zhang Xiu military force!,,,Vanilla,False
+You are attacking a Zhang Yan Separatist military force!,你正在攻击一支张燕叛党的军队！,您正在攻擊張燕獨立勢力的部隊！,Vanilla,False
+You are attacking a Zhang Yan military force!,你正在攻击一支张燕的军队！,您正在攻擊張燕軍的部隊！,Vanilla,False
+You are attacking a Zhang Yang military force!,你正在攻击一支张杨的军队！,您正在攻擊張楊軍的部隊！,Vanilla,False
+You are attacking a Zheng Jiang Separatist military force!,你正在攻击一支郑姜叛党的军队！,您正在攻擊鄭姜獨立勢力的部隊！,Vanilla,False
+You are attacking a Zheng Jiang military force!,你正在攻击一支郑姜的军队！,您正在攻擊鄭姜軍的部隊！,Vanilla,False
+You are attacking a Zhongshan Commandery force!,你正在攻击一支中山豪强的军队！,您正在攻擊中山郡的部隊！,Vanilla,False
+You are attacking a Zhongshan Commandery military force!,你正在攻击一支中山豪强的军队！,您正在攻擊中山郡的部隊！,Vanilla,False
+You are attacking a Zhongshan Separatists force!,你正在攻击一支中山豪强叛党的军队！,您正在攻擊中山獨立勢力的部隊！,Vanilla,False
+You are attacking a Zhongshan Separatists military force!,你正在攻击一支中山叛党的军队！,您正在攻擊中山獨立勢力的部隊！,Vanilla,False
+You are attacking a Zhou Xin Separatist military force!,,,Vanilla,False
+You are attacking a Zhou Xin military force!,,,Vanilla,False
+You are attacking an Allied military force!,你正在攻击一支同盟军的军队！,您正在攻擊盟友軍的部隊！,Vanilla,False
+You are attacking an Anding Commandery force!,你正在攻击一支安定豪强的军队！,您正在攻擊安定郡的部隊！,Vanilla,False
+You are attacking an Anding Separatists force!,你正在攻击一支安定叛党的军队！,您正在攻擊安定獨立勢力的部隊！,Vanilla,False
+You are attacking an Anping Commandery Separatists force!,你正在攻击一支安平豪强叛党的军队！,您正在攻擊安平郡獨立勢力的部隊！,Vanilla,False
+You are attacking an Anping Commandery force!,你正在攻击一支安平豪强的军队！,您正在攻擊安平郡的部隊！,Vanilla,False
+You are attacking an Enemy military force!,你正在攻击一支敌方军队！,您正在攻擊敵軍的部隊！,Vanilla,False
+You are defending against a Anding Commandery military force!,你正在防御一支安定豪强的军队！,您正在防禦安定郡部隊的攻擊！,Vanilla,False
+You are defending against a Anding Separatists military force!,你正在防御一支安定叛党的军队！,您正在防禦安定獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Anping Commandery military force!,你正在防御一支安平豪强的军队！,您正在防禦安平郡部隊的攻擊！,Vanilla,False
+You are defending against a Anping Separatists military force!,你正在防御一支安平叛党的军队！,您正在防禦安平獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Bajun Commandery military force!,你正在防御一支巴郡豪强的军队！,您正在防禦巴郡部隊的攻擊！,Vanilla,False
+You are defending against a Bajun Separatists military force!,你正在防御一支巴郡叛党的军队！,您正在防禦巴郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Beihai Commandery Separatists force!,你正在防御一支北海豪强叛党的军队！,您正在防禦北海郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Beihai Commandery force!,你正在防御一支北海豪强的军队！,您正在防禦北海郡部隊的攻擊！,Vanilla,False
+You are defending against a Beihai Commandery military force!,你正在防御一支北海豪强的军队！,您正在防禦北海郡部隊的攻擊！,Vanilla,False
+You are defending against a Beihai Separatists military force!,你正在防御一支北海叛党的军队！,您正在防禦北海獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Bian Zhang Separatist military force!,,,Vanilla,False
+You are defending against a Bian Zhang military force!,,,Vanilla,False
+You are defending against a Bohai Commandery force!,你正在防御一支勃海豪强的军队！,您正在防禦渤海郡部隊的攻擊！,Vanilla,False
+You are defending against a Bohai Commandery military force!,你正在防御一支勃海豪强的军队！,您正在防禦渤海郡部隊的攻擊！,Vanilla,False
+You are defending against a Bohai Separatists force!,你正在防御一支勃海叛党的军队！,您正在防禦渤海獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Bohai Separatists military force!,你正在防御一支勃海叛党的军队！,您正在防禦渤海獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Bushan Commandery Separatists force!,你正在防御一支郁林豪强叛党的军队！,您正在防禦鬱林郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Bushan Commandery force!,你正在防御一支郁林豪强的军队！,您正在防禦鬱林郡部隊的攻擊！,Vanilla,False
+You are defending against a Bushan Commandery military force!,你正在防御一支郁林豪强的军队！,您正在防禦鬱林郡部隊的攻擊！,Vanilla,False
+You are defending against a Bushan Separatists military force!,你正在防御一支郁林叛党的军队！,您正在防禦鬱林獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Cai Mao Separatists military force!,你正在防御一支蔡瑁叛党的军队！,您正在防禦蔡瑁獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Cai Mao military force!,你正在防御一支蔡瑁军的军队！,您正在防禦蔡瑁軍部隊的攻擊！,Vanilla,False
+You are defending against a Cangwu Commandery Separatists force!,你正在防御一支苍梧豪强叛党的军队！,您正在防禦蒼梧郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Cangwu Commandery force!,你正在防御一支苍梧豪强的军队！,您正在防禦蒼梧郡部隊的攻擊！,Vanilla,False
+You are defending against a Cangwu Commandery military force!,你正在防御一支苍梧豪强的军队！,您正在防禦蒼梧郡部隊的攻擊！,Vanilla,False
+You are defending against a Cangwu Separatists military force!,你正在防御一支苍梧叛党的军队！,您正在防禦蒼梧獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Cao Cao Separatist military force!,你正在防御一支曹操叛党军的军队！,您正在防禦曹操獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Cao Cao military force!,你正在防御一支曹操军的军队！,您正在防禦曹操軍部隊的攻擊！,Vanilla,False
+You are defending against a Cao Song Separatist military force!,,,Vanilla,False
+You are defending against a Cao Song military force!,,,Vanilla,False
+You are defending against a Chang'an Commandery force!,你正在防御一支长安豪强的军队！,您正在防禦長安郡部隊的攻擊！,Vanilla,False
+You are defending against a Chang'an Commandery military force!,你正在防御一支长安豪强的军队！,您正在防禦長安郡部隊的攻擊！,Vanilla,False
+You are defending against a Chang'an Separatists force!,你正在防御一支长安叛党的军队！,您正在防禦長安獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Chang'an Separatists military force!,你正在防御一支长安叛党的军队！,您正在防禦長安獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Changsha Commandery Separatists force!,你正在防御一支长沙豪强叛党的军队！,您正在防禦長沙郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Changsha Commandery force!,你正在防御一支长沙豪强的军队！,您正在防禦長沙郡部隊的攻擊！,Vanilla,False
+You are defending against a Changsha Commandery military force!,你正在防御一支长沙豪强的军队！,您正在防禦長沙郡部隊的攻擊！,Vanilla,False
+You are defending against a Changsha Separatists military force!,你正在防御一支长沙叛党的军队！,您正在防禦長沙獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Chen Commandery Separatists force!,你正在防御一支陈郡豪强叛党的军队！,您正在防禦陳郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Chen Commandery force!,你正在防御一支陈郡豪强的军队！,您正在防禦陳郡部隊的攻擊！,Vanilla,False
+You are defending against a Chen Deng Separatist military force!,,,Vanilla,False
+You are defending against a Chen Deng military force!,,,Vanilla,False
+You are defending against a Chen Gui Separatist military force!,,,Vanilla,False
+You are defending against a Chen Gui military force!,,,Vanilla,False
+You are defending against a Chengdu Commandery force!,你正在防御一支成都豪强的军队！,您正在防禦成都郡部隊的攻擊！,Vanilla,False
+You are defending against a Chengdu Commandery military force!,你正在防御一支成都豪强的军队！,您正在防禦成都郡部隊的攻擊！,Vanilla,False
+You are defending against a Chengdu Separatists force!,你正在防御一支成都叛党的军队！,您正在防禦成都獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Chengdu Separatists military force!,你正在防御一支成都叛党的军队！,您正在防禦成都獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Chenjun Commandery military force!,你正在防御一支陈郡豪强的军队！,您正在防禦陳郡部隊的攻擊！,Vanilla,False
+You are defending against a Chenjun Separatists military force!,你正在防御一支陈郡叛党的军队！,您正在防禦陳郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Chu Gong Separatist military force!,,,Vanilla,False
+You are defending against a Chu Gong military force!,,,Vanilla,False
+You are defending against a Daijun Commandery force!,你正在防御一支代郡豪强的军队！,您正在防禦代郡部隊的攻擊！,Vanilla,False
+You are defending against a Daijun Commandery military force!,你正在防御一支代郡豪强的军队！,您正在防禦代郡部隊的攻擊！,Vanilla,False
+You are defending against a Daijun Separatists force!,你正在防御一支代郡叛党的军队！,您正在防禦代郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Daijun Separatists military force!,你正在防御一支代郡叛党的军队！,您正在防禦代郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Ding Yuan Separatist military force!,,,Vanilla,False
+You are defending against a Ding Yuan military force!,,,Vanilla,False
+You are defending against a Dong He Separatist military force!,,,Vanilla,False
+You are defending against a Dong He military force!,,,Vanilla,False
+You are defending against a Dong Zhuo Separatist military force!,你正在防御一支董卓叛党军的军队！,您正在防禦董卓獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Dong Zhuo military force!,你正在防御一支董卓军的军队！,您正在防禦董卓軍部隊的攻擊！,Vanilla,False
+You are defending against a Dong'ou Commandery military force!,你正在防御一支东瓯豪强的军队！,您正在防禦東甌郡部隊的攻擊！,Vanilla,False
+You are defending against a Dong'ou Separatists military force!,你正在防御一支东瓯叛党的军队！,您正在防禦東甌獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Donghai Commandery Separatists force!,你正在防御一支东海豪强叛党的军队！,您正在防禦東海郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Donghai Commandery force!,你正在防御一支东海豪强的军队！,您正在防禦東海郡部隊的攻擊！,Vanilla,False
+You are defending against a Donghai Commandery military force!,你正在防御一支东海豪强的军队！,您正在防禦東海郡部隊的攻擊！,Vanilla,False
+You are defending against a Donghai Separatists military force!,你正在防御一支东海叛党的军队！,您正在防禦東海獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Dongjun Commandery force!,你正在防御一支东郡豪强的军队！,您正在防禦東郡部隊的攻擊！,Vanilla,False
+You are defending against a Dongjun Commandery military force!,你正在防御一支东郡豪强的军队！,您正在防禦東郡部隊的攻擊！,Vanilla,False
+You are defending against a Dongjun Separatists force!,你正在防御一支东郡叛党的军队！,您正在防禦東郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Dongjun Separatists military force!,你正在防御一支东郡叛党的军队！,您正在防禦東郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Donglai Commandery Separatists force!,你正在防御一支东莱豪强叛党的军队！,您正在防禦東萊郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Donglai Commandery force!,你正在防御一支东莱豪强的军队！,您正在防禦東萊郡部隊的攻擊！,Vanilla,False
+You are defending against a Donglai Commandery military force!,你正在防御一支东海豪强的军队！,您正在防禦東萊郡部隊的攻擊！,Vanilla,False
+You are defending against a Donglai Separatists military force!,你正在防御一支东海叛党的军队！,您正在防禦東萊獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Dongou Commandery force!,你正在防御一支东瓯豪强的军队！,您正在防禦東甌郡部隊的攻擊！,Vanilla,False
+You are defending against a Dongou Separatists force!,你正在防御一支东瓯叛党的军队！,您正在防禦東甌獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Duke of Lanling Separatists military force!,你正在防御一支兰陵叛党的军队！,您正在防禦蘭陵公獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Duke of Lanling military force!,你正在防御一支兰陵豪强的军队！,您正在防禦蘭陵公部隊的攻擊！,Vanilla,False
+You are defending against a Fuling Commandery Separatists force!,你正在防御一支涪陵豪强叛党的军队！,您正在防禦涪陵郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Fuling Commandery force!,你正在防御一支涪陵豪强的军队！,您正在防禦涪陵郡部隊的攻擊！,Vanilla,False
+You are defending against a Fuling Commandery military force!,你正在防御一支涪陵豪强的军队！,您正在防禦涪陵郡部隊的攻擊！,Vanilla,False
+You are defending against a Fuling Separatists military force!,你正在防御一支涪陵叛党的军队！,您正在防禦涪陵獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Gaoliang Commandery force!,你正在防御一支高凉豪强的军队！,您正在防禦高涼郡部隊的攻擊！,Vanilla,False
+You are defending against a Gaoliang Commandery military force!,你正在防御一支高凉豪强的军队！,您正在防禦高涼郡部隊的攻擊！,Vanilla,False
+You are defending against a Gaoliang Separatists force!,你正在防御一支高凉叛党的军队！,您正在防禦高涼獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Gaoliang Separatists military force!,你正在防御一支高凉叛党的军队！,您正在防禦高涼獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Gaoliu Commandery military force!,,,Vanilla,False
+You are defending against a Gaoliu Separatist military force!,,,Vanilla,False
+You are defending against a Gong Du military force!,你正在攻击一支龚都的军队！,您正在防禦龔都軍部隊的攻擊！,Vanilla,False
+You are defending against a Gongsun Du military force!,你正在防御一支公孙度军的军队！,您正在防禦公孫度軍部隊的攻擊！,Vanilla,False
+You are defending against a Gongsun Zan military force!,你正在防御一支公孙瓒军的军队！,您正在防禦公孫瓚軍部隊的攻擊！,Vanilla,False
+You are defending against a Han Dynasty Separatist military force!,,,Vanilla,False
+You are defending against a Han Dynasty military force!,,,Vanilla,False
+You are defending against a Han Fu Separatist military force!,,,Vanilla,False
+You are defending against a Han Fu military force!,你正在防御一支韩馥军的军队！,您正在防禦韓馥軍部隊的攻擊！,Vanilla,False
+You are defending against a Hanzhong Commandery force!,你正在防御一支汉中豪强的军队！,您正在防禦漢中郡部隊的攻擊！,Vanilla,False
+You are defending against a Hanzhong Commandery military force!,你正在防御一支汉中豪强的军队！,您正在防禦漢中郡部隊的攻擊！,Vanilla,False
+You are defending against a Hanzhong Separatists force!,你正在防御一支汉中叛党的军队！,您正在防禦漢中獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Hanzhong Separatists military force!,你正在防御一支汉中叛党的军队！,您正在防禦漢中獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a He Yi military force!,你正在攻击一支何仪的军队！,您正在防禦何儀軍部隊的攻擊！,Vanilla,False
+You are defending against a Hedong Commandery Separatists force!,你正在防御一支河东豪强叛党的军队！,您正在防禦河東郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Hedong Commandery force!,你正在防御一支河东豪强的军队！,您正在防禦河東郡部隊的攻擊！,Vanilla,False
+You are defending against a Hedong Commandery military force!,你正在防御一支河东豪强的军队！,您正在防禦河東郡部隊的攻擊！,Vanilla,False
+You are defending against a Hedong Separatists military force!,你正在防御一支河东叛党的军队！,您正在防禦河東獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Hefei Commandery military force!,你正在防御一支庐江豪强的军队！,您正在防禦廬江郡部隊的攻擊！,Vanilla,False
+You are defending against a Hefei Separatist military force!,你正在防御一支庐江豪强叛党的军队！,您正在防禦廬江郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Hefei Separatists military force!,你正在防御一支庐江叛党的军队！,您正在防禦廬江獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Henei Commandery force!,你正在防御一支河内豪强的军队！,您正在防禦河內郡部隊的攻擊！,Vanilla,False
+You are defending against a Henei Commandery military force!,你正在防御一支河内豪强的军队！,您正在防禦河內郡部隊的攻擊！,Vanilla,False
+You are defending against a Henei Separatists force!,你正在防御一支河内叛党的军队！,您正在防禦河內獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Henei Separatists military force!,你正在防御一支河内叛党的军队！,您正在防禦河內獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Hepu Commandery Separatists force!,你正在防御一支合浦豪强叛党的军队！,您正在防禦合浦郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Hepu Commandery force!,你正在防御一支合浦豪强的军队！,您正在防禦合浦郡部隊的攻擊！,Vanilla,False
+You are defending against a Hepu Commandery military force!,你正在防御一支合浦豪强的军队！,您正在防禦合浦郡部隊的攻擊！,Vanilla,False
+You are defending against a Hepu Separatists military force!,你正在防御一支合浦叛党的军队！,您正在防禦合浦獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Huaiyin Commandery Separatists force!,你正在防御一支广陵豪强叛党的军队！,您正在防禦廣陵郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Huaiyin Commandery force!,你正在防御一支广陵豪强的军队！,您正在防禦廣陵郡部隊的攻擊！,Vanilla,False
+You are defending against a Huaiyin Commandery military force!,你正在防御一支广陵豪强的军队！,您正在防禦廣陵郡部隊的攻擊！,Vanilla,False
+You are defending against a Huaiyin Separatists military force!,你正在防御一支广陵叛党的军队！,您正在防禦廣陵獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Huang Shao military force!,你正在攻击一支黄邵的军队！,您正在防禦黃邵軍部隊的攻擊！,Vanilla,False
+You are defending against a Ji Commandery Separatists force!,你正在防御一支幽州豪强叛党的军队！,您正在防禦幽州郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Ji Commandery force!,你正在防御一支幽州豪强的军队！,您正在防禦幽州郡部隊的攻擊！,Vanilla,False
+You are defending against a Ji Commandery military force!,你正在防御一支幽州豪强的军队！,您正在防禦幽州郡部隊的攻擊！,Vanilla,False
+You are defending against a Ji Separatists military force!,你正在防御一支幽州叛党的军队！,您正在防禦幽州獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Jian'an Commandery force!,你正在防御一支建安豪强的军队！,您正在防禦建安郡部隊的攻擊！,Vanilla,False
+You are defending against a Jian'an Separatists force!,你正在防御一支建安叛党的军队！,您正在防禦建安獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Jianan Commandery military force!,你正在防御一支建安豪强的军队！,您正在防禦建安郡部隊的攻擊！,Vanilla,False
+You are defending against a Jianan Separatists military force!,你正在防御一支建安叛党的军队！,您正在防禦建安獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Jiangxia Commandery Separatists force!,你正在防御一支江夏豪强叛党的军队！,您正在防禦江夏郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Jiangxia Commandery force!,你正在防御一支江夏豪强的军队！,您正在防禦江夏郡部隊的攻擊！,Vanilla,False
+You are defending against a Jiangxia Commandery military force!,你正在防御一支江夏豪强的军队！,您正在防禦江夏郡部隊的攻擊！,Vanilla,False
+You are defending against a Jiangxia Separatists military force!,你正在防御一支江夏叛党的军队！,您正在防禦江夏獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Jiangyang Commandery force!,你正在防御一支江阳豪强的军队！,您正在防禦江陽郡部隊的攻擊！,Vanilla,False
+You are defending against a Jiangyang Commandery military force!,你正在防御一支江阳豪强的军队！,您正在防禦江陽郡部隊的攻擊！,Vanilla,False
+You are defending against a Jiangyang Separatists force!,你正在防御一支江阳叛党的军队！,您正在防禦江陽獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Jiangyang Separatists military force!,你正在防御一支江阳叛党的军队！,您正在防禦江陽獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Jiangzhou Commandery Separatists force!,你正在防御一支巴郡豪强叛党的军队！的军队,您正在防禦巴郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Jiangzhou Commandery force!,你正在防御一支巴郡豪强的军队！,您正在防禦巴郡部隊的攻擊！,Vanilla,False
+You are defending against a Jianning Commandery Separatists force!,你正在防御一支建宁豪强叛党的军队！,您正在防禦建寧郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Jianning Commandery force!,你正在防御一支建宁豪强的军队！,您正在防禦建寧郡部隊的攻擊！,Vanilla,False
+You are defending against a Jianning Commandery military force!,你正在防御一支建宁豪强的军队！,您正在防禦建寧郡部隊的攻擊！,Vanilla,False
+You are defending against a Jianning Separatists military force!,你正在防御一支建宁叛党的军队！,您正在防禦建寧獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Jianye Commandery force!,你正在防御一支建业豪强的军队！,您正在防禦建業郡部隊的攻擊！,Vanilla,False
+You are defending against a Jianye Commandery military force!,你正在防御一支建邺豪强的军队！,您正在防禦建業郡部隊的攻擊！,Vanilla,False
+You are defending against a Jianye Separatists force!,你正在防御一支建业叛党的军队！,您正在防禦建業獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Jianye Separatists military force!,你正在防御一支建邺叛党的军队！,您正在防禦建業獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Jiaozhi Commandery Separatists force!,你正在防御一支交趾豪强叛党的军队！,您正在防禦交趾郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Jiaozhi Commandery force!,你正在防御一支交趾豪强的军队！,您正在防禦交趾郡部隊的攻擊！,Vanilla,False
+You are defending against a Jiaozhi Commandery military force!,你正在防御一支交趾豪强的军队！,您正在防禦交趾郡部隊的攻擊！,Vanilla,False
+You are defending against a Jiaozhi Separatists military force!,你正在防御一支交趾叛党的军队！,您正在防禦交趾獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Jin Empire Separatists military force!,你正在防御一支晋帝国叛党的军队！,您正在防禦大晉獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Jin Empire military force!,你正在防御一支晋帝国豪强的军队！,您正在防禦大晉軍部隊的攻擊！,Vanilla,False
+You are defending against a Jincheng Commandery force!,你正在防御一支金城豪强的军队！,您正在防禦金城郡部隊的攻擊！,Vanilla,False
+You are defending against a Jincheng Commandery military force!,你正在防御一支金城豪强的军队！,您正在防禦金城郡部隊的攻擊！,Vanilla,False
+You are defending against a Jincheng Separatists force!,你正在防御一支金城叛党的军队！,您正在防禦金城獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Jincheng Separatists military force!,你正在防御一支金城叛党的军队！,您正在防禦金城獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Jingzhou Commandery Separatists force!,你正在防御一支江陵豪强叛党的军队！,您正在防禦荊州郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Jingzhou Commandery force!,你正在防御一支江陵豪强的军队！,您正在防禦荊州郡部隊的攻擊！,Vanilla,False
+You are defending against a Jingzhou Commandery military force!,你正在防御一支荆州豪强的军队！,您正在防禦荊州郡部隊的攻擊！,Vanilla,False
+You are defending against a Jingzhou Separatists military force!,你正在防御一支荆州叛党的军队！,您正在防禦荊州獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Jiuzhen Commandery Separatists force!,你正在防御一支九真郡国叛党的军队！,您正在防禦九真郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Jiuzhen Commandery force!,你正在防御一支九真郡国的军队！,您正在防禦九真郡部隊的攻擊！,Vanilla,False
+You are defending against a Kong Rong Separatist military force!,你正在防御一支孔融叛党军的军队！,您正在防禦孔融獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Kong Rong military force!,你正在防御一支孔融军的军队！,您正在防禦孔融軍部隊的攻擊！,Vanilla,False
+You are defending against a Kuaiji Commandery force!,你正在防御一支会稽豪强的军队！,您正在防禦會稽郡部隊的攻擊！,Vanilla,False
+You are defending against a Kuaiji Commandery military force!,你正在防御一支会稽豪强的军队！,您正在防禦會稽郡部隊的攻擊！,Vanilla,False
+You are defending against a Kuaiji Separatists force!,你正在防御一支会稽叛党的军队！,您正在防禦會稽獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Kuaiji Separatists military force!,你正在防御一支会稽叛党的军队！,您正在防禦會稽獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Langye Commandery Separatists force!,你正在防御一支琅琊豪强叛党的军队！,您正在防禦琅邪郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Langye Commandery force!,你正在防御一支琅琊豪强的军队！,您正在防禦琅邪郡部隊的攻擊！,Vanilla,False
+You are defending against a Langye Commandery military force!,你正在防御一支琅琊豪强的军队！,您正在防禦琅邪郡部隊的攻擊！,Vanilla,False
+You are defending against a Langye Separatists military force!,你正在防御一支琅琊叛党的军队！,您正在防禦琅邪獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Langzhong Commandery force!,你正在防御一支巴西豪强的军队！,您正在防禦巴西郡部隊的攻擊！,Vanilla,False
+You are defending against a Langzhong Commandery military force!,你正在防御一支巴西豪强的军队！,您正在防禦巴西郡部隊的攻擊！,Vanilla,False
+You are defending against a Langzhong Separatists force!,你正在防御一支巴西叛党的军队！,您正在防禦巴西獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Langzhong Separatists military force!,你正在防御一支巴西叛党的军队！,您正在防禦巴西獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Li Shu Separatist military force!,,,Vanilla,False
+You are defending against a Li Shu military force!,,,Vanilla,False
+You are defending against a Liang Rebel military force!,,,Vanilla,False
+You are defending against a Liang Separatist military force!,,,Vanilla,False
+You are defending against a Lingling Commandery force!,你正在防御一支零陵豪强的军队！,您正在防禦零陵郡部隊的攻擊！,Vanilla,False
+You are defending against a Lingling Commandery military force!,你正在防御一支零陵豪强的军队！,您正在防禦零陵郡部隊的攻擊！,Vanilla,False
+You are defending against a Lingling Separatists force!,你正在防御一支零陵叛党的军队！,您正在防禦零陵獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Lingling Separatists military force!,你正在防御一支零陵叛党的军队！,您正在防禦零陵獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Liu Bei Separatist military force!,你正在防御一支刘备叛党的军队！,您正在防禦劉備獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Liu Biao Separatist military force!,你正在防御一支刘表叛党军的军队！,您正在防禦劉表獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Liu Biao military force!,你正在防御一支刘表军的军队！,您正在防禦劉表軍部隊的攻擊！,Vanilla,False
+You are defending against a Liu Hong Separatist military force!,,,Vanilla,False
+You are defending against a Liu Hong military force!,,,Vanilla,False
+You are defending against a Liu Xun Separatist military force!,,,Vanilla,False
+You are defending against a Liu Xun military force!,,,Vanilla,False
+You are defending against a Lu Kang Separatist military force!,,,Vanilla,False
+You are defending against a Lu Kang military force!,,,Vanilla,False
+You are defending against a Lu Zhi Separatist military force!,,,Vanilla,False
+You are defending against a Lu Zhi military force!,,,Vanilla,False
+You are defending against a Luling Commandery force!,你正在防御一支庐陵豪强的军队！,您正在防禦廬陵郡部隊的攻擊！,Vanilla,False
+You are defending against a Luling Commandery military force!,你正在防御一支庐陵豪强的军队！,您正在防禦廬陵郡部隊的攻擊！,Vanilla,False
+You are defending against a Luling Separatists force!,你正在防御一支庐陵叛党的军队！,您正在防禦廬陵獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Luling Separatists military force!,你正在防御一支庐陵叛党的军队！,您正在防禦廬陵獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Luoyang Commandery Separatists force!,你正在防御一支洛阳豪强叛党的军队！,您正在防禦洛陽郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Luoyang Commandery force!,你正在防御一支洛阳豪强的军队！,您正在防禦洛陽郡部隊的攻擊！,Vanilla,False
+You are defending against a Luoyang Commandery military force!,你正在防御一支洛阳豪强的军队！,您正在防禦洛陽郡部隊的攻擊！,Vanilla,False
+You are defending against a Luoyang Separatists military force!,你正在防御一支洛阳叛党的军队！,您正在防禦洛陽獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Ma Teng Separatist military force!,你正在防御一支马腾叛党军的军队！,您正在防禦馬騰獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Ma Teng military force!,你正在防御一支马腾军的军队！,您正在防禦馬騰軍部隊的攻擊！,Vanilla,False
+You are defending against a Nanhai Commandery force!,你正在防御一支南海豪强的军队！,您正在防禦南海郡部隊的攻擊！,Vanilla,False
+You are defending against a Nanhai Commandery military force!,你正在防御一支南海豪强的军队！,您正在防禦南海郡部隊的攻擊！,Vanilla,False
+You are defending against a Nanhai Separatists force!,你正在防御一支南海叛党的军队！,您正在防禦南海獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Nanhai Separatists military force!,你正在防御一支南海叛党的军队！,您正在防禦南海獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Nanyang Commandery Separatists force!,你正在防御一支南阳豪强叛党的军队！,您正在防禦南陽郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Nanyang Commandery force!,你正在防御一支南阳豪强的军队！,您正在防禦南陽郡部隊的攻擊！,Vanilla,False
+You are defending against a Nanyang Commandery military force!,你正在防御一支南阳豪强的军队！,您正在防禦南陽郡部隊的攻擊！,Vanilla,False
+You are defending against a Nanyang Separatists military force!,你正在防御一支南阳叛党的军队！,您正在防禦南陽獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Noble Rebels military force!,你正在防御一支士族叛军的军队！,您正在防禦官員叛軍部隊的攻擊！,Vanilla,False
+You are defending against a Pengcheng Commandery force!,你正在防御一支彭城豪强的军队！,您正在防禦彭城郡部隊的攻擊！,Vanilla,False
+You are defending against a Pengcheng Commandery military force!,你正在防御一支彭城豪强的军队！,您正在防禦彭城郡部隊的攻擊！,Vanilla,False
+You are defending against a Pengcheng Separatists force!,你正在防御一支彭城叛党的军队！,您正在防禦彭城獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Pengcheng Separatists military force!,你正在防御一支彭城叛党的军队！,您正在防禦彭城獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Pingyuan Commandery Separatists force!,你正在防御一支平原豪强叛党的军队！,您正在防禦平原郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Pingyuan Commandery force!,你正在防御一支平原豪强的军队！,您正在防禦平原郡部隊的攻擊！,Vanilla,False
+You are defending against a Pingyuan Commandery military force!,你正在防御一支平原豪强的军队！,您正在防禦平原郡部隊的攻擊！,Vanilla,False
+You are defending against a Pingyuan Separatists military force!,你正在防御一支平原叛党的军队！,您正在防禦平原獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Player military force!,你正在防御一支玩家的军队！,您正在防禦玩家軍部隊的攻擊！,Vanilla,False
+You are defending against a Poyang Commandery force!,你正在防御一支鄱阳豪强的军队！,您正在防禦鄱陽郡部隊的攻擊！,Vanilla,False
+You are defending against a Poyang Commandery military force!,你正在防御一支鄱阳豪强的军队！,您正在防禦鄱陽郡部隊的攻擊！,Vanilla,False
+You are defending against a Poyang Separatists force!,你正在防御一支鄱阳叛党的军队！,您正在防禦鄱陽獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Poyang Separatists military force!,你正在防御一支鄱阳叛党的军队！,您正在防禦鄱陽獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince Liu Chong Separatist military force!,,,Vanilla,False
+You are defending against a Prince Liu Chong military force!,,,Vanilla,False
+You are defending against a Prince of Beihai Separatists military force!,你正在防御一支北海王叛党的军队！,您正在防禦北海王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Beihai military force!,你正在防御一支北海王的军队！,您正在防禦北海王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Cangwu Separatists military force!,你正在防御一支苍梧王叛党的军队！,您正在防禦蒼梧王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Cangwu military force!,你正在防御一支苍梧王的军队！,您正在防禦蒼梧王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Changle Separatistsn military force!,你正在防御一支长乐王叛党的军队！,您正在防禦長樂王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Changle military force!,你正在防御一支长乐王的军队！,您正在防禦長樂王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Changsha Separatists military force!,你正在防御一支长沙王叛党的军队！,您正在防禦長沙王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Changsha military force!,你正在防御一支长沙王的军队！,您正在防禦長沙王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Chang’an Separatists military force!,你正在防御一支长安王叛党的军队！,您正在防禦長安王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Chang’an military force!,你正在防御一支长安王的军队！,您正在防禦長安王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Chengdu Separatists military force!,你正在防御一支成都王叛党的军队！,您正在防禦成都王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Chengdu military force!,你正在防御一支成都王的军队！,您正在防禦成都王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Chenliu Separatists military force!,你正在防御一支陈留王叛党的军队！,您正在防禦陳留王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Chenliu military force!,你正在防御一支陈留王的军队！,您正在防禦陳留王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Chu Separatists military force!,你正在防御一支楚王叛党的军队！,您正在防禦楚王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Chu military force!,你正在防御一支楚王的军队！,您正在防禦楚王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Dongan Separatists military force!,你正在防御一支东安王叛党的军队！,您正在防禦東安王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Dongan military force!,你正在防御一支东安王的军队！,您正在防禦東安王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Donghai Separatists military force!,你正在防御一支东海王叛党的军队！,您正在防禦東海王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Donghai military force!,你正在防御一支东海王的军队！,您正在防禦東海王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Donglai Separatists military force!,你正在防御一支东莱王叛党的军队！,您正在防禦東萊王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Donglai military force!,你正在防御一支东莱王的军队！,您正在防禦東萊王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Dongping Separatists military force!,你正在防御一支东平王叛党的军队！,您正在防禦東平王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Dongping military force!,你正在防御一支东平王的军队！,您正在防禦東平王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Fanyang Separatists military force!,你正在防御一支范阳王叛党的军队！,您正在防禦范陽王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Fanyang military force!,你正在防御一支范阳王的军队！,您正在防禦范陽王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Fuling Separatists military force!,你正在防御一支涪陵王叛党的军队！,您正在防禦涪陵王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Fuling military force!,你正在防御一支涪陵王的军队！,您正在防禦涪陵王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Gaoliang Separatists military force!,你正在防御一支高凉王叛党的军队！,您正在防禦高涼王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Gaoliang military force!,你正在防御一支高凉王的军队！,您正在防禦高涼王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Gaoliu Separatists military force!,你正在防御一支代王叛党的军队！,您正在防禦代王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Gaoliu military force!,你正在防御一支代王的军队！,您正在防禦代王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Gaoyang Separatists military force!,你正在防御一支高阳王叛党的军队！,您正在防禦高陽王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Gaoyang military force!,你正在防御一支高阳王的军队！,您正在防禦高陽王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Han Separatists military force!,你正在防御一支汉王叛党的军队！,您正在防禦漢王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Han military force!,你正在防御一支汉王的军队！,您正在防禦漢王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Hefei Separatists military force!,你正在防御一支庐江王叛党的军队！,您正在防禦廬江王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Hefei military force!,你正在防御一支庐江王的军队！,您正在防禦廬江王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Hejian Separatists military force!,你正在防御一支河间王叛党的军队！,您正在防禦河間王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Hejian military force!,你正在防御一支河间王的军队！,您正在防禦河間王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Henei Separatists military force!,你正在防御一支河内王叛党的军队！,您正在防禦河內王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Henei military force!,你正在防御一支河内王的军队！,您正在防禦河內王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Hepu Separatists military force!,你正在防御一支合浦王叛党的军队！,您正在防禦合浦王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Hepu military force!,你正在防御一支合浦王的军队！,您正在防禦合浦王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Huainan Separatists military force!,你正在防御一支淮南王叛党的军队！,您正在防禦淮南王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Huainan military force!,你正在防御一支淮南王的军队！,您正在防禦淮南王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Jiangling Separatists military force!,你正在防御一支江陵王叛党的军队！,您正在防禦江陵王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Jiangling military force!,你正在防御一支江陵王的军队！,您正在防禦江陵王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Jiangxia Separatists military force!,你正在防御一支江夏王叛党的军队！,您正在防禦江夏王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Jiangxia military force!,你正在防御一支江夏王的军队！,您正在防禦江夏王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Jiangyang Separatists military force!,你正在防御一支江阳王叛党的军队！,您正在防禦江陽王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Jiangyang military force!,你正在防御一支江阳王的军队！,您正在防禦江陽王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Jiangzhou Separatists military force!,你正在防御一支巴王叛党的军队！,您正在防禦巴王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Jiangzhou military force!,你正在防御一支巴王的军队！,您正在防禦巴王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Jian’an Separatists military force!,你正在防御一支建安王叛党的军队！,您正在防禦建安王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Jian’an military force!,你正在防御一支建安王的军队！,您正在防禦建安王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Jiaozhi Separatists military force!,你正在防御一支交趾王叛党的军队！,您正在防禦交趾王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Jiaozhi military force!,你正在防御一支交趾王的军队！,您正在防禦交趾王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Jincheng Separatists military force!,你正在防御一支金城王叛党的军队！,您正在防禦金城王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Jincheng military force!,你正在防御一支金城王的军队！,您正在防禦金城王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Kuaiji Separatists military force!,你正在防御一支会稽王叛党的军队！,您正在防禦會稽王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Kuaiji military force!,你正在防御一支会稽王的军队！,您正在防禦會稽王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Langye Separatists military force!,你正在防御一支琅琊王叛党的军队！,您正在防禦琅邪王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Langye military force!,你正在防御一支琅琊王的军队！,您正在防禦琅邪王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Lean Separatists military force!,你正在防御一支乐安王叛党的军队！,您正在防禦樂安王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Lean military force!,你正在防御一支乐安王的军队！,您正在防禦樂安王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Liang Separatists military force!,你正在防御一支梁王叛党的军队！,您正在防禦梁王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Liang military force!,你正在防御一支梁王的军队！,您正在防禦梁王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Liaoxi Separatists military force!,你正在防御一支辽西王叛党的军队！,您正在防禦遼西王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Liaoxi military force!,你正在防御一支辽西王的军队！,您正在防禦遼西王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Lingling Separatists military force!,你正在防御一支零陵王叛党的军队！,您正在防禦零陵王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Lingling military force!,你正在防御一支零陵王的军队！,您正在防禦零陵王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Longxi Separatists military force!,你正在防御一支陇西王叛党的军队！,您正在防禦隴西王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Longxi military force!,你正在防御一支陇西王的军队！,您正在防禦隴西王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Luling Separatists military force!,你正在防御一支庐陵王叛党的军队！,您正在防禦廬陵王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Luling military force!,你正在防御一支庐陵王的军队！,您正在防禦廬陵王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Nanhai Separatists military force!,你正在防御一支南海王王叛党的军队！,您正在防禦南海王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Nanhai military force!,你正在防御一支南海王的军队！,您正在防禦南海王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Nanyang Separatists military force!,你正在防御一支南阳王叛党的军队！,您正在防禦南陽王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Nanyang military force!,你正在防御一支南阳王的军队！,您正在防禦南陽王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Pengcheng Separatists military force!,你正在防御一支彭城王叛党的军队！,您正在防禦彭城王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Pengcheng military force!,你正在防御一支彭城王的军队！,您正在防禦彭城王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Piling Separatists military force!,你正在防御一支毗陵王叛党的军队！,您正在防禦毗陵王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Piling military force!,你正在防御一支毗陵王的军队！,您正在防禦毗陵王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Pingyuan Separatists military force!,你正在防御一支平原王叛党的军队！,您正在防禦平原王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Pingyuan military force!,你正在防御一支平原王的军队！,您正在防禦平原王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Poyang Separatists military force!,你正在防御一支鄱阳王叛党的军队！,您正在防禦鄱陽王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Poyang military force!,你正在防御一支鄱阳王的军队！,您正在防禦鄱陽王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Qi Separatists military force!,你正在防御一支齐王叛党的军队！,您正在防禦齊王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Qi military force!,你正在防御一支齐王的军队！,您正在防禦齊王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Qiao Separatists military force!,你正在防御一支谯王叛党的军队！,您正在防禦譙王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Qiao military force!,你正在防御一支谯王的军队！,您正在防禦譙王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Qin Separatists military force!,你正在防御一支秦王叛党的军队！,您正在防禦秦王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Qin military force!,你正在防御一支秦王的军队！,您正在防禦秦王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Qinghe Separatists military force!,你正在防御一支清河王叛党的军队！,您正在防禦清河王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Qinghe military force!,你正在防御一支清河王的军队！,您正在防禦清河王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Rencheng Separatists military force!,你正在防御一支任城王叛党的军队！,您正在防禦任城王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Rencheng military force!,你正在防御一支任城王的军队！,您正在防禦任城王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Ru'nan Separatists military force!,你正在防御一支汝南王叛党的军队！,您正在防禦汝南王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Ru'nan military force!,你正在防御一支汝南王的军队！,您正在防禦汝南王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Shouchun Separatists military force!,你正在防御一支扬州王叛党的军队！,您正在防禦揚州王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Shouchun military force!,你正在防御一支扬州王的军队！,您正在防禦揚州王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Shunyang Separatists military force!,你正在防御一支顺阳王叛党的军队！,您正在防禦順陽王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Shunyang military force!,你正在防御一支顺阳王的军队！,您正在防禦順陽王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Taiyuan Separatists military force!,你正在防御一支太原王叛党的军队！,您正在防禦太原王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Taiyuan military force!,你正在防御一支太原王的军队！,您正在防禦太原王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Tong’an Separatists military force!,你正在防御一支同安王叛党的军队！,您正在防禦同安王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Tong’an military force!,你正在防御一支同安王的军队！,您正在防禦同安王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Wu Separatists military force!,你正在防御一支吴王叛党的军队！,您正在防禦吳王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Wu military force!,你正在防御一支吴王的军队！,您正在防禦吳王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Wuling Separatists military force!,你正在防御一支武陵王叛党的军队！,您正在防禦武陵王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Wuling military force!,你正在防御一支武陵王的军队！,您正在防禦武陵王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Xiabian Separatists military force!,你正在防御一支武都王叛党的军队！,您正在防禦武都王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Xiabian military force!,你正在防御一支武都王的军队！,您正在防禦武都王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Xiapi Separatists military force!,你正在防御一支下邳王叛党的军队！,您正在防禦下邳王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Xiapi military force!,你正在防御一支下邳王的军队！,您正在防禦下邳王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Xihe Separatists military force!,你正在防御一支西河王叛党的军队！,您正在防禦西河王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Xihe military force!,你正在防御一支西河王的军队！,您正在防禦西河王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Xindu Separatists military force!,你正在防御一支新都王叛党的军队！,您正在防禦新都王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Xindu military force!,你正在防御一支新都王的军队！,您正在防禦新都王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Xinye Separatists military force!,你正在防御一支新野王叛党的军队！,您正在防禦新野王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Xinye military force!,你正在防御一支新野王的军队！,您正在防禦新野王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Yan Separatists military force!,你正在防御一支燕王叛党的军队！,您正在防禦燕王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Yan military force!,你正在防御一支燕王的军队！,您正在防禦燕王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Yanmen Separatists military force!,你正在防御一支雁门王叛党的军队！,您正在防禦雁門王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Yanmen military force!,你正在防御一支雁门王的军队！,您正在防禦雁門王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Ye Separatists military force!,你正在防御一支邺王叛党的军队！,您正在防禦鄴王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Ye military force!,你正在防御一支邺王的军队！,您正在防禦鄴王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Yiyang Separatist military force!,你正在防御一支义阳王叛党的军队！,您正在防禦義陽王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Yiyang military force!,你正在防御一支义阳王的军队！,您正在防禦義陽王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Yizhou Separatists military force!,你正在防御一支益州王叛党的军队！,您正在防禦益州王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Yizhou military force!,你正在防御一支益州王的军队！,您正在防禦益州王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Yong'an Separatists military force!,你正在防御一支巴东叛党的军队！,您正在防禦巴東王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Yong'an military force!,你正在防御一支巴东王的军队！,您正在防禦巴東王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Yuzhang Separatists military force!,你正在防御一支豫章王叛党的军队！,您正在防禦豫章王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Yuzhang military force!,你正在防御一支豫章王的军队！,您正在防禦豫章王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Zangke Separatists military force!,你正在防御一支牂牁王叛党的军队！,您正在防禦牂牁王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Zangke military force!,你正在防御一支牂牁王的军队！,您正在防禦牂牁王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Zhangwu Separatists military force!,你正在防御一支章武王叛党的军队！,您正在防禦章武王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Zhangwu military force!,你正在防御一支章武王的军队！,您正在防禦章武王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Zhao Separatists military force!,你正在防御一支赵王叛党的军队！,您正在防禦趙王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Zhao military force!,你正在防御一支赵王的军队！,您正在防禦趙王部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Zhongshan Separatists military force!,你正在防御一支中山王叛党的军队！,您正在防禦中山王獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Prince of Zhongshan military force!,你正在防御一支中山王的军队！,您正在防禦中山王部隊的攻擊！,Vanilla,False
+You are defending against a Puyang Commandery military force!,,,Vanilla,False
+You are defending against a Puyang Separatist military force!,,,Vanilla,False
+You are defending against a Qiao Mao Separatist military force!,,,Vanilla,False
+You are defending against a Qiao Mao military force!,,,Vanilla,False
+You are defending against a Runan Commandery Separatists force!,你正在防御一支汝南豪强叛党的军队！,您正在防禦汝南郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Runan Commandery force!,你正在防御一支汝南豪强的军队！,您正在防禦汝南郡部隊的攻擊！,Vanilla,False
+You are defending against a Runan Commandery military force!,你正在防御一支汝南豪强的军队！,您正在防禦汝南郡部隊的攻擊！,Vanilla,False
+You are defending against a Runan Separatists military force!,你正在防御一支汝南叛党的军队！,您正在防禦汝南獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Shamoke Separatists military force!,,,Vanilla,False
+You are defending against a Shamoke military force!,,,Vanilla,False
+You are defending against a Shangdang Commandery force!,你正在防御一支上党豪强的军队！,您正在防禦上黨郡部隊的攻擊！,Vanilla,False
+You are defending against a Shangdang Commandery military force!,你正在防御一支上党豪强的军队！,您正在防禦上黨郡部隊的攻擊！,Vanilla,False
+You are defending against a Shangdang Separatists force!,你正在防御一支上党叛党的军队！,您正在防禦上黨獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Shangdang Separatists military force!,你正在防御一支上党叛党的军队！,您正在防禦上黨獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Shangyong Commandery Separatists force!,你正在防御一支上庸豪强叛党的军队！,您正在防禦上庸郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Shangyong Commandery force!,你正在防御一支上庸豪强的军队！,您正在防禦上庸郡部隊的攻擊！,Vanilla,False
+You are defending against a Shangyong Commandery military force!,你正在防御一支上庸豪强的军队！,您正在防禦上庸郡部隊的攻擊！,Vanilla,False
+You are defending against a Shangyong Separatists military force!,你正在防御一支上庸叛党的军队！,您正在防禦上庸獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Shanyue Rebel military force!,,,Vanilla,False
+You are defending against a Shanyue Separatist military force!,,,Vanilla,False
+You are defending against a Shi Hui Separatist military force!,,,Vanilla,False
+You are defending against a Shi Hui military force!,,,Vanilla,False
+You are defending against a Shi Xie Separatist military force!,你正在防御一支士燮叛党军的军队！,您正在防禦士燮獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Shi Xie military force!,你正在防御一支士燮军的军队！,您正在防禦士燮軍部隊的攻擊！,Vanilla,False
+You are defending against a Shouchun Commandery Separatists force!,你正在防御一支扬州豪强叛党的军队！,您正在防禦揚州郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Shouchun Commandery force!,你正在防御一支扬州豪强的军队！,您正在防禦揚州郡部隊的攻擊！,Vanilla,False
+You are defending against a Shouchun Commandery military force!,你正在防御一支扬州豪强的军队！,您正在防禦揚州郡部隊的攻擊！,Vanilla,False
+You are defending against a Shouchun Separatists military force!,你正在防御一支扬州叛党的军队！,您正在防禦揚州獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Shoufang Commandery military force!,你正在防御一支朔方豪强的军队！,您正在防禦朔方郡部隊的攻擊！,Vanilla,False
+You are defending against a Shoufang Separatists military force!,你正在防御一支朔方叛党的军队！,您正在防禦朔方獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Shuofang Commandery force!,你正在防御一支朔方豪强的军队！,您正在防禦朔方郡部隊的攻擊！,Vanilla,False
+You are defending against a Shuofang Separatists force!,你正在防御一支朔方叛党的军队！,您正在防禦朔方獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Sun Jian Separatist military force!,你正在防御一支孙坚叛党军的军队！,您正在防禦孫堅獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Sun Jian military force!,你正在防御一支孙坚军的军队！,您正在防禦孫堅軍部隊的攻擊！,Vanilla,False
+You are defending against a Taishan Commandery Separatists force!,你正在防御一支泰山豪强叛党的军队！,您正在防禦泰山郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Taishan Commandery force!,你正在防御一支泰山豪强的军队！,您正在防禦泰山郡部隊的攻擊！,Vanilla,False
+You are defending against a Taishan Commandery military force!,你正在防御一支泰山豪强的军队！,您正在防禦泰山郡部隊的攻擊！,Vanilla,False
+You are defending against a Taishan Separatists military force!,你正在防御一支泰山叛党的军队！,您正在防禦泰山獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Taiyuan Commandery force!,你正在防御一支太原豪强的军队！,您正在防禦太原郡部隊的攻擊！,Vanilla,False
+You are defending against a Taiyuan Commandery military force!,你正在防御一支太原豪强的军队！,您正在防禦太原郡部隊的攻擊！,Vanilla,False
+You are defending against a Taiyuan Separatists force!,你正在防御一支太原叛党的军队！,您正在防禦太原獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Taiyuan Separatists military force!,你正在防御一支太原叛党的军队！,您正在防禦太原獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Tao Qian military force!,你正在防御一支陶谦的军队！,您正在防禦陶謙軍部隊的攻擊！,Vanilla,False
+You are defending against a Tong'an Commandery Separatists force!,你正在防御一支同安豪强叛党的军队！,您正在防禦同安郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Tong'an Commandery force!,你正在防御一支同安豪强的军队！,您正在防禦同安郡部隊的攻擊！,Vanilla,False
+You are defending against a Tongan Commandery military force!,你正在防御一支同安豪强的军队！,您正在防禦同安郡部隊的攻擊！,Vanilla,False
+You are defending against a Tongan Separatists military force!,你正在防御一支同安叛党的军队！,您正在防禦同安獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Wang Kuang military force!,你正在防御一支王匡的军队！,您正在防禦王匡軍部隊的攻擊！,Vanilla,False
+You are defending against a Wang Lang military force!,你正在防御一支王朗的军队！,您正在防禦王朗軍部隊的攻擊！,Vanilla,False
+You are defending against a Wang Rui military force!,,,Vanilla,False
+You are defending against a Wei Commandery military force!,,,Vanilla,False
+You are defending against a Wei Separatist military force!,,,Vanilla,False
+You are defending against a Weijun Commandery force!,你正在防御一支魏郡豪强的军队！,您正在防禦魏郡部隊的攻擊！,Vanilla,False
+You are defending against a Weijun Commandery military force!,你正在防御一支魏郡豪强的军队！,您正在防禦魏郡部隊的攻擊！,Vanilla,False
+You are defending against a Weijun Separatists force!,你正在防御一支魏郡豪强叛党的军队！,您正在防禦魏郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Weijun Separatists military force!,你正在防御一支魏郡叛党的军队！,您正在防禦魏郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Wuling Commandery force!,你正在防御一支武陵豪强的军队！,您正在防禦武陵郡部隊的攻擊！,Vanilla,False
+You are defending against a Wuling Commandery military force!,你正在防御一支武陵豪强的军队！,您正在防禦武陵郡部隊的攻擊！,Vanilla,False
+You are defending against a Wuling Separatists force!,你正在防御一支武陵豪强叛党的军队！,您正在防禦武陵獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Wuling Separatists military force!,你正在防御一支武陵叛党的军队！,您正在防禦武陵獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Wuwei Commandery Separatists force!,你正在防御一支武威豪强叛党的军队！,您正在防禦武威郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Wuwei Commandery force!,你正在防御一支武威豪强的军队！,您正在防禦武威郡部隊的攻擊！,Vanilla,False
+You are defending against a Wuwei Commandery military force!,你正在防御一支武威豪强的军队！,您正在防禦武威郡部隊的攻擊！,Vanilla,False
+You are defending against a Wuwei Separatists military force!,你正在防御一支武威叛党的军队！,您正在防禦武威獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Xiabian Commandery Separatists force!,你正在防御一支武都豪强叛党的军队！,您正在防禦武都郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Xiabian Commandery force!,你正在防御一支武都豪强的军队！,您正在防禦武都郡部隊的攻擊！,Vanilla,False
+You are defending against a Xiabian Commandery military force!,你正在防御一支武都豪强的军队！,您正在防禦武都郡部隊的攻擊！,Vanilla,False
+You are defending against a Xiabian Separatists military force!,你正在防御一支武都叛党的军队！,您正在防禦武都獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Xiangyang Commandery force!,你正在防御一支襄阳豪强的军队！,您正在防禦襄陽郡部隊的攻擊！,Vanilla,False
+You are defending against a Xiangyang Commandery military force!,你正在防御一支襄阳豪强的军队！,您正在防禦襄陽郡部隊的攻擊！,Vanilla,False
+You are defending against a Xiangyang Separatists force!,你正在防御一支襄阳豪强叛党的军队！,您正在防禦襄陽獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Xiangyang Separatists military force!,你正在防御一支襄阳叛党的军队！,您正在防禦襄陽獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Xihe Commandery Separatists force!,你正在防御一支西河豪强叛党的军队！,您正在防禦西河郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Xihe Commandery force!,你正在防御一支西河豪强的军队！,您正在防禦西河郡部隊的攻擊！,Vanilla,False
+You are defending against a Xihe Commandery military force!,你正在防御一支西河豪强的军队！,您正在防禦西河郡部隊的攻擊！,Vanilla,False
+You are defending against a Xihe Separatists military force!,你正在防御一支西河叛党的军队！,您正在防禦西河獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Xin Xuan Separatist military force!,,,Vanilla,False
+You are defending against a Xin Xuan military force!,,,Vanilla,False
+You are defending against a Xindu Commandery force!,你正在防御一支新都豪强的军队！,您正在防禦新都郡部隊的攻擊！,Vanilla,False
+You are defending against a Xindu Commandery military force!,你正在防御一支新都豪强的军队！,您正在防禦新都郡部隊的攻擊！,Vanilla,False
+You are defending against a Xindu Separatists force!,你正在防御一支新都豪强叛党的军队！,您正在防禦新都獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Xindu Separatists military force!,你正在防御一支新都叛党的军队！,您正在防禦新都獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Xuchang Commandery force!,你正在防御一支颍川豪强的军队！,您正在防禦潁川郡部隊的攻擊！,Vanilla,False
+You are defending against a Xuchang Commandery military force!,你正在防御一支颍川豪强的军队！,您正在防禦潁川郡部隊的攻擊！,Vanilla,False
+You are defending against a Xuchang Separatists force!,你正在防御一支颍川豪强叛党的军队！,您正在防禦潁川獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Xuchang Separatists military force!,你正在防御一支颍川叛党的军队！,您正在防禦潁川獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Yanmen Commandery force!,你正在防御一支雁门豪强的军队！,您正在防禦雁門郡部隊的攻擊！,Vanilla,False
+You are defending against a Yanmen Commandery military force!,你正在防御一支雁门豪强的军队！,您正在防禦雁門郡部隊的攻擊！,Vanilla,False
+You are defending against a Yanmen Separatists force!,你正在防御一支雁门豪强叛党的军队！,您正在防禦雁門獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Yanmen Separatists military force!,你正在防御一支雁门叛党的军队！,您正在防禦雁門獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Ye Commandery Separatists force!,你正在防御一支邺豪强叛党的军队！,您正在防禦鄴郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Ye Commandery force!,你正在防御一支邺豪强的军队！,您正在防禦鄴郡部隊的攻擊！,Vanilla,False
+You are defending against a Ye Commandery military force!,你正在防御一支邺豪强的军队！,您正在防禦鄴郡部隊的攻擊！,Vanilla,False
+You are defending against a Ye Separatists military force!,你正在防御一支邺叛党的军队！,您正在防禦鄴獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Yellow Turban Rebels military force!,你正在防御一支黄巾叛军的军队！,您正在防禦黃巾軍部隊的攻擊！,Vanilla,False
+You are defending against a Ying Shao Separatist military force!,,,Vanilla,False
+You are defending against a Ying Shao military force!,,,Vanilla,False
+You are defending against a Yizhou Commandery Separatists force!,你正在防御一支益州豪强叛党的军队！,您正在防禦益州郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Yizhou Commandery force!,你正在防御一支益州豪强的军队！,您正在防禦益州郡部隊的攻擊！,Vanilla,False
+You are defending against a Yizhou Separatist military force!,,,Vanilla,False
+You are defending against a Yong'an Commandery force!,你正在防御一支巴东豪强的军队！,您正在防禦巴東郡部隊的攻擊！,Vanilla,False
+You are defending against a Yong'an Commandery military force!,你正在防御一支巴东豪强的军队！,您正在防禦巴東郡部隊的攻擊！,Vanilla,False
+You are defending against a Yong'an Separatists force!,你正在防御一支巴东叛党的军队！,您正在防禦巴東獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Yong'an Separatists military force!,你正在防御一支巴东叛党的军队！,您正在防禦巴東獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Yongchang Commandery Separatists force!,你正在防御一支永昌郡国叛党的军队！,您正在防禦永昌郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Yongchang Commandery force!,你正在防御一支永昌郡国的军队！,您正在防禦永昌郡部隊的攻擊！,Vanilla,False
+You are defending against a Youbeiping Commandery force!,你正在防御一支右北平豪强的军队！,您正在防禦右北平郡部隊的攻擊！,Vanilla,False
+You are defending against a Youbeiping Commandery military force!,你正在防御一支右北平豪强的军队！,您正在防禦右北平郡部隊的攻擊！,Vanilla,False
+You are defending against a Youbeiping Separatists force!,你正在防御一支右北平豪强叛党的军队！,您正在防禦右北平獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Youbeiping Separatists military force!,你正在防御一支右北平叛党的军队！,您正在防禦右北平獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Yu Commandery force!,你正在防御一支豫豪强的军队！,您正在防禦豫州郡部隊的攻擊！,Vanilla,False
+You are defending against a Yu Commandery military force!,你正在防御一支豫豪强的军队！,您正在防禦豫州郡部隊的攻擊！,Vanilla,False
+You are defending against a Yu Separatists force!,你正在防御一支豫豪强叛党的军队！,您正在防禦豫州獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Yu Separatists military force!,你正在防御一支豫叛党的军队！,您正在防禦豫州獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Yuan Shao Separatist military force!,你正在防御一支袁绍叛党的军队！,您正在防禦袁紹獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Yuan Shao military force!,你正在防御一支袁绍的军队！,您正在防禦袁紹軍部隊的攻擊！,Vanilla,False
+You are defending against a Yuan Shu Separatist military force!,你正在防御一支袁术叛党的军队！,您正在防禦袁術獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Yuan Shu military force!,你正在防御一支袁术的军队！,您正在防禦袁術軍部隊的攻擊！,Vanilla,False
+You are defending against a Yuan Xi Separatist military force!,,,Vanilla,False
+You are defending against a Yuan Xi military force!,,,Vanilla,False
+You are defending against a Yuan Yi Separatist military force!,,,Vanilla,False
+You are defending against a Yuan Yi military force!,,,Vanilla,False
+You are defending against a Yunnan Commandery Separatists force!,你正在防御一支云南郡国叛党的军队！,您正在防禦雲南郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Yunnan Commandery force!,你正在防御一支云南郡国的军队！,您正在防禦雲南郡部隊的攻擊！,Vanilla,False
+You are defending against a Yuzhang Commandery force!,你正在防御一支豫章豪强的军队！,您正在防禦豫章郡部隊的攻擊！,Vanilla,False
+You are defending against a Yuzhang Commandery military force!,你正在防御一支豫章豪强的军队！,您正在防禦豫章郡部隊的攻擊！,Vanilla,False
+You are defending against a Yuzhang Separatists force!,你正在防御一支豫章豪强叛党的军队！,您正在防禦豫章獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Yuzhang Separatists military force!,你正在防御一支豫章叛党的军队！,您正在防禦豫章獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Zangke Commandery Separatists force!,你正在防御一支牂牁豪强叛党的军队！,您正在防禦牂牁郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Zangke Commandery force!,你正在防御一支牂牁豪强的军队！,您正在防禦牂牁郡部隊的攻擊！,Vanilla,False
+You are defending against a Zangke Commandery military force!,你正在防御一支牂牁豪强的军队！,您正在防禦牂牁郡部隊的攻擊！,Vanilla,False
+You are defending against a Zangke Separatists military force!,你正在防御一支牂牁叛党的军队！,您正在防禦牂牁獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Zhai Rong military force!,你正在防御一支笮融的军队！,您正在防禦笮融軍部隊的攻擊！,Vanilla,False
+You are defending against a Zhang Bao Separatist military force!,,,Vanilla,False
+You are defending against a Zhang Bao military force!,,,Vanilla,False
+You are defending against a Zhang Chao military force!,你正在防御一支张超的军队！,您正在防禦張超軍部隊的攻擊！,Vanilla,False
+You are defending against a Zhang Jue Separatist military force!,,,Vanilla,False
+You are defending against a Zhang Jue military force!,,,Vanilla,False
+You are defending against a Zhang Liang Separatist military force!,,,Vanilla,False
+You are defending against a Zhang Liang military force!,,,Vanilla,False
+You are defending against a Zhang Meng Separatist military force!,,,Vanilla,False
+You are defending against a Zhang Meng military force!,,,Vanilla,False
+You are defending against a Zhang Xiu Separatist military force!,,,Vanilla,False
+You are defending against a Zhang Xiu military force!,,,Vanilla,False
+You are defending against a Zhang Yan Separatist military force!,你正在防御一支张燕叛党的军队！,您正在防禦張燕獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Zhang Yan military force!,你正在防御一支张燕的军队！,您正在防禦張燕軍部隊的攻擊！,Vanilla,False
+You are defending against a Zhang Yang military force!,你正在防御一支张杨的军队！,您正在防禦張楊軍部隊的攻擊！,Vanilla,False
+You are defending against a Zheng Jiang Separatist military force!,你正在防御一支郑姜叛党的军队！,您正在防禦鄭姜獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Zheng Jiang military force!,你正在防御一支郑姜的军队！,您正在防禦鄭姜軍部隊的攻擊！,Vanilla,False
+You are defending against a Zhongshan Commandery force!,你正在防御一支中山豪强的军队！,您正在防禦中山郡部隊的攻擊！,Vanilla,False
+You are defending against a Zhongshan Commandery military force!,你正在防御一支中山豪强的军队！,您正在防禦中山郡部隊的攻擊！,Vanilla,False
+You are defending against a Zhongshan Separatists force!,你正在防御一支中山豪强叛党的军队！,您正在防禦中山獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Zhongshan Separatists military force!,你正在防御一支中山叛党的军队！,您正在防禦中山獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against a Zhou Xin Separatist military force!,,,Vanilla,False
+You are defending against a Zhou Xin military force!,,,Vanilla,False
+You are defending against an Allied military force!,你正在防御一支同盟军的军队！,您正在防禦盟友軍部隊的攻擊！,Vanilla,False
+You are defending against an Anding Commandery force!,你正在防御一支安定豪强的军队！,您正在防禦安定郡部隊的攻擊！,Vanilla,False
+You are defending against an Anding Separatists force!,你正在防御一支安定叛党的军队！,您正在防禦安定獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against an Anping Commandery Separatists force!,你正在防御一支安平豪强叛党的军队！,您正在防禦安平郡獨立勢力部隊的攻擊！,Vanilla,False
+You are defending against an Anping Commandery force!,你正在防御一支安平豪强的军队！,您正在防禦安平郡部隊的攻擊！,Vanilla,False
+You are defending against an Enemy military force!,你正在防御一支敌方军队！,您正在防禦敵軍部隊的攻擊！,Vanilla,False
+Youbeiping,右北平,右北平,Vanilla,False
+Youbeiping Commandery,右北平豪强,右北平郡,Vanilla,False
+Youbeiping Commandery Renegades,右北平豪强乱军,右北平郡叛黨,Vanilla,False
+Youbeiping Separatist Renegades,右北平叛党乱军,右北平獨立勢力叛黨,Vanilla,False
+Youbeiping Separatists,右北平叛党,右北平獨立勢力,Vanilla,False
+Youbeiping Separatists Renegades,右北平叛党乱军,右北平獨立勢力叛黨,Vanilla,False
+Youxia,游侠,遊俠,Vanilla,False
+Yu,豫,豫州,Vanilla,False
+Yu Commandery,豫豪强,豫州郡,Vanilla,False
+Yu Commandery Renegades,豫豪强乱军,豫州郡叛黨,Vanilla,False
+Yu Jin,于禁,于禁,Vanilla,False
+Yu Separatist Renegades,豫叛党乱军,豫州獨立勢力叛黨,Vanilla,False
+Yu Separatists,豫叛党,豫州獨立勢力,Vanilla,False
+Yu Separatists Renegades,豫叛党乱军,豫州獨立勢力叛黨,Vanilla,False
+Yuan,袁,袁,Vanilla,False
+Yuan Anyang,袁氏,袁氏,Lookup,False
+Yuan Shang,袁尚,袁尚,Vanilla,False
+Yuan Shao,袁绍,袁紹,Vanilla,False
+Yuan Shao Renegades,袁绍乱军,袁紹叛黨,Vanilla,False
+Yuan Shao Separatists,袁绍叛党,袁紹獨立勢力,Vanilla,False
+Yuan Shao Separatists Renegades,袁绍叛党乱军,袁紹獨立勢力叛黨,Vanilla,False
+Yuan Shu,袁术,袁術,Vanilla,False
+Yuan Shu Renegades,袁术乱军,袁術叛黨,Vanilla,False
+Yuan Shu Separatists,袁术叛党,袁術獨立勢力,Vanilla,False
+Yuan Shu Separatists Renegades,袁术叛党乱军,袁術獨立勢力叛黨,Vanilla,False
+Yuan Tan,袁谭,袁譚,Vanilla,False
+Yuan Tan Renegades,袁谭乱军,袁譚叛黨,Vanilla,False
+Yuan Tan Separatist Renegades,袁谭叛党乱军,袁譚獨立勢力叛黨,Vanilla,False
+Yuan Tan Separatists,袁谭叛党,袁譚獨立勢力,Vanilla,False
+Yuan Xi,袁熙,袁熙,Vanilla,False
+Yuan Xi Renegades,袁熙乱军,袁熙叛黨,Vanilla,False
+Yuan Xi Separatist Renegades,袁熙叛党乱军,袁熙獨立勢力叛黨,Vanilla,False
+Yuan Xi Separatists,袁熙叛党,袁熙獨立勢力,Vanilla,False
+Yuan Yao,袁耀,袁耀,Lookup,False
+Yuan Yi,袁遗,袁遺,Vanilla,False
+Yuan Yi Renegades,袁遗乱军,袁遺叛黨,Vanilla,False
+Yuan Yi Separatist Renegades,袁遗叛党乱军,袁遺獨立勢力叛黨,Vanilla,False
+Yuan Yi Separatists,袁遗叛党,袁遺獨立勢力,Vanilla,False
+Yue,越,越,Vanilla,False
+Yue Jin,乐进,樂進,Vanilla,False
+Yue Remnant Warriors,山越勇士,越民軍,Vanilla,False
+Yue Separatists,越叛党,越獨立勢力,Vanilla,False
+Yue Tribesmen,山越部民,越人族眾,Vanilla,False
+Yulin Commandery,郁林豪强,鬱林郡,Vanilla,False
+Yulin Commandery Renegades,郁林豪强乱军,鬱林郡叛黨,Vanilla,False
+Yulin Commandery Separatists,郁林豪强叛党,鬱林郡獨立勢力,Vanilla,False
+Yulin Commandery Separatists Renegades,郁林豪强叛党乱军,鬱林郡獨立勢力叛黨,Vanilla,False
+Yulin Separatist Renegades,郁林叛党乱军,鬱林獨立勢力叛黨,Vanilla,False
+Yulin Separatists,郁林叛党,鬱林獨立勢力,Vanilla,False
+Yunnan,云南,雲南,Vanilla,False
+Yunnan Commandery,云南郡国,雲南郡,Vanilla,False
+Yunnan Commandery Renegades,云南郡国乱军,雲南郡叛黨,Vanilla,False
+Yunnan Commandery Separatists,云南郡国叛党,雲南郡獨立勢力,Vanilla,False
+Yunnan Commandery Separatists Renegades,云南郡国叛党乱军,雲南郡獨立勢力叛黨,Vanilla,False
+Yunnan Separatists,云南叛党,雲南獨立勢力,Vanilla,False
+Yunnan Tribes,云南部族,雲南部族,Vanilla,False
+Yunnan Tribes Renegades,云南部族乱军,雲南部族叛黨,Vanilla,False
+Yunnan Tribes Separatists,云南部族叛党,雲南部族獨立勢力,Vanilla,False
+Yunnan Tribes Separatists Renegades,云南部族叛党乱军,雲南部族獨立勢力叛黨,Vanilla,False
+Yuzhang,豫章,豫章,Vanilla,False
+Yuzhang Commandery,豫章豪强,豫章郡,Vanilla,False
+Yuzhang Commandery Renegades,豫章豪强乱军,豫章郡叛黨,Vanilla,False
+Yuzhang Separatist Renegades,豫章叛党乱军,豫章獨立勢力叛黨,Vanilla,False
+Yuzhang Separatists,豫章叛党,豫章獨立勢力,Vanilla,False
+Yuzhang Separatists Renegades,豫章叛党乱军,豫章獨立勢力叛黨,Vanilla,False
+Yuzhang_Separatists,Yuzhang_Separatists,Yuzhang_Separatists,Vanilla,False
+Zang,臧,臧,Vanilla,False
+Zang Ba,臧霸,臧霸,Vanilla,False
+Zang Ba Renegades,臧霸乱军,臧霸叛黨,Vanilla,False
+Zang Ba Separatist Renegades,臧霸叛党乱军,臧霸獨立勢力叛黨,Vanilla,False
+Zang Ba Separatists,臧霸叛党,臧霸獨立勢力,Vanilla,False
+Zangke,牂牁,牂牁,Vanilla,False
+Zangke Commandery,牂牁豪强,牂牁郡,Vanilla,False
+Zangke Commandery Renegades,牂牁豪强乱军,牂牁郡叛黨,Vanilla,False
+Zangke Commandery Separatists,牂牁豪强叛党,牂牁郡獨立勢力,Vanilla,False
+Zangke Commandery Separatists Renegades,牂牁豪强叛党乱军,牂牁郡獨立勢力叛黨,Vanilla,False
+Zangke Separatist Renegades,牂牁叛党乱军,牂牁獨立勢力叛黨,Vanilla,False
+Zangke Separatists,牂牁叛党,牂牁獨立勢力,Vanilla,False
+Zangke Tribes,牂牁部族,牂牁部族,Vanilla,False
+Zangke Tribes Renegades,牂牁部族乱军,牂牁部族叛黨,Vanilla,False
+Zangke Tribes Separatists,牂牁部族叛党,牂牁部族獨立勢力,Vanilla,False
+Zangke Tribes Separatists Renegades,牂牁部族叛党乱军,牂牁部族獨立勢力叛黨,Vanilla,False
+Zealots of the Way,崇道狂士,狂信道士,Vanilla,False
+Zhai,翟,祭,Vanilla,False
+Zhai Rong,笮融,笮融,Vanilla,False
+Zhai Rong Renegades,笮融乱军,笮融叛黨,Vanilla,False
+Zhai Rong Separatists,笮融叛党,笮融獨立勢力,Vanilla,False
+Zhai Rong Separatists Renegades,笮融乱军,笮融獨立勢力叛黨,Vanilla,False
+Zhai Separatists,翟叛党,祭獨立勢力,Vanilla,False
+Zhang Bang,张方,張方,Lookup,False
+Zhang Bao Renegades,张宝乱军,張寶叛黨,Vanilla,False
+Zhang Bao Separatist Renegades,张宝叛党乱军,張寶獨立勢力叛黨,Vanilla,False
+Zhang Bao Separatists,张宝叛党,張寶獨立勢力,Vanilla,False
+Zhang Chao,张超,張超,Vanilla,False
+Zhang Chao Renegades,张超乱军,張超叛黨,Vanilla,False
+Zhang Chao Separatists,张超叛党,張超獨立勢力,Vanilla,False
+Zhang Chao Separatists Renegades,张超乱军,張超獨立勢力叛黨,Vanilla,False
+Zhang Fang,张方,張方,Lookup,False
+Zhang Fei,张飞,張飛,Vanilla,False
+Zhang He,张郃,張郃,Vanilla,False
+Zhang Hong,张纮,張紘,Vanilla,False
+Zhang Jue,张角,張角,Vanilla,False
+Zhang Jue Renegades,张角乱军,張角叛黨,Vanilla,False
+Zhang Jue Separatist Renegades,张角叛党乱军,張角獨立勢力叛黨,Vanilla,False
+Zhang Jue Separatists,张角叛党,張角獨立勢力,Vanilla,False
+Zhang Kai,张闿,張闓,Vanilla,False
+Zhang Liang,张梁,張梁,Vanilla,False
+Zhang Liang Renegades,张梁乱军,張梁叛黨,Vanilla,False
+Zhang Liang Separatist Renegades,张梁叛党乱军,張梁獨立勢力叛黨,Vanilla,False
+Zhang Liang Separatists,张梁叛党,張梁獨立勢力,Vanilla,False
+Zhang Liao,张辽,張遼,Vanilla,False
+Zhang Lu,张鲁,張魯,Vanilla,False
+Zhang Lu Renegades,张鲁乱军,張魯叛黨,Vanilla,False
+Zhang Lu Separatist Renegades,张鲁叛党乱军,張魯獨立勢力叛黨,Vanilla,False
+Zhang Lu Separatists,张鲁叛党,張魯獨立勢力,Vanilla,False
+Zhang Lu Separatists Renegades,张鲁叛党乱军,張魯獨立勢力叛黨,Vanilla,False
+Zhang Meng,张猛,張猛,Vanilla,False
+Zhang Meng Renegades,张猛乱军,張猛叛黨,Vanilla,False
+Zhang Meng Separatist Renegades,张猛叛党乱军,張猛獨立勢力叛黨,Vanilla,False
+Zhang Meng Separatists,张猛叛党,張猛獨立勢力,Vanilla,False
+Zhang Xiu,张绣,張繡,Vanilla,False
+Zhang Xiu Renegades,张绣乱军,張繡叛黨,Vanilla,False
+Zhang Xiu Separatist Renegades,张绣叛党乱军,張繡獨立勢力叛黨,Vanilla,False
+Zhang Xiu Separatists,张绣叛党,張繡獨立勢力,Vanilla,False
+Zhang Xueer,张氏,張氏,Lookup,False
+Zhang Xun,张勋,張勳,Lookup,False
+Zhang Yan,张燕,張燕,Vanilla,False
+Zhang Yan Renegades,张燕乱军,張燕叛黨,Vanilla,False
+Zhang Yan Separatists,张燕叛党,張燕獨立勢力,Vanilla,False
+Zhang Yan Separatists Renegades,张燕叛党乱军,張燕獨立勢力叛黨,Vanilla,False
+Zhang Yang,张杨,張楊,Vanilla,False
+Zhang Yang Renegades,张杨乱军,張楊叛黨,Vanilla,False
+Zhang Yang Separatists,张杨叛党,張楊獨立勢力,Vanilla,False
+Zhang Yang Separatists Renegades,张杨乱军,張楊獨立勢力叛黨,Vanilla,False
+Zhang Zhao,张昭,張昭,Vanilla,False
+Zhanmajian Infantry,斩马劲卒,斬馬劍兵,Vanilla,False
+Zhao Yun,赵云,趙雲,Vanilla,False
+Zheng Jiang Renegades,郑姜乱军,鄭姜叛黨,Vanilla,False
+Zheng Jiang Separatists,郑姜叛党,鄭姜獨立勢力,Vanilla,False
+Zheng Jiang Separatists Renegades,郑姜叛党乱军,鄭姜獨立勢力叛黨,Vanilla,False
+Zheng Lan,郑兰,鄭蘭,Lookup,False
+Zhong,仲,仲,Vanilla,False
+Zhong Separatists,仲叛党,仲獨立勢力,Vanilla,False
+Zhongshan Commandery,中山豪强,中山郡,Vanilla,False
+Zhongshan Commandery Renegades,中山豪强乱军,中山郡叛黨,Vanilla,False
+Zhongshan Separatist Renegades,中山叛党乱军,中山獨立勢力叛黨,Vanilla,False
+Zhongshan Separatists,中山叛党,中山獨立勢力,Vanilla,False
+Zhongshan Separatists Renegades,中山叛党乱军,中山獨立勢力叛黨,Vanilla,False
+Zhongshan_Separatists,Zhongshan_Separatists,Zhongshan_Separatists,Vanilla,False
+Zhongwu,钟吾,鍾吾,Vanilla,False
+Zhongwu Separatists,钟吾叛党,鍾吾獨立勢力,Vanilla,False
+Zhou Tai,周泰,周泰,Vanilla,False
+Zhou Xin,周昕,周昕,Vanilla,False
+Zhou Xin Renegades,周昕乱军,周昕叛黨,Vanilla,False
+Zhou Xin Separatist Renegades,周昕叛党乱军,周昕獨立勢力叛黨,Vanilla,False
+Zhou Xin Separatists,周昕叛党,周昕獨立勢力,Vanilla,False
+Zhou Yu,周瑜,周瑜,Vanilla,False
+Zhu,朱,朱,Vanilla,False
+Zhu Fu,朱符,朱符,Vanilla,False
+Zhu Fu Renegades,朱符乱军,朱符叛黨,Vanilla,False
+Zhu Fu Separatist Renegades,朱符叛党乱军,朱符獨立勢力叛黨,Vanilla,False
+Zhu Fu Separatists,朱符叛党,朱符獨立勢力,Vanilla,False
+Zhuge Liang,诸葛亮,諸葛亮,Vanilla,False
+Zou Yuan,邹氏,鄒氏,Lookup,False
+ally,同盟,盟友,Vanilla,False
+enemy,敌人,敵軍,Vanilla,False
+player,玩家,玩家,Vanilla,False
+Daijun,代郡,代郡,Vanilla,True
+Daijun,代郡豪强,代郡,Vanilla,True
+Fa Zheng,法正,法正,Lookup,True
+Fa Zheng,法正,法正,Vanilla,True
+Generic Wood,木系将军,一般（木）,Vanilla,True
+Generic Wood,木系将领,一般（木）,Vanilla,True
+Liang Separatists,凉州叛党,涼州獨立勢力,Vanilla,True
+Liang Separatists,凉州叛党,涼獨立勢力,Vanilla,True
+Prince of Cangwu Separatists,苍梧王叛党,蒼梧王獨立勢力,Vanilla,True
+Prince of Cangwu Separatists,,蒼梧王獨立勢力,Vanilla,True
+Shi,史,史,Vanilla,True
+Shi,士,士,Vanilla,True
+Wei Separatists,魏叛党,魏獨立勢力,Vanilla,True
+Wei Separatists,魏郡叛党,魏獨立勢力,Vanilla,True
+Yang Feng,杨奉,楊奉,Vanilla,True
+Yang Feng,杨锋,楊鋒,Vanilla,True
+Yang Feng Renegades,杨奉乱军,楊奉叛黨,Vanilla,True
+Yang Feng Renegades,杨锋乱军,楊鋒叛黨,Vanilla,True
+Yang Feng Separatists,杨奉叛党,楊奉獨立勢力,Vanilla,True
+Yang Feng Separatists,杨锋叛党,楊鋒獨立勢力,Vanilla,True
+Yizhou Commandery,夷洲郡国,益州郡,Vanilla,True
+Yizhou Commandery,益州豪强,益州郡,Vanilla,True
+Yizhou Commandery Renegades,夷洲豪强乱军,益州郡叛黨,Vanilla,True
+Yizhou Commandery Renegades,益州豪强乱军,益州郡叛黨,Vanilla,True
+Yizhou Separatist Renegades,夷洲叛党乱军,益州獨立勢力叛黨,Vanilla,True
+Yizhou Separatist Renegades,益州叛党乱军,益州獨立勢力叛黨,Vanilla,True
+Yizhou Separatists,夷洲叛党,益州獨立勢力,Vanilla,True
+Yizhou Separatists,益州叛党,益州獨立勢力,Vanilla,True
+Yizhou Separatists,益州叛党,益獨立勢力,Vanilla,True
+You are attacking a Gao Gan military force!,你正在攻击一支高干军的军队！,您正在攻擊高幹軍的部隊！,Vanilla,True
+You are attacking a Gao Gan military force!,你正在攻击一支高干的军队！,您正在攻擊高幹軍的部隊！,Vanilla,True
+You are attacking a Gongsun Zan Separatist military force!,你正在攻击一支公孙瓒叛党军的军队！,您正在攻擊公孫瓚獨立勢力的部隊！,Vanilla,True
+You are attacking a Gongsun Zan Separatist military force!,你正在攻击一支公孙瓒叛党的军队！,您正在攻擊公孫瓚獨立勢力的部隊！,Vanilla,True
+You are attacking a Han Empire military force!,你正在攻击一支汉帝国军的军队！,您正在攻擊大漢軍的部隊！,Vanilla,True
+You are attacking a Han Empire military force!,你正在攻击一支汉帝国的军队！,您正在攻擊大漢軍的部隊！,Vanilla,True
+You are attacking a Han Sui military force!,你正在攻击一支韩遂军的军队！,您正在攻擊韓遂軍的部隊！,Vanilla,True
+You are attacking a Han Sui military force!,你正在攻击一支韩遂的军队！,您正在攻擊韓遂軍的部隊！,Vanilla,True
+You are attacking a Huang Zu military force!,你正在攻击一支黄祖军的军队！,您正在攻擊黃祖軍的部隊！,Vanilla,True
+You are attacking a Huang Zu military force!,你正在攻击一支黄祖的军队！,您正在攻擊黃祖軍的部隊！,Vanilla,True
+You are attacking a Jia Long military force!,你正在攻击一支贾龙军的军队！,您正在攻擊賈龍軍的部隊！,Vanilla,True
+You are attacking a Jia Long military force!,你正在攻击一支贾龙的军队！,您正在攻擊賈龍軍的部隊！,Vanilla,True
+You are attacking a Kong Zhou military force!,你正在攻击一支孔伷军的军队！,您正在攻擊孔伷軍的部隊！,Vanilla,True
+You are attacking a Kong Zhou military force!,你正在攻击一支孔伷的军队！,您正在攻擊孔伷軍的部隊！,Vanilla,True
+You are attacking a Liu Bei military force!,你正在攻击一支刘备军的军队！,您正在攻擊劉備軍的部隊！,Vanilla,True
+You are attacking a Liu Bei military force!,你正在攻击一支刘备的军队！,您正在攻擊劉備軍的部隊！,Vanilla,True
+You are attacking a Liu Dai military force!,你正在攻击一支刘岱军的军队！,您正在攻擊劉岱軍的部隊！,Vanilla,True
+You are attacking a Liu Dai military force!,你正在攻击一支刘岱的军队！,您正在攻擊劉岱軍的部隊！,Vanilla,True
+You are attacking a Liu Yan military force!,你正在攻击一支刘焉军的军队！,您正在攻擊劉焉軍的部隊！,Vanilla,True
+You are attacking a Liu Yan military force!,你正在攻击一支刘焉的军队！,您正在攻擊劉焉軍的部隊！,Vanilla,True
+You are attacking a Liu Yao military force!,你正在攻击一支刘繇军的军队！,您正在攻擊劉繇軍的部隊！,Vanilla,True
+You are attacking a Liu Yao military force!,你正在攻击一支刘繇的军队！,您正在攻擊劉繇軍的部隊！,Vanilla,True
+You are attacking a Liu Yu military force!,你正在攻击一支刘虞军的军队！,您正在攻擊劉虞軍的部隊！,Vanilla,True
+You are attacking a Liu Yu military force!,你正在攻击一支刘虞的军队！,您正在攻擊劉虞軍的部隊！,Vanilla,True
+You are attacking a Rebel military force!,你正在攻击一支叛军的军队！,您正在攻擊叛軍的部隊！,Vanilla,True
+You are attacking a Rebel military force!,,,Vanilla,True
+You are attacking a Yizhou Commandery military force!,你正在攻击一支夷洲岛豪强的军队！,您正在攻擊夷洲郡的部隊！,Vanilla,True
+You are attacking a Yizhou Commandery military force!,你正在攻击一支益州豪强的军队！,您正在攻擊益州郡的部隊！,Vanilla,True
+You are attacking a Yizhou Commandery military force!,,,Vanilla,True
+You are attacking a Yizhou Separatists military force!,你正在攻击一支夷洲岛叛党的军队！,您正在攻擊夷洲獨立勢力的部隊！,Vanilla,True
+You are attacking a Yizhou Separatists military force!,你正在攻击一支益州叛党的军队！,您正在攻擊益州獨立勢力的部隊！,Vanilla,True
+You are attacking a Zhang Lu Separatist military force!,你正在攻击一支张鲁叛党的军队！,您正在攻擊張魯獨立勢力的部隊！,Vanilla,True
+You are attacking a Zhang Lu Separatist military force!,,,Vanilla,True
+You are attacking a Zhang Lu military force!,你正在攻击一支张鲁的军队！,您正在攻擊張魯軍的部隊！,Vanilla,True
+You are attacking a Zhang Lu military force!,,,Vanilla,True
+You are defending against a Gao Gan military force!,你正在防御一支高干军的军队！,您正在防禦高幹軍部隊的攻擊！,Vanilla,True
+You are defending against a Gao Gan military force!,你正在防御一支高干的军队！,您正在防禦高幹軍部隊的攻擊！,Vanilla,True
+You are defending against a Gongsun Zan Separatist military force!,你正在防御一支公孙瓒叛党军的军队！,您正在防禦公孫瓚獨立勢力部隊的攻擊！,Vanilla,True
+You are defending against a Gongsun Zan Separatist military force!,你正在防御一支公孙瓒叛党的军队！,您正在防禦公孫瓚獨立勢力部隊的攻擊！,Vanilla,True
+You are defending against a Han Empire military force!,你正在防御一支汉帝国军的军队！,您正在防禦大漢軍部隊的攻擊！,Vanilla,True
+You are defending against a Han Empire military force!,你正在防御一支汉帝国的军队！,您正在防禦大漢軍部隊的攻擊！,Vanilla,True
+You are defending against a Han Sui military force!,你正在防御一支韩遂军的军队！,您正在防禦韓遂軍部隊的攻擊！,Vanilla,True
+You are defending against a Han Sui military force!,你正在防御一支韩遂的军队！,您正在防禦韓遂軍部隊的攻擊！,Vanilla,True
+You are defending against a Huang Zu military force!,你正在防御一支黄祖军的军队！,您正在防禦黃祖軍部隊的攻擊！,Vanilla,True
+You are defending against a Huang Zu military force!,你正在防御一支黄祖的军队！,您正在防禦黃祖軍部隊的攻擊！,Vanilla,True
+You are defending against a Jia Long military force!,你正在防御一支贾龙军的军队！,您正在防禦賈龍軍部隊的攻擊！,Vanilla,True
+You are defending against a Jia Long military force!,你正在防御一支贾龙的军队！,您正在防禦賈龍軍部隊的攻擊！,Vanilla,True
+You are defending against a Kong Zhou military force!,你正在防御一支孔伷军的军队！,您正在防禦孔伷軍部隊的攻擊！,Vanilla,True
+You are defending against a Kong Zhou military force!,你正在防御一支孔伷的军队！,您正在防禦孔伷軍部隊的攻擊！,Vanilla,True
+You are defending against a Liu Bei military force!,你正在防御一支刘备军的军队！,您正在防禦劉備軍部隊的攻擊！,Vanilla,True
+You are defending against a Liu Bei military force!,你正在防御一支刘备的军队！,您正在防禦劉備軍部隊的攻擊！,Vanilla,True
+You are defending against a Liu Dai military force!,你正在防御一支刘岱军的军队！,您正在防禦劉岱軍部隊的攻擊！,Vanilla,True
+You are defending against a Liu Dai military force!,你正在防御一支刘岱的军队！,您正在防禦劉岱軍部隊的攻擊！,Vanilla,True
+You are defending against a Liu Yan military force!,你正在防御一支刘焉军的军队！,您正在防禦劉焉軍部隊的攻擊！,Vanilla,True
+You are defending against a Liu Yan military force!,你正在防御一支刘焉的军队！,您正在防禦劉焉軍部隊的攻擊！,Vanilla,True
+You are defending against a Liu Yao military force!,你正在防御一支刘繇军的军队！,您正在防禦劉繇軍部隊的攻擊！,Vanilla,True
+You are defending against a Liu Yao military force!,你正在防御一支刘繇的军队！,您正在防禦劉繇軍部隊的攻擊！,Vanilla,True
+You are defending against a Liu Yu military force!,你正在防御一支刘虞军的军队！,您正在防禦劉虞軍部隊的攻擊！,Vanilla,True
+You are defending against a Liu Yu military force!,你正在防御一支刘虞的军队！,您正在防禦劉虞軍部隊的攻擊！,Vanilla,True
+You are defending against a Rebel military force!,你正在防御一支叛军的军队！,您正在防禦叛軍部隊的攻擊！,Vanilla,True
+You are defending against a Rebel military force!,,,Vanilla,True
+You are defending against a Yizhou Commandery military force!,你正在防御一支夷洲岛豪强的军队！,您正在防禦夷洲郡部隊的攻擊！,Vanilla,True
+You are defending against a Yizhou Commandery military force!,你正在防御一支益州豪强的军队！,您正在防禦益州郡部隊的攻擊！,Vanilla,True
+You are defending against a Yizhou Commandery military force!,,,Vanilla,True
+You are defending against a Yizhou Separatists military force!,你正在防御一支夷洲岛叛党的军队！,您正在防禦夷洲獨立勢力部隊的攻擊！,Vanilla,True
+You are defending against a Yizhou Separatists military force!,你正在防御一支益州叛党的军队！,您正在防禦益州獨立勢力部隊的攻擊！,Vanilla,True
+You are defending against a Zhang Lu Separatist military force!,你正在防御一支张鲁叛党的军队！,您正在防禦張魯獨立勢力部隊的攻擊！,Vanilla,True
+You are defending against a Zhang Lu Separatist military force!,,,Vanilla,True
+You are defending against a Zhang Lu military force!,你正在防御一支张鲁的军队！,您正在防禦張魯軍部隊的攻擊！,Vanilla,True
+You are defending against a Zhang Lu military force!,,,Vanilla,True
+Zhang Bao,张宝,張寶,Vanilla,True
+Zhang Bao,张苞,張苞,Lookup,True

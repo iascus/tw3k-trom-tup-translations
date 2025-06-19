@@ -1,1 +1,74 @@
 Key,Text,Tooltip,English,Source,OverrideByKey,MappedByPattern,MappedByText,Iascus,Vanilla,Leiwai,Procrastinator,PikaMan,Mtu,File
+campaign_localised_strings_string_3k_dlc07_liu_yan_ambition_task_win_duels_objective,,False,Win 1 duels with your heir.,Missing,,,,,,,,,,hv_TEXT_etc.loc.tsv
+campaign_localised_strings_string_3k_dlc07_liu_yan_ambition_task_win_duels_records_objective,,False,Kill 100 units with your heir.,Missing,,,,,,,,,,hv_TEXT_etc.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_capitals,,False,"The Eastern and Western Capitals, forever corrupted by sinister officials. Both must be saved and revitalised.",Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_five_tiger_generals,,False,The pinnacles of unyielding loyalty and bravery to a revitalised Han.,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_jing_1,,False,Not every strategy goes according to plan. One must always adapt to ensure survival and a chance to rebuild.,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_jing_2,,False,"A stable foothold is a must. Xu may not have been the place for you, but Jing will surely be a spring board towards all directions.",Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_leader,,False,"By his resolve to ensure peace in his time, Liu Bei must grow as a worthy warlord in this time of chaos to achieve such a path.",Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_memories,,False,A return to the past when fun and carefree times were more prominent.,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_overcoming_fears,,False,Hurdles must be overcome in order to ensure peace.,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_peach_garden,,False,"This oath sworn by these three strangers binds them ever stronger than the bonds of blood. Now they are sworn forever as brothers, until death does them apart.",Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_pengcheng,,False,Pengcheng holds one of the most esteemed temples. It must be rescued from the clutches of yellow turban rebels and ambitious warmongers.,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_shu_1,,False,It is time for a distant descendant of the Liu to return home and revitalise the dying Han.,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_shu_2,,False,"With Shu secured, the road to unity is getting ever closer.",Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_strategists,,False,A leader not only should acquire abled strategists but also the willingness to listen to their counsel.,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_warriors_of_jing,,False,"With this famed warriors from Jing, the bonds of unity of peace further strengthens.",Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_wives,,False,Liu Bei's charisma can draw in more than one woman.,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_xu_1,,False,You began as an individual without land to call home. Xu is a vast place with many friendly towards you.,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_description_3k_main_ceo_set_liu_bei_unity_xu_2,,False,Securing Xu would be a major step towards your desire of unity.,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_capitals,,False,The Imperial Capitals,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_jing_1,,False,Migratory Maneuvre,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_jing_2,,False,Stable Foothold,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_memories,,False,Childhood Memories,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_overcoming_fears,,False,Overcome Hurdles,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_pengcheng,,False,Rescue the Temple,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_shu_1,,False,Ancestral Homecoming,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_shu_2,,False,Ancestral Heartlands,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_strategists,,False,Grand Strategists,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_warriors_of_jing,,False,Warriors of Jing,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_wives,,False,Idealist's Love Life,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_xu_1,,False,From Humble Beginnings,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_equipped_set_bonuses_title_3k_main_ceo_set_liu_bei_unity_xu_2,,False,Securing a Province,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_achieve_liu_bei_duel_00,,False,Earning Experience,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_achieve_liu_bei_duel_01,,False,Earning Experience,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_achieve_liu_bei_settlement_00,,False,Upstart Warlord,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ceo_nodes_title_3k_main_ceo_liu_bei_unity_achieve_liu_bei_settlement_01,,False,Upstart Warlord,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+effects_description_hv_dummy_effect_northern_army_officer,,True,Gain Colonel of the Northern Army for each objective completed,Missing,,,,,,,,,,hv_TEXT_effects_ceo.loc.tsv
+frontend_faction_leader_unique_features_localised_description_3k_main_unique_features_liu_bei_confederate,,False,[[b]]Path to Unity[[/b]]\\n[[col:scope_description]]Faction feature[[/col]]\\n\\n[[i]]Liu Bei's Path to Unity is a set of unique objectives. Achieving designated objectives gives access to a wide range of faction-wide bonuses or access to additional unique units.[[/i]]\\n\\n[[i]][[col:flavour]]The way towards unity and everlasting peace should be achieved through compassion and cohesion.[[/col]][[/i]],Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_capitals,,False,"The Eastern and Western Capitals, forever corrupted by sinister officials. Both must be saved and revitalised.",Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_five_tiger_generals,,False,The pinnacles of unyielding loyalty and bravery to a revitalised Han.,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_jing_1,,False,Not every strategy goes according to plan. One must always adapt to ensure survival and a chance to rebuild.,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_jing_2,,False,"A stable foothold is a must. Xu may not have been the place for you, but Jing will surely be a spring board towards all directions.",Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_leader,,False,"By his resolve to ensure peace in his time, Liu Bei must grow as a worthy warlord in this time of chaos to achieve such a path.",Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_memories,,False,A return to the past when fun and carefree times were more prominent.,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_overcoming_fears,,False,Hurdles must be overcome in order to ensure peace.,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_peach_garden,,False,"This oath sworn by these three strangers binds them ever stronger than the bonds of blood. Now they are sworn forever as brothers, until death does them apart.",Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_pengcheng,,False,Pengcheng holds one of the most esteemed temples. It must be rescued from the clutches of yellow turban rebels and ambitious warmongers.,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_shu_1,,False,It is time for a distant descendant of the Liu to return home and revitalise the dying Han.,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_shu_2,,False,"With Shu secured, the road to unity is getting ever closer.",Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_strategists,,False,A leader not only should acquire abled strategists but also the willingness to listen to their counsel.,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_warriors_of_jing,,False,"With this famed warriors from Jing, the bonds of unity of peace further strengthens.",Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_wives,,False,Liu Bei's charisma can draw in more than one woman.,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_xu_1,,False,You began as an individual without land to call home. Xu is a vast place with many friendly towards you.,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_3k_main_ceo_set_liu_bei_unity_xu_2,,False,Securing Xu would be a major step towards your desire of unity.,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_description_hv_dummy_hv_incident_liu_feng,,False,"Wishing to preserve the Liu lineage, Liu Bei adopted the son of a righteous warrior as his own. Liu Feng is known for his courage and decisiveness, and his martial ability is beyond question. Now that he is part of the family, it may be time to entrust him with greater responsibility.",Missing,,,,,,,,,,hv_TEXT_events.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_capitals,,False,The Imperial Capitals,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_jing_1,,False,Migratory Maneuvre,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_jing_2,,False,Stable Foothold,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_memories,,False,Childhood Memories,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_overcoming_fears,,False,Overcome Hurdles,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_pengcheng,,False,Rescue the Temple,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_shu_1,,False,Ancestral Homecoming,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_shu_2,,False,Ancestral Heartlands,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_strategists,,False,Grand Strategists,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_warriors_of_jing,,False,Warriors of Jing,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_wives,,False,Idealist's Love Life,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_xu_1,,False,From Humble Beginnings,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_3k_main_ceo_set_liu_bei_unity_xu_2,,False,Securing a Province,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+incidents_localised_title_hv_dummy_hv_incident_liu_feng,,False,Adopted Son,Missing,,,,,,,,,,hv_TEXT_events.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_achieve_liu_bei_duel,,False,Win 1 duel as Liu Bei,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_achieve_liu_bei_settlement,,False,Capture 10 settlements with Liu Bei as commander,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_defeat_cao_cao,,False,Defeat Cao Cao,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_ceo_liu_bei_unity_defeat_lu_bu,,False,Defeat Lu Bu,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
+ui_text_replacements_localised_text_3k_main_startpos_label_lu_zhi_header,,False,Lu Zhi,Missing,,,,,,,,,,!!path_to_unity__.loc.tsv
