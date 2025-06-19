@@ -1,21 +1,13 @@
 eng,zh-cn,zh-tw
 "Hidden Sankes, Rapid Tigers",隐蛇兵与虎捷军,隱蛇兵與虎賁軍
-Animal Handlers,驯兽师,馴獸師
-Artillery,远程砲兵,遠程砲兵
 Bandit,山贼,盜賊
 Bandits,山贼,盜賊
 Black Mountain Bandits,黑山匪徒,黑山匪徒
-Blowpipes,吹箭手,吹箭兵
-Bow Cavalry,持弓骑兵,持弓騎兵
-Bow Infantry,持弓步兵,持弓步兵
 Buqu,部曲,部曲
 Captain,伯长,校尉
 Chen,陈国,陳國
 Combined Weapons Infantry,复合武器步兵,複合武器步兵
 Common,普通,普通
-Crossbow Artillery,弩炮,弩炮
-Crossbow Cavalry,持弩骑兵,持弩騎兵
-Crossbow Infantry,持弩步兵,持弩步兵
 Danyang,丹阳,丹陽
 Dongzhoubing,东洲,東州兵
 Dual Wield Hafted Weapon Cavalry,双斧骑兵,雙斧騎兵
@@ -23,20 +15,16 @@ Dual Wield Hafted Weapon Infantry,双斧步兵,雙斧步兵
 Dual Wield Hand-Ji Infantry,双戟步兵,雙戟步兵
 Dual Wield Sword Cavalry,双剑骑兵,雙劍騎兵
 Dual Wield Sword Infantry,双剑步兵,雙劍步兵
-Elephants,象兵,象兵
 Elite,精锐,精銳
 Enforcer Troop,捕掾队,捕掾隊
 Enforcer troops,捕掾队,捕掾隊
 Enforcer,捕掾队,捕掾隊
 Frontier,北疆,北疆
 Fury of Beihai,北海之怒,北海之怒
-Glaive & Bow Infantry,大刀步兵与弓兵,大刀步兵與弓兵
-Glaive Infantry,大刀步兵,大刀步兵
 Guanxibing,关西,關西
 Gunpowder Infantry,火器步兵,火器步兵
 Hafted Weapon Cavalry,持斧骑兵,持斧騎兵
 Hafted Weapon Infantry,持斧步兵,持斧步兵
-Halberd Infantry,持戟步兵,持戟步兵
 Han Provincial,州属,州屬
 Hand-Ji Infantry,手戟步兵,手戟步兵
 Hebei,河北,河北
@@ -67,17 +55,11 @@ Northern,北军,北軍
 Peasant,农人,農民
 Qiang,羌族,羌族
 Qingzhou,青州,青州
-Ranged Infantry,远程步兵,遠程步兵
 Royal Guard,禁卫,禁衛
 Shanyue,山越,山越
-Slingers,投石兵,投石兵
 Sogd,粟特,粟特
 Southern Foreign,南方外族,南方外族
-Spear Cavalry,持矛骑兵,持槍騎兵
-Spear Infantry,持矛步兵,持槍步兵
 Staff Infantry,持杖步兵,持杖步兵
-Sword Cavalry,持剑骑兵,持劍騎兵
-Sword Infantry,持剑步兵,持劍步兵
 Tiger & Leopard,虎豹,虎豹
 Veteran,宿卫,老練
 White Tiger,白虎,白虎
@@ -103,7 +85,7 @@ infantry,步兵,步兵
 light Infantry,轻装步兵,輕型步兵
 melee cavalry,近战骑兵,近戰騎兵
 melee infantry,近战步兵,近戰步兵
-polearm infantry,持戟步兵,持戟步兵
+polearm infantry,长柄武器步兵,長兵器步兵
 ranged,远程,遠程
 shock cavalry,冲击骑兵,突擊騎兵
 spear,矛兵,槍兵

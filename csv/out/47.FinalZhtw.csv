@@ -3028,7 +3028,7 @@ effects_description_hv_effect_elemental_instinct_redeployment_cost,重新部署�
 effects_description_hv_effect_elemental_resolve_food_mod,糧食生產[[b]]%+n%[[/b]],True
 effects_description_hv_effect_elemental_resolve_health,生命值[[b]]%+n%[[/b]],True
 effects_description_hv_effect_elemental_resolve_health_bodyguard,將領貼身護衛規模[[b]]%+n%[[/b]],True
-effects_description_hv_effect_elemental_resolve_spear_weapon_damage,持戟步兵武器傷害[[b]]%+n%[[/b]],True
+effects_description_hv_effect_elemental_resolve_spear_weapon_damage,長兵器步兵武器傷害[[b]]%+n%[[/b]],True
 effects_description_hv_effect_enable_explosive_trebuchet_shell,可使用：爆裂彈（投石機）,True
 effects_description_hv_effect_food_upkeep_army,糧食配給[[b]]%+n[[/b]],True
 effects_description_hv_effect_ma_teng_cavalry_unique_ability,解鎖騎兵單位一個特殊能力,True
@@ -4853,9 +4853,9 @@ ui_unit_group_parents_onscreen_name_hv_parent_group_cavalry_black,普通騎兵,T
 ui_unit_group_parents_onscreen_name_hv_parent_group_melee_black,普通近戰步兵,True
 ui_unit_group_parents_onscreen_name_hv_parent_group_range_black,普通遠程步兵,True
 ui_unit_group_parents_onscreen_name_hv_parent_group_spear_black,普通長兵器步兵,True
-ui_unit_groupings_onscreen_3k_dlc04_unit_machine_crossbow_watert1,弩炮（義勇）,False
-ui_unit_groupings_onscreen_3k_dlc04_unit_machine_crossbow_watert2,弩炮（部曲）,False
-ui_unit_groupings_onscreen_3k_dlc04_unit_machine_crossbow_watert3,弩炮（精銳）,False
+ui_unit_groupings_onscreen_3k_dlc04_unit_machine_crossbow_watert1,弩砲兵（義勇）,False
+ui_unit_groupings_onscreen_3k_dlc04_unit_machine_crossbow_watert2,弩砲兵（部曲）,False
+ui_unit_groupings_onscreen_3k_dlc04_unit_machine_crossbow_watert3,弩砲兵（精銳）,False
 ui_unit_groupings_onscreen_3k_dlc06_unit_animal_handlers_metalt1,馴獸師（義勇）,False
 ui_unit_groupings_onscreen_3k_dlc06_unit_animal_handlers_metalt2,馴獸師（部曲）,False
 ui_unit_groupings_onscreen_3k_dlc06_unit_animal_handlers_metalt3,馴獸師（精銳）,False
@@ -4880,9 +4880,9 @@ ui_unit_groupings_onscreen_3k_dlc06_unit_juggernaut_blackt3,火獸車（精銳�
 ui_unit_groupings_onscreen_3k_dlc06_unit_slingers_watert1,投石兵（義勇）,False
 ui_unit_groupings_onscreen_3k_dlc06_unit_slingers_watert2,投石兵（部曲）,False
 ui_unit_groupings_onscreen_3k_dlc06_unit_slingers_watert3,投石兵（精銳）,False
-ui_unit_groupings_onscreen_3k_main_unit_artillery_watert1,遠程砲兵（義勇）,False
-ui_unit_groupings_onscreen_3k_main_unit_artillery_watert2,遠程砲兵（部曲）,False
-ui_unit_groupings_onscreen_3k_main_unit_artillery_watert3,遠程砲兵（精銳）,False
+ui_unit_groupings_onscreen_3k_main_unit_artillery_watert1,砲兵（義勇）,False
+ui_unit_groupings_onscreen_3k_main_unit_artillery_watert2,砲兵（部曲）,False
+ui_unit_groupings_onscreen_3k_main_unit_artillery_watert3,砲兵（精銳）,False
 ui_unit_groupings_onscreen_3k_main_unit_axe_cavalry_eartht1,持斧騎兵（義勇）,False
 ui_unit_groupings_onscreen_3k_main_unit_axe_cavalry_eartht2,持斧騎兵（部曲）,False
 ui_unit_groupings_onscreen_3k_main_unit_axe_cavalry_eartht3,持斧騎兵（精銳）,False

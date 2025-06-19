@@ -372,9 +372,9 @@ Armour protects precious warhorses from enemy projectiles.,2,,保护马匹免于
 Army,3,,,hv_TEXT_etc.loc.tsv
 Army of the Great Banner,1,集兵练卒,,hv_TEXT_events.loc.tsv
 Artillery,4,远程砲兵,,hv_TEXT_unit_ui_group_t1.loc.tsv
-Artillery (Buqu),1,,远程砲兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
-Artillery (Elite),1,,远程砲兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
-Artillery (Militia),1,,远程砲兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
+Artillery (Buqu),1,,霹雳车（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
+Artillery (Elite),1,,霹雳车（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
+Artillery (Militia),1,,霹雳车（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 "As Sun Ce's strength rises, his grip on rationality weakens…",1,,孙策虽愈战愈勇，但肆意猛虎愈无慎行...,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 As accurate and deadly as a viper’s strike.,1,,,[02]__MTU_items__Weapons.loc.tsv
 "As big as it is, heavy but strong",1,,,[02]__MTU_items__Weapons.loc.tsv
@@ -473,13 +473,13 @@ Bomb Slingers,1,爆弹兵,,hv_TEXT_unit_text_replacements.loc.tsv
 Bosom Buddy,1,,,[01]__MTU_generals__Metal_sentienl.loc.tsv
 Both parties agreed to Lü Bu’s terms and watched in total awe as his arrow slices the plume free from one hundred fifty paces.,1,,,[04]__MTU_events__Common.loc.tsv
 "Bound by loyalty to Liu Bei, the Oath Fellows are a testament to the strength of unity over individual prowess. While not equipped with the finest weapons, their shared glaive and the collective spirit of their bond allow them to stand firm in defense and strike with coordinated precision in attack. This unit, mirroring the fraternal bond of Liu Bei, Guan Yu, and Zhang Fei, represents a blend of courage and tactical flexibility, growing more competent with each battle. Their adaptability on the field, capable of shifting seamlessly between offensive thrusts and defensive stands, reflects their deep commitment to their cause and to each other. In the Oath Fellows, the essence of their loyalty is not just a moral virtue but a tactical advantage, enabling them to overcome challenges that would daunt lesser units.",1,结义弟兄发誓效忠刘备，积力之所举，无不胜也。虽未装备最精良的武器，但以一柄长刀和结义之心，他们可在防守时坚如磐石，在进攻时精准协作。此部队犹如刘关张之间的兄弟情义，拥有勇气与灵活战术的完美结合，每一战皆使他们更臻强大。他们在战场上灵活应变，能够在进攻和防守之间无缝切换。对于结义弟兄来说，忠诚的精髓不仅是道德美德，更是战术优势，这使他们能够克服其他部队难以逾越的挑战。,,hv_TEXT_unit_long_desc.loc.tsv
-Bow Cavalry (Buqu),8,,持弓骑兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
-Bow Cavalry (Elite),7,,持弓骑兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
-Bow Cavalry (Militia),7,,持弓骑兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
-Bow Infantry (Buqu),6,,持弓步兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
-Bow Infantry (Captain),1,,持弓步兵（伯长）,hv_TEXT_unit_ui_group_VM.loc.tsv
-Bow Infantry (Elite),8,,持弓步兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
-Bow Infantry (Militia),6,,持弓步兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
+Bow Cavalry (Buqu),8,,弓骑兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
+Bow Cavalry (Elite),7,,弓骑兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
+Bow Cavalry (Militia),7,,弓骑兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
+Bow Infantry (Buqu),6,,弓步兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
+Bow Infantry (Captain),1,,弓步兵（伯长）,hv_TEXT_unit_ui_group_VM.loc.tsv
+Bow Infantry (Elite),8,,弓步兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
+Bow Infantry (Militia),6,,弓步兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 "Brandishing their Ji expertly, these men will uphold the fearsome reputation of the Xiliang army.",1,这些人熟练地挥舞着战戟，他们会维护西凉军可怕的声誉。,,hv_TEXT_unit_desc.loc.tsv
 Bravery drives a warrior to battle more effectively than any general; a great axe keeps them there.,1,勇气是最好的将领，能带领士兵踏上沙场。良斧在手，则能让士兵在沙场存活。,,hv_TEXT_unit_desc.loc.tsv
 Brawl,5,,熊罴,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
@@ -617,15 +617,15 @@ Covers ally troops to retreat safely.,1,,掩护友军安全撤离。,hv_TEXT_uni
 Coward,7,,懦夫,[03]__MTU_skills__Passive_buff.loc.tsv
 Crippling Strike,4,,摧心,[03]__MTU_skills___Projectile.loc.tsv
 Crossbow Artillery,4,弩炮,,hv_TEXT_unit_ui_group_t1.loc.tsv
-Crossbow Artillery (Buqu),1,,弩炮（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
-Crossbow Artillery (Elite),1,,弩炮（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
-Crossbow Artillery (Militia),1,,弩炮（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
-Crossbow Cavalry (Buqu),4,,持弩骑兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
-Crossbow Cavalry (Elite),4,,持弩骑兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
-Crossbow Cavalry (Militia),4,,持弩骑兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
-Crossbow Infantry (Buqu),13,,持弩步兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
-Crossbow Infantry (Elite),12,,持弩步兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
-Crossbow Infantry (Militia),11,,持弩步兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
+Crossbow Artillery (Buqu),1,,弩砲车（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
+Crossbow Artillery (Elite),1,,弩砲车（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
+Crossbow Artillery (Militia),1,,弩砲车（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
+Crossbow Cavalry (Buqu),4,,弩骑兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
+Crossbow Cavalry (Elite),4,,弩骑兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
+Crossbow Cavalry (Militia),4,,弩骑兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
+Crossbow Infantry (Buqu),13,,弩步兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
+Crossbow Infantry (Elite),12,,弩步兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
+Crossbow Infantry (Militia),11,,弩步兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 Crossing of the River Sanzu,4,,黄泉,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Cruel Command,9,,强令,[03]__MTU_skills__Active_buff.loc.tsv
 Cruelty,1,,,[04]__MTU_events__Common.loc.tsv
@@ -737,9 +737,9 @@ Ecstasy,5,,好战,hv_TEXT_unit_abilities.loc.tsv
 Eight Principles of Yong,1,,,[02]__MTU_items__Accessory.loc.tsv
 Element of Surprise,4,,奇袭,[03]__MTU_skills__Active_debuff.loc.tsv
 Elemental Vigour,1,,龙胆,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Elephants (Buqu),3,,象兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
-Elephants (Elite),3,,象兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
-Elephants (Militia),3,,象兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
+Elephants (Buqu),3,,战象（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
+Elephants (Elite),3,,战象（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
+Elephants (Militia),3,,战象（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 Elite Archers,1,,精锐弓箭手,hv_TEXT_unit_text_replacements.loc.tsv
 Elite Crossbowmen,1,,精锐弩兵,hv_TEXT_unit_text_replacements.loc.tsv
 Elite General,2,良将,,[01]__MTU_generals__Wood_champion.loc.tsv
@@ -891,9 +891,9 @@ Generations working the land will breed a kinship with it.,4,,劳于地者必亲
 Geographic Mastery,2,,巧变,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Ghost of the woods,4,,林鬼,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Give a man a fish and you feed him for a day. Teach him to fish and you feed him for a lifetime.,1,,授人以鱼，不如授人以渔,hv_TEXT_skills_basic.loc.tsv
-Glaive & Bow Infantry (Buqu),5,,大刀步兵与弓兵（部曲）,hv_TEXT_unit_ui_group_t2.loc.tsv
-Glaive & Bow Infantry (Elite),5,,大刀步兵与弓兵（精锐）,hv_TEXT_unit_ui_group_t3.loc.tsv
-Glaive & Bow Infantry (Militia),5,,大刀步兵与弓兵（民兵）,hv_TEXT_unit_ui_group_t1.loc.tsv
+Glaive & Bow Infantry (Buqu),5,,刀弓兵（部曲）,hv_TEXT_unit_ui_group_t2.loc.tsv
+Glaive & Bow Infantry (Elite),5,,刀弓兵（精锐）,hv_TEXT_unit_ui_group_t3.loc.tsv
+Glaive & Bow Infantry (Militia),5,,刀弓兵（民兵）,hv_TEXT_unit_ui_group_t1.loc.tsv
 Glaive Infantry (Buqu),8,,大刀步兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
 Glaive Infantry (Elite),7,,大刀步兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
 Glaive Infantry (Militia),7,,大刀步兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
@@ -1764,9 +1764,9 @@ Sound Advice,5,,劝谏,[03]__MTU_skills__Active_buff.loc.tsv
 Southern Foreign Rangers,1,,南方外族游击兵,hv_TEXT_unit_text_replacements.loc.tsv
 Southern Foreign Shield Bearers,1,,南方外族持盾者,hv_TEXT_unit_text_replacements.loc.tsv
 Southern Foreign Warriors,1,,南方外族勇士,hv_TEXT_unit_text_replacements.loc.tsv
-Spear Cavalry (Buqu),6,,持矛骑兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
-Spear Cavalry (Elite),9,,持矛骑兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
-Spear Cavalry (Militia),6,,持矛骑兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
+Spear Cavalry (Buqu),6,,枪骑兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
+Spear Cavalry (Elite),9,,枪骑兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
+Spear Cavalry (Militia),6,,枪骑兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 Spear Infantry (Buqu),8,,持矛步兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
 Spear Infantry (Captain),1,,持矛步兵（伯长）,hv_TEXT_unit_ui_group_VM.loc.tsv
 Spear Infantry (Elite),7,,持矛步兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
@@ -1831,14 +1831,14 @@ Swallow,4,,燕翔,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Sweeping Arc,5,,弧光斩,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Swift Fingers,2,,妙手,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 Swift Steps,2,,运步如飞,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
-Sword Cavalry (Buqu),8,,持剑骑兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
-Sword Cavalry (Captain),1,,持剑骑兵（伯长）,hv_TEXT_unit_ui_group_VM.loc.tsv
-Sword Cavalry (Elite),9,,持剑骑兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
-Sword Cavalry (Militia),8,,持剑骑兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
-Sword Infantry (Buqu),8,,持剑步兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
-Sword Infantry (Captain),1,,持剑步兵（伯长）,hv_TEXT_unit_ui_group_VM.loc.tsv
-Sword Infantry (Elite),8,,持剑步兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
-Sword Infantry (Militia),7,,持剑步兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
+Sword Cavalry (Buqu),8,,剑骑兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
+Sword Cavalry (Captain),1,,剑骑兵（伯长）,hv_TEXT_unit_ui_group_VM.loc.tsv
+Sword Cavalry (Elite),9,,剑骑兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
+Sword Cavalry (Militia),8,,剑骑兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
+Sword Infantry (Buqu),8,,剑步兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
+Sword Infantry (Captain),1,,剑步兵（伯长）,hv_TEXT_unit_ui_group_VM.loc.tsv
+Sword Infantry (Elite),8,,剑步兵（精锐）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
+Sword Infantry (Militia),7,,剑步兵（民兵）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 Tactical Advance,3,,,hv_TEXT_unit_abilities.loc.tsv
 Tactician's Design,1,,,[02]__MTU_items__Accessory.loc.tsv
 Taishan Batters,1,泰山连击兵,,hv_TEXT_unit_text_replacements.loc.tsv
@@ -2640,7 +2640,7 @@ Zou Yuan,1,,邹氏,[01]__MTU_generals__Water_strategist.loc.tsv
 [[b]]%+n%[[/b]] upkeep for Xianchenying,1,,陷阵营维持费[[b]]%+n%[[/b]],hv_TEXT_effects_ceo.loc.tsv
 [[b]]%+n%[[/b]] upkeep for Yue units,1,,山越部队维持费[[b]]%+n%[[/b]],hv_TEXT_effects_technology.loc.tsv
 [[b]]%+n%[[/b]] upkeep for black mountain bandit units,1,,黑山匪徒部队维持费[[b]]%+n%[[/b]],hv_TEXT_effects_pooled_resource.loc.tsv
-[[b]]%+n%[[/b]] weapon damage for polearm infantry,1,,持戟步兵武器伤害[[b]]%+n%[[/b]],hv_TEXT_skills_attributes.loc.tsv
+[[b]]%+n%[[/b]] weapon damage for polearm infantry,1,,长柄武器步兵武器伤害[[b]]%+n%[[/b]],hv_TEXT_skills_attributes.loc.tsv
 [[b]]%+n[[/b]] black mountain,2,,黑山[[b]]%+n[[/b]],hv_TEXT_effects_pooled_resource.loc.tsv
 [[b]]%+n[[/b]] charge bonus for Danyang units,1,,丹阳部队冲锋加成[[b]]%+n[[/b]],hv_TEXT_effects_ceo.loc.tsv
 [[b]]%+n[[/b]] charge bonus for Xianchenying,1,,陷阵营冲锋加成[[b]]%+n[[/b]],hv_TEXT_effects_ceo.loc.tsv

@@ -258,11 +258,6 @@ class LookupFilePlusVanilla(LookupFile):
         'lookup_by_vanilla': LookupByVanilla,
     }
 
-    vanilla_files = [
-        'land_units',
-        'ui_unit_groupings',
-        'ui_unit_group_parents',
-    ]
 
     def _run(self):
         lookup = self.load_file('lookup')
@@ -281,10 +276,19 @@ class LookupFilePlusVanilla(LookupFile):
 
 class LookupByUnitName(LookupFilePlusVanilla):
     step_no = 35
+    vanilla_files = [
+        'land_units',
+        'ui_unit_groupings',
+        'ui_unit_group_parents',
+    ]
 
 
-class LookupByUnitType(LookupFile):
+class LookupByUnitType(LookupFilePlusVanilla):
     step_no = 36
+    vanilla_files = [
+        'ui_unit_group_parents',
+        'ui_unit_groupings',
+    ]
 
 
 class LookupBySkill(LookupFile):
@@ -343,7 +347,10 @@ class MapByPatternZhcn(Step):
         return found
 
     def _get_lookup_dict(self, step):
-        return step.data.set_index('eng')[self.lang_col].to_dict()
+        df = step.data
+        if 'Source' in df.columns:
+            df = df.sort_values(['Source', 'eng']).drop_duplicates(subset='eng')
+        return df.set_index('eng')[self.lang_col].to_dict()
 
     def _run(self):
         data = self.trom_eng.data.fillna('').copy()

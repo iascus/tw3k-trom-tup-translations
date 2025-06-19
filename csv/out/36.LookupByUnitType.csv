@@ -1,111 +1,152 @@
-eng,zh-cn,zh-tw
-"Hidden Sankes, Rapid Tigers",隐蛇兵与虎捷军,隱蛇兵與虎賁軍
-Animal Handlers,驯兽师,馴獸師
-Artillery,远程砲兵,遠程砲兵
-Bandit,山贼,盜賊
-Bandits,山贼,盜賊
-Black Mountain Bandits,黑山匪徒,黑山匪徒
-Blowpipes,吹箭手,吹箭兵
-Bow Cavalry,持弓骑兵,持弓騎兵
-Bow Infantry,持弓步兵,持弓步兵
-Buqu,部曲,部曲
-Captain,伯长,校尉
-Chen,陈国,陳國
-Combined Weapons Infantry,复合武器步兵,複合武器步兵
-Common,普通,普通
-Crossbow Artillery,弩炮,弩炮
-Crossbow Cavalry,持弩骑兵,持弩騎兵
-Crossbow Infantry,持弩步兵,持弩步兵
-Danyang,丹阳,丹陽
-Dongzhoubing,东洲,東州兵
-Dual Wield Hafted Weapon Cavalry,双斧骑兵,雙斧騎兵
-Dual Wield Hafted Weapon Infantry,双斧步兵,雙斧步兵
-Dual Wield Hand-Ji Infantry,双戟步兵,雙戟步兵
-Dual Wield Sword Cavalry,双剑骑兵,雙劍騎兵
-Dual Wield Sword Infantry,双剑步兵,雙劍步兵
-Elephants,象兵,象兵
-Elite,精锐,精銳
-Enforcer Troop,捕掾队,捕掾隊
-Enforcer troops,捕掾队,捕掾隊
-Enforcer,捕掾队,捕掾隊
-Frontier,北疆,北疆
-Fury of Beihai,北海之怒,北海之怒
-Glaive & Bow Infantry,大刀步兵与弓兵,大刀步兵與弓兵
-Glaive Infantry,大刀步兵,大刀步兵
-Guanxibing,关西,關西
-Gunpowder Infantry,火器步兵,火器步兵
-Hafted Weapon Cavalry,持斧骑兵,持斧騎兵
-Hafted Weapon Infantry,持斧步兵,持斧步兵
-Halberd Infantry,持戟步兵,持戟步兵
-Han Provincial,州属,州屬
-Hand-Ji Infantry,手戟步兵,手戟步兵
-Hebei,河北,河北
-Hidden Snakes and Rapid Tigers,隐蛇兵与虎捷军,隱蛇兵與虎賁軍
-House Servant and Local Noble,仆从与豪强,家僕及豪族
-House Servant,家仆,家僕
-Ironfist Cavalry,铁拳骑兵,鐵拳騎兵
-Ironfist,铁拳,鐵拳
-Javelin Throwers,投枪手,擲鋋兵
-Ji Cavalry,持戟骑兵,持戟騎兵
-Ji Infantry,持戟步兵,持戟步兵
-Jianan Vigilante,建安巡守,建安巡守
-Jingchu,荆楚,荊楚
-Jiuzhen,九真,九真
-Juggernaut,木兽,火獸車
-Local Noble,士族,士族
-Long Spear Infantry,长矛骑兵,長槍步兵
-Long Sword Infantry,长剑步兵,長劍步兵
-Mercenary,雇佣,僱傭
-Militia,民兵,義勇
-Mob,暴民,暴民
-Northern Army Buqu,北军部曲,北軍部曲
-Northern Army Elite,北军精锐,北軍精銳
-Mounted Archer,骑射手,弓騎兵
-Nanman,南蛮,南蠻
-Nomad,游牧,游牧
-Northern,北军,北軍
-Peasant,农人,農民
-Qiang,羌族,羌族
-Qingzhou,青州,青州
-Ranged Infantry,远程步兵,遠程步兵
-Royal Guard,禁卫,禁衛
-Shanyue,山越,山越
-Slingers,投石兵,投石兵
-Sogd,粟特,粟特
-Southern Foreign,南方外族,南方外族
-Spear Cavalry,持矛骑兵,持槍騎兵
-Spear Infantry,持矛步兵,持槍步兵
-Staff Infantry,持杖步兵,持杖步兵
-Sword Cavalry,持剑骑兵,持劍騎兵
-Sword Infantry,持剑步兵,持劍步兵
-Tiger & Leopard,虎豹,虎豹
-Veteran,宿卫,老練
-White Tiger,白虎,白虎
-Wuhuan,乌桓,烏桓
-Xianbei,鲜卑,鮮卑
-Xianchenying,陷阵营,陷陣營
-Xiliang Army,西凉军,西涼軍
-Xiliang Army Buqu,西凉军部曲,西涼軍部曲
-Xiliang Army Elite,西凉军精锐,西涼軍精銳
-Xiliang,西凉,西涼
-Xiongnu,匈奴,匈奴
-Yellow Turbans,黄巾军,黃巾軍
-Yuan Rong,元戎,元戎
-Yue,山越,越族
-all cavalry,所有骑兵,所有騎兵
-all characters,所有人物,所有人物
-black mountain bandit,黑山匪徒,黑山匪徒
-captain retinues,伯长部曲,校尉部曲
-cavalry,骑兵,騎兵
-characters,人物,人物
-heavy infantry,重装步兵,重型步兵
-infantry,步兵,步兵
-light Infantry,轻装步兵,輕型步兵
-melee cavalry,近战骑兵,近戰騎兵
-melee infantry,近战步兵,近戰步兵
-polearm infantry,持戟步兵,持戟步兵
-ranged,远程,遠程
-shock cavalry,冲击骑兵,突擊騎兵
-spear,矛兵,槍兵
-the Northern Army,北军,北軍
-the northern army,北军,北軍
+eng,zh-cn,zh-tw,Source,Duplicated
+"A javelin is made to fly free, from the grip of the warrior to the chest of the enemy in a single, fluid motion.",人们制造标枪就是为了让它自由飞翔，从勇士的手中到敌人的胸膛划出一道简洁而流畅的抛物线。,鐵鋋外型便於投擲，由士卒之手流利劃過空中直取敵人胸膛。,Vanilla,False
+"A quick sting in the neck, then a light-headedness, then… nothing.",起初只感觉脖子被蛰了一下，旋即有些头重脚轻，然后……就什么都感觉不到了。,脖頸挨了一記之後，會感覺頭昏眼花，接著便不醒人事。,Vanilla,False
+"A rock may seem a simple thing, but in its brutal purpose it has few equals.",石头看似朴素，但倘若用作凶器，则世间少有能与之相较之物。,石塊看似無甚出奇，論殺傷力卻是難逢敵手。,Vanilla,False
+"Able to severely impair the efficiency of enemy units and generals in the battle.  They also provide use of formations to nearby friendly units. However, they are extremely fragile. Best grouped with retinues of Ranged Infantry.",可以有效削弱敌军部队或将领的作战效能，也可以为友军布阵，但自身十分脆弱，最好配合远程步兵部曲,能夠大幅降低敵軍單位和將領的作戰效率，還可讓鄰近的友軍單位編列陣形，但也極度脆弱。最適合與遠程步兵部曲一同編組。,Vanilla,False
+Animal Handlers,驯兽师,馴獸師,Vanilla,False
+Artillery,霹雳车,砲兵,Vanilla,False
+Axe Cavalry,斧骑兵,持斧騎兵,Vanilla,False
+Axe Infantry,斧步兵,持斧步兵,Vanilla,False
+Bandit,山贼,盜賊,Lookup,False
+Bandits,山贼,盜賊,Lookup,False
+"Best used to counter missile units, but vulnerable in melee.",最善于反制远程部队，但在近战中较为脆弱,最善於反制遠程單位，但在近戰中很脆弱。,Vanilla,False
+"Best used to engage enemy generals; however, weaker against units. Best grouped with retinues of Spear Infantry and Glaive Infantry.",最善对抗敌军将领，但对抗部队能力欠佳。最好配合持矛步兵或大刀步兵部曲,最善於與敵軍將領作戰，但不擅長與一般單位作戰。最適合與持槍步兵和大刀步兵部曲一同編組。,Vanilla,False
+Black Mountain Bandits,黑山匪徒,黑山匪徒,Lookup,False
+Blowpipes,吹箭手,吹箭兵,Vanilla,False
+Bow Cavalry,弓骑兵,持弓騎兵,Vanilla,False
+Bow Infantry,弓步兵,持弓步兵,Vanilla,False
+Buqu,部曲,部曲,Lookup,False
+Captain,伯长,校尉,Lookup,False
+Chen,陈国,陳國,Lookup,False
+Combined Weapons Infantry,复合武器步兵,複合武器步兵,Lookup,False
+Common,普通,普通,Lookup,False
+Crossbow Artillery,弩砲车,弩砲兵,Vanilla,False
+Crossbow Cavalry,弩骑兵,持弩騎兵,Vanilla,False
+Crossbow Infantry,弩步兵,持弩步兵,Vanilla,False
+Danyang,丹阳,丹陽,Lookup,False
+Dongzhoubing,东洲,東州兵,Lookup,False
+Dual Wield Hafted Weapon Cavalry,双斧骑兵,雙斧騎兵,Lookup,False
+Dual Wield Hafted Weapon Infantry,双斧步兵,雙斧步兵,Lookup,False
+Dual Wield Hand-Ji Infantry,双戟步兵,雙戟步兵,Lookup,False
+Dual Wield Sword Cavalry,双剑骑兵,雙劍騎兵,Lookup,False
+Dual Wield Sword Infantry,双剑步兵,雙劍步兵,Lookup,False
+Elephants,战象,象兵,Vanilla,False
+Elephants move with purpose. For those in their way? Woe.,象群行进的目的明确。至于螳臂当车之人？自然是悲剧收场。,象群行進時意志堅定，至於阻其去路之人，則只有悲劇下場。,Vanilla,False
+Elite,精锐,精銳,Lookup,False
+Enforcer,捕掾队,捕掾隊,Lookup,False
+Enforcer Troop,捕掾队,捕掾隊,Lookup,False
+Enforcer troops,捕掾队,捕掾隊,Lookup,False
+"Excels at attacking unarmoured opponents, but very vulnerable to cavalry charges.",擅长攻击轻甲部队，但十分惧怕骑兵冲锋,擅長攻擊輕裝目標，但非常害怕騎兵衝鋒。,Vanilla,False
+"Excels at attacking unarmoured opponents, but vulnerable in melee.",擅长对付轻甲部队，但在近战中较为脆弱,擅長攻擊輕裝目標，但在近戰中很脆弱。,Vanilla,False
+"Excels at attacking unarmoured opponents, but vulnerable to missile attacks.",擅长对付轻甲部队，但面对远程攻击较为脆弱,擅長攻擊輕裝目標，但非常害怕遠程攻擊。,Vanilla,False
+"Excels at breaking down walls and igniting buildings, but extremely vulnerable against any attacks.",擅长攻击城墙和烧毁建筑，但面对任何攻击都不堪一击,擅長摧毀城牆、焚燒建築，但對於每一種攻擊都極度缺乏抵禦能力。,Vanilla,False
+"Excels at breaking through enemy troops; however, weaker against other generals. Best grouped with retinues of Shock Cavalry and Polearm Cavalry.",最善突破敌军部队，但对付其他将领能力欠佳。最好配合冲击骑兵和持戟骑兵部曲,擅長突破敵軍部隊，但不擅長與其他將領作戰。最適合與突擊騎兵和長兵器騎兵部曲一同編組。,Vanilla,False
+"Excels at causing large amounts of damage in a short amount of time, but fragile if they remain in combat for a prolonged period of time.",擅长在短时间内造成大量伤害，但若被拖入拉锯战则较为脆弱,擅長在短時間內造成大量傷亡，但在長時間戰鬥中很脆弱。,Vanilla,False
+Excels at engaging enemy generals and highly-skilled foes but easily overwhelmed.,擅长对付敌军将领及高技能对手，但易受到数量压制,善於與敵方將領和技藝高超者交戰，但容易遭到壓制。,Vanilla,False
+"Excels at head-on assaults against the enemy frontline, but very vulnerable to cavalry charges.",擅长迎面攻击敌军前线部队，但十分惧怕骑兵冲锋,擅長正面攻擊敵軍前線，但非常害怕騎兵衝鋒。,Vanilla,False
+Excels at holding out against many enemies but susceptible to armour-piercing damage.,擅长与众多敌军交战，但易受破甲杀伤,善於對抗大批敵人，但易受穿甲傷害。,Vanilla,False
+"Excels at holding the line especially at chokepoints, but has very low damage.",擅长维持阵线，尤其是把手要冲，但是杀伤力较低,擅長堅守關鍵地點，但攻擊力非常低。,Vanilla,False
+"Excels at holding the line, especially at chokepoints, but has very low damage, and has missile weapons to soften up approaching enemies.",擅长维持阵线，尤其是把手要冲，但是杀伤力较低，不过拥有远程武器可以削弱逼近之敌,擅長堅守關鍵地點，但攻擊力非常低，擁有遠程武器可以削弱接近的敵人。,Vanilla,False
+"Excels at inspiring friendly troops, but weaker in melee. Best grouped with retinues of Melee Cavalry.",擅长激励友军部队，但近战能力欠佳。最好配合近战骑兵部曲,擅長激勵友軍，但不擅長近戰。最適合與近戰騎兵部曲一同編組。,Vanilla,False
+"Excels at inspiring troops and fighting at range, but weaker in melee.",擅长鼓舞士气及远程作战，但不善于近战,擅長激勵友軍與遠距作戰，但不利於近戰。,Vanilla,False
+Excels at locking down enemy generals or holding a chokepoint for a long period of time. Best grouped with a retinue of Glaive Infantry and Melee Infantry.,擅长困住敌军将领，或坚守战略要点。最好配合大刀步兵和近战步兵部曲。,擅長纏住敵軍將領，或是長時間堅守關鍵地點。最適合與大刀步兵和近戰步兵部曲一同編組。,Vanilla,False
+"Excels at wearing down enemies without shields and keeping distance, but vulnerable in melee.",擅长在远距离袭扰未装备盾牌的敌军，但在近战中较为脆弱,擅長削弱無盾的敵人並保持一定距離，但在近戰中很脆弱。,Vanilla,False
+"Excels at wearing down enemies without shields, but vulnerable in melee.",擅长打击轻甲部队，但在近战中较为脆弱,擅長削弱無盾的敵人，但在近戰中很脆弱。,Vanilla,False
+Frontier,北疆,北疆,Lookup,False
+"Fury is the staple of the Nanman, as is the destruction it brings.",暴烈如火是南蛮人的特征，正如同其伴随的毁灭。,鬥志及其破壞力皆為南蠻的標誌。,Vanilla,False
+Fury of Beihai,北海之怒,北海之怒,Lookup,False
+Glaive & Bow Infantry,刀弓兵,大刀步兵與弓兵,Vanilla,False
+Glaive Infantry,大刀步兵,大刀步兵,Vanilla,False
+Guanxibing,关西,關西,Lookup,False
+Gunpowder Infantry,火器步兵,火器步兵,Lookup,False
+Hafted Weapon Cavalry,持斧骑兵,持斧騎兵,Lookup,False
+Hafted Weapon Infantry,持斧步兵,持斧步兵,Lookup,False
+Halberd Cavalry,戟骑兵,持戟騎兵,Vanilla,False
+Halberd Infantry,持戟步兵,持戟步兵,Vanilla,False
+Han Provincial,州属,州屬,Lookup,False
+Hand-Ji Infantry,手戟步兵,手戟步兵,Lookup,False
+Hebei,河北,河北,Lookup,False
+"Hidden Sankes, Rapid Tigers",隐蛇兵与虎捷军,隱蛇兵與虎賁軍,Lookup,False
+Hidden Snakes and Rapid Tigers,隐蛇兵与虎捷军,隱蛇兵與虎賁軍,Lookup,False
+House Servant,家仆,家僕,Lookup,False
+House Servant and Local Noble,仆从与豪强,家僕及豪族,Lookup,False
+Ironfist,铁拳,鐵拳,Lookup,False
+Ironfist Cavalry,铁拳骑兵,鐵拳騎兵,Lookup,False
+Javelin Throwers,投枪手,擲鋋兵,Lookup,False
+Ji Cavalry,持戟骑兵,持戟騎兵,Lookup,False
+Ji Infantry,持戟步兵,持戟步兵,Lookup,False
+Jianan Vigilante,建安巡守,建安巡守,Lookup,False
+Jingchu,荆楚,荊楚,Lookup,False
+Jiuzhen,九真,九真,Lookup,False
+Juggernaut,木兽,火獸車,Lookup,False
+Local Noble,士族,士族,Lookup,False
+Long Spear Infantry,长矛骑兵,長槍步兵,Lookup,False
+Long Sword Infantry,长剑步兵,長劍步兵,Lookup,False
+Melee Cavalry,近战骑兵,近戰騎兵,Vanilla,False
+Melee Infantry,近战步兵,近戰步兵,Vanilla,False
+Mercenary,雇佣,僱傭,Lookup,False
+Militia,民兵,義勇,Lookup,False
+Mob,暴民,暴民,Lookup,False
+Mounted Archer,骑射手,弓騎兵,Lookup,False
+Nomad,游牧,游牧,Lookup,False
+Northern,北军,北軍,Lookup,False
+Northern Army Buqu,北军部曲,北軍部曲,Lookup,False
+Northern Army Elite,北军精锐,北軍精銳,Lookup,False
+Peasant,农人,農民,Lookup,False
+Polearm Infantry,长柄武器步兵,長兵器步兵,Vanilla,False
+Qiang,羌族,羌族,Lookup,False
+Qingzhou,青州,青州,Lookup,False
+Ranged Artillery,远程砲兵,遠程砲兵,Vanilla,False
+Ranged Cavalry,远程骑兵,遠程騎兵,Vanilla,False
+Ranged Infantry,远程步兵,遠程步兵,Vanilla,False
+Royal Guard,禁卫,禁衛,Lookup,False
+Ruler of the Han Empire. Cannot be deployed in battles.,汉王朝的统治者，不能参与战斗。,大漢統治者。無法部署至戰鬥中。,Vanilla,False
+Shanyue,山越,山越,Lookup,False
+Shock Cavalry,冲击骑兵,突擊騎兵,Vanilla,False
+Slingers,投石兵,投石兵,Vanilla,False
+Sogd,粟特,粟特,Lookup,False
+Southern Foreign,南方外族,南方外族,Lookup,False
+Spear Cavalry,枪骑兵,持槍騎兵,Vanilla,False
+Spear Infantry,持矛步兵,持槍步兵,Vanilla,False
+Staff Infantry,持杖步兵,持杖步兵,Lookup,False
+Sword Cavalry,剑骑兵,持劍騎兵,Vanilla,False
+Sword Infantry,剑步兵,持劍步兵,Vanilla,False
+The beasts of the land understand its flow; so too do their handlers.,野兽深谙自然之法，其主亦是如此。,禽獸懂得順應自然，其主亦明此理。,Vanilla,False
+The elephant towers above men; a thundering wall of strength.,巨象耸立人群，犹如擎天巨墙。,大象聳立人群，猶如擎天巨牆。,Vanilla,False
+"Though lacking the range of a catapult, the Juggernaut does not want for lack of short-range devastation.",尽管射程不及发石车，但木兽在近距离的破坏力可是丝毫不差。,火獸車射程不及投石器，但短程破壞力倒是一點也不缺。,Vanilla,False
+Tiger & Leopard,虎豹,虎豹,Lookup,False
+To commune with the beasts is to inherit their strength.,与野兽心意相通，即可号令其力。,與禽獸心意相通，即可號令其力。,Vanilla,False
+"Very assault-oriented unit, but vulnerable to missile attacks.",极具攻击性的部队，但面对远程攻击较为脆弱,專精於突襲的單位，但非常害怕遠程攻擊。,Vanilla,False
+White Tiger,白虎,白虎,Lookup,False
+Wuhuan,乌桓,烏桓,Lookup,False
+Xianbei,鲜卑,鮮卑,Lookup,False
+Xianchenying,陷阵营,陷陣營,Lookup,False
+Xiliang,西凉,西涼,Lookup,False
+Xiliang Army,西凉军,西涼軍,Lookup,False
+Xiliang Army Buqu,西凉军部曲,西涼軍部曲,Lookup,False
+Xiliang Army Elite,西凉军精锐,西涼軍精銳,Lookup,False
+Xiongnu,匈奴,匈奴,Lookup,False
+Yellow Turbans,黄巾军,黃巾軍,Lookup,False
+Yuan Rong,元戎,元戎,Lookup,False
+Yue,山越,越族,Lookup,False
+all cavalry,所有骑兵,所有騎兵,Lookup,False
+all characters,所有人物,所有人物,Lookup,False
+black mountain bandit,黑山匪徒,黑山匪徒,Lookup,False
+captain retinues,伯长部曲,校尉部曲,Lookup,False
+cavalry,骑兵,騎兵,Lookup,False
+characters,人物,人物,Lookup,False
+heavy infantry,重装步兵,重型步兵,Lookup,False
+infantry,步兵,步兵,Lookup,False
+light Infantry,轻装步兵,輕型步兵,Lookup,False
+melee cavalry,近战骑兵,近戰騎兵,Lookup,False
+melee infantry,近战步兵,近戰步兵,Lookup,False
+polearm infantry,长柄武器步兵,長兵器步兵,Lookup,False
+ranged,远程,遠程,Lookup,False
+shock cavalry,冲击骑兵,突擊騎兵,Lookup,False
+spear,矛兵,槍兵,Lookup,False
+the Northern Army,北军,北軍,Lookup,False
+the northern army,北军,北軍,Lookup,False
+Nanman,南蛮,南蠻,Lookup,True
+Nanman,蛮将,南蠻,Vanilla,True
+Veteran,宿卫,老練,Lookup,True
+Veteran,宿将,老兵,Vanilla,True

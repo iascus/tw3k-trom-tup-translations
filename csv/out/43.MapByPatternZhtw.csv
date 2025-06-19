@@ -372,9 +372,9 @@ Armour protects precious warhorses from enemy projectiles.,2,,保護馬匹免於
 Army,3,,,hv_TEXT_etc.loc.tsv
 Army of the Great Banner,1,集兵練卒,,hv_TEXT_events.loc.tsv
 Artillery,4,遠程砲兵,,hv_TEXT_unit_ui_group_t1.loc.tsv
-Artillery (Buqu),1,,遠程砲兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
-Artillery (Elite),1,,遠程砲兵（精銳）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
-Artillery (Militia),1,,遠程砲兵（義勇）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
+Artillery (Buqu),1,,砲兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
+Artillery (Elite),1,,砲兵（精銳）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
+Artillery (Militia),1,,砲兵（義勇）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 "As Sun Ce's strength rises, his grip on rationality weakens…",1,,孫策戰力漸增，卻也愈加感情用事…,hv_TEXT_skills_skill_skill_name_desc.loc.tsv
 As accurate and deadly as a viper’s strike.,1,,,[02]__MTU_items__Weapons.loc.tsv
 "As big as it is, heavy but strong",1,,,[02]__MTU_items__Weapons.loc.tsv
@@ -617,9 +617,9 @@ Covers ally troops to retreat safely.,1,,掩護友軍安全撤離。,hv_TEXT_uni
 Coward,7,,懦夫,[03]__MTU_skills__Passive_buff.loc.tsv
 Crippling Strike,4,,摧心,[03]__MTU_skills___Projectile.loc.tsv
 Crossbow Artillery,4,弩炮,,hv_TEXT_unit_ui_group_t1.loc.tsv
-Crossbow Artillery (Buqu),1,,弩炮（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
-Crossbow Artillery (Elite),1,,弩炮（精銳）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
-Crossbow Artillery (Militia),1,,弩炮（義勇）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
+Crossbow Artillery (Buqu),1,,弩砲兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
+Crossbow Artillery (Elite),1,,弩砲兵（精銳）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
+Crossbow Artillery (Militia),1,,弩砲兵（義勇）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
 Crossbow Cavalry (Buqu),4,,持弩騎兵（部曲）,hv_TEXT_unit_ui_group_t2_VM.loc.tsv
 Crossbow Cavalry (Elite),4,,持弩騎兵（精銳）,hv_TEXT_unit_ui_group_t3_VM.loc.tsv
 Crossbow Cavalry (Militia),4,,持弩騎兵（義勇）,hv_TEXT_unit_ui_group_t1_VM.loc.tsv
@@ -2640,7 +2640,7 @@ Zou Yuan,1,,鄒氏,[01]__MTU_generals__Water_strategist.loc.tsv
 [[b]]%+n%[[/b]] upkeep for Xianchenying,1,,陷陣營維持費[[b]]%+n%[[/b]],hv_TEXT_effects_ceo.loc.tsv
 [[b]]%+n%[[/b]] upkeep for Yue units,1,,越族單位維持費[[b]]%+n%[[/b]],hv_TEXT_effects_technology.loc.tsv
 [[b]]%+n%[[/b]] upkeep for black mountain bandit units,1,,黑山匪徒單位維持費[[b]]%+n%[[/b]],hv_TEXT_effects_pooled_resource.loc.tsv
-[[b]]%+n%[[/b]] weapon damage for polearm infantry,1,,持戟步兵武器傷害[[b]]%+n%[[/b]],hv_TEXT_skills_attributes.loc.tsv
+[[b]]%+n%[[/b]] weapon damage for polearm infantry,1,,長兵器步兵武器傷害[[b]]%+n%[[/b]],hv_TEXT_skills_attributes.loc.tsv
 [[b]]%+n[[/b]] black mountain,2,,黑山[[b]]%+n[[/b]],hv_TEXT_effects_pooled_resource.loc.tsv
 [[b]]%+n[[/b]] charge bonus for Danyang units,1,,丹陽單位衝鋒加成[[b]]%+n[[/b]],hv_TEXT_effects_ceo.loc.tsv
 [[b]]%+n[[/b]] charge bonus for Xianchenying,1,,陷陣營衝鋒加成[[b]]%+n[[/b]],hv_TEXT_effects_ceo.loc.tsv
